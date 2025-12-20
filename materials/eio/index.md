@@ -1,11 +1,7 @@
-# Eio
+# Empirical IO
 
 ## Scope
-(What this folder covers — add 2–3 lines.)
-
-## Reading map
-- (Key papers/books)
-- (Add links if you want)
+Demand estimation, cost/production, competition and conduct, entry/exit, identification, and counterfactual analysis.
 
 ## Notes / files
-- (PDFs, derivations, summaries)
+- [EIO1.pdf](EIO1.pdf)
