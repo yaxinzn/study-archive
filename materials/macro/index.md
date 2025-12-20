@@ -1,7 +1,11 @@
-# macro
+# Macro
 
-## Reading lists
-- [Reading list](reading-list.md)
+## Scope
+(What this folder covers — add 2–3 lines.)
 
-## Notes / PDFs
-- Week template (PDF): [download](notes-weekly-cycle.pdf)
+## Reading map
+- (Key papers/books)
+- (Add links if you want)
+
+## Notes / files
+- (PDFs, derivations, summaries)

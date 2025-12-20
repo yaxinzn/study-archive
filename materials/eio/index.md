@@ -1,5 +1,11 @@
-# Empirical IO
+# Eio
 
-## Files
-- EIO materials (folder): browse above, and click the PDFs below.
-- [EIO1.pdf](EIO1.pdf)
+## Scope
+(What this folder covers — add 2–3 lines.)
+
+## Reading map
+- (Key papers/books)
+- (Add links if you want)
+
+## Notes / files
+- (PDFs, derivations, summaries)
