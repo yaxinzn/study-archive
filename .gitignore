@@ -1,3 +1,5 @@
 
 # Local-only Dropbox mirror
 materials/eio/EIO_Intro/
+.DS_Store
+materials/.DS_Store
