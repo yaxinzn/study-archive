@@ -1,11 +1,4 @@
-# Cf Theory
-
-## Scope
-(What this folder covers — add 2–3 lines.)
-
-## Reading map
-- (Key papers/books)
-- (Add links if you want)
+# CF Theory
 
 ## Notes / files
-- (PDFs, derivations, summaries)
+- [cf_theory1.pdf](cf_theory1.pdf)
