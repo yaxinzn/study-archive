@@ -1,11 +1,5 @@
 # Macro
 
-## Scope
-(What this folder covers — add 2–3 lines.)
-
-## Reading map
-- (Key papers/books)
-- (Add links if you want)
-
 ## Notes / files
-- (PDFs, derivations, summaries)
+- **[Macro1.pdf](Macro1.pdf)**
+- **[Macro2.pdf](Macro2.pdf)**
