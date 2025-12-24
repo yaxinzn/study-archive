@@ -82,6 +82,8 @@ title: Study Cycles
 
 # Study Cycles
 
+**Updates:** see **[NEWS / update log](updates/)**.
+
 I maintain this section as a living study archive—my way of learning the literature deeply and systematically across the core fields that shape modern financial economics. The goal is mastery through repetition: reading, re-deriving, reorganizing, and returning until the key ideas become intuitive and usable.
 
 ## Method: the 7-day loop (Saturday = review)
