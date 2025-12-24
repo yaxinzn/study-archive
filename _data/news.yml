@@ -1,5 +1,7 @@
 # Auto-generated from git log. Do not edit manually.
 - date: "2025-12-24"
+  title: "Remove NEWS from homepage; add Updates button"
+- date: "2025-12-24"
   title: "Remove NEWS from homepage; link to Updates page"
 - date: "2025-12-24"
   title: "Add Updates page for NEWS feed"
@@ -21,5 +23,3 @@
   title: "Add macro PDFs and update Macro page"
 - date: "2025-12-21"
   title: "Add cf_theory1.pdf"
-- date: "2025-12-21"
-  title: "Replace EIO_Intro symlink with real PDF"
