@@ -1,6 +1,5 @@
 ---
 title: Updates
-permalink: /updates/
 ---
 
 <style>
