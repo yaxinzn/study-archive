@@ -2,9 +2,25 @@
 title: Study Cycles
 ---
 
+<style>
+.btn-updates{
+  display: inline-block;
+  padding: 10px 14px;
+  border: 1px solid rgba(0,0,0,.18);
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  background: #fff;
+}
+.btn-updates:hover{
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+</style>
+
 # Study Cycles
 
-**Updates:** see **[NEWS / update log]({{ site.baseurl }}/updates/)**.
+<a class="btn-updates" href="{{ site.baseurl }}/updates/">View Updates (NEWS)</a>
 
 I maintain this section as a living study archive—my way of learning the literature deeply and systematically across the core fields that shape modern financial economics. The goal is mastery through repetition: reading, re-deriving, reorganizing, and returning until the key ideas become intuitive and usable.
 
