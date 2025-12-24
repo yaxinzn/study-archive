@@ -1,5 +1,9 @@
 # Auto-generated from git log. Do not edit manually.
 - date: "2025-12-24"
+  title: "Revise study cycles and implement news section"
+- date: "2025-12-24"
+  title: "Add news section with recent updates"
+- date: "2025-12-24"
   title: "Fix EIO intro link casing"
 - date: "2025-12-24"
   title: "Normalize EIO_intro filename"
@@ -19,7 +23,3 @@
   title: "Fix link to EIO_Intro file format"
 - date: "2025-12-21"
   title: "Track EIO_Intro folder with index.md"
-- date: "2025-12-21"
-  title: "Add EIO_Intro materials"
-- date: "2025-12-21"
-  title: "Add Econometric1 PDF and update Econometrics page"
