@@ -4,7 +4,7 @@
 Demand estimation, cost/production, competition and conduct, entry/exit, identification, and counterfactual analysis.
 
 ## Notes / files
-- **[EIO_intro.pdf](EIO_intro.pdf)**
+- **[EIO_Intro.pdf](EIO_Intro.pdf)**
 - **[EIO1.pdf](EIO1.pdf)**
 - **[EIO2.pdf](EIO2.pdf)**
 - **[EIO3.pdf](EIO3.pdf)**
