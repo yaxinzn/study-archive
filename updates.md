@@ -1,5 +1,6 @@
 ---
 title: Updates
+permalink: /updates/
 ---
 
 <style>
@@ -61,3 +62,7 @@ title: Updates
     </div>
   {% endif %}
 </div>
+
+<p style="margin-top:18px;">
+  <a href="{{ site.baseurl }}/">← Back to Study Cycles</a>
+</p>
