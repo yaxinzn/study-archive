@@ -9,3 +9,4 @@ Contracting, capital structure, governance, and core theory mechanisms.
 - **[cf_theory2_2.pdf](cf_theory2_2.pdf)**
 - **[cf_theory3.pdf](cf_theory3.pdf)**
 - **[cf_theory3_derive.pdf](cf_theory3_derive.pdf)**
+- **[cf_theory4.pdf](cf_theory4.pdf)**
