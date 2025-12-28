@@ -76,22 +76,32 @@ gen_index() {
   local title="$2"
   local scope="$3"
 
-  python3 - <<PY
-from pathlib import Path
-dst = Path("$dst")
-pdfs = sorted(dst.glob("*.pdf"), key=lambda p: p.name.lower())
-lines = []
-lines += [f"# {title}\n\n"]
-lines += ["## Scope\n", f"{scope}\n\n"]
-lines += ["## Notes / files\n"]
-if not pdfs:
-    lines += ["- (No PDFs found.)\n"]
-else:
-    for p in pdfs:
-        lines.append(f"- **[{p.name}]({p.name})**\n")
-(dst / "index.md").write_text("".join(lines), encoding="utf-8")
-print("index.md updated:", dst / "index.md", "PDFs:", len(pdfs))
-PY
+  # Build index.md using pure bash (no fragile python var injection)
+  local idx="$dst/index.md"
+
+  {
+    printf '# %s
+
+' "$title"
+    printf '## Scope
+%s
+
+' "$scope"
+    printf '## Notes / files
+'
+    # List PDFs (sorted)
+    ls -1 "$dst"/*.pdf 2>/dev/null | sed 's|.*/||' | sort -f | while read -r f; do
+      printf -- '- **[%s](%s)**
+' "$f" "$f"
+    done
+    # If no PDFs
+    if ! ls "$dst"/*.pdf >/dev/null 2>&1; then
+      printf -- '- (No PDFs found.)
+'
+    fi
+  } > "$idx"
+
+  echo "index.md updated: $idx"
 }
 
 sync_folder() {
