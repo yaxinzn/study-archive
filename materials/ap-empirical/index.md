@@ -1,11 +1,7 @@
-# Ap Empirical
+# Asset Pricing (Empirical)
 
 ## Scope
-(What this folder covers — add 2–3 lines.)
-
-## Reading map
-- (Key papers/books)
-- (Add links if you want)
+Factors, predictability, anomalies, and methods.
 
 ## Notes / files
-- (PDFs, derivations, summaries)
+- **[DSAP1.pdf](DSAP1.pdf)**
