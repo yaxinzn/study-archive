@@ -4,8 +4,6 @@
 Preferences, uncertainty, general equilibrium, and mechanisms.
 
 ## Notes / files
-
-## Notes / files
 - **[Micro1.pdf](Micro1.pdf)**  
   Consumer choice from utility maximization to KKT, then geometry (tangency, corner, kink) across standard utility classes.
 
