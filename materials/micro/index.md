@@ -1,8 +1,11 @@
 # Micro
 
 ## Scope
-This section builds a coherent micro foundation.
+Preferences, uncertainty, general equilibrium, and mechanisms.
 
 ## Notes / files
-- **[Micro1.pdf](Micro1.pdf)**  
-  This note builds a coherent micro foundation from the consumer choice problem to KKT conditions, then connects the algebra to geometry (tangency, corner, kink) and applies the same toolkit across standard utility classes (Cobb–Douglas, linear, Leontief, CES).
+- **[Micro1.pdf](Micro1.pdf)**
+- **[Micro2.pdf](Micro2.pdf)**
+- **[Micro3.pdf](Micro3.pdf)**
+- **[Micro4.pdf](Micro4.pdf)**
+- **[Micro5.pdf](Micro5.pdf)**
