@@ -1,11 +1,6 @@
-# Ap Theory
+# Asset Pricing (Theory)
 
 ## Scope
-(What this folder covers — add 2–3 lines.)
-
-## Reading map
-- (Key papers/books)
-- (Add links if you want)
+SDF, no-arbitrage, and equilibrium pricing.
 
 ## Notes / files
-- (PDFs, derivations, summaries)
