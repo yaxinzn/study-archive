@@ -1,7 +1,7 @@
 # Micro
 
 ## Scope
-Preferences, uncertainty, general equilibrium, and mechanisms.
+This section builds a coherent micro foundation.
 
 ## Notes / files
 - **[Micro1.pdf](Micro1.pdf)**  
