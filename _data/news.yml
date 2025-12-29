@@ -1,4 +1,6 @@
 # Auto-generated from git log. Do not edit manually.
+- date: "2025-12-29"
+  title: "Macro: add week pages with descriptions"
 - date: "2025-12-28"
   title: "Save local changes"
 - date: "2025-12-28"
@@ -21,5 +23,3 @@
   title: "Add cf_theory PDFs"
 - date: "2025-12-25"
   title: "Add cf_theory PDFs"
-- date: "2025-12-24"
-  title: "Remove NEWS from homepage; add Updates button"
