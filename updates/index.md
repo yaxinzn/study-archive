@@ -9,6 +9,8 @@ title: Updates
   padding: 18px 18px 10px 18px;
   margin: 18px 0 26px 0;
   background: #fff;
+  max-height: 70vh;
+  overflow-y: auto;
 }
 .news-title{
   text-align: center;
