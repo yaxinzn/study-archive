@@ -1,5 +1,8 @@
 # Macro
 
-## Notes / files
-- **[Macro1.pdf](Macro1.pdf)**
-- **[Macro2.pdf](Macro2.pdf)**
+## Scope
+Growth, business cycles, and monetary frameworks.
+
+## Weekly folders
+- **[Week 1](week1/)** — Macro3–Macro4
+- **[Week 2](week2/)** — coming soon
