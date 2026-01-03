@@ -1,5 +1,10 @@
 ---
+layout: sc
 title: Updates
+permalink: /updates/
+hero_title: Updates
+hero_subtitle: Change log
+hero_desc: Commit-based update history for Study Cycles (newest → oldest).
 ---
 
 <style>
@@ -9,6 +14,8 @@ title: Updates
   padding: 18px 18px 10px 18px;
   margin: 18px 0 26px 0;
   background: #fff;
+
+  /* scrollable history */
   max-height: 70vh;
   overflow-y: auto;
 }
@@ -42,8 +49,6 @@ title: Updates
 .news-date{ font-weight: 700; }
 .news-note{ margin-top: 6px; }
 </style>
-
-# Updates
 
 <div class="news-box">
   <div class="news-title">NEWS</div>
