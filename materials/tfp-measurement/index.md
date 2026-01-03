@@ -1,3 +1,11 @@
+---
+layout: sc
+title: TFP Measurement
+hero_title: TFP Measurement
+hero_subtitle: Study materials
+hero_desc: Notes, PDFs, and structured summaries for TFP Measurement.
+---
+
 # TFP Measurement
 
 ## Purpose

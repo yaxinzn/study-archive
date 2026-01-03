@@ -1,3 +1,11 @@
+---
+layout: sc
+title: Math Foundations
+hero_title: Math Foundations
+hero_subtitle: Study materials
+hero_desc: Notes, PDFs, and structured summaries for Math Foundations.
+---
+
 # Math Foundations
 
 ## Purpose

@@ -1,3 +1,11 @@
+---
+layout: sc
+title: Empirical IO
+hero_title: Empirical IO
+hero_subtitle: Study materials
+hero_desc: Notes, PDFs, and structured summaries for Empirical IO.
+---
+
 # Empirical IO
 
 ## Scope

@@ -1,3 +1,11 @@
+---
+layout: sc
+title: Micro
+hero_title: Micro
+hero_subtitle: Study materials
+hero_desc: Notes, PDFs, and structured summaries for Micro.
+---
+
 # Micro
 
 ## Scope

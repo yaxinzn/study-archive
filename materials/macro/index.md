@@ -1,3 +1,11 @@
+---
+layout: sc
+title: Macro
+hero_title: Macro
+hero_subtitle: Study materials
+hero_desc: Notes, PDFs, and structured summaries for Macro.
+---
+
 # Macro
 
 ## Scope

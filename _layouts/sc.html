@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ page.title }} | Study Cycles</title>
+
+<style>
+:root{
+  --accent: #b08a2e;  /* gold */
+  --ink: #111827;
+  --muted: rgba(17,24,39,.72);
+  --nav: rgba(17,24,39,.40);
+  --nav-active: rgba(17,24,39,.82);
+  --max: 980px;
+}
+
+body{ margin:0; background:#fff; color:var(--ink);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+a{ color:#1d4ed8; text-decoration:none; }
+a:hover{ text-decoration:underline; }
+
+.sc-container{ max-width: var(--max); margin: 0 auto; padding: 0 18px; }
+
+/* Top header (centered name + centered nav like Weebly) */
+.sc-top{ padding-top: 22px; padding-bottom: 10px; text-align:center; }
+.sc-name{
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 46px; margin:0; letter-spacing:.01em;
+}
+.sc-name a{ color:#1f2a44; text-decoration:none; }
+.sc-name .last{ color: var(--accent); }
+
+.sc-nav{
+  margin-top:12px; display:flex; justify-content:center; gap:26px; flex-wrap:wrap;
+}
+.sc-nav a{
+  text-transform: uppercase; letter-spacing: .14em; font-size: 12px; color: var(--nav);
+}
+.sc-nav a:hover{ color: var(--nav-active); text-decoration:none; }
+.sc-nav a.current{ color: var(--nav-active); font-weight:700; }
+
+/* Hero banner */
+.sc-hero{ margin: 18px auto 0; border-radius:6px; overflow:hidden; }
+.sc-hero-inner{
+  padding: 52px 18px 48px 18px;
+  text-align:center;
+  background-image:
+    linear-gradient(135deg, rgba(0,0,0,.40), rgba(0,0,0,.25)),
+    url("{{ site.baseurl }}/assets/studycycles-banner.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.sc-hero h1{
+  margin:0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 56px;
+  color:#fff;
+}
+.sc-hero h2{
+  margin:10px 0 0 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 32px;
+  color: var(--accent);
+  font-weight: 700;
+}
+.sc-hero p{
+  margin:14px auto 0;
+  max-width: 760px;
+  color: rgba(255,255,255,.92);
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* Buttons */
+.sc-btns{ margin-top:18px; display:flex; justify-content:center; gap:12px; flex-wrap:wrap; }
+.sc-btn{
+  display:inline-block; padding:10px 14px; border-radius:10px;
+  border:1px solid rgba(255,255,255,.24);
+  background: rgba(255,255,255,.08);
+  color:#fff; font-weight:650; text-decoration:none;
+}
+.sc-btn:hover{ text-decoration:none; transform: translateY(-1px); }
+.sc-btn.gold{ border-color: rgba(176,138,46,.55); background: rgba(176,138,46,.18); }
+
+/* Body */
+.sc-main{ padding: 34px 0 68px 0; }
+.sc-main h1, .sc-main h2, .sc-main h3{
+  font-family: Georgia, "Times New Roman", serif;
+  color: #0f3d2e;
+}
+.sc-main h2{ font-size: 32px; margin: 26px 0 10px 0; }
+.sc-main h3{ font-size: 22px; margin: 22px 0 10px 0; }
+.sc-main p{ color: var(--muted); font-size: 16px; line-height: 1.78; }
+.sc-main li{ color: var(--muted); line-height: 1.72; }
+.sc-sep{ height:1px; background: rgba(0,0,0,.08); margin: 34px 0; }
+</style>
+</head>
+
+<body>
+  <div class="sc-container sc-top">
+    <div class="sc-name">
+      <a href="https://yaxinzn.weebly.com/">Yaxin <span class="last">Zheng</span></a>
+    </div>
+
+    <nav class="sc-nav" aria-label="Site">
+      <a href="https://yaxinzn.weebly.com/">Home</a>
+      <a href="https://yaxinzn.weebly.com/research-framework.html">Research Framework</a>
+      <a href="https://yaxinzn.weebly.com/research-agenda.html">Research Agenda</a>
+      <a class="{% if page.permalink == '/' %}current{% endif %}" href="{{ site.baseurl }}/">Study Cycles</a>
+      <a href="https://yaxinzn.weebly.com/about.html">About</a>
+      <a href="https://yaxinzn.weebly.com/contact.html">Contact</a>
+    </nav>
+  </div>
+
+  <div class="sc-container sc-hero">
+    <div class="sc-hero-inner">
+      <h1>{{ page.hero_title | default: page.title }}</h1>
+      {% if page.hero_subtitle %}
+        <h2>{{ page.hero_subtitle }}</h2>
+      {% endif %}
+      {% if page.hero_desc %}
+        <p>{{ page.hero_desc }}</p>
+      {% endif %}
+
+      <div class="sc-btns">
+        <a class="sc-btn gold" href="{{ site.baseurl }}/updates/">View Updates (NEWS)</a>
+        <a class="sc-btn" href="https://github.com/yaxinzn/study-archive">View on GitHub</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="sc-container sc-main">
+    {{ content }}
+  </div>
+</body>
+</html>
