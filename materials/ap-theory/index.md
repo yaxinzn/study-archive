@@ -12,4 +12,5 @@ hero_desc: Notes, PDFs, and structured summaries for Asset Pricing (Theory).
 SDF, no-arbitrage, and equilibrium pricing.
 
 ## Notes / files
+- **[AP_Linkages.pdf](AP_Linkages.pdf)** — linkages / connections note
 - **[AP1.pdf](AP1.pdf)**
