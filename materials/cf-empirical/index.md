@@ -8,12 +8,5 @@ hero_desc: Notes, PDFs, and structured summaries for Corporate Finance (Empirica
 
 # Cf Empirical
 
-## Scope
-(What this folder covers — add 2–3 lines.)
-
-## Reading map
-- (Key papers/books)
-- (Add links if you want)
-
 ## Notes / files
-- (PDFs, derivations, summaries)
+- **[cf_empirical1.pdf](cf_empirical1.pdf)**
