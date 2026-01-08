@@ -17,6 +17,7 @@ I study in repeating seven-day cycles. Each week is a complete loop, and **Satur
 - **[Macro](materials/macro/)** — growth, business cycles, monetary frameworks  
 - **[Econometrics](materials/econometrics/)** — identification, estimation, inference, robustness  
 - **[Math Foundations](materials/math-foundations/)** — linear algebra, probability, optimization, analysis  
+- **[Intuitions](materials/intuitions/)** — demand shifters, price elasticity, DSAP intuition
 - **[TFP Measurement](materials/tfp-measurement/)** — production functions, OP/LP/ACF, implementation  
 - **[Empirical IO](materials/eio/)** — demand, costs, conduct, entry/exit, counterfactual analysis  
 - **[Asset Pricing (Theory)](materials/ap-theory/)** — SDF, no-arbitrage, equilibrium pricing  
