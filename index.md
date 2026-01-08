@@ -13,11 +13,12 @@ I study in repeating seven-day cycles. Each week is a complete loop, and **Satur
 <div class="sc-sep"></div>
 
 ## Materials
+
+### Core fields
 - **[Micro](materials/micro/)** — preferences, uncertainty, general equilibrium, mechanisms  
 - **[Macro](materials/macro/)** — growth, business cycles, monetary frameworks  
 - **[Econometrics](materials/econometrics/)** — identification, estimation, inference, robustness  
 - **[Math Foundations](materials/math-foundations/)** — linear algebra, probability, optimization, analysis  
-- **[Intuitions](materials/intuitions/)** — demand shifters, price elasticity, DSAP intuition
 - **[TFP Measurement](materials/tfp-measurement/)** — production functions, OP/LP/ACF, implementation  
 - **[Empirical IO](materials/eio/)** — demand, costs, conduct, entry/exit, counterfactual analysis  
 - **[Asset Pricing (Theory)](materials/ap-theory/)** — SDF, no-arbitrage, equilibrium pricing  
@@ -25,6 +26,17 @@ I study in repeating seven-day cycles. Each week is a complete loop, and **Satur
 - **[Corporate Finance (Theory)](materials/cf-theory/)** — contracting, capital structure, governance  
 - **[Corporate Finance (Empirical)](materials/cf-empirical/)** — causal designs, measurement, firm behavior  
 - **[Macro-Finance](materials/macro-finance/)** — risk premia, term structure, policy transmission  
+
+### Cross-cutting toolbox
+
+<div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.12); border-left:4px solid #b08a2e; border-radius:10px; background:#fff;">
+  <div style="font-weight:750;">
+    <a href="materials/intuitions/">Intuitions</a> — demand shifters, price elasticity, DSAP intuition
+  </div>
+  <div style="margin-top:6px; opacity:.85;">
+    A cross-field “toolbox” of identification intuition and demand-side equilibrium ideas that cut across micro, macro, IO, and asset pricing.
+  </div>
+</div>
 
 <div class="sc-sep"></div>
 
