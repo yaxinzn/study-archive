@@ -12,4 +12,4 @@ hero_desc: Notes, PDFs, and structured summaries for Asset Pricing (Empirical).
 Factors, predictability, anomalies, and methods.
 
 ## Notes / files
-- **[DSAP1.pdf](DSAP1.pdf)**
+- **[DSAP_Structure.pdf](DSAP_Structure.pdf)**
