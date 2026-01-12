@@ -19,5 +19,5 @@ This section consolidates coherent frameworks and practical workflows for measur
 - **Outputs and downstream use:** firm/plant TFP series; industry aggregates; dispersion; reallocation decompositions; using TFP in second-stage analyses
 
 ## Files
-- (Add PDFs/notes here and list them.)
 
+- **[Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf](Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf)** Step-by-step HK chain: final-good and industry price indices, firm marginal cost and CES pricing with wedges, TFPR identities, and the industry TFP aggregation formula.
