@@ -8,8 +8,14 @@ hero_desc: Notes, PDFs, and structured summaries for Math Foundations.
 
 # Math Foundations
 
-## Purpose
-This section consolidates the mathematical toolkit that repeatedly appears across micro, macro, econometrics, empirical IO, and asset pricing. The goal is to keep prerequisites in one place so later derivations and proofs remain clean, fast, and consistent.
+## Math camp plan (starting week of 12 Jan)
+To prepare the math foundations I will need for future research, I will work through the **Math Camp 2019** materials offered by Mark Walker (https://markwalkereconomics.com/MathCamp2019.htm). Starting in the **week of 12 Jan 2026**, I plan to complete the full set over the next **six weeks**. 
+
+As I go, I will share:
+- concise notes and worked derivations,
+- a record of what I found difficult and how I resolved it,
+- and a short “self-study log” on pacing, review cycles, and problem-solving strategies.
+
 
 ## Coverage
 - **Linear algebra:** vector spaces, projections, eigenvalues/eigenvectors, matrix decompositions
