@@ -18,6 +18,7 @@ I study in repeating seven-day cycles. Each week is a complete loop, and **Satur
 - **[Micro](materials/micro/)** — preferences, uncertainty, general equilibrium, mechanisms  
 - **[Macro](materials/macro/)** — growth, business cycles, monetary frameworks  
 - **[Econometrics](materials/econometrics/)** — identification, estimation, inference, robustness  
+- **[Stata](materials/stata/)** — workflows, estimation, inference, reproducible coding
 - **[Math Foundations](materials/math-foundations/)** — linear algebra, probability, optimization, analysis  
 - **[TFP Measurement](materials/tfp-measurement/)** — production functions, OP/LP/ACF, implementation  
 - **[Empirical IO](materials/eio/)** — demand, costs, conduct, entry/exit, counterfactual analysis  
