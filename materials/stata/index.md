@@ -20,6 +20,7 @@ hero_desc: Notes, templates, and reproducible workflows for using Stata in empir
   margin-bottom: 6px;
 }
 .callout p{ margin: 8px 0; }
+.callout .note{ opacity: .88; }
 </style>
 
 <div class="callout">
@@ -28,13 +29,17 @@ hero_desc: Notes, templates, and reproducible workflows for using Stata in empir
   <p>
     In this series, I use the <strong>China Industrial Enterprise Database</strong> (中国工业企业数据库; often abbreviated as
     <strong>ASIF/China Industrial Enterprise Database</strong>) as a practice dataset. To respect data licensing and copyright restrictions,
-    I work with an <strong>adapted and modified version</strong> of the data, and—when helpful—use <strong>Stata’s built-in sample datasets</strong>
+    I work with a <strong>modified and adapted version</strong> of the data, and—when helpful—use <strong>Stata’s built-in sample datasets</strong>
     to keep demonstrations self-contained and easy to follow.
   </p>
 
   <p>
     The goal is twofold: (i) to illustrate end-to-end <strong>Stata econometric workflows</strong> (cleaning, construction, estimation, inference,
-    replication hygiene), and (ii) to provide a clear, practical sense of how the China Industrial Enterprise Database is typically used in applied research.
+    and replication hygiene), and (ii) to provide a clear, practical sense of how the China Industrial Enterprise Database is typically used in applied research.
+  </p>
+
+  <p class="note">
+    My current knowledge is still limited, so if you notice any mistakes or unclear parts, please let me know—I would be grateful for your feedback and will revise accordingly.
   </p>
 </div>
 
