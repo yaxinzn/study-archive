@@ -8,12 +8,12 @@ hero_desc: Weekly loops across micro, macro, econometrics, empirical IO, asset p
 ---
 
 ## Method: the 7-day loop (Saturday = review)
-I study in repeating seven-day cycles. Each week is a complete loop, and **Saturday is reserved for review**: consolidating notes, reconnecting ideas across topics, and updating reading maps. I then restart the cycle—refining summaries, re-deriving core results, and iterating until the foundations are internalized.
+I study in repeating seven-day cycles. Each week is a complete loop, with Saturday reserved for review: consolidating notes, reconnecting ideas across topics, and updating reading maps. I then restart the cycle—refining summaries, re-deriving core results, and iterating until the foundations are fully internalized.
 
 <div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.12); border-left:4px solid #2e7d32; border-radius:10px; background:#fff;">
 
   <div style="margin-top:8px; line-height:1.55;">
-    I like to summarize asset pricing as a change of measure: the SDF or Radon–Nikodym derivative tells us prices are expectations under state weights, but the key empirical question is what determines those weights when investors are heterogeneous and constrained. My research interest is to make that mechanism measurable by integrating demand-system asset pricing with empirical IO: estimate investor demand elasticities from holdings and flows, impose market clearing, and run equilibrium counterfactuals—using credit markets, especially CDS, as the laboratory with identification from IG/HY cutoffs, capital rules, index reconstitutions, ETF mechanics, and dealer capacity shocks.
+    I also think about asset pricing through a unified measure-theoretic lens. The SDF (or Radon–Nikodym derivative) implies that prices are expectations under state-contingent weights, but the central empirical question is what determines those weights when investors are heterogeneous and constrained. My research aims to make that mechanism measurable by integrating demand-system asset pricing with empirical IO: estimating investor demand elasticities from holdings and flows, imposing market clearing, and conducting equilibrium counterfactuals—using corporate credit markets, especially CDS, as a laboratory, with identification from IG/HY cutoffs, capital regulation, index reconstitutions, ETF mechanics, and dealer capacity shocks. This agenda naturally fits my weekly cycle: I move project by project, loop by loop, continually revisiting the same core mechanisms at increasing depth until the ideas—and the tools to measure them—become second nature.
   </div>
 </div>
 
