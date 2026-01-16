@@ -15,7 +15,8 @@ This page consolidates my econometrics study materials, with a focus on (i) tran
 
 ### Main notes (continuously updated)
 - **[Econometrics From Basics (PDF, living document)](https://www.dropbox.com/scl/fi/5w8yidocgkq5lc1ku1s8i/Econometrics_FromBasics.pdf?rlkey=29yqw28d7had219w9dodjm1i1&st=z0vfkz6w&dl=0)**  
- A continuously updated set of detailed derivations, beginning with OLS and extending to broader core topics. The Dropbox link below is intended to always point to the most recent version.  
+  A continuously updated set of detailed derivations, beginning with OLS and extending to broader core topics. The Dropbox link below is intended to always point to the most recent version.  
+  *Primary reference:* Hansen, *Econometrics* (2022).
 
 ### Supplementary files
 - **[Econometric1.pdf](Econometric1.pdf)**  
