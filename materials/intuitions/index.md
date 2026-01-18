@@ -9,3 +9,6 @@ hero_desc: DSAP-style intuitions, demand shifters, price elasticity, and identif
 ## Files
 - **[Demand_Shifters_and_Price_Elasticity_in_Asset_Markets.pdf](Demand_Shifters_and_Price_Elasticity_in_Asset_Markets.pdf)**  
   Demand shifters as “quasi-experiments” for learning price elasticity in asset markets; useful for DSAP intuition and identification framing.
+
+- **[Demand_Shifters_and_Price_Elasticity_in_Asset_Markets.pdf](Demand_Shifters_and_Price_Elasticity_in_Asset_Markets.pdf)**  
+The file explains that Demand System Asset Pricing (DSAP) is a structural equilibrium approach that estimates investor demand elasticities and substitution patterns, relies on instrumental variables (IV) to solve price endogeneity via exogenous residual-supply shifts (e.g., mandates, index cutoffs, policy purchases), and then uses the estimated demand system plus market clearing to separate fundamental risk effects from flow/constraint-driven price pressure and run policy counterfactuals.
