@@ -12,3 +12,6 @@ hero_desc: DSAP-style intuitions, demand shifters, price elasticity, and identif
 
 - **[Demand_System_Asset_Pricing__DSAP__and_IV_Identification.pdf](Demand_System_Asset_Pricing__DSAP__and_IV_Identification.pdf)**  
 The file explains that Demand System Asset Pricing (DSAP) is a structural equilibrium approach that estimates investor demand elasticities and substitution patterns, relies on instrumental variables (IV) to solve price endogeneity via exogenous residual-supply shifts (e.g., mandates, index cutoffs, policy purchases), and then uses the estimated demand system plus market clearing to separate fundamental risk effects from flow/constraint-driven price pressure and run policy counterfactuals.
+
+- **[DSAP_and_PBAP.pdf](DSAP_and_PBAP.pdf)**  
+This note gives a two-sided equilibrium intuition linking DSAP (investor demand + market clearing) to PBAP (firm investment Euler equations), showing how PBAP can discipline and validate DSAP-implied discount rates via pricing tests and real investment pass-through.
