@@ -50,16 +50,6 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   </p>
 </div>
 
-## Quick-note template (copy/paste)
-1. Citation (authors, year, venue)  
-2. One-line contribution  
-3. Mechanism (what drives the result)  
-4. Identification (design, assumptions, threats)  
-5. Data & key variables (definitions, units, timing)  
-6. Main results (economic magnitudes)  
-7. Robustness / falsification  
-8. Replication hooks (minimal pipeline)  
-9. Extensions (what to do next)
 
 ## Library (starting with one note)
 
