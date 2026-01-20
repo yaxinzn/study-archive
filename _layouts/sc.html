@@ -107,9 +107,7 @@ a:hover{ text-decoration:underline; }
       <a href="https://yaxinzn.weebly.com/">Home</a>
       <a href="https://yaxinzn.weebly.com/research-framework.html">Research Framework</a>
       <a href="https://yaxinzn.weebly.com/research-agenda.html">Research Agenda</a>
-      <a class="{% if page.permalink == '/' %}current{% endif %}" href="{{ site.baseurl }}/">Study Cycles</a>
-      <a class="{% if page.permalink == '/reading/' %}current{% endif %}" href="{{ site.baseurl }}/reading/">Reading</a>
-      <a href="https://yaxinzn.weebly.com/about.html">About</a>
+      <a class="{% if page.permalink == '/' %}current{% endif %}" href="{{ site.baseurl }}/">Study Cycles</a><a href="https://yaxinzn.weebly.com/about.html">About</a>
       <a href="https://yaxinzn.weebly.com/contact.html">Contact</a>
     </nav>
   </div>
@@ -125,7 +123,8 @@ a:hover{ text-decoration:underline; }
       {% endif %}
 
       <div class="sc-btns">
-        <a class="sc-btn gold" href="{{ site.baseurl }}/updates/">View Updates (NEWS)</a>
+        <a class="sc-btn gold" href="{{ site.baseurl }}/updates/">View Updates (NEWS)</a>        <a class="sc-btn" href="{{ site.baseurl }}/reading/">Reading</a>
+
         <a class="sc-btn" href="https://github.com/yaxinzn/study-archive">View on GitHub</a>
       </div>
     </div>
