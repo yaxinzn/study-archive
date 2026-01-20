@@ -37,6 +37,17 @@ I study in repeating seven-day cycles. Each week is a complete loop, with Saturd
 
 ### Cross-cutting toolbox
 
+
+
+<div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.12); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
+  <div style="font-weight:750;">
+    <a href="{{ site.baseurl }}/reading/">Paper Reading &amp; Quick Notes</a> — quick reading notes, identification, variables, replication hooks
+  </div>
+  <div style="margin-top:6px; opacity:.85;">
+    Expect that it can give you a quick reading of these papers. I will continuously upload my notes (starting with Dunne et al., 2013).
+  </div>
+</div>
+
 <div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.12); border-left:4px solid #b08a2e; border-radius:10px; background:#fff;">
   <div style="font-weight:750;">
     <a href="materials/intuitions/">Intuitions</a> — demand shifters, price elasticity, DSAP intuition
