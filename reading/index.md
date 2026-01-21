@@ -80,3 +80,18 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   </details>
 </div>
 
+
+<div style="margin:16px 0; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
+  <div style="font-weight:800;">Kilic &amp; Tuzel (2026) — Investing in Misallocation (Quick Notes)</div>
+  <div style="opacity:.86; margin-top:4px;">Paper-reading note PDF</div>
+
+  <p style="margin-top:10px;">
+    <strong>File:</strong>
+    <a href="{{ site.baseurl }}/reading/library/Kilic_Tuzel_JFE_2026_StudyNotes.pdf">Kilic_Tuzel_JFE_2026_StudyNotes.pdf</a>
+  </p>
+
+  <p style="opacity:.90; margin-top:6px;">
+    This file summarizes the paper’s core mechanism and provides a structured walkthrough of its reduced-form regressions, structural model equations, and detailed interpretations of every table and figure.
+  </p>
+</div>
+
