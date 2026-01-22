@@ -53,6 +53,22 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 ## Library (starting with one note)
 
+
+<div style="margin:16px 0; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
+  <div style="font-weight:800;">He &amp; Song (RFS, 2026) — Agency MBS as Safe Assets (Quick Notes)</div>
+  <div style="opacity:.86; margin-top:4px;">Paper-reading note PDF</div>
+
+  <p style="margin-top:10px;">
+    <strong>File:</strong>
+    <a href="{{ site.baseurl }}/reading/library/He_Song_RFS_2026.pdf">He_Song_RFS_2026.pdf</a>
+  </p>
+
+  <p style="opacity:.90; margin-top:6px;">
+    This file summarizes the paper’s core mechanism and provides a structured walkthrough of its reduced-form regressions, structural model equations, and detailed interpretations of every table and figure.
+  </p>
+</div>
+
+
 <div class="reading-card">
   <div class="reading-card-title">
     Dunne, Klimek, Roberts, and Xu (2013) — Entry, exit, and the determinants of market structure
