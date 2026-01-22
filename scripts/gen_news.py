@@ -6,7 +6,7 @@ NEWS_PATH = Path("_data/news.yml")
 # Scan enough history; raise if you want (bigger = slower)
 MAX_COMMITS_SCAN = 5000
 
-TRACK_PATHS = ["materials", "index.md", "updates", "updates/index.md"]
+TRACK_PATHS = ["materials", "index.md", "updates", "updates/index.md", "reading"]
 
 def run(cmd):
     return subprocess.check_output(cmd, text=True).strip()
