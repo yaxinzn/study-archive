@@ -41,7 +41,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 <div class="reading-callout">
   <div class="reading-callout-title">What this page is for</div>
   <p>
-    This page is designed to give you a <strong>quick, high-signal reading</strong> of papers.
+    This page is designed to give you a <strong>quick reading</strong> of papers.
     Each entry is short and operational: the goal is to extract <strong>identification</strong>,
     <strong>key variables</strong>, and <strong>replication-ready hooks</strong>.
   </p>
