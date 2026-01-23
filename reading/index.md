@@ -51,7 +51,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 </div>
 
 
-## Library (starting with one note)
+## Library
 
 
 <div style="margin:16px 0; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
