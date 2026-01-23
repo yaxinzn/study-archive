@@ -55,6 +55,22 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 
 <div style="margin:16px 0; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
+  <div style="font-weight:800;">Korteweg (JF, 2010) — The Net Benefits to Leverage (Quick Notes)</div>
+  <div style="opacity:.86; margin-top:4px;">Paper-reading note PDF</div>
+
+  <p style="margin-top:10px;">
+    <strong>File:</strong>
+    <a href="{{ site.baseurl }}/reading/library/Korteweg_JF_2010.pdf">Korteweg_JF_2010.pdf</a>
+  </p>
+
+  <p style="opacity:.90; margin-top:6px;">
+    This file summarizes the paper’s core mechanism and provides a structured walkthrough of its reduced-form regressions, structural model equations, and detailed interpretations of every table and figure.
+  </p>
+</div>
+
+
+
+<div style="margin:16px 0; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
   <div style="font-weight:800;">He &amp; Song (RFS, 2026) — Agency MBS as Safe Assets (Quick Notes)</div>
   <div style="opacity:.86; margin-top:4px;">Paper-reading note PDF</div>
 
