@@ -55,6 +55,20 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 
 <div style="margin:16px 0; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
+  <div style="font-weight:800;">Keys, Mukherjee, Seru &amp; Vig (QJE, 2010) — Did Securitization Lead to Lax Screening? (Quick Notes)</div>
+  <div style="opacity:.86; margin-top:4px;">Paper-reading note PDF</div>
+
+  <p style="margin-top:10px;">
+    <strong>File:</strong>
+    <a href="{{ site.baseurl }}/reading/library/Keys_Mukherjee_Seru_and_Vig_QJE_2010.pdf">Keys_Mukherjee_Seru_and_Vig_QJE_2010.pdf</a>
+  </p>
+
+  <p style="opacity:.90; margin-top:6px;">This file distills the RD identification around the FICO=620 securitization cutoff, clarifies the hard- vs. soft-information screening mechanism, and provides a structured walkthrough of the key equations (RD specifications and loan-level models) and the interpretation of the main tables and figures (first-stage volume jump, balance tests, delinquency results, the anti-predatory-law experiment, and falsification tests).</p>
+</div>
+
+
+
+<div style="margin:16px 0; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
   <div style="font-weight:800;">Korteweg (JF, 2010) — The Net Benefits to Leverage (Quick Notes)</div>
   <div style="opacity:.86; margin-top:4px;">Paper-reading note PDF</div>
 
