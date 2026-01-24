@@ -1,4 +1,7 @@
 # Auto-generated update history (sorted newest -> oldest). Do not edit manually.
+- ts: "1769284579"
+  date: "2026-01-25"
+  title: "Reading: clean layout, restore all cards, keep search"
 - ts: "1769282854"
   date: "2026-01-25"
   title: "Reading: restore missing quick-note cards (keep search)"
