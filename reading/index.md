@@ -100,10 +100,8 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 
 <div class="reading-entry">
-  <div class="reading-title">Kilic & Tuzel (JFE, 2026) — Investing in Misallocation.</div>
-  <div class="reading-meta">Paper-reading note PDF</div>
-
-  <p class="reading-file"><strong>File:</strong>
+  <div class="reading-title">Kilic & Tuzel (JFE, 2026) — Investing in Misallocation</div>
+<p class="reading-file"><strong>File:</strong>
     <a href="{{ site.baseurl }}/reading/library/Kilic_Tuzel_JFE_2026_StudyNotes.pdf">Kilic_Tuzel_JFE_2026_StudyNotes.pdf</a>
   </p>
 
@@ -113,9 +111,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 <div class="reading-entry">
   <div class="reading-title">He & Song (RFS, 2026) — Agency MBS as Safe Assets</div>
-  <div class="reading-meta">Paper-reading note PDF</div>
-
-  <p class="reading-file"><strong>File:</strong>
+<p class="reading-file"><strong>File:</strong>
     <a href="{{ site.baseurl }}/reading/library/He_Song_RFS_2026.pdf">He_Song_RFS_2026.pdf</a>
   </p>
 
@@ -125,9 +121,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 <div class="reading-entry">
   <div class="reading-title">Korteweg (JF, 2010) — The Net Benefits to Leverage</div>
-  <div class="reading-meta">Paper-reading note PDF</div>
-
-  <p class="reading-file"><strong>File:</strong>
+<p class="reading-file"><strong>File:</strong>
     <a href="{{ site.baseurl }}/reading/library/Korteweg_JF_2010.pdf">Korteweg_JF_2010.pdf</a>
   </p>
 
@@ -137,9 +131,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 <div class="reading-entry">
   <div class="reading-title">Keys, Mukherjee, Seru & Vig (QJE, 2010) — Did Securitization Lead to Lax Screening?</div>
-  <div class="reading-meta">Paper-reading note PDF</div>
-
-  <p class="reading-file"><strong>File:</strong>
+<p class="reading-file"><strong>File:</strong>
     <a href="{{ site.baseurl }}/reading/library/Keys_Mukherjee_Seru_and_Vig_QJE_2010.pdf">Keys_Mukherjee_Seru_and_Vig_QJE_2010.pdf</a>
   </p>
 
@@ -149,9 +141,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 <div class="reading-entry">
   <div class="reading-title">Dunne, Klimek, Roberts & Xu (RAND J Econ, 2013) — Entry, Exit, and the Determinants of Market Structure</div>
-  <div class="reading-meta">Paper-reading note PDF</div>
-
-  <p class="reading-file"><strong>File:</strong>
+<p class="reading-file"><strong>File:</strong>
     <a href="{{ site.baseurl }}/reading/library/Dunne__Klimek__Roberts__and_Xu__RAND_J__Econ___2013_.pdf">Dunne__Klimek__Roberts__and_Xu__RAND_J__Econ___2013_.pdf</a>
   </p>
 
