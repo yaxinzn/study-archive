@@ -100,7 +100,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 
 <div class="reading-entry">
-  <div class="reading-title">Kilic & Tuzel (2026) — Investing in Misallocation (Quick Notes)</div>
+  <div class="reading-title">Kilic & Tuzel (JFE, 2026) — Investing in Misallocation.</div>
   <div class="reading-meta">Paper-reading note PDF</div>
 
   <p class="reading-file"><strong>File:</strong>
@@ -112,7 +112,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 
 <div class="reading-entry">
-  <div class="reading-title">He & Song (RFS, 2026) — Agency MBS as Safe Assets (Quick Notes)</div>
+  <div class="reading-title">He & Song (RFS, 2026) — Agency MBS as Safe Assets</div>
   <div class="reading-meta">Paper-reading note PDF</div>
 
   <p class="reading-file"><strong>File:</strong>
@@ -124,7 +124,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 
 <div class="reading-entry">
-  <div class="reading-title">Korteweg (JF, 2010) — The Net Benefits to Leverage (Quick Notes)</div>
+  <div class="reading-title">Korteweg (JF, 2010) — The Net Benefits to Leverage</div>
   <div class="reading-meta">Paper-reading note PDF</div>
 
   <p class="reading-file"><strong>File:</strong>
@@ -136,7 +136,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 
 <div class="reading-entry">
-  <div class="reading-title">Keys, Mukherjee, Seru & Vig (QJE, 2010) — Did Securitization Lead to Lax Screening? (Quick Notes)</div>
+  <div class="reading-title">Keys, Mukherjee, Seru & Vig (QJE, 2010) — Did Securitization Lead to Lax Screening?</div>
   <div class="reading-meta">Paper-reading note PDF</div>
 
   <p class="reading-file"><strong>File:</strong>
@@ -148,7 +148,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 
 <div class="reading-entry">
-  <div class="reading-title">Dunne, Klimek, Roberts & Xu (RAND J Econ, 2013) — Entry, Exit, and the Determinants of Market Structure (Quick Notes)</div>
+  <div class="reading-title">Dunne, Klimek, Roberts & Xu (RAND J Econ, 2013) — Entry, Exit, and the Determinants of Market Structure</div>
   <div class="reading-meta">Paper-reading note PDF</div>
 
   <p class="reading-file"><strong>File:</strong>
