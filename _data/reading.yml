@@ -1,0 +1,19 @@
+- title: "Kilic & Tuzel (JFE, 2026) — Investing in Misallocation"
+  file: "Kilic_Tuzel_JFE_2026_StudyNotes.pdf"
+  desc: "This file summarizes the paper’s core mechanism and provides a structured walkthrough of its reduced-form regressions, structural model equations, and detailed interpretations of every table and figure."
+
+- title: "He & Song (RFS, 2026) — Agency MBS as Safe Assets"
+  file: "He_Song_RFS_2026.pdf"
+  desc: "This file summarizes the paper’s core mechanism and provides a structured walkthrough of its reduced-form regressions, structural model equations, and detailed interpretations of every table and figure."
+
+- title: "Korteweg (JF, 2010) — The Net Benefits to Leverage"
+  file: "Korteweg_JF_2010.pdf"
+  desc: "This file summarizes the paper’s core mechanism and provides a structured walkthrough of its reduced-form regressions, structural model equations, and detailed interpretations of every table and figure."
+
+- title: "Keys, Mukherjee, Seru & Vig (QJE, 2010) — Did Securitization Lead to Lax Screening?"
+  file: "Keys_Mukherjee_Seru_and_Vig_QJE_2010.pdf"
+  desc: "This file distills the RD identification around the FICO=620 securitization cutoff, clarifies the hard- vs. soft-information screening mechanism, and walks through the key equations and interpretation of the main tables and figures."
+
+- title: "Dunne, Klimek, Roberts & Xu (RAND J Econ, 2013) — Entry, Exit, and the Determinants of Market Structure"
+  file: "Dunne__Klimek__Roberts__and_Xu__RAND_J__Econ___2013_.pdf"
+  desc: "This file summarizes the dynamic entry–exit framework (Pakes–Olley–Bresnahan style), the profit estimation and structural cost components, and the interpretation of the key tables/figures and counterfactuals."
