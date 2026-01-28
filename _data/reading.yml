@@ -1,3 +1,7 @@
+- title: "Carpenter, Lu and Whitelaw (JFE, 2026) — Government Bond Risk and Return in the US and China"
+  file: "Carpenter_Lu_Whitelaw_JFE_2026.pdf"
+  desc: "This note file distills the paper into structured study notes that (i) present the key theory and GMM estimation framework for decomposing government-bond risk premia into time-varying volatility and Sharpe ratios and (ii) interpret the main tables and figures for the US and China."
+
 - title: "Adelino, Schoar and Severino (JFE, 2025) — Credit supply and house prices: Evidence from mortgage market segmentation"
   file: "Adelino_Schoar_Severino_JFE_2025.pdf"
   desc: "This file summarizes the paper by explaining how annual increases in the conforming loan limit—interacting with the 80% LTV rule—create a local difference-in-differences design to identify how easier, cheaper mortgage credit is capitalized into house prices."
