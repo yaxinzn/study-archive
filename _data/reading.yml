@@ -1,3 +1,7 @@
+- title: "Wermers (JF, 2000) — Mutual Fund Performance: An Empirical Decomposition into Stock-Picking Talent, Style, Transactions Costs, and Expenses"
+  file: "Wermers_JF_2000.pdf"
+  desc: "This note file distills Russ Wermers’s 2000 mutual-fund paper into a holdings-based performance decomposition that separates stock-picking skill from style exposures, transaction costs, and expenses."
+
 - title: "Ghosh, Vall and Zeng (JF, 2025) — FinTech Lending and Cashless Payments"
   file: "Ghosh_Vall_Zeng_JF_2025.pdf"
   desc: "This note file summarizes the paper’s core question, data and variable construction, empirical identification (OLS/within-borrower/IV), main results across figures and tables, and the accompanying screening model linking cashless payment traces to FinTech lending outcomes."
