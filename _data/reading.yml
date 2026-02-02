@@ -1,3 +1,7 @@
+- title: "Hennessy & Whited (JF, 2007) — How Costly Is External Financing? Evidence from a Structural Estimation"
+  file: "Hennessy_Whited_JF_2007.pdf"
+  desc: "This note distills a dynamic corporate finance model and its simulated method of moments (SMM) estimation to quantify the structural costs of external financing—especially equity issuance and default frictions—and interpret the main empirical results and financing-constraint proxies."
+
 - title: "Wermers (JF, 2000) — Mutual Fund Performance: An Empirical Decomposition into Stock-Picking Talent, Style, Transactions Costs, and Expenses"
   file: "Wermers_JF_2000.pdf"
   desc: "This note file distills Russ Wermers’s 2000 mutual-fund paper into a holdings-based performance decomposition that separates stock-picking skill from style exposures, transaction costs, and expenses."
