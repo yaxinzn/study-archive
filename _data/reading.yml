@@ -1,3 +1,7 @@
+- title: "Sammon & Shim (JFE, 2026) — Index rebalancing and stock market composition: Do indexes time the market?"
+  file: "Sammon_and_Shim_JFE_2026.pdf"
+  desc: "This note distills the paper’s ownership-ratio framework for value-weighted index rebalancing and its evidence that rebalancing trades entail adverse market timing—implying a tracking-error/return trade-off and motivating delayed shares-outstanding updates in index design."
+
 - title: "Paravisini, Rappoport, Schnabl and Wolfenzon (RES, 2014) — Dissecting the Effect of Credit Supply on Trade: Evidence from Matched Credit–Export Data"
   file: "Paravisini_Rappoport_Schnabl_Wolfenzon_RES_2014.pdf"
   desc: "This note distills the paper by summarizing the matched bank–firm credit and customs data, the shift-share IV design based on banks’ foreign-funding exposure, and the finding that negative credit-supply shocks primarily reduce exports on the intensive margin rather than through firm entry/exit."
