@@ -14,30 +14,36 @@ hero_desc: risk premia, term structure, policy transmission
 <style>
 .file-grid{
   display:grid;
-  grid-template-columns: repeat(5, minmax(0, 1fr));
-  gap: 14px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));  /* bigger tiles */
+  gap: 16px;
   margin-top: 14px;
 }
-@media (max-width: 1100px){ .file-grid{ grid-template-columns: repeat(4, minmax(0, 1fr)); } }
-@media (max-width: 900px){ .file-grid{ grid-template-columns: repeat(3, minmax(0, 1fr)); } }
-@media (max-width: 640px){ .file-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 1100px){ .file-grid{ grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+@media (max-width: 900px){ .file-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 640px){ .file-grid{ grid-template-columns: repeat(1, minmax(0, 1fr)); } }
 
 .file-card{
   border:1px solid rgba(0,0,0,.10);
-  border-radius:12px;
+  border-radius:14px;
   background:#fff;
-  padding: 12px 12px 10px 12px;
-  min-height: 112px;
+  padding: 16px 16px 14px 16px;   /* bigger padding */
+  min-height: 150px;              /* bigger height */
   display:flex;
   flex-direction:column;
   justify-content:space-between;
 }
-.file-top{ display:flex; justify-content:space-between; gap:10px; align-items:flex-start; }
+.file-top{ display:flex; justify-content:space-between; gap:12px; align-items:flex-start; }
 .file-name{
-  font-weight:800;
-  font-size:13px;
+  font-weight:850;
+  font-size:14px;
   line-height:1.25;
   word-break:break-word;
+}
+.file-intro{
+  margin-top: 8px;
+  opacity: .80;
+  font-size: 12.5px;
+  line-height: 1.35;
 }
 .badge{
   flex:0 0 auto;
@@ -54,14 +60,14 @@ hero_desc: risk premia, term structure, policy transmission
 .badge.file{ background: rgba(29,78,216,.06); }
 
 .file-meta{
-  margin-top: 8px;
-  opacity: .72;
+  margin-top: 10px;
+  opacity: .70;
   font-size: 12px;
 }
 .file-link{
-  margin-top: 10px;
-  font-weight: 650;
-  font-size: 12px;
+  margin-top: 12px;
+  font-weight: 700;
+  font-size: 12.5px;
   opacity: .95;
 }
 .file-link a{ text-decoration:none; }
@@ -86,8 +92,17 @@ hero_desc: risk premia, term structure, policy transmission
 (async function(){
   const OWNER = "yaxinzn";
   const REPO  = "study-archive";
-  const PATH  = "materials/macro-finance"; // e.g., materials/econometrics
+  const PATH  = "materials/macro-finance";
   const WEB_PREFIX = "{{ site.baseurl }}/" + PATH + "/";
+
+  // One-sentence intros for tiles (edit freely)
+  // Keys can be file names (e.g., "Econometric1.pdf") or folder names with trailing slash (e.g., "week1/")
+  const INTROS = {
+  "Econometric1.pdf": "Core lecture notes: identification, estimation, and inference with practical examples."
+  "Micro1.pdf": "Consumer choice to KKT and geometry; foundations for later micro theory."
+  "week1/": "Week 1 materials and notes."
+  "week2/": "Week 2 materials and notes."
+};
 
   const grid = document.getElementById("fileGrid");
   if (!grid) return;
@@ -124,9 +139,15 @@ hero_desc: risk premia, term structure, policy transmission
     .filter(x => x.type === "file" && !isHidden(x.name))
     .sort((a,b) => (a.name||"").localeCompare(b.name||""));
 
-  // Render folders first
+  function introFor(key){
+    return (INTROS && INTROS[key]) ? INTROS[key] : "";
+  }
+
+  // folders first
   for (const d of dirs){
+    const key = d.name + "/";
     const url = WEB_PREFIX + encodeURIComponent(d.name) + "/";
+    const intro = introFor(key);
     const card = document.createElement("div");
     card.className = "file-card";
     card.innerHTML = `
@@ -135,6 +156,7 @@ hero_desc: risk premia, term structure, policy transmission
           <div class="file-name">${d.name}/</div>
           <div class="badge folder">FOLDER</div>
         </div>
+        ${intro ? `<div class="file-intro">${intro}</div>` : ``}
         <div class="file-meta">Subfolder</div>
       </div>
       <div class="file-link">
@@ -143,11 +165,12 @@ hero_desc: risk premia, term structure, policy transmission
     grid.appendChild(card);
   }
 
-  // Render files
+  // files
   for (const f of files){
     const url = WEB_PREFIX + encodeURIComponent(f.name);
     const badge = extBadge(f.name);
     const badgeClass = (badge === "PDF") ? "pdf" : "file";
+    const intro = introFor(f.name);
     const card = document.createElement("div");
     card.className = "file-card";
     card.innerHTML = `
@@ -156,6 +179,7 @@ hero_desc: risk premia, term structure, policy transmission
           <div class="file-name">${f.name}</div>
           <div class="badge ${badgeClass}">${badge}</div>
         </div>
+        ${intro ? `<div class="file-intro">${intro}</div>` : ``}
         <div class="file-meta">${humanSize(f.size || 0)}</div>
       </div>
       <div class="file-link">
