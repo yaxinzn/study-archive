@@ -1,4 +1,7 @@
 # Auto-generated update history (sorted newest -> oldest). Do not edit manually.
+- ts: "1770202806"
+  date: "2026-02-04"
+  title: "Subjects: remove Notes/files; keep only auto Files section"
 - ts: "1770202220"
   date: "2026-02-04"
   title: "Subjects: preserve manual notes; update only AUTO-LIST (remove duplicates)"
