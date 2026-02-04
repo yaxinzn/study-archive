@@ -24,7 +24,10 @@ As I go, I will share:
 - **Real analysis essentials:** limits, continuity, differentiation, Taylor expansions
 - **Stochastic processes (as needed):** martingales, Brownian motion, Itô’s lemma
 
-## Files
+## Notes / files
+Add 1–2 sentences here as your manual description. The list below is auto-generated.
+
 <!-- AUTO-LIST-START -->
 - (No files yet.)
 <!-- AUTO-LIST-END -->
+

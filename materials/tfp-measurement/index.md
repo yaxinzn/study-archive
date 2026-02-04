@@ -19,12 +19,16 @@ This section consolidates coherent frameworks and practical workflows for measur
 - **Outputs and downstream use:** firm/plant TFP series; industry aggregates; dispersion; reallocation decompositions; using TFP in second-stage analyses
 
 ## Files
-
-- **[Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf](Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf)** Step-by-step HK chain: final-good and industry price indices, firm marginal cost and CES pricing with wedges, TFPR identities, and the industry TFP aggregation formula.
-- **[TFP__Aggregation__Misallocation__and_Dynamic_Decomposition.pdf](TFP__Aggregation__Misallocation__and_Dynamic_Decomposition.pdf)** This PDF is a concise set of derivation-focused notes explaining how aggregate TFP is shaped by firm-level productivity, misallocation (wedges), and dynamic decomposition methods (e.g., OP/BHC/GR/FHK) that separate within-firm growth from reallocation and entry/exit effects.
-
-## Files
 <!-- AUTO-LIST-START -->
 - **[Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf](Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf)**
 - **[TFP__Aggregation__Misallocation__and_Dynamic_Decomposition.pdf](TFP__Aggregation__Misallocation__and_Dynamic_Decomposition.pdf)**
 <!-- AUTO-LIST-END -->
+
+## Notes / files
+Add 1–2 sentences here as your manual description. The list below is auto-generated.
+
+<!-- AUTO-LIST-START -->
+- **[Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf](Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf)**
+- **[TFP__Aggregation__Misallocation__and_Dynamic_Decomposition.pdf](TFP__Aggregation__Misallocation__and_Dynamic_Decomposition.pdf)**
+<!-- AUTO-LIST-END -->
+

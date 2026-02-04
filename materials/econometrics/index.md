@@ -23,11 +23,10 @@ This page consolidates my econometrics study materials, with a focus on (i) tran
   Supplementary notes and worked examples reinforcing core concepts—identification, interpretation, and practical implementation.  
   *Primary reference:* Angrist and Pischke, *Mostly Harmless Econometrics* (2008).
 
-## References / acknowledgements
-These materials draw on a combination of online econometrics course resources and study notes (including resources collected from Xindi He’s personal website). Any remaining errors are my own. If you notice mistakes or unclear explanations, I would appreciate your feedback and will revise accordingly.
-
-## Files
 <!-- AUTO-LIST-START -->
 - **[Econometric1.pdf](Econometric1.pdf)**
 - **[Econometrics_FromBasics_Feb2_2026.pdf](Econometrics_FromBasics_Feb2_2026.pdf)**
 <!-- AUTO-LIST-END -->
+## References / acknowledgements
+These materials draw on a combination of online econometrics course resources and study notes (including resources collected from Xindi He’s personal website). Any remaining errors are my own. If you notice mistakes or unclear explanations, I would appreciate your feedback and will revise accordingly.
+

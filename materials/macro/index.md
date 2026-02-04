@@ -15,8 +15,11 @@ Growth, business cycles, and monetary frameworks.
 - **[Week 1](week1/)** — Macro1–Macro4
 - **[Week 2](week2/)** — coming soon
 
-## Files
+## Notes / files
+Add 1–2 sentences here as your manual description. The list below is auto-generated.
+
 <!-- AUTO-LIST-START -->
 - **[week1/](week1/)**
 - **[week2/](week2/)**
 <!-- AUTO-LIST-END -->
+
