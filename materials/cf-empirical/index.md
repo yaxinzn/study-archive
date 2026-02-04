@@ -8,9 +8,7 @@ hero_desc: Notes, PDFs, and structured summaries for Corporate Finance (Empirica
 
 # Cf Empirical
 
-## Notes / files
-- **[cf_empirical1.pdf](cf_empirical1.pdf)**
-
+## Files
 <!-- AUTO-LIST-START -->
 - **[cf_empirical1.pdf](cf_empirical1.pdf)**
 <!-- AUTO-LIST-END -->

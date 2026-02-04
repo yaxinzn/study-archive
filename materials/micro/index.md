@@ -15,11 +15,8 @@ This section builds a coherent micro foundation.
 - **[Week 1](week1/)** — core foundations (Micro1–Micro5)
 - **[Week 2](week2/)** — coming soon
 
-## Notes / files
-Add 1–2 sentences here as your manual description. The list below is auto-generated.
-
+## Files
 <!-- AUTO-LIST-START -->
 - **[week1/](week1/)**
 - **[week2/](week2/)**
 <!-- AUTO-LIST-END -->
-

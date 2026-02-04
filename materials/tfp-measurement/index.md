@@ -23,12 +23,3 @@ This section consolidates coherent frameworks and practical workflows for measur
 - **[Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf](Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf)**
 - **[TFP__Aggregation__Misallocation__and_Dynamic_Decomposition.pdf](TFP__Aggregation__Misallocation__and_Dynamic_Decomposition.pdf)**
 <!-- AUTO-LIST-END -->
-
-## Notes / files
-Add 1–2 sentences here as your manual description. The list below is auto-generated.
-
-<!-- AUTO-LIST-START -->
-- **[Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf](Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf)**
-- **[TFP__Aggregation__Misallocation__and_Dynamic_Decomposition.pdf](TFP__Aggregation__Misallocation__and_Dynamic_Decomposition.pdf)**
-<!-- AUTO-LIST-END -->
-

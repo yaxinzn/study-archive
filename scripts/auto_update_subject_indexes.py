@@ -40,54 +40,18 @@ hero_desc: Notes, PDFs, and structured summaries for {title_guess}.
 """
     return fm + text.lstrip()
 
-def remove_section_by_heading(txt: str, heading: str):
-    # Remove a whole section starting from "## heading" until next "## "
-    pat = re.compile(rf"(?im)^##\s*{re.escape(heading)}\s*$")
-    m = pat.search(txt)
-    if not m:
-        return txt
-    start = m.start()
-    after = txt.find("\n", m.end())
-    after = after + 1 if after != -1 else len(txt)
-    nxt = re.search(r"(?m)^##\s+", txt[after:])
-    end = after + (nxt.start() if nxt else len(txt[after:]))
-    return (txt[:start].rstrip() + "\n\n" + txt[end:].lstrip())
-
-def find_notes_heading(txt: str):
-    # Match "## Notes / files" (case-insensitive, spaces flexible)
-    pat = re.compile(r"(?im)^##\s*Notes\s*/\s*files\s*$")
-    return pat.search(txt)
-
-def ensure_notes_section(txt: str):
-    m = find_notes_heading(txt)
-    if m:
-        return txt
-    # If no Notes/files section, append one with a short editable manual note
-    manual = "Add 1–2 sentences here as your manual description. The list below is auto-generated.\n"
-    block = f"\n\n## Notes / files\n{manual}\n{START}\n- (No files yet.)\n{END}\n"
-    return txt.rstrip() + block + "\n"
-
-def upsert_auto_block_in_notes(txt: str, body_list: str):
-    # Ensure Notes section exists
-    txt = ensure_notes_section(txt)
-    m = find_notes_heading(txt)
-    # Find the section region: from after heading line to next ## heading
-    sec_start = txt.find("\n", m.end())
-    sec_start = sec_start + 1 if sec_start != -1 else len(txt)
-    nxt = re.search(r"(?m)^##\s+", txt[sec_start:])
-    sec_end = sec_start + (nxt.start() if nxt else len(txt[sec_start:]))
-
-    section = txt[sec_start:sec_end]
-
-    # If markers exist, replace only inside markers
-    if START in section and END in section:
-        pat = re.compile(re.escape(START) + r"[\s\S]*?" + re.escape(END))
-        section2 = pat.sub(START + "\n" + body_list + END, section, count=1)
-    else:
-        # Otherwise, append markers at end of the Notes section (preserving manual text above)
-        section2 = section.rstrip() + "\n\n" + START + "\n" + body_list + END + "\n"
-
-    return txt[:sec_start] + section2 + txt[sec_end:]
+def remove_section_by_heading_all(txt: str, heading_regex: str):
+    # remove all sections whose heading matches heading_regex (e.g., ^## Files$)
+    while True:
+        m = re.search(heading_regex, txt, flags=re.IGNORECASE | re.MULTILINE)
+        if not m:
+            return txt
+        start = m.start()
+        after = txt.find("\n", m.end())
+        after = after + 1 if after != -1 else len(txt)
+        nxt = re.search(r"(?m)^##\s+", txt[after:])
+        end = after + (nxt.start() if nxt else len(txt[after:]))
+        txt = (txt[:start].rstrip() + "\n\n" + txt[end:].lstrip())
 
 def title_guess_from_folder(folder: Path):
     pretty = folder.name.replace("-", " ").title()
@@ -115,16 +79,19 @@ def main():
         title_guess = title_guess_from_folder(folder)
         txt = ensure_front_matter(txt, title_guess)
 
-        # Remove duplicated section "## Files" if present
-        txt = remove_section_by_heading(txt, "Files")
+        # Remove duplicated sections entirely:
+        # 1) remove Notes / files sections
+        txt = remove_section_by_heading_all(txt, r"(?m)^##\s*Notes\s*/\s*files\s*$")
+        # 2) remove ALL Files sections (we will add a single fresh one)
+        txt = remove_section_by_heading_all(txt, r"(?m)^##\s*Files\s*$")
 
-        # Update only AUTO-LIST block inside Notes/files section
+        # Append a single Files section with AUTO-LIST
         body = build_md_list(folder)
-        txt = upsert_auto_block_in_notes(txt, body)
+        txt = txt.rstrip() + f"\n\n## Files\n{START}\n{body}{END}\n"
 
         idx.write_text(txt, encoding="utf-8")
 
-    print("✅ Updated all subjects: keep manual note + update only AUTO-LIST inside Notes/files.")
+    print("✅ Updated all subjects: removed Notes/files; kept only Files (AUTO-LIST).")
 
 if __name__ == "__main__":
     main()

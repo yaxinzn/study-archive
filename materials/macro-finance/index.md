@@ -13,9 +13,7 @@ hero_desc: Notes, PDFs, and structured summaries for Macro-Finance.
 ## Reading map
 - (Key papers/books)
 
-## Notes / files
-- (PDFs, derivations, summaries)
-
+## Files
 <!-- AUTO-LIST-START -->
 - (No files yet.)
 <!-- AUTO-LIST-END -->

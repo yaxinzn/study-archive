@@ -50,10 +50,7 @@ hero_desc: Notes, templates, and reproducible workflows for using Stata in empir
 - **Productivity / IO tools (as needed):** `prodest`, `reghdfe`, `ivreg2`, `esttab`, `coefplot`
 - **Reproducibility:** folder structure, globals, logs, do-files, versioning
 
-## Notes / files
-- **[Session_1__Univariate_and_Joint_Tests_Using_lincom_and_testparm.pdf](Session_1__Univariate_and_Joint_Tests_Using_lincom_and_testparm.pdf)**
-- **[Session2__A_Test_of_a_Nonlinear_Combination_of_Coefficients.pdf](Session2__A_Test_of_a_Nonlinear_Combination_of_Coefficients.pdf)**
-
+## Files
 <!-- AUTO-LIST-START -->
 - **[Session2__A_Test_of_a_Nonlinear_Combination_of_Coefficients.pdf](Session2__A_Test_of_a_Nonlinear_Combination_of_Coefficients.pdf)**
 - **[Session_1__Univariate_and_Joint_Tests_Using_lincom_and_testparm.pdf](Session_1__Univariate_and_Joint_Tests_Using_lincom_and_testparm.pdf)**
