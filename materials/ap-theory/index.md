@@ -14,3 +14,10 @@ SDF, no-arbitrage, and equilibrium pricing.
 ## Notes / files
 - **[AP_Linkages.pdf](AP_Linkages.pdf)** — linkages / connections note
 - **[AP1.pdf](AP1.pdf)**
+
+## Files
+<!-- AUTO-LIST-START -->
+- **[AP1/](AP1/)**
+- **[AP1.pdf](AP1.pdf)**
+- **[AP_Linkages.pdf](AP_Linkages.pdf)**
+<!-- AUTO-LIST-END -->

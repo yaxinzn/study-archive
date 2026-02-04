@@ -15,3 +15,10 @@ The file explains that Demand System Asset Pricing (DSAP) is a structural equili
 
 - **[DSAP_and_PBAP.pdf](DSAP_and_PBAP.pdf)**  
 This note gives a two-sided equilibrium intuition linking DSAP (investor demand + market clearing) to PBAP (firm investment Euler equations), showing how PBAP can discipline and validate DSAP-implied discount rates via pricing tests and real investment pass-through.
+
+## Files
+<!-- AUTO-LIST-START -->
+- **[Demand_Shifters_and_Price_Elasticity_in_Asset_Markets.pdf](Demand_Shifters_and_Price_Elasticity_in_Asset_Markets.pdf)**
+- **[Demand_System_Asset_Pricing__DSAP__and_IV_Identification.pdf](Demand_System_Asset_Pricing__DSAP__and_IV_Identification.pdf)**
+- **[DSAP_and_PBAP.pdf](DSAP_and_PBAP.pdf)**
+<!-- AUTO-LIST-END -->

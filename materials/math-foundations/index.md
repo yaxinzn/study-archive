@@ -23,3 +23,8 @@ As I go, I will share:
 - **Optimization:** unconstrained/constrained problems, KKT conditions, envelope theorem, duality
 - **Real analysis essentials:** limits, continuity, differentiation, Taylor expansions
 - **Stochastic processes (as needed):** martingales, Brownian motion, Itô’s lemma
+
+## Files
+<!-- AUTO-LIST-START -->
+- (No files yet.)
+<!-- AUTO-LIST-END -->
