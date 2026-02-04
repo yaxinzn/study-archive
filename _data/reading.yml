@@ -1,3 +1,7 @@
+- title: "Hong & Kacperczyk (QJE, 2010) — Competition and Bias"
+  file: "Hong_Kacperczyk_QJE_2010.pdf"
+  desc: "This note summarizes the paper by laying out the brokerage-house merger natural experiment, the baseline OLS and difference-in-differences designs (including benchmark-adjusted DID via matching and fixed-effects regressions), and interpreting the core tables and figures on how analyst competition shapes forecast optimism and incentives."
+
 - title: "Sammon & Shim (JFE, 2026) — Index rebalancing and stock market composition: Do indexes time the market?"
   file: "Sammon_and_Shim_JFE_2026.pdf"
   desc: "This note distills the paper’s ownership-ratio framework for value-weighted index rebalancing and its evidence that rebalancing trades entail adverse market timing—implying a tracking-error/return trade-off and motivating delayed shares-outstanding updates in index design."
