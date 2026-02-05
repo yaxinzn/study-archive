@@ -1,3 +1,7 @@
+- title: "Dougal, Engelberg, Garcia, Parsons (RFS, 2012) — Journalists and the Stock Market"
+  file: "Dougal_Engelberg_Garcia_Parsons_RFS_2012.pdf"
+  desc: "This note summarizes the paper by leveraging the quasi-exogenous rotation of Wall Street Journal 'Abreast of the Market' columnists, estimating daily DJIA excess-return regressions with journalist indicators/fixed effects (plus interaction, falsification, and robustness specifications), validating identification with schedule-prediction LPM/IV-style tests and text-based tone/readability measures, and interpreting the core tables and figures."
+
 - title: "Vandeweyer, Yang, Yannelis (JFE, 2026)— Discount factors and monetary policy: Evidence from dual-listed stocks"
   file: "Vandeweyer_Yang_Yannelis_JFE_2026.pdf"
   desc: "This note summarizes the paper by using dual-listed A- and H-share price ratios to difference out cash-flow news and isolate relative discount-factor changes, estimating an event-study difference-in-differences design around FOMC (Kuttner-style) monetary policy surprises with firm/announcement/event-time fixed effects, heterogeneity (triple-difference) tests and stacked-DiD robustness, and interpreting the core tables and figures."
