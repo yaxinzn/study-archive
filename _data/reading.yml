@@ -1,3 +1,7 @@
+- title: "Vandeweyer, Yang, Yannelis (JFE, 2026)— Discount factors and monetary policy: Evidence from dual-listed stocks"
+  file: "Vandeweyer_Yang_Yannelis_JFE_2026.pdf"
+  desc: "his note summarizes the paper by using dual-listed A- and H-share price ratios to difference out cash-flow news and isolate relative discount-factor changes, estimating an event-study difference-in-differences design around FOMC (Kuttner-style) monetary policy surprises with firm/announcement/event-time fixed effects, heterogeneity (triple-difference) tests and stacked-DiD robustness, and interpreting the core tables and figures."
+
 - title: "Hong & Kacperczyk (QJE, 2010) — Competition and Bias"
   file: "Hong_Kacperczyk_QJE_2010.pdf"
   desc: "This note summarizes the paper by laying out the brokerage-house merger natural experiment, the baseline OLS and difference-in-differences designs (including benchmark-adjusted DID via matching and fixed-effects regressions), and interpreting the core tables and figures on how analyst competition shapes forecast optimism and incentives."
