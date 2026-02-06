@@ -1,3 +1,7 @@
+- title: "Khorrami & Mendo (WP, 2025)— Dynamic Self-Fulfilling Fire Sales"
+  file: "Khorrami_and_Mendo_WP_2025.pdf"
+  desc: "This note summarizes the paper by developing a continuous-time macro–finance model with hedgeable fundamental risk but unspanned sunspot shocks, characterizing fundamental versus self-fulfilling fire-sale equilibria (Brownian and Poisson) via Markov pricing ODEs, risk-balance conditions, and refinement/selection arguments, and interpreting the main and appendix figures on capital prices, endogenous volatility, wealth-share dynamics, and misallocation."
+
 - title: "Dougal, Engelberg, Garcia, Parsons (RFS, 2012) — Journalists and the Stock Market"
   file: "Dougal_Engelberg_Garcia_Parsons_RFS_2012.pdf"
   desc: "This note summarizes the paper by leveraging the quasi-exogenous rotation of Wall Street Journal 'Abreast of the Market' columnists, estimating daily DJIA excess-return regressions with journalist indicators/fixed effects (plus interaction, falsification, and robustness specifications), validating identification with schedule-prediction LPM/IV-style tests and text-based tone/readability measures, and interpreting the core tables and figures."
