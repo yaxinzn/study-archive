@@ -1,5 +1,5 @@
 ---
-layout: sc
+layout: reading
 title: Paper Reading
 permalink: /reading/
 hero_title: Paper Reading
