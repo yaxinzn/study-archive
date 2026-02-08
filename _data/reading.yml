@@ -1,3 +1,7 @@
+- title: "Pierce & Schott (AER: Insights, 2020) — Trade Liberalization and Mortality: Evidence from US Counties"
+  file: "Pierce_and_Schott_AER_Insights_2020.pdf"
+  desc: "This note summarizes the paper by constructing county exposure to China’s PNTR using a 1990 employment–share shift-share NTR-gap measure, estimating population-weighted county-by-year generalized DiD/event-study regressions with county and year fixed effects plus rich controls/heterogeneity/robustness checks, and interpreting the core figures on post-2000 increases in drug-overdose “deaths of despair” and related labor-market and disability mechanisms."
+
 - title: "Chen, Chen, Kang, and Peng (JFE, 2020) — Board structure, director expertise, and advisory role of outside directors"
   file: "Chen_Chen_Kang_Peng_JFE_2020.pdf"
   desc: "This note summarizes the paper by framing PNTR as an exogenous demand shock for China expertise, presenting the DiD and IV designs for board composition (including Smoot–Hawley and non-U.S. import-penetration instruments), the event-study/OLS–2SLS tests linking China-experience directors to China-deal and appointment CARs, the director labor-market seat-growth analysis, and the residence-based monitoring–advisory trade-off, while interpreting all core tables and figures."
