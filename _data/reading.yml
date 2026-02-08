@@ -1,3 +1,7 @@
+- title: "Chen, Chen, Kang, and Peng (JFE, 2020) — Board structure, director expertise, and advisory role of outside directors"
+  file: "Chen_Chen_Kang_Peng_JFE_2020.pdf"
+  desc: "This note summarizes the paper by framing PNTR as an exogenous demand shock for China expertise, presenting the DiD and IV designs for board composition (including Smoot–Hawley and non-U.S. import-penetration instruments), the event-study/OLS–2SLS tests linking China-experience directors to China-deal and appointment CARs, the director labor-market seat-growth analysis, and the residence-based monitoring–advisory trade-off, while interpreting all core tables and figures."
+
 - title: "Lian and Ma (QJE 2025)— Anatomy of Corporate Borrowing Constraints"
   file: "Lian_Ma_QJE_2021.pdf"
   desc: "This note summarizes the paper by decomposing corporate debt into asset-based versus cash-flow-based components, estimating firm- and year-fixed-effects panel regressions linking borrowing and investment to operating earnings and covenant tightness, leveraging the SFAS 123(r) accounting change as an IV for EBITDA, testing collateral-value channels using real-estate shocks (including a Great Recession cross-section), and interpreting the core tables, figures, and macro implications for earnings-based versus collateral constraints."
