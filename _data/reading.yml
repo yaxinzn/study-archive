@@ -1,3 +1,7 @@
+- title: "Malenko & Shen (RFS, 2016) — The Role of Proxy Advisory Firms: Evidence from a Regression-Discontinuity Design"
+  file: "Malenko_Shen_RFS_2016.pdf"
+  desc: "This note summarizes the paper by exploiting ISS’s explicit TSR cutoff for say-on-pay votes to implement a fuzzy regression discontinuity / 2SLS design (BelowCutoff as an instrument for a negative ISS recommendation), running RD validity checks (McCrary density, covariate balance, placebo/falsification), heterogeneity and bandwidth/functional-form robustness, and interpreting the core tables and figures on the causal effect of proxy-advisor recommendations on voting support."
+
 - title: "Pierce & Schott (AER: Insights, 2020) — Trade Liberalization and Mortality: Evidence from US Counties"
   file: "Pierce_and_Schott_AER_Insights_2020.pdf"
   desc: "This note summarizes the paper by constructing county exposure to China’s PNTR using a 1990 employment–share shift-share NTR-gap measure, estimating population-weighted county-by-year generalized DiD/event-study regressions with county and year fixed effects plus rich controls/heterogeneity/robustness checks, and interpreting the core figures on post-2000 increases in drug-overdose “deaths of despair” and related labor-market and disability mechanisms."
