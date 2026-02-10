@@ -1,3 +1,7 @@
+- title: "Almeida, Ersahin, Fos, Irani, and Kronlund (RFS, 2026) — How Do Short-Term Incentives Affect Long-Term Productivity?"
+  file: "Almeida_Ersahin_Fos_Irani_Kronlund_RFS_2026.pdf"
+  desc: "This note summarizes the paper by linking U.S. Census plant-level manufacturing data to Compustat/CRSP/IBES, constructing a counterfactual “pre-repurchase” EPS surprise as the running variable, estimating a fuzzy regression discontinuity around the zero-surprise threshold to identify the causal effects of EPS-motivated buyback incentives on subsequent firm/plant TFP and resource allocation (investment and employment), and interpreting the core tables and figures on mechanisms via labor/financial frictions, investor horizon, CEO EPS-pay sensitivity, and adjustment costs."
+
 - title: "Malenko & Shen (RFS, 2016) — The Role of Proxy Advisory Firms: Evidence from a Regression-Discontinuity Design"
   file: "Malenko_Shen_RFS_2016.pdf"
   desc: "This note summarizes the paper by exploiting ISS’s explicit TSR cutoff for say-on-pay votes to implement a fuzzy regression discontinuity / 2SLS design (BelowCutoff as an instrument for a negative ISS recommendation), running RD validity checks (McCrary density, covariate balance, placebo/falsification), heterogeneity and bandwidth/functional-form robustness, and interpreting the core tables and figures on the causal effect of proxy-advisor recommendations on voting support."
