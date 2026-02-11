@@ -1,3 +1,8 @@
+- title: "Cunat, Gine, and Guadalupe (JF, 2012) — The Vote Is Cast: The Effect of Corporate
+Governance on Shareholder Value"
+  file: "Cunat_Gine_Guadalupe_JF_2012.pdf"
+  desc: "This note summarizes the paper, which exploits close-call shareholder votes on governance proposals to implement a regression discontinuity design at the majority threshold. It combines Carhart-factor abnormal-return event studies with polynomial and dynamic (stacked) RD specifications—estimated at the meeting level—and supports identification with density/manipulation tests, covariate-balance checks, and extensive robustness and heterogeneity analyses. The note interprets the core tables and figures on the causal value of governance reforms and their longer-run effects on entrenchment (G-index), acquisitions, investment, and firm valuation."
+
 - title: "Almeida, Ersahin, Fos, Irani, and Kronlund (RFS, 2026) — How Do Short-Term Incentives Affect Long-Term Productivity?"
   file: "Almeida_Ersahin_Fos_Irani_Kronlund_RFS_2026.pdf"
   desc: "This note summarizes the paper by linking U.S. Census plant-level manufacturing data to Compustat/CRSP/IBES, constructing a counterfactual “pre-repurchase” EPS surprise as the running variable, estimating a fuzzy regression discontinuity around the zero-surprise threshold to identify the causal effects of EPS-motivated buyback incentives on subsequent firm/plant TFP and resource allocation (investment and employment), and interpreting the core tables and figures on mechanisms via labor/financial frictions, investor horizon, CEO EPS-pay sensitivity, and adjustment costs."
