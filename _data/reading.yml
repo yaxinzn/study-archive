@@ -1,3 +1,7 @@
+- title: "DellaVigna and Kaplan (QJE, 2007) — The Fox News Effect: Media Bias and Voting"
+  file: "DellaVigna_Kaplan_QJE_2007.pdf"
+  desc: "This note summarizes the paper, which exploits the staggered 1996–2000 rollout of Fox News across local cable systems as quasi-random variation, estimates town-level difference-in-differences regressions of 2000–1996 Republican vote-share (and turnout/Senate outcomes) changes on Fox carriage with rich cable and demographic controls plus district/county fixed effects, validates identification with selection and placebo pre-trend tests and matching/robustness checks, and then combines the reduced-form voting effect with Scarborough audience “first-stage” regressions to infer persuasion rates while interpreting the core tables and figures."
+
 - title: "Chang, Wang, and Xiong (RFS 2026) — Price and Volume Divergence in China’s Real Estate Markets: The Role of Local Governments"
   file: "Chang_Wang_Xiong_RFS_2026.pdf"
   desc: "This note summarizes the paper, which documents China’s 2020–2022 land and new-housing price–volume divergence and attributes it to local-government price management, using transaction-level and city-year panel regressions plus dynamic DID/event-study designs that interact pre-COVID (2019) fiscal exposures (land dependence and LGFV debt) with year dummies, complemented by mechanism tests on LGFV countercyclical buying and bidding, housing-permit supply restrictions, and bond-spread/developer-sales analyses, while interpreting all core tables and figures."
