@@ -1,3 +1,7 @@
+- title: "Beck, Levine, and Levkov (JF, 2010)— Big Bad Banks? The Winners and Losers from Bank Deregulation in the United States"
+  file: "Beck_Levine_Levkov_JF_2010.pdf"
+  desc: "This note summarizes the paper, which exploits the staggered timing of U.S. intrastate branch deregulation as a quasi-experiment, estimates state-year DiD and event-study specifications with state/year fixed effects (and a Weibull duration test for deregulation timing), traces distributional effects via income-percentile regressions and Theil decompositions, and tests a labor-demand mechanism using relative wage/hours and unemployment dynamics, interpreting the core tables and figures on deregulation’s inequality-reducing impact."
+
 - title: "DellaVigna and Kaplan (QJE, 2007) — The Fox News Effect: Media Bias and Voting"
   file: "DellaVigna_Kaplan_QJE_2007.pdf"
   desc: "This note summarizes the paper, which exploits the staggered 1996–2000 rollout of Fox News across local cable systems as quasi-random variation, estimates town-level difference-in-differences regressions of 2000–1996 Republican vote-share (and turnout/Senate outcomes) changes on Fox carriage with rich cable and demographic controls plus district/county fixed effects, validates identification with selection and placebo pre-trend tests and matching/robustness checks, and then combines the reduced-form voting effect with Scarborough audience “first-stage” regressions to infer persuasion rates while interpreting the core tables and figures."
