@@ -1,3 +1,7 @@
+- title: "Ammann, Cochardt, Cohen and Heller (JFE, 2026)— Hidden alpha"
+  file: "Ammann_Cochardt_Cohen_Heller_JFE_2026.pdf"
+  desc: "This note summarizes the paper, which constructs a large-scale mutual-fund-manager–firm-officer social network from Facebook (matched to Morningstar and BoardEx) and a key “friendship visibility” state (FullyHidden vs visible), then documents “hidden alpha” using holdings-weight tilting regressions, calendar-time connected–nonconnected long–short portfolios with four-factor and DGTW-adjusted alphas, falsification via connected-not-held portfolios, trade-based buy–sell timing tests, daily news-event return decompositions, and Fama–MacBeth cross-sectional predictability regressions, interpreting the core tables and figures throughout."
+
 - title: "Giroud and Mueller (JFE, 2010)— Does corporate governance matter in competitive industries?"
   file: "Giroud_Mueller_JFE_2010.pdf"
   desc: "This note summarizes the paper, which uses the staggered passage of state business combination (BC) laws as an anti-takeover governance shock, estimates firm-year panel DiD regressions with firm and year fixed effects and a BC×HHI (industry concentration) interaction (plus alternative competition measures and robustness/pre-trend checks), complements the analysis with incorporation-state portfolio market-model event studies and takeover-hazard/mechanism tests, and interprets the core tables and figures showing that product-market competition substitutes for external governance (via a “quiet life” cost channel in concentrated industries)."
