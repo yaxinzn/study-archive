@@ -1,3 +1,7 @@
+- title: "Giroud and Mueller (JFE, 2010)— Does corporate governance matter in competitive industries?"
+  file: "Giroud_Mueller_JFE_2010.pdf"
+  desc: "This note summarizes the paper, which uses the staggered passage of state business combination (BC) laws as an anti-takeover governance shock, estimates firm-year panel DiD regressions with firm and year fixed effects and a BC×HHI (industry concentration) interaction (plus alternative competition measures and robustness/pre-trend checks), complements the analysis with incorporation-state portfolio market-model event studies and takeover-hazard/mechanism tests, and interprets the core tables and figures showing that product-market competition substitutes for external governance (via a “quiet life” cost channel in concentrated industries)."
+
 - title: "van Binsbergen (JFE, 2026)— Duration-based stock valuation: Reassessing stock market performance and volatility"
   file: "van_Binsbergen_JFE_2026.pdf"
   desc: "This note summarizes the paper, which redefines the equity premium using a duration-matched benchmark by valuing equity as a portfolio of dividend strips, constructing strip-weighted constant-maturity and strip-replicating zero-coupon bond counterfactuals from yield curves (with Gordon-growth and dividend-futures-implied weighting schemes), and evaluating U.S. and international evidence via return/volatility term-structure comparisons and a variance decomposition that separates dividend-risk premia from term premia, while interpreting the core tables and figures."
