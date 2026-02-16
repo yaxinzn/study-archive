@@ -1,3 +1,7 @@
+- title: "Masta (JF, 2010)— Capital Structure as a Strategic Variable: Evidence from Collective Bargaining"
+  file: "Matsa_JF_2010.pdf"
+  desc: "This note summarizes the paper, which models debt as a commitment device in union wage bargaining (generalized Nash bargaining under no-refinancing/non-pledgeability), derives the key prediction that leverage (especially near-term debt) rises with union power × profit volatility, and tests it using Rajan–Zingales-style cross-sectional leverage regressions plus state labor-law quasi-experiments (RTW adoption and WSP repeal) in DiD/event-time specifications and complementary inventory-policy evidence, interpreting the core tables and figures."
+
 - title: "Biais, Hombert, and Weill(AER, 2021)— Incentive Constrained Risk Sharing, Segmentation, and Asset Pricing"
   file: "Biais_Hombert_Weill_AER_2021.pdf"
   desc: "This note summarizes the paper, which builds a finite-horizon asset-pricing model with one-step Arrow securities and a rich menu of trees under limited commitment/imperfect pledgeability, derives equilibrium no-arbitrage bounds, existence, and private valuation operators with incentive wedges, characterizes endogenous asset-holding segmentation as an assignment/optimal-transport (power-diagram) partition of payoff space, and develops pricing implications—one-directional (negative) bases versus long-only replication and concave expected-return relations in factor loadings—illustrated with parametric examples and Figures 1–4."
