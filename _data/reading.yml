@@ -1,3 +1,7 @@
+- title: "Gompers, Kaplan, and Mukharlyamov (JFE 2016)— What do private equity firms say they do?"
+  file: "Gompers_Kaplan_Mukharlyamov_JFE_2016.pdf"
+  desc: "This note summarizes the paper, which uses a detailed survey of private equity investors to document how PE firms say they evaluate deals, choose leverage, govern portfolio companies, and create operational value, then applies descriptive cross-tab comparisons and empirical classification tools (k-means clustering and factor analysis) to map heterogeneous “PE styles” and relate them to founder backgrounds while interpreting the core tables and figures."
+
 - title: "Chen, Chen, He, Liu, and Xie (JF, 2023)— Pledgeability and Asset Prices: Evidence from the Chinese Corporate Bond Markets"
   file: "Chen_Chen_He_Liu_Xie_JF_2023.pdf"
   desc: "This note summarizes the paper, which models corporate bond prices as fundamental value + λ × pledgeability (via repo haircuts), exploits dual-listed enterprise bonds trading in segmented exchange vs interbank markets to net out fundamentals, uses the Dec 8, 2014 exchange-only repo-eligibility shock for AA+/AA bonds to run event-study DiD and 2SLS (IV) estimates of the pledgeability premium from cross-market yield wedges (with an exchange-only matched-AAA upper-bound design and arbitrage-bound logic), and interprets the core tables and figures quantifying how a haircut jump (0→100) raises yields by roughly 39–85 bps."
