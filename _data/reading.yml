@@ -1,8 +1,4 @@
-- title: "Kremens, Martin, and Varela (JF, 2025)— Long-Horizon Exchange Rate Expectations"
-  file: "Kremens_Martin_Varela_JF_2025.pdf"
-  desc: "This note summarizes the paper, which uses professional FX surveys to construct long-horizon expected appreciation and expected excess returns (SCA/SXR), estimates panel forecasting regressions that augment UIP (RCA/RXR on SXR and IRD with currency/time fixed effects), benchmarks surveys against predictors like the quanto-implied risk premium (QRP), real exchange rate, VIX, and CA/GDP using in-sample and Goyal–Welch out-of-sample R2 tests, “explains” expectations by projecting surveys on these state variables and testing for any residual “secret sauce,” and studies horizon dependence via annualization and forward-expectation decompositions while interpreting the results through risk-based vs variance-constrained intermediary models and the core tables/figures."
-
-- title: "Gompers, Kaplan, and Mukharlyamov (JFE 2016)— What do private equity firms say they do?"
+- title: "Gompers, Kaplan, and Mukharlyamov (JFE, 2016)— What do private equity firms say they do?"
   file: "Gompers_Kaplan_Mukharlyamov_JFE_2016.pdf"
   desc: "This note summarizes the paper, which uses a detailed survey of private equity investors to document how PE firms say they evaluate deals, choose leverage, govern portfolio companies, and create operational value, then applies descriptive cross-tab comparisons and empirical classification tools (k-means clustering and factor analysis) to map heterogeneous “PE styles” and relate them to founder backgrounds while interpreting the core tables and figures."
 
