@@ -1,3 +1,7 @@
+- title: "Leary & Roberts (JF, 2014) — Do Peer Firms Affect Corporate Financial Policy?"
+  file: "Leary_Roberts_JF_2014.pdf"
+  desc: "This note summarizes the paper, which estimates contemporaneous peer effects in firms’ leverage and financing by instrumenting peer-average financial policies with peers’ lagged idiosyncratic equity-return shocks (constructed from rolling factor-model residuals), running reduced-form and 2SLS peer-effects regressions with industry/year fixed effects plus correlated-effects falsifications (customer–supplier and placebo tests), and quantifying amplification/spillovers and leader–follower heterogeneity"
+
 - title: "Brandt, Kambourov, and Storesletten (RES, 2026) — Barriers to Entry and Regional Economic Growth in China"
   file: "Brandt_Kambourov_Storesletten_RES_2026.pdf"
   desc: "This note summarizes the paper, which documents rapid prefecture-level convergence in China’s non-state manufacturing using the Chinese Industry Census, builds an analytically tractable Hopenhayn-style entry-and-selection model with output/capital wedges plus an explicit licensing-based entry barrier, inverts the model to impute prefecture entry barriers from wages (using firm-level wedge measures and migration-based N/M), validates the barrier measure with World Bank “Doing Business” data and cohort/firm-age mechanism evidence, decomposes convergence and aggregate growth via model-based counterfactual accounting, and then links barriers causally to the SOE sector using cross-sectional IVs and a Bartik design around the 1997 SOE reform."
