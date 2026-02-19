@@ -1,3 +1,7 @@
+- title: "Baghai, Silva, and Ye (RFS, 2024) — Teams and Bankruptcy"
+  file: "Baghai_Silva_Ye_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which links inventor–firm–year patent data to staggered corporate bankruptcies (1980–2015) and estimates inventor fixed-effects DiD and event-study regressions of patent quantity/quality around filing, identifies team-specific human-capital losses by interacting post-bankruptcy exposure with a pre-bankruptcy team-dependence measure, and tests mechanisms with team-stability (“remain together”) outcomes plus pair-level joint-mobility and bankruptcy-resolution/noncompete-enforceability heterogeneity specifications while interpreting the core tables and figures."
+
 - title: "Crane, Michenaud, and Weston (RFS, 2016) — The Effect of Institutional Ownership on Payout Policy: Evidence from Index Thresholds"
   file: "Crane_Michenaud_Weston_RFS_2016.pdf"
   desc: "This note summarizes the paper, which exploits the annual Russell 1000/2000 reconstitution as a quasi-experiment, estimates a sharp regression discontinuity at the market-cap rank cutoff as a first stage for institutional ownership and then a 2SLS/RD-IV second stage for payout policy (dividends, repurchases, total payout), supplements the design with governance-engagement RD regressions and agency-proxy heterogeneity tests (plus bandwidth/float-adjustment/banding robustness), and interprets the core tables and figures linking index-induced institutional ownership to higher payouts via monitoring/agency channels."
