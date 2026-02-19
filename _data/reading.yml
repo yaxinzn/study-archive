@@ -1,3 +1,7 @@
+- title: "Crane, Michenaud, and Weston (RFS, 2016) — The Effect of Institutional Ownership on Payout Policy: Evidence from Index Thresholds"
+  file: "Crane_Michenaud_Weston_RFS_2016.pdf"
+  desc: "This note summarizes the paper, which exploits the annual Russell 1000/2000 reconstitution as a quasi-experiment, estimates a sharp regression discontinuity at the market-cap rank cutoff as a first stage for institutional ownership and then a 2SLS/RD-IV second stage for payout policy (dividends, repurchases, total payout), supplements the design with governance-engagement RD regressions and agency-proxy heterogeneity tests (plus bandwidth/float-adjustment/banding robustness), and interprets the core tables and figures linking index-induced institutional ownership to higher payouts via monitoring/agency channels."
+
 - title: "Leary & Roberts (JF, 2014) — Do Peer Firms Affect Corporate Financial Policy?"
   file: "Leary_Roberts_JF_2014.pdf"
   desc: "This note summarizes the paper, which estimates contemporaneous peer effects in firms’ leverage and financing by instrumenting peer-average financial policies with peers’ lagged idiosyncratic equity-return shocks (constructed from rolling factor-model residuals), running reduced-form and 2SLS peer-effects regressions with industry/year fixed effects plus correlated-effects falsifications (customer–supplier and placebo tests), and quantifying amplification/spillovers and leader–follower heterogeneity."
