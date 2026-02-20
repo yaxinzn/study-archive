@@ -1,3 +1,7 @@
+- title: "Bennedsen, Nielsen, Perez-Gonzalez, and Wolfenzon (QJE, 2007) — Inside the Family Firm: The Role of Families in Succession Decisions and Performance"
+  file: "Bennedsen_Nielsen_Perez-Gonzalez_Wolfenzon_QJE_2007.pdf"
+  desc: "This note summarizes the paper, which links Danish registry data on firms and family relations to a CEO-turnover event design (pre/post profitability changes), estimates baseline OLS and an instrumental-variables (2SLS) strategy that instruments family-CEO appointments with the departing CEO’s firstborn-child gender (with balance, first-stage, and reduced-form validation plus alternative male-child and CEO-death instruments), and interprets all core tables and figures on the causal performance effects of family succession."
+
 - title: "Baghai, Silva, and Ye (RFS, 2024) — Teams and Bankruptcy"
   file: "Baghai_Silva_Ye_RFS_2024.pdf"
   desc: "This note summarizes the paper, which links inventor–firm–year patent data to staggered corporate bankruptcies (1980–2015) and estimates inventor fixed-effects DiD and event-study regressions of patent quantity/quality around filing, identifies team-specific human-capital losses by interacting post-bankruptcy exposure with a pre-bankruptcy team-dependence measure, and tests mechanisms with team-stability (“remain together”) outcomes plus pair-level joint-mobility and bankruptcy-resolution/noncompete-enforceability heterogeneity specifications while interpreting the core tables and figures."
