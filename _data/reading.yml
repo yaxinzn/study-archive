@@ -1,3 +1,8 @@
+- title: "Landais (AEJEP, 2015) — Assessing the Welfare Effects of Unemployment Benefits Using the Regression Kink
+Design"
+  file: "Landais_AEJEP_2015.pdf"
+  desc: "This note summarizes the paper, which uses kinked U.S. unemployment-insurance schedules (weekly benefit level and potential duration) to implement a local-polynomial Regression Kink Design on administrative UI data, combines the RKD estimates with a dynamic search model (Proposition 1) to correct for state dependence and separately identify liquidity vs moral-hazard (Frisch) effects from level-versus-duration changes, and interprets the key density/covariate smoothness validity checks plus the core tables and figures on duration elasticities and welfare implications."
+
 - title: "Cengiz, Dube, Lindner, and Zipperer (QJE, 2019) — The Effect of Minimum Wages on Low-Wage Jobs"
   file: "Cengiz_Dube_Lindner_Zipperer_QJE_2019.pdf"
   desc: "This note summarizes the paper, which uses CPS MORG employment–wage data (benchmarked to QCEW) to estimate a stacked event-study difference-in-differences in state×quarter×wage-bin cells around 138 state minimum-wage hikes, decomposes the wage-distribution response into “missing” jobs below the new floor and “excess” jobs at/above it (plus spillover and elasticity calculations, event-by-event heterogeneity, and TWFE diagnostic comparisons), and interprets all core tables and figures on reallocation within the low-wage distribution with near-zero net employment effects."
