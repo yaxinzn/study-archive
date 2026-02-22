@@ -13,7 +13,6 @@ Demand estimation, cost/production, competition and conduct, entry/exit, identif
 
 ## Files
 <!-- AUTO-LIST-START -->
-- **[EIO_Intro/](EIO_Intro/)**
 - **[contents.pdf](contents.pdf)**
 - **[EIO1.pdf](EIO1.pdf)**
 - **[EIO2.pdf](EIO2.pdf)**
