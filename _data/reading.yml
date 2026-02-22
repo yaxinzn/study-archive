@@ -1,3 +1,7 @@
+- title: "Bennett, Bettis, Gopalan, and Milbourn (JFE, 2017) — Compensation goals and firm performance"
+  file: "Bennett_Bettis_Gopalan_Milbourn_JFE_2017.pdf"
+  desc: "This note summarizes the paper, which uses Incentive Lab executive-contract disclosures matched to Compustat to test for “just-beat-the-goal” bunching in Actual−Goal at zero via McCrary density discontinuity, Bollen–Pool-style across-density tests, bootstrap/bin-based regressions, and then examines mechanisms through target-ratcheting and forced-turnover regressions plus earnings-management/real-actions tests (abnormal accruals and R&D/SG&A cuts)."
+
 - title: "Bretscher, Schmid, Sen, and Sharma (RFS, 2026) — Institutional Corporate Bond Pricing"
   file: "Bretscher_Schmid_Sen_Sharma_RFS_2026.pdf"
   desc: "This note summarizes the paper, which builds and estimates a demand-based equilibrium corporate bond pricing model using institutional holdings and bond prices, specifies a nested-logit demand system within and across rating groups (IG vs HY) identified via a mandate-based sequential IV strategy, imposes market clearing to back out equilibrium spreads, and uses the estimated elasticities to quantify price impact/fragility and counterfactual spread effects of ownership shifts, downgrades, and fund outflows."
