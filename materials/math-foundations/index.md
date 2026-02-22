@@ -8,8 +8,8 @@ hero_desc: Notes, PDFs, and structured summaries for Math Foundations.
 
 # Math Foundations
 
-## Math plan (starting week of 12 Jan)
-To prepare the math foundations I will need for future research, I will work through the **Math Camp 2019** materials offered by Mark Walker (https://markwalkereconomics.com/MathCamp2019.htm). Starting in the **week of 12 Jan 2026**, I plan to complete the full set over the next **six weeks**. 
+## Math plan
+To prepare the math foundations I will need for future research, I will work through the **Math Camp 2019** materials offered by Mark Walker (https://markwalkereconomics.com/MathCamp2019.htm).
 
 As I go, I will share:
 - concise notes and worked derivations,
