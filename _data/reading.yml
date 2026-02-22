@@ -1,3 +1,7 @@
+- title: "Bretscher, Schmid, Sen, and Sharma (RFS, 2026) — Institutional Corporate Bond Pricing"
+  file: "Bretscher_Schmid_Sen_Sharma_RFS_2026.pdf"
+  desc: "This note summarizes the paper, which builds and estimates a demand-based equilibrium corporate bond pricing model using institutional holdings and bond prices, specifies a nested-logit demand system within and across rating groups (IG vs HY) identified via a mandate-based sequential IV strategy, imposes market clearing to back out equilibrium spreads, and uses the estimated elasticities to quantify price impact/fragility and counterfactual spread effects of ownership shifts, downgrades, and fund outflows."
+
 - title: "Landais (AEJEP, 2015) — Assessing the Welfare Effects of Unemployment Benefits Using the Regression Kink
 Design"
   file: "Landais_AEJEP_2015.pdf"
