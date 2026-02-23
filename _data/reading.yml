@@ -1,3 +1,7 @@
+- title: "Bombardini, Li, and Trebbi (AER, 2023) — Did US Politicians Expect the China Shock?"
+  file: "Bombardini_Li_Trebbi_AER_2023.pdf"
+  desc: "This note summarizes the paper, which models repeated 1990–2001 House votes on renewing China’s NTR as a forward-looking probit choice that depends on legislators’ expected future district China-import shock, estimates preference and information parameters under alternative information sets using probit MLE (when the information set is specified) and moment-inequality inference (when it is only partially observed), constructs past and future district exposure via an industry-level shift-share China-shock measure aggregated from commuting zones, and uses heterogeneity tests and counterfactual simulations (perfect information vs stronger constituent sensitivity) to assess whether politicians anticipated the China shock and how much they weighted it relative to ideology."
+
 - title: "Bennett, Bettis, Gopalan, and Milbourn (JFE, 2017) — Compensation goals and firm performance"
   file: "Bennett_Bettis_Gopalan_Milbourn_JFE_2017.pdf"
   desc: "This note summarizes the paper, which uses Incentive Lab executive-contract disclosures matched to Compustat to test for “just-beat-the-goal” bunching in Actual−Goal at zero via McCrary density discontinuity, Bollen–Pool-style across-density tests, bootstrap/bin-based regressions, and then examines mechanisms through target-ratcheting and forced-turnover regressions plus earnings-management/real-actions tests (abnormal accruals and R&D/SG&A cuts)."
