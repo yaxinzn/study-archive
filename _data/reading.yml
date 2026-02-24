@@ -1,3 +1,7 @@
+- title: "Bao & Edmans (RFS, 2011) — Do Investment Banks Matter for M&A Returns?"
+  file: "Bao_Edmans_RFS_2011.pdf"
+  desc: "This note summarizes the paper, which uses a large SDC–CRSP sample of U.S. acquisitions to compute (−1,+1) acquirer announcement CARs, estimates deal-level regressions with advisor (bank) fixed effects (with time and acquirer controls/fixed effects and residualized CAR measures) to quantify economically large bank effects, tests persistence via bank performance sorts and bank-year panel regressions, and studies why persistence survives using market-share dynamics, repeat-advisor (relationship lock-in) comparisons, and a no-relationship logit bank-choice model"
+
 - title: "Horenstein, Vasquez, and Xiao (RFS, 2026) — Common Factors in Equity Option Returns"
   file: "Horenstein_Vasquez_Xiao_RFS_2026.pdf"
   desc: "This note summarizes the paper, which constructs daily delta-hedged equity option returns from OptionMetrics and characteristic-sorted ATM (and OTM) call/put portfolios, estimates the latent common-factor structure using PCA and factor-number/residual-factor tests, and then translates those latent factors into a parsimonious tradable model by searching across candidate long–short strategies to select the four-factor benchmark {EWOP,HV–IV,Cash,VOV}, interpreting the core tables and figures on shared vs contract-specific option-return factors and their in-/out-of-sample pricing performance."
