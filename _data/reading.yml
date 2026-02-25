@@ -1,3 +1,7 @@
+- title: "Fang, Liu, and Roussanov (RFS, 2026) — Getting to the Core: Inflation Risks Within and Across Asset Classes"
+  file: "Fang_Liu_Roussanov_RFS_2026.pdf"
+  desc: "This note summarizes the paper, which extracts headline/core/food/energy inflation shocks from a reduced-form VAR, estimates cross-asset inflation betas via inflation-hedging time-series regressions, prices these risks in the cross section using a two-step Fama–MacBeth (Shanken-corrected) beta-pricing framework and factor-mimicking portfolios (within and across eight asset classes), studies time variation with conditional risk-price estimation and spanning/high-frequency announcement tests, and rationalizes the core-versus-energy findings in a two-sector New Keynesian asset-pricing model with sticky core prices and flexible energy."
+
 - title: "Bao & Edmans (RFS, 2011) — Do Investment Banks Matter for M&A Returns?"
   file: "Bao_Edmans_RFS_2011.pdf"
   desc: "This note summarizes the paper, which uses a large SDC–CRSP sample of U.S. acquisitions to compute (−1,+1) acquirer announcement CARs, estimates deal-level regressions with advisor (bank) fixed effects (with time and acquirer controls/fixed effects and residualized CAR measures) to quantify economically large bank effects, tests persistence via bank performance sorts and bank-year panel regressions, and studies why persistence survives using market-share dynamics, repeat-advisor (relationship lock-in) comparisons, and a no-relationship logit bank-choice model."
