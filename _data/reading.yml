@@ -1,3 +1,8 @@
+- title: "Hilscher, Raviv, and Reis (RFS, 2026) — How Likely Is an Inflation Disaster?"
+  file: "Hilscher_Raviv_Reis_RFS_2026.pdf"
+  desc: "
+This note summarizes the paper, which measures forward (e.g., 5y5y) inflation “disaster” probabilities from inflation options by (i) recovering nominal and risk-neutral distributions from option prices via strike-curvature identities, (ii) applying an inflation (real-payoff) adjustment to convert conventional nominal objects into real risk-neutral probabilities, (iii) imposing a parsimonious restricted Markov-chain persistence model (estimated by GMM using 5y/10y and forward-starting option slices) to transform cumulative horizons into forward-window probabilities, and (iv) mapping risk-neutral tails into physical tails with a tail-only rare-disaster risk-adjustment model (Pareto disaster sizes calibrated to long-run macro data), then interpreting the core tables and figures on deanchoring, reanchoring, and “scarring” in long-run inflation tail risk."
+
 - title: "Boone & Mulherin (JF, 2007) — How Are Firms Sold?"
   file: "Boone_Mulherin_JF_2007.pdf"
   desc: "This note summarizes the paper, which opens the private takeover “black box” by hand-collecting sale-process measures from SEC filings (contacts, confidentiality/standstill agreements, private written bids, and public bids), classifies auctions vs. negotiations based on the private stage, and tests whether auctions generate higher target returns using announcement-window event studies, multivariate OLS, and an endogeneity-corrected two-stage probit least squares (2SPLS) system."
