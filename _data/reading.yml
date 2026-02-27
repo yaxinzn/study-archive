@@ -1,3 +1,8 @@
+- title: "Cunningham, Ederer, and Ma (JPE, 2021) — Killer Acquisitions"
+  file: "Cunningham_Ederer_Ma_JPE_2021.pdf"
+  desc: "
+This note summarizes the paper, which formalizes “killer acquisitions” in a simple acquisition-and-innovation model where product-market overlap creates a replacement effect that makes incumbents optimally discontinue acquired innovation, and then tests the predictions using pharma project-level data by estimating project-year development panel triple-difference regressions 1{Acquired}×1{Post}×1{Overlap} with rich fixed effects and pre-trend checks, competition and patent-life heterogeneity designs, a deal-fixed-effect conditional logit for acquisition choice, and discontinuity-style evidence around HSR antitrust thresholds, complemented by asset-redeployment/human-capital and deal-value analyses."
+
 - title: "Hilscher, Raviv, and Reis (RFS, 2026) — How Likely Is an Inflation Disaster?"
   file: "Hilscher_Raviv_Reis_RFS_2026.pdf"
   desc: "
