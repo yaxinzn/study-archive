@@ -1,9 +1,11 @@
 ---
-layout: sc
+layout: minimal
 title: Micro
 hero_title: Micro
 hero_subtitle: Study materials
 hero_desc: Notes, PDFs, and structured summaries for Micro.
+hide_name: true
+
 ---
 
 # Micro

@@ -1,9 +1,11 @@
 ---
-layout: sc
+layout: minimal
 title: Math Foundations
 hero_title: Math Foundations
 hero_subtitle: Study materials
 hero_desc: Notes, PDFs, and structured summaries for Math Foundations.
+hide_name: true
+
 ---
 
 # Math Foundations

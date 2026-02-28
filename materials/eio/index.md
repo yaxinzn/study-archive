@@ -1,9 +1,11 @@
 ---
-layout: sc
+layout: minimal
 title: Empirical IO
 hero_title: Empirical IO
 hero_subtitle: Study materials
 hero_desc: Notes, PDFs, and structured summaries for Empirical IO.
+hide_name: true
+
 ---
 
 # Empirical IO

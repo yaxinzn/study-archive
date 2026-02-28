@@ -1,10 +1,12 @@
 ---
-layout: sc
+layout: minimal
 permalink: /
 title: Study Cycles
 hero_title: Study Cycles
 hero_subtitle: Weekly study loops across core fields
 hero_desc: Weekly loops across micro, macro, econometrics, empirical IO, asset pricing, corporate finance, and macro-finance.
+hide_name: true
+
 ---
 
 ## Method: the 7-day loop (Saturday = review)

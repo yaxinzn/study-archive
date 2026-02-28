@@ -1,9 +1,11 @@
 ---
-layout: sc
+layout: minimal
 title: Stata
 hero_title: Stata
 hero_subtitle: Practical workflows
 hero_desc: Notes, templates, and reproducible workflows for using Stata in empirical research.
+hide_name: true
+
 ---
 
 <style>

@@ -1,10 +1,12 @@
 ---
-layout: sc
+layout: minimal
 title: Updates
 permalink: /updates/
 hero_title: Updates
 hero_subtitle: Change log
 hero_desc: Commit-based update history for Study Cycles (newest → oldest).
+hide_name: true
+
 ---
 
 <style>

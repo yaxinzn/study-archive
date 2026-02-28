@@ -1,9 +1,11 @@
 ---
-layout: sc
+layout: minimal
 title: Econometrics
 hero_title: Econometrics
 hero_subtitle: Study materials
 hero_desc: Notes, PDFs, and structured summaries for Econometrics.
+hide_name: true
+
 ---
 
 # Econometrics

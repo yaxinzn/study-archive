@@ -51,7 +51,7 @@ main p{ color: var(--muted); line-height: 1.78; }
 <body>
   <header class="topbar">
     <div class="container toprow">
-      <div class="brand">{{ page.brand | default: "Live Tables" }}</div>
+      <div class="brand">{{ page.brand | default: page.title | default: "Study Cycles" }}</div>
       <nav class="nav" aria-label="Navigation">
         <a href="{{ site.baseurl }}/">Study Cycles</a>
         <a href="{{ site.baseurl }}/updates/">Updates</a>

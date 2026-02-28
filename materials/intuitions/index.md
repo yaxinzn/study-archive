@@ -1,9 +1,11 @@
 ---
-layout: sc
+layout: minimal
 title: Intuitions
 hero_title: Intuitions
 hero_subtitle: Reading notes & core concepts
 hero_desc: DSAP-style intuitions, demand shifters, price elasticity, and identification logic.
+hide_name: true
+
 ---
 
 ## Files

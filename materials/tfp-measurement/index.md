@@ -1,9 +1,11 @@
 ---
-layout: sc
+layout: minimal
 title: TFP Measurement
 hero_title: TFP Measurement
 hero_subtitle: Study materials
 hero_desc: Notes, PDFs, and structured summaries for measuring firm- and plant-level productivity (TFP), with a focus on identification, measurement, and implementation.
+hide_name: true
+
 ---
 
 # TFP Measurement
