@@ -1,12 +1,7 @@
-- title: "Kepler, Naiker, and Stewar (JF, 2023) — Stealth Acquisitions and Product Market Competition"
-  file: "Kepler_Naiker_Stewar_JF_2023.pdf"
-  desc: "
-This note summarizes the paper, which exploits the time-varying Hart–Scott–Rodino (HSR) filing threshold as a regulatory notch by standardizing deal values around the cutoff, documents “stealth” bunching with McCrary density and histogram-bin tests plus placebo/falsification cutoffs, characterizes avoidance using fixed-effects linear probability models of being just-below (earnouts/contract terms, payment form, CEO ties, and overlap–concentration interactions), and links these deals to reduced competition using rival announcement-return event studies, industry gross-margin changes, and retail-scanner price difference-in-differences (including common-vs-uncommon products)."
-
-- title: "Goldstein, Liu, and Yang (JFE, 2026) — Market feedback: Evidence from the horse’s mouth"
+- title: "Goldstein, Liu, and Yang (JFE, 2026) — Market Feedback: Evidence from the Horse’s Mouth"
   file: "Goldstein_Liu_Yang_JFE_2026.pdf"
   desc: "
-his note summarizes the paper, which surveys (nearly) the universe of Chinese listed firms in 2019 and 2022 about stock-price monitoring and learning vs. financing motives, and then validates these responses using (i) cross-sectional Probit models for the determinants of “learning,” (ii) firm-year fixed-effects regressions of investment-to-price (Tobin’s Q) sensitivity (including content-specific splits), (iii) M&A activity/performance regressions tied to “learning about M&A,” and (iv) firm-month Probit models of discretionary trading suspensions interacted with large price drops, interpreting the core tables and figures as direct evidence of market feedback."
+This note summarizes the paper, which surveys (nearly) the universe of Chinese listed firms in 2019 and 2022 about stock-price monitoring and learning vs. financing motives, and then validates these responses using (i) cross-sectional Probit models for the determinants of “learning,” (ii) firm-year fixed-effects regressions of investment-to-price (Tobin’s Q) sensitivity (including content-specific splits), (iii) M&A activity/performance regressions tied to “learning about M&A,” and (iv) firm-month Probit models of discretionary trading suspensions interacted with large price drops, interpreting the core tables and figures as direct evidence of market feedback."
 
 - title: "Beyhaghi, Fracassi, and Weitzner (JF, 2026) — Adverse Selection in Corporate Loan Markets"
   file: "Beyhaghi_Fracassi_Weitzner_JF_2026.pdf"
