@@ -1,3 +1,8 @@
+- title: "Kepler, Naiker, and Stewar (JF, 2023) — Stealth Acquisitions and Product Market Competition"
+  file: "Kepler_Naiker_Stewar_JF_2023.pdf"
+  desc: "
+This note summarizes the paper, which exploits the time-varying Hart–Scott–Rodino (HSR) filing threshold as a regulatory notch by standardizing deal values around the cutoff, documents “stealth” bunching with McCrary density and histogram-bin tests plus placebo/falsification cutoffs, characterizes avoidance using fixed-effects linear probability models of being just-below (earnouts/contract terms, payment form, CEO ties, and overlap–concentration interactions), and links these deals to reduced competition using rival announcement-return event studies, industry gross-margin changes, and retail-scanner price difference-in-differences (including common-vs-uncommon products)."
+
 - title: "Goldstein, Liu, and Yang (JFE, 2026) — Market feedback: Evidence from the horse’s mouth"
   file: "Goldstein_Liu_Yang_JFE_2026.pdf"
   desc: "
