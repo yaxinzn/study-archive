@@ -1,3 +1,8 @@
+- title: "Cao, Liang, Yao, and Zhang (JFE, 2026) — Liquidity characteristics of market anomalies and institutional trading"
+  file: "Cao_Liang_Yao_Zhang_JFE_2026.pdf"
+  desc: "
+This note summarizes the paper, which studies 32 market anomalies by forming long–short tercile portfolios, measuring liquidity with ranked Amihud illiquidity and pre-formation liquidity changes, decomposing institutional trading into liquidity-related vs residual components via cross-sectional regressions (within exchange/size cells), tracing liquidity gradients to corporate events and information-environment shocks using Fama–MacBeth and event-driven trading decompositions, validating causality with tick-size-reform DiD quasi-experiments, and linking liquidity-motivated “wrong-way” trading to anomaly alphas by sorting on trading direction while interpreting all core tables and figures."
+
 - title: "Ahern and Sosyura (JF, 2014) — Who Writes the News? Corporate Press Releases during Merger Negotiations"
   file: "Ahern_Sosyura_JF_2014.pdf"
   desc: "
