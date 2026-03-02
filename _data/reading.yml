@@ -1,3 +1,8 @@
+- title: "Li, Sokolinski, and Tamoni (JFE, 2026) — Which investors drive anomaly returns and how?"
+  file: "Li_Sokolinski_Tamoni_JFE_2026.pdf"
+  desc: "
+This note summarizes the paper, which estimates a two-tier nested-logit equity demand system (industry allocation and within-industry stock choice) on holdings data using counterfactual price instruments, solves the implied equilibrium pricing map each quarter to run sequential block-by-block counterfactuals (industry rotation, shares/characteristics, AUM/flows, characteristics demand, latent demand), maps the resulting price changes into anomaly long–short portfolio returns to perform a covariance-based time-series variance decomposition by trading motive and investor type, and embeds these components in a Campbell-style VAR cash-flow vs discount-rate news decomposition to interpret the core tables and figures on who drives anomaly returns and why."
+
 - title: "Dinc and Erel (JF, 2013) — Economic Nationalism in Mergers and Acquisitions"
   file: "Dinc_Erel_JF_2013.pdf"
   desc: "
