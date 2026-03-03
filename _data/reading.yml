@@ -1,3 +1,8 @@
+- title: "Vesa_Pursiainen (JF, 2022) — Cultural Biases in Equity Analysis"
+  file: "Vesa_Pursiainen_JF_2022.pdf"
+  desc: "
+This note summarizes the paper, which constructs a bilateral cultural trust-bias measure from Eurobarometer survey residuals (origin-, destination-, and year-FE), estimates analyst–firm–month recommendation/target-price (and earnings-forecast) regressions with demanding analyst–month and firm–month fixed effects plus salience and sentiment interactions, exploits the European debt crisis and Brexit as perception shocks in triple-difference/event-time designs, and tests market recognition and information content using recommendation-announcement CAR regressions and monthly-return predictability specifications."
+
 - title: "Li, Sokolinski, and Tamoni (JFE, 2026) — Which investors drive anomaly returns and how?"
   file: "Li_Sokolinski_Tamoni_JFE_2026.pdf"
   desc: "
