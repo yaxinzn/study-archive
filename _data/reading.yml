@@ -1,3 +1,8 @@
+- title: "Tomunen (RFS, 2026) — Failure to Share Natural Disaster Risk"
+  file: "Tomunen_RFS_2026.pdf"
+  desc: "
+This note summarizes the paper, which uses catastrophe bonds as a clean laboratory where disaster cash flows are (approximately) orthogonal to household macro risk, develops a segmented-intermediary asset-pricing model with a “skin-in-the-game” outside-capital constraint and mean–variance/CRRA mapping, constructs bond-level expected excess returns as discount margin minus expected actuarial loss, estimates forward-looking “cat-market betas” via Monte Carlo simulations of bond-state returns by peril category, tests “failure to share” risk through Fama–MacBeth cross-sectional pricing regressions and pooled time-series restrictions tying the aggregate disaster premium to specialist AUM versus market size, and validates the exclusion restriction plus alternative channels with international macro local projections and liquidity/climate-change robustness checks."
+
 - title: "Vesa_Pursiainen (JF, 2022) — Cultural Biases in Equity Analysis"
   file: "Vesa_Pursiainen_JF_2022.pdf"
   desc: "
