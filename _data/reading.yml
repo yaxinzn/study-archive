@@ -1,3 +1,8 @@
+- title: "Cookson, Niessner, and Schiller (JF, 2026) — Can Social Media Inform Corporate Decisions? Evidence from Merger Withdrawals"
+  file: "Cookson_Niessner_Schiller_JF_2026.pdf"
+  desc: "
+This note summarizes the paper, which uses StockTwits cashtagged posts to construct deal-level abnormal sentiment around M&A announcements, estimates linear-probability withdrawal regressions with rich CAR/news/analyst controls and fixed effects, tests value implications via post-announcement BHAR and an AbnSent ×Withdrawn interaction, and provides learning-mechanism evidence using corporate-Twitter adoption interactions plus text/topic classifications (max-entropy/naive Bayes sentiment and BTM topics)."
+
 - title: "Boguth, Duchin, and Simutin(JF, 2022) — Dissecting Conglomerate Valuations"
   file: "Boguth_Duchin_Simutin_JF_2022.pdf"
   desc: "
