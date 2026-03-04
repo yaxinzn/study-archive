@@ -1,4 +1,4 @@
-- title: "Boguth, Duchin, and Simutin(JF, 2022 ) — Dissecting Conglomerate Valuations"
+- title: "Boguth, Duchin, and Simutin(JF, 2022) — Dissecting Conglomerate Valuations"
   file: "Boguth_Duchin_Simutin_JF_2022.pdf"
   desc: "
 This note summarizes the paper, which replaces standalone-industry multiples with a conglomerate-implied estimator of divisional q (year-by-year cross-sectional median/quantile regressions of value-to-sales on segment-share exposures), defines RDQ as the log wedge between divisional and standalone q, uses economic vs. credit-shock sensitivity regressions (including PC “horse races”) and coinsurance/covariance splits to isolate a financing-frictions/internal-capital-markets mechanism, and links RDQ to real outcomes via investment–q sensitivities (including spinoff pre/post flips) and diversifying M&A intensity and announcement-return regressions."
