@@ -1,3 +1,8 @@
+- title: "Schroth, Suarez, and Taylor (JFE, 2014) — Dynamic debt runs and financial fragility: Evidence from the 2007 ABCP crisis"
+  file: "Schroth_Suarez_Taylor_JFE_2014.pdf"
+  desc: "
+This note summarizes the paper, which estimates a structural continuous-time short-term debt run model with endogenous rollover yields (dilution-risk amplification) and a yield-cap–pinned run threshold, fits it to weekly conduit-level DTCC ABCP issuance/yield data via simulated method of moments using yield-volatility, pre-run event-time spread dynamics, and run-forecasting moments (separately for strong vs weak guarantee subsamples), and uses the estimated parameters to quantify fragility and warning signals."
+
 - title: "Cookson, Niessner, and Schiller (JF, 2026) — Can Social Media Inform Corporate Decisions? Evidence from Merger Withdrawals"
   file: "Cookson_Niessner_Schiller_JF_2026.pdf"
   desc: "
