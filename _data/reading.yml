@@ -1,3 +1,8 @@
+- title: "Taylor (JF, 2010) — Why Are CEOs Rarely Fired? Evidence from Structural Estimation"
+  file: "Taylor_JF_2010.pdf"
+  desc: "
+This note summarizes the paper, which structurally estimates a dynamic board firing problem with Bayesian learning about CEO ability from persistent profitability plus an additional signal, embeds a threshold dismissal rule with both real turnover costs and an entrenchment (board “personal cost”) wedge, and fits the model by simulated method of moments to CEO-spell, profitability-dynamics, and event-time/hazard moments to explain why forced CEO turnover is rare and to run counterfactuals (e.g., removing entrenchment)."
+
 - title: "Schroth, Suarez, and Taylor (JFE, 2014) — Dynamic debt runs and financial fragility: Evidence from the 2007 ABCP crisis"
   file: "Schroth_Suarez_Taylor_JFE_2014.pdf"
   desc: "
