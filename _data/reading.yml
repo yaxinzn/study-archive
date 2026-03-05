@@ -1,3 +1,8 @@
+- title: "Giroud, Liu, and Mueller (JFE, 2026) — Innovation spillovers across U.S. tech clusters"
+  file: "Giroud_Liu_Mueller_JFE_2026.pdf"
+  desc: "
+This note summarizes the paper, which uses Census plant-year data matched to USPTO patents (1976–2018) to define clusters as BEA economic area × CPC field and measure inventor productivity and plant TFPR; it estimates within-cluster spillover regressions with plant and city×year/field×year/city×field fixed effects and cross-cluster spillover regressions that compare plants in the same city×field×year but connected through their parent firm to different innovating clusters; identification is bolstered with inventor-based placebos, a network-based 2SLS instrument for connected-cluster size, and mechanism evidence from no distance decay and patent-citation shares; finally, it develops a multi-location model and calibrates a social–private innovation wedge γn /βn to rank clusters by underinvestment and policy relevance."
+
 - title: "Taylor (JF, 2010) — Why Are CEOs Rarely Fired? Evidence from Structural Estimation"
   file: "Taylor_JF_2010.pdf"
   desc: "
