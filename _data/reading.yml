@@ -1,3 +1,8 @@
+- title: "Jiang & Zhang (JFE, 2025) — Innovation spillovers across U.S. tech clusters"
+  file: "Jiang_Zhang_JFE_2025.pdf"
+  desc: "
+This note summarizes the paper, which measures collateral value uncertainty using a hedonic-price/heteroskedasticity house price dispersion estimator (predicted idiosyncratic price volatility, aggregated to zipcode-year), estimates reduced-form fixed-effects regressions linking dispersion to mortgage rejections, interest-rate menus conditional on leverage, and loan-to-price outcomes, identifies causality with a house non-standardization IV in 2SLS (validated via ex-post default “exclusion” tests), and calibrates a structural mortgage-origination model that decomposes effects into collateral-recovery versus appraisal-risk channels and evaluates policy counterfactuals."
+
 - title: "Giroud, Liu, and Mueller (JFE, 2026) — Innovation spillovers across U.S. tech clusters"
   file: "Giroud_Liu_Mueller_JFE_2026.pdf"
   desc: "
