@@ -1,3 +1,8 @@
+- title: "Hansen & Tong (RFS, 2026) — Option Pricing with Time-Varying Volatility Risk Aversion"
+  file: "Hansen_Tong_RFS_2026.pdf"
+  desc: "
+This note summarizes the paper, which builds a discrete-time option-pricing framework that keeps physical returns in a Heston–Nandi GARCH but lets volatility risk aversion vary over time through a derivative-implied variance risk ratio ηt , derives the no-arbitrage mapping to time-varying risk-neutral dynamics and a closed-form VIX, prices options using an MGF-based second-order analytic approximation under stochastic ηt , and estimates ηt with a score-driven (observation-driven) state update in a joint likelihood on returns, VIX, and option panels while interpreting the core tables and figures on pricing-kernel curvature flips and the DHNG model’s large in-/out-of-sample fit gains."
+
 - title: "Taschereau-Dumouchel (RES, 2026) — Cascades and Fluctuations in an Economy with an Endogenous Production Network"
   file: "Taschereau-Dumouchel_RES_2026.pdf"
   desc: "
