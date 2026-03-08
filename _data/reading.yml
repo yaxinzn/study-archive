@@ -1,3 +1,8 @@
+- title: "Taschereau-Dumouchel (RES, 2026) — Cascades and Fluctuations in an Economy with an Endogenous Production Network"
+  file: "Taschereau-Dumouchel_RES_2026.pdf"
+  desc: "
+This note summarizes the paper, which models endogenous production-network formation through firms’ costly operate/exit decisions in a CES input–output economy, solves the NP-hard planner over the operating set with a “reshaping” relaxation that preserves and selects corner solutions, characterizes efficient versus distorted equilibria and cascade dynamics from complementarities, and quantifies the mechanism by calibrating/simulating the model on U.S. supply-chain data (Factset/Compustat) and estimating distance-based neighbor-exit spillover regressions, interpreting the core tables and figures on clustering, cascades, and aggregate fluctuations."
+
 - title: "Drechsler, Savov, and Schnabl (JFE, 2022) — How monetary policy shaped the housing boom"
   file: "Drechsler_Savov_Schnabl_JFE_2022.pdf"
   desc: "
