@@ -47,7 +47,7 @@ brand: Variables (Live)
   <div class="announce-title">Announcements</div>
   <ul>
     <li>
-      <strong>March 8:</strong> Will update all the variables from <em>Review of Financial Studies</em>,
+      <strong>March 8:</strong> Updated all the variables from <em>Review of Financial Studies</em>,
       Volume 39, Issue 3 (March 2026).
     </li>
   </ul>
