@@ -1,3 +1,7 @@
+- title: "Sun & Tongnd (JFE, 2003) - China Share Issue Privatization: The Extent of Its Success"
+  file: "Sun_Tong_JFE_2003.pdf"
+  desc: "This note summarizes the paper, which evaluates China’s share-issue privatization using an event-time before–after design around the listing year for 634 firms (1994–1998), constructs real/normalized profit, output, leverage, and productivity measures, applies Wilcoxon signed-rank/rank-sum and proportion tests plus cross-sectional and firm fixed-effects regressions to link post-listing performance to ownership structure (state vs legal-person/foreign shares), and addresses selection with state-share regressions and a logit for foreign-share issuance while interpreting the core tables and Figure 1 on stock-market returns."
+
 - title: "Hansen & Tong (RFS, 2026) — Option Pricing with Time-Varying Volatility Risk Aversion"
   file: "Hansen_Tong_RFS_2026.pdf"
   desc: "
