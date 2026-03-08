@@ -1,28 +1,6 @@
-- title: "Hansen & Tong (RFS, 2026) — Option Pricing with Time-Varying Volatility Risk Aversion"
-  file: "Hansen_Tong_RFS_2026.pdf"
-  desc: "
-This note summarizes the paper, which builds a discrete-time option-pricing framework that keeps physical returns in a Heston–Nandi GARCH but lets volatility risk aversion vary over time through a derivative-implied variance risk ratio ηt , derives the no-arbitrage mapping to time-varying risk-neutral dynamics and a closed-form VIX, prices options using an MGF-based second-order analytic approximation under stochastic ηt , and estimates ηt with a score-driven (observation-driven) state update in a joint likelihood on returns, VIX, and option panels while interpreting the core tables and figures on pricing-kernel curvature flips and the DHNG model’s large in-/out-of-sample fit gains."
-
-./scripts/add_reading_paper.sh \"$PDF\" \"$TITLE\" \"$DESC\"
-
-
-
-
-
-
-cd \"/Users/yaxinzheng/study-archive\" || exit 1
-
-PDF=\"/Users/yaxinzheng/Library/CloudStorage/Dropbox/Study_Cycle/paper/Hansen_Tong_RFS_2026.pdf\"
-TITLE=\"Hansen & Tong (RFS, 2026) — Option Pricing with Time-Varying Volatility Risk Aversion\"
-
-DESC=\"$(cat <<'EOF'
-
-This note summarizes the paper, which builds a discrete-time option-pricing framework that keeps physical returns in a Heston–Nandi GARCH but lets volatility risk aversion vary over time through a derivative-implied variance risk ratio ηt , derives the no-arbitrage mapping to time-varying risk-neutral dynamics and a closed-form VIX, prices options using an MGF-based second-order analytic approximation under stochastic ηt , and estimates ηt with a score-driven (observation-driven) state update in a joint likelihood on returns, VIX, and option panels while interpreting the core tables and figures on pricing-kernel curvature flips and the DHNG model’s large in-/out-of-sample fit gains."
-
-- title: "Taschereau-Dumouchel (RES, 2026) — Cascades and Fluctuations in an Economy with an Endogenous Production Network"
+- title: "Taschereau-Dumouchel (RES, 2026) - Cascades and Fluctuations in an Economy with an Endogenous Production Network"
   file: "Taschereau-Dumouchel_RES_2026.pdf"
-  desc: "
-This note summarizes the paper, which models endogenous production-network formation through firms’ costly operate/exit decisions in a CES input–output economy, solves the NP-hard planner over the operating set with a “reshaping” relaxation that preserves and selects corner solutions, characterizes efficient versus distorted equilibria and cascade dynamics from complementarities, and quantifies the mechanism by calibrating/simulating the model on U.S. supply-chain data (Factset/Compustat) and estimating distance-based neighbor-exit spillover regressions, interpreting the core tables and figures on clustering, cascades, and aggregate fluctuations."
+  desc: "This note summarizes the paper, which models endogenous production-network formation through firms’ costly operate/exit decisions in a CES input-output economy, solves the NP-hard planner problem over the operating set with a “reshaping” relaxation that preserves and selects corner solutions, characterizes efficient versus distorted equilibria and cascade dynamics arising from complementarities, and quantifies the mechanism by calibrating and simulating the model on U.S. supply-chain data (FactSet/Compustat) and estimating distance-based neighbor-exit spillover regressions, with interpretation of the core tables and figures on clustering, cascades, and aggregate fluctuations."
 
 - title: "Drechsler, Savov, and Schnabl (JFE, 2022) — How monetary policy shaped the housing boom"
   file: "Drechsler_Savov_Schnabl_JFE_2022.pdf"
