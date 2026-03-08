@@ -1,3 +1,8 @@
+- title: "Drechsler, Savov, and Schnabl (JFE, 2022) — How monetary policy shaped the housing boom"
+  file: "Drechsler_Savov_Schnabl_JFE_2022.pdf"
+  desc: "
+This note summarizes the paper, which identifies a “deposits channel” of monetary tightening by estimating pre-boom deposit-spread betas at the branch level and funding-cost (interest-expense spread) betas at the bank level, aggregating them into a predetermined county exposure measure using 2002 portfolio-mortgage shares, and then running sequential branch-, bank-, and county-level reduced-form and 2SLS tests (beta → spread changes; beta → deposit growth with within-bank comparisons; deposit growth → balance-sheet mortgage lending; and county outcomes for portfolio lending and the shift toward PLS/nonbanks), culminating in an aggregate counterfactual and interpretation of the core tables/figures on why 2004–2006 tightening reallocated mortgage finance from bank portfolios to PLS and nonbank lending."
+
 - title: "Jiang & Zhang (JFE, 2025) — Collateral Value Uncertainty and Mortgage Credit Provision"
   file: "Jiang_Zhang_JFE_2025.pdf"
   desc: "
