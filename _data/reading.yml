@@ -1,3 +1,8 @@
+- title: "Huang, Li, Ma and Xu (AER, 2017) — Hayek, Local Information, and Commanding Heights: Decentralizing State-Owned Enterprises in China"
+  file: "Huang_Li_Ma_Xu_AER_2017.pdf"
+  desc: "
+This note summarizes the paper, which tests Hayek’s local-information view of decentralization using Chinese SOE oversight transfers in ASIF (1998–2007) by estimating baseline probit models of decentralization on log distance to the oversight government with rich firm/province controls and fixed effects, corroborating the result with Cox hazard and multinomial-logit (decentralize vs restructure) specifications, addressing endogeneity with a Third Front Construction IV for distance and placebo-distance tests, and using interaction designs with communication-cost proxies (road density), performance heterogeneity, strategic-industry status (“commanding heights”), and rent/corruption measures to discriminate among competing mechanisms."
+
 - title: "Brandt, VanBiesebroeck, Wang, and Zhang (AER, 2017) - WTO Accession and Performance of Chinese Manufacturing Firms"
   file: "Brandt_VanBiesebroeck_Wang_Zhang_AER_2017.pdf"
   desc: "This note summarizes the paper, which studies China’s WTO-driven trade liberalization by separating output vs. input tariff cuts, instrumenting applied tariffs with WTO bound tariffs, estimating firm-level fixed-effects regressions of markups and productivity, measuring markups via the De Loecker–Warzynski cost-share method, addressing revenue-TFP price-deflator bias, and decomposing industry outcomes into within/between reallocation and entry/exit margins while interpreting the core tables and figures on how competition and input-cost channels jointly reshape markups and productivity."
