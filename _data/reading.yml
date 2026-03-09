@@ -1,3 +1,8 @@
+- title: "Fang, Lerner, and Wu (RFS, 2017) — Intellectual Property Rights Protection, Ownership, and Innovation: Evidence from China"
+  file: "Fang_Lerner_Wu_RFS_2017.pdf"
+  desc: "
+This note summarizes the paper, which constructs a prefecture-year IPR protection score and firm patent-stock measures, treats China’s SOE privatization events as within-firm ownership shocks, estimates baseline panel DiD regressions of log(1 + Ki,t ) on POST, lagged IPRScore, and the key POST × IPRScore interaction with rich controls and fixed effects, corroborates the interaction with a propensity-score–matched dynamic event-study DiD around privatization, and addresses IPR endogeneity with a 2SLS strategy instrumenting IPRScore using historical Christian-college and British-settlement exposure, interpreting the core tables and figures on how stronger local IPR amplifies post-privatization innovation."
+
 - title: "Huang, Li, Ma and Xu (AER, 2017) — Hayek, Local Information, and Commanding Heights: Decentralizing State-Owned Enterprises in China"
   file: "Huang_Li_Ma_Xu_AER_2017.pdf"
   desc: "
