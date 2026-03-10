@@ -1,4 +1,4 @@
-- title: "Alok & Ayyagari (RFS, 2022) — Politics, State Ownership, and Corporate Investments"
+- title: "Alok & Ayyagari (RFS, 2020) — Politics, State Ownership, and Corporate Investments"
   file: "Alok_Ayyagari_RFS_2020.pdf"
   desc: "
 This note summarizes the paper, which uses Indian CAPEX project announcements matched to national/state election timing to document a political investment cycle in SOEs by estimating district-year fixed-effects DiD regressions and IV-2SLS models that instrument election-year indicators with the constitutionally scheduled five-year cycle, extending to swing-district (Close) and minister/ideology heterogeneity and event-time dynamics, project-level visibility/composition regressions, stock-market event studies of announcement (and implementation) returns, and private-investment crowding-out specifications."
