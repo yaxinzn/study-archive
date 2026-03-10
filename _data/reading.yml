@@ -1,3 +1,8 @@
+- title: "Chen, He, and Liu (JFE, 2020) — The financing of local government in China: Stimulus loan wanes and shadow banking waxes"
+  file: "Chen_He_Liu_JFE_2020.pdf"
+  desc: "
+This note summarizes the paper, which constructs a province-level 2009 stimulus bank-loan shock and an “abnormal” LGFV municipal corporate bond (MCB) issuance measure, estimates year-by-year cross-sectional regressions and a province×year event-study panel with fixed effects (plus an IV using governor late-term tenure and heterogeneity tests based on long-maturity CDB loan exposure), and links the post-2012 rise in MCB issuance and shadow-banking activity (entrusted loans/WMP funding) to a delayed refinancing “stimulus-loan hangover” mechanism."
+
 - title: "Alok & Ayyagari (RFS, 2020) — Politics, State Ownership, and Corporate Investments"
   file: "Alok_Ayyagari_RFS_2020.pdf"
   desc: "
