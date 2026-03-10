@@ -1,3 +1,8 @@
+- title: "Allen, Gu, Li, Qian, and Qian (JFE, 2023) — Implicit guarantees and the rise of shadow banking: The case of trust products"
+  file: "Allen_Gu_Li_Qian_Qian_JFE_2023.pdf"
+  desc: "
+This note summarizes the paper, which develops a screening-and-implicit-guarantee contracting model (and a SOE–private capital-misallocation extension) and then tests its predictions in a comprehensive Chinese trust-product dataset using baseline cross-sectional yield-spread regressions on implicit-guarantee proxies/IG index and risk controls, difference-in-differences around the 2015 stock-market crash, risk-sensitivity interactions and risk-shock event studies (2014 default and 2010 housing restrictions), and a policy-shock DiD around the 2018 asset-management regulations with issuance-size/credit-rationing regressions."
+
 - title: "Chen, He, and Liu (JFE, 2020) — The financing of local government in China: Stimulus loan wanes and shadow banking waxes"
   file: "Chen_He_Liu_JFE_2020.pdf"
   desc: "
