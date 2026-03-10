@@ -1,3 +1,8 @@
+- title: "Liao, Liu, and Wang (JFE, 2014) — China’s Secondary Privatization"
+  file: "Liao_Liu_Wang_JFE_2014.pdf"
+  desc: "
+This note summarizes the paper, which treats China’s 2005–2007 Split-Share Structure Reform as a secondary-privatization shock, measures SOE “privatization-led” performance changes using matched size×industry (or size×M/B) benchmark-adjusted DiD-style comparisons, estimates median/Wilcoxon and Koenker–Bassett quantile regressions (plus Fama–French risk-adjusted return tests) on state ownership and government supportive-action proxies, and uses negotiated consideration and approval rates to test market-mechanism information-discovery predictions."
+
 - title: "Allen, Gu, Li, Qian, and Qian (JFE, 2023) — Implicit guarantees and the rise of shadow banking: The case of trust products"
   file: "Allen_Gu_Li_Qian_Qian_JFE_2023.pdf"
   desc: "
