@@ -1,3 +1,8 @@
+- title: "Celentano & Rempel (RES, 2026) — Public Listing Choice with Persistent Hidden Information"
+  file: "Celentano_Rempel_RES_2026.pdf"
+  desc: "
+This note summarizes the paper, which develops a continuous-time financing-and-contracting model with a persistent hidden cash-flow component (OU dynamics) that creates an endogenous public “information premium,” derives equilibrium sorting between public incentive contracts and private monitoring under scarce private capital (with endogenous PE entry/matching), and then brings the model to the data using public–private listing-choice and CEO-pay reduced-form regressions (LPM/logit and pay-composition specifications) plus a structural GMM estimation that matches listing and pay-performance-sensitivity moments."
+
 - title: "Liao, Liu, and Wang (JFE, 2014) — China’s Secondary Privatization"
   file: "Liao_Liu_Wang_JFE_2014.pdf"
   desc: "
