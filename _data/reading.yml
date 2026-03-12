@@ -1,3 +1,8 @@
+- title: "Bai, Ríos-Rull, and Storesletten (RES, 2026) — Demand Shocks as Technology Shocks"
+  file: "Bai_Rios-Rull_Storesletten_RES_2026.pdf"
+  desc: "
+This note summarizes the paper, which builds a competitive-search DSGE with product-market matching (shopping effort) so demand shocks can masquerade as technology shocks, derives equilibrium and measured-TFP implications plus identification using shopping-time moments, estimates the full stochastic growth model via mixed-frequency Bayesian methods (ATUS shopping time and the relative price of investment), and interprets the core figures and variance-decomposition tables."
+
 - title: "Celentano & Rempel (RES, 2026) — Public Listing Choice with Persistent Hidden Information"
   file: "Celentano_Rempel_RES_2026.pdf"
   desc: "
