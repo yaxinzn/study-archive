@@ -1,3 +1,23 @@
+- title: "Borisova & Megginson (RFS, 2011) Does Government Ownership Affect the Cost of Debt? Evidence from Privatization"
+  file: "Borisova_Megginson_RFS_2011.pdf"
+  desc: "This note summarizes the paper, which builds a bond–year panel of European privatized firms (Privatization Barometer matched to Bloomberg bond yields, 2001–2009), measures credit spreads against maturity-matched sovereign benchmarks, and estimates baseline panel regressions (with orthogonalized ratings) that allow for nonlinearity via a partial-privatization indicator plus retained-ownership percentage (and quadratic terms), crisis and golden-share interactions, speed-of-privatization tests, and 2SLS/within-firm fixed-effects robustness.EOF
+)\"
+
+./scripts/add_reading_paper.sh \"$PDF\" \"$TITLE\" \"$DESC\"
+
+
+
+
+
+
+	
+cd \"/Users/yaxinzheng/study-archive\" || exit 1
+
+PDF=\"/Users/yaxinzheng/Library/CloudStorage/Dropbox/Study_Cycle/paper/Ru_JF_2018.pdf\"
+TITLE=\"Ru (JF, 2018) — Government Credit, a Double-Edged Sword: Evidence from the China Development Bank\"
+DESC=\"$(cat <<'EOF'
+This note summarizes the paper, which exploits predetermined city secretary turnover cycles to instrument for China Development Bank credit, estimating city-level lending-cycle event studies and province×industry first-stage regressions and then 2SLS firm-panel effects for same-industry crowding-out and input–output–based upstream-to-downstream spillovers, supported by hazard-model and promotion-probit diagnostics plus exclusion and robustness tests (other policy channels, stronger effects in CDB-connected cities) and a multi-endogenous IV that separates industrial SOE loans from infrastructure loans."
+
 - title: "Ru (JF, 2018) — Government Credit, a Double-Edged Sword: Evidence from the China Development Bank"
   file: "Ru_JF_2018.pdf"
   desc: "This note summarizes the paper, which exploits predetermined city secretary turnover cycles to instrument for China Development Bank credit, estimating city-level lending-cycle event studies and province×industry first-stage regressions and then 2SLS firm-panel effects for same-industry crowding-out and input–output–based upstream-to-downstream spillovers, supported by hazard-model and promotion-probit diagnostics plus exclusion and robustness tests (other policy channels, stronger effects in CDB-connected cities) and a multi-endogenous IV that separates industrial SOE loans from infrastructure loans."
