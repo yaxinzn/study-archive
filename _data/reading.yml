@@ -1,4 +1,4 @@
-- title: "Borisova & Megginson (RFS, 2011) Does Government Ownership Affect the Cost of Debt? Evidence from Privatization"
+- title: "Borisova & Megginson (RFS, 2011) - Does Government Ownership Affect the Cost of Debt? Evidence from Privatization"
   file: "Borisova_Megginson_RFS_2011.pdf"
   desc: "
 This note summarizes the paper, which builds a bond–year panel of European privatized firms (Privatization Barometer matched to Bloomberg bond yields, 2001–2009), measures credit spreads against maturity-matched sovereign benchmarks, and estimates baseline panel regressions (with orthogonalized ratings) that allow for nonlinearity via a partial-privatization indicator plus retained-ownership percentage (and quadratic terms), crisis and golden-share interactions, speed-of-privatization tests, and 2SLS/within-firm fixed-effects robustness."
