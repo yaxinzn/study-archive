@@ -1,21 +1,13 @@
 - title: "Borisova & Megginson (RFS, 2011) Does Government Ownership Affect the Cost of Debt? Evidence from Privatization"
   file: "Borisova_Megginson_RFS_2011.pdf"
-  desc: "This note summarizes the paper, which builds a bond–year panel of European privatized firms (Privatization Barometer matched to Bloomberg bond yields, 2001–2009), measures credit spreads against maturity-matched sovereign benchmarks, and estimates baseline panel regressions (with orthogonalized ratings) that allow for nonlinearity via a partial-privatization indicator plus retained-ownership percentage (and quadratic terms), crisis and golden-share interactions, speed-of-privatization tests, and 2SLS/within-firm fixed-effects robustness."
+  desc: "
+This note summarizes the paper, which builds a bond–year panel of European privatized firms (Privatization Barometer matched to Bloomberg bond yields, 2001–2009), measures credit spreads against maturity-matched sovereign benchmarks, and estimates baseline panel regressions (with orthogonalized ratings) that allow for nonlinearity via a partial-privatization indicator plus retained-ownership percentage (and quadratic terms), crisis and golden-share interactions, speed-of-privatization tests, and 2SLS/within-firm fixed-effects robustness."
 
-./scripts/add_reading_paper.sh \"$PDF\" \"$TITLE\" \"$DESC\"
+- title: "Cong, Gao, Ponticelli, and Yang (RFS, 2019) - Credit Allocation Under Economic Stimulus: Evidence from China"
+  file: "Cong_Gao_Ponticelli_Yang_RFS_2019.pdf"
+  desc: "
+This note summarizes the paper, which uses confidential bank–firm loan-level data from China’s largest banks to build a two-step credit-supply shifter (bank lending growth outside a firm’s city/sector, shift-shared by pre-stimulus lender weights), validates it with Khwaja–Mian within-firm across-lender tests, and estimates fixed-effects (dynamic DiD/event-study) regressions with productivity (APK) and state-ownership interactions—plus an implicit-guarantees mechanism model—to interpret the core tables and figures on stimulus-driven credit misallocation and its persistence."
 
-
-
-
-
-
-	
-cd \"/Users/yaxinzheng/study-archive\" || exit 1
-
-PDF=\"/Users/yaxinzheng/Library/CloudStorage/Dropbox/Study_Cycle/paper/Ru_JF_2018.pdf\"
-TITLE=\"Ru (JF, 2018) — Government Credit, a Double-Edged Sword: Evidence from the China Development Bank\"
-DESC=\"$(cat <<'EOF'
-This note summarizes the paper, which exploits predetermined city secretary turnover cycles to instrument for China Development Bank credit, estimating city-level lending-cycle event studies and province×industry first-stage regressions and then 2SLS firm-panel effects for same-industry crowding-out and input–output–based upstream-to-downstream spillovers, supported by hazard-model and promotion-probit diagnostics plus exclusion and robustness tests (other policy channels, stronger effects in CDB-connected cities) and a multi-endogenous IV that separates industrial SOE loans from infrastructure loans."
 
 - title: "Ru (JF, 2018) — Government Credit, a Double-Edged Sword: Evidence from the China Development Bank"
   file: "Ru_JF_2018.pdf"
@@ -24,7 +16,7 @@ This note summarizes the paper, which exploits predetermined city secretary turn
 - title: "Bai, Ríos-Rull, and Storesletten (RES, 2026) — Demand Shocks as Technology Shocks"
   file: "Bai_Rios-Rull_Storesletten_RES_2026.pdf"
   desc: "
-This note summarizes the paper, which builds a bond–year panel of European privatized firms (Privatization Barometer matched to Bloomberg bond yields, 2001–2009), measures credit spreads against maturity-matched sovereign benchmarks, and estimates baseline panel regressions (with orthogonalized ratings) that allow for nonlinearity via a partial-privatization indicator plus retained-ownership percentage (and quadratic terms), crisis and golden-share interactions, speed-of-privatization tests, and 2SLS/within-firm fixed-effects robustness."
+This note summarizes the paper, which builds a competitive-search DSGE with product-market matching (shopping effort) so demand shocks can masquerade as technology shocks, derives equilibrium and measured-TFP implications plus identification using shopping-time moments, estimates the full stochastic growth model via mixed-frequency Bayesian methods (ATUS shopping time and the relative price of investment), and interprets the core figures and variance-decomposition tables."
 
 - title: "Celentano & Rempel (RES, 2026) — Public Listing Choice with Persistent Hidden Information"
   file: "Celentano_Rempel_RES_2026.pdf"
