@@ -1,13 +1,3 @@
-- title: "Bai, Ríos-Rull, and Storesletten (RES, 2026) — Demand Shocks as Technology Shocks"
-  file: "Bai_Rios-Rull_Storesletten_RES_2026.pdf"
-  desc: "
-This note summarizes the paper, which builds a competitive-search DSGE with product-market matching (shopping effort) so demand shocks can masquerade as technology shocks, derives equilibrium and measured-TFP implications plus identification using shopping-time moments, estimates the full stochastic growth model via mixed-frequency Bayesian methods (ATUS shopping time and the relative price of investment), and interprets the core figures and variance-decomposition tables."
-
-- title: "Ru (JF, 2018) — Government Credit, a Double-Edged Sword: Evidence from the China Development Bank"
-  file: "Ru_JF_2018.pdf"
-  desc: "
-This note summarizes the paper, which exploits predetermined city secretary turnover cycles to instrument for China Development Bank credit, estimating city-level lending-cycle event studies and province×industry first-stage regressions and then 2SLS firm-panel effects for same-industry crowding-out and input–output–based upstream-to-downstream spillovers, supported by hazard-model and promotion-probit diagnostics plus exclusion/robustness tests (other policy channels, stronger effects in CDB-connected cities) and a multi-endogenous IV that separates industrial SOE loans from infrastructure loans."
-
 - title: "Celentano & Rempel (RES, 2026) — Public Listing Choice with Persistent Hidden Information"
   file: "Celentano_Rempel_RES_2026.pdf"
   desc: "
