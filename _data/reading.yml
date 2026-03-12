@@ -1,3 +1,7 @@
+- title: "Ouyang (Accepted JFE) - Cashless Payment and Financial Inclusion"
+  file: "Ouyang_Accepted_JFE.pdf"
+  desc: "This note summarizes the paper, which uses the staggered rollout of Alipay-bundled dockless shared bikes across Chinese cities as an instrument for individual in-person payment flow, estimates a core 2SLS design with individual and month fixed effects plus user/city event studies, mechanism tests (information via noncredit transactions vs enforcement via AUM controls) and financial-inclusion heterogeneity, and interprets the main tables and figures on how cashless payments causally expand BigTech credit access and credit limits for underserved users."
+
 - title: "Borisova & Megginson (RFS, 2011) - Does Government Ownership Affect the Cost of Debt? Evidence from Privatization"
   file: "Borisova_Megginson_RFS_2011.pdf"
   desc: "
