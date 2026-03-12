@@ -1,3 +1,7 @@
+- title: "Cong, Gao, Ponticelli, and Yang (RFS, 2019) - Credit Allocation Under Economic Stimulus: Evidence from China"
+  file: "Cong_Gao_Ponticelli_Yang_RFS_2019.pdf"
+  desc: "This note summarizes the paper, which uses confidential bank–firm loan-level data from China’s largest banks to build a two-step credit-supply shifter (bank lending growth outside a firm’s city/sector, shift-shared by pre-stimulus lender weights), validates it with Khwaja–Mian within-firm across-lender tests, and estimates fixed-effects (dynamic DiD/event-study) regressions with productivity (APK) and state-ownership interactions—plus an implicit-guarantees mechanism model—to interpret the core tables and figures on stimulus-driven credit misallocation and its persistence."
+
 - title: "Borisova & Megginson (RFS, 2011) - Does Government Ownership Affect the Cost of Debt? Evidence from Privatization"
   file: "Borisova_Megginson_RFS_2011.pdf"
   desc: "This note summarizes the paper, which builds a bond–year panel of European privatized firms (Privatization Barometer matched to Bloomberg bond yields, 2001–2009), measures credit spreads against maturity-matched sovereign benchmarks, and estimates baseline panel regressions (with orthogonalized ratings) that allow for nonlinearity via a partial-privatization indicator plus retained-ownership percentage (and quadratic terms), crisis and golden-share interactions, speed-of-privatization tests, and 2SLS/within-firm fixed-effects robustness."
