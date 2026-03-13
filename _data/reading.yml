@@ -1,3 +1,7 @@
+- title: "Moll (AER, 2014) - Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?"
+  file: "Moll_AER_2014.pdf"
+  desc: "This note summarizes the paper, which develops a highly tractable continuous-time general-equilibrium model of entrepreneurs facing collateral constraints but able to self-finance, derives closed-form aggregation in terms of productivity-type wealth shares governed by a PDE (implying measured TFP is a truncated wealth-weighted mean of productivity), and uses steady-state comparative statics and transition simulations to show how idiosyncratic productivity persistence jointly determines the long-run misallocation loss and the speed of convergence, interpreting the main figures and welfare implications."
+
 - title: "Midrigan & Xu (AER, 2014) - Finance and Misallocation: Evidence from Plant-Level Data"
   file: "Midrigan_Xu_AER_2014.pdf"
   desc: "This note summarizes the paper, which builds a two-sector heterogeneous-plant model with collateral-based borrowing constraints and limited equity issuance/entry into a modern technology, derives misallocation and TFP-loss accounting from dispersion in the shadow cost of capital, and disciplines the model with plant-level and financing moments via simulated method of moments to run counterfactuals (tightening external finance, shutting down entry/adoption/operation, and crisis dynamics), interpreting the core tables and figures on why finance implies modest steady-state within-sector misallocation but large extensive-margin effects."
