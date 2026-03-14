@@ -1,3 +1,7 @@
+- title: "Khwaja & Mian (QJE, 2005) - Do Lenders Favor Politically Connected Firms? Rent Provision in an Emerging Financial Market"
+  file: "Khwaja_Mian_QJE_2005.pdf"
+  desc: "This note summarizes the paper, which uses the universe of Pakistani corporate loans (1996–2002) to define political connections from directors running in elections, decomposes loan returns into interest/default/recovery components, and identifies political rent provision by combining bank-FE cross-sectional regressions with within-firm government-versus-private lender comparisons (firm and bank fixed effects) and within-firm event-time evidence around political victories (relationship fixed effects), interpreting the core tables on credit quantity, default, and misallocation costs."
+
 - title: "Moll (AER, 2014) - Productivity Losses from Financial Frictions: Can Self-Financing Undo Capital Misallocation?"
   file: "Moll_AER_2014.pdf"
   desc: "This note summarizes the paper, which develops a highly tractable continuous-time general-equilibrium model of entrepreneurs facing collateral constraints but able to self-finance, derives closed-form aggregation in terms of productivity-type wealth shares governed by a PDE (implying measured TFP is a truncated wealth-weighted mean of productivity), and uses steady-state comparative statics and transition simulations to show how idiosyncratic productivity persistence jointly determines the long-run misallocation loss and the speed of convergence, interpreting the main figures and welfare implications."
