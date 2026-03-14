@@ -1,3 +1,7 @@
+- title: "Hachem & Song (JPE, 2021) - Liquidity Rules and Credit Booms"
+  file: "Hachem_Song_JPE_2021.pdf"
+  desc: "This note summarizes the paper, which develops a three-date banking model with interbank market power and stochastic liquidity shocks to show how tightening an on-balance-sheet liquidity rule induces shadow-banking arbitrage and deposit reallocation that can reduce required system liquidity and generate a credit boom, and then tests the mechanism in China using repo-rate regressions on Big-Four NCD announcements, calibrated policy-counterfactuals, WMP–interbank-rate comovement, and moment-matched structural shock decompositions."
+
 - title: "Khwaja & Mian (QJE, 2005) - Do Lenders Favor Politically Connected Firms? Rent Provision in an Emerging Financial Market"
   file: "Khwaja_Mian_QJE_2005.pdf"
   desc: "This note summarizes the paper, which uses the universe of Pakistani corporate loans (1996–2002) to define political connections from directors running in elections, decomposes loan returns into interest/default/recovery components, and identifies political rent provision by combining bank-FE cross-sectional regressions with within-firm government-versus-private lender comparisons (firm and bank fixed effects) and within-firm event-time evidence around political victories (relationship fixed effects), interpreting the core tables on credit quantity, default, and misallocation costs."
