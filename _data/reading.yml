@@ -1,3 +1,7 @@
+- title: "Barwick, Kalouptsidi, and Zahur (RES, 2025) - Industrial Policy Implementation: Empirical Evidence from China’s Shipbuilding Industry"
+  file: "Barwick_Kalouptsidi_Zahur_RES_2025.pdf"
+  desc: "This note summarizes the paper, which studies China’s shipbuilding industrial policy (1998–2014) by building and structurally estimating a dynamic empirical-IO model—static Cournot competition across ship types embedded in heterogeneous firms’ entry/exit/investment dynamics that infers unobserved production, investment, and entry subsidies—using a two-stage Hotz–Miller/BBL-style approach (instrumented demand estimation, Tobit marginal-cost estimation from Cournot FOCs, and value-function/B-spline recovery of dynamic parameters) and then running counterfactual simulations to rank policy instruments and compare pro- vs counter-cyclical, temporary, and targeted designs."
+
 - title: "Che (RES, 2009) - A Dynamic Model of Privatization with Endogenous Post-Privatization Performance"
   file: "Che_RES_2009.pdf"
   desc: "This note summarizes the paper, which builds a continuous-time dynamic bargaining model of privatization with endogenous effort, gradually improving property-rights protection μ(t), and a hard buyer budget B, characterizes Markov subgame-perfect equilibrium timing (no/efficient/delayed/premature privatization) using the PV objects W(t) and V(t) and binding incentive constraints, derives implications for post-privatization performance jumps and endogenous “underpricing,” and interprets the paper’s main propositions and figures."
