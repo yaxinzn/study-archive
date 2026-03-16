@@ -1,3 +1,7 @@
+- title: "Song, Storesletten, and Zilibotti (AER, 2011) - Growing Like China"
+  file: "Song_Storesletten_Zilibotti_AER_2011.pdf"
+  desc: "This note summarizes the paper, which builds a transition OLG model with two firm types—credit-favored, low-productivity SOEs (“F-firms”) and credit-constrained, high-productivity private firms (“E-firms”)—to explain China’s joint pattern of labor reallocation and TFP growth alongside a persistent deposit–loan gap and foreign reserve accumulation, disciplines the mechanism with motivating facts and reduced-form evidence, and matches key time series using a calibrated multi-period quantitative version plus two-sector (capital- vs labor-intensive) and market-power extensions."
+
 - title: "Olsson & Tåg (JF, 2025) - What Is the Cost of Privatization for Workers?"
   file: "Olsson_Tag_JF_2025.pdf"
   desc: "This note summarizes the paper, which uses Swedish linked employer–employee administrative registers to match workers in SOEs that are privatized to similar workers in SOEs that remain state-owned and estimates stacked difference-in-differences event studies (with complementary firm-level DiD and job-flow decompositions) to quantify worker income/unemployment/transfer effects and firm productivity gains, alongside mechanism and heterogeneity tests (e.g., CEO replacement vs labor-quality/financial-engineering channels and privatization type/buyer identity) and a simple welfare accounting comparing worker losses to efficiency gains."
