@@ -10,8 +10,6 @@ hide_name: true
 
 ## Notes and Public Resources (Assisted by Large Language Models)
 
-## Materials
-
 ### Reading Notes and Live Variable Tables
 
 
