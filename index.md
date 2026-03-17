@@ -8,11 +8,11 @@ hero_desc: Weekly loops across micro, macro, econometrics, empirical IO, asset p
 hide_name: true
 ---
 
-## Sharing My Study Notes and Public Resources (Assisted by Large Language Models)
+## Sharing Study Notes and Public Resources (Assisted by Large Language Models)
 
 ## Materials
 
-### Reading Notes, Live Variable Tables, and Thoughts
+### Reading Notes and Live Variable Tables
 
 
 
@@ -36,16 +36,8 @@ hide_name: true
   </div>
 </div>
 
-<div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:12px; background:#fff;">
-  <div style="font-weight:700;">
-    <a href="{{ site.baseurl }}/study-thoughts/">Study Thoughts</a>
-  </div>
-  <div style="margin-top:6px; opacity:.82;">
-    Brief reflections on study, difficulty, and progress.
-  </div>
-</div>
 
-### Fields
+### Fields - incomplete
 - **[Micro](materials/micro/)**
 - **[Macro](materials/macro/)** 
 - **[Econometrics](materials/econometrics/)** 
