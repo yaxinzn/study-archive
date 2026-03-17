@@ -1,3 +1,7 @@
+- title: "Eusepi, Giannoni, and Preston (JPE, 2026) - The Short-Run Policy Constraints of Long-Run Expectations"
+  file: "Eusepi_Giannoni_Preston_JPE_2026.pdf"
+  desc: "This note summarizes the paper, which derives a new monetary-policy feasibility constraint in a stylized New Keynesian model when agents form long-run “endpoints” for inflation and nominal rates via constant-gain (shifting-endpoints) learning, embeds that mechanism in a medium-scale NK model with imperfect-information expectations and a measurement block using surveys, long-term yields, and a ZLB shadow rate, and then uses Bayesian estimation plus welfare/optimal-policy counterfactuals (varying policy aggressiveness and endogenous learning gain) to quantify how anchoring long-run expectations relaxes the constraint and enables more aggressive stabilization."
+
 - title: "Chen, Ren, and Zha (AER, 2018) - The Nexus of Monetary Policy and Shadow Banking in China"
   file: "Chen_Ren_Zha_AER_2018.pdf"
   desc: "This note summarizes the paper, which identifies exogenous Chinese monetary-policy shocks by estimating an endogenously switching M2-growth rule, then combines hand-collected entrusted-loan trustee data and bank balance-sheet data to estimate trustee/bank panel regressions (entrusted lending and ARIX responses with bank-type and constraint interactions) plus a dynamic panel VAR for aggregate credit, alongside a bank model with deposit-withdrawal shocks and regulatory constraints to interpret the core tables and figures on why tightening can expand shadow banking."
