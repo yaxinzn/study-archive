@@ -6,61 +6,53 @@ hero_title: Study Cycles
 hero_subtitle: Weekly study loops across core fields
 hero_desc: Weekly loops across micro, macro, econometrics, empirical IO, asset pricing, corporate finance, and macro-finance.
 hide_name: true
-
 ---
 
-## Method: the 7-day loop (Saturday = review)
-I study in repeating seven-day cycles. Each week is a complete loop, with Saturday reserved for review: consolidating notes, reconnecting ideas across topics, and updating reading maps. I then restart the cycle—refining summaries, re-deriving core results, and iterating until the foundations are fully internalized.
-
-<div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.12); border-left:4px solid #2e7d32; border-radius:10px; background:#fff;">
-
-  <div style="margin-top:8px; line-height:1.55;">
-    I also think about asset pricing through a unified measure-theoretic lens. The SDF (or Radon–Nikodym derivative) implies that prices are expectations under state-contingent weights, but the central empirical question is what determines those weights when investors are heterogeneous and constrained. My research aims to make that mechanism measurable by integrating demand-system asset pricing with empirical IO: estimating investor demand elasticities from holdings and flows, imposing market clearing, and conducting equilibrium counterfactuals—using corporate credit markets, especially CDS, as a laboratory, with identification from IG/HY cutoffs, capital regulation, index reconstitutions, ETF mechanics, and dealer capacity shocks. This agenda naturally fits my weekly cycle: I move project by project, loop by loop, continually revisiting the same core mechanisms at increasing depth until the ideas—and the tools to measure them—become second nature.
-  </div>
-</div>
-
-<div class="sc-sep"></div>
+## Sharing My Study Notes and Public Resources (Assisted by Large Language Models)
 
 ## Materials
 
 ### Core fields
-- **[Micro](materials/micro/)** — preferences, uncertainty, general equilibrium, mechanisms  
-- **[Macro](materials/macro/)** — growth, business cycles, monetary frameworks  
-- **[Econometrics](materials/econometrics/)** — identification, estimation, inference, robustness  
-- **[Stata](materials/stata/)** — workflows, estimation, inference, reproducible coding
-- **[Math Foundations](materials/math-foundations/)** — linear algebra, probability, optimization, analysis  
-- **[TFP Measurement](materials/tfp-measurement/)** — production functions, OP/LP/ACF, implementation  
-- **[Empirical IO](materials/eio/)** — demand, costs, conduct, entry/exit, counterfactual analysis  
-- **[Asset Pricing (Theory)](materials/ap-theory/)** — SDF, no-arbitrage, equilibrium pricing  
-- **[Asset Pricing (Empirical)](materials/ap-empirical/)** — factors, predictability, anomalies, methods  
-- **[Corporate Finance (Theory)](materials/cf-theory/)** — contracting, capital structure, governance  
-- **[Corporate Finance (Empirical)](materials/cf-empirical/)** — causal designs, measurement, firm behavior  
-- **[Macro-Finance](materials/macro-finance/)** — risk premia, term structure, policy transmission  
+- **[Micro](materials/micro/)** 
+- **[Macro](materials/macro/)**
+- **[Econometrics](materials/econometrics/)**  
+- **[Stata](materials/stata/)** 
+- **[Math Foundations](materials/math-foundations/)** 
+- **[TFP Measurement](materials/tfp-measurement/)** 
+- **[Empirical IO](materials/eio/)**
+- **[Asset Pricing (Theory)](materials/ap-theory/)** 
+- **[Asset Pricing (Empirical)](materials/ap-empirical/)** 
+- **[Corporate Finance (Theory)](materials/cf-theory/)**  
+- **[Corporate Finance (Empirical)](materials/cf-empirical/)**
+- **[Macro-Finance](materials/macro-finance/)**
+- 
+### Reading Notes, Live Variable Tables, and Thoughts
 
-### Cross-cutting toolbox
-
-
-
-<div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.12); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
-  <div style="font-weight:750;">
-    <a href="{{ site.baseurl }}/reading/">Paper Reading &amp; Quick Notes</a> — quick reading notes, identification, variables, replication hooks
+<div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:12px; background:#fff;">
+  <div style="font-weight:700;">
+    <a href="{{ site.baseurl }}/reading/">Paper Reading &amp; Quick Notes</a>
   </div>
-  <div style="margin-top:6px; opacity:.85;">
-    Expect that it can give you a quick reading of these papers. I will continuously upload my notes (starting with Dunne et al., 2013).
+  <div style="margin-top:6px; opacity:.82;">
+    Short notes on papers, ideas, and replication details.
   </div>
 </div>
 
-<div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.12); border-left:4px solid #b08a2e; border-radius:10px; background:#fff;">
-  <div style="font-weight:750;">
-    <a href="materials/intuitions/">Intuitions</a> — demand shifters, price elasticity, DSAP intuition
+<div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:12px; background:#fff;">
+  <div style="font-weight:700;">
+    <a href="{{ site.baseurl }}/variables-live/">Live Variable Tables</a>
   </div>
-  <div style="margin-top:6px; opacity:.85;">
-    A cross-field “toolbox” of identification intuition and demand-side equilibrium ideas that cut across micro, macro, IO, and asset pricing.
+  <div style="margin-top:6px; opacity:.82;">
+    Variable definitions, sources, and measurement notes.
+  </div>
+</div>
+
+<div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.10); border-left:4px solid #0f3d2e; border-radius:12px; background:#fff;">
+  <div style="font-weight:700;">
+    <a href="{{ site.baseurl }}/study-thoughts/">Study Thoughts</a>
+  </div>
+  <div style="margin-top:6px; opacity:.82;">
+    Brief reflections on study, difficulty, and progress.
   </div>
 </div>
 
 <div class="sc-sep"></div>
-
-## Use these materials
-I built this study-cycle structure to make learning cumulative: each week forces me to re-derive core results, connect ideas across fields, and maintain a consistent “living archive” of notes and reading maps.  
-If this study style—or any of the materials here—ends up being helpful, you’re very welcome to **reuse the notes** or **adapt the structure** in whatever way fits your learning goals.
