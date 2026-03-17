@@ -12,20 +12,6 @@ hide_name: true
 
 ## Materials
 
-### Core fields
-- **[Micro](materials/micro/)** 
-- **[Macro](materials/macro/)**
-- **[Econometrics](materials/econometrics/)**  
-- **[Stata](materials/stata/)** 
-- **[Math Foundations](materials/math-foundations/)** 
-- **[TFP Measurement](materials/tfp-measurement/)** 
-- **[Empirical IO](materials/eio/)**
-- **[Asset Pricing (Theory)](materials/ap-theory/)** 
-- **[Asset Pricing (Empirical)](materials/ap-empirical/)** 
-- **[Corporate Finance (Theory)](materials/cf-theory/)**  
-- **[Corporate Finance (Empirical)](materials/cf-empirical/)**
-- **[Macro-Finance](materials/macro-finance/)**
-
 ### Reading Notes, Live Variable Tables, and Thoughts
 
 
@@ -58,5 +44,20 @@ hide_name: true
     Brief reflections on study, difficulty, and progress.
   </div>
 </div>
+
+### Fields
+- **[Micro](materials/micro/)**
+- **[Macro](materials/macro/)** 
+- **[Econometrics](materials/econometrics/)** 
+- **[Stata](materials/stata/)** 
+- **[Math Foundations](materials/math-foundations/)**
+- **[TFP Measurement](materials/tfp-measurement/)** 
+- **[Empirical IO](materials/eio/)**
+- **[Asset Pricing (Theory)](materials/ap-theory/)** 
+- **[Asset Pricing (Empirical)](materials/ap-empirical/)** 
+- **[Corporate Finance (Theory)](materials/cf-theory/)** 
+- **[Corporate Finance (Empirical)](materials/cf-empirical/)**
+- **[Macro-Finance](materials/macro-finance/)**
+
 
 <div class="sc-sep"></div>
