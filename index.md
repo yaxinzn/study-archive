@@ -25,7 +25,7 @@ hide_name: true
 - **[Corporate Finance (Theory)](materials/cf-theory/)**  
 - **[Corporate Finance (Empirical)](materials/cf-empirical/)**
 - **[Macro-Finance](materials/macro-finance/)**
-- 
+
 ### Reading Notes, Live Variable Tables, and Thoughts
 
 
