@@ -8,7 +8,7 @@ hero_desc: Weekly loops across micro, macro, econometrics, empirical IO, asset p
 hide_name: true
 ---
 
-## Sharing Study Notes and Public Resources (Assisted by Large Language Models)
+## Notes and Public Resources (Assisted by Large Language Models)
 
 ## Materials
 
