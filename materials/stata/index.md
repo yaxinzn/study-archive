@@ -3,9 +3,8 @@ layout: minimal
 title: Stata
 hero_title: Stata
 hero_subtitle: Practical workflows
-hero_desc: Notes, templates, and reproducible workflows for using Stata in empirical research.
+hero_desc: Notes, templates, and reproducible Stata workflows for empirical research.
 hide_name: true
-
 ---
 
 <style>
@@ -26,30 +25,27 @@ hide_name: true
 </style>
 
 <div class="callout">
-  <div class="callout-title">Series focus: ASIF / China Industrial Enterprise Database (practice dataset)</div>
+  <div class="callout-title">Series focus: ASIF / China Industrial Enterprise Database</div>
 
   <p>
-    In this series, I use the <strong>China Industrial Enterprise Database</strong> (中国工业企业数据库; often abbreviated as
-    <strong>ASIF/China Industrial Enterprise Database</strong>) as a practice dataset. To respect data licensing and copyright restrictions,
-    I work with a <strong>modified and adapted version</strong> of the data, and—when helpful—use <strong>Stata’s built-in sample datasets</strong>
-    to keep demonstrations self-contained and easy to follow.
+    This series uses the <strong>China Industrial Enterprise Database</strong> (中国工业企业数据库, often called <strong>ASIF</strong>) as a practice dataset.
+    To respect licensing restrictions, I work with a <strong>modified version</strong> of the data and, when useful, <strong>Stata’s built-in sample datasets</strong> so examples remain self-contained and easy to follow.
   </p>
 
   <p>
-    The goal is twofold: (i) to illustrate end-to-end <strong>Stata econometric workflows</strong> (cleaning, construction, estimation, inference,
-    and replication hygiene), and (ii) to provide a clear, practical sense of how the China Industrial Enterprise Database is typically used in applied research.
+    The aim is to show practical <strong>Stata workflows</strong>—from cleaning and variable construction to estimation, inference, and replication—while also giving a clear sense of how this database is commonly used in applied research.
   </p>
 
   <p class="note">
-    My current knowledge is still limited, so if you notice any mistakes or unclear parts, please let me know—I would be grateful for your feedback and will revise accordingly.
+    I am still learning, so I would be very grateful for any corrections or suggestions.
   </p>
 </div>
 
 ## What this section covers
 - **Data workflow:** import/export, reshape, merge, append, panel setup, missing values, winsorization
-- **Estimation:** OLS/FE/RE, DiD/event study, IV/2SLS, GMM (as needed)
+- **Estimation:** OLS, FE/RE, DiD/event study, IV/2SLS, GMM (when needed)
 - **Inference:** clustered SEs, wild bootstrap, robustness checks, reporting
-- **Productivity / IO tools (as needed):** `prodest`, `reghdfe`, `ivreg2`, `esttab`, `coefplot`
+- **Productivity / IO tools:** `prodest`, `reghdfe`, `ivreg2`, `esttab`, `coefplot`
 - **Reproducibility:** folder structure, globals, logs, do-files, versioning
 
 ## Files
