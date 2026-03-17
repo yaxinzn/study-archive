@@ -32,7 +32,7 @@ hide_name: true
 
 <div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.12); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
   <div style="font-weight:750;">
-    <a href="{{ site.baseurl }}/reading/">Paper Reading &amp; Quick Notes</a> — quick reading notes, identification, variables, replication hooks
+    <a href="{{ site.baseurl }}/reading/">Paper Reading &amp; Quick Notes</a>
   </div>
   <div style="margin-top:6px; opacity:.85;">
     Short notes on papers and ideas.
