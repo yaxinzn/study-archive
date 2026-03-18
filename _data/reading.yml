@@ -1,3 +1,7 @@
+- title: "Liu (QJE, 2019) - Industrial Policies in Production Networks"
+  file: "Liu_QJE_2019.pdf"
+  desc: "This note summarizes the paper, which develops a static multi-sector production-network model with wedge distortions and input/value-added subsidies, derives distortion centrality ξi = μi /γi as the sufficient statistic for the marginal welfare “bang-per-buck” of targeting sector i (implying ΔlnY ≈ Cov(ξ,s)), and then computes and stress-tests ξ using hierarchical input–output matrices to evaluate South Korea’s 1970s HCI drive and modern China’s credit/tax/SOE interventions via sector-level regressions and counterfactual targeting exercises, interpreting the core tables and figures throughout."
+
 - title: "Menzio & Shi (JPE, 2011) - Efficient Search on the Job and the Business Cycle"
   file: "Menzio_Shi_2011_JPE.pdf"
   desc: "This note summarizes the paper, which builds an efficient directed-search model with on-the-job search and match-quality heterogeneity (experience vs. inspection goods via an information parameter), characterizes the constrained-efficient allocation through a planner problem and proves separability/block-recursivity plus decentralization via submarkets and posted contracts, calibrates the monthly economy to U.S. worker-flow and tenure moments, and simulates impulse responses and business-cycle statistics (with Pissarides/Mortensen–Pissarides benchmarks) to show how vacancy composition and poaching amplify small productivity shocks.        "
