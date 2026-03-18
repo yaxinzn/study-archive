@@ -1,3 +1,7 @@
+- title: "Lagos (RES, 2006) - A Model of TFP"
+  file: "Lagos_RES_2006.pdf"
+  desc: "This note summarizes the paper, which builds a continuous-time search-and-matching model with match-specific productivity shocks and endogenous job destruction, derives closed-form surplus and job-creation/job-destruction conditions that aggregate to an exact Cobb–Douglas under Pareto shocks (with true TFP A∝R, the reservation cutoff), uses policy comparative statics and a measurement framework (true A vs. Solow residuals using K vs. Ke and employment vs. hours), and calibrates the model to quantify how labor-market institutions shift selection, hoarding, unemployment, and measured versus true TFP."
+
 - title: "Eusepi, Giannoni, and Preston (JPE, 2026) - The Short-Run Policy Constraints of Long-Run Expectations"
   file: "Eusepi_Giannoni_Preston_JPE_2026.pdf"
   desc: "This note summarizes the paper, which derives a new monetary-policy feasibility constraint in a stylized New Keynesian model when agents form long-run “endpoints” for inflation and nominal rates via constant-gain (shifting-endpoints) learning, embeds that mechanism in a medium-scale NK model with imperfect-information expectations and a measurement block using surveys, long-term yields, and a ZLB shadow rate, and then uses Bayesian estimation plus welfare/optimal-policy counterfactuals (varying policy aggressiveness and endogenous learning gain) to quantify how anchoring long-run expectations relaxes the constraint and enables more aggressive stabilization."
