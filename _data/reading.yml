@@ -1,3 +1,7 @@
+- title: "Lane (QJE, 2025) - Manufacturing Revolutions: Industrial Policy and Industrialization in South Korea"
+  file: "Lane_QJE_2025.pdf"
+  desc: "This note summarizes the paper, which uses South Korea’s 1973–1979 Heavy and Chemical Industry (HCI) drive as a sector-targeted industrial-policy shock, estimating dynamic industry-level DiD event studies (Targeted×Year with industry and year fixed effects and pre-trend checks) and corroborating them with a doubly robust DiD ATT estimator and cross-country triple differences in trade, then unpacking mechanisms via plant-level production-function TFP comparisons, learning-by-doing experience interactions, and input–output linkage spillover event studies, while interpreting the core tables and figures on persistent industrial expansion, gradual export upgrading, and downstream network propagation."
+
 - title: "Lagos (RES, 2006) - A Model of TFP"
   file: "Lagos_RES_2006.pdf"
   desc: "This note summarizes the paper, which builds a continuous-time search-and-matching model with match-specific productivity shocks and endogenous job destruction, derives closed-form surplus and job-creation/job-destruction conditions that aggregate to an exact Cobb–Douglas under Pareto shocks (with true TFP A∝R, the reservation cutoff), uses policy comparative statics and a measurement framework (true A vs. Solow residuals using K vs. Ke and employment vs. hours), and calibrates the model to quantify how labor-market institutions shift selection, hoarding, unemployment, and measured versus true TFP."
