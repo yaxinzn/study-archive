@@ -1,3 +1,7 @@
+- title: "Criscuolo, Martin, Overman, and Van Reenen (AER, 2019) - Some Causal Effects of an Industrial Policy"
+  file: "Criscuolo_Martin_Overman_Reenen_AER_2019.pdf"
+  desc: "This note summarizes the paper, which evaluates the UK Regional Selective Assistance place-based investment subsidy by exploiting EU state-aid rule/map reforms to build a policy-rule instrument (ordered-probit estimated eligibility weights × predetermined area characteristics) for maximum subsidy caps (NGE), estimating area/plant/firm-level 2SLS and event-study–style difference specifications (including take-up/TOT and spillover checks via labor-market aggregation), and interpreting the core tables and figures on employment, unemployment, investment/output, and (non-)effects on TFP."
+
 - title: "Liu (QJE, 2019) - Industrial Policies in Production Networks"
   file: "Liu_QJE_2019.pdf"
   desc: "This note summarizes the paper, which develops a static multi-sector production-network model with wedge distortions and input/value-added subsidies, derives distortion centrality ξi = μi /γi as the sufficient statistic for the marginal welfare “bang-per-buck” of targeting sector i (implying ΔlnY ≈ Cov(ξ,s)), and then computes and stress-tests ξ using hierarchical input–output matrices to evaluate South Korea’s 1970s HCI drive and modern China’s credit/tax/SOE interventions via sector-level regressions and counterfactual targeting exercises, interpreting the core tables and figures throughout."
