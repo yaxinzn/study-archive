@@ -1,3 +1,7 @@
+- title: "Kelly, Mokyr, and O Grada (JPE, 2023) - The Mechanics of the Industrial Revolution"
+  file: "Kelly_Mokyr_Grada_JPE_2023.pdf"
+  desc: "This note summarizes the paper, which explains where Britain’s early mechanized textiles and metals emerged by constructing county-level pre-Industrial measures of mechanical/toolmaking skills and estimating semiparametric spatial regressions with flexible geography controls (plus an IV/2SLS strategy using watchmaking apprenticeship fees to instrument for skills), then contrasting these results with “placebo” traditional industries and interpreting the core tables, maps, and figures on skills, wages, market access, and coal."
+
 - title: "Heston & Rouwenhorst (JFE, 1994) - Does Industrial Structure Explain the Benefits of International Diversification?"
   file: "Heston_Rouwenhorst_JFE_1994.pdf"
   desc: "This note summarizes the paper, which runs monthly stock-level two-way (country×industry) dummy-variable regressions (ANOVA) under EW-OLS and VW-WLS identification restrictions to extract “pure” European market, country, and industry return components, constructs industry-corrected country indices and variance decompositions (plus currency-effect regressions) to test whether industrial structure explains international diversification, and interprets the core tables and figure showing country effects dominate and diversification gains persist after controlling for industry mix."
