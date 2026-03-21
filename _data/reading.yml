@@ -1,3 +1,7 @@
+- title: "Whited and Zhao (JF, 2021) - The Misallocation of Finance"
+  file: "Whited_Zhao_JF_2021.pdf"
+  desc: "This note summarizes the paper, which extends the Hsieh–Klenow misallocation framework to the liability side by modeling firm “benefit” as a CES function of debt and equity, uses Chinese NBS industrial-firm data and U.S. Compustat to estimate sectoral debt–equity substitution elasticities (Kmenta fixed effects and GMM), calibrates demand elasticities using the U.S. as an efficiency benchmark, backs out firm-level wedges / distortion-inclusive marginal financing costs from first-order conditions, and computes planner reallocation counterfactuals that decompose gains into scale vs. mix."
+
 - title: "Adamopoulos, Brandt, Leight, & Restuccia (Econometrica, 2022) - Misallocation, Selection, and Productivity: A Quantitative Analysis With Panel Data From China"
   file: "Adamopoulos_Brandt_Leight_Restuccia_Econometrica_2022.pdf"
   desc: "This note summarizes the paper, which uses a rural China household panel (1993–2002) to estimate permanent farm TFP and TFPR wedges via year effects and village-purged household fixed effects (validated with a Bils–Klenow–Ruane mismeasurement test), computes within- and across-village reallocation TFP gains relative to an efficient planner benchmark, and then embeds the estimated joint distribution of ability and distortions in a two-sector Roy-style selection model to quantify how land-institution wedges amplify misallocation through occupational sorting."
