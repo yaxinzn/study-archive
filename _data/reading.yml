@@ -1,3 +1,7 @@
+- title: "Fleckenstein, Gopal, Gutiérrez, and Hillenbrand (RFS, 2026) - Nonbank Lending and Credit Cyclicality"
+  file: "Fleckenstein_Gopal_Gutierrez_Hillenbrand_RFS_2026.pdf"
+  desc: "This note summarizes the paper, which uses DealScan syndicated-loan facilities (2000–2020) to separate bank tranches (revolvers/Term A) from institutional nonbank tranches (Term B+), decomposes the GFC origination and employment contractions into bank vs nonbank components, and identifies the nonbank sector’s greater cyclicality by estimating borrower×deal×time fixed-effect within-deal regressions of facility size/spreads on the Excess Bond Premium (with within-bank/lender-role robustness and CLO funding-cost mechanism evidence)."
+
 - title: "Kwon and Tang (RES, 2026) - Extreme Categories and Overreaction to News"
   file: "Kwon_Tang_RES_2026.pdf"
   desc: "This note summarizes the paper, which combines a diagnostic-expectations model with category-specific power-law tails, measures each news category’s “extremeness” by estimating tail exponents from announcement-day absolute returns in Capital IQ Key Developments matched to CRSP (2011–2018), and tests the theory using category-by-category and pooled drift/reversal regressions that interact day-0 returns with extremeness (with overlapping-news controls, alternative-explanation horse races, and inference robustness), plus complementary turnover and analyst-forecast evidence, interpreting the core tables and figures on why fat-tailed news categories generate overreaction, reversals, and higher trading volume."
