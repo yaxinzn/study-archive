@@ -1,3 +1,7 @@
+- title: "Bennett, Stulz, & Wang (JFE, 2020) - Does the Stock Market Make Firms More Productive?"
+  file: "Bennett_Stulz_Wang_JFE_2020.pdf"
+  desc: "This note summarizes the paper, which estimates firm- and year-fixed-effects panel regressions linking ACF-estimated firm TFP to lagged stock-price informativeness (PIN/PSI), strengthens identification with DiD/event-study designs around brokerage-house research closures, S&P 500 additions, and mutual-fund redemption pressure, and tests a CEO-discipline mechanism via turnover–Tobin’s q interactions."
+
 - title: "Adamopoulos, Brandt, Chen, Restuccia, & Wei (QJE, 2024) - Land Security and Mobility Frictions"
   file: "Adamopoulos_Brandt_Chen_Restuccia_Wei_QJE_2024.pdf"
   desc: "This note summarizes the paper, which builds a family-based Roy-style structural model where insecure rural land rights make renting out land risky and thus act as a household-level mobility barrier, disciplines land insecurity using a dedicated survey on reallocation/loss risk and calibrates the remaining labor-mobility and within-agriculture distortion wedges to rich RCRE household/individual moments (farm-operator share, sectoral income gaps, part-time work, TFP/TFPR dispersion) for 2004–2018, and then uses counterfactuals to decompose China’s post-2004 structural transformation and productivity gains into improved land security versus other mobility frictions."
