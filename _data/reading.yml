@@ -1,3 +1,7 @@
+- title: "Bloom, Draca, and Van Reenen (RES, 2016) - Trade Induced Technical Change? The Impact of Chinese Imports on Innovation, IT and Productivity"
+  file: "Bloom_Draca_Van_Reenen_RES_2016.pdf"
+  desc: "This note summarizes the paper, which uses Amadeus firm/plant panels for 12 European countries matched to EPO patents and Harte Hanks IT to estimate long-difference (firm FE) regressions of within-firm patenting, computers-per-worker, and TFP on changes in Chinese import penetration, identifies the trade shock with WTO-driven textile/apparel quota abolition (quota-coverage IV) and an “initial-conditions” IV based on lagged Chinese comparative advantage, and quantifies both within-firm upgrading and between-firm reallocation/exit using employment–survival interaction specifications and an aggregate decomposition."
+
 - title: "Li, Lin, and Xu (RFS, 2020) - Political Investment Cycles of State-Owned Enterprises"
   file: "Li_Lin_Xu_RFS_2020.pdf"
   desc: "This note summarizes the paper, which uses a 25-country Amadeus firm-year panel of SOEs and matched non-SOEs around 82 national elections (2001–2015) to estimate firm- and year-fixed-effects election-year DiD/SUR investment regressions with close-election and fixed-timing interactions plus placebo and incumbent-incentive falsification tests, and then traces the mechanism with parallel bank-loan issuance and employment-growth specifications to show a politically induced SOE investment cycle financed through state-dominated banking systems."
