@@ -1,3 +1,7 @@
+- title: "Chen & Kung (QJE, 2019) - Busting the “Princelings”: The Campaign against Corruption in China’s Primary Land Market"
+  file: "Chen_Kung_QJE_2019.pdf"
+  desc: "This note summarizes the paper, which matches 1.6M Chinese primary-land transactions (2004–2016) to Politburo-family (“princeling”) firms and nearby nonprinceling parcels (500m/1500m) to estimate transaction-level log price-per-sqm regressions with rich controls and high-dimensional fixed effects, then extends the analysis with patron-rank/retirement heterogeneity, quantity (land-area) regressions, ordered-probit promotion regressions for local leaders, and DiD/event-study evidence around Xi’s anticorruption campaign (central inspections, Xi-appointed officials, Zhou Yongkang’s arrest) to quantify political rent discounts and their subsequent collapse."
+
 - title: "Bennett, Stulz, & Wang (JFE, 2020) - Does the Stock Market Make Firms More Productive?"
   file: "Bennett_Stulz_Wang_JFE_2020.pdf"
   desc: "This note summarizes the paper, which estimates firm- and year-fixed-effects panel regressions linking ACF-estimated firm TFP to lagged stock-price informativeness (PIN/PSI), strengthens identification with DiD/event-study designs around brokerage-house research closures, S&P 500 additions, and mutual-fund redemption pressure, and tests a CEO-discipline mechanism via turnover–Tobin’s q interactions."
