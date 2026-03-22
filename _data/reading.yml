@@ -1,3 +1,7 @@
+- title: "Li, Lin, and Xu (RFS, 2020) - Political Investment Cycles of State-Owned Enterprises"
+  file: "Li_Lin_Xu_RFS_2020.pdf"
+  desc: "This note summarizes the paper, which uses a 25-country Amadeus firm-year panel of SOEs and matched non-SOEs around 82 national elections (2001–2015) to estimate firm- and year-fixed-effects election-year DiD/SUR investment regressions with close-election and fixed-timing interactions plus placebo and incumbent-incentive falsification tests, and then traces the mechanism with parallel bank-loan issuance and employment-growth specifications to show a politically induced SOE investment cycle financed through state-dominated banking systems."
+
 - title: "Ma (RFS, 2025) - Technological Obsolescence"
   file: "Ma_RFS_2025.pdf"
   desc: "This note summarizes the paper, which constructs a firm-year patent-citation measure of technological obsolescence from declines in external citations to a predetermined technological base, relates it to future profits/output/capital/labor/TFP using within-industry-year panel regressions with extensive robustness and validation, and documents a mispricing channel via obsolescence-sorted portfolio alphas and analyst forecast-error regressions consistent with underreaction."
