@@ -1,3 +1,7 @@
+- title: "Ma (RFS, 2025) - Technological Obsolescence"
+  file: "Ma_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which constructs a firm-year patent-citation measure of technological obsolescence from declines in external citations to a predetermined technological base, relates it to future profits/output/capital/labor/TFP using within-industry-year panel regressions with extensive robustness and validation, and documents a mispricing channel via obsolescence-sorted portfolio alphas and analyst forecast-error regressions consistent with underreaction."
+
 - title: "Li & Li (RES, 2025)- Firm Quality Dynamics and the Slippery Slope of Credit Intervention"
   file: "Li_Li_RES_2025.pdf"
   desc: "This note summarizes the paper, which builds a quantitative crisis-credit model with heterogeneous firm quality, Tobin’s-q investment, and strategic default, solves the equilibrium survival-financing problem under private funding limits and size-based government lending, calibrates/moment-matches the model to crisis and firm-level targets, and runs welfare and dynamic counterfactuals (optimal vs pseudo-optimal policy and inter-crisis pass-through) to quantify the quantity–quality trade-off and the “slippery slope” of credit intervention."
