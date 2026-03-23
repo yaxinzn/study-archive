@@ -1,3 +1,7 @@
+- title: "Varela (RES, 2018) - Reallocation, Competition, and Productivity: Evidence from a Financial Liberalization Episode"
+  file: "Varela_RES_2018.pdf"
+  desc: "This note summarizes the paper, which exploits Hungary’s 2001 removal of foreign-exchange controls as a natural experiment, estimates firm-level first-differenced difference-in-differences comparing domestic versus foreign-owned manufacturers (APEH census panel) plus a Rajan–Zingales financial-dependence triple-difference, measures revenue TFP via Olley–Pakes and markups via the production-elasticity/labor-share wedge, complements the core design with BEEPS survey regressions on financing terms and innovation, and decomposes aggregate RTFP growth into within-firm versus reallocation components."
+
 - title: "Boehm & Oberfield (QJE, 2020) - Misallocation in the Market for Inputs: Enforcement and the Organization of Production"
   file: "Boehm_Oberfield_QJE_2020.pdf"
   desc: "This note summarizes the paper, which uses Indian ASI plant-level input–output data and cross-state High Court congestion (instrumented by the High Court’s age) to estimate reduced-form regressions on materials shares, input mix, and vertical span, then structurally recovers enforcement wedges in a “recipes” model by clustering plants into common input-mix recipes and identifying distortions from within-recipe first-moment cost-share restrictions, and finally runs network counterfactuals that translate improved enforcement into sizable aggregate manufacturing productivity gains."
