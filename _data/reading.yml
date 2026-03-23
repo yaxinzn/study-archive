@@ -1,3 +1,7 @@
+- title: "Duval, Hong, and Timmer (RFS, 2020)- Financial Frictions and the Great Productivity Slowdown"
+  file: "Duval_Hong_Timmer_RFS_2020.pdf"
+  desc: "This note summarizes the paper, which uses a cross-country ORBIS firm panel and a Lehman-era long-difference DiD design that treats pre-crisis rollover risk (debt maturing in 2008 scaled by sales) as predetermined exposure, strengthens credit-supply identification with interactions using Lehman-window bank CDS jumps (country-level and firm–creditor-bank matched), measures within-firm TFP via Wooldridge (2009) GMM production-function residuals, and tests the innovation channel with intangible-investment and patenting regressions plus placebo/robustness checks while interpreting the core tables and figures on persistent post-crisis TFP hysteresis."
+
 - title: "Choi, Tian, Wu, & Kargar (JFE, 2025) - Investor demand, firm investment, and capital misallocation"
   file: "Choi_Tian_Wu_Kargar_JFE_2025.pdf"
   desc: "This note summarizes the paper, which embeds a Koijen–Yogo–style equity demand system (logit portfolio weights with latent “excess demand” shocks) into a dynamic corporate finance model of investment and payout/issuance/repurchase choices, estimates demand parameters via indirect inference (matching an auxiliary holdings-on-characteristics regression) and firm-side parameters via simulated method of moments, and then uses the estimated equilibrium to run counterfactual no-excess-demand misallocation accounting (dispersion in log(MPK) and TFP-loss)."
