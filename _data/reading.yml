@@ -1,3 +1,7 @@
+- title: "Kehrig and Vincent (RES, 2026) - Good Dispersion, Bad Dispersion"
+  file: "Kehrig_Vincent_RES_2026.pdf"
+  desc: "This note summarizes the paper, which uses U.S. Census plant-level manufacturing data to decompose dispersion in marginal revenue products and investment within vs. between multi-plant firms, exploits within-firm geographic distance as a proxy for internal-capital-market frictions in reduced-form regressions, and calibrates a two-plant dynamic model with lumpy adjustment costs and costly external finance (varying an internal-friction parameter) to show that better internal capital markets can raise both output and within-firm dispersion (“good dispersion”), with implications for cross-country misallocation accounting."
+
 - title: "Cui, Wright, & Zhu (JPE, 2025) - Endogenous Liquidity and Capital Reallocation"
   file: "Cui_Wright_Zhu_JPE_2025.pdf"
   desc: "This note summarizes the paper, which constructs Compustat-based aggregate measures of used-capital reallocation (full vs. partial sales) and documents their long-run/cyclical comovement with inflation, estimates firm- and state-level fixed-effects regressions linking cash holdings to the likelihood and size of full acquisitions and linking inflation to lower liquid balances, and then builds and calibrates a monetary search-and-bargaining model with money-and-credit liquidity constraints in the secondary capital market to match these moments and run business-cycle and policy/welfare counterfactuals for reallocation, TFP, and prices."
