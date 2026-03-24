@@ -1,3 +1,7 @@
+- title: "Peters (Econometrica, 2020) - Heterogeneous Markups, Growth, and Endogenous Misallocation"
+  file: "Peters_Econometrica_2020.pdf"
+  desc: "This note summarizes the paper, which builds a tractable endogenous-growth model with Bertrand competition and quality-ladder innovation that endogenously generates a Pareto markup distribution pinned down by the churning-to-own-innovation ratio, measures markup and employment life-cycle moments from Indonesian manufacturing census data using De Loecker–Warzynski-style factor-share markups, calibrates the model to match these moments plus entry and aggregate growth, and runs counterfactual changes in entry/expansion frictions to quantify the joint implications for misallocation, labor shares, and growth."
+
 - title: "Varela (RES, 2018) - Reallocation, Competition, and Productivity: Evidence from a Financial Liberalization Episode"
   file: "Varela_RES_2018.pdf"
   desc: "This note summarizes the paper, which exploits Hungary’s 2001 removal of foreign-exchange controls as a natural experiment, estimates firm-level first-differenced difference-in-differences comparing domestic versus foreign-owned manufacturers (APEH census panel) plus a Rajan–Zingales financial-dependence triple-difference, measures revenue TFP via Olley–Pakes and markups via the production-elasticity/labor-share wedge, complements the core design with BEEPS survey regressions on financing terms and innovation, and decomposes aggregate RTFP growth into within-firm versus reallocation components."
