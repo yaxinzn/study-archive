@@ -1,3 +1,7 @@
+- title: "Griffin, Kruger, & Mahajan (JFE, 2026) - Did Pandemic Relief Fraud Inflate House Prices?"
+  file: "Griffin_Kruger_Mahajan_JFE_2026.pdf"
+  desc: "This note summarizes the paper, which uses loan-level PPP fraud flags to construct ZIP-level suspicious-lending-per-capita shocks and then estimates borrower-level DiD/event studies for home purchases and moving, county-FE ZIP-level house-price-growth regressions with 5-mile neighborhood measures plus synthetic-control and social-network IV designs, and complementary event-time analyses of housing-market tightness, vehicle purchases, consumer spending/mobility, and regional inflation to interpret the mechanism and reversal of fraud-driven demand."
+
 - title: "Mayordomo, Pavanini, & Tarantino (RFS, 2026) - Falling Interest Rates and Credit Reallocation: Lessons from General Equilibrium"
   file: "Mayordomo_Pavanini_Tarantino_RFS_2026.pdf"
   desc: "This note summarizes the paper, which exploits Spain’s 2009–2011 regulator-induced savings-bank consolidation to compare full mergers (M&As) versus SIP business groups, estimates bank–firm difference-in-differences/event-time regressions (credit growth, loan-rate spreads, application rejections, and NPLs) using a historical 1995 “credit overlap” instrument for consolidation form, and then fits a structural bank model with borrower demand, endogenous screening/acceptance, and default to recover screening-cost efficiencies and market-power effects and run counterfactual decompositions."
