@@ -1,3 +1,7 @@
+- title: "Begenau, Bigio, Majerovitz, & Vieyra (RES, 2026) - A Q-Theory of Banks"
+  file: "Begenau_Bigio_Majerovitz_Vieyra_RES_2026.pdf"
+  desc: "This note summarizes the paper, which develops and structurally estimates a dynamic Q-theory model of bank leverage under delayed loan-loss recognition (separating fundamental, book, and market equity) using U.S. publicly traded BHC data (FR Y-9C + CRSP, 1990Q3–2021Q1) to identify idiosyncratic net-worth shocks from factor-residual excess returns and estimate distributed-lag IRFs for Tobin’s Q, leverage, and liabilities, match these moments in an SMM estimation of the recognition-speed and liquidation/regulatory constraints, and run micro-/macroprudential counterfactuals (accounting-speed reforms vs CCyB)."
+
 - title: "Jiang, Vayanos, and Zheng (RFS, 2025) - Passive Investing and the Rise of Mega-Firms"
   file: "Jiang_Vayanos_Zheng_RFS_2025.pdf"
   desc: "This note summarizes the paper, which builds a mean–variance equilibrium with unconstrained experts (active investors) and index-constrained non-experts (passive investors) with optional noise traders, derives a closed-form affine price decomposition and comparative statics showing an idiosyncratic-supply amplification channel that makes passive flows disproportionately reprice mega-firms, quantifies the mechanism in a calibration with a power-law firm-size distribution and partial-index counterfactuals, and validates the key predictions using S&P500 passive-flow predictability and idiosyncratic-volatility regressions (with an S&P600 placebo).        "
