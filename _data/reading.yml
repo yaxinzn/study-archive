@@ -1,6 +1,6 @@
-- title: "iang, Vayanos, and Zheng (RFS, 2025) - Passive Investing and the Rise of Mega-Firms"
+- title: "Jiang, Vayanos, and Zheng (RFS, 2025) - Passive Investing and the Rise of Mega-Firms"
   file: "Jiang_Vayanos_Zheng_RFS_2025.pdf"
-  desc: "This note summarizes the paper, which builds a mean–variance equilibrium with unconstrained experts (active investors) and index-constrained non-experts (passive investors) with optional noise traders, derives a closed-form affine price decomposition and comparative statics showing an idiosyncratic-supply amplification channel that makes passive flows disproportionately reprice mega-firms, quantifies the mechanism in a calibration with a power-law firm-size distribution and partial-index counterfactuals, and validates the key predictions using S&P500 passive-flow predictability and idiosyncratic-volatility regressions (with an S&P600 placebo)."
+  desc: "This note summarizes the paper, which builds a mean–variance equilibrium with unconstrained experts (active investors) and index-constrained non-experts (passive investors) with optional noise traders, derives a closed-form affine price decomposition and comparative statics showing an idiosyncratic-supply amplification channel that makes passive flows disproportionately reprice mega-firms, quantifies the mechanism in a calibration with a power-law firm-size distribution and partial-index counterfactuals, and validates the key predictions using S&P500 passive-flow predictability and idiosyncratic-volatility regressions (with an S&P600 placebo).        "
 
 - title: "Altavilla, Ellul, Pagano, Polo, & Vlassopoulos (JFE, 2025) - Loan Guarantees, Bank Lending and Credit Risk Reallocation"
   file: "Altavilla_Ellul_Pagano_Polo_Vlassopoulos_JFE_2025.pdf"
