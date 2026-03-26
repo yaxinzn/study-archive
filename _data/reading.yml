@@ -1,3 +1,7 @@
+- title: "Azoulay, Graff Zivin, Li, and Sampat (RES, 2019) - Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules"
+  file: "Azoulay_Zivin_Li_Sampat_RES_2019.pdf"
+  desc: "This note summarizes the paper, which links NIH grants (1980–2005) to publications and downstream life-science patents (1980–2012) via a grant→PubMed→USPTO bibliometric bridge (including a broader PubMed “related-article” mapping), aggregates activity into disease–science–time (DST) cells, and estimates fixed-effects and 2SLS models that instrument DST funding with quasi-random “windfall” variation created by NIH payline rules to identify the causal effect of public biomedical R&D on private-sector patenting, spillovers, and crowd-out."
+
 - title: "Li (RFS, 2011) - Constraints, R&D Investment, and Stock Returns"
   file: "Li_RFS_2011.pdf"
   desc: "This note summarizes the paper, which extends a multi-stage R&D investment model by adding external financing constraints (pledgeability p(n)) to derive suspension/continuation thresholds and an interaction prediction for risk premia, and then tests it in Compustat–CRSP data (1975–2007) using Fama–MacBeth interaction regressions and double/triple portfolio sorts across multiple financial-constraint proxies (e.g., KZ/WW/SA, size, age) and multiple R&D-intensity measures, interpreting the core tables and figures on the joint pricing of constraints and R&D."
