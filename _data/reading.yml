@@ -1,3 +1,7 @@
+- title: "Clayton, Dos Santos, Maggiori, & Schreger (AER, 2025) - Internationalizing Like China"
+  file: "Clayton_DosSantos_Maggiori_Schreger_AER_2025.pdf"
+  desc: "This note summarizes the paper, which combines new foreign-holdings and investor-entry datasets for China’s onshore bond market (COFER/CPIS-style reserves and portfolio data plus monthly QFII/RQFII/CIBM Direct/Bond Connect rosters matched to investor types) with security-level mutual-fund/ETF portfolios to compute RMB “DM-likeness” correlation statistics, and develops a dynamic reputation model with stable vs. flighty investors and crisis-time capital-control incentives to rationalize China’s gradual opening and the V-shaped 2015–2016 capital-flight episode."
+
 - title: "Acharya and Xu (JFE, 2017) - Financial Dependence and Innovation: The Case of Public versus Private Firms"
   file: "Acharya_Xu_JFE_2017.pdf"
   desc: "This note summarizes the paper, which links S&P Capital IQ private/public firm data to the NBER patent citation database to compare innovation inputs and outputs, constructs Rajan–Zingales-style industry external finance dependence and matches private firms to similar public firms, estimates panel regressions and Heckman-style treatment-effect models with the key Public × EFD heterogeneity, and then provides quasi-experimental causal evidence using a fuzzy regression discontinuity around Nasdaq delisting thresholds (plus REM, competition, and analyst-coverage mechanism tests)."
