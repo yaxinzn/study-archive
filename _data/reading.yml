@@ -1,3 +1,7 @@
+- title: "Li (RFS, 2011) - Constraints, R&D Investment, and Stock Returns"
+  file: "Li_RFS_2011.pdf"
+  desc: "This note summarizes the paper, which extends a multi-stage R&D investment model by adding external financing constraints (pledgeability p(n)) to derive suspension/continuation thresholds and an interaction prediction for risk premia, and then tests it in Compustat–CRSP data (1975–2007) using Fama–MacBeth interaction regressions and double/triple portfolio sorts across multiple financial-constraint proxies (e.g., KZ/WW/SA, size, age) and multiple R&D-intensity measures, interpreting the core tables and figures on the joint pricing of constraints and R&D."
+
 - title: "Tham, Baslandze, Sojli, & Liu (JFE, 2026)- Foundational Processes and Growth"
   file: "Tham_Baslandze_Sojli_Liu_JFE_2026.pdf"
   desc: "This note summarizes the paper, which develops a simple innovation-and-growth model distinguishing product innovation from two types of process innovation (cost-reducing vs. foundational), builds a 1900–2020 patent-text dataset to classify product vs. process patents using titles/claim preambles and then identifies “foundational” processes via within-firm TF–IDF cosine-similarity ratios to past versus future product patents (top-20% threshold), and tests the framework using local-projection firm-growth regressions on market-value–weighted patent stocks (CRSP–Compustat/Kogan values) plus cross-country GDP/TFP growth and product-quality evidence (including FDA Orange Book drug outcomes).        "
