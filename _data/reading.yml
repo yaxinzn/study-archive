@@ -1,3 +1,7 @@
+- title: "Acharya and Xu (JFE, 2017) - Financial Dependence and Innovation: The Case of Public versus Private Firms"
+  file: "Acharya_Xu_JFE_2017.pdf"
+  desc: "This note summarizes the paper, which links S&P Capital IQ private/public firm data to the NBER patent citation database to compare innovation inputs and outputs, constructs Rajan–Zingales-style industry external finance dependence and matches private firms to similar public firms, estimates panel regressions and Heckman-style treatment-effect models with the key Public × EFD heterogeneity, and then provides quasi-experimental causal evidence using a fuzzy regression discontinuity around Nasdaq delisting thresholds (plus REM, competition, and analyst-coverage mechanism tests)."
+
 - title: "Azoulay, Graff Zivin, Li, and Sampat (RES, 2019) - Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules"
   file: "Azoulay_Zivin_Li_Sampat_RES_2019.pdf"
   desc: "This note summarizes the paper, which links NIH grants (1980–2005) to publications and downstream life-science patents (1980–2012) via a grant→PubMed→USPTO bibliometric bridge (including a broader PubMed “related-article” mapping), aggregates activity into disease–science–time (DST) cells, and estimates fixed-effects and 2SLS models that instrument DST funding with quasi-random “windfall” variation created by NIH payline rules to identify the causal effect of public biomedical R&D on private-sector patenting, spillovers, and crowd-out."
