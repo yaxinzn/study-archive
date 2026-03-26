@@ -1,3 +1,7 @@
+- title: "Naaraayanan and Wolfenzon (RFS, 2024) - Business Group Spillovers"
+  file: "Naaraayanan_Wolfenzon_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which exploits the staggered construction of India’s Golden Quadrilateral highway upgrades as a common investment-opportunity shock and estimates standalone-firm difference-in-differences and dynamic event-study regressions that interact PostGQ with local business-group prevalence (HighBGS), then tests a financing-channel mechanism using borrower fixed-effect loan-supply regressions that relate banks’ post-upgrade lending changes to their pre-upgrade exposure to group-affiliated firms, alongside extensive pretrend/horse-race and alternative-mechanism robustness checks."
+
 - title: "Griffin, Kruger, & Mahajan (JFE, 2026) - Did Pandemic Relief Fraud Inflate House Prices?"
   file: "Griffin_Kruger_Mahajan_JFE_2026.pdf"
   desc: "This note summarizes the paper, which uses loan-level PPP fraud flags to construct ZIP-level suspicious-lending-per-capita shocks and then estimates borrower-level DiD/event studies for home purchases and moving, county-FE ZIP-level house-price-growth regressions with 5-mile neighborhood measures plus synthetic-control and social-network IV designs, and complementary event-time analyses of housing-market tightness, vehicle purchases, consumer spending/mobility, and regional inflation to interpret the mechanism and reversal of fraud-driven demand."
