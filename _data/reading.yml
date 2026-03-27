@@ -1,3 +1,7 @@
+- title: "Accominotti, Albers, and Oosterlinck (RFS, 2024) - Selective Default Expectations"
+  file: "Accominotti_Albers_Oosterlinck_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which exploits identical sterling Dawes bonds traded in London versus continental markets and the June-1934 transfer moratorium/affidavit rules that segmented secondary markets to identify selective-default expectations, decomposes cross-market yield spreads into default-versus-liquidity components using a simple risk-neutral pricing framework (with Roll-implied bid–ask spreads), validates segmentation with Jordà local projections, and traces creditor-specific news effects with event-study and difference-in-differences specifications."
+
 - title: "Bisetti, Li, & Yu (RFS, 2024) - The Technical Default Spread"
   file: "Bisetti_Li_Yu_RFS_2024.pdf"
   desc: "This note summarizes the paper, which combines a calibrated macro–finance model with endogenous loan covenants that shift control rights to lenders in technical default with an empirical design that constructs DealScan-based covenant strictness (ex ante breach probability) and tests its pricing and real effects using strictness-sorted portfolios and Fama–MacBeth regressions, an RDD around covenant-threshold violations, and macro-risk exposure/sensitivity regressions for investment, profitability, and cash flows."
