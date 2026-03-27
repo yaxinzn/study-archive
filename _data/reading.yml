@@ -1,3 +1,7 @@
+- title: "Xu (QJE, 2022) - Reshaping Global Trade: The Immediate and Long-Run Effects of Bank Failures"
+  file: "Xu_QJE_2022.pdf"
+  desc: "This note summarizes the paper, which digitizes Bank of England discount-window loan records to construct a location-level Bartik exposure to the 1866 London bank failures (pre-crisis bank shares × failure), estimates short-run export contractions using country- and within-country port-level DiD/event-study regressions on Lloyd’s List shipping flows and extensive-margin entry/exit outcomes, and traces decades-long trade hysteresis with dynamic bilateral market-share (gravity) regressions with destination-year fixed effects plus indirect-exposure re-sourcing tests and a structural-gravity interpretation."
+
 - title: "Amiti and Weinstein (JPE, 2018) - How Much Do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched Bank-Firm Loan Data"
   file: "Amiti_Weinstein_JPE_2018.pdf"
   desc: "This note summarizes the paper, which uses matched Japanese bank–firm loan data to estimate time‐varying bank loan-supply and firm borrowing shocks via a lagged-loan-weighted fixed-effects decomposition of percentage loan growth (with an explicit correction for new lending relationships so the estimated shocks aggregate exactly to bank, firm, and macro lending), and then links these shocks to firm investment using loan-share-weighted exposure regressions and to aggregate lending/investment using market-share-weighted “granular bank shock” decompositions."
