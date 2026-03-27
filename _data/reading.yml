@@ -1,3 +1,7 @@
+- title: "Bisetti, Li, & Yu (RFS, 2024) - The Technical Default Spread"
+  file: "Bisetti_Li_Yu_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which combines a calibrated macro–finance model with endogenous loan covenants that shift control rights to lenders in technical default with an empirical design that constructs DealScan-based covenant strictness (ex ante breach probability) and tests its pricing and real effects using strictness-sorted portfolios and Fama–MacBeth regressions, an RDD around covenant-threshold violations, and macro-risk exposure/sensitivity regressions for investment, profitability, and cash flows."
+
 - title: "Bartram, Conrad, Lee, and Subrahmanyam (RFS, 2022) - Credit Default Swaps around the World"
   file: "Bartram_Conrad_Lee_Subrahmanyam_RFS_2022.pdf"
   desc: "This note summarizes the paper, which extends the Bolton–Oehmke “empty creditor” framework by adding legal uncertainty about CDS trigger-event recognition and then uses Markit-based CDS introductions for 56k+ nonfinancial firms in 51 countries (2001–2015) to estimate propensity-score overlap-weighted panel regressions of leverage (and investment) on CDS introduction interacted with creditor-rights, liquidation, property-rights, and ownership-concentration measures—backed by covariate-balance and omitted-variable sensitivity checks—to show CDS trading raises debt capacity most where local bankruptcy/enforcement regimes make creditor control and recoveries more effective."
