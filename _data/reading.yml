@@ -1,3 +1,7 @@
+- title: "Zacchia (RES, 2020) - Knowledge Spillovers through Networks of Scientists"
+  file: "Zacchia_RES_2020.pdf"
+  desc: "This note summarizes the paper, which builds a firm-to-firm scientist network from inventor co-patenting histories to construct a connection-weighted external R&D stock, estimates firm-year production-function regressions with firm and year fixed effects, and identifies causal knowledge spillovers using a network-distance IV that instruments neighbors’ R&D with the R&D of sufficiently distant “indirect friends” (preferred distance 3), complemented by System GMM and social-return calculations."
+
 - title: "Akcigit, Hanley, and Serrano-Velarde (RES, 2021) - Back to Basics: Basic Research Spillovers, Innovation Policy, and Growth"
   file: "Akcigit_Hanley_Serrano_Velarde_RES_2021.pdf"
   desc: "This note summarizes the paper, which builds a multi-industry Schumpeterian growth model distinguishing basic vs. applied R&D, identifies cross-industry spillovers from French firm-level R&D survey data (2000–2006) using Tobit regressions of basic-research intensity on multi-industry scope and an IV based on 1980s state-led conglomeration, disciplines within-industry spillovers and cooldown with patent-citation moments, structurally estimates the full GE model by simulated method of moments, and runs planner/subsidy counterfactuals showing large welfare gains from heavily subsidizing basic research relative to applied."
