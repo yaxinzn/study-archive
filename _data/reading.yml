@@ -1,3 +1,7 @@
+- title: "Brown, Martinsson, and Thomann (RFS, 2022) - Can Environmental Policy Encourage Technical Change? Emissions Taxes and R&D Investment in Polluting Firms"
+  file: "Brown_Martinsson_Petersen_RFS_2022.pdf"
+  desc: "This note summarizes the paper, which combines OECD country-year SOx emissions-tax variation (1990–2012) with a pre-determined industry SOx-intensity measure (Levinson 1987 U.S. emissions) to implement a Rajan–Zingales-style differential-exposure DiD in firm-year panels (firm FE + country-year and industry-year controls, plus event-time lead/lag checks), then tests whether the response is “first-face” invention or “second-face” absorptive/process R&D using PATSTAT triadic/clean patents, process-R&D and spillover-sector subsamples, and market-value regressions for the marginal value of R&D."
+
 - title: "Mann (JFE, 2018) - Creditor Rights and Innovation: Evidence from Patent Collateral"
   file: "Mann_JFE_2018.pdf"
   desc: "This note summarizes the paper, which uses USPTO patent-collateral (security-interest) filings matched to NBER/Compustat to measure patent pledgeability, and exploits four federal court decisions (2002/2003/2007/2009) that increased the relevance of state secured-transactions law—creating a Delaware-versus-non-Delaware stacked DiD/event-study—to identify how stronger creditor rights to patents raise firms’ debt capacity, R&D spending, and (lagged) patenting, supported by heterogeneity/placebo tests (no-patent firms; trademarks) and citation-weighted output dynamics."
