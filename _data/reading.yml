@@ -1,3 +1,7 @@
+- title: "Iaria, Schwarz, and Waldinger (QJE, 2018) - Frontier Knowledge and Scientific Production: Evidence from the Collapse of International Science"
+  file: "Iaria_Schwarz_Waldinger_QJE_2018.pdf"
+  desc: "This note summarizes the paper, which uses WWI and the postwar Allied boycott as a geopolitical shock that collapsed cross-camp scientific exchange, documents the first stage with paper-level citation-share regressions (home vs. inside-camp vs. outside-camp) and LSA title-similarity measures, and then estimates a shift-share-style scientist-year DiD/event study that interacts post-1914 with field–country prewar reliance on frontier (top 1%/3%/5%) foreign research to identify causal effects on publications, Nobel-level output, and novel (patent-relevant) scientific words."
+
 - title: "Zacchia (RES, 2020) - Knowledge Spillovers through Networks of Scientists"
   file: "Zacchia_RES_2020.pdf"
   desc: "This note summarizes the paper, which builds a firm-to-firm scientist network from inventor co-patenting histories to construct a connection-weighted external R&D stock, estimates firm-year production-function regressions with firm and year fixed effects, and identifies causal knowledge spillovers using a network-distance IV that instruments neighbors’ R&D with the R&D of sufficiently distant “indirect friends” (preferred distance 3), complemented by System GMM and social-return calculations."
