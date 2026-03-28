@@ -1,3 +1,7 @@
+- title: "Akcigit, Hanley, and Serrano-Velarde (RES, 2021) - Back to Basics: Basic Research Spillovers, Innovation Policy, and Growth"
+  file: "Akcigit_Hanley_Serrano_Velarde_RES_2021.pdf"
+  desc: "This note summarizes the paper, which builds a multi-industry Schumpeterian growth model distinguishing basic vs. applied R&D, identifies cross-industry spillovers from French firm-level R&D survey data (2000–2006) using Tobit regressions of basic-research intensity on multi-industry scope and an IV based on 1980s state-led conglomeration, disciplines within-industry spillovers and cooldown with patent-citation moments, structurally estimates the full GE model by simulated method of moments, and runs planner/subsidy counterfactuals showing large welfare gains from heavily subsidizing basic research relative to applied."
+
 - title: "Accominotti, Albers, and Oosterlinck (RFS, 2024) - Selective Default Expectations"
   file: "Accominotti_Albers_Oosterlinck_RFS_2024.pdf"
   desc: "This note summarizes the paper, which exploits identical sterling Dawes bonds traded in London versus continental markets and the June-1934 transfer moratorium/affidavit rules that segmented secondary markets to identify selective-default expectations, decomposes cross-market yield spreads into default-versus-liquidity components using a simple risk-neutral pricing framework (with Roll-implied bid–ask spreads), validates segmentation with Jordà local projections, and traces creditor-specific news effects with event-study and difference-in-differences specifications."
