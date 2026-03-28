@@ -1,3 +1,7 @@
+- title: "Mann (JFE, 2018) - Creditor Rights and Innovation: Evidence from Patent Collateral"
+  file: "Mann_JFE_2018.pdf"
+  desc: "This note summarizes the paper, which uses USPTO patent-collateral (security-interest) filings matched to NBER/Compustat to measure patent pledgeability, and exploits four federal court decisions (2002/2003/2007/2009) that increased the relevance of state secured-transactions law—creating a Delaware-versus-non-Delaware stacked DiD/event-study—to identify how stronger creditor rights to patents raise firms’ debt capacity, R&D spending, and (lagged) patenting, supported by heterogeneity/placebo tests (no-patent firms; trademarks) and citation-weighted output dynamics."
+
 - title: "Terry, Chaney, Burchardi, Tarquinio, & Hassan (AER, 2026) - Immigration, Innovation, and Growth"
   file: "Terry_Chaney_Burchardi_Tarquinio_Hassan_AER_2026.pdf"
   desc: "This note summarizes the paper, which studies U.S. counties (1975–2010) using a two-step predicted-ancestry shift-share instrument—first predicting preexisting ancestry from historical 1880–1930 push–pull migration forces with leave-out restrictions, then interacting predicted ancestry with contemporaneous national inflows by origin to instrument county immigration—estimates county–five-year difference regressions and IHS elasticities for patenting and wages with extensive randomization/inference checks, and disciplines a quantitative regional endogenous-growth migration model by matching the innovation–immigration elasticity to run counterfactuals for innovation and output."
