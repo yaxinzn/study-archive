@@ -1,3 +1,91 @@
+- title: "David, Hopenhayn, and Venkateswaran (QJE, 2016) - Information, Misallocation, and Aggregate Productivity"
+  file: "David_Hopenhayn_Venkateswaran_QJE_2016.pdf"
+  desc: "This note summarizes the paper, which embeds noisy firm learning and noisy rational-expectations stock prices into a heterogeneous-firm GE model to make residual uncertainty V a sufficient statistic for informational misallocation, identifies V by matching production-side moments with stock-market moments (the cross-sectional correlations of lagged returns with future fundamentals and with investment, plus return volatility), quantifies implied TFP/output losses for the U.S., China, and India under “capital-only” versus “capital-and-labor” information frictions, and validates the inferred uncertainty measure using I/B/E/S-guidance forecast errors and macro micro-uncertainty benchmarks."
+
+- title: "Brown, Martinsson, and Thomann (RFS, 2022) - Can Environmental Policy Encourage Technical Change? Emissions Taxes and R&D Investment in Polluting Firms"
+  file: "Brown_Martinsson_Petersen_RFS_2022.pdf"
+  desc: "This note summarizes the paper, which combines OECD country-year SOx emissions-tax variation (1990–2012) with a pre-determined industry SOx-intensity measure (Levinson 1987 U.S. emissions) to implement a Rajan–Zingales-style differential-exposure DiD in firm-year panels (firm FE + country-year and industry-year controls, plus event-time lead/lag checks), then tests whether the response is “first-face” invention or “second-face” absorptive/process R&D using PATSTAT triadic/clean patents, process-R&D and spillover-sector subsamples, and market-value regressions for the marginal value of R&D."
+
+- title: "Mann (JFE, 2018) - Creditor Rights and Innovation: Evidence from Patent Collateral"
+  file: "Mann_JFE_2018.pdf"
+  desc: "This note summarizes the paper, which uses USPTO patent-collateral (security-interest) filings matched to NBER/Compustat to measure patent pledgeability, and exploits four federal court decisions (2002/2003/2007/2009) that increased the relevance of state secured-transactions law—creating a Delaware-versus-non-Delaware stacked DiD/event-study—to identify how stronger creditor rights to patents raise firms’ debt capacity, R&D spending, and (lagged) patenting, supported by heterogeneity/placebo tests (no-patent firms; trademarks) and citation-weighted output dynamics."
+
+- title: "Terry, Chaney, Burchardi, Tarquinio, & Hassan (AER, 2026) - Immigration, Innovation, and Growth"
+  file: "Terry_Chaney_Burchardi_Tarquinio_Hassan_AER_2026.pdf"
+  desc: "This note summarizes the paper, which studies U.S. counties (1975–2010) using a two-step predicted-ancestry shift-share instrument—first predicting preexisting ancestry from historical 1880–1930 push–pull migration forces with leave-out restrictions, then interacting predicted ancestry with contemporaneous national inflows by origin to instrument county immigration—estimates county–five-year difference regressions and IHS elasticities for patenting and wages with extensive randomization/inference checks, and disciplines a quantitative regional endogenous-growth migration model by matching the innovation–immigration elasticity to run counterfactuals for innovation and output."
+
+- title: "Iaria, Schwarz, and Waldinger (QJE, 2018) - Frontier Knowledge and Scientific Production: Evidence from the Collapse of International Science"
+  file: "Iaria_Schwarz_Waldinger_QJE_2018.pdf"
+  desc: "This note summarizes the paper, which uses WWI and the postwar Allied boycott as a geopolitical shock that collapsed cross-camp scientific exchange, documents the first stage with paper-level citation-share regressions (home vs. inside-camp vs. outside-camp) and LSA title-similarity measures, and then estimates a shift-share-style scientist-year DiD/event study that interacts post-1914 with field–country prewar reliance on frontier (top 1%/3%/5%) foreign research to identify causal effects on publications, Nobel-level output, and novel (patent-relevant) scientific words."
+
+- title: "Zacchia (RES, 2020) - Knowledge Spillovers through Networks of Scientists"
+  file: "Zacchia_RES_2020.pdf"
+  desc: "This note summarizes the paper, which builds a firm-to-firm scientist network from inventor co-patenting histories to construct a connection-weighted external R&D stock, estimates firm-year production-function regressions with firm and year fixed effects, and identifies causal knowledge spillovers using a network-distance IV that instruments neighbors’ R&D with the R&D of sufficiently distant “indirect friends” (preferred distance 3), complemented by System GMM and social-return calculations."
+
+- title: "Akcigit, Hanley, and Serrano-Velarde (RES, 2021) - Back to Basics: Basic Research Spillovers, Innovation Policy, and Growth"
+  file: "Akcigit_Hanley_Serrano_Velarde_RES_2021.pdf"
+  desc: "This note summarizes the paper, which builds a multi-industry Schumpeterian growth model distinguishing basic vs. applied R&D, identifies cross-industry spillovers from French firm-level R&D survey data (2000–2006) using Tobit regressions of basic-research intensity on multi-industry scope and an IV based on 1980s state-led conglomeration, disciplines within-industry spillovers and cooldown with patent-citation moments, structurally estimates the full GE model by simulated method of moments, and runs planner/subsidy counterfactuals showing large welfare gains from heavily subsidizing basic research relative to applied."
+
+- title: "Accominotti, Albers, and Oosterlinck (RFS, 2024) - Selective Default Expectations"
+  file: "Accominotti_Albers_Oosterlinck_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which exploits identical sterling Dawes bonds traded in London versus continental markets and the June-1934 transfer moratorium/affidavit rules that segmented secondary markets to identify selective-default expectations, decomposes cross-market yield spreads into default-versus-liquidity components using a simple risk-neutral pricing framework (with Roll-implied bid–ask spreads), validates segmentation with Jordà local projections, and traces creditor-specific news effects with event-study and difference-in-differences specifications."
+
+- title: "Bisetti, Li, & Yu (RFS, 2024) - The Technical Default Spread"
+  file: "Bisetti_Li_Yu_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which combines a calibrated macro–finance model with endogenous loan covenants that shift control rights to lenders in technical default with an empirical design that constructs DealScan-based covenant strictness (ex ante breach probability) and tests its pricing and real effects using strictness-sorted portfolios and Fama–MacBeth regressions, an RDD around covenant-threshold violations, and macro-risk exposure/sensitivity regressions for investment, profitability, and cash flows."
+
+- title: "Bartram, Conrad, Lee, and Subrahmanyam (RFS, 2022) - Credit Default Swaps around the World"
+  file: "Bartram_Conrad_Lee_Subrahmanyam_RFS_2022.pdf"
+  desc: "This note summarizes the paper, which extends the Bolton–Oehmke “empty creditor” framework by adding legal uncertainty about CDS trigger-event recognition and then uses Markit-based CDS introductions for 56k+ nonfinancial firms in 51 countries (2001–2015) to estimate propensity-score overlap-weighted panel regressions of leverage (and investment) on CDS introduction interacted with creditor-rights, liquidation, property-rights, and ownership-concentration measures—backed by covariate-balance and omitted-variable sensitivity checks—to show CDS trading raises debt capacity most where local bankruptcy/enforcement regimes make creditor control and recoveries more effective."
+
+- title: "Ding, Xiong, and Zhang (JFE, 2022) - Issuance Overpricing of China’s Corporate Debt Securities"
+  file: "Ding_Xiong_Zhang_JFE_2022.pdf"
+  desc: "This note summarizes the paper, which documents systematic issuance overpricing in China’s interbank CP/MTN market by comparing issuance spreads to first-trade spreads (and benchmarked excess returns), and traces the mechanism to underwriter repeat-business incentives using underwriter-switching regressions, difference-in-differences/event-time tests around the October 2017 rebate ban (central-SOE/Big-Four treatment splits), and confidential auction-allocation evidence plus regressions linking overpricing to underwriter self-purchases/overbidding and post-ban improvements in issuance-price “quality” (R^2)."
+
+- title: "Allen, Qian, Tu, and Yu (JFE, 2019) - Entrusted Loans: A Close Look at China’s Shadow Banking System"
+  file: "Allen_Qian_Tu_Yu_JFE_2019.pdf"
+  desc: "This note summarizes the paper, which hand-collects transaction-level entrusted loans from mandatory annual-report disclosures for Chinese listed nonfinancial firms (2004–2013), distinguishes affiliated (support/ICM) versus nonaffiliated (arm’s-length) lending, compares loan rates to official bank benchmarks and lenders’ own bond funding costs, estimates firm-year logit/Tobit models of who lends, loan-level spread regressions and ex post logit performance tests to assess risk-based pricing, and market-model event studies (with a Heckman announcement-selection correction) to evaluate shareholder value effects.        "
+
+- title: "Xu (QJE, 2022) - Reshaping Global Trade: The Immediate and Long-Run Effects of Bank Failures"
+  file: "Xu_QJE_2022.pdf"
+  desc: "This note summarizes the paper, which digitizes Bank of England discount-window loan records to construct a location-level Bartik exposure to the 1866 London bank failures (pre-crisis bank shares × failure), estimates short-run export contractions using country- and within-country port-level DiD/event-study regressions on Lloyd’s List shipping flows and extensive-margin entry/exit outcomes, and traces decades-long trade hysteresis with dynamic bilateral market-share (gravity) regressions with destination-year fixed effects plus indirect-exposure re-sourcing tests and a structural-gravity interpretation."
+
+- title: "Amiti and Weinstein (JPE, 2018) - How Much Do Idiosyncratic Bank Shocks Affect Investment? Evidence from Matched Bank-Firm Loan Data"
+  file: "Amiti_Weinstein_JPE_2018.pdf"
+  desc: "This note summarizes the paper, which uses matched Japanese bank–firm loan data to estimate time‐varying bank loan-supply and firm borrowing shocks via a lagged-loan-weighted fixed-effects decomposition of percentage loan growth (with an explicit correction for new lending relationships so the estimated shocks aggregate exactly to bank, firm, and macro lending), and then links these shocks to firm investment using loan-share-weighted exposure regressions and to aggregate lending/investment using market-share-weighted “granular bank shock” decompositions."
+
+- title: "Bigio & La’O (QJE, 2020) - Distortions in Production Networks"
+  file: "Bigio_LaO_QJE_2020.pdf"
+  desc: "This note summarizes the paper, which develops a static multisector production-network model with sectoral distortion wedges, proves a Hulten-like theorem showing distortions affect the aggregate labor wedge (not TFP) at first order with Domar weights (and Leontief-inverse/network-centrality in the Cobb–Douglas case), and quantifies 2008–09 amplification by mapping Gilchrist–Zakrajsek credit spreads into sector wedges using BEA input–output tables and benchmarking the network economy against a horizontal counterfactual while interpreting the core tables and figures on bottlenecks and the ≈2 labor-wedge network multiplier."
+
+- title: "Clayton, Dos Santos, Maggiori, & Schreger (AER, 2025) - Internationalizing Like China"
+  file: "Clayton_DosSantos_Maggiori_Schreger_AER_2025.pdf"
+  desc: "This note summarizes the paper, which combines new foreign-holdings and investor-entry datasets for China’s onshore bond market (COFER/CPIS-style reserves and portfolio data plus monthly QFII/RQFII/CIBM Direct/Bond Connect rosters matched to investor types) with security-level mutual-fund/ETF portfolios to compute RMB “DM-likeness” correlation statistics, and develops a dynamic reputation model with stable vs. flighty investors and crisis-time capital-control incentives to rationalize China’s gradual opening and the V-shaped 2015–2016 capital-flight episode."
+
+- title: "Acharya and Xu (JFE, 2017) - Financial Dependence and Innovation: The Case of Public versus Private Firms"
+  file: "Acharya_Xu_JFE_2017.pdf"
+  desc: "This note summarizes the paper, which links S&P Capital IQ private/public firm data to the NBER patent citation database to compare innovation inputs and outputs, constructs Rajan–Zingales-style industry external finance dependence and matches private firms to similar public firms, estimates panel regressions and Heckman-style treatment-effect models with the key Public × EFD heterogeneity, and then provides quasi-experimental causal evidence using a fuzzy regression discontinuity around Nasdaq delisting thresholds (plus REM, competition, and analyst-coverage mechanism tests)."
+
+- title: "Azoulay, Graff Zivin, Li, and Sampat (RES, 2019) - Public R&D Investments and Private-sector Patenting: Evidence from NIH Funding Rules"
+  file: "Azoulay_Zivin_Li_Sampat_RES_2019.pdf"
+  desc: "This note summarizes the paper, which links NIH grants (1980–2005) to publications and downstream life-science patents (1980–2012) via a grant→PubMed→USPTO bibliometric bridge (including a broader PubMed “related-article” mapping), aggregates activity into disease–science–time (DST) cells, and estimates fixed-effects and 2SLS models that instrument DST funding with quasi-random “windfall” variation created by NIH payline rules to identify the causal effect of public biomedical R&D on private-sector patenting, spillovers, and crowd-out."
+
+- title: "Li (RFS, 2011) - Constraints, R&D Investment, and Stock Returns"
+  file: "Li_RFS_2011.pdf"
+  desc: "This note summarizes the paper, which extends a multi-stage R&D investment model by adding external financing constraints (pledgeability p(n)) to derive suspension/continuation thresholds and an interaction prediction for risk premia, and then tests it in Compustat–CRSP data (1975–2007) using Fama–MacBeth interaction regressions and double/triple portfolio sorts across multiple financial-constraint proxies (e.g., KZ/WW/SA, size, age) and multiple R&D-intensity measures, interpreting the core tables and figures on the joint pricing of constraints and R&D."
+
+- title: "Tham, Baslandze, Sojli, & Liu (JFE, 2026)- Foundational Processes and Growth"
+  file: "Tham_Baslandze_Sojli_Liu_JFE_2026.pdf"
+  desc: "This note summarizes the paper, which develops a simple innovation-and-growth model distinguishing product innovation from two types of process innovation (cost-reducing vs. foundational), builds a 1900–2020 patent-text dataset to classify product vs. process patents using titles/claim preambles and then identifies “foundational” processes via within-firm TF–IDF cosine-similarity ratios to past versus future product patents (top-20% threshold), and tests the framework using local-projection firm-growth regressions on market-value–weighted patent stocks (CRSP–Compustat/Kogan values) plus cross-country GDP/TFP growth and product-quality evidence (including FDA Orange Book drug outcomes).        "
+
+- title: "Naaraayanan and Wolfenzon (RFS, 2024) - Business Group Spillovers"
+  file: "Naaraayanan_Wolfenzon_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which exploits the staggered construction of India’s Golden Quadrilateral highway upgrades as a common investment-opportunity shock and estimates standalone-firm difference-in-differences and dynamic event-study regressions that interact PostGQ with local business-group prevalence (HighBGS), then tests a financing-channel mechanism using borrower fixed-effect loan-supply regressions that relate banks’ post-upgrade lending changes to their pre-upgrade exposure to group-affiliated firms, alongside extensive pretrend/horse-race and alternative-mechanism robustness checks."
+
+- title: "Griffin, Kruger, & Mahajan (JFE, 2026) - Did Pandemic Relief Fraud Inflate House Prices?"
+  file: "Griffin_Kruger_Mahajan_JFE_2026.pdf"
+  desc: "This note summarizes the paper, which uses loan-level PPP fraud flags to construct ZIP-level suspicious-lending-per-capita shocks and then estimates borrower-level DiD/event studies for home purchases and moving, county-FE ZIP-level house-price-growth regressions with 5-mile neighborhood measures plus synthetic-control and social-network IV designs, and complementary event-time analyses of housing-market tightness, vehicle purchases, consumer spending/mobility, and regional inflation to interpret the mechanism and reversal of fraud-driven demand."
+
 - title: "Mayordomo, Pavanini, & Tarantino (RFS, 2026) - The Impact of Bank Consolidation on Credit Supply and Performance"
   file: "Mayordomo_Pavanini_Tarantino_RFS_2026.pdf"
   desc: "This note summarizes the paper, which exploits Spain’s 2009–2011 regulator-induced savings-bank consolidation to compare full mergers (M&As) versus SIP business groups, estimates bank–firm difference-in-differences/event-time regressions (credit growth, loan-rate spreads, application rejections, and NPLs) using a historical 1995 “credit overlap” instrument for consolidation form, and then fits a structural bank model with borrower demand, endogenous screening/acceptance, and default to recover screening-cost efficiencies and market-power effects and run counterfactual decompositions."
