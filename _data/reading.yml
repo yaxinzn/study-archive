@@ -1,3 +1,7 @@
+- title: "De Loecker & Warzynski (AER, 2012) - Markups and Firm-Level Export Status"
+  file: "DeLoecker_Warzynski_AER_2012.pdf"
+  desc: "This note summarizes the paper, which develops a production-function-based markup estimator from a flexible-input cost-minimization FOC (μ=θX/αX), estimates firm- and time-varying output elasticities with an OP/LP/ACF-style control-function approach (using materials to proxy for unobserved productivity and a second-stage productivity law of motion with moment conditions), corrects input expenditure shares using first-stage residuals, and applies the method to Slovenian manufacturing to run cross-sectional and within-firm export-entry regressions of log markups (plus robustness to unobserved prices and destination-market decompositions)."
+
 - title: "Collard-Wexler & De Loecker (AER, 2015) - Reallocation and Technology: Evidence from the US Steel Industry"
   file: "CollardWexler_DeLoecker_AER_2015.pdf"
   desc: "This note summarizes the paper, which uses U.S. Census steel plant data (1963–2002) to estimate technology-specific production functions with Olley–Pakes investment/selection corrections and plant-specific output/input price deflators, quantifies the minimill productivity premium, and decomposes aggregate TFP growth into within-plant improvement, within-technology and between-technology reallocation (Olley–Pakes covariance and entry/exit terms), complemented by De Loecker–Warzynski markup estimates to link minimill diffusion to intensified competition and incumbent (integrated-plant) selection."
