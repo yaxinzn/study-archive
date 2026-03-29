@@ -65,7 +65,7 @@ SRC_BASENAME="$(basename "$SRC")"
 
 DST_NAME="$(python3 - <<'PY'
 import os, re
-base = os.environ.get("SRC_BASENAME","")
+base = os.environ.get("SRC_BASENAME", "")
 base = re.sub(r"\s+", "_", base)
 base = re.sub(r"[()]", "", base)
 base = re.sub(r"[^A-Za-z0-9._-]", "_", base)
@@ -77,11 +77,14 @@ PY
 
 cp "$SRC" "reading/library/$DST_NAME"
 
-# Upsert into _data/reading.yml by file name (update title/desc if exists, else prepend)
+# Upsert into _data/reading.yml by exact file name
 export TITLE DESC DST_NAME
 python3 - <<'PY'
 from pathlib import Path
-import os, re
+import os
+import re
+import shutil
+import sys
 
 yml = Path("_data/reading.yml")
 title = os.environ["TITLE"]
@@ -89,33 +92,66 @@ desc  = os.environ["DESC"]
 file  = os.environ["DST_NAME"]
 
 def esc(x: str) -> str:
-    return x.replace('"', '\\"')
+    return x.replace("\\", "\\\\").replace('"', '\\"')
 
 title_e = esc(title)
 desc_e  = esc(desc)
 file_e  = esc(file)
 
-new_block = f'''- title: "{title_e}"
-  file: "{file_e}"
-  desc: "{desc_e}"
-'''
+new_block = (
+    f'- title: "{title_e}"\n'
+    f'  file: "{file_e}"\n'
+    f'  desc: "{desc_e}"\n'
+)
 
 txt = yml.read_text(encoding="utf-8") if yml.exists() else ""
-pat = re.compile(r'(?ms)^- title: ".*?"\n  file: "' + re.escape(file_e) + r'"\n  desc: ".*?"\n')
 
-if pat.search(txt):
-    txt2 = pat.sub(new_block, txt, count=1)
+# 每个 entry 都严格限定在单行字段内，不允许跨行吞掉别的条目
+entry_pat = re.compile(
+    r'(?m)^- title: "[^\n]*"\n'
+    r'  file: "[^\n"]*"\n'
+    r'  desc: "[^\n]*"\n?'
+)
+
+target_pat = re.compile(
+    r'(?m)^- title: "[^\n]*"\n'
+    r'  file: "' + re.escape(file_e) + r'"\n'
+    r'  desc: "[^\n]*"\n?'
+)
+
+before_count = len(entry_pat.findall(txt))
+exists = bool(target_pat.search(txt))
+
+if yml.exists():
+    backup = yml.with_suffix(".yml.bak")
+    shutil.copy2(yml, backup)
+
+if exists:
+    txt2 = target_pat.sub(new_block, txt, count=1)
+    expected_count = before_count
 else:
     txt2 = (new_block + "\n" + txt.lstrip()).rstrip() + "\n"
+    expected_count = before_count + 1
+
+after_count = len(entry_pat.findall(txt2))
+
+if after_count != expected_count:
+    print(
+        f"ERROR: reading.yml entry count mismatch "
+        f"(before={before_count}, after={after_count}, expected={expected_count}). "
+        f"Aborting to avoid accidental overwrite.",
+        file=sys.stderr,
+    )
+    sys.exit(1)
 
 yml.write_text(txt2, encoding="utf-8")
-print("Updated _data/reading.yml")
+print("Updated _data/reading.yml safely")
 PY
 
 git add "reading/library/$DST_NAME" "_data/reading.yml"
 git commit -m "Reading: add/update ${DST_NAME}" || echo "Nothing to commit"
 
-# Remote may have advanced (e.g., workflows) — rebase again safely, then push
+# Remote may have advanced — rebase again safely, then push
 safe_pull_rebase
 
 # Push with one retry if remote advanced again
