@@ -1,3 +1,7 @@
+- title: "Hsieh and Klenow (QJE, 2009) - Misallocation and Manufacturing TFP in China and India"
+  file: "Hsieh_Klenow_QJE_2009.pdf"
+  desc: "This note summarizes the paper, which builds a monopolistic-competition model with plant-level output and capital wedges that implies TFPR should be equalized within narrowly defined industries, uses plant-level manufacturing data for China, India, and the United States to construct TFPQ/TFPR and back out implied marginal-product distortions, and then computes counterfactual aggregate manufacturing TFP gains from reallocating labor and capital to reduce TFPR dispersion (full equalization and “U.S.-efficiency” benchmarks) with extensive robustness and policy-diagnostics exercises."
+
 - title: "Bartelsman, Haltiwanger, and Scarpetta (AER, 2013) - Cross-Country Differences in Productivity: The Role of Allocation and Selection"
   file: "Bartelsman_Haltiwanger_Scarpetta_AER_2013.pdf"
   desc: "This note summarizes the paper, which uses harmonized cross-country firm-level manufacturing moments (U.S., Western Europe, and transition economies) to document that the Olley–Pakes size–productivity covariance varies much more systematically across countries than dispersion measures, and then disciplines a heterogeneous-firm model with overhead labor, quasi-fixed capital, and endogenous entry/exit by running distortion-distribution counterfactuals calibrated to match each country’s covariance moment—showing how distortions weaken both allocation and selection and implying sizable cross-country consumption/productivity gaps."
