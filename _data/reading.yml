@@ -1,3 +1,7 @@
+- title: "Maggio and Kermani (RFS, 2017) - Credit-Induced Boom and Bust"
+  file: "Maggio_Kermani_RFS_2017.pdf"
+  desc: "This note summarizes the paper, which exploits the 2004 OCC preemption of state anti-predatory lending laws as a regulatory credit-supply shock, estimates agency-level first-stage and county-level triple-difference/event-study regressions that interact APL status, Post-2004, and counties’ predetermined 2003 national-bank (OCC) lending share, and then uses the interaction as an IV for local mortgage origination to quantify effects on house-price growth, nontradable employment, and boom-bust delinquency dynamics, supported by placebo/border-tract designs and risk-lending mechanism tests (high-cost and high-DTI loans)."
+
 - title: "Begley and Srinivasan (RFS, 2022) - Small Bank Lending in the Era of Fintech and Shadow Banks: A Sideshow?"
   file: "Begley_Srinivasan_RFS_2022.pdf"
   desc: "This note summarizes the paper, which uses HMDA lender-class×county mortgage origination data (2008–2015) to estimate local substitution regressions showing small banks expand most where the Big4 retreat, identifies the Big4 retreat with two county-level IVs (predetermined 2008 Big4 share and exposure to Big4 mortgage-lawsuit penalties) to isolate supply-driven reallocation, and then tests mechanisms by splitting outcomes into balance-sheet versus sold (GSE) lending and exploiting the 2011–2015 GSE guarantee-fee parity/level shocks (with jumbo-loan placebos and validation tests) to show small banks’ comparative advantage is retained lending."
