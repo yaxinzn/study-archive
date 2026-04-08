@@ -49,6 +49,8 @@ brand: Variables (Live)
     <li>
       <strong>March 8:</strong> Updated all the variables from <em>Review of Financial Studies</em>,
       Volume 39, Issue 3 (March 2026).
+    </li>
+    <li>
       <strong>April 8:</strong> Updated all the variables from <em>Review of Financial Studies</em>,
       Volume 39, Issue 4 (April 2026).
     </li>
