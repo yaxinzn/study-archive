@@ -338,7 +338,7 @@
   file: "Cornaggia_Mao_Tian_Wolfe_JFE_2015.pdf"
   desc: "This note summarizes the paper, which exploits staggered U.S. interstate branching deregulation (Rice–Strahan restrictions index after IBBEA) as a quasi-natural experiment for banking competition, estimates state and year fixed-effects panel regressions of future 3-year patent counts and citations (from NBER patents) on branching restrictions with event-time and randomization-placebo tests, and then unpacks mechanisms by separating public corporations versus private firms and running interaction designs for private firms’ external-finance dependence and prior out-of-state borrowing (DealScan) plus acquisition-based tests showing deregulation reduces public-firm innovation by shrinking the pool of innovative targets while increasing innovation for constrained private firms."
 
-- title: "Kacperczyk, Van Nieuwerburgh, and Veldkamp (JF, 2014) - Time-Varying Fund Manager Skill"
+- title: "Kacperczyk, Sialm & Zheng (RFS, 2008) - Unobserved Actions of Mutual Funds"
   file: "Kacperczyk_Sialm_Zheng_RFS_2008.pdf"
   desc: "This note summarizes the paper, which- uses CRSP mutual-fund data merged with Thomson Reuters holdings and a manager panel (1980–2005) to construct holdings-based Timing and Picking skill measures, estimates panel and quantile regressions (plus same-fund and manager fixed-effect tests) showing skilled managers shift from stock picking in expansions to market timing in recessions, and builds a real-time recession-weighted Skill Index that predicts future risk-adjusted fund alpha."
 
