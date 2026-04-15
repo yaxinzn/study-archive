@@ -3,7 +3,7 @@ layout: minimal
 title: Empirical IO
 hero_title: Empirical IO
 hero_subtitle: Study materials
-hero_desc: Notes, PDFs, and structured summaries for Empirical IO.
+hero_desc: Notes and PDFs for Empirical IO.
 hide_name: true
 
 ---
@@ -13,7 +13,8 @@ hide_name: true
 ## Scope
 Demand estimation, cost/production, competition and conduct, entry/exit, identification, and counterfactual analysis.
 
-## Files
+## LLM-Assisted Study of the Textbook: Summary and Study Guide
+(Reference: http://aguirregabiria.net/wpapers/book_dynamic_io.pdf)
 <!-- AUTO-LIST-START -->
 - **[contents.pdf](contents.pdf)**
 - **[EIO1.pdf](EIO1.pdf)**
@@ -36,5 +37,8 @@ Demand estimation, cost/production, competition and conduct, entry/exit, identif
 - **[EIOBook-9.pdf](EIOBook-9.pdf)**
 - **[EIOBook-intro.pdf](EIOBook-intro.pdf)**
 - **[EIOLogic.pdf](EIOLogic.pdf)**
+
+## LLM-Assisted Problem Sets and Solutions
+(Reference: https://kohei-kawaguchi.github.io/EmpiricalIO/)
 - **[empirical_io_chapter3_problem_set_with_answers.pdf](empirical_io_chapter3_problem_set_with_answers.pdf)**
 <!-- AUTO-LIST-END -->
