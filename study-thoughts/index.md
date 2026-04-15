@@ -37,8 +37,6 @@ This page is for brief reflections on study, difficulty, and progress.
   </p>
 </div>
 
-<p style="margin-top:22px; color:#666;">
-More notes will be added over time.
 </p>
 
 </div>
