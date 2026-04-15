@@ -36,4 +36,5 @@ Demand estimation, cost/production, competition and conduct, entry/exit, identif
 - **[EIOBook-9.pdf](EIOBook-9.pdf)**
 - **[EIOBook-intro.pdf](EIOBook-intro.pdf)**
 - **[EIOLogic.pdf](EIOLogic.pdf)**
+- **[empirical_io_chapter3_problem_set_with_answers.pdf](empirical_io_chapter3_problem_set_with_answers.pdf)**
 <!-- AUTO-LIST-END -->
