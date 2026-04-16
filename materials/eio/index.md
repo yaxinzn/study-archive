@@ -42,6 +42,7 @@ Demand estimation, cost/production, competition and conduct, entry/exit, identif
 (Reference: https://kohei-kawaguchi.github.io/EmpiricalIO/)
 - **[empirical_io_chapter3_problem_set_with_answers.pdf](empirical_io_chapter3_problem_set_with_answers.pdf)**
 - **[empirical_io_chapter4_problem_set_with_answers.pdf](empirical_io_chapter4_problem_set_with_answers.pdf)**
+
 ## Files
 <!-- AUTO-LIST-START -->
 - **[contents.pdf](contents.pdf)**
@@ -67,4 +68,5 @@ Demand estimation, cost/production, competition and conduct, entry/exit, identif
 - **[EIOLogic.pdf](EIOLogic.pdf)**
 - **[empirical_io_chapter3_problem_set_with_answers.pdf](empirical_io_chapter3_problem_set_with_answers.pdf)**
 - **[empirical_io_chapter4_problem_set_with_answers.pdf](empirical_io_chapter4_problem_set_with_answers.pdf)**
+- **[empirical_io_chapter5_problem_set_with_answers.pdf](empirical_io_chapter5_problem_set_with_answers.pdf)**
 <!-- AUTO-LIST-END -->
