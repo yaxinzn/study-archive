@@ -1,3 +1,7 @@
+- title: "Gentzkow, Shapiro, and Sinkinson (AER, 2011) - The Effect of Newspaper Entry and Exit on Electoral Politics"
+  file: "Gentzkow_Shapiro_Sinkinson_AER_2011.pdf"
+  desc: "This note summarizes the paper, which builds a county-level panel of U.S. daily newspapers (1869–2004) and uses newspaper entry/exit events in first-difference regressions with state-year fixed effects and event-study pretrend checks to identify causal effects on politics, finding that newspapers primarily mobilize voters—raising turnout (especially the first newspaper in a county) and readership—while explicitly partisan newspaper balance does not meaningfully shift party vote shares or incumbency advantage on average."
+
 - title: "Autor, Dorn, and Hanson (AER, 2013) - The China Syndrome: Local Labor Market Effects of Import Competition in the United States"
   file: "Autor_Dorn_Hanson_AER_2013.pdf"
   desc: "This note summarizes the paper, which measures commuting-zone exposure to Chinese import competition with a shift-share “import exposure per worker” variable, identifies the China supply-shock component using an IV based on China’s export growth to other high-income countries, and estimates stacked first-difference 2SLS regressions showing that more exposed local labor markets suffer large, persistent manufacturing job losses that spill over into higher unemployment and nonparticipation, lower wages (especially in nonmanufacturing), and higher transfer receipts with little offsetting migration—highlighting concentrated local adjustment costs of globalization.”"
