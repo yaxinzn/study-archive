@@ -1,3 +1,7 @@
+- title: "Falck, Gold, and Heblich (AER, 2014) - E-lections: Voting Behavior and the Internet"
+  file: "Falck_Gold_Heblich_AER_2014.pdf"
+  desc: "This note summarizes the paper, which identifies the causal effect of broadband Internet on political participation in Germany by instrumenting municipal DSL availability with predetermined quirks of the preexisting telephone network (the 4,200-meter copper-distance cutoff, “no closer MDF” constraints, and East German OPAL fiber areas), estimating first-difference IV regressions across election cycles and showing that early broadband access reduced voter turnout—especially in nonlocal (federal/state) elections—through a media-substitution mechanism that crowds out TV and increases entertainment time without robustly shifting party vote shares."
+
 - title: "Dessein and Santos (JPE, 2006) - Adaptive Organizations"
   file: "Dessein_Santos_JPE_2006.pdf"
   desc: "This note summarizes the paper, which develops a team-theoretic model of organizational design where firms choose task specialization, task bundling, and communication quality to trade off Smithian specialization gains against adaptation–coordination losses from using workers’ local information, showing that better communication can reduce specialization by making an “adaptive” mode attractive (broad jobs, higher flexibility, more horizontal communication), with nonmonotone comparative statics in task interdependence and communication quality and strong complementarities that generate clustered workplace practices."
