@@ -1,3 +1,7 @@
+- title: "Petrin (JPE, 2002) - Quantifying the Benefits of New Products: The Case of the Minivan"
+  file: "Petrin_JPE_2002.pdf"
+  desc: "This note summarizes the paper, which estimates a BLP-style random-coefficients demand-and-supply model of U.S. automobiles (1981–1993) augmented with CEX micro moments (purchase rates by income group and buyer family-size/age moments for minivans and other family vehicles) to discipline substitution patterns, and then runs a counterfactual that removes minivans and solves for the new Bertrand equilibrium to compute compensating-variation consumer surplus and producer-profit effects—showing micro moments greatly reduce inflated WTP estimates and yielding large total welfare gains from the minivan that accrue mostly to consumers despite Chrysler’s temporary first-mover profits."
+
 - title: "Gentzkow, Shapiro, and Sinkinson (AER, 2011) - The Effect of Newspaper Entry and Exit on Electoral Politics"
   file: "Gentzkow_Shapiro_Sinkinson_AER_2011.pdf"
   desc: "This note summarizes the paper, which builds a county-level panel of U.S. daily newspapers (1869–2004) and uses newspaper entry/exit events in first-difference regressions with state-year fixed effects and event-study pretrend checks to identify causal effects on politics, finding that newspapers primarily mobilize voters—raising turnout (especially the first newspaper in a county) and readership—while explicitly partisan newspaper balance does not meaningfully shift party vote shares or incumbency advantage on average."
