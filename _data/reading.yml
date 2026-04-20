@@ -1,3 +1,7 @@
+- title: "Bolton and Dewatripont (QJE, 1994) - The Firm as a Communication Network"
+  file: "Bolton_Dewatripont_QJE_1994.pdf"
+  desc: "This note summarizes the paper, which models the firm as an information-processing/communication network with costly message transmission (fixed and marginal reading costs) and returns to specialization in repeated processing, derives when efficient organizations become pyramidal hierarchies with one-agent–one-superior reporting, nonredundant links, and increasingly aggregated reports at higher layers (implying smaller spans at the top), and contrasts regular pyramids with conveyor-belt chains to show organizational form trades off specialization gains against communication-link and transit costs."
+
 - title: "Martin and Yurukoglu (AER, 2017) - Bias in Cable News: Persuasion and Polarization"
   file: "Martin_Yurukoglu_AER_2017.pdf"
   desc: "This note summarizes the paper, which instruments Fox News viewership with local cable channel position (lower positions increase viewing) to estimate persuasion effects on presidential voting and then fits a structural model with both selective exposure (taste for like-minded news) and persuasion (viewing shifts ideology), using text-based slant measures to trace how cable news can move vote shares and modestly amplify polarization through feedback between media choice and ideological influence."
