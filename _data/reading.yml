@@ -1,3 +1,7 @@
+- title: "Hamilton (JPE, 1983) - Oil and the Macroeconomy since World War II"
+  file: "Hamilton_JPE_1983.pdf"
+  desc: "This note summarizes the paper, which combines historical episode evidence on petroleum-sector/geopolitical disruptions with quarterly Granger-causality tests in a Sims-style macro system to show that crude oil price increases systematically predict lower future real GNP growth and higher unemployment with a lag of about 3–4 quarters, while standard macro variables generally do not predict oil price changes—supporting the interpretation of oil shocks as plausibly exogenous supply disturbances that helped shape the timing and severity of many postwar U.S. recessions (including pre-OPEC)."
+
 - title: "Mian and Sufi (AER, 2011) - House Prices, Home Equity–Based Borrowing, and the US Household Leverage Crisis"
   file: "Mian_Sufi_AER_2011.pdf"
   desc: "This note summarizes the paper, which uses 1997 homeowner credit-bureau panels and an IV strategy based on MSA housing-supply elasticity (plus a within-MSA triple-difference using 1997 subprime share × supply inelasticity) to identify the causal effect of 2002–2006 house-price appreciation on home-equity borrowing, finding that existing homeowners increase debt by about 0.52% per 1% house-price gain (≈25 cents per $1 of home-value gains), with borrowing concentrated among low-credit-score/high-credit-utilization/younger households, and that this channel explains roughly $1.25 trillion of debt growth and at least 39% of new defaults in 2006–2008."
