@@ -1,4 +1,4 @@
-- title: "Gentzkow, Shapiro, and Sinkinson (AER, 2011) - The Effect of Newspaper Entry and Exit on Electoral Politics"
+- title: "Martin and Yurukoglu (AER, 2017) - Bias in Cable News: Persuasion and Polarization"
   file: "Martin_Yurukoglu_AER_2017.pdf"
   desc: "This note summarizes the paper, which instruments Fox News viewership with local cable channel position (lower positions increase viewing) to estimate persuasion effects on presidential voting and then fits a structural model with both selective exposure (taste for like-minded news) and persuasion (viewing shifts ideology), using text-based slant measures to trace how cable news can move vote shares and modestly amplify polarization through feedback between media choice and ideological influence."
 
