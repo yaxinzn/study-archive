@@ -1,3 +1,7 @@
+- title: "Gentzkow, Shapiro, and Sinkinson (AER, 2011) - The Effect of Newspaper Entry and Exit on Electoral Politics"
+  file: "Martin_Yurukoglu_AER_2017.pdf"
+  desc: "This note summarizes the paper, which instruments Fox News viewership with local cable channel position (lower positions increase viewing) to estimate persuasion effects on presidential voting and then fits a structural model with both selective exposure (taste for like-minded news) and persuasion (viewing shifts ideology), using text-based slant measures to trace how cable news can move vote shares and modestly amplify polarization through feedback between media choice and ideological influence."
+
 - title: "Berry, Levinsohn, and Pakes (JPE, 2004) - Differentiated Products Demand Systems from a Combination of Micro and Macro Data: The New Car Market"
   file: "Berry_Levinsohn_Pakes_JPE_2004.pdf"
   desc: "This note summarizes the paper, which estimates a random-coefficients demand system for the 1993 U.S. new-car market by combining aggregate product shares (to recover mean utilities via the BLP contraction) with CAMIP micro data on buyer demographics and—crucially—stated second choices (to discipline substitution patterns and identify unobserved taste heterogeneity), and then discusses how the level of price elasticities still requires additional information (instruments, a pricing equation, or an aggregate-elasticity normalization) while using the fitted model for counterfactual entry/exit predictions (e.g., introducing a high-end SUV or discontinuing Oldsmobile)."
