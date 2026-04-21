@@ -1,3 +1,7 @@
+- title: "Andersen, Campbell, Nielsen, and Ramadorai (AER, 2020) - Sources of Inaction in Household Finance: Evidence from the Danish Mortgage Market"
+  file: "Andersen_Campbell_Nielsen_Ramadorai_AER_2020.pdf"
+  desc: "This note summarizes the paper, which uses Danish administrative mortgage and household data (2009–2017) in a setting with penalty-free non-cash-out refinancing to estimate a mixture model that combines state-dependent refinancing thresholds (ADL benchmark plus psychological costs) with a Calvo-style “asleep”/inattention probability, decomposes missed refinancing into these two frictions, and runs policy counterfactuals showing “wake-up” interventions can outperform fee subsidies—especially for older, lower-income, and less-educated households."
+
 - title: "Frame, Gerardi, Mayer, Xu, and Zhao (JFE, 2026) - Government Litigation Risk and the Decline in Low-Income Mortgage Lending"
   file: "Frame_Gerardi_Mayer_Xu_Zhao_JFE_2026.pdf"
   desc: "This note summarizes the paper, which uses DOJ/HUD False Claims Act litigation in the 2010s as a lender-legal-risk shock and estimates lender- and county-level difference-in-differences/triple-differences (FHA vs. conventional) using pre-2012 exposure to top FHA bank lenders, showing large banks exit FHA and exposed counties see a sizable, only partially offset decline in FHA credit that reduces low-income mortgage access without clear improvements in underwriting/defaults or borrower service quality."
