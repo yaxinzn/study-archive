@@ -1,3 +1,7 @@
+- title: "Irani, Iyer, Meisenzahl, and Peydro (RFS, 2021) - The Rise of Shadow Banking: Evidence from Capital Regulation"
+  file: "Irani_Iyer_Meisenzahl_Peydro_RFS_2021.pdf"
+  desc: "This note summarizes the paper, which uses the Shared National Credit registry to exploit within–loan-year comparisons of syndicate members and a Basel III capital-shortfall shock to show that low-capital banks sell syndicated term-loan shares to reduce risk-weighted assets and that these sales raise nonbank (shadow-bank) loan ownership, then links this regulatory-driven risk migration to financial fragility by showing that loans funded by unstable-liability nonbanks suffer larger price drops and sharper credit contractions during the 2008 crisis.”"
+
 - title: "Liu and Pan (Trade WP, 2025) - Pricing the Global Trade Vulnerability"
   file: "Liu_Pan_Trade_WP_2025.pdf"
   desc: "This note summarizes the paper, which uses shipment-level Panjiva bill-of-lading data matched to Compustat/CRSP to construct a firm-level import country-concentration (Herfindahl) vulnerability measure, forms value-weighted portfolios sorted on industry-demeaned concentration to build a trade-risk factor (high-concentration importers minus zero-trade firms), and shows this factor earns large and robust alphas that survive five-factor, industry-neutral/within-industry, technology controls, and is especially salient around trade-war/COVID/tariff episodes—implying global supply-chain fragility is a priced systematic risk."
