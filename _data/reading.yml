@@ -1,3 +1,7 @@
+- title: "Chen, De, Hu, and Hwang (RFS, 2014) - Wisdom of Crowds: The Value of Stock Opinions Transmitted Through Social Media"
+  file: "Chen_De_Hu_Hwang_RFS_2014.pdf"
+  desc: "This note summarizes the paper, which uses 2005–2012 Seeking Alpha single-ticker articles and their first-two-day comment threads to construct text-based negativity measures (Loughran–McDonald dictionary), estimates predictability regressions and calendar-time portfolios on t+3 to t+60 characteristic-adjusted abnormal returns (skipping the immediate window), and shows both article tone and—more strongly when there are many comments—crowd comment tone predict future returns and future earnings surprises, with reputation/track-record tests indicating readers reward consistent authors and comments can correct weak authors (a “wisdom of crowds” mechanism)."
+
 - title: "Cole, Paulson, and Shastry (RFS, 2014) - Smart Money? The Effect of Education on Financial Outcomes"
   file: "Cole_Paulson_Shastry_RFS_2014.pdf"
   desc: "This note summarizes the paper, which uses historical U.S. state compulsory schooling laws as instruments (and a two-sample IV linking Census first stages to FRBNY-CCP credit outcomes) to estimate causal effects of marginal schooling on household finance, showing that additional education substantially increases participation in higher-return assets and retirement income while reducing severe credit distress—bankruptcy, foreclosure, and delinquency—especially during the financial crisis."
