@@ -1,3 +1,7 @@
+- title: "Garicano and Rossi-Hansberg (QJE, 2006) - Organization and Inequality in a Knowledge Economy"
+  file: "Garicano_RossiHansberg_QJE_2006.pdf"
+  desc: "This note summarizes the paper, which builds a general-equilibrium model of Garicano-style knowledge hierarchies where heterogeneous-ability agents choose how much to learn and then sort into workers, managers, and entrepreneurs who solve routine vs. exceptional problems via costly communication, deriving positive sorting, occupational stratification, and convex wages, and showing that cheaper communication (lower h) increases hierarchy layers/spans and raises top inequality while reducing lower-tail inequality, whereas cheaper learning (lower t) decentralizes problem solving and raises within-occupation inequality.”"
+
 - title: "Chernenko, Erel, and Prilmeier (RFS, 2022) - Why Do Firms Borrow Directly from Nonbanks?"
   file: "Chernenko_Erel_Prilmeier_RFS_2022.pdf"
   desc: "This note summarizes the paper, which uses hand-collected SEC credit agreements for U.S. middle-market firms (2010–2015) to show bank regulation segments credit supply—negative EBITDA and very high debt/EBITDA borrowers are pushed toward direct nonbank lenders—documents higher spreads and distinct nonprice terms on nonbank loans (fewer covenants/performance pricing, more warrants/convertibility, riskier seniority), and supports the causal channel with OCC/local-banking-market interactions and a fuzzy RDD around the zero-EBITDA threshold."
