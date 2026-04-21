@@ -1,3 +1,7 @@
+- title: "Chernenko, Erel, and Prilmeier (RFS, 2022) - Why Do Firms Borrow Directly from Nonbanks?"
+  file: "Chernenko_Erel_Prilmeier_RFS_2022.pdf"
+  desc: "This note summarizes the paper, which uses hand-collected SEC credit agreements for U.S. middle-market firms (2010–2015) to show bank regulation segments credit supply—negative EBITDA and very high debt/EBITDA borrowers are pushed toward direct nonbank lenders—documents higher spreads and distinct nonprice terms on nonbank loans (fewer covenants/performance pricing, more warrants/convertibility, riskier seniority), and supports the causal channel with OCC/local-banking-market interactions and a fuzzy RDD around the zero-EBITDA threshold."
+
 - title: "Pedersen (JFE, 2022) - Game on: Social Networks and Markets"
   file: "Pedersen_JFE_2022.pdf"
   desc: "This note summarizes the paper, which builds a tractable asset-pricing model that embeds DeGroot social learning in a network with naive investors, hardheaded “fanatics,” and rational long- and short-term traders, derives closed-form expressions for influencer value and thought leadership and for prices as a rational benchmark plus a network-driven bubble component, and uses the framework to explain momentum, reversals, volume spikes, and meme-stock episodes such as GameStop through rational bubble-riding and eventual reversal trading."
