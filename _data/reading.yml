@@ -1,3 +1,7 @@
+- title: "Agarwal and Ben-David (JFE, 2018) - Loan Prospecting and the Loss of Soft Information"
+  file: "Agarwal_BenDavid_JFE_2018.pdf"
+  desc: "This note summarizes the paper, which exploits a quasi-random 2005 bank pilot that moved some small-business loan officers from fixed salary to prospecting-based incentives to run a loan-officer fixed-effects difference-in-differences design, showing incentives raise approvals and loan sizes without improving application inflow, shift approval decisions toward hard information and away from soft (internal) assessments, and ultimately increase ex post defaults—evidence that sales incentives can erode relationship-lending soft information and break down existing credit models."
+
 - title: "Chen, De, Hu, and Hwang (RFS, 2014) - Wisdom of Crowds: The Value of Stock Opinions Transmitted Through Social Media"
   file: "Chen_De_Hu_Hwang_RFS_2014.pdf"
   desc: "This note summarizes the paper, which uses 2005–2012 Seeking Alpha single-ticker articles and their first-two-day comment threads to construct text-based negativity measures (Loughran–McDonald dictionary), estimates predictability regressions and calendar-time portfolios on t+3 to t+60 characteristic-adjusted abnormal returns (skipping the immediate window), and shows both article tone and—more strongly when there are many comments—crowd comment tone predict future returns and future earnings surprises, with reputation/track-record tests indicating readers reward consistent authors and comments can correct weak authors (a “wisdom of crowds” mechanism)."
