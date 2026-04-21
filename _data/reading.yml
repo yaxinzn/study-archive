@@ -1,3 +1,7 @@
+- title: "Ahern and Sosyura (RFS, 2015) - Rumor Has It: Sensationalism in Financial Media"
+  file: "Ahern_Sosyura_RFS_2015.pdf"
+  desc: "This note summarizes the paper, which hand-collects 501 newspaper merger-rumor scoops (2000–2011) to estimate logit accuracy models where “truth” is a public bid within one year, shows rumors about more newsworthy targets (large/public/brand/advertising-heavy) are systematically less accurate while journalist traits and article text (weak modal language vs. concrete deal details) predict accuracy, and documents that markets overreact by not fully incorporating these public credibility signals—producing predictable reversals and long–short returns that are strongest when arbitrage is difficult (illiquid/high-idiosyncratic-vol stocks)."
+
 - title: "Hu, Pan, and Wang (JF, 2013) - Noise as Information for Illiquidity"
   file: "Hu_Pan_Wang_JF_2013.pdf"
   desc: "This note summarizes the paper, which fits a smooth daily U.S. Treasury yield curve (Svensson) and defines Treasury “noise” as the cross-sectional RMS yield deviation from the fitted curve, shows noise spikes precisely in liquidity crises, and then prices this aggregate illiquidity factor by estimating hedge funds’ noise betas and running Fama–MacBeth tests (more negative noise exposure earns higher returns) and by explaining currency carry returns as compensation for noise-related liquidity crash risk."
