@@ -1,3 +1,7 @@
+- title: "Frame, Gerardi, Mayer, Xu, and Zhao (JFE, 2026) - Government Litigation Risk and the Decline in Low-Income Mortgage Lending"
+  file: "Frame_Gerardi_Mayer_Xu_Zhao_JFE_2026.pdf"
+  desc: "This note summarizes the paper, which uses DOJ/HUD False Claims Act litigation in the 2010s as a lender-legal-risk shock and estimates lender- and county-level difference-in-differences/triple-differences (FHA vs. conventional) using pre-2012 exposure to top FHA bank lenders, showing large banks exit FHA and exposed counties see a sizable, only partially offset decline in FHA credit that reduces low-income mortgage access without clear improvements in underwriting/defaults or borrower service quality."
+
 - title: "Avenancio-León and Howard (QJE, 2022) - The Assessment Gap: Racial Inequalities in Property Taxation"
   file: "AvenancioLeon_Howard_QJE_2022.pdf"
   desc: "This note summarizes the paper, which links nationwide ATTOM assessment and transaction records (2003–2016) to HMDA homeowner race and GIS-defined taxing jurisdictions to estimate jurisdiction-year fixed-effects regressions of log assessment ratios, documents a large Black/Hispanic assessment gap (≈10–13%) with a spatial decomposition down to tract/block-group comparisons, and pinpoints mechanisms—assessments underweight neighborhood characteristics relative to market prices and unequal Cook County appeals amplify within-neighborhood disparities—while translating the gap into higher effective property-tax burdens for minority homeowners."
