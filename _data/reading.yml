@@ -1,3 +1,7 @@
+- title: "Liu and Pan (Trade WP, 2025) - Pricing the Global Trade Vulnerability"
+  file: "Liu_Pan_Trade_WP_2025.pdf"
+  desc: "This note summarizes the paper, which uses shipment-level Panjiva bill-of-lading data matched to Compustat/CRSP to construct a firm-level import country-concentration (Herfindahl) vulnerability measure, forms value-weighted portfolios sorted on industry-demeaned concentration to build a trade-risk factor (high-concentration importers minus zero-trade firms), and shows this factor earns large and robust alphas that survive five-factor, industry-neutral/within-industry, technology controls, and is especially salient around trade-war/COVID/tariff episodes—implying global supply-chain fragility is a priced systematic risk."
+
 - title: "Li (RES, 2018) - Better Lucky Than Rich? Welfare Analysis of Automobile Licence Allocations in Beijing and Shanghai"
   file: "Li_RES_2018.pdf"
   desc: "This note summarizes the paper, which estimates a random-coefficients automobile demand model for four Chinese cities and leverages Shanghai’s license-auction bids (car price + bid) plus common-trend, income-share micro moments, and quota-matching moments to recover households’ WTP for a license, then conducts a welfare comparison showing Beijing’s nontransferable lottery reduces externalities but generates far larger allocative losses than a uniform-price auction (with large implied auction revenues)."
