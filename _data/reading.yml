@@ -1,3 +1,7 @@
+- title: "Kaniel, Saar, and Titman (JF, 2008) - Individual Investor Trading and Stock Returns"
+  file: "Kaniel_Saar_Titman_JF_2008.pdf"
+  desc: "This note summarizes the paper, which uses NYSE audit-trail order data (2000–2003) to construct stock-week Net Individual Trading (retail buy–sell dollar imbalance scaled by past volume), documents that individuals are short-horizon contrarians (buy after recent declines, sell after rises), and shows that intense retail buying predicts positive next-month abnormal returns while intense retail selling predicts negative returns—robust to past-return and turnover controls, stronger in illiquid stocks, and consistent with a liquidity-provision/price-pressure reversal mechanism rather than informed trading."
+
 - title: "Andersen, Campbell, Nielsen, and Ramadorai (AER, 2020) - Sources of Inaction in Household Finance: Evidence from the Danish Mortgage Market"
   file: "Andersen_Campbell_Nielsen_Ramadorai_AER_2020.pdf"
   desc: "This note summarizes the paper, which uses Danish administrative mortgage and household data (2009–2017) in a setting with penalty-free non-cash-out refinancing to estimate a mixture model that combines state-dependent refinancing thresholds (ADL benchmark plus psychological costs) with a Calvo-style “asleep”/inattention probability, decomposes missed refinancing into these two frictions, and runs policy counterfactuals showing “wake-up” interventions can outperform fee subsidies—especially for older, lower-income, and less-educated households."
