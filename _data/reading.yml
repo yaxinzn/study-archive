@@ -1,3 +1,7 @@
+- title: "Pedersen (JFE, 2022) - Game on: Social Networks and Markets"
+  file: "Pedersen_JFE_2022.pdf"
+  desc: "This note summarizes the paper, which builds a tractable asset-pricing model that embeds DeGroot social learning in a network with naive investors, hardheaded “fanatics,” and rational long- and short-term traders, derives closed-form expressions for influencer value and thought leadership and for prices as a rational benchmark plus a network-driven bubble component, and uses the framework to explain momentum, reversals, volume spikes, and meme-stock episodes such as GameStop through rational bubble-riding and eventual reversal trading."
+
 - title: "Kaniel, Saar, and Titman (JF, 2008) - Individual Investor Trading and Stock Returns"
   file: "Kaniel_Saar_Titman_JF_2008.pdf"
   desc: "This note summarizes the paper, which uses NYSE audit-trail order data (2000–2003) to construct stock-week Net Individual Trading (retail buy–sell dollar imbalance scaled by past volume), documents that individuals are short-horizon contrarians (buy after recent declines, sell after rises), and shows that intense retail buying predicts positive next-month abnormal returns while intense retail selling predicts negative returns—robust to past-return and turnover controls, stronger in illiquid stocks, and consistent with a liquidity-provision/price-pressure reversal mechanism rather than informed trading."
