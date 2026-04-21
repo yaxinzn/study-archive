@@ -1,3 +1,7 @@
+- title: "Hu, Pan, and Wang (JF, 2013) - Noise as Information for Illiquidity"
+  file: "Hu_Pan_Wang_JF_2013.pdf"
+  desc: "This note summarizes the paper, which fits a smooth daily U.S. Treasury yield curve (Svensson) and defines Treasury “noise” as the cross-sectional RMS yield deviation from the fitted curve, shows noise spikes precisely in liquidity crises, and then prices this aggregate illiquidity factor by estimating hedge funds’ noise betas and running Fama–MacBeth tests (more negative noise exposure earns higher returns) and by explaining currency carry returns as compensation for noise-related liquidity crash risk."
+
 - title: "Agarwal and Ben-David (JFE, 2018) - Loan Prospecting and the Loss of Soft Information"
   file: "Agarwal_BenDavid_JFE_2018.pdf"
   desc: "This note summarizes the paper, which exploits a quasi-random 2005 bank pilot that moved some small-business loan officers from fixed salary to prospecting-based incentives to run a loan-officer fixed-effects difference-in-differences design, showing incentives raise approvals and loan sizes without improving application inflow, shift approval decisions toward hard information and away from soft (internal) assessments, and ultimately increase ex post defaults—evidence that sales incentives can erode relationship-lending soft information and break down existing credit models."
