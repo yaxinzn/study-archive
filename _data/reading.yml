@@ -1,3 +1,7 @@
+- title: "Kacperczyk and Seru (JF, 2007) - Fund Manager Use of Public Information: New Evidence on Managerial Skills"
+  file: "Kacperczyk_Seru_JF_2007.pdf"
+  desc: "This note summarizes the paper, which constructs a holdings-based “Reliance on Public Information” (RPI) measure—each fund-quarter’s R^2 from regressing portfolio holding changes on lagged analyst recommendation changes—and shows in a Grossman–Stiglitz framework and in mutual-fund data (1993–2002) that low-RPI managers (less tied to public signals) deliver higher subsequent factor- and holdings-based performance, attract higher future fund flows, and exhibit less risk-shifting than high-RPI managers."
+
 - title: "Begenau and Landvoigt (RES, 2022) - Financial Regulation in a Quantitative Model of the Modern Banking System"
   file: "Begenau_Landvoigt_RES_2022.pdf"
   desc: "This note summarizes the paper, which builds and calibrates a general-equilibrium model with insured regulated commercial banks and uninsured runnable shadow banks (both supplying imperfectly substitutable liquidity services), quantifies how tighter commercial-bank capital requirements shift activity toward shadow banking through competing competition and liquidity-demand channels, and shows in a U.S.-calibrated economy that an optimal capital requirement around 16% raises welfare even though shadow banks become larger and slightly riskier because the reduction in commercial-bank default risk dominates."
