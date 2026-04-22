@@ -1,3 +1,7 @@
+- title: "Agarwal, Chomsisengphet, Mahoney, and Stroebel (QJE, 2015) - Regulating Consumer Financial Products: Evidence from Credit Cards"
+  file: "Agarwal_Chomsisengphet_Mahoney_Stroebel_QJE_2015.pdf"
+  desc: "This note summarizes the paper, which uses OCC account-level monthly data (2008–2011) and a difference-in-differences design comparing consumer credit cards (treated) to small-business cards (control) around the CARD Act’s phased implementation, showing that fee caps sharply reduced over-limit and late-fee revenue—especially for low-FICO borrowers—without meaningful offsets in interest charges, other fees, or credit supply, while the 36-month payoff disclosure nudge produced only modest repayment bunching."
+
 - title: "Dinç (JFE, 2005) - Politicians and Banks: Political Influences on Government-Owned Banks in Emerging Markets"
   file: "Dinc_JFE_2005.pdf"
   desc: "This note summarizes the paper, which builds a cross-country bank-year panel of large banks (1994–2000), classifies government ownership using a 20% control threshold, and estimates a bank fixed-effects difference-in-differences regression that interacts an election-year indicator with government ownership to show that—in emerging markets—state-owned banks expand lending in election years relative to private banks (with robustness to macro controls, alternative election timing windows, and pre/post-election placebos)."
