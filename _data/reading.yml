@@ -1,3 +1,7 @@
+- title: "Begenau and Landvoigt (RES, 2022) - Financial Regulation in a Quantitative Model of the Modern Banking System"
+  file: "Begenau_Landvoigt_RES_2022.pdf"
+  desc: "This note summarizes the paper, which builds and calibrates a general-equilibrium model with insured regulated commercial banks and uninsured runnable shadow banks (both supplying imperfectly substitutable liquidity services), quantifies how tighter commercial-bank capital requirements shift activity toward shadow banking through competing competition and liquidity-demand channels, and shows in a U.S.-calibrated economy that an optimal capital requirement around 16% raises welfare even though shadow banks become larger and slightly riskier because the reduction in commercial-bank default risk dominates."
+
 - title: "Agarwal, Chomsisengphet, Mahoney, and Stroebel (QJE, 2015) - Regulating Consumer Financial Products: Evidence from Credit Cards"
   file: "Agarwal_Chomsisengphet_Mahoney_Stroebel_QJE_2015.pdf"
   desc: "This note summarizes the paper, which uses OCC account-level monthly data (2008–2011) and a difference-in-differences design comparing consumer credit cards (treated) to small-business cards (control) around the CARD Act’s phased implementation, showing that fee caps sharply reduced over-limit and late-fee revenue—especially for low-FICO borrowers—without meaningful offsets in interest charges, other fees, or credit supply, while the 36-month payoff disclosure nudge produced only modest repayment bunching."
