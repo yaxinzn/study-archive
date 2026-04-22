@@ -1,3 +1,7 @@
+- title: "Farhi and Maggiori (QJE, 2018) - A Model of the International Monetary System"
+  file: "Farhi_Maggiori_QJE_2018.pdf"
+  desc: "This note summarizes the paper, which builds a tractable hegemon–rest-of-world model of the international monetary system where global demand for safe reserve assets meets a reserve issuer’s limited commitment not to devalue (treating devaluation as partial default), characterizes a safety / instability / collapse zone with self-fulfilling confidence crises (the Triffin dilemma), derives when the hegemon underissues or overissues reserves relative to world welfare, and extends the framework to the ZLB/gold-exchange standard and to multipolar reserve competition (including Nurkse-style instability)."
+
 - title: "Duchin and Sosyura (JFE, 2012) - The Politics of Government Investment"
   file: "Duchin_Sosyura_JFE_2012.pdf"
   desc: "This note summarizes the paper, which hand-collects application status for CPP-eligible public financial institutions (TARP, 2008–2009), measures political influence via House Financial Services subcommittee district ties, connected directors, targeted lobbying, and targeted campaign contributions, estimates logit approval regressions conditional on applying with CAMELS-style controls and regulator/industry fixed effects (plus systemic-importance and placebo robustness), and shows political connections predict higher approval but worse post-CPP performance (ROA, Tobin’s Q, and returns), consistent with politically distorted government investment."
