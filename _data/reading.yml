@@ -1,3 +1,7 @@
+- title: "Cohen and Frazzini (JF, 2008) - Economic Links and Predictable Returns"
+  file: "Cohen_Frazzini_JF_2008.pdf"
+  desc: "This note summarizes the paper, which uses Compustat segment disclosures to map public customer–supplier links (1980–2004), builds a “customer momentum” strategy that sorts suppliers on lagged customer returns, estimates large factor-adjusted alphas and underreaction coefficients showing supplier prices incorporate only ~60% of customer news immediately, and supports a limited-attention mechanism with cross-sectional variation in mutual-fund common ownership and fund-trading timing plus real-outcome link regressions tying customer shocks to supplier sales and operating income."
+
 - title: "Cohen, Frazzini, & Malloy (JF, 2010) - Sell-Side School Ties"
   file: "Cohen_Frazzini_Malloy_JF_2010.pdf"
   desc: "This note summarizes the paper, which matches I/B/E/S sell-side recommendations (1993–2006) to hand-collected analyst education and BoardEx officer/director education to define school-tie links between analysts and firm insiders, tests performance using linked-versus-nonlinked buy/sell recommendation portfolios and panel regressions with analyst fixed effects and rich controls, and shows that linked buy recommendations earn large abnormal returns that largely vanish after Regulation FD (and persist in the U.K.), consistent with social networks facilitating selective information flow.”"
