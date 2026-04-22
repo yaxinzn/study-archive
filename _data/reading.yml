@@ -1,6 +1,6 @@
 - title: "Solomon, Soltes & Sosyura (JFE, 2014) - Winners in the Spotlight: Media Coverage of Fund Holdings as a Driver of Flows"
   file: "Solomon_Soltes_Sosyura_JFE_2014.pdf"
-  desc: "This note summarizes the paper, which uses private-label RMBS deal/loan data to classify originator–sponsor and originator–servicer affiliations as “skin in the game,” estimates regressions of subsequent mortgage default/loss rates on affiliation controlling for borrower/loan characteristics, and tests market pricing by comparing issuance yields and AAA tranche shares across affiliated vs. unaffiliated deals—finding affiliated deals default less and are priced as safer (lower yields, higher AAA share)."
+  desc: "This note summarizes the paper, which links active U.S. equity mutual funds’ disclosed holdings (Thomson/CRSP, 1998–2008) to national-newspaper coverage of the held stocks (Factiva: WSJ/NYT/WashPost/USA Today), estimates fund-flow regressions showing investors chase the lagged market-adjusted returns of media-covered holdings (but not other holdings) after controlling for fund returns and rich fixed effects, and supports a salience mechanism with disclosure-timing tests (effects appear only after holdings become public), recency and headline/lead-paragraph prominence, marketing-fee (less sophisticated clientele) interactions, and weak informativeness/window-dressing tests."
 
 - title: "Loh and Stulz (RFS, 2011) - When Are Analyst Recommendation Changes Influential?"
   file: "Loh_Stulz_RFS_2011.pdf"
