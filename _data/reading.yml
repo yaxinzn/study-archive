@@ -1,3 +1,7 @@
+- title: "Dinç (JFE, 2005) - Politicians and Banks: Political Influences on Government-Owned Banks in Emerging Markets"
+  file: "Dinc_JFE_2005.pdf"
+  desc: "This note summarizes the paper, which builds a cross-country bank-year panel of large banks (1994–2000), classifies government ownership using a 20% control threshold, and estimates a bank fixed-effects difference-in-differences regression that interacts an election-year indicator with government ownership to show that—in emerging markets—state-owned banks expand lending in election years relative to private banks (with robustness to macro controls, alternative election timing windows, and pre/post-election placebos)."
+
 - title: "Plantin (RFS, 2015) - Shadow Banking and Bank Capital Regulation"
   file: "Plantin_RFS_2014.pdf"
   desc: "This note summarizes the paper, which builds a two-date banking model where money-like bank liabilities create real externalities, derives the optimal risk-adjusted leverage (capital) requirement under perfect enforcement, and then shows that when banks can secretly refinance risk through an opaque MMF “shadow banking” spot market with adverse selection (a lemons price r<p), tighter capital rules can induce inefficient regulatory arbitrage—forcing banks to sell more risk per dollar raised—so the welfare-optimal regulator may loosen formal requirements to keep money creation inside regulated banking rather than expand shadow banking."
