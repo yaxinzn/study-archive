@@ -1,3 +1,7 @@
+- title: "Caldara and Iacoviello (AER, 2022) - Measuring Geopolitical Risk"
+  file: "Caldara_Iacoviello_AER_2022.pdf"
+  desc: "This note summarizes the paper, which constructs a long-run newspaper-based Geopolitical Risk (GPR) index (1900–present) that separates threats from acts, validates it against historical episodes and narrative measures, and then uses VARs, cross-country disaster/quantile-growth regressions, and industry/firm exposure designs to show that both threats and realized events predict lower investment and hours, higher disaster probability, and larger downside risks to growth, with stronger investment cuts in more GPR-exposed industries and in firms mentioning geopolitical risk in earnings calls."
+
 - title: "Kacperczyk and Seru (JF, 2007) - Fund Manager Use of Public Information: New Evidence on Managerial Skills"
   file: "Kacperczyk_Seru_JF_2007.pdf"
   desc: "This note summarizes the paper, which constructs a holdings-based “Reliance on Public Information” (RPI) measure—each fund-quarter’s R^2 from regressing portfolio holding changes on lagged analyst recommendation changes—and shows in a Grossman–Stiglitz framework and in mutual-fund data (1993–2002) that low-RPI managers (less tied to public signals) deliver higher subsequent factor- and holdings-based performance, attract higher future fund flows, and exhibit less risk-shifting than high-RPI managers."
