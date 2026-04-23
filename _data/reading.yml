@@ -1,3 +1,7 @@
+- title: "Eisenbach and Phelan (RFS, 2026) - Fragility of Safe Asset Markets"
+  file: "Eisenbach_Phelan_RFS_2026.pdf"
+  desc: "This note summarizes the paper, which builds a two-date global-games model of safe-asset trading where liquidity investors’ preemptive selling interacts with dealers’ convex balance-sheet costs to generate strategic complementarities and a threshold “dash-for-cash” price crash, shows how flight-to-safety demand can be stabilizing in resilient states but destabilizing in fragile states, and interprets March 2020 as a regime shift driven by dealer constraints and strategic selling with policy implications for credible purchase backstops and dealer-capacity relief."
+
 - title: "Acemoglu and Yared (AER P&P, 2010) - Political Limits to Globalization"
   file: "Acemoglu_Yared_AER_P_P_2010.pdf"
   desc: "This note summarizes the paper, which uses cross-country long-difference (and bilateral) regressions relating changes in trade openness to changes in militarization—measured by military spending or personnel for a country and its distance-weighted neighbors—to show that rising militarization is robustly associated with smaller increases in trade (even excluding wars/Asia and allowing OECD trends), highlighting political-economy limits to globalization rather than purely technological inevitability."
