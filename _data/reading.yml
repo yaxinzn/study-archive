@@ -1,6 +1,6 @@
 - title: "Flynn, Ghent, and Tchistyi (RFS, 2020) - Informational Efficiency in Securitization after Dodd-Frank"
   file: "Flynn_Ghent_Tchistyi_RFS_2020.pdf"
-  desc: "This note summarizes the paper, which introduces Active Share—a holdings-based measure defined as 1/2 ∑i ∣wi(fund) −wi(bench) ∣—and, using U.S. equity mutual funds (1980–2003) with endogenously assigned benchmarks among major S&P/Russell/Wilshire indexes, shows that Active Share (stock-selection activeness) and tracking error (factor-timing activeness) capture distinct dimensions of active management and that high Active Share funds (especially smaller ones) earn significantly higher future benchmark-adjusted performance while low Active Share “closet indexers” underperform net of fees."
+  desc: "This note summarizes the paper, which studies post–Dodd-Frank CMBS issuance (2017–2019) to show the 5% risk-retention rule is binding and stringent—eliminating level-based signaling—so issuers signal collateral quality through the retention structure (vertical vs. horizontal first-loss vs. hybrid), and documents in a signaling model and issue-spread regressions that horizontal retention is interpreted as good news and is priced with lower spreads (especially for information-sensitive tranches), implying relatively small residual asymmetric information in the post-crisis CMBS market."
 
 - title: "Caldara and Iacoviello (AER, 2022) - Measuring Geopolitical Risk"
   file: "Caldara_Iacoviello_AER_2022.pdf"
