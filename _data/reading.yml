@@ -1,3 +1,7 @@
+- title: "Chen, Ma, Martin, and Michaely (JFE, 2022) - On the Fast Track: Information Acquisition Costs and Information Production"
+  file: "Chen_Ma_Martin_Michaely_JFE_2022.pdf"
+  desc: "This note summarizes the paper, which uses the staggered rollout of China’s high-speed rail as a travel-cost shock in firm–brokerage-pair DiD (with pair and city-year or firm-year/broker-year fixed effects) to show that cheaper in-person access increases analysts’ site visits, improves forecast accuracy, strengthens market reactions to forecast revisions and recommendations, and makes earnings announcements less informative—consistent with high-speed rail enabling more soft-information production and faster price discovery."
+
 - title: "Jones and Kaul (JF, 1996) - Oil and the Stock Markets"
   file: "Jones_Kaul_JF_1996.pdf"
   desc: "This note summarizes the paper, which uses quarterly data for the U.S., Canada, Japan, and the U.K. to test whether stock markets price oil-price innovations rationally via a Campbell–Shiller cash-flow vs. discount-rate decomposition by regressing real stock returns on prewhitened oil shocks and then showing that the oil coefficients largely disappear once future industrial production growth (cash-flow news) is controlled for in the U.S. and Canada but remain significant in Japan and the U.K. even after adding standard expected-return predictors—suggesting those markets’ oil sensitivity is too large relative to measured fundamentals."
