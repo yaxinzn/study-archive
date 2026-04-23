@@ -1,3 +1,7 @@
+- title: "Coval and Moskowitz (JF, 1999) - Home Bias at Home: Local Equity Preference in Domestic Portfolios"
+  file: "Coval_Moskowitz_JF_1999.pdf"
+  desc: "This note summarizes the paper, which measures U.S. professional managers’ domestic local equity preference by computing manager–firm geographic distances and a benchmark-adjusted “local bias” statistic (actual portfolio vs. equal-/value-weighted and style benchmarks), shows managers hold stocks about 160–184 km closer than benchmarks (≈9–11% local bias, robust to excluding NYC and fund-type restrictions), and links the bias to an information channel via stronger locality for small, highly levered, and nontraded (no foreign-sales) firms while extrapolating the distance effect to explain a meaningful share of international home bias."
+
 - title: "O’Hara, Rapp, and Zhou (RFS, 2026) - Bond Market Resiliency: The Role of Insurers"
   file: "OHara_Rapp_Zhou_RFS_2026.pdf"
   desc: "This note summarizes the paper, which uses NAIC insurer bond transactions and TRACE dealer trades around the March 6–19, 2020 COVID liquidity crisis to show that stable-funded insurers acted as net buyers when dealers retrenched, that insurers provided targeted liquidity through relationship dealers who later reciprocated with better execution, and that dealer–insurer funding stability reduced transaction costs and held down investment-grade yields—especially for bonds exposed to mutual-fund fire-sale pressure."
