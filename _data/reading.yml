@@ -1,3 +1,7 @@
+- title: "Huberman (RFS, 2001) - Familiarity Breeds Investment"
+  file: "Huberman_RFS_2001.pdf"
+  desc: "This note summarizes the paper, which uses state-by-state shareholder-account and shareholding data for the seven U.S. Regional Bell Operating Companies (1996) to compare local versus out-of-state ownership, documenting a strong local familiarity bias (the local RBOC has the most shareholder accounts in 47 of 48 served states and receives larger local dollar holdings and account sizes) and interpreting the pattern as underdiversification driven by familiarity/comfort rather than standard hedging or market-access frictions."
+
 - title: "Kang, Rouwenhorst, and Tang (JF, 2020) - A Tale of Two Premiums: The Role of Hedgers and Speculators in Commodity Futures Markets"
   file: "Kang_Rouwenhorst_Tang_JF_2020.pdf"
   desc: "This note summarizes the paper, which uses weekly CFTC Commitment of Traders positions for 26 commodities (1994–2017) to decompose commodity futures expected returns into a slow-moving hedging premium captured by smoothed commercial hedging pressure and a short-horizon liquidity provision premium captured by weekly commercial net buying, estimating Fama–MacBeth return-predictability regressions and position-sorted portfolios (with DCOT validation, momentum vs. nonmomentum trading decompositions, and risk-environment interactions) that show commercials earn positive short-run returns as liquidity suppliers while noncommercials pay for immediacy."
