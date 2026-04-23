@@ -1,3 +1,7 @@
+- title: "Chen, Petukhov, Wang, and Xing (JF, 2024) - The Dark Side of Circuit Breakers"
+  file: "Chen_Petukhov_Wang_Xing_JF_2024.pdf"
+  desc: "This note summarizes the paper, which develops a two-investor equilibrium model where a market-wide circuit breaker creates an endogenous illiquidity state and a “magnet effect” that amplifies volatility as prices approach the halt threshold, and tests the model using minute-level E-mini S&P 500 futures (2013–2020) by relating realized volatility, skewness, expected returns, and abnormal volume to the market’s distance-to-threshold while controlling for leverage effects and intraday fixed effects, finding strong pre-halt volatility amplification and higher expected returns near the boundary."
+
 - title: "Chen, Ma, Martin, and Michaely (JFE, 2022) - On the Fast Track: Information Acquisition Costs and Information Production"
   file: "Chen_Ma_Martin_Michaely_JFE_2022.pdf"
   desc: "This note summarizes the paper, which uses the staggered rollout of China’s high-speed rail as a travel-cost shock in firm–brokerage-pair DiD (with pair and city-year or firm-year/broker-year fixed effects) to show that cheaper in-person access increases analysts’ site visits, improves forecast accuracy, strengthens market reactions to forecast revisions and recommendations, and makes earnings announcements less informative—consistent with high-speed rail enabling more soft-information production and faster price discovery."
