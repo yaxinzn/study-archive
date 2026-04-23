@@ -1,3 +1,7 @@
+- title: "Berger, Miller, Petersen, Rajan, and Stein (JFE, 2005) - Does Function Follow Organizational Form? Evidence from the Lending Practices of Large and Small Banks"
+  file: "Berger_Miller_Petersen_Rajan_Stein_JFE_2005.pdf"
+  desc: "This note summarizes the paper, which decomposes commodity futures expected returns into spot premia (captured by Short-Roll returns on near contracts) versus term premia (captured by Excess-Holding and maturity-spread returns), uses bimonthly data on 21 commodities (1986–2010) to show that the basis is the central forecasting variable, and demonstrates that a single basis HML factor prices the cross-section of spot premia while term premia require two separate basis-spreading factors (high-basis and low-basis) to explain maturity-spread returns."
+
 - title: "Cremers and Petajisto (RFS, 2009) - How Active Is Your Fund Manager? A New Measure That Predicts Performance"
   file: "Cremers_Petajisto_RFS_2009.pdf"
   desc: "This note summarizes the paper, which introduces Active Share—a holdings-based measure defined as 1/2 ∑i ∣wi(fund) −wi(bench) ∣—and, using U.S. equity mutual funds (1980–2003) with endogenously assigned benchmarks among major S&P/Russell/Wilshire indexes, shows that Active Share (stock-selection activeness) and tracking error (factor-timing activeness) capture distinct dimensions of active management and that high Active Share funds (especially smaller ones) earn significantly higher future benchmark-adjusted performance while low Active Share “closet indexers” underperform net of fees."
