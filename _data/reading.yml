@@ -1,3 +1,7 @@
+- title: "Jiang, Liu, Peng, and Yan (QJE, 2025) - Investor Memory and Biased Beliefs: Evidence from the Field"
+  file: "Jiang_Liu_Peng_Yan_QJE_2025.pdf"
+  desc: "This note summarizes the paper, which runs a large field survey of Chinese retail investors (merged to brokerage transactions for a subsample) that elicits FreeRecall market episodes and ProbedRecall own past returns under randomized prompts, exploits quasi-random survey-day market-return cues to identify cue-dependent memory, estimates recall→belief regressions (expected returns and crash probabilities) in horse races against actual experiences with order/anchoring checks, and shows that the memory-induced component of beliefs predicts subsequent net buying."
+
 - title: "French and Poterba (AER, 1991) - Investor Diversification and International Equity Markets"
   file: "French_Poterba_AER_1991.pdf"
   desc: "This note summarizes the paper, which documents the late-1980s international equity home-bias in U.S., Japanese, and U.K. portfolios across six major markets and uses a mean–variance/exponential-utility portfolio inversion (μ=AΣw, with A=3) to back out the expected-return (or perceived-risk) wedges needed to rationalize observed domestic concentration—implying large “domestic optimism” premia (about 90bp for the U.S., 250bp for Japan, and 440bp for the U.K.) relative to a global value-weighted benchmark while arguing taxes/transaction costs/controls are unlikely to fully explain the pattern."
