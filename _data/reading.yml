@@ -1,3 +1,7 @@
+- title: "Lu, Ray, & Teo (JFE, 2016) - Limited Attention, Marital Events, and Hedge Funds"
+  file: "Lu_Ray_Teo_JFE_2016.pdf"
+  desc: "This note summarizes the paper, which links hand-collected U.S. marriage/divorce records for hedge-fund managers to monthly hedge-fund performance (1994–2012) and estimates event-study and matched difference-in-differences regressions showing that these marital events act as attention shocks that significantly reduce Fung–Hsieh alpha, increase style/index hugging (lower Active Share / factor R^2), and exacerbate behavioral trading mistakes (a stronger disposition effect), especially for low-bandwidth managers running multiple funds or lacking a team."
+
 - title: "Ozdagli and Weber (RFS, 2026) - Monetary Policy through Production Networks: Evidence from the Stock Market"
   file: "Ozdagli_Weber_RFS_2026.pdf"
   desc: "This note summarizes the paper, which uses 30-minute industry stock returns around scheduled FOMC announcements (1994–2008) and federal funds futures surprises to identify monetary shocks, maps BEA input–output tables into a supplier–customer network, estimates a structurally motivated spatial autoregression of industry returns on the shock and network-weighted returns, and decomposes total effects into direct versus higher-order Leontief network amplification with placebo-network and realized-fundamentals validations."
