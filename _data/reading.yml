@@ -1,3 +1,7 @@
+- title: "Kogan, Livdan, and Yaron (JF, 2009) - Oil Futures Prices in a Production Economy with Investment Constraints"
+  file: "Kogan_Livdan_Yaron_JF_2009.pdf"
+  desc: "This note summarizes the paper, which documents a V-shaped relation between crude-oil futures volatility and the forward-curve slope (high volatility in both steep backwardation and steep contango) using NYMEX data (1983–2000), and explains it with a competitive continuous-time production economy where irreversible investment and an upper bound on capacity expansion make supply inelastic when capacity is far above or far below demand; the paper estimates the model by simulated method of moments to match the term structure of volatility and the V-shape coefficients and shows production-side constraints—not storage alone—are central for oil futures dynamics."
+
 - title: "Lu, Ray, & Teo (JFE, 2016) - Limited Attention, Marital Events, and Hedge Funds"
   file: "Lu_Ray_Teo_JFE_2016.pdf"
   desc: "This note summarizes the paper, which links hand-collected U.S. marriage/divorce records for hedge-fund managers to monthly hedge-fund performance (1994–2012) and estimates event-study and matched difference-in-differences regressions showing that these marital events act as attention shocks that significantly reduce Fung–Hsieh alpha, increase style/index hugging (lower Active Share / factor R^2), and exacerbate behavioral trading mistakes (a stronger disposition effect), especially for low-bandwidth managers running multiple funds or lacking a team."
