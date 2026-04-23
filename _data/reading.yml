@@ -1,3 +1,7 @@
+- title: "Ozdagli and Weber (RFS, 2026) - Monetary Policy through Production Networks: Evidence from the Stock Market"
+  file: "Ozdagli_Weber_RFS_2026.pdf"
+  desc: "This note summarizes the paper, which uses 30-minute industry stock returns around scheduled FOMC announcements (1994–2008) and federal funds futures surprises to identify monetary shocks, maps BEA input–output tables into a supplier–customer network, estimates a structurally motivated spatial autoregression of industry returns on the shock and network-weighted returns, and decomposes total effects into direct versus higher-order Leontief network amplification with placebo-network and realized-fundamentals validations."
+
 - title: "Huberman (RFS, 2001) - Familiarity Breeds Investment"
   file: "Huberman_RFS_2001.pdf"
   desc: "This note summarizes the paper, which uses state-by-state shareholder-account and shareholding data for the seven U.S. Regional Bell Operating Companies (1996) to compare local versus out-of-state ownership, documenting a strong local familiarity bias (the local RBOC has the most shareholder accounts in 47 of 48 served states and receives larger local dollar holdings and account sizes) and interpreting the pattern as underdiversification driven by familiarity/comfort rather than standard hedging or market-access frictions."
