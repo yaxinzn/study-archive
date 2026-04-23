@@ -1,3 +1,7 @@
+- title: "O’Hara, Rapp, and Zhou (RFS, 2026) - Bond Market Resiliency: The Role of Insurers"
+  file: "OHara_Rapp_Zhou_RFS_2026.pdf"
+  desc: "This note summarizes the paper, which uses NAIC insurer bond transactions and TRACE dealer trades around the March 6–19, 2020 COVID liquidity crisis to show that stable-funded insurers acted as net buyers when dealers retrenched, that insurers provided targeted liquidity through relationship dealers who later reciprocated with better execution, and that dealer–insurer funding stability reduced transaction costs and held down investment-grade yields—especially for bonds exposed to mutual-fund fire-sale pressure."
+
 - title: "Eisenbach and Phelan (RFS, 2026) - Fragility of Safe Asset Markets"
   file: "Eisenbach_Phelan_RFS_2026.pdf"
   desc: "This note summarizes the paper, which builds a two-date global-games model of safe-asset trading where liquidity investors’ preemptive selling interacts with dealers’ convex balance-sheet costs to generate strategic complementarities and a threshold “dash-for-cash” price crash, shows how flight-to-safety demand can be stabilizing in resilient states but destabilizing in fragile states, and interprets March 2020 as a regime shift driven by dealer constraints and strategic selling with policy implications for credible purchase backstops and dealer-capacity relief."
