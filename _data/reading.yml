@@ -1,3 +1,7 @@
+- title: "Flynn, Ghent, and Tchistyi (RFS, 2020) - Informational Efficiency in Securitization after Dodd-Frank"
+  file: "Flynn_Ghent_Tchistyi_RFS_2020.pdf"
+  desc: "This note summarizes the paper, which studies post–Dodd-Frank CMBS issuance (2017–2019) to show the 5% risk-retention rule is binding and stringent—eliminating level-based signaling—so issuers signal collateral quality through the retention structure (vertical vs. horizontal first-loss vs. hybrid), and documents in a signaling model and issue-spread regressions that horizontal retention is interpreted as good news and is priced with lower spreads (especially for information-sensitive tranches), implying relatively small residual asymmetric information in the post-crisis CMBS market."
+
 - title: "Caldara and Iacoviello (AER, 2022) - Measuring Geopolitical Risk"
   file: "Caldara_Iacoviello_AER_2022.pdf"
   desc: "This note summarizes the paper, which constructs a long-run newspaper-based Geopolitical Risk (GPR) index (1900–present) that separates threats from acts, validates it against historical episodes and narrative measures, and then uses VARs, cross-country disaster/quantile-growth regressions, and industry/firm exposure designs to show that both threats and realized events predict lower investment and hours, higher disaster probability, and larger downside risks to growth, with stronger investment cuts in more GPR-exposed industries and in firms mentioning geopolitical risk in earnings calls."
