@@ -1,3 +1,7 @@
+- title: "Acemoglu and Yared (AER P&P, 2010) - Political Limits to Globalization"
+  file: "Acemoglu_Yared_AER_P_P_2010.pdf"
+  desc: "This note summarizes the paper, which uses cross-country long-difference (and bilateral) regressions relating changes in trade openness to changes in militarization—measured by military spending or personnel for a country and its distance-weighted neighbors—to show that rising militarization is robustly associated with smaller increases in trade (even excluding wars/Asia and allowing OECD trends), highlighting political-economy limits to globalization rather than purely technological inevitability."
+
 - title: "Chen, Petukhov, Wang, and Xing (JF, 2024) - The Dark Side of Circuit Breakers"
   file: "Chen_Petukhov_Wang_Xing_JF_2024.pdf"
   desc: "This note summarizes the paper, which develops a two-investor equilibrium model where a market-wide circuit breaker creates an endogenous illiquidity state and a “magnet effect” that amplifies volatility as prices approach the halt threshold, and tests the model using minute-level E-mini S&P 500 futures (2013–2020) by relating realized volatility, skewness, expected returns, and abnormal volume to the market’s distance-to-threshold while controlling for leverage effects and intraday fixed effects, finding strong pre-halt volatility amplification and higher expected returns near the boundary."
