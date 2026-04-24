@@ -1,3 +1,7 @@
+- title: "Jensen & Meckling (JFE, 1976) - Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"
+  file: "Jensen_Meckling_JFE_1976.pdf"
+  desc: "This note summarizes the paper, which defines the firm as a nexus of contracts and formalizes agency costs as the sum of monitoring, bonding, and residual loss, develops stylized models of outside equity and debt that show how ownership and capital structure jointly shape managerial incentives (perquisite/effort distortions and risk shifting), and uses the model’s figure-based comparative statics to explain why real-world governance institutions—audits, covenants, limited liability, and mixed debt–equity financing—arise endogenously despite persistent conflicts of interest."
+
 - title: "Gabaix and Landier (QJE, 2008) - Why Has CEO Pay Increased So Much?"
   file: "Gabaix_Landier_QJE_2008.pdf"
   desc: "This note summarizes the paper, which develops a competitive assignment model with extreme-value spacing of top talent to derive a closed-form “dual scaling” equation for CEO pay (pay rises with both own-firm size and the aggregate size of large firms), estimates the key elasticities in U.S. ExecuComp–Compustat panels and long-run time series, and shows that the roughly sixfold rise in the market value of large U.S. firms from 1980–2003 can quantitatively explain the roughly sixfold rise in CEO compensation."
