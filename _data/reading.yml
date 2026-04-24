@@ -1,3 +1,7 @@
+- title: "Miller (JF, 1977) - Debt and Taxes"
+  file: "Miller_JF_1977.pdf"
+  desc: "This note summarizes the paper, which extends Modigliani–Miller to a tax equilibrium by showing that once personal taxes on interest and equity are included, the corporate interest tax shield can be competed away through investor tax clienteles and market-clearing bond yields—so the economy can have an equilibrium aggregate debt level without any firm having a unique tax-driven optimal leverage ratio."
+
 - title: "Myers (JFE, 1977) - Determinants of Corporate Borrowing"
   file: "Myers_JFE_1977.pdf"
   desc: "This note summarizes the paper, which develops the debt-overhang theory by modeling firm value as assets in place plus growth options and showing that risky long-maturity debt makes equity underinvest (it invests only when V(s)≥I+P, not V(s)≥I) because part of the marginal gain from new investment is transferred to existing bondholders, implying optimal leverage is lower for growth firms, debt capacity differs from value-maximizing debt, and covenants/maturity matching help protect investment incentives"
