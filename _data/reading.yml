@@ -1,3 +1,7 @@
+- title: "Akey, Heimer, and Lewellen (JFE, 2021) - Politicizing Consumer Credit"
+  file: "Akey_Heimer_Lewellen_JFE_2021.pdf"
+  desc: "This note summarizes the paper, which uses seniority-driven U.S. Senate committee-chair ascensions (1999–2012) as political-power shocks and estimates Equifax CCP supply-ratio DiD/event studies (new credit lines per hard inquiries) plus HMDA approval-rate and CRA-threshold tests, showing that banks headquartered in the newly powerful Senator’s state curtail credit to protected borrowers—especially subprime borrowers in majority-minority and CRA-eligible tracts—consistent with reduced fair-lending compliance when expected enforcement weakens."
+
 - title: "Malloy (JF, 2005) - The Geography of Equity Analysis"
   file: "Malloy_JF_2005.pdf"
   desc: "This note summarizes the paper, which uses I/B/E/S analyst forecasts and recommendations (1994–2001) matched to hand-collected analyst office locations to run within–firm-year relative-accuracy regressions and forecast-revision event studies, showing that geographically local analysts (within 100 km of firm HQ) produce more informative earnings forecasts and trigger larger stock-price reactions—especially for small/remote firms and negative revisions—while underwriter-affiliation recommendation bias is concentrated among distant affiliated analysts rather than local ones."
