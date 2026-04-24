@@ -1,3 +1,7 @@
+- title: "Hennessy and Whited (JF, 2005) - Debt Dynamics"
+  file: "Hennessy_Whited_JF_2005.pdf"
+  desc: "This note summarizes the paper, which builds and structurally estimates a dynamic trade-off model where firms jointly choose leverage, cash saving, payouts, and investment under a progressive corporate tax schedule, equity issuance costs, and collateral/distress constraints, and shows (via indirect-inference estimation on Compustat plus simulated “auxiliary” leverage regressions) that regime-dependent financing margins can rationalize debt conservatism, leverage hysteresis, and the negative leverage–profitability and leverage–weighted-Q patterns without invoking large market-timing or adverse-selection premia."
+
 - title: "Jensen & Meckling (JFE, 1976) - Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"
   file: "Jensen_Meckling_JFE_1976.pdf"
   desc: "This note summarizes the paper, which defines the firm as a nexus of contracts and formalizes agency costs as the sum of monitoring, bonding, and residual loss, develops stylized models of outside equity and debt that show how ownership and capital structure jointly shape managerial incentives (perquisite/effort distortions and risk shifting), and uses the model’s figure-based comparative statics to explain why real-world governance institutions—audits, covenants, limited liability, and mixed debt–equity financing—arise endogenously despite persistent conflicts of interest."
