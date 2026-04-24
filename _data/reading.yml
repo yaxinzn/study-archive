@@ -1,3 +1,7 @@
+- title: "DeMarzo & Duffie (Econometrica, 1999) - A Liquidity-Based Model of Security Design"
+  file: "DeMarzo_Duffie_Econometrica_1999.pdf"
+  desc: "This note summarizes the paper, which models security design when an issuer must sell claims under future private information that makes sales a costly signal (endogenous illiquidity), characterizes issuance profits as a decreasing and convex function of the issuer’s private valuation, and shows that optimal designs load the security on low–information-sensitivity cash flows—yielding pure equity when informational sensitivity is small, but standard (generally risky) debt as the optimal monotone claim under a uniform worst-case condition because it minimizes informational sensitivity and thus the retention needed to sell."
+
 - title: "Modigliani and Miller (AER, 1958) - The Cost of Capital, Corporation Finance and the Theory of Investment"
   file: "Modigliani_Miller_AER_1958.pdf"
   desc: "This note summarizes the paper, which proves via an arbitrage “homemade leverage” argument that in perfect capital markets a firm’s total value and weighted-average cost of capital are independent of capital structure (Proposition I), that higher leverage mechanically raises the required return on equity to keep the overall cost of capital constant (Proposition II), and that the firm’s investment rule depends only on the risk-class discount rate (not on financing), with interest tax shields as the main channel that breaks irrelevance in extensions."
