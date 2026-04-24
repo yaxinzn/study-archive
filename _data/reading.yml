@@ -1,3 +1,7 @@
+- title: "Modigliani and Miller (AER, 1958) - The Cost of Capital, Corporation Finance and the Theory of Investment"
+  file: "Modigliani_Miller_AER_1958.pdf"
+  desc: "This note summarizes the paper, which proves via an arbitrage “homemade leverage” argument that in perfect capital markets a firm’s total value and weighted-average cost of capital are independent of capital structure (Proposition I), that higher leverage mechanically raises the required return on equity to keep the overall cost of capital constant (Proposition II), and that the firm’s investment rule depends only on the risk-class discount rate (not on financing), with interest tax shields as the main channel that breaks irrelevance in extensions."
+
 - title: "Myers and Majluf (JFE, 1984) - Corporate Financing and Investment Decisions When Firms Have Information That Investors Do Not"
   file: "Myers_Majluf_JFE_1984.pdf"
   desc: "This note summarizes the paper, which develops an adverse-selection model where managers with private information about assets in place and project value may reject positive-NPV investments because issuing underpriced equity transfers value from old to new shareholders, implying that financial slack and safe debt mitigate underinvestment and generate a pecking order (internal funds → debt → equity) with equity-issue announcements lowering stock price as bad news."
