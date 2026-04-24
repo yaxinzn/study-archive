@@ -1,3 +1,7 @@
+- title: "Innes (JET, 1990) - Limited Liability and Incentive Contracting with Ex-ante Action Choices"
+  file: "Innes_JET_1990.pdf"
+  desc: "This note summarizes the paper, which studies a hidden-action financing problem under limited liability and shows that if the investor’s payoff must be weakly increasing in realized profit then the optimal incentive contract is standard debt Bd(π;z)=min{π,z}, whereas without the monotonicity restriction the optimal contract becomes a nonmonotone live-or-die payoff that concentrates investor claims in low-profit states and can even restore first-best effort when the required outside funding is small enough."
+
 - title: "Zwiebel (AER, 1996) - Dynamic Capital Structure under Managerial Entrenchment"
   file: "Zwiebel_AER_1996.pdf"
   desc: "This note summarizes the paper, which develops a dynamic agency model where partially entrenched managers endogenously choose net debt and dividends as a self-imposed commitment device—debt raises the bankruptcy probability of bad projects and bankruptcy removes entrenchment—yielding a partition of manager types with endogenous debt maturity/frequency patterns and the central prediction that debt and payout are complements while excessive debt becomes costly by destroying discipline once bankruptcy is inevitable."
