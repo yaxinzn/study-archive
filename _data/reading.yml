@@ -4,7 +4,7 @@
 
 - title: "Farhi and Tirole (RES, 2021) - Shadow Banking and the Four Pillars of Traditional Financial Intermediation"
   file: "Farhi_Tirole_RES_2021.pdf"
-  desc: "This note summarizes the paper, which builds a two-sector mechanism-design model in which banks can choose regulated retail banking or migrate to shadow banking, shows that public liquidity provision (deposit insurance and lender-of-last-resort) is socially valuable but creates leverage-driven moral hazard unless paired with prudential supervision, and derives the “four pillars” complementarity—core lending (e.g., SME credit), insured deposits, LOLR access, and supervision—while extending the framework to explain why ring-fencing and CCP-style centralized clearing are needed to prevent bogus liquidity and contagion from cross-exposures between regulated and shadow banks"
+  desc: "This note summarizes the paper, which builds a two-sector mechanism-design model in which banks can choose regulated retail banking or migrate to shadow banking, shows that public liquidity provision (deposit insurance and lender-of-last-resort) is socially valuable but creates leverage-driven moral hazard unless paired with prudential supervision, and derives the “four pillars” complementarity—core lending (e.g., SME credit), insured deposits, LOLR access, and supervision—while extending the framework to explain why ring-fencing and CCP-style centralized clearing are needed to prevent bogus liquidity and contagion from cross-exposures between regulated and shadow banks."
 
 - title: "Mian (JF, 2006) - Distance Constraints: The Limits of Foreign Lending in Poor Economies"
   file: "Mian_JF_2006.pdf"
