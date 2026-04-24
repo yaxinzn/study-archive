@@ -1,3 +1,7 @@
+- title: "Zhang, Zhu, and Linnainmaa (RFS, 2025) - Man versus Machine Learning Revisited"
+  file: "Zhang_Zhu_Linnainmaa_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which forensically replicates Binsbergen–Han–Lopez-Lira’s random-forest earnings benchmark and bias-sorted trading strategy, identifies a horizon-specific look-ahead error in the “last-period realized earnings” feature, and shows that correcting only this timing mistake collapses the reported large five-factor alpha and Sharpe ratio of trading against analyst “conditional bias,” with diagnostics and alternative ML models confirming that forecast accuracy gains do not translate into robust abnormal returns once information-set discipline is enforced."
+
 - title: "Akey, Heimer, and Lewellen (JFE, 2021) - Politicizing Consumer Credit"
   file: "Akey_Heimer_Lewellen_JFE_2021.pdf"
   desc: "This note summarizes the paper, which uses seniority-driven U.S. Senate committee-chair ascensions (1999–2012) as political-power shocks and estimates Equifax CCP supply-ratio DiD/event studies (new credit lines per hard inquiries) plus HMDA approval-rate and CRA-threshold tests, showing that banks headquartered in the newly powerful Senator’s state curtail credit to protected borrowers—especially subprime borrowers in majority-minority and CRA-eligible tracts—consistent with reduced fair-lending compliance when expected enforcement weakens."
