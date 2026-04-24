@@ -1,3 +1,7 @@
+- title: "Myers and Majluf (JFE, 1984) - Corporate Financing and Investment Decisions When Firms Have Information That Investors Do Not"
+  file: "Myers_Majluf_JFE_1984.pdf"
+  desc: "This note summarizes the paper, which develops an adverse-selection model where managers with private information about assets in place and project value may reject positive-NPV investments because issuing underpriced equity transfers value from old to new shareholders, implying that financial slack and safe debt mitigate underinvestment and generate a pecking order (internal funds → debt → equity) with equity-issue announcements lowering stock price as bad news."
+
 - title: "Holmstr¨om & Milgrom (Econometrica, 1987) - Aggregation and Linearity in the Provision of Intertemporal Incentives"
   file: "Holmstrom_Milgrom_Econometrica_1987.pdf"
   desc: "This note summarizes the paper, which studies a multi-period moral-hazard problem with repeated actions and exponential preferences and proves that optimal incentives aggregate to end-of-period accounting totals—so the optimal contract is linear in final account balances (and, under coarse monitoring, linear in the observed aggregates such as profits)—with a Brownian-limit formulation that reduces the dynamic problem to a static normal-linear agency problem and explains why linear, accounting-based compensation dominates fragile nonlinear “rare-event punishment” schemes."
