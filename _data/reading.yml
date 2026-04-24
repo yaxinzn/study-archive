@@ -1,3 +1,7 @@
+- title: "Kyle (Econometrica, 1985) - Continuous Auctions and Insider Trading"
+  file: "Kyle_Econometrica_1985.pdf"
+  desc: "This note summarizes the paper, which develops a dynamic linear-normal model of insider trading in continuous auctions with a monopolistic informed trader, noise traders, and competitive market makers who set prices as conditional expectations, deriving a unique linear equilibrium in which the insider optimally trades gradually because of price impact, prices reveal information through order flow, market depth is summarized by Kyle’s λ, and in the continuous-time limit depth is constant and all private information is incorporated into prices by the end of trading."
+
 - title: "DeMarzo & Duffie (Econometrica, 1999) - A Liquidity-Based Model of Security Design"
   file: "DeMarzo_Duffie_Econometrica_1999.pdf"
   desc: "This note summarizes the paper, which models security design when an issuer must sell claims under future private information that makes sales a costly signal (endogenous illiquidity), characterizes issuance profits as a decreasing and convex function of the issuer’s private valuation, and shows that optimal designs load the security on low–information-sensitivity cash flows—yielding pure equity when informational sensitivity is small, but standard (generally risky) debt as the optimal monotone claim under a uniform worst-case condition because it minimizes informational sensitivity and thus the retention needed to sell."
