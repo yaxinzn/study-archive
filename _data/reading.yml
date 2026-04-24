@@ -1,3 +1,7 @@
+- title: "Holmstr¨om & Milgrom (Econometrica, 1987) - Aggregation and Linearity in the Provision of Intertemporal Incentives"
+  file: "Holmstrom_Milgrom_Econometrica_1987.pdf"
+  desc: "This note summarizes the paper, which studies a multi-period moral-hazard problem with repeated actions and exponential preferences and proves that optimal incentives aggregate to end-of-period accounting totals—so the optimal contract is linear in final account balances (and, under coarse monitoring, linear in the observed aggregates such as profits)—with a Brownian-limit formulation that reduces the dynamic problem to a static normal-linear agency problem and explains why linear, accounting-based compensation dominates fragile nonlinear “rare-event punishment” schemes."
+
 - title: "Townsend (JET, 1979) - Optimal Contracts and Competitive Markets with Costly State Verification"
   file: "Townsend_JET_1979.pdf"
   desc: "This note summarizes the paper, which develops an optimal-contracting framework with costly state verification in which implementability forces a fixed transfer in nonverified states but allows state-contingent transfers when auditing occurs, proves the optimal (deterministic) audit set is a low-state cutoff S∗={y<γ} that yields debt-like default thresholds and insurance deductibles, and extends the logic to random auditing and to a restricted multi-agent competitive equilibrium that implements the constrained optimum."
