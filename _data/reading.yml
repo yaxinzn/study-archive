@@ -1,3 +1,7 @@
+- title: "Gabaix and Landier (QJE, 2008) - Why Has CEO Pay Increased So Much?"
+  file: "Gabaix_Landier_QJE_2008.pdf"
+  desc: "This note summarizes the paper, which develops a competitive assignment model with extreme-value spacing of top talent to derive a closed-form “dual scaling” equation for CEO pay (pay rises with both own-firm size and the aggregate size of large firms), estimates the key elasticities in U.S. ExecuComp–Compustat panels and long-run time series, and shows that the roughly sixfold rise in the market value of large U.S. firms from 1980–2003 can quantitatively explain the roughly sixfold rise in CEO compensation."
+
 - title: "Feldhütter & Schaefer (JFE, 2023) - Debt dynamics and credit risk"
   file: "Feldhutter_Schaefer_JFE_2023.pdf"
   desc: "This note summarizes the paper, which documents new debt-policy facts in CRSP/Compustat showing debt is mean-reverting in the long run but firms often borrow more after negative equity shocks in the short run, builds a stochastic-debt structural credit-risk model that adds mean reversion plus a correlated debt shock to standard firm-value diffusion, calibrates default boundaries to historical default rates (not spreads), and then shows in out-of-sample tests that the stochastic-debt model markedly improves the cross-section and time-series fit of corporate bond spreads—especially short-maturity investment-grade spreads and spread volatility."
