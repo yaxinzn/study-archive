@@ -1,3 +1,7 @@
+- title: "Bahaj & Reis (RES, 2026) - Jumpstarting an International Currency"
+  file: "Bahaj_Reis_RES_2026.pdf"
+  desc: "This note summarizes the paper, which uses the staggered rollout of PBoC RMB swap lines (2009–2018) as a lender-of-last-resort policy shock and estimates country–month DiD/event studies in SWIFT cross-border payments to show swap lines “jumpstart” RMB international use (large extensive- and intensive-margin increases), validate the mechanism with synthetic RMB borrowing-cost declines and insulation during the 2015–2016 offshore RMB funding spike, and document heterogeneity consistent with a working-capital trade-finance channel (stronger effects for higher China trade, intermediate imports, and working-capital-intensive exports) and currency substitution away from USD/EUR in payments with China."
+
 - title: "Zhang, Zhu, and Linnainmaa (RFS, 2025) - Man versus Machine Learning Revisited"
   file: "Zhang_Zhu_Linnainmaa_RFS_2025.pdf"
   desc: "This note summarizes the paper, which forensically replicates Binsbergen–Han–Lopez-Lira’s random-forest earnings benchmark and bias-sorted trading strategy, identifies a horizon-specific look-ahead error in the “last-period realized earnings” feature, and shows that correcting only this timing mistake collapses the reported large five-factor alpha and Sharpe ratio of trading against analyst “conditional bias,” with diagnostics and alternative ML models confirming that forecast accuracy gains do not translate into robust abnormal returns once information-set discipline is enforced."
