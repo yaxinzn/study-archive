@@ -2,9 +2,9 @@
   file: "Mehrotra_Morck_Shim_Wiwattanakantang_JFE_2013.pdf"
   desc: "This note summarizes the paper, which uses a near-universe panel of postwar Japanese listed firms (1962–2000) and a succession-event design to show that Japan’s adult-adoption/son-in-law institutions let family firms choose heirs on merit: non-blood heirs (adopted sons or sons-in-law) outperform blood heirs and professional “sarariman” managers, with the largest profitability improvements occurring around non-blood successions."
 
-- title: "Diamond & Dybvig (JPE, 1983) - Bank Runs, Deposit Insurance, and Liquidity"
+- title: "Rajan, Servaes & Zingales (JF, 2000) - The Cost of Diversity: The Diversification Discount and Inefficient Investment"
   file: "Rajan_Servaes_Zingales_JF_2000.pdf"
-  desc: "This note summarizes the paper, which uses a near-universe panel of postwar Japanese listed firms (1962–2000) and a succession-event design to show that Japan’s adult-adoption/son-in-law institutions let family firms choose heirs on merit: non-blood heirs (adopted sons or sons-in-law) outperform blood heirs and professional “sarariman” managers, with the largest profitability improvements occurring around non-blood successions."
+  desc: "This note summarizes the paper, which uses Compustat segment data (1979–1993) to measure diversity as dispersion in resource-weighted segment opportunities (industry Tobin’s q × segment asset share), estimates segment-level transfer regressions showing that higher diversity induces wrong-way internal subsidies (away from high weighted-opportunity segments toward low weighted-opportunity segments) to manage ex post bargaining incentives, and links these distortions to a lower “value added by allocation” and a sizable diversification discount in excess-value regressions."
 
 - title: "Coase (Economica, 1937) - The Nature of the Firm"
   file: "Coase_Economica_1937.pdf"
