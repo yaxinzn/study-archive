@@ -1,3 +1,7 @@
+- title: "Stein (QJE, 1989) - Efficient Capital Markets, Inefficient Firms: A Model of Myopic Corporate Behavior"
+  file: "Stein_QJE_1989.pdf"
+  desc: "This note summarizes the paper, which shows that even with fully rational investors and efficient stock prices, managers can behave myopically in a signal-jamming equilibrium by boosting current reported earnings (via “hidden borrowing” from future earnings/hidden investment cuts) to raise today’s price, with the distortion increasing in short-horizon pressure π and in how informative current earnings are about future value (a_0)."
+
 - title: "Bolton & Scharfstein (JPE, 1996) - Optimal Debt Structure and the Number of Creditors"
   file: "Bolton_Scharfstein_JPE_1996.pdf"
   desc: "This note summarizes the paper, which builds an incomplete-contract model where unverifiable cash flow creates both strategic and liquidity default, and shows optimal debt structure chooses the number of creditors, collateral allocation, and voting rules to balance ex post renegotiation—multiple secured creditors can discipline managers via holdup (lowering strategic-default rents) but can also reduce liquidation value in true distress—implying safer firms optimally use more dispersed creditor structures while riskier firms prefer concentrated lending."
