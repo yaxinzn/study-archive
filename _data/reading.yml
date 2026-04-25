@@ -1,3 +1,7 @@
+- title: "Rajan (JF, 1992) - Insiders and Outsiders: The Choice between Informed and Arm’s-Length Debt"
+  file: "Rajan_JF_1992.pdf"
+  desc: "This note summarizes the paper, which develops an incomplete-contract model where informed bank debt improves efficiency by giving the lender control to liquidate bad projects, but also weakens entrepreneurial effort through ex post hold-up/bargaining rents, generating sharp predictions for the choice between bank versus arm’s-length debt and for optimal maturity and priority structures that trade off control against rent extraction."
+
 - title: "DeMarzo (RFS, 2005) - The Pooling and Tranching of Securities: A Model of Informed Intermediation"
   file: "DeMarzo_RFS_2005.pdf"
   desc: "This note summarizes the paper, which develops an asymmetric-information model of securitization showing that pure pooling can hurt an informed seller by destroying asset-specific signaling rents, but pooling with tranching can be optimal because diversification supports a senior debt tranche that is relatively information-insensitive, while uninformed originators pool to reduce informed buyers’ cherry-picking and informed intermediaries pool-and-tranche dynamically to recycle capital and scale their information advantage."
