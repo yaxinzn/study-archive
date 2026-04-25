@@ -1,3 +1,7 @@
+- title: "Calomiris & Kahn (AER, 1991) - The Role of Demandable Debt in Structuring Optimal Banking Arrangements"
+  file: "Calomiris_Kahn_AER_1991.pdf"
+  desc: "This note summarizes the paper, which provides an incentive-based theory of banking in which demandable deposits with sequential service implement costly monitoring by rewarding informed depositors to withdraw early on bad private signals, so the threat of a run and liquidation disciplines bankers who could otherwise abscond—making bank fragility and reserves part of an optimal governance arrangement rather than a pure liquidity accident."
+
 - title: "Stein (QJE, 1989) - Efficient Capital Markets, Inefficient Firms: A Model of Myopic Corporate Behavior"
   file: "Stein_QJE_1989.pdf"
   desc: "This note summarizes the paper, which shows that even with fully rational investors and efficient stock prices, managers can behave myopically in a signal-jamming equilibrium by boosting current reported earnings (via “hidden borrowing” from future earnings/hidden investment cuts) to raise today’s price, with the distortion increasing in short-horizon pressure π and in how informative current earnings are about future value (a_0)."
