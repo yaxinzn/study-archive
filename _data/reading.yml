@@ -1,3 +1,7 @@
+- title: "Vestman (RFS, 2019) - Limited Stock Market Participation Among Renters and Homeowners"
+  file: "Vestman_RFS_2019.pdf"
+  desc: "This note summarizes the paper, which uses Swedish registry panel data (LINDA matched to detailed financial holdings and the real-estate registry) and a life-cycle model with endogenous tenure choice and one-time stock-entry costs to show that renters’ low stock-market participation reflects type-based sorting (low-savings households rent and stay out) rather than homeownership mechanically crowding out equity, supported by household fixed-effects DiD/event studies showing home purchases do not reduce participation while home sales (especially with divorce) reduce risky-asset exposure."
+
 - title: "Hirshleifer (JF, 2020) - Social Transmission Bias in Economics and Finance"
   file: "Hirshleifer_JF_2020.pdf"
   desc: "This note summarizes the paper, which proposes social transmission bias as a core mechanism in economics and finance, developing five “fables” (with a formal biased-information-percolation model) to show how small distortions or selective sharing of ideas in social networks can recursively amplify into action booms, asset-price bubbles, momentum/reversal patterns, and belief dynamics that mimic familiar behavioral biases—pointing to new empirical proxies based on sociability, network position, visibility, and communication technology."
