@@ -1,3 +1,7 @@
+- title: "Diamond & Dybvig (JPE, 1983) - Bank Runs, Deposit Insurance, and Liquidity"
+  file: "Diamond_Dybvig_JPE_1983.pdf"
+  desc: "This note summarizes the paper, which builds a three-period model where privately informed liquidity needs make demand deposits a welfare-improving liquidity-insurance contract that transforms illiquid long-term assets into liquid claims, but the same sequential-service deposit contract creates multiple equilibria—including a self-fulfilling run that forces inefficient early liquidation—so policies like suspension and especially credible deposit insurance can eliminate the run equilibrium and implement the first-best allocation."
+
 - title: "Xiong & Yu (AER, 2011) - The Chinese Warrants Bubble"
   file: "Xiong_Yu_AER_2011.pdf"
   desc: "This note summarizes the paper, which documents a remarkably clean field bubble in China’s 2005–2008 put warrants by showing many warrants traded at large positive prices even when both Black–Scholes fundamentals and model-free payoff upper bounds were essentially zero, and explains the persistence and maturity patterns with heterogeneous beliefs plus binding short-sale constraints that create a speculative resale option amplified by extreme turnover and short-horizon feedback trading."
