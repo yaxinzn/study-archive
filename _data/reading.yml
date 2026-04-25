@@ -1,3 +1,7 @@
+- title: "Alchian and Demsetz (AER, 1972) - Production, Information Costs, and Economic Organization"
+  file: "Alchian_Demsetz_AER_1972.pdf"
+  desc: "This note summarizes the paper, which explains the classical firm as an efficient contractual response to team production with costly metering: because individual contributions are hard to observe, equal sharing induces shirking, so efficiency calls for a centralized monitor who is also the residual claimant and has the right to revise/terminate bilateral contracts—making “authority” an outcome of contracts rather than the firm’s primitive defining feature."
+
 - title: "Stein (JF, 1997) - Internal Capital Markets and the Competition for Corporate Resources"
   file: "Stein_JF_1997.pdf"
   desc: "This note summarizes the paper, which builds a credit-rationing model with privately informed, empire-building division managers and shows that corporate headquarters can create value through winner-picking—reallocating a fixed pool of scarce capital toward relatively strong projects (enabled by control rights that enforce “loser-sticking”)—and then derives optimal firm size and scope as tradeoffs between relaxing financing constraints and degrading monitoring, with the subtle result that focus can improve allocation when it makes evaluation errors more correlated and thus preserves relative ranking."
