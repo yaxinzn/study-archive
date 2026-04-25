@@ -1,3 +1,7 @@
+- title: "Coase (Economica, 1937) - The Nature of the Firm"
+  file: "Coase_Economica_1937.pdf"
+  desc: "This note summarizes the paper, which explains why firms exist by arguing that using the price mechanism is costly (search, bargaining, contracting, and adaptation), so an employment/authority contract can economize on transaction costs, with firm boundaries determined by the marginal tradeoff between rising internal organization costs and the cost of carrying out the same transaction through markets (or other firms)."
+
 - title: "Shleifer and Vishny (JF, 1992) - Liquidation Values and Debt Capacity: A Market Equilibrium Approach"
   file: "Shleifer_Vishny_JF_1992.pdf"
   desc: "This note summarizes the paper, which develops a general-equilibrium theory of debt capacity where liquidation values are endogenously low in industry downturns because the highest-value industry buyers are themselves debt-overhung and financially constrained, so distress sales can become fire sales to lower-value outsiders and leverage/liquidity are jointly determined with potential multiple equilibria."
