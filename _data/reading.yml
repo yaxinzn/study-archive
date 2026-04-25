@@ -1,3 +1,7 @@
+- title: "Bolton & Scharfstein (JPE, 1996) - Optimal Debt Structure and the Number of Creditors"
+  file: "Bolton_Scharfstein_JPE_1996.pdf"
+  desc: "This note summarizes the paper, which builds an incomplete-contract model where unverifiable cash flow creates both strategic and liquidity default, and shows optimal debt structure chooses the number of creditors, collateral allocation, and voting rules to balance ex post renegotiation—multiple secured creditors can discipline managers via holdup (lowering strategic-default rents) but can also reduce liquidation value in true distress—implying safer firms optimally use more dispersed creditor structures while riskier firms prefer concentrated lending."
+
 - title: "Miller (JF, 1977) - Debt and Taxes"
   file: "Miller_JF_1977.pdf"
   desc: "This note summarizes the paper, which extends Modigliani–Miller to a tax equilibrium by showing that once personal taxes on interest and equity are included, the corporate interest tax shield can be competed away through investor tax clienteles and market-clearing bond yields—so the economy can have an equilibrium aggregate debt level without any firm having a unique tax-driven optimal leverage ratio."
