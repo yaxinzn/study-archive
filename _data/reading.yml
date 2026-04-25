@@ -1,3 +1,7 @@
+- title: "Aghion and Bolton (RES, 1992) - An Incomplete Contracts Approach to Financial Contracting"
+  file: "Aghion_Bolton_RES_1992.pdf"
+  desc: "This note summarizes the paper, which develops an incomplete-contract, wealth-constrained entrepreneur–investor model where control rights determine the renegotiation status quo and hence pledgeable income, implying an optimal “capital structure as governance” logic in which contingent control based on verifiable performance signals (interpretable as debt/default and related convertibles) can dominate pure entrepreneur control or pure investor control by protecting investors in bad states while preserving entrepreneurial discretion in good states."
+
 - title: "Rajan (JF, 1992) - Insiders and Outsiders: The Choice between Informed and Arm’s-Length Debt"
   file: "Rajan_JF_1992.pdf"
   desc: "This note summarizes the paper, which develops an incomplete-contract model where informed bank debt improves efficiency by giving the lender control to liquidate bad projects, but also weakens entrepreneurial effort through ex post hold-up/bargaining rents, generating sharp predictions for the choice between bank versus arm’s-length debt and for optimal maturity and priority structures that trade off control against rent extraction."
