@@ -1,3 +1,7 @@
+- title: "Shleifer and Vishny (JF, 1992) - Liquidation Values and Debt Capacity: A Market Equilibrium Approach"
+  file: "Shleifer_Vishny_JF_1992.pdf"
+  desc: "This note summarizes the paper, which develops a general-equilibrium theory of debt capacity where liquidation values are endogenously low in industry downturns because the highest-value industry buyers are themselves debt-overhung and financially constrained, so distress sales can become fire sales to lower-value outsiders and leverage/liquidity are jointly determined with potential multiple equilibria."
+
 - title: "Alchian and Demsetz (AER, 1972) - Production, Information Costs, and Economic Organization"
   file: "Alchian_Demsetz_AER_1972.pdf"
   desc: "This note summarizes the paper, which explains the classical firm as an efficient contractual response to team production with costly metering: because individual contributions are hard to observe, equal sharing induces shirking, so efficiency calls for a centralized monitor who is also the residual claimant and has the right to revise/terminate bilateral contracts—making “authority” an outcome of contracts rather than the firm’s primitive defining feature."
