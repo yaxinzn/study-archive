@@ -1,3 +1,7 @@
+- title: "Stein (JF, 1997) - Internal Capital Markets and the Competition for Corporate Resources"
+  file: "Stein_JF_1997.pdf"
+  desc: "This note summarizes the paper, which builds a credit-rationing model with privately informed, empire-building division managers and shows that corporate headquarters can create value through winner-picking—reallocating a fixed pool of scarce capital toward relatively strong projects (enabled by control rights that enforce “loser-sticking”)—and then derives optimal firm size and scope as tradeoffs between relaxing financing constraints and degrading monitoring, with the subtle result that focus can improve allocation when it makes evaluation errors more correlated and thus preserves relative ranking."
+
 - title: "Aghion and Bolton (RES, 1992) - An Incomplete Contracts Approach to Financial Contracting"
   file: "Aghion_Bolton_RES_1992.pdf"
   desc: "This note summarizes the paper, which develops an incomplete-contract, wealth-constrained entrepreneur–investor model where control rights determine the renegotiation status quo and hence pledgeable income, implying an optimal “capital structure as governance” logic in which contingent control based on verifiable performance signals (interpretable as debt/default and related convertibles) can dominate pure entrepreneur control or pure investor control by protecting investors in bad states while preserving entrepreneurial discretion in good states."
