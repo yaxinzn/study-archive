@@ -1,3 +1,7 @@
+- title: "Xiong & Yu (AER, 2011) - The Chinese Warrants Bubble"
+  file: "Xiong_Yu_AER_2011.pdf"
+  desc: "This note summarizes the paper, which documents a remarkably clean field bubble in China’s 2005–2008 put warrants by showing many warrants traded at large positive prices even when both Black–Scholes fundamentals and model-free payoff upper bounds were essentially zero, and explains the persistence and maturity patterns with heterogeneous beliefs plus binding short-sale constraints that create a speculative resale option amplified by extreme turnover and short-horizon feedback trading."
+
 - title: "Calomiris & Kahn (AER, 1991) - The Role of Demandable Debt in Structuring Optimal Banking Arrangements"
   file: "Calomiris_Kahn_AER_1991.pdf"
   desc: "This note summarizes the paper, which provides an incentive-based theory of banking in which demandable deposits with sequential service implement costly monitoring by rewarding informed depositors to withdraw early on bad private signals, so the threat of a run and liquidation disciplines bankers who could otherwise abscond—making bank fragility and reserves part of an optimal governance arrangement rather than a pure liquidity accident."
