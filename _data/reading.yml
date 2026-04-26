@@ -1,3 +1,7 @@
+- title: "Andonov, Kräussl, & Rauh (RFS, 2021) - Institutional Investors and Infrastructure Investing"
+  file: "Andonov_Kraussl_Rauh_RFS_2021.pdf"
+  desc: "This note summarizes the paper, which estimates a time-varying empirical pricing kernel from one-month S&P 500 index option cross-sections by pairing no-arbitrage option pricing with an asymmetric-GARCH objective return density (plus an empirical innovation distribution), fitting both a parsimonious power kernel and a flexible orthogonal-polynomial kernel month by month, and validating the implied (countercyclical) risk-aversion dynamics via out-of-sample delta–gamma hedging performance."
+
 - title: "Peress and Schmidt (JF, 2020) - Glued to the TV: Distracted Noise Traders and Stock Market Liquidity"
   file: "Peress_Schmidt_JF_2020.pdf"
   desc: "This note summarizes the paper, which constructs exogenous investor-distraction shocks from high “news pressure” days in U.S. TV broadcasts filtered to remove economic/market headlines, combines retail brokerage trades, ANcerno institutional transactions, CRSP and TAQ microstructure measures, and event-study / cross-event regressions (with heterogeneity by retail-ownership proxies and algorithmic-trading intensity) to show that when noise traders are distracted and trade less, volatility and short-run reversals fall but liquidity worsens via higher adverse selection in a Kyle-style mechanism."
