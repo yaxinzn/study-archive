@@ -1,3 +1,7 @@
+- title: "Baron, Verner, and Xiong (QJE, 2021) - Banking Crises without Panics"
+  file: "Baron_Verner_Xiong_QJE_2021.pdf"
+  desc: "This note summarizes the paper, which recovers a monthly, state-contingent empirical pricing kernel by fitting one-month S&P 500 index option cross-sections to no-arbitrage pricing formulas using an asymmetric-GARCH objective return density (with an empirical innovation distribution), compares a parsimonious power kernel to a flexible orthogonal-polynomial kernel (with bond-pricing normalization), relates the implied risk aversion to business-cycle indicators, and validates the estimates via out-of-sample delta–gamma hedging performance."
+
 - title: "Mankiw & Zeldes (JFE, 1991) - The Consumption of Stockholders and Nonstockholders"
   file: "Mankiw_Zeldes_JFE_1991.pdf"
   desc: "This note summarizes the paper, which uses PSID household data (food consumption, 1970–1984) and 1984 stockholding status to construct stockholder vs. nonstockholder per-capita consumption-growth series, compares their covariances with the market excess return via moment comparisons and covariance-difference regressions, and calibrates the consumption-CAPM to show implied risk aversion drops sharply (≈100 → ≈35) when pricing equity with stockholder consumption rather than aggregate consumption."
