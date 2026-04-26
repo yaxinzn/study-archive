@@ -1,3 +1,7 @@
+- title: "Kaustia & Torstila (JFE, 2011) - Stock Market Aversion? Political Preferences and Stock Market Participation"
+  file: "Kaustia_Torstila_JFE_2011.pdf"
+  desc: "This note summarizes the paper, which tests the “value-expressive stock market aversion” hypothesis by linking Finnish registry stock ownership to zip-code election votes and estimating zip-code OLS plus individual exit-poll and Member-of-Parliament logit models (and national survey participation/attitude regressions), showing that more left-wing political orientation robustly predicts lower stock market participation but not conditional equity allocation and is instead tied to negative stock-market attitudes rather than pessimistic return expectations."
+
 - title: "Baron, Verner, and Xiong (QJE, 2021) - Banking Crises without Panics"
   file: "Baron_Verner_Xiong_QJE_2021.pdf"
   desc: "This note summarizes the paper, which recovers a monthly, state-contingent empirical pricing kernel by fitting one-month S&P 500 index option cross-sections to no-arbitrage pricing formulas using an asymmetric-GARCH objective return density (with an empirical innovation distribution), compares a parsimonious power kernel to a flexible orthogonal-polynomial kernel (with bond-pricing normalization), relates the implied risk aversion to business-cycle indicators, and validates the estimates via out-of-sample delta–gamma hedging performance."
