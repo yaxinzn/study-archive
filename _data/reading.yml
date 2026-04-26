@@ -1,3 +1,7 @@
+- title: "Guvenen (Econometrica, 2009) - A Parsimonious Macroeconomic Model for Asset Pricing"
+  file: "Guvenen_Econometrica_2009.pdf"
+  desc: "This note summarizes the paper, which develops a parsimonious two-agent macro asset-pricing model where limited stock-market participation and heterogeneous EIS make non-stockholders smooth labor-income risk through bonds, forcing stockholders to absorb concentrated aggregate risk and thereby generating a high, countercyclical equity premium, a low and smooth risk-free rate, return predictability, and realistic wealth concentration, while still facing some macro-quantity trade-offs."
+
 - title: "Grossman & Stiglitz (AER, 1980) - On the Impossibility of Informationally Efficient Markets"
   file: "Grossman_Stiglitz_AER_1980.pdf"
   desc: "This note summarizes the paper, which builds a CARA–normal noisy rational-expectations model with a riskless asset, a risky asset u=θ+ε, an endogenous fraction of informed traders who pay to observe θ, and noisy supply that prevents prices from fully revealing information, and proves that competitive equilibrium requires only partially informative prices (an “equilibrium degree of disequilibrium”) because perfect informational efficiency would eliminate incentives to produce costly information."
