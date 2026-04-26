@@ -1,3 +1,7 @@
+- title: "Lin (RFS, 2020) - Bank Deposits and the Stock Market"
+  file: "Lin_RFS_2020.pdf"
+  desc: "This note summarizes the paper, which identifies a stock-market-to-deposit portfolio channel by interacting aggregate stock returns with cross-county/ZIP variation in IRS dividend-income ratios (a stock-participation proxy) to show that high-participation places—and banks whose depositor bases are more stock-active—suffer larger deposit outflows after booms, leading to funding substitution, weaker small-business lending, and slower employment growth in externally finance-dependent sectors."
+
 - title: "Odean (AER, 1999) - Do Investors Trade Too Much?"
   file: "Odean_AER_1999.pdf"
   desc: "This note summarizes the paper, which uses account-level trades from 10,000 discount-brokerage investors (1987–1993) to compute event-time buy-minus-sell return differentials over 84/252/504 trading days, benchmarks them against an estimated 5.9% round-trip trading cost, conducts size–book-to-market matched bootstrap replacements and calendar-time factor regressions, and shows purchases underperform sales even before costs—evidence of excessive trading driven by misinterpreted signals/attention and disposition-style behavior."
