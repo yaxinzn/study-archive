@@ -1,3 +1,7 @@
+- title: "Peress and Schmidt (JF, 2020) - Glued to the TV: Distracted Noise Traders and Stock Market Liquidity"
+  file: "Peress_Schmidt_JF_2020.pdf"
+  desc: "This note summarizes the paper, which constructs exogenous investor-distraction shocks from high “news pressure” days in U.S. TV broadcasts filtered to remove economic/market headlines, combines retail brokerage trades, ANcerno institutional transactions, CRSP and TAQ microstructure measures, and event-study / cross-event regressions (with heterogeneity by retail-ownership proxies and algorithmic-trading intensity) to show that when noise traders are distracted and trade less, volatility and short-run reversals fall but liquidity worsens via higher adverse selection in a Kyle-style mechanism."
+
 - title: "charya, Parlatore, & Sundaresan (RFS, 2025) - Financing Infrastructure in the Shadow of Expropriation"
   file: "Acharya_Parlatore_Sundaresan_RFS.pdf"
   desc: "This note summarizes the paper, which builds a four-stage public–private-partnership model with double moral hazard (operator effort and government expropriation) under fiscal-capacity/ability-to-pay constraints, solves the constrained-efficient contract over project scale, success-state coupons, and failure-state government guarantees/coinvestment to derive a fiscal pecking order (guarantees → coinvestment → higher success repayments), and illustrates the mechanism with descriptive evidence on Indian highway disputes, stressed thermal power projects, and global expropriation cases."
