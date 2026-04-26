@@ -1,3 +1,7 @@
+- title: "Gao, Sockin, & Xiong (RFS, 2021) - Learning about the Neighborhood"
+  file: "Gao_Sockin_Xiong_RFS_2021.pdf"
+  desc: "This note summarizes the paper, which develops a noisy rational-expectations housing model in which households (and capital producers) learn neighborhood fundamentals from housing prices and, because entry decisions are locally complementary, supply-side noise can generate amplified boom–bust price cycles and overbuilding that are nonmonotonic in housing-supply elasticity (peaking at intermediate elasticity), and it illustrates the mechanism by showing the 2000s U.S. MSA cross-section of price booms/busts and permits lines up with these predictions using Saiz (2010) supply elasticity and nontradable-employment-share complementarity proxies (with sand-state robustness)."
+
 - title: "Dagostino (JFE, 2025) - The Impact of Bank Financing on Municipalities’ Bond Issuance and the Real Economy"
   file: "Dagostino_JFE_2025.pdf"
   desc: "This note summarizes the paper, which exploits the ARRA’s temporary 2009–2010 increase in the bank-qualified municipal issuance threshold (from $10m to $30m) as a tax-induced notch, quantifies issuers’ responses with bunching around the $10m cutoff and a county-level DiD/2SLS + event-study design based on pre-policy buncher exposure, and links the policy to banks’ balance-sheet reallocation (a deposit-share Bartik exposure) and local real effects (jobs per $1m) while testing for crowd-out in private lending."
