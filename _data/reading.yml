@@ -1,3 +1,7 @@
+- title: "Rosenberg & Engle (JFE, 2002) - Empirical Pricing Kernels"
+  file: "Rosenberg_Engle_JFE_2002.pdf"
+  desc: "This note summarizes the paper, which estimates a time-varying empirical pricing kernel from one-month S&P 500 index option cross-sections by pairing no-arbitrage option pricing with an asymmetric-GARCH objective return density (plus an empirical innovation distribution), fits both a parsimonious power kernel and a flexible orthogonal-polynomial kernel month by month, and validates the extracted (countercyclical) risk-aversion dynamics using out-of-sample hedging performance comparisons."
+
 - title: "Vestman (RFS, 2019) - Limited Stock Market Participation Among Renters and Homeowners"
   file: "Vestman_RFS_2019.pdf"
   desc: "This note summarizes the paper, which uses Swedish registry panel data (LINDA matched to detailed financial holdings and the real-estate registry) and a life-cycle model with endogenous tenure choice and one-time stock-entry costs to show that renters’ low stock-market participation reflects type-based sorting (low-savings households rent and stay out) rather than homeownership mechanically crowding out equity, supported by household fixed-effects DiD/event studies showing home purchases do not reduce participation while home sales (especially with divorce) reduce risky-asset exposure."
