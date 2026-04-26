@@ -1,3 +1,7 @@
+- title: "Agarwal, Mukherjee & Naaraayanan (RFS, 2023) - Roads and Loans"
+  file: "Agarwal_Mukherjee_Naaraayanan_RFS_2023.pdf"
+  desc: "This note summarizes the paper, which uses a population-threshold regression discontinuity/reduced-form design around India’s PMGSY rural road program—using 2001 Census village population around the 500 and 1,000 cutoffs, an above-cutoff road-priority indicator, road receipt, and bank-loan outcomes such as bank entry, number of borrowers, loan amount, loan purpose, interest rate, maturity, and repayment—to show that new roads significantly increase formal bank lending and productive borrowing, especially for low-asset households, without worsening loan quality or raising interest rates, implying that rural infrastructure expands productive opportunities and works as a complement to formal finance."
+
 - title: "Guvenen (Econometrica, 2009) - A Parsimonious Macroeconomic Model for Asset Pricing"
   file: "Guvenen_Econometrica_2009.pdf"
   desc: "This note summarizes the paper, which develops a parsimonious two-agent macro asset-pricing model where limited stock-market participation and heterogeneous EIS make non-stockholders smooth labor-income risk through bonds, forcing stockholders to absorb concentrated aggregate risk and thereby generating a high, countercyclical equity premium, a low and smooth risk-free rate, return predictability, and realistic wealth concentration, while still facing some macro-quantity trade-offs."
