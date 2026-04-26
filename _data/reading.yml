@@ -1,3 +1,7 @@
+- title: "Odean (AER, 1999) - Do Investors Trade Too Much?"
+  file: "Odean_AER_1999.pdf"
+  desc: "This note summarizes the paper, which uses account-level trades from 10,000 discount-brokerage investors (1987–1993) to compute event-time buy-minus-sell return differentials over 84/252/504 trading days, benchmarks them against an estimated 5.9% round-trip trading cost, conducts size–book-to-market matched bootstrap replacements and calendar-time factor regressions, and shows purchases underperform sales even before costs—evidence of excessive trading driven by misinterpreted signals/attention and disposition-style behavior."
+
 - title: "Rosenberg & Engle (JFE, 2002) - Empirical Pricing Kernels"
   file: "Rosenberg_Engle_JFE_2002.pdf"
   desc: "This note summarizes the paper, which estimates a time-varying empirical pricing kernel from one-month S&P 500 index option cross-sections by pairing no-arbitrage option pricing with an asymmetric-GARCH objective return density (plus an empirical innovation distribution), fits both a parsimonious power kernel and a flexible orthogonal-polynomial kernel month by month, and validates the extracted (countercyclical) risk-aversion dynamics using out-of-sample hedging performance comparisons."
