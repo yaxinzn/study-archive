@@ -1,3 +1,7 @@
+- title: "Dagostino (JFE, 2025) - The Impact of Bank Financing on Municipalities’ Bond Issuance and the Real Economy"
+  file: "Dagostino_JFE_2025.pdf"
+  desc: "This note summarizes the paper, which exploits the ARRA’s temporary 2009–2010 increase in the bank-qualified municipal issuance threshold (from $10m to $30m) as a tax-induced notch, quantifies issuers’ responses with bunching around the $10m cutoff and a county-level DiD/2SLS + event-study design based on pre-policy buncher exposure, and links the policy to banks’ balance-sheet reallocation (a deposit-share Bartik exposure) and local real effects (jobs per $1m) while testing for crowd-out in private lending."
+
 - title: "Schwert (JF, 2017) - Municipal Bond Liquidity and Default Risk"
   file: "Schwert_JF_2017.pdf"
   desc: "This note summarizes the paper, which estimates a time-varying empirical pricing kernel from one-month S&P 500 index option cross-sections by pairing no-arbitrage option pricing with an asymmetric-GARCH objective return density (plus an empirical innovation distribution), fitting both a parsimonious power kernel and a flexible orthogonal-polynomial kernel month by month, and validating the implied (countercyclical) risk-aversion dynamics using out-of-sample hedging performance comparisons."
