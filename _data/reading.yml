@@ -1,3 +1,7 @@
+- title: "Grossman & Stiglitz (AER, 1980) - On the Impossibility of Informationally Efficient Markets"
+  file: "Grossman_Stiglitz_AER_1980.pdf"
+  desc: "This note summarizes the paper, which builds a CARA–normal noisy rational-expectations model with a riskless asset, a risky asset u=θ+ε, an endogenous fraction of informed traders who pay to observe θ, and noisy supply that prevents prices from fully revealing information, and proves that competitive equilibrium requires only partially informative prices (an “equilibrium degree of disequilibrium”) because perfect informational efficiency would eliminate incentives to produce costly information."
+
 - title: "Andonov, Kräussl, & Rauh (RFS, 2021) - Institutional Investors and Infrastructure Investing"
   file: "Andonov_Kraussl_Rauh_RFS_2021.pdf"
   desc: "This note summarizes the paper, which estimates a time-varying empirical pricing kernel from one-month S&P 500 index option cross-sections by pairing no-arbitrage option pricing with an asymmetric-GARCH objective return density (plus an empirical innovation distribution), fitting both a parsimonious power kernel and a flexible orthogonal-polynomial kernel month by month, and validating the implied (countercyclical) risk-aversion dynamics via out-of-sample delta–gamma hedging performance."
