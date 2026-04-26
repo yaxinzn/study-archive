@@ -1,3 +1,7 @@
+- title: "Schwert (JF, 2017) - Municipal Bond Liquidity and Default Risk"
+  file: "Schwert_JF_2017.pdf"
+  desc: "This note summarizes the paper, which estimates a time-varying empirical pricing kernel from one-month S&P 500 index option cross-sections by pairing no-arbitrage option pricing with an asymmetric-GARCH objective return density (plus an empirical innovation distribution), fitting both a parsimonious power kernel and a flexible orthogonal-polynomial kernel month by month, and validating the implied (countercyclical) risk-aversion dynamics using out-of-sample hedging performance comparisons."
+
 - title: "Kaustia & Torstila (JFE, 2011) - Stock Market Aversion? Political Preferences and Stock Market Participation"
   file: "Kaustia_Torstila_JFE_2011.pdf"
   desc: "This note summarizes the paper, which tests the “value-expressive stock market aversion” hypothesis by linking Finnish registry stock ownership to zip-code election votes and estimating zip-code OLS plus individual exit-poll and Member-of-Parliament logit models (and national survey participation/attitude regressions), showing that more left-wing political orientation robustly predicts lower stock market participation but not conditional equity allocation and is instead tied to negative stock-market attitudes rather than pessimistic return expectations."
