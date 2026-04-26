@@ -1,3 +1,7 @@
+- title: "Mankiw & Zeldes (JFE, 1991) - The Consumption of Stockholders and Nonstockholders"
+  file: "Mankiw_Zeldes_JFE_1991.pdf"
+  desc: "This note summarizes the paper, which uses PSID household data (food consumption, 1970–1984) and 1984 stockholding status to construct stockholder vs. nonstockholder per-capita consumption-growth series, compares their covariances with the market excess return via moment comparisons and covariance-difference regressions, and calibrates the consumption-CAPM to show implied risk aversion drops sharply (≈100 → ≈35) when pricing equity with stockholder consumption rather than aggregate consumption."
+
 - title: "Lin (RFS, 2020) - Bank Deposits and the Stock Market"
   file: "Lin_RFS_2020.pdf"
   desc: "This note summarizes the paper, which identifies a stock-market-to-deposit portfolio channel by interacting aggregate stock returns with cross-county/ZIP variation in IRS dividend-income ratios (a stock-participation proxy) to show that high-participation places—and banks whose depositor bases are more stock-active—suffer larger deposit outflows after booms, leading to funding substitution, weaker small-business lending, and slower employment growth in externally finance-dependent sectors."
