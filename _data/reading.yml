@@ -1,4 +1,8 @@
 - title: "Fleckenstein & Longstaff (RFS, 2025) - Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?"
+  file: "Dewatripont_Maskin_RFS_1995.pdf"
+  desc: "This note summarizes the paper, which develops a theoretical asymmetric-information credit model comparing centralized and decentralized lending, using key mechanism variables such as project type, creditor liquidity/size, monitoring effort, refinancing incentives, entrepreneur private benefits, and the continuation-value condition Πp∗ >1>Πp∗∗ , to show that decentralized credit can harden budget constraints and screen out poor projects by making refinancing less credible, but may also create excessive short-termism when slow high-value projects require continuation finance, implying a fundamental trade-off between commitment and efficient long-term investment."
+
+- title: "Fleckenstein & Longstaff (RFS, 2025) - Do Municipal Bond Investors Pay a Convenience Premium to Avoid Taxes?"
   file: "Fleckenstein_Longstaff_RFS_2025.pdf"
   desc: "This note summarizes the paper, which uses a yield-decomposition design for state-issued tax-exempt municipal bonds—using state CDS to identify credit risk, taxable municipal bonds to identify liquidity, matched Treasury/repo-OIS benchmarks, maximum marginal tax rates, and variables such as convenience premia, tax uncertainty, municipal fund flows, migration, tax-minimizing strategies, SALT exposure, maturity structure, and issuance—to show that tax-exempt munis contain an average 15.49 basis point convenience premium beyond credit, liquidity, and mechanical tax benefits, implying that investors pay for freedom from taxation and that municipal issuers respond to this tax-related richness by issuing more debt."
 
