@@ -1,3 +1,8 @@
+- title: "Koijen, Richmond, & Yogo (RES, 2024) - Which Investors Matter for Equity Valuations and Expected Returns?"
+  file: "Koijen_Richmond_Yogo_RES_2024.pdf"
+  desc: >-
+    This note summarizes the paper, which estimates investor-level equity demand systems using U.S. institutional holdings from FactSet Ownership over 2000–2019 and solves market-clearing counterfactuals to identify which investors move valuations, expected returns, informativeness, and wealth—using key variables such as investor type, portfolio weights, market-to-book equity, firm characteristics, environmental and governance scores, active share, price elasticity, investor wealth shares, latent demand, counterfactual capital flows, and climate-related demand shifts—to show that investor identity matters because prices are shaped by heterogeneous demand curves, with active-to-passive flows causing large repricing but little loss of informativeness, climate demand shifts redistributing wealth across investor groups, and hedge funds having outsized price impact per dollar due to distinctive and relatively elastic demand.
+
 - title: "Ross (JF, 2015) - The Recovery Theorem"
   file: "Ross_JF_2015.pdf"
   desc: >-
