@@ -1,3 +1,7 @@
+- title: "Peress & Schmidt (JFE, 2024) - Uncertainty about what is in the price"
+  file: "Peress_Schmidt_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which develops and tests a market-microstructure theory of uncertainty about what is already in prices using NYSE stocks, CRSP returns, TAQ intraday trades, realized skewness, trade imbalances, price-impact measures, and information-environment proxies—to show that investors trade less aggressively when their signals may be stale, causing skewness to fall after past returns and price impact to decrease for buys but increase for sells after price increases, implying that uncertainty about price content shapes order-flow informativeness, return asymmetry, and market liquidity."
+
 - title: "Colliard, Foucault, and Hoffmann (JF, 2021) - Inventory Management, Dealers’ Connections, and Prices in Over-the-Counter Markets"
   file: "Colliard_Foucault_Hoffmann_JF_2021.pdf"
   desc: "This note summarizes the paper, which develops a theoretical OTC market model with core dealers, connected peripheral dealers, unconnected peripheral dealers, inventory costs, bilateral bargaining, and simulated D2D/D2C price regressions—to show that dealer connectedness affects prices only when aggregate peripheral inventory is imbalanced and outside options become valuable, implying that OTC price dispersion, client trading costs, and welfare losses depend jointly on who is connected and who is crowded in the inventory network."
