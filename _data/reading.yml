@@ -1,3 +1,8 @@
+- title: "Molavi, Tahbaz-Salehi & Vedolin (RES, 2024) - Model Complexity, Expectations, and Asset Prices"
+  file: "Molavi_TahbazSalehi_Vedolin_RES_2024.pdf"
+  desc: >-
+    This note summarizes the paper, which develops a theory of asset pricing under Bayesian learning with limited model complexity and applies it to uncovered interest parity—using key variables such as the true n-factor fundamental process, agents’ constrained k-factor subjective model, KL-minimizing approximations, true and perceived autocorrelations, excess returns, forecast errors, interest-rate differentials, currency excess returns, and survey forecast errors—to show that when agents can only represent a low-dimensional approximation of a richer process, predictable belief errors and return predictability arise endogenously, implying that a one-factor subjective model can jointly explain the short-run forward-discount puzzle and the long-run UIP predictability reversal
+
 - title: "Koijen, Richmond, & Yogo (RES, 2024) - Which Investors Matter for Equity Valuations and Expected Returns?"
   file: "Koijen_Richmond_Yogo_RES_2024.pdf"
   desc: >-
