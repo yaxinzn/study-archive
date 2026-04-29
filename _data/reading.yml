@@ -1,3 +1,7 @@
+- title: "Martin & Nagel (JFE, 2022) - Market Efficiency in the Age of Big Data"
+  file: "Martin_Nagel_JPE_2022.pdf"
+  desc: "This note summarizes the paper, which develops a high-dimensional Bayesian-learning model of market efficiency and illustrates it with CRSP stock returns and 238 lagged return-based predictors—using key variables such as asset characteristics, unknown cash-flow coefficients, Bayesian priors, ridge/Lasso shrinkage, in-sample and out-of-sample predictive regressions, anomaly-portfolio returns, cross-validation, predictor-to-asset ratio J/N, and excess shrinkage or sparsity—to show that rational investors can generate strong in-sample return predictability purely from real-time learning and shrinkage, implying that in the age of big data, out-of-sample predictability is the economically meaningful test of market efficiency rather than in-sample anomaly discovery"
+
 - title: "Molavi, Tahbaz-Salehi & Vedolin (RES, 2024) - Model Complexity, Expectations, and Asset Prices"
   file: "Molavi_TahbazSalehi_Vedolin_RES_2024.pdf"
   desc: >-
