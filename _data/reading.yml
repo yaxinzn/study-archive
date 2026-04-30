@@ -86,7 +86,7 @@
   file: "Backus_Chernov_Zin_Zviadadze_RFS_2022.pdf"
   desc: "This note summarizes the paper, which estimates an arbitrage-free macro term-structure model to decompose the observed policy rate into a Taylor-rule target rate and a discretionary component, using long-run neutrality restrictions on real output and real asset values together with macro variables, nominal yields, the real pricing kernel, forward premiums, and yield-curve factors—to show that monetary policy discretion is distinct from rule-based policy, contributes materially to long-maturity term-premium risk, and is more closely linked to yield-curve slope and risk-premium movements, implying that monetary policy risk cannot be summarized by the short rate alone."
 
-- title: "Derrien & Kecskes (JF, 2013) - The Real Effects of Financial Shocks: Evidence from Exogenous Changes in Analyst Coverage"
+- title: "Kacperczyk, Pérignon, & Vuillemey (JF, 2021) - The Private Production of Safe Assets"
   file: "Kacperczyk_Perignon_Vuillemey_JF_2021.pdf"
   desc: "This note summarizes the paper, which uses broker closures and mergers as quasi-exogenous shocks to analyst coverage in a matched difference-in-differences design—using key variables such as analyst loss, treatment and control firms, investment, capital expenditures, R&D, acquisitions, long-term debt issuance, equity issuance, cash holdings, information asymmetry, financial constraints, analyst quality, and underwriting relationships—to show that losing analyst coverage reduces firms’ investment and external financing by roughly 2% of assets, implying that financial information intermediaries affect real corporate policies by lowering information asymmetry and improving access to capital."
 
