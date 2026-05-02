@@ -1,3 +1,7 @@
+- title: "Dahlquist & Ibert (RFS, 2024) - Equity Return Expectations and Portfolios: Evidence from Large Asset Managers"
+  file: "Dahlquist_Ibert_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which analyzes the countercyclical equity premium expectations of large asset managers using their capital market assumptions and portfolio allocations, showing that these expectations are negatively related to the CAPE and strongly predict U.S. equity portfolio weights, while fund mandates and strategic allocation rules attenuate this pass-through; the paper further finds that tactical funds are more responsive to expectations, and that term premium expectations are more closely related to bond duration and maturity than overall bond shares."
+
 - title: "de Silva & Thesmar (RFS, 2024) - Noise in Expectations: Evidence from Analyst Forecasts"
   file: "deSilva_Thesmar_RFS_2024.pdf"
   desc: "This note summarizes the paper, which examines the horizon-dependent mix of soft information, bias, and noise in analyst earnings forecasts, showing that analysts are better than econometric models at short horizons but become increasingly biased and noisy at longer horizons, with forecast noise amplifying bias in long-horizon regression coefficients, and arguing that combining machine and analyst forecasts improves long-horizon predictions modestly, highlighting the importance of noise in belief formation and its implications for interpreting forecast errors."
