@@ -1,3 +1,7 @@
+- title: "de Silva & Thesmar (RFS, 2024) - Noise in Expectations: Evidence from Analyst Forecasts"
+  file: "deSilva_Thesmar_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which examines the horizon-dependent mix of soft information, bias, and noise in analyst earnings forecasts, showing that analysts are better than econometric models at short horizons but become increasingly biased and noisy at longer horizons, with forecast noise amplifying bias in long-horizon regression coefficients, and arguing that combining machine and analyst forecasts improves long-horizon predictions modestly, highlighting the importance of noise in belief formation and its implications for interpreting forecast errors."
+
 - title: "Bradley, Hanousek, Jame & Xiao (RFS, 2024) - Place Your Bets? The Value of Investment Research on Reddit’s Wallstreetbets"
   file: "Bradley_Hanousek_Jame_Xiao_RFS_2024.pdf"
   desc: "This note summarizes the paper, which studies the value of Wallstreetbets (WSB) due diligence (DD) reports before and after the GameStop short squeeze, showing that pre-GME reports predict future returns and cash-flow news, while post-GME reports emphasize price pressure and attention-grabbing stocks, leading to a sharp decline in report informativeness, especially for smaller retail investors, implying that online communities can produce valuable research, but its quality is fragile and dependent on platform culture and participation shifts."
