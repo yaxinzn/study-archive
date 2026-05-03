@@ -18,6 +18,7 @@ These materials draw on a combination of online econometrics course resources an
 
 ## Files
 <!-- AUTO-LIST-START -->
+- **[Derivations_Mostly_Harmless_Econometrics_2008.pdf](Derivations_Mostly_Harmless_Econometrics_2008.pdf)**
 - **[Econometric1.pdf](Econometric1.pdf)**
 - **[Econometrics_FromBasics_Feb2_2026.pdf](Econometrics_FromBasics_Feb2_2026.pdf)**
 <!-- AUTO-LIST-END -->

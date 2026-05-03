@@ -71,4 +71,5 @@ Demand estimation, cost/production, competition and conduct, entry/exit, identif
 - **[empirical_io_chapter3_problem_set_with_answers.pdf](empirical_io_chapter3_problem_set_with_answers.pdf)**
 - **[empirical_io_chapter4_problem_set_with_answers.pdf](empirical_io_chapter4_problem_set_with_answers.pdf)**
 - **[empirical_io_chapter5_problem_set_with_answers.pdf](empirical_io_chapter5_problem_set_with_answers.pdf)**
+- **[empirical_io_chapter6_problem_set_with_answers.pdf](empirical_io_chapter6_problem_set_with_answers.pdf)**
 <!-- AUTO-LIST-END -->
