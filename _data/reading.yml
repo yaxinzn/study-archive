@@ -1,3 +1,7 @@
+- title: "Favara & Imbs (AER, 2015) - Credit Supply and the Price of Housing"
+  file: "Favara_Imbs_AER_2015.pdf"
+  desc: "This note summarizes the paper, which uses post-1994 interstate bank-branching deregulation, HMDA mortgage-credit data, placebo lender comparisons, bank-location tests, housing-supply elasticity heterogeneity, IV house-price regressions, and bank balance-sheet evidence to identify a mortgage credit-supply channel—showing that deregulation expands commercial-bank mortgage lending, lowers funding and mortgage costs, and raises house prices especially in supply-inelastic counties, implying that housing booms can be driven by changes in bank credit supply rather than only by borrower demand or expectations. "
+
 - title: "Cao, Jiang, Wang & Yang (JFE, 2024) - From Man vs. Machine to Man + Machine: The art and AI of stock analyses"
   file: "Cao_Jiang_Wang_Yang_JFE_2024.pdf"
   desc: "This note summarizes the paper, which builds an AI analyst for 12-month stock-return prediction and compares it with I/B/E/S human target-price forecasts using public firm, industry, macro, textual, return, and earnings information—showing that AI beats human analysts on average, but humans retain comparative advantage for illiquid, intangible, small, distressed, and recession-exposed firms, while a Man + Machine hybrid outperforms both and sharply reduces extreme forecast errors, implying that AI is best understood as an augmentation technology where machine data-processing and human institutional judgment are complementary."
