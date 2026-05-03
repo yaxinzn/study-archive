@@ -10,11 +10,10 @@ hide_name: true
 
 # Econometrics
 
-## Scope
-This page consolidates my econometrics study materials, with a focus on (i) transparent, step-by-step derivations, (ii) careful intuition, and (iii) notation and workflows that support clean replication. I typically build results from first principles and revise the notes iteratively as my understanding improves.
-
-## References / acknowledgements
-These materials draw on a combination of online econometrics course resources and study notes (including resources collected from Xindi He’s personal website). Any remaining errors are my own. If you notice mistakes or unclear explanations, I would appreciate your feedback and will revise accordingly.
+## References
+Angrist, J. D., & Pischke, J.-S. (2009). *Mostly harmless econometrics: An empiricist's companion*. Princeton University Press.
+Hansen, B. E. (2014). Econometrics. University of Wisconsin, Department of Economics. (Revised January 3, 2014)
+Xindi He (2024). Econometrics Notes, https://www.hexindi.com/notes/econometrics
 
 ## Files
 <!-- AUTO-LIST-START -->
