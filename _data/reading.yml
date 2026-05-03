@@ -1,3 +1,7 @@
+- title: "Hong & Xu (JFE, 2019) - Inferring Latent Social Networks from Stock Holdings"
+  file: "Hong_Xu_JFE_2019.pdf"
+  desc: "This note summarizes the paper, which develops a portfolio-choice and overdispersed network-count model to infer fund managers’ latent city-level social connections from mutual fund stock holdings—showing that managers’ holdings reveal non-random city-specific networks, that inferred relative propensity to connect predicts observed alumni links with corporate officials, and that high-connection city positions outperform low-connection positions, implying that portfolio holdings can reveal hidden information networks that are both socially meaningful and return-relevant."
+
 - title: "Fleiner, Jagadeesan, Janko & Teytelboym (Econometrica, 2019) - Trading Networks with Frictions"
   file: "Fleiner_Jagadeesan_Janko_Teytelboym_Econometrica_2019.pdf"
   desc: "This note summarizes the paper, which develops a theory of trading networks with discrete bilateral trades, continuous prices, and distortionary frictions such as taxes or commissions—showing that competitive equilibria exist under full substitutability and bounded compensating variations, may be Pareto-inefficient under frictions, and coincide with trail-stable outcomes under bounded willingness to pay, implying that trail stability is the appropriate cooperative benchmark for price-supported network trade when standard core or stability concepts are too strong."
