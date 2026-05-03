@@ -1,3 +1,7 @@
+- title: "Cao, Jiang, Wang & Yang (JFE, 2024) - From Man vs. Machine to Man + Machine: The art and AI of stock analyses"
+  file: "Cao_Jiang_Wang_Yang_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which builds an AI analyst for 12-month stock-return prediction and compares it with I/B/E/S human target-price forecasts using public firm, industry, macro, textual, return, and earnings information—showing that AI beats human analysts on average, but humans retain comparative advantage for illiquid, intangible, small, distressed, and recession-exposed firms, while a Man + Machine hybrid outperforms both and sharply reduces extreme forecast errors, implying that AI is best understood as an augmentation technology where machine data-processing and human institutional judgment are complementary."
+
 - title: "Couts, Gonçalves, and Rossi (RFS, 2024) - Unsmoothing Returns of Illiquid Funds"
   file: "Couts_Goncalves_Rossi_RFS_2024.pdf"
   desc: "This note summarizes the paper, which develops and tests a three-step unsmoothing method for illiquid fund returns using hedge fund and private commercial real estate data—showing that standard one-step unsmoothing removes fund-level autocorrelation but leaves systematic aggregate risk smoothed, while the three-step approach raises measured volatility and factor R^2, lowers alphas and Sharpe ratios, and reveals that much apparent illiquid-fund performance reflects hidden systematic risk rather than true alpha. "
