@@ -1,3 +1,7 @@
+- title: "Bourlès, Bramoullé, and Perez-Richet (Econometrica, 2017) - Altruism in Networks"
+  file: "Bourles_Bramoulle_PerezRichet_Econometrica_2017.pdf"
+  desc: "This note summarizes the paper, which develops a network model of altruistic private transfers where agents care about neighbors’ utility and choose bilateral gifts—showing that Nash equilibria solve a concave potential problem, transfers flow through least-cost altruistic paths, equilibrium transfer graphs are acyclic and generically forests, and redistribution or stronger altruistic links can sometimes increase inequality, implying that private redistribution depends on the geometry of the altruism network rather than only on income gaps or direct caring ties."
+
 - title: "Hou, Sarno & Ye (JFE, 2025) - The Trade Imbalance Network and Currency Returns"
   file: "Hou_Sarno_Ye_JFE_2025.pdf"
   desc: "This note summarizes the paper, which extends a limited-commitment intermediary model to a directed global trade-imbalance network and builds a Leontief-inverse Centrality-Based Characteristic for currency pricing—showing that currencies more central in the network of global deficits and surpluses earn higher excess returns not because of their own imbalance alone but because of neighborhood and indirect imbalance exposures, implying that currency risk premia reflect network-based balance-sheet complexity faced by global financiers."
