@@ -1,3 +1,7 @@
+- title: "Fisher, Gavazza, Liu, Ramadorai & Tripathy (JFE, 2024) - Refinancing Cross-Subsidies in the Mortgage Market"
+  file: "Fisher_Gavazza_Liu_Ramadorai_Tripathy_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses UK FCA administrative mortgage data and a structural model of dual-rate mortgage demand and refinancing to measure hidden cross-subsidies from refinancing frictions—showing that inactive borrowers who remain on high reset rates subsidize active refinancers who obtain low discounted rates, with poorer households and less wealthy regions paying more while richer borrowers benefit more, implying that household-finance product design can create regressive redistribution even without explicit fees or taxes."
+
 - title: "Mian & Sufi (QJE, 2009) - The Consequences of Mortgage Credit Expansion: Evidence from the U.S. Mortgage Default Crisis"
   file: "Mian_Sufi_QJE_2009.pdf"
   desc: "This note summarizes the paper, which uses ZIP-code-level mortgage, credit-score, income, default, house-price, and securitization data to study the pre-crisis U.S. mortgage credit boom—showing that high-subprime-share neighborhoods received disproportionate mortgage credit growth from 2002 to 2005 despite weak income and employment growth, then experienced sharp default increases after 2005, implying that the mortgage crisis was driven by a securitization-linked credit supply expansion to high-risk borrowers rather than by improving borrower fundamentals. "
