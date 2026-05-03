@@ -39,7 +39,6 @@ hide_name: true
 - **[Micro](materials/micro/)**
 - **[Macro](materials/macro/)** 
 - **[Econometrics](materials/econometrics/)** 
-- **[Stata](materials/stata/)** 
 - **[Math Foundations](materials/math-foundations/)**
 - **[TFP Measurement](materials/tfp-measurement/)** 
 - **[Empirical IO](materials/eio/)**
