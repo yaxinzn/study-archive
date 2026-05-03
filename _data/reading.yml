@@ -1,3 +1,7 @@
+- title: "Hendricks, Piccione, and Tan (Econometrica, 1999) - Equilibria in Networks"
+  file: "Hendricks_Piccione_Tan_Econometrica_1999.pdf"
+  desc: "This note summarizes the paper, which models competing carriers’ two-stage choice of transport networks and downstream competition over city-pair travel markets to explain when hub-spoke structures emerge—showing that economies of density make point-to-point service unprofitable, aggressive competition can support monopoly hub-spoke equilibria, softer competition can support competing hub-spoke or even nonhub equilibria, and stronger aversion to long paths restores hub-spoke structure, implying that network architecture is shaped jointly by cost economies, path-length preferences, and competitive intensity."
+
 - title: "Board & Meyer-ter-Vehn (Econometrica, 2021) - Learning Dynamics in Social Networks"
   file: "Board_MeyerterVehn_Econometrica_2021.pdf"
   desc: "This note summarizes the paper, which develops a Bayesian model of innovation diffusion in large social networks and reduces complex updating over neighbors’ adoption decisions to tractable social-learning ODEs—showing that directed tree-like links improve learning and welfare by providing independent information, while undirected links, clustering, and correlation neglect can reduce learning through self-reflection, redundant signals, and excessive pessimism after no adoption, implying that network density helps only when links add independent information rather than correlated feedback."
