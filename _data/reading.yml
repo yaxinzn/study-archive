@@ -1,3 +1,7 @@
+- title: "Huck (RFS, 2024) - The Psychological Externalities of Investing: Evidence from Stock Returns and Crime"
+  file: "Huck_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which uses daily NIBRS crime data, standardized stock-market returns, location-based investor-status proxies, rich agency-level fixed effects, timing tests, local earnings-surprise shocks, and mechanism checks on alcohol, at-home violence, and known offenders to study the psychological externalities of investing—showing that positive market returns reduce violent crime in high-income investor locations but increase it in low-income noninvestor locations, implying that stock-market news affects real behavior through both direct wealth effects and relative-status/social-comparison channels."
+
 - title: "Bianchi, G´omez-Cram & Kung (RFS, 2024) - Using Social Media to Identify the Effects of Congressional Viewpoints on Asset Prices"
   file: "Bianchi_GomezCram_Kung_RFS_2024.pdf"
   desc: "This note summarizes the paper, which uses timestamped U.S. congressional Twitter posts, firm-level tweet matching, tone measures, high-frequency stock prices, committee-meeting data, bill links, and industry-spillover tests to show that supportive versus critical congressional viewpoints move firm stock prices within minutes, persist over daily horizons, and are strongest when tied to legislative activity, implying that politicians’ public social-media communication is a real-time channel through which policy information enters asset prices."
