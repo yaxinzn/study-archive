@@ -11,9 +11,9 @@ hide_name: true
 # Econometrics
 
 ## References
-Angrist, J. D., & Pischke, J.-S. (2009). *Mostly harmless econometrics: An empiricist's companion*. Princeton University Press.
-Hansen, B. E. (2014). Econometrics. University of Wisconsin, Department of Economics. (Revised January 3, 2014)
-Xindi He (2024). Econometrics Notes, https://www.hexindi.com/notes/econometrics
+- ** Angrist, J. D., & Pischke, J.-S. (2009). *Mostly harmless econometrics: An empiricist's companion*. Princeton University Press. **
+- ** Hansen, B. E. (2014). Econometrics. University of Wisconsin, Department of Economics. (Revised January 3, 2014)**
+- ** Xindi He (2024). Econometrics Notes, https://www.hexindi.com/notes/econometrics **
 
 ## Files
 <!-- AUTO-LIST-START -->
