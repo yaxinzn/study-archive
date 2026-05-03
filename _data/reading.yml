@@ -1,3 +1,7 @@
+- title: "Couts, Gonçalves, and Rossi (RFS, 2024) - Unsmoothing Returns of Illiquid Funds"
+  file: "Couts_Goncalves_Rossi_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which develops and tests a three-step unsmoothing method for illiquid fund returns using hedge fund and private commercial real estate data—showing that standard one-step unsmoothing removes fund-level autocorrelation but leaves systematic aggregate risk smoothed, while the three-step approach raises measured volatility and factor R^2, lowers alphas and Sharpe ratios, and reveals that much apparent illiquid-fund performance reflects hidden systematic risk rather than true alpha. "
+
 - title: "Giannetti & Jotikasthira (RFS, 2024) - Bond Price Fragility and the Structure of the Mutual Fund Industry"
   file: "Giannetti_Jotikasthira_RFS_2024.pdf"
   desc: "This note summarizes the paper, which uses corporate bond mutual fund holdings, TRACE bond prices, flow-induced fire-sale measures, fund merger IVs, and the Fed’s SMCCF intervention to study how ownership concentration affects bond-market fragility—showing that funds sell less of bonds in which they own large shares, especially during turmoil and when price-impact concerns are stronger, implying that concentrated ownership can stabilize bond prices by making large funds internalize fire-sale externalities and reduce spillovers to peer funds."
