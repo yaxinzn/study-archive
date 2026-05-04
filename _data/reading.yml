@@ -1,3 +1,7 @@
+- title: "Farronato and Fradkin (AER, 2022) - The Welfare Effects of Peer Entry: The Case of Airbnb and the Accommodation Industry"
+  file: "Farronato_Fradkin_AER_2022.pdf"
+  desc: "This note summarizes the paper, which uses Airbnb platform data, STR hotel data, travel-demand shifters, reduced-form entry and hotel-outcome regressions, and a structural model of differentiated accommodation demand, Cournot hotel supply, and elastic peer-host supply to estimate the welfare effects of Airbnb entry—showing that peer hosts provide flexible capacity when hotel capacity is scarce, generating large consumer and host surplus while reducing hotel profits, implying that platform-enabled peer production is most valuable when it mobilizes idle supply during peak-demand periods."
+
 - title: "Brunetti, Harris, Mankad, and Michailidis (JFE, 2019) - Interconnectedness in the Interbank Market"
   file: "Brunetti_Harris_Mankad_Michailidis_JFE_2019.pdf"
   desc: "This note summarizes the paper, which compares European bank interconnectedness measured by stock-return Granger-causality correlation networks and observed e-MID interbank lending networks—showing that during the financial crisis banks became more connected in equity-return space but less connected in actual lending relationships, while physical networks responded more quickly to ECB liquidity interventions and forecasted macro-financial stress, implying that systemic comovement and funding-liquidity breakdown are distinct forms of financial interconnectedness that regulators must monitor jointly."
