@@ -1,3 +1,7 @@
+- title: "Kinnan & Townsend (AER P&P, 2012) - Kinship and Financial Networks, Formal Financial Access, and Risk Reduction"
+  file: "Kinnan_Townsend_AERPP_2012.pdf"
+  desc: "This note summarizes the paper, which uses Townsend Thai Monthly Survey household data, village financial networks, direct and indirect bank-access measures, kinship ties, consumption-smoothing regressions, and investment-cash-flow sensitivity tests to show that formal financial networks, including indirect paths to banks, smooth consumption shocks, while kinship networks reduce investment constraints for large opportunities, implying that different networks insure different household risks and that direct bank use understates the reach of formal finance."
+
 - title: "Farronato and Fradkin (AER, 2022) - The Welfare Effects of Peer Entry: The Case of Airbnb and the Accommodation Industry"
   file: "Farronato_Fradkin_AER_2022.pdf"
   desc: "This note summarizes the paper, which uses Airbnb platform data, STR hotel data, travel-demand shifters, reduced-form entry and hotel-outcome regressions, and a structural model of differentiated accommodation demand, Cournot hotel supply, and elastic peer-host supply to estimate the welfare effects of Airbnb entry—showing that peer hosts provide flexible capacity when hotel capacity is scarce, generating large consumer and host surplus while reducing hotel profits, implying that platform-enabled peer production is most valuable when it mobilizes idle supply during peak-demand periods."
