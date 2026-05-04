@@ -1,3 +1,7 @@
+- title: "Brunetti, Harris, Mankad, and Michailidis (JFE, 2019) - Interconnectedness in the Interbank Market"
+  file: "Brunetti_Harris_Mankad_Michailidis_JFE_2019.pdf"
+  desc: "This note summarizes the paper, which compares European bank interconnectedness measured by stock-return Granger-causality correlation networks and observed e-MID interbank lending networks—showing that during the financial crisis banks became more connected in equity-return space but less connected in actual lending relationships, while physical networks responded more quickly to ECB liquidity interventions and forecasted macro-financial stress, implying that systemic comovement and funding-liquidity breakdown are distinct forms of financial interconnectedness that regulators must monitor jointly."
+
 - title: "Hong & Xu (JFE, 2019) - Inferring Latent Social Networks from Stock Holdings"
   file: "Hong_Xu_JFE_2019.pdf"
   desc: "This note summarizes the paper, which develops a portfolio-choice and overdispersed network-count model to infer fund managers’ latent city-level social connections from mutual fund stock holdings—showing that managers’ holdings reveal non-random city-specific networks, that inferred relative propensity to connect predicts observed alumni links with corporate officials, and that high-connection city positions outperform low-connection positions, implying that portfolio holdings can reveal hidden information networks that are both socially meaningful and return-relevant."
