@@ -1,3 +1,7 @@
+- title: "Chevalier & Ellison (QJE, 1999) - Career Concerns of Mutual Fund Managers"
+  file: "Chevalier_Ellison_QJE_1999.pdf"
+  desc: "This note summarizes the paper, which uses Morningstar mutual fund manager data, Jensen alpha, manager age, termination and promotion outcomes, portfolio-risk and sector-deviation measures, investor-flow tests, and career-outcome regressions to study how career concerns shape delegated portfolio management—showing that younger managers face stronger downside termination risk for poor performance and failed unconventional choices, take less unsystematic risk, and herd more toward conventional portfolios, implying that internal labor-market incentives can make fund managers conservative even when bold active bets might generate upside."
+
 - title: "Arieli, Babichenko, Peretz, and Young (Econometrica, 2020) - The Speed of Innovation Diffusion in Social Networks"
   file: "Arieli_Babichenko_Peretz_Young_Econometrica_2020.pdf"
   desc: "This note summarizes the paper, which develops a topology-free theory of innovation diffusion in arbitrary, directed, irregular, and time-varying social networks under perturbed best-response coordination dynamics—showing that if the response function has a supporting line with positive intercept, random experimentation plus imitation guarantees bounded expected time to reach any target adoption share below the line’s fixed point, implying that diffusion speed can be bounded from behavioral primitives even when the social network itself is unknown."
