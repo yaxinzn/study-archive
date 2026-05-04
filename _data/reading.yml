@@ -1,3 +1,7 @@
+- title: "Ostrovsky (AER, 2008) - Stability in Supply Chain Networks"
+  file: "Ostrovsky_AER_2008.pdf"
+  desc: "This note summarizes the paper, which extends stable matching theory to vertical supply-chain networks with bilateral contracts, upstream–downstream chains, same-side substitutability, and cross-side complementarity—showing that chain-stable networks exist, can be constructed through a fixed-point T-algorithm, and have supplier- and consumer-optimal extremes with standard comparative statics, implying that the core logic of two-sided matching survives in richer production networks when blocking deviations follow the supply-chain direction."
+
 - title: "Freund & Özden (AER, 2008) - Trade Policy and Loss Aversion"
   file: "Freund_Ozden_AER_2008.pdf"
   desc: "This note summarizes the paper, which embeds reference dependence and loss aversion into a Grossman–Helpman lobbying model and uses U.S. hot-rolled steel price evidence to explain declining-industry protection—showing that when world price declines push an industry below its reference point, governments may use compensating protection to stabilize domestic prices, but protection eventually weakens as the industry shrinks, implying that behavioral loss aversion can explain contingent trade barriers better than standard lobbying models alone."
