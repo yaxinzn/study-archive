@@ -9,9 +9,3 @@ hide_name: true
 ---
 
 # Asset Pricing (Empirical)
-
-## Files
-<!-- AUTO-LIST-START -->
-- **[DSAP1.pdf](DSAP1.pdf)**
-- **[DSAP_Structure.pdf](DSAP_Structure.pdf)**
-<!-- AUTO-LIST-END -->
