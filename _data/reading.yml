@@ -1,3 +1,7 @@
+- title: "Berger, Milbradt, Tourre, and Vavra (AER: Insights, 2025) - Optimal Mortgage Refinancing with Inattention"
+  file: "Berger_Milbradt_Tourre_Vavra_AERInsight_2025.pdf"
+  desc: "This note summarizes the paper, which develops an optimal fixed-rate mortgage refinancing model with fixed costs, Poisson attention, Brownian mortgage-rate dynamics, closed-form rate-gap thresholds, ergodic rate-gap distributions, and a sufficient-statistic mapping to Fannie Mae SFLP data—showing that inattentive borrowers should refinance at lower rate gaps when they finally pay attention and that this benchmark explains many apparent refinancing “mistakes,” implying that household refinancing behavior should be evaluated against an inattention-adjusted optimal rule rather than the perfect-attention ADL threshold."
+
 - title: "Opp, Opp, and Harris (JFE, 2013) - Rating agencies in the face of regulation"
   file: "Opp_Opp_Harris_JFE_2013.pdf"
   desc: "This note summarizes the paper, which develops a theory of credit rating agencies under rating-contingent regulation where agencies choose costly information production, disclosure inflation, and fees—showing that when regulatory benefits attached to A-ratings are large enough, agencies switch from truthful certification to broad rating inflation with zero information acquisition, implying that rating failures can arise from the interaction of public regulation and private certification incentives rather than only from naive investors or issuer-pays conflicts."
