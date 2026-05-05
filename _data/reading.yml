@@ -1,3 +1,7 @@
+- title: "Barber & Odean (QJE, 2001) - Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment"
+  file: "Barber_Odean_QJE_2001.pdf"
+  desc: "This note summarizes the paper, which uses large discount-brokerage household trading records, gender as a proxy for overconfidence, turnover measures, own-benchmark abnormal returns, married-versus-single comparisons, demographic controls, risk-adjusted return regressions, and buy-versus-sell security-selection tests to show that men trade substantially more than women and lose more net performance from trading, implying that overconfidence can generate excessive costly trading rather than superior investment skill."
+
 - title: "Seru, Shumway, and Stoffman (RFS, 2010) - Learning by Trading"
   file: "Seru_Shumway_Stoffman_RFS_2010.pdf"
   desc: "This note summarizes the paper, which uses Finnish individual-investor transaction and holdings data, purchase-level return measures, investor-year disposition-effect estimates, experience measures, fixed effects, survival/attrition corrections, heterogeneity tests, trading-intensity regressions, and risk-taking analysis to study whether investors learn by trading—showing that simple experience regressions overstate learning because low-performing traders exit, while surviving investors trade more intensively, reduce costly disposition behavior, and take less factor risk, implying that improved performance among experienced traders reflects both learning by doing and selection through learning about ability."
