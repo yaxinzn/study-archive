@@ -1,3 +1,7 @@
+- title: "Stambaugh, Yu, and Yuan (JF, 2015) - Arbitrage Asymmetry and the Idiosyncratic Volatility Puzzle"
+  file: "Stambaugh_Yu_Yuan_JF_2015.pdf"
+  desc: "This note summarizes the paper, which uses U.S. stock returns, Ang et al.-style idiosyncratic volatility, a composite mispricing measure from 11 anomalies, double sorts by mispricing and IVOL, institutional ownership as a shorting-ease proxy, Baker–Wurgler sentiment, predictive sentiment regressions, macro controls, and market-cap exclusion tests to explain the IVOL puzzle—showing that high-IVOL overpriced stocks underperform strongly while high-IVOL underpriced stocks outperform more weakly, implying that the negative IVOL-return relation reflects mispricing protected by asymmetric limits to arbitrage, especially short-sale constraints."
+
 - title: "Welch & Goyal (RFS, 2008) - A Comprehensive Look at the Empirical Performance of Equity Premium Prediction"
   file: "Welch_Goyal_RFS_2008.pdf"
   desc: "This note summarizes the paper, which evaluates a broad set of published equity-premium predictors using common data definitions, recursive out-of-sample forecasting, forecast-error statistics, bootstrap inference, Campbell–Thompson restrictions, long-horizon tests, persistence corrections, and encompassing regressions—showing that most predictors perform poorly or unstably out of sample relative to the historical average benchmark, implying that aggregate return predictability is fragile and should be judged by real-time forecasting performance rather than in-sample fit."
