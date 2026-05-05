@@ -1,3 +1,7 @@
+- title: "Kisgen (JF, 2006) - Credit Ratings and Capital Structure"
+  file: "Kisgen_JF_2006.pdf"
+  desc: "This note summarizes the paper, which uses rated Compustat firms, net debt-minus-equity issuance, plus/minus rating proximity, credit-score proximity within rating categories, broad-rating and investment-grade threshold tests, and nested pecking-order/tradeoff regressions to study whether credit ratings directly shape capital structure—showing that firms near upgrades or downgrades issue less debt relative to equity than otherwise similar firms, implying that credit ratings are not only outcomes of financing choices but discrete managerial constraints that affect corporate debt issuance."
+
 - title: "Duflo & Saez (QJE, 2003) - The Role of Information and Social Interactions in Retirement Plan Decisions: Evidence from a Randomized Experiment"
   file: "Duflo_Saez_QJE_2003.pdf"
   desc: "This note summarizes the paper, which uses a randomized two-stage encouragement experiment at a university benefits fair, with department-level treatment, individual $20 attendance letters, reduced-form treatment comparisons, IV interpretations, complier-type decompositions, and heterogeneous-effect tests to study information and social interactions in retirement saving—showing that letters strongly increase fair attendance but department-level exposure raises TDA enrollment almost as much as direct treatment, implying that retirement-plan decisions respond to socially mediated information and attention channels, even though the exact mechanism is hard to separate."
