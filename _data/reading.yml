@@ -1,3 +1,7 @@
+- title: "Hou, Xue, and Zhang (RFS, 2015) - Digesting Anomalies: An Investment Approach"
+  file: "Hou_Xue_Zhang_RFS_2015.pdf"
+  desc: "This note summarizes the paper, which develops and tests a four-factor q-factor model based on market, size, investment, and profitability factors across nearly 80 anomalies, NYSE-breakpoint anomaly portfolios, factor regressions, GRS tests, factor-loading diagnostics, size-B/M portfolios, and Sharpe-ratio comparisons—showing that many anomaly returns are absorbed by investment and profitability exposures, though short-horizon momentum and some accrual effects remain difficult, implying that the anomaly zoo can be partly organized by a compact investment-based asset-pricing framework."
+
 - title: "Stambaugh, Yu, and Yuan (JF, 2015) - Arbitrage Asymmetry and the Idiosyncratic Volatility Puzzle"
   file: "Stambaugh_Yu_Yuan_JF_2015.pdf"
   desc: "This note summarizes the paper, which uses U.S. stock returns, Ang et al.-style idiosyncratic volatility, a composite mispricing measure from 11 anomalies, double sorts by mispricing and IVOL, institutional ownership as a shorting-ease proxy, Baker–Wurgler sentiment, predictive sentiment regressions, macro controls, and market-cap exclusion tests to explain the IVOL puzzle—showing that high-IVOL overpriced stocks underperform strongly while high-IVOL underpriced stocks outperform more weakly, implying that the negative IVOL-return relation reflects mispricing protected by asymmetric limits to arbitrage, especially short-sale constraints."
