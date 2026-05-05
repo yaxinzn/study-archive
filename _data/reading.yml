@@ -1,3 +1,7 @@
+- title: "Griffin & Tang (JF, 2012) - Did Subjectivity Play a Role in CDO Credit Ratings?"
+  file: "Griffin_Tang_JF_2012.pdf"
+  desc: "This note summarizes the paper, which uses direct data from a major credit rating agency’s CDO model outputs, final AAA tranche sizes, AAA adjustment measures, default-rate criterion deviations, downgrade regressions, hazard models, Monte Carlo comparisons, and valuation calculations to test whether subjectivity inflated structured-finance ratings—showing that actual AAA fractions systematically exceeded model-implied AAA fractions, especially when the model supported little AAA, and that larger adjustments predicted worse subsequent downgrades, implying that CDO rating inflation reflected discretionary rating-process choices rather than purely mechanical model outputs or superior qualitative information."
+
 - title: "Barber & Odean (QJE, 2001) - Boys Will Be Boys: Gender, Overconfidence, and Common Stock Investment"
   file: "Barber_Odean_QJE_2001.pdf"
   desc: "This note summarizes the paper, which uses large discount-brokerage household trading records, gender as a proxy for overconfidence, turnover measures, own-benchmark abnormal returns, married-versus-single comparisons, demographic controls, risk-adjusted return regressions, and buy-versus-sell security-selection tests to show that men trade substantially more than women and lose more net performance from trading, implying that overconfidence can generate excessive costly trading rather than superior investment skill."
