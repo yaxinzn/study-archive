@@ -1,3 +1,7 @@
+- title: "Cornaggia & Cornaggia (RFS, 2013) - Estimating the Costs of Issuer-Paid Credit Ratings"
+  file: "Cornaggia_Cornaggia_RFS_2013.pdf"
+  desc: "This note summarizes the paper, which compares Moody’s issuer-paid credit ratings with Rapid Ratings’ subscriber-paid Financial Health Ratings using overlapping issuer/bond samples, rating-scale mappings, reversal rates, timeliness gaps, loss-avoidance price tests, calibrated FHR thresholds, and accuracy ratios to estimate the cost of ratings stability—showing that Moody’s ratings are less volatile but much slower to identify default risk, while Rapid Ratings gives earlier downgrade signals that preserve bond value and better rank future defaults, implying that issuer-paid ratings’ stability bias can create economically meaningful delayed-warning costs for investors and rating-dependent contracts."
+
 - title: "Kisgen (JF, 2006) - Credit Ratings and Capital Structure"
   file: "Kisgen_JF_2006.pdf"
   desc: "This note summarizes the paper, which uses rated Compustat firms, net debt-minus-equity issuance, plus/minus rating proximity, credit-score proximity within rating categories, broad-rating and investment-grade threshold tests, and nested pecking-order/tradeoff regressions to study whether credit ratings directly shape capital structure—showing that firms near upgrades or downgrades issue less debt relative to equity than otherwise similar firms, implying that credit ratings are not only outcomes of financing choices but discrete managerial constraints that affect corporate debt issuance."
