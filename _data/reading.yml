@@ -1,3 +1,7 @@
+- title: "Loughran & McDonald (JF, 2011) - When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks"
+  file: "Loughran_McDonald_JF_2011.pdf"
+  desc: "This note summarizes the paper, which uses 50,115 10-K filings, Harvard-IV versus finance-specific word lists, proportional and TF-IDF word counts, filing-window return regressions, MD&A-only tests, additional uncertainty/litigious/modal dictionaries, fraud and internal-control logit models, and standardized unexpected earnings tests to show that generic sentiment dictionaries misclassify common financial terms while finance-specific dictionaries better capture economically meaningful tone, implying that credible financial textual analysis requires domain-specific word lists and careful term weighting."
+
 - title: "Bybee, Kelly, Manela, and Xiu (JF, 2024) - Business News and Business Cycles"
   file: "Bybee_Kelly_Manela_Xiu_JF_2024.pdf"
   desc: "This note summarizes the paper, which uses roughly 800,000 Wall Street Journal articles, LDA topic modeling, monthly topic-attention indices, active-set lasso reconstruction, text-augmented VARs, group-lasso topic selection, online-LDA robustness, narrative retrieval, and market-timing regressions to show that business news topics—especially recession attention—track and forecast macroeconomic, financial, and industry outcomes, implying that high-dimensional news text can serve as interpretable economic data for measuring business-cycle narratives and predicting macro-finance dynamics."
