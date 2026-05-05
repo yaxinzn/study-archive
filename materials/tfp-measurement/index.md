@@ -10,16 +10,6 @@ hide_name: true
 
 # TFP Measurement
 
-## Purpose
-This section consolidates coherent frameworks and practical workflows for measuring total factor productivity (TFP) in firm- and plant-level data. The focus is on identification (simultaneity and selection), measurement (prices/deflators and input construction), and implementation choices (proxy/control-function estimators and robustness checks).
-
-## Core topics
-- **Production-function estimation:** the residual interpretation of TFP; simultaneity/endogeneity; selection and attrition
-- **Proxy/control-function estimators:** OP, LP, ACF; proxy variables (investment/materials); timing assumptions; two-step estimation logic
-- **Data construction:** deflators; value added vs gross output; capital measurement; labor quality; intermediate inputs and classification
-- **Diagnostics and robustness:** monotonicity/invertibility; weak identification; sensitivity to proxy choice, polynomial order, and deflators; alternative specifications (VA vs GO)
-- **Outputs and downstream use:** firm/plant TFP series; industry aggregates; dispersion; reallocation decompositions; using TFP in second-stage analyses
-
 ## Files
 <!-- AUTO-LIST-START -->
 - **[Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf](Derivation_of_the_Hsieh__Klenow__HK__Framework.pdf)**
