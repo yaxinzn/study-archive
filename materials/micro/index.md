@@ -16,4 +16,6 @@ He, X. (2026). *Microeconomics*. [https://www.hexindi.com/notes/econometrics](ht
 
 ## Files
 <!-- AUTO-LIST-START -->
+- **[week1/](week1/)**
+- **[week2/](week2/)**
 <!-- AUTO-LIST-END -->
