@@ -1,3 +1,7 @@
+- title: "Opp, Opp, and Harris (JFE, 2013) - Rating agencies in the face of regulation"
+  file: "Opp_Opp_Harris_JFE_2013.pdf"
+  desc: "This note summarizes the paper, which develops a theory of credit rating agencies under rating-contingent regulation where agencies choose costly information production, disclosure inflation, and fees—showing that when regulatory benefits attached to A-ratings are large enough, agencies switch from truthful certification to broad rating inflation with zero information acquisition, implying that rating failures can arise from the interaction of public regulation and private certification incentives rather than only from naive investors or issuer-pays conflicts."
+
 - title: "Blickle, Brunnermeier & Luck (RFS, 2024) - Who Can Tell Which Banks Will Fail?"
   file: "Blickle_Brunnermeier_Luck_RFS_2024.pdf"
   desc: "This note summarizes the paper, which uses newly digitized monthly balance sheets from the 1931 German banking crisis, deposit-flow decompositions by regular versus interbank depositors, failure-prediction regressions, AUC tests, interbank-market functioning regressions, foreign-deposit exposure, and stock-price evidence to study who could identify failing banks—showing that regular depositors ran broadly while interbank depositors selectively withdrew from banks that later failed and continued lending to surviving banks, implying that interbank markets can reveal superior information and allocate liquidity rather than simply freeze during systemic runs."
