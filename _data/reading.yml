@@ -1,3 +1,7 @@
+- title: "Bybee, Kelly, Manela, and Xiu (JF, 2024) - Business News and Business Cycles"
+  file: "Bybee_Kelly_Manela_Xiu_JF_2024.pdf"
+  desc: "This note summarizes the paper, which uses roughly 800,000 Wall Street Journal articles, LDA topic modeling, monthly topic-attention indices, active-set lasso reconstruction, text-augmented VARs, group-lasso topic selection, online-LDA robustness, narrative retrieval, and market-timing regressions to show that business news topics—especially recession attention—track and forecast macroeconomic, financial, and industry outcomes, implying that high-dimensional news text can serve as interpretable economic data for measuring business-cycle narratives and predicting macro-finance dynamics."
+
 - title: "Cetorelli & Goldberg (JF, 2012) - Banking Globalization and Monetary Transmission"
   file: "Cetorelli_Goldberg_JF_2012.pdf"
   desc: "This note summarizes the paper, which uses U.S. Call Report bank data, global-versus-domestic bank classifications, liquidity-based lending-channel regressions, small-affiliate comparisons, Net Due internal funding measures, foreign-office lending tests, and crisis-period evidence to study how banking globalization changes monetary transmission—showing that global banks use cross-border internal capital markets to insulate U.S. domestic lending from monetary tightening while reducing foreign-office lending, implying that monetary policy shocks are not eliminated by global banking but transmitted internationally through banks’ internal balance-sheet networks."
