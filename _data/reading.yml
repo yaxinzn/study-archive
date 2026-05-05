@@ -1,3 +1,7 @@
+- title: "Gieczewski & Kosterina (RES, 2024) - Experimentation in Endogenous Organizations"
+  file: "Gieczewski_Kosterina_RES_2024.pdf"
+  desc: "This note summarizes the paper, which develops a theory of collective experimentation with endogenous organizational membership, Bayesian learning from failures, exit-based member selection, median-member voting, perpetual versus finite experimentation equilibria, public-news and heterogeneous-payoff extensions, and shareholder-control comparisons to show that bad news can make organizations more committed to failing risky policies by causing sceptics to exit and leaving optimists in control, implying that exit can undermine voice and generate excessive organizational persistence or radicalization."
+
 - title: "Loughran & McDonald (JF, 2011) - When Is a Liability Not a Liability? Textual Analysis, Dictionaries, and 10-Ks"
   file: "Loughran_McDonald_JF_2011.pdf"
   desc: "This note summarizes the paper, which uses 50,115 10-K filings, Harvard-IV versus finance-specific word lists, proportional and TF-IDF word counts, filing-window return regressions, MD&A-only tests, additional uncertainty/litigious/modal dictionaries, fraud and internal-control logit models, and standardized unexpected earnings tests to show that generic sentiment dictionaries misclassify common financial terms while finance-specific dictionaries better capture economically meaningful tone, implying that credible financial textual analysis requires domain-specific word lists and careful term weighting."
