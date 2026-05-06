@@ -1,3 +1,7 @@
+- title: "Fama & French (JF, 1992) - The Cross-Section of Expected Stock Returns"
+  file: "Fama_French_JF_1992.pdf"
+  desc: "This note summarizes the paper, which uses CRSP–Compustat nonfinancial stocks, size and beta portfolio sorts, book-to-market, leverage and earnings-price measures, NYSE breakpoints, and monthly Fama–MacBeth regressions to test the CAPM cross-section—showing that market beta has little power to explain average returns once size and book-to-market are considered, while small firms and high book-to-market firms earn higher returns, implying that expected stock returns are better captured by size and value characteristics than by single-factor market beta."
+
 - title: "Ben-David, Li, Rossi, and Song (RFS, 2022) - What Do Mutual Fund Investors Really Care About?"
   file: "BenDavid_Li_Rossi_Song_RFS.pdf"
   desc: "This note summarizes the paper, which uses active U.S. equity fund flows, passive index-fund falsification tests, Morningstar ratings, unadjusted and model-adjusted performance measures, aggregate and cross-sectional flow regressions, horse races among alpha and simple return signals, the 2002 Morningstar rating reform, and replications of prior learning tests to show that mutual fund investors mainly chase salient unadjusted returns and star ratings rather than sophisticated asset-pricing alphas, implying that the flow-performance relation reflects simple performance chasing more than Bayesian learning about manager skill."
