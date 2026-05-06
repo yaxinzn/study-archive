@@ -1,3 +1,7 @@
+- title: "Jones (AER: Insights, 2024) - The AI Dilemma: Growth versus Existential Risk"
+  file: "Jones_AERInsight_2024.pdf"
+  desc: "This note summarizes the paper, which develops calibrated static and dynamic welfare models of AI-enabled growth versus existential risk, using CRRA utility, value-of-life calibration, social discounting, mortality improvements, singularity cases, and existential-risk cutoffs to show that pure consumption gains can justify large AI risks under log utility but much less under bounded utility, while AI-driven longevity gains can substantially raise acceptable risk thresholds, implying that AI policy depends critically on how society values consumption, life, future generations, and mortality reduction."
+
 - title: "Hayek (AER, 1945) - The Use of Knowledge in Society"
   file: "Hayek_AER_1945.pdf"
   desc: "This note summarizes the paper, which develops a conceptual theory of the economic problem as the use of dispersed, local, tacit, and changing knowledge, contrasts centralized and decentralized planning, explains prices as compressed signals of relative scarcity through examples such as tin, and critiques equilibrium analysis for assuming away the knowledge problem—showing that markets coordinate individual plans not by making everyone fully informed but by economizing on information, implying that prices are a communication mechanism for using knowledge no single mind possesses."
