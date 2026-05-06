@@ -1,3 +1,7 @@
+- title: "dAstous & Shore (JFE, 2024) - Human Capital Risk and Portfolio Choices: Evidence from University Admission Discontinuities"
+  file: "dAstous_Shore_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses Danish university admission cutoffs, reach-versus-safety program discontinuities, program-level earnings-risk measures, IV/RD-style first stages, portfolio-choice regressions, robustness to bandwidth and controls, and a calibrated risky-labor-income portfolio model to show that exogenously higher permanent earnings volatility reduces stock-market participation and risky-asset shares, implying that human-capital risk causally lowers household financial risk-taking and that raw correlations are biased by selection into risky careers and risky portfolios."
+
 - title: "Herkenhoff, Lise, Menzio, and Phillips (Econometrica, 2024) - Production and Learning in Teams"
   file: "Herkenhoff_Lise_Menzio_Phillips_Econometrica_2024.pdf"
   desc: "This note summarizes the paper, which uses LEHD matched employer-employee data, employment-unemployment-employment transitions, coworker wage regressions, sorting regressions, education/occupation/age heterogeneity, stayer-versus-mover comparisons, and a calibrated search model with team production and human-capital accumulation to show that workers learn substantially from higher-quality coworkers while lower-quality coworkers do not symmetrically reduce learning, implying that workplace sorting shapes both current production and future human-capital growth."
