@@ -1,3 +1,7 @@
+- title: "Ersahin, Giannetti & Huang (JFE, 2024) - Trade Credit and the Stability of Supply Chains"
+  file: "Ersahin_Giannetti_Huang_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses Compustat–FactSet production-network data, SEC bilateral customer-supplier disclosures, natural-disaster operating shocks, trade-credit measures, difference-in-differences regressions, customer switching-cost tests, disruption and reputation proxies, supply-chain dependence measures, financial-constraint interactions, and supply-chain risk extensions to show that shocked firms receive more trade credit from suppliers and extend more trade credit to customers to preserve relationships, implying that trade credit functions as a network contract that stabilizes supply chains after operating disruptions."
+
 - title: "Jarosch, Oberfield & Rossi-Hansberg (Econometrica, 2021) - Learning From Coworkers"
   file: "Jarosch_Oberfield_RossiHansberg_Econometrica_2021.pdf"
   desc: "This note summarizes the paper, which uses German matched employer-employee data, establishment and occupation team definitions, coworker wage-distribution measures, reduced-form wage-growth regressions, switcher and mass-layoff robustness tests, and a structural competitive labor-market model with latent knowledge and learning functions to show that workers learn substantially more from higher-paid and same-occupation coworkers, implying that coworker learning is a significant component of compensation, shapes wage growth and inequality, and is constrained by how firms form teams."
