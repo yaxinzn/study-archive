@@ -1,3 +1,7 @@
+- title: "Hayek (AER, 1945) - The Use of Knowledge in Society"
+  file: "Hayek_AER_1945.pdf"
+  desc: "This note summarizes the paper, which develops a conceptual theory of the economic problem as the use of dispersed, local, tacit, and changing knowledge, contrasts centralized and decentralized planning, explains prices as compressed signals of relative scarcity through examples such as tin, and critiques equilibrium analysis for assuming away the knowledge problem—showing that markets coordinate individual plans not by making everyone fully informed but by economizing on information, implying that prices are a communication mechanism for using knowledge no single mind possesses."
+
 - title: "Fama & French (JF, 1992) - The Cross-Section of Expected Stock Returns"
   file: "Fama_French_JF_1992.pdf"
   desc: "This note summarizes the paper, which uses CRSP–Compustat nonfinancial stocks, size and beta portfolio sorts, book-to-market, leverage and earnings-price measures, NYSE breakpoints, and monthly Fama–MacBeth regressions to test the CAPM cross-section—showing that market beta has little power to explain average returns once size and book-to-market are considered, while small firms and high book-to-market firms earn higher returns, implying that expected stock returns are better captured by size and value characteristics than by single-factor market beta."
