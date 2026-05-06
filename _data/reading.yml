@@ -1,3 +1,7 @@
+- title: "Coimbra & Rey (RES, 2024) - Financial Cycles with Heterogeneous Intermediaries"
+  file: "Coimbra_Rey_RES_2024.pdf"
+  desc: "This note summarizes the paper, which uses intermediary balance-sheet data, leverage quantiles, interest-rate sensitivity evidence, systemic-risk measures, and a dynamic macro-finance model with heterogeneous VaR-constrained intermediaries, limited liability, endogenous leverage, entry, default options, and monetary/productivity shocks to show that low interest rates can stimulate output while shifting assets toward the most risk-taking intermediaries and raising systemic fragility, implying that monetary policy affects not only aggregate credit but also the cross-sectional allocation of risk across financial intermediaries."
+
 - title: "Bhattacharya, Dupas, and Kanaya (RES, 2024) - Demand and Welfare Analysis in Discrete Choice Models with Social Interactions"
   file: "Bhattacharya_Dupas_Kanaya_RES_2024.pdf"
   desc: "This note summarizes the paper, which develops a discrete-choice framework with social interactions, equilibrium adoption, compensating-variation welfare bounds, semiparametric identification with unobserved group effects, and an ITN subsidy application in rural Kenya to show that social spillovers can be enough to predict counterfactual demand but not enough to point-identify welfare, implying that applied researchers must either justify the mechanism behind peer effects or report welfare bounds rather than directly converting demand estimates into welfare conclusions."
