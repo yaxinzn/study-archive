@@ -1,3 +1,7 @@
+- title: "Jeffers, Lyu, and Posenau (JFE, 2024) - The Risk and Return of Impact Investing Funds"
+  file: "Jeffers_Lyu_Posenau_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses a new cash-flow dataset of private impact investing funds, matched private-market and VC benchmarks, PME/GPME performance measures, PME-wedge risk inference, artificial leverage tests, long-short portfolios, and market, sustainability, and emerging-market SDF models to show that impact funds have lower market-risk exposure and distinct sustainability/emerging-market risk profiles, implying that their financial attractiveness depends on the investor’s benchmark portfolio, risk model, and taste for impact rather than raw returns alone."
+
 - title: "Dow, Han, and Sangiorgi (JFE, 2024) - The Short-Termism Trap: Catering to Informed Investors with Limited Horizons"
   file: "Dow_Han_Sangiorgi_JFE_2024.pdf"
   desc: "This note summarizes the paper, which develops a theoretical model of listed firms, project maturity choice, managerial incentive contracts, scarce informed trading capital, short-horizon investors, price informativeness, listing decisions, strategic complementarity, coordinated benchmarks, and long-term investor extensions to show that firms individually shorten projects to attract informed investors and improve stock-price monitoring, but collectively destroy shareholder value because informed capital is fixed, implying that stock-market governance can create an inefficient short-termism trap through competition for informed attention."
