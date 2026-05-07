@@ -1,3 +1,7 @@
+- title: "Nimalendran, Rzayev & Sagade (JFE, 2024) - High-frequency trading in the stock market and the costs of options market making"
+  file: "Nimalendran_Rzayev_Sagade_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses NASDAQ HFT data, OPRA options transactions, stock-day options bid–ask spreads, liquidity-supplying versus liquidity-demanding HFT measures, put–call parity violation tests, informed-trading proxies around the Rajaratnam arrest, and NASDAQ flash-order IV regressions to show that aggressive stock-market HFT widens options-market spreads through latency arbitrage and informed-trading channels, implying that speed and adverse selection in one market can raise market-making costs in a closely linked derivatives market."
+
 - title: "Diamond, Jiang & Ma (JFE, 2024) - The reserve supply channel of unconventional monetary policy"
   file: "Diamond_Jiang_Ma_JFE_2024.pdf"
   desc: "This note summarizes the paper, which develops and estimates a structural banking model of QE’s reserve-supply channel using deposit, mortgage, corporate loan, and securities/reserve data, demand-system instruments, balance-sheet cost Hessian estimates, TGA reserve-spread shocks, and counterfactual reserve injections to show that QE-created reserves raise banks’ marginal cost of lending and crowd out corporate loans, implying that unconventional monetary policy can stimulate through asset purchases while simultaneously reducing bank lending through the reserves banks must absorb."
