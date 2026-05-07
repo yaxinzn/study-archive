@@ -1,3 +1,7 @@
+- title: "Fuster, Lo, and Willen (JF, 2024) - The Time-Varying Price of Financial Intermediation in the Mortgage Market"
+  file: "Fuster_Lo_Willen_JF_2024.pdf"
+  desc: "This note summarizes the paper, which uses proprietary Optimal Blue mortgage rate sheets, TBA/MBS prices, QE event studies, daily pass-through regressions, application-volume and processing-time measures, MSA-level tests, MBA cost data, and aggregate spending calculations to show that the mortgage intermediation wedge is large, demand-sensitive, capacity-constrained, and upward-trending after the crisis, implying that monetary-policy and capital-market changes reach borrowers only through a time-varying intermediary supply curve rather than full frictionless pass-through."
+
 - title: "Bisetti & Karolyi (Journal of Finance, 2024) - Meeting Targets in Competitive Product Markets"
   file: "Bisetti_Karolyi_JF_2024.pdf"
   desc: "This note summarizes the paper, which uses U.S. bank EPS-surprise data, RateWatch deposit APYs, bunching around analyst EPS targets, In-Spike targeting indicators, deposit-rate and deposit-quantity regressions, event studies, balance-sheet expense validation, EPS counterfactuals, and local competitive-spillover tests to show that public banks cut deposit rates to meet short-term earnings targets, reducing interest expense but causing deposit outflows and competitor rate increases, implying that capital-market pressure affects real consumer pricing and is partly disciplined by product-market competition."
