@@ -1,3 +1,7 @@
+- title: "Fonseca & Liu (JF, 2024) - Mortgage Lock-In, Mobility, and Labor Reallocation"
+  file: "Fonseca_Liu_JF_2024.pdf"
+  desc: "This note summarizes the paper, which uses individual credit-record mortgage data, mortgage-rate deltas between locked-in and current rates, moving and out-of-county mobility outcomes, origination-timing instruments, asymmetry tests, wage-growth opportunity interactions, and business entry/exit regressions to show that fixed-rate mortgage lock-in significantly reduces household mobility and labor reallocation when rates rise, implying that long-term mortgage-rate insurance can create real adjustment frictions in geographic mobility, job transitions, and entrepreneurship."
+
 - title: "Davydiuk, Marchuk & Rosen (JFE, 2024) - Direct lenders in the U.S. middle market"
   file: "Davydiuk_Marchuk_Rosen_JFE_2024.pdf"
   desc: "This note summarizes the paper, which uses hand-collected BDC investment-level data, county-level traditional-credit shocks from SCAP, CIT, and FAS 166/167, difference-in-differences and event-study designs, private-debt comparisons, innovation-county allocation tests, firm-level employment and patenting outcomes, and managerial-attention interactions to show that direct lenders substitute for constrained banks and finance companies after credit-supply contractions, implying that private credit can fill middle-market financing gaps and support real growth, especially for innovative firms."
