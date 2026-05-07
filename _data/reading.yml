@@ -1,3 +1,7 @@
+- title: "Geng & Pan (JF, 2024) - The SOE Premium and Government Support in China’s Credit Market"
+  file: "Geng_Pan_JF_2024.pdf"
+  desc: "This note summarizes the paper, which uses Chinese corporate bond data, SOE versus non-SOE spread regressions, the 2018 asset-management New Regulations as a liquidity shock, a rollover-risk structural model with bailout probability, unified default measures combining fundamentals, liquidity, and government support, price-discovery tests, and real-performance regressions to show that the SOE premium rises sharply when liquidity deteriorates because government support becomes more valuable in preventing liquidity-driven default, implying that implicit guarantees widen credit misallocation and affect real outcomes in China’s credit market."
+
 - title: "Coimbra & Rey (RES, 2024) - Financial Cycles with Heterogeneous Intermediaries"
   file: "Coimbra_Rey_RES_2024.pdf"
   desc: "This note summarizes the paper, which uses intermediary balance-sheet data, leverage quantiles, interest-rate sensitivity evidence, systemic-risk measures, and a dynamic macro-finance model with heterogeneous VaR-constrained intermediaries, limited liability, endogenous leverage, entry, default options, and monetary/productivity shocks to show that low interest rates can stimulate output while shifting assets toward the most risk-taking intermediaries and raising systemic fragility, implying that monetary policy affects not only aggregate credit but also the cross-sectional allocation of risk across financial intermediaries."
