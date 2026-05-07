@@ -1,3 +1,7 @@
+- title: "Diamond, Jiang & Ma (JFE, 2024) - The reserve supply channel of unconventional monetary policy"
+  file: "Diamond_Jiang_Ma_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which develops and estimates a structural banking model of QE’s reserve-supply channel using deposit, mortgage, corporate loan, and securities/reserve data, demand-system instruments, balance-sheet cost Hessian estimates, TGA reserve-spread shocks, and counterfactual reserve injections to show that QE-created reserves raise banks’ marginal cost of lending and crowd out corporate loans, implying that unconventional monetary policy can stimulate through asset purchases while simultaneously reducing bank lending through the reserves banks must absorb."
+
 - title: "Altermatt, van Buggenum & Voellmy (JFE, 2024) - Systemic bank runs without aggregate risk: How a misallocation of liquidity may trigger a solvency crisis"
   file: "Altermatt_vanBuggenum_Voellmy_JFE_2024.pdf"
   desc: "This note summarizes the paper, which develops a general-equilibrium theory of systemic bank runs without aggregate fundamental risk, linking deposits’ payment role, liquidity misallocation, goods demand, entrepreneurial loan repayment, deposit freezes, redemption penalties, and emergency liquidity policies to show that a run can endogenously turn a payment/liquidity disruption into bank insolvency, implying that effective run prevention must preserve impatient consumers’ spending capacity and borrowers’ repayment ability rather than merely restricting withdrawals."
