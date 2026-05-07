@@ -1,3 +1,7 @@
+- title: "Kuong, O’Donovan, and Zhang (JFE, 2024) - Monetary Policy and Fragility in Corporate Bond Mutual Funds"
+  file: "Kuong_ODonovan_Zhang_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses corporate bond mutual fund flows, Federal Funds Target rate changes, Eurodollar futures around FOMC meetings, NAV staleness measures, event-window outflow regressions, NAV predictability tests, liquidity interactions, and a model of strategic redemption from stale NAVs to show that monetary tightening can induce fund fragility when policy news makes stale fund shares temporarily overpriced, implying that corporate bond mutual fund outflows depend jointly on monetary-policy news, NAV staleness, market liquidity, and redemption externalities."
+
 - title: "Andrews, Colacito, Croce, and Gavazzoni (JFE, 2024) - Concealed Carry"
   file: "Andrews_Colacito_Croce_Gavazzoni_JFE_2024.pdf"
   desc: "This note summarizes the paper, which studies G10 traditional currency carry and yield-curve slope carry using short-rate and slope-sorted portfolios, exchange-rate decompositions, OECD global growth and inflation expectations, country-level exposure regressions, recursive-preference international asset-pricing calibration, entropy/predictability tests, the post-2008 regime shift, and the 1975–1985 inflation episode to show that traditional carry is mainly tied to global growth risk while slope carry reflects a concealed, regime-dependent global inflation-risk premium that becomes strongly positive when expected global inflation is low."
