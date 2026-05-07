@@ -1,3 +1,7 @@
+- title: "Reher & Valkanov (JF, 2024) - The Mortgage-Cash Premium Puzzle"
+  file: "Reher_Valkanov_JF_2024.pdf"
+  desc: "This note summarizes the paper, which uses Zillow ZTRAX repeat-sales transactions, Redfin offer-level data, seller/buyer/property controls, robustness designs, representative-seller and heterogeneous-seller models, and homeowner survey experiments to show that mortgage-financed buyers pay an 11%–12% premium over comparable all-cash buyers because mortgage offers impose failure, delay, and relisting risks on sellers, implying that housing prices contain a large mortgage-cash wedge driven by transaction frictions, seller conditions, and ambiguity about financing risk."
+
 - title: "Che, Choe, and Rhee (JF, 2024) - Bailout Stigma"
   file: "Che_Choe_Rhee_JF_2024.pdf"
   desc: "This note summarizes the paper, which develops a two-period adverse-selection model of transparent government bailouts, legacy-asset sales, bailout participation as a public signal, short-lived versus delayed stimulation equilibria, secret-bailout benchmarks, cutoff structures, and optimal bailout design to show that public aid can stigmatize recipients and worsen future market freezes, implying that bailout policy is also information design and that secrecy or a single generous transparent offer may dominate complex bailout menus."
