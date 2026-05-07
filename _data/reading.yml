@@ -1,3 +1,7 @@
+- title: "Filippou, Maurer, Pezzo & Taylor (JFE, 2024) - Importance of Transaction Costs for Asset Allocation in Foreign Exchange Markets"
+  file: "Filippou_Maurer_Pezzo_Taylor_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses 26-currency FX data, bid–ask spreads, realized-Amihud price-impact measures, volume extrapolation, before- and after-cost return calculations, fund-size experiments, and mean–variance-transaction-cost optimization to show that proportional transaction costs are modest but price-impact costs from large trades can make popular FX strategies unprofitable at institutional scale, implying that currency asset allocation must treat transaction costs and strategy capacity as central parts of portfolio design rather than after-the-fact deductions."
+
 - title: "Doshi, Jacobs, and Liu (JFE, 2024) - Modeling Volatility in Dynamic Term Structure Models"
   file: "Doshi_Jacobs_Liu_JFE_2024.pdf"
   desc: "This note summarizes the paper, which develops no-arbitrage dynamic term-structure models with GARCH volatility factors, estimates them on monthly Treasury yields, compares conditional yield volatility against realized and EGARCH benchmarks, tests Campbell–Shiller risk-premium implications, and evaluates out-of-sample Treasury futures option pricing—showing that modeling volatility through lagged squared yield-factor innovations greatly improves volatility fit and derivative pricing without sacrificing yield-curve fit, implying that volatility dynamics are central to term-structure modeling."
