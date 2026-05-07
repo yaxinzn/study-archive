@@ -1,3 +1,7 @@
+- title: "Costain, Nuno & Thomas (JF, 2025) - The Term Structure of Interest Rates in a Heterogeneous Monetary Union"
+  file: "Costain_Nuno_Thomas_JF_2025.pdf"
+  desc: "This note summarizes the paper, which extends a preferred-habitat term-structure model to a heterogeneous monetary union with default-free Core and defaultable Periphery sovereigns, using German and Italian yield curves, bond-supply distributions, fiscal-pressure/default-risk dynamics, PEPP purchase scenarios, yield decompositions, robustness tests, and pandemic/PEPP event analysis to show that peripheral spreads and PEPP transmission are driven mainly by credit risk premia and default-risk extraction rather than standard duration effects alone, implying that asset purchases in a monetary union operate as sovereign-risk stabilization policy."
+
 - title: "Fuster, Lo, and Willen (JF, 2024) - The Time-Varying Price of Financial Intermediation in the Mortgage Market"
   file: "Fuster_Lo_Willen_JF_2024.pdf"
   desc: "This note summarizes the paper, which uses proprietary Optimal Blue mortgage rate sheets, TBA/MBS prices, QE event studies, daily pass-through regressions, application-volume and processing-time measures, MSA-level tests, MBA cost data, and aggregate spending calculations to show that the mortgage intermediation wedge is large, demand-sensitive, capacity-constrained, and upward-trending after the crisis, implying that monetary-policy and capital-market changes reach borrowers only through a time-varying intermediary supply curve rather than full frictionless pass-through."
