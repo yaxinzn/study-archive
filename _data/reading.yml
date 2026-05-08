@@ -1,3 +1,7 @@
+- title: "de Bresser (RES, 2024) - Evaluating the Accuracy of Counterfactuals: Heterogeneous Survival Expectations in a Life Cycle Model"
+  file: "deBresser_RES_2024.pdf"
+  desc: "This note summarizes the paper, which uses Dutch household panel data, subjective survival-probability reports, a measurement model for noisy rounded expectations, a structural life-cycle model of retirement, benefit claiming, and saving, and an out-of-sample validation around Dutch pension reform to show that heterogeneous subjective survival expectations substantially improve counterfactual retirement predictions, implying that structural policy evaluation can fit pre-reform behavior yet fail externally when expectations are misspecified."
+
 - title: "Jiang, Krishnamurthy, and Lustig (RES, 2024) - Dollar Safety and the Global Financial Cycle"
   file: "Jiang_Krishnamurthy_Lustig_RES_2024.pdf"
   desc: "This note summarizes the paper, which develops a theory of the dollar-centered global financial cycle using safe-dollar demand, convenience yields, U.S. bank dollar carry trades, dollar liquidity supply, U.S. monetary-policy spillovers, foreign dollar borrowing, currency mismatch, crisis wealth effects, and contagion mechanisms to show that dollar safe-asset scarcity appreciates the dollar and transmits shocks globally, implying that the global financial cycle is fundamentally a dollar-liquidity cycle rather than only an interest-rate or risk-sharing phenomenon."
