@@ -1,3 +1,7 @@
+- title: "Flanagan (JF, 2025) - The Value of Bank Lending"
+  file: "Flanagan_JF_2025.pdf"
+  desc: "This note summarizes the paper, which reconstructs realized syndicated loan cash flows, risk-adjusts them using public-market replicating portfolios, validates the method with corporate-bond placebo tests, and examines financial constraints, screening, monitoring, renegotiation, bank-level alpha persistence, and commercial lending expenses to show that bank lending creates positive gross risk-adjusted value especially for constrained borrowers, but that this value is largely absorbed by costly lending services rather than becoming shareholder rents."
+
 - title: "Antolín-Díaz, Petrella, and Rubio-Ramírez (RFS, 2026) - Dividend Momentum and Stock Return Predictability: A Bayesian Approach"
   file: "AntolinDiaz_Petrella_RubioRamirez_RFS_2026.pdf"
   desc: "This note summarizes the paper, which develops a Campbell–Shiller-restricted Bayesian VAR for returns, dividend growth, and the price-dividend ratio using informative priors, stationarity restrictions, out-of-sample forecasting, long-horizon variance and asset-allocation tests, and quarterly state-space robustness to show that persistent dividend growth creates dividend momentum and moderate long-horizon return predictability, implying that useful stock-return forecasting requires combining Bayesian shrinkage, accounting restrictions, and dividend dynamics rather than relying on flat-prior predictability regressions."
