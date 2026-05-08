@@ -1,3 +1,7 @@
+- title: "Eggertsson, Juelsrud, Summers & Wold (RES, 2024) - Negative Nominal Interest Rates and the Bank Lending Channel"
+  file: "Eggertsson_Juelsrud_Summers_Wold_RES_2024.pdf"
+  desc: "This note summarizes the paper, which uses Sweden’s negative-rate episode, daily bank-level mortgage rates, deposit-rate pass-through, bank balance-sheet variables, lending growth, bank equity event studies, deposit-share heterogeneity, and a calibrated banking model with liquid assets, deposits, external finance, net worth, and a deposit lower bound to show that negative policy rates can stop lowering lending rates and instead compress bank profitability and reduce lending when deposits cannot fall below zero, implying that monetary easing below zero depends on banks’ balance-sheet exposure and deposit-market pass-through rather than the policy rate alone."
+
 - title: "Benguria, Saffie, and Urzua (RES, 2024) - The Transmission of Commodity Price Super-Cycles"
   file: "Benguria_Saffie_Urzua_RES_2024.pdf"
   desc: "This note summarizes the paper, which uses Brazilian regional commodity-price exposure, matched employer–employee firm data, skill-intensity measures, exporter and tradability classifications, cost- and wealth-channel regressions, and a dynamic small-open-economy model to show that commodity super-cycles raise local demand but also distort labour markets by increasing unskilled labour demand and reallocating firms across sectors, implying that commodity booms generate welfare gains that are substantially reduced by wage-cost and reallocation effects."
