@@ -1,3 +1,7 @@
+- title: "Chaudhry (JFE, 2025) - The Impact of Prices on Analyst Cash Flow Expectations: Reconciling Subjective Beliefs Data with Rational Discount Rate Variation"
+  file: "Chaudhry_JFE_2025.pdf"
+  desc: "This note summarizes the paper, which uses I/B/E/S analyst cash-flow forecasts, staggered analyst revision windows, Russell benchmarking-intensity shocks, mutual-fund flow-induced trading instruments, term-structure and persistence tests, covariance decompositions, and a rational-investor model with analysts learning from prices to show that exogenous price increases causally raise analyst earnings expectations, implying that biased analyst forecasts can arise from analysts misreading discount-rate-driven price movements as cash-flow news rather than from biased investor beliefs."
+
 - title: "Brugler & Comerton-Forde (JFE, 2025) - Differential Access to Dark Markets and Execution Outcomes"
   file: "Brugler_ComertonForde_JFE_2025.pdf"
   desc: "This note summarizes the paper, which uses Australian dark-trade data, broker versus exchange dark pool comparisons, access-rule classifications, trade- and stock-day execution outcomes, broker pool closure matching, HFT/ELP restriction tests, and execution-risk robustness to show that broker dark pools with access restrictions generate lower information leakage, adverse-selection risk, and post-trade order imbalance than unrestricted exchange dark pools, implying that dark market design and counterparty segmentation materially affect execution quality."
