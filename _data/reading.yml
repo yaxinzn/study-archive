@@ -1,3 +1,7 @@
+- title: "Berg, Burg, Keil & Puri (JFE, 2025) - The economics of “Buy Now, Pay Later”: A merchant’s perspective"
+  file: "Berga_Burg_Keil_Puri_JFE_2025.pdf"
+  desc: "This note summarizes the paper, which uses a randomized checkout experiment at a German online furniture merchant, BNPL availability, credit-score heterogeneity, conversion and revenue outcomes, BNPL approval/default data, payment-cost calculations, and recession robustness tests to show that zero-interest BNPL raises sales by implicitly discounting purchases for customers who value credit while preserving posted prices, implying that BNPL is a merchant pricing, payments, and lending technology whose profitability depends on margins, screening, and credit losses."
+
 - title: "Flanagan (JF, 2025) - The Value of Bank Lending"
   file: "Flanagan_JF_2025.pdf"
   desc: "This note summarizes the paper, which reconstructs realized syndicated loan cash flows, risk-adjusts them using public-market replicating portfolios, validates the method with corporate-bond placebo tests, and examines financial constraints, screening, monitoring, renegotiation, bank-level alpha persistence, and commercial lending expenses to show that bank lending creates positive gross risk-adjusted value especially for constrained borrowers, but that this value is largely absorbed by costly lending services rather than becoming shareholder rents."
