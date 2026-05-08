@@ -1,3 +1,7 @@
+- title: "Brugler & Comerton-Forde (JFE, 2025) - Differential Access to Dark Markets and Execution Outcomes"
+  file: "Brugler_ComertonForde_JFE_2025.pdf"
+  desc: "This note summarizes the paper, which uses Australian dark-trade data, broker versus exchange dark pool comparisons, access-rule classifications, trade- and stock-day execution outcomes, broker pool closure matching, HFT/ELP restriction tests, and execution-risk robustness to show that broker dark pools with access restrictions generate lower information leakage, adverse-selection risk, and post-trade order imbalance than unrestricted exchange dark pools, implying that dark market design and counterparty segmentation materially affect execution quality."
+
 - title: "Berg, Burg, Keil & Puri (JFE, 2025) - The economics of “Buy Now, Pay Later”: A merchant’s perspective"
   file: "Berga_Burg_Keil_Puri_JFE_2025.pdf"
   desc: "This note summarizes the paper, which uses a randomized checkout experiment at a German online furniture merchant, BNPL availability, credit-score heterogeneity, conversion and revenue outcomes, BNPL approval/default data, payment-cost calculations, and recession robustness tests to show that zero-interest BNPL raises sales by implicitly discounting purchases for customers who value credit while preserving posted prices, implying that BNPL is a merchant pricing, payments, and lending technology whose profitability depends on margins, screening, and credit losses."
