@@ -1,3 +1,7 @@
+- title: "Jiang, Peng, and Yan (JFE, 2024) - Personality Differences and Investment Decision-Making"
+  file: "Jiang_Peng_Yan_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses an AAII survey of affluent investors, Big Five personality measures, belief, risk-aversion, social-influence, and equity-allocation outcomes, plus out-of-sample evidence from HILDA and GSOEP, to show that Neuroticism and Openness systematically shape investor beliefs, risk tolerance, social behavior, and portfolio choices, implying that stable personality traits help explain why investors with similar resources and information hold different equity allocations."
+
 - title: "Murray, Xia, and Xiao (JFE, 2024) - Charting by Machines"
   file: "Murray_Xia_Xiao_JFE_2024.pdf"
   desc: "This note summarizes the paper, which uses U.S. stock return charts, twelve monthly cumulative-return inputs, an optimization-period-selected CNNLSTM model, expanding-window ML forecasts, decile portfolio sorts, risk-adjusted return tests, large-stock and subperiod robustness, nonlinear/interaction diagnostics, and controls for momentum, reversal, image-based ML, technical signals, and trading frictions to show that machine learning extracts economically large predictive information from past price patterns alone, implying that flexible “machine charting” challenges weak-form market efficiency beyond standard technical rules."
