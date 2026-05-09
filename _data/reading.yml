@@ -1,3 +1,7 @@
+- title: "Xiouros & Zapatero (JFE, 2024) - Disagreement, information quality and asset prices"
+  file: "Xiouros_Zapatero_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which develops and calibrates a stationary heterogeneous-beliefs asset-pricing model with professional-forecast disagreement, time-varying information quality, external habit, stock and bond pricing moments, nested-model ablations, and real-yield tests to show that disagreement matters quantitatively only when public information quality varies with aggregate shocks, implying that state-dependent forecast dispersion helps explain stock-price volatility, equity premia, risk-free-rate dynamics, and the real yield curve."
+
 - title: "Darmouni & Sutherland (JFE, 2024) - Investment when new capital is hard to find"
   file: "Darmouni_Sutherland_JFE_2024.pdf"
   desc: "This note summarizes the paper, which uses UCC asset-level equipment filings, pandemic-era production disruptions, John Deere strike exposure, used-equipment trading speed, distance, matching, and price evidence, plus firm-age investment regressions, to show that shortages of new capital push firms into secondary markets where used assets trade faster, farther, and at higher prices, implying that secondary markets both absorb investment shocks and transmit them by reallocating scarce capital toward older or stronger firms while crowding out young firms."
