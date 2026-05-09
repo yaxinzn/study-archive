@@ -1,3 +1,7 @@
+- title: "Geelen, Hajda, Morellec & Winegar (JFE, 2024) - Asset life, leverage, and debt maturity matching"
+  file: "Geelen_Hajda_Morellec_Winegar_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which develops and tests a dynamic theory of leverage and debt maturity based on finite asset life, capital age, replacement investment, debt cycles, and maturity matching, using U.S. public firm data, within-firm capital-age regressions, mechanism tests on investment lumpiness and ROI, robustness checks, and cross-sectional useful-life tests to show that firms delever and shorten debt maturity as capital ages while firms with longer-lived assets have longer debt cycles and maturities, implying that debt maturity matching is a dynamic liquidity-management response to predictable future replacement financing needs."
+
 - title: "Hanson, Malkhozov & Venter (JFE, 2024) - Demand-and-Supply Imbalance Risk and Long-Term Swap Spreadsn"
   file: "Hanson_Malkhozov_Venter_JFE_2024.pdf"
   desc: "This note summarizes the paper, which uses long-term U.S. swap spreads, primary dealers’ net Treasury positions, swap-spread trade returns, intermediary-balance-sheet constraints, end-user hedging-demand proxies, forecasting regressions, and a sign-restricted SVAR to show that negative long-term swap spreads reflect both end-user demand shocks and constrained intermediary supply shocks, implying that swap spreads embed demand-and-supply imbalance risk premia rather than simple arbitrage violations."
