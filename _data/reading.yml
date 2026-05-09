@@ -1,3 +1,7 @@
+- title: "Murray, Xia, and Xiao (JFE, 2024) - Charting by Machines"
+  file: "Murray_Xia_Xiao_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses U.S. stock return charts, twelve monthly cumulative-return inputs, an optimization-period-selected CNNLSTM model, expanding-window ML forecasts, decile portfolio sorts, risk-adjusted return tests, large-stock and subperiod robustness, nonlinear/interaction diagnostics, and controls for momentum, reversal, image-based ML, technical signals, and trading frictions to show that machine learning extracts economically large predictive information from past price patterns alone, implying that flexible “machine charting” challenges weak-form market efficiency beyond standard technical rules."
+
 - title: "Xiouros & Zapatero (JFE, 2024) - Disagreement, information quality and asset prices"
   file: "Xiouros_Zapatero_JFE_2024.pdf"
   desc: "This note summarizes the paper, which develops and calibrates a stationary heterogeneous-beliefs asset-pricing model with professional-forecast disagreement, time-varying information quality, external habit, stock and bond pricing moments, nested-model ablations, and real-yield tests to show that disagreement matters quantitatively only when public information quality varies with aggregate shocks, implying that state-dependent forecast dispersion helps explain stock-price volatility, equity premia, risk-free-rate dynamics, and the real yield curve."
