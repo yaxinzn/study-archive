@@ -1,3 +1,7 @@
+- title: "Baba-Yara, Boons, and Tamoni (JFE, 2024) - Persistent and Transitory Components of Firm Characteristics: Implications for Asset Pricing"
+  file: "BabaYara_Boons_Tamoni_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses 56 firm characteristics, newest and old characteristic-sorted portfolios, old-versus-new alpha regressions, old-minus-new stock strategies, principal components, benchmark factor-model tests, and long-term discount-rate calculations to show that persistent and transitory components of characteristics are compensated differently across characteristics, implying that asset-pricing models must explain not only current characteristic returns but also their horizon dynamics and valuation implications."
+
 - title: "Ha, Ma, and Žaldokas (JFE, 2024) - Motivating Collusion"
   file: "Ha_Ma_Zaldokas_JFE_2024.pdf"
   desc: "This note summarizes the paper, which uses the 2013 closure of four DoJ Antitrust Division regional offices, changes in firms’ distance to antitrust enforcement, local Hoberg-Phillips product-market peers, CEO pay-performance regressions, cash-versus-equity compensation tests, product-market outcome analyses, contract-feature evidence, and convicted-cartel validation to show that weakened antitrust enforcement leads firms to make CEO pay more positively tied to local peer performance and less tied to own performance, implying that shareholder-aligned compensation can motivate softer competition and potential collusion at the expense of consumer welfare."
