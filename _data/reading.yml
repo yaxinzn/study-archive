@@ -1,3 +1,7 @@
+- title: "Hanson, Malkhozov & Venter (JFE, 2024) - Demand-and-Supply Imbalance Risk and Long-Term Swap Spreadsn"
+  file: "Hanson_Malkhozov_Venter_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses long-term U.S. swap spreads, primary dealers’ net Treasury positions, swap-spread trade returns, intermediary-balance-sheet constraints, end-user hedging-demand proxies, forecasting regressions, and a sign-restricted SVAR to show that negative long-term swap spreads reflect both end-user demand shocks and constrained intermediary supply shocks, implying that swap spreads embed demand-and-supply imbalance risk premia rather than simple arbitrage violations."
+
 - title: "Liebersohn (JFE, 2024) - How does competition affect retail banking? Quasi-experimental evidence from bank mergers"
   file: "Liebersohn_JFE_2024.pdf"
   desc: "This note summarizes the paper, which uses the 1800 HHI bank-merger antitrust cutoff, regulator-defined banking markets, FDIC deposit concentration data, RateWatch deposit rates, HMDA and Consumer Credit Panel mortgage data, CRA small-business lending data, and dynamic difference-in-differences/event-study designs to show that antitrust divestiture lowers local banking concentration, raises CD rates, expands mortgage lending and lowers mortgage rates, but has little effect on checking/savings rates or small-business lending, implying that local bank competition matters in product-specific ways depending on whether the product is transactional or relationship-based."
