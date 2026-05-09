@@ -1,3 +1,7 @@
+- title: "Baldauf, Mollner & Yueshen (JFE, 2024) - Siphoned Apart: A Portfolio Perspective on Order Flow Segmentation"
+  file: "Baldaufa_Mollner_Zhou_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which develops an inventory-based portfolio model of order-flow segmentation, liquidity supply, PFOF, retail versus institutional order-flow correlation, market-maker inventory risk, segmentation bans, retail-trading growth, market-maker profits, welfare, and dynamic routing to show that retail order flow can be valuable because it hedges institutional imbalances rather than merely being uninformed, implying that banning PFOF or off-exchange segmentation can raise spreads and reduce welfare when segmentation improves market makers’ liquidity-supply portfolios."
+
 - title: "Shu (JFE, 2024) - The Proxy Advisory Industry: Influencing and Being Influenced"
   file: "Shu_JFE_2024.pdf"
   desc: "This note summarizes the paper, which uses N-PX filing formats, statutory prospectuses, ISS and Glass Lewis recommendations, 140 million mutual fund votes, platform-switching tests, robo-voting measures, and investor-disagreement regressions to show that proxy advisors strongly influence mutual fund voting through both recommendations and voting platforms while also adapting future advice to investor disagreement, implying that the proxy advisory industry is a concentrated feedback system linking information production, voting technology, and institutional investor preferences."
