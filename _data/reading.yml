@@ -1,3 +1,7 @@
+- title: "Darmouni & Sutherland (JFE, 2024) - Investment when new capital is hard to find"
+  file: "Darmouni_Sutherland_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses UCC asset-level equipment filings, pandemic-era production disruptions, John Deere strike exposure, used-equipment trading speed, distance, matching, and price evidence, plus firm-age investment regressions, to show that shortages of new capital push firms into secondary markets where used assets trade faster, farther, and at higher prices, implying that secondary markets both absorb investment shocks and transmit them by reallocating scarce capital toward older or stronger firms while crowding out young firms."
+
 - title: "Barrot, Bonelli, Grassi & Sauvagnat (JFE, 2024) - Causal Effects of Closing Businesses in a Pandemic"
   file: "Barrot_Bonelli_Grassi_Sauvagnat_JFE_2024.pdf"
   desc: "This note summarizes the paper, which uses manually coded U.S. state-sector business-closure orders, restricted-labor exposure adjusted for work-from-home feasibility, firm-level outcomes, CZ-level labor and health outcomes, fixed-effect and event-study designs, SIRD-motivated health specifications, and aggregate cost-benefit calculations to show that pandemic business closures reduced firm sales/profits and worker wages/employment/hours while also lowering infections, deaths, hospitalizations, and life-years lost, implying that closures were both economically costly and health-effective, with better policy design requiring targeted restrictions in high-contact areas."
