@@ -1,3 +1,7 @@
+- title: "Buchinsky & Hahn (Econometrica, 1998) - An Alternative Estimator for the Censored Quantile Regression Model"
+  file: "Buchinsky_Hahn_Econometrica_1998.pdf"
+  desc: "This note summarizes the paper, which develops the CQR-LP estimator for censored quantile regression by transforming the latent censored quantile problem into a convex weighted quantile regression using covariate-dependent uncensoring probabilities, proves root-n consistency and asymptotic normality, and shows through Monte Carlo simulations that it corrects censoring bias better than Powell’s nonconvex estimator, implying that censoring can be handled by reweighting uncensored observations at the appropriate transformed quantile."
+
 - title: "Baker & Wurgler (JF, 2006) - Investor Sentiment and the Cross-Section of Stock Returns"
   file: "Baker_Wurgler_JF_2006.pdf"
   desc: "This note summarizes the paper, which constructs a composite investor-sentiment index from closed-end fund discounts, turnover, IPO activity and returns, equity issuance shares, and dividend premia, then uses characteristic-sorted portfolios, sentiment-conditioned return regressions, factor controls, conditional beta tests, and earnings-announcement evidence to show that high sentiment predicts low subsequent returns for speculative, hard-to-arbitrage stocks and relative outperformance for safer stocks, implying that firm characteristics have state-dependent expected-return implications shaped by market sentiment."
