@@ -10,3 +10,7 @@ hide_name: true
 
 # Macro Finance
 
+## Files
+<!-- AUTO-LIST-START -->
+- (No files yet.)
+<!-- AUTO-LIST-END -->

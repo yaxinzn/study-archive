@@ -11,3 +11,7 @@ hide_name: true
 ## Reference
 **Math Camp 2019** materials offered by Mark Walker (https://markwalkereconomics.com/MathCamp2019.htm).
 
+## Files
+<!-- AUTO-LIST-START -->
+- (No files yet.)
+<!-- AUTO-LIST-END -->
