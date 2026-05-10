@@ -1,3 +1,7 @@
+- title: "Imbens & Angrist (Econometrica, 1994) - Identification and Estimation of Local Average Treatment Effects"
+  file: "Imbens_Angrist_Econometrica_1994.pdf"
+  desc: "This note summarizes the paper, which formalizes the local average treatment effect framework for instrumental variables with heterogeneous treatment effects by defining potential treatment states, compliers, relevance, exclusion, and monotonicity conditions, proving that the Wald IV ratio identifies the average causal effect for individuals whose treatment status is changed by the instrument, and extending the logic to multi-valued instruments as weighted averages of adjacent LATEs, implying that IV estimates must be interpreted through the specific complier population and institutional margin moved by the instrument."
+
 - title: "Tobin (Econometrica, 1958) - Estimation of Relationships for Limited Dependent Variables"
   file: "Tobin_Econometrica_1958.pdf"
   desc: "This note summarizes the paper, which develops the Tobit model for limited dependent variables by combining the probability mass at a censoring boundary with the continuous density of uncensored outcomes, derives the nonlinear observed conditional expectation and maximum-likelihood estimator under normal homoskedastic errors, and illustrates the method with durable-goods expenditures, implying that OLS and probit are incomplete for censored outcomes because valid estimation must jointly model both participation at the limit and the positive outcome amount."
