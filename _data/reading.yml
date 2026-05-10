@@ -1,3 +1,7 @@
+- title: "Staiger & Stock (Econometrica, 1997) - Instrumental Variables Regression with Weak Instruments"
+  file: "Staiger_Stock_Econometrica_1997.pdf"
+  desc: "This note summarizes the paper, which develops weak-instrument asymptotics for IV regression by modeling first-stage coefficients as local to zero, analyzes the nonstandard behavior of TSLS, LIML, Wald statistics, overidentification tests, exogeneity tests, and confidence intervals, uses concentration parameters, Monte Carlo evidence, and the Angrist–Krueger quarter-of-birth application to show that TSLS can be biased toward OLS and conventional intervals can severely undercover, implying that large samples cannot rescue weak identification and that researchers should report first-stage strength and use LIML, Anderson–Rubin, or Bonferroni-style weak-IV robust inference when instruments are weak."
+
 - title: "Heckman & Vytlacil (Econometrica, 2005) - Structural Equations, Treatment Effects, and Econometric Policy Evaluation"
   file: "Heckman_Vytlacil_Econometrica_2005.pdf"
   desc: "This note summarizes the paper, which develops the marginal treatment effect framework to unify structural econometrics and treatment-effect methods, showing that ATE, TT, TUT, LATE, IV, OLS, matching, and policy-relevant treatment effects are different weighted averages of treatment gains along the latent participation margin, implying that credible policy evaluation requires identifying which margin a policy or instrument moves rather than treating any valid IV estimate as a universal causal effect."
