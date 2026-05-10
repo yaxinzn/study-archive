@@ -1,3 +1,7 @@
+- title: "Tobin (Econometrica, 1958) - Estimation of Relationships for Limited Dependent Variables"
+  file: "Tobin_Econometrica_1958.pdf"
+  desc: "This note summarizes the paper, which develops the Tobit model for limited dependent variables by combining the probability mass at a censoring boundary with the continuous density of uncensored outcomes, derives the nonlinear observed conditional expectation and maximum-likelihood estimator under normal homoskedastic errors, and illustrates the method with durable-goods expenditures, implying that OLS and probit are incomplete for censored outcomes because valid estimation must jointly model both participation at the limit and the positive outcome amount."
+
 - title: "Thompson (JFE, 2011) - Simple formulas for standard errors that cluster by both firm and time"
   file: "Thompson_JFE_2011.pdf"
   desc: "This note summarizes the paper, which develops simple two-way clustered standard-error formulas for panel regressions by combining firm-clustered and time-clustered covariance matrices and subtracting the White matrix to avoid double-counting, extends the approach to persistent common shocks, and uses Monte Carlo simulations plus an industry-profitability application to show that inference in finance panels depends critically on matching standard errors to both within-firm and within-time dependence, implying that single-cluster or White standard errors can severely misstate statistical significance."
