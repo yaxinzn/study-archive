@@ -10,7 +10,3 @@ hide_name: true
 
 # Corporate Finance Empirical
 
-## Files
-<!-- AUTO-LIST-START -->
-
-<!-- AUTO-LIST-END -->
