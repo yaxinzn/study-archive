@@ -1,7 +1,7 @@
 ---
 layout: minimal
-title: Micro
-hero_title: Micro
+title: Microeconomics
+hero_title: Microeconomics
 hero_subtitle: Study materials
 hero_desc: Notes, PDFs, and structured summaries for Micro.
 hide_name: true
@@ -13,9 +13,3 @@ hide_name: true
 ## Reference
 He, X. (2026). *Microeconomics*. [https://www.hexindi.com/notes/econometrics](https://www.hexindi.com/notes/microeconomic)
 - **[XMind mind map (Micro)](https://app.xmind.com/share/BGA5niRe)**
-
-## Files
-<!-- AUTO-LIST-START -->
-- **[week1/](week1/)**
-- **[week2/](week2/)**
-<!-- AUTO-LIST-END -->
