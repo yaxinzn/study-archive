@@ -10,12 +10,3 @@ hide_name: true
 
 # Macro Finance
 
-## Scope
-
-## Reading map
-- (Key papers/books)
-
-## Files
-<!-- AUTO-LIST-START -->
-- (No files yet.)
-<!-- AUTO-LIST-END -->
