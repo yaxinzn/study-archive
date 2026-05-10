@@ -11,7 +11,3 @@ hide_name: true
 # Macroeconomics
 
 ## Files
-<!-- AUTO-LIST-START -->
-- **[week1/](week1/)**
-- **[week2/](week2/)**
-<!-- AUTO-LIST-END -->
