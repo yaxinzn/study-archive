@@ -1,3 +1,7 @@
+- title: "Hansen (Econometrica, 1982) - Large Sample Properties of Generalized Method of Moments Estimators"
+  file: "Hansen_Econometrica_1982.pdf"
+  desc: "This note summarizes the paper, which establishes the generalized method of moments framework for estimators based on population orthogonality conditions, proves consistency, asymptotic normality, optimal inverse long-run covariance weighting, and Hansen’s overidentification J test under stationary and ergodic sampling, and shows how GMM unifies nonlinear IV, least squares, quasi-MLE first-order conditions, and rational-expectations estimation, implying that valid moment restrictions and correct long-run covariance estimation are the foundation of modern moment-based econometrics."
+
 - title: "Hall & Horowitz (Econometrica, 1996) - Bootstrap Critical Values for Tests Based on Generalized-Method-of-Moments Estimators"
   file: "Hall_Horowitz_Econometrica_1996.pdf"
   desc: "This note summarizes the paper, which develops higher-order bootstrap critical values for GMM-based t and overidentifying-restrictions J tests, uses Edgeworth expansions, recentered bootstrap moments, block resampling for dependent data, corrected bootstrap statistics, regularity conditions, and Monte Carlo evidence to show that properly constructed bootstrap inference reduces finite-sample size distortions relative to first-order normal and chi-square critical values, implying that GMM bootstrap procedures must be carefully aligned with the statistic and dependence structure being approximated."
