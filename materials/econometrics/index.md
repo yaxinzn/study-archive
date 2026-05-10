@@ -22,4 +22,3 @@ hide_name: true
 - **[Econometrics_FromBasics_Feb2_2026.pdf](Econometrics_FromBasics_Feb2_2026.pdf)**
 - **[econometrics_method_paper_map.xlsx](econometrics_method_paper_map.xlsx)**
 <!-- AUTO-LIST-END -->
-href="{{ site.baseurl }}/reading/">Paper Reading Notes
