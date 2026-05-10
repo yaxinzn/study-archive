@@ -1,3 +1,7 @@
+- title: "Malmendier & Tate (JF, 2005) - CEO Overconfidence and Corporate Investment"
+  file: "Malmendier_Tate_JF_2005.pdf"
+  desc: "This note summarizes the paper, which uses CEO option-exercise and stock-purchase behavior to measure managerial overconfidence, links these behavioral traits to firm investment, cash flow, Q, financing constraints, and CEO characteristics, and shows that overconfident CEOs display stronger investment-cash flow sensitivity—especially in equity-dependent firms—implying that managerial beliefs can distort corporate investment even when managers sincerely aim to maximize shareholder value."
+
 - title: "Hirano, Imbens & Ridder (Econometrica, 2003) - Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score"
   file: "Hirano_Imbens_Ridder_Econometrica_2003.pdf"
   desc: "This note summarizes the paper, which shows that under unconfoundedness, inverse-propensity-weighted estimators using a flexible nonparametrically estimated propensity score can achieve semiparametric efficiency for ATE, WATE, and ATT because estimated weights impose covariate-balance information that true weights ignore, implying that propensity-score estimation is not merely a nuisance step but a central efficiency device in treatment-effect estimation."
