@@ -1,3 +1,7 @@
+- title: "Arellano & Bond (RES, 1991) - Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations"
+  file: "Arellano_Bond_RES_1991.pdf"
+  desc: "This note summarizes the paper, which develops the Arellano–Bond difference-GMM estimator for dynamic panel models with fixed effects and lagged dependent variables, uses lagged levels as internal instruments after first-differencing, provides AR(2), Sargan, difference-Sargan, and Hausman specification tests, evaluates finite-sample performance through Monte Carlo simulations, and applies the method to U.K. manufacturing employment equations, implying that credible dynamic panel estimation requires both internal-instrument GMM and careful serial-correlation and overidentification diagnostics."
+
 - title: "Angrist & Lavy (QJE, 1999) - Using Maimonides’ Rule to Estimate the Effect of Class Size on Scholastic Achievement"
   file: "Angrist_Lavy_QJE_1999.pdf"
   desc: "This note summarizes the paper, which uses Maimonides’ maximum class-size rule, Israeli elementary-school test data, enrollment-threshold discontinuities, predicted class-size instruments, reduced-form score regressions, 2SLS estimates, discontinuity samples, pooled specifications, and third-grade robustness checks to show that rule-induced smaller classes raise achievement for fourth and fifth graders while OLS comparisons are biased by nonrandom class formation, implying that institutional class-size rules can provide credible regression-discontinuity evidence on education production."
