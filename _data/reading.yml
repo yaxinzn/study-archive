@@ -1,3 +1,7 @@
+- title: "Baker & Wurgler (JF, 2006) - Investor Sentiment and the Cross-Section of Stock Returns"
+  file: "Baker_Wurgler_JF_2006.pdf"
+  desc: "This note summarizes the paper, which constructs a composite investor-sentiment index from closed-end fund discounts, turnover, IPO activity and returns, equity issuance shares, and dividend premia, then uses characteristic-sorted portfolios, sentiment-conditioned return regressions, factor controls, conditional beta tests, and earnings-announcement evidence to show that high sentiment predicts low subsequent returns for speculative, hard-to-arbitrage stocks and relative outperformance for safer stocks, implying that firm characteristics have state-dependent expected-return implications shaped by market sentiment."
+
 - title: "Arellano & Bond (RES, 1991) - Some Tests of Specification for Panel Data: Monte Carlo Evidence and an Application to Employment Equations"
   file: "Arellano_Bond_RES_1991.pdf"
   desc: "This note summarizes the paper, which develops the Arellano–Bond difference-GMM estimator for dynamic panel models with fixed effects and lagged dependent variables, uses lagged levels as internal instruments after first-differencing, provides AR(2), Sargan, difference-Sargan, and Hausman specification tests, evaluates finite-sample performance through Monte Carlo simulations, and applies the method to U.K. manufacturing employment equations, implying that credible dynamic panel estimation requires both internal-instrument GMM and careful serial-correlation and overidentification diagnostics."
