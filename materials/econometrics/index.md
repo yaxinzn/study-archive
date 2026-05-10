@@ -18,7 +18,8 @@ hide_name: true
 ## Files
 <!-- AUTO-LIST-START -->
 - **[Derivations_Mostly_Harmless_Econometrics_2008.pdf](Derivations_Mostly_Harmless_Econometrics_2008.pdf)**
-- **[Econometric1.pdf](Econometric1.pdf)**
-- **[Econometrics_FromBasics_Feb2_2026.pdf](Econometrics_FromBasics_Feb2_2026.pdf)**
 - **[econometrics_method_paper_map.xlsx](econometrics_method_paper_map.xlsx)**
+    This table links the subsections of the [Derivations_Mostly_Harmless_Econometrics_2008.pdf](Derivations_Mostly_Harmless_Econometrics_2008.pdf)       to related papers published in economics and finance journals. The connected papers can be found on the Reading page.
+- **[Econometrics_FromBasics_Feb2_2026.pdf](Econometrics_FromBasics_Feb2_2026.pdf)**
+- **[Econometric1.pdf](Econometric1.pdf)**
 <!-- AUTO-LIST-END -->
