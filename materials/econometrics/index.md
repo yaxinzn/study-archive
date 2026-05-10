@@ -15,7 +15,7 @@ hide_name: true
 - Hansen, B. E. (2014). *Econometrics*. University of Wisconsin, Department of Economics. (Revised January 3, 2014)
 - He, X. (2026). *Econometrics notes*. https://www.hexindi.com/notes/econometrics
 
-*This table (econometrics_method_paper_map.xlsx) maps each subsection of the note (Derivations_Mostly_Harmless_Econometrics_2008.pdf) to relevant papers in economics and finance journals. The corresponding papers are available on the Reading page (https://yaxinzn.github.io/study-archive/reading/).*
+*The table (econometrics_method_paper_map.xlsx) maps each subsection of the note (Derivations_Mostly_Harmless_Econometrics_2008.pdf) to relevant papers in economics and finance journals. The corresponding papers are available on the Reading page (https://yaxinzn.github.io/study-archive/reading/).*
 ## Files
 <!-- AUTO-LIST-START -->
 - **[Derivations_Mostly_Harmless_Econometrics_2008.pdf](Derivations_Mostly_Harmless_Econometrics_2008.pdf)**
