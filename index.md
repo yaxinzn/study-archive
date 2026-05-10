@@ -19,7 +19,6 @@ hide_name: true
     <a href="{{ site.baseurl }}/reading/">Paper Reading Notes</a>
   </div>
   <div style="margin-top:6px; opacity:.85;">
-    Short notes on papers and ideas.
   </div>
 </div>
 
@@ -30,18 +29,17 @@ hide_name: true
     <a href="{{ site.baseurl }}/variables-live/">Live Variable Tables</a>
   </div>
   <div style="margin-top:6px; opacity:.82;">
-    Variable definitions, sources, and measurement notes.
   </div>
 </div>
 
 
 ### Fields - incomplete
-- **[Micro](materials/micro/)**
-- **[Macro](materials/macro/)** 
+- **[Microeconomics](materials/micro/)**
+- **[Macroeconomics](materials/macro/)** 
 - **[Econometrics](materials/econometrics/)** 
-- **[Math Foundations](materials/math-foundations/)**
+- **[Mathematics for Economics](materials/math-foundations/)**
 - **[TFP Measurement](materials/tfp-measurement/)** 
-- **[Empirical IO](materials/eio/)**
+- **[Empirical Industrial Organization](materials/eio/)**
 - **[Asset Pricing (Theory)](materials/ap-theory/)** 
 - **[Asset Pricing (Empirical)](materials/ap-empirical/)** 
 - **[Corporate Finance (Theory)](materials/cf-theory/)** 
