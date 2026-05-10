@@ -12,6 +12,4 @@ hide_name: true
 
 ## Files
 <!-- AUTO-LIST-START -->
-- **[DSAP1.pdf](DSAP1.pdf)**
-- **[DSAP_Structure.pdf](DSAP_Structure.pdf)**
 <!-- AUTO-LIST-END -->
