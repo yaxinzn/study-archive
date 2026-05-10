@@ -1,3 +1,7 @@
+- title: "Sapienza (JFE, 2004) - The Effects of Government Ownership on Bank Lending"
+  file: "Sapienza_JFE_2004.pdf"
+  desc: "This note summarizes the paper, which uses Italian credit-line contracts, firm risk scores, matched borrower samples, firm and time fixed effects, bank controls, dual-borrower comparisons, regional and firm-size heterogeneity, and political-party affiliation measures to show that state-owned banks charge lower interest rates than private banks—especially to large firms and in provinces where the affiliated political party is stronger—implying that government bank ownership can distort credit allocation through political patronage rather than purely social lending."
+
 - title: "Petersen (RFS, 2009) - Estimating Standard Errors in Finance Panel Data Sets: Comparing Approaches"
   file: "Petersen_RFS_2009.pdf"
   desc: "This note summarizes the paper, which compares standard-error estimators for finance panel regressions using simulations, a survey of empirical practice, and asset-pricing and corporate-finance applications, showing that White, Fama–MacBeth, firm-clustered, time-clustered, and two-way-clustered errors are appropriate under different dependence structures, implying that researchers must diagnose whether residuals and regressors are correlated within firms, within time periods, or both before choosing inference."
