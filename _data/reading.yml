@@ -1,3 +1,7 @@
+- title: "Bertrand, Duflo & Mullainathan (QJE, 2004) - How Much Should We Trust Differences-in-Differences Estimates?"
+  file: "Bertrand_Duflo_Mullainathan_QJE_2004.pdf"
+  desc: "This note summarizes the paper, which uses a survey of published differences-in-differences studies, CPS placebo-law simulations, AR(1) experiments, and comparisons of parametric corrections, block bootstrap, aggregation, empirical covariance matrices, and cluster-robust inference to show that persistent outcomes and persistent treatment indicators make conventional DD standard errors severely overreject, implying that inference must be clustered or otherwise adjusted at the level of treatment variation rather than based on the raw number of observations."
+
 - title: "Imbens & Angrist (Econometrica, 1994) - Identification and Estimation of Local Average Treatment Effects"
   file: "Imbens_Angrist_Econometrica_1994.pdf"
   desc: "This note summarizes the paper, which formalizes the local average treatment effect framework by using potential outcomes, potential treatment states, instrument relevance/exogeneity, and monotonicity to show that IV identifies the average causal effect for compliers whose treatment status is changed by the instrument, not necessarily the ATE or ATT, implying that empirical IV estimates must be interpreted through the institutional mechanism, monotonicity argument, and complier population they actually move."
