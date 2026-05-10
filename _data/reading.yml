@@ -1,3 +1,7 @@
+- title: "Jacobson, LaLonde & Sullivan (AER, 1993) - Earnings Losses of Displaced Workers"
+  file: "Jacobson_LaLonde_Sullivan_AER_1993.pdf"
+  desc: "This note summarizes the paper, which uses Pennsylvania administrative wage records linked to firm employment data, high-tenure worker samples, mass-layoff displacement events, event-study models with worker and time fixed effects, trend controls, same-firm comparison groups, and heterogeneity by worker, industry, firm, local labor market, and reemployment sector to show that displaced workers suffer large and persistent earnings losses beginning before separation and averaging about 25% of predisplacement earnings, implying that job loss destroys durable firm-specific rents, match value, and internal-labor-market advantages that are not quickly rebuilt."
+
 - title: "White (Econometrica, 1980) - A Heteroskedasticity-Consistent Covariance Matrix Estimator and a Direct Test for Heteroskedasticity"
   file: "White_Econometrica_1980.pdf"
   desc: "This note summarizes the paper, which introduces the heteroskedasticity-consistent “White” sandwich covariance estimator and auxiliary-regression nR^2 heteroskedasticity test, showing that OLS coefficients can remain consistent under exogeneity while conventional homoskedastic standard errors fail, implying that valid regression inference can be achieved by estimating the covariance of squared residuals and regressors directly rather than specifying a parametric variance model."
