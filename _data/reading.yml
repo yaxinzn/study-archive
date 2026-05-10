@@ -1,3 +1,7 @@
+- title: "Hirano, Imbens & Ridder (Econometrica, 2003) - Efficient Estimation of Average Treatment Effects Using the Estimated Propensity Score"
+  file: "Hirano_Imbens_Ridder_Econometrica_2003.pdf"
+  desc: "This note summarizes the paper, which shows that under unconfoundedness, inverse-propensity-weighted estimators using a flexible nonparametrically estimated propensity score can achieve semiparametric efficiency for ATE, WATE, and ATT because estimated weights impose covariate-balance information that true weights ignore, implying that propensity-score estimation is not merely a nuisance step but a central efficiency device in treatment-effect estimation."
+
 - title: "Krueger (QJE, 1999) - Experimental Estimates of Education Production Functions"
   file: "Krueger_QJE_1999.pdf"
   desc: "This note summarizes the paper, which reanalyzes Tennessee Project STAR’s randomized class-size experiment using within-school assignment, balance checks, reduced-form and IV models, attrition and noncompliance adjustments, pooled longitudinal exposure specifications, and subgroup/school heterogeneity tests to show that small early-grade classes raise student achievement by several percentile points—especially in the first year—while teacher aides in regular classes have modest effects, implying that randomized evidence supports class-size reduction as a meaningful education input at the STAR margin."
