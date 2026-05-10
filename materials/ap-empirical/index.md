@@ -10,6 +10,3 @@ hide_name: true
 
 # Asset Pricing (Empirical)
 
-## Files
-<!-- AUTO-LIST-START -->
-<!-- AUTO-LIST-END -->
