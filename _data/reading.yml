@@ -1,3 +1,7 @@
+- title: "Petersen (RFS, 2009) - Estimating Standard Errors in Finance Panel Data Sets: Comparing Approaches"
+  file: "Petersen_RFS_2009.pdf"
+  desc: "This note summarizes the paper, which compares standard-error estimators for finance panel regressions using simulations, a survey of empirical practice, and asset-pricing and corporate-finance applications, showing that White, Fama–MacBeth, firm-clustered, time-clustered, and two-way-clustered errors are appropriate under different dependence structures, implying that researchers must diagnose whether residuals and regressors are correlated within firms, within time periods, or both before choosing inference."
+
 - title: "Nickell (Econometrica, 1981) - Biases in Dynamic Models with Fixed Effects"
   file: "Nickell_Econometrica_1981.pdf"
   desc: "This note summarizes the paper, which derives the classic Nickell bias in dynamic fixed-effects panel models by showing that within transformation mechanically correlates the demeaned lagged dependent variable with the demeaned error when T is fixed, producing a negative asymptotic bias in the autoregressive coefficient that does not vanish as N grows and can also contaminate exogenous-regressor coefficients, implying that ordinary fixed-effects OLS is inconsistent in short dynamic panels and must be replaced by estimators designed for dynamic panel bias."
