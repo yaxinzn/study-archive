@@ -1,3 +1,7 @@
+- title: "Evans & Schwab (QJE, 1995) - Finishing High School and Starting College: Do Catholic Schools Make a Difference?"
+  file: "Evans_Schwab_QJE_1995.pdf"
+  desc: "his note summarizes the paper, which uses High School and Beyond sophomore-cohort data, high school graduation and four-year college entry outcomes, rich family/background/test-score controls, probit and bivariate probit selection models, Catholic religion and local Catholic-share instruments, school-selectivity checks, and heterogeneity analyses to show that Catholic high schools substantially increase educational attainment, especially high school completion, implying that school effectiveness should be evaluated through economically meaningful attainment outcomes rather than test scores alone."
+
 - title: "Chetty, Hendren & Katz (AER, 2016) - The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment"
   file: "Chetty_Hendren_Katz_AER_2016.pdf"
   desc: "This note summarizes the paper, which uses the randomized Moving to Opportunity experiment, linked federal tax records, ITT and TOT voucher estimates, childhood age-at-random-assignment variation, adult earnings, college, marriage, fertility, neighborhood, and tax-payment outcomes to show that moving to lower-poverty neighborhoods substantially improves long-run outcomes for children who move before adolescence but not for older children or adults, implying that neighborhood quality operates as a developmental input whose benefits depend strongly on early exposure."
