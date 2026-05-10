@@ -1,3 +1,7 @@
+- title: "White (Econometrica, 1980) - A Heteroskedasticity-Consistent Covariance Matrix Estimator and a Direct Test for Heteroskedasticity"
+  file: "White_Econometrica_1980.pdf"
+  desc: "This note summarizes the paper, which introduces the heteroskedasticity-consistent “White” sandwich covariance estimator and auxiliary-regression nR^2 heteroskedasticity test, showing that OLS coefficients can remain consistent under exogeneity while conventional homoskedastic standard errors fail, implying that valid regression inference can be achieved by estimating the covariance of squared residuals and regressors directly rather than specifying a parametric variance model."
+
 - title: "Bertrand, Duflo & Mullainathan (QJE, 2004) - How Much Should We Trust Differences-in-Differences Estimates?"
   file: "Bertrand_Duflo_Mullainathan_QJE_2004.pdf"
   desc: "This note summarizes the paper, which uses a survey of published differences-in-differences studies, CPS placebo-law simulations, AR(1) experiments, and comparisons of parametric corrections, block bootstrap, aggregation, empirical covariance matrices, and cluster-robust inference to show that persistent outcomes and persistent treatment indicators make conventional DD standard errors severely overreject, implying that inference must be clustered or otherwise adjusted at the level of treatment variation rather than based on the raw number of observations."
