@@ -1,3 +1,7 @@
+- title: "Thompson (JFE, 2011) - Simple formulas for standard errors that cluster by both firm and time"
+  file: "Thompson_JFE_2011.pdf"
+  desc: "This note summarizes the paper, which develops simple two-way clustered standard-error formulas for panel regressions by combining firm-clustered and time-clustered covariance matrices and subtracting the White matrix to avoid double-counting, extends the approach to persistent common shocks, and uses Monte Carlo simulations plus an industry-profitability application to show that inference in finance panels depends critically on matching standard errors to both within-firm and within-time dependence, implying that single-cluster or White standard errors can severely misstate statistical significance."
+
 - title: "Solon (AER, 1992) - Intergenerational Income Mobility in the United States"
   file: "Solon_AER_1992.pdf"
   desc: "This note summarizes the paper, which uses PSID father-son data, multi-year averages of fathers’ earnings, age-profile controls, balanced-sample checks, and IV estimates using father education to show that earlier U.S. mobility studies understated intergenerational income persistence because single-year income measures and homogeneous samples created attenuation bias, implying that long-run father-son economic-status correlations are closer to 0.4–0.5 and U.S. income mobility is substantially lower than previously believed."
