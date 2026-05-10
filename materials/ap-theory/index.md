@@ -9,8 +9,3 @@ hide_name: true
 ---
 
 # Asset Pricing (Theory)
-
-## Files
-<!-- AUTO-LIST-START -->
-
-<!-- AUTO-LIST-END -->
