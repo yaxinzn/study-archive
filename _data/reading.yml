@@ -1,3 +1,7 @@
+- title: "Hall & Horowitz (Econometrica, 1996) - Bootstrap Critical Values for Tests Based on Generalized-Method-of-Moments Estimators"
+  file: "Hall_Horowitz_Econometrica_1996.pdf"
+  desc: "This note summarizes the paper, which develops higher-order bootstrap critical values for GMM-based t and overidentifying-restrictions J tests, uses Edgeworth expansions, recentered bootstrap moments, block resampling for dependent data, corrected bootstrap statistics, regularity conditions, and Monte Carlo evidence to show that properly constructed bootstrap inference reduces finite-sample size distortions relative to first-order normal and chi-square critical values, implying that GMM bootstrap procedures must be carefully aligned with the statistic and dependence structure being approximated."
+
 - title: "Gruber (AER, 1994) - The Incidence of Mandated Maternity Benefits"
   file: "Gruber_AER_1994.pdf"
   desc: "This note summarizes the paper, which uses state and federal maternity-benefit mandates, CPS labor-market data, demographic treatment and control groups, triple-difference designs, predicted mandate-cost specifications, and the federal Pregnancy Discrimination Act as a reverse experiment to show that mandated maternity insurance costs were largely shifted onto affected workers through lower wages with little evidence of large employment or hours losses, implying that the statutory burden of employer mandates can differ sharply from their economic incidence."
