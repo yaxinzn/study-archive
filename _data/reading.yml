@@ -1,3 +1,7 @@
+- title: "Chava & Roberts (JF, 2008) - How Does Financing Impact Investment? The Role of Debt Covenants"
+  file: "Chava_Roberts_JF_2008.pdf"
+  desc: "This note summarizes the paper, which uses Dealscan loan-covenant data, CRSP-Compustat firm outcomes, covenant-threshold distance measures, firm-quarter investment regressions, regression-discontinuity logic, event-time evidence, robustness controls, and agency/information-problem heterogeneity tests to show that financial covenant violations transfer control rights to creditors and reduce capital investment by about 1% of capital per quarter, implying that financing affects real corporate policy not only through funding constraints but through state-contingent creditor control."
+
 - title: "Card & Krueger (AER, 2000) - Minimum Wages and Employment: A Case Study of the Fast-Food Industry in New Jersey and Pennsylvania: Reply"
   file: "Card_Krueger_AER_2000.pdf"
   desc: "This note summarizes the paper, which reexamines the 1992 New Jersey minimum-wage increase using representative BLS ES-202 administrative payroll records, the original Card–Krueger survey, the disputed BNW payroll sample, difference-in-differences specifications, robustness checks, longer BLS time-series evidence, a 1996 reverse comparison, and within-New-Jersey wage-gap tests to show that representative payroll data do not support a systematic negative fast-food employment effect, implying that the replication dispute turns on sample representativeness, reporting intervals, and measurement rather than payroll records per se."
