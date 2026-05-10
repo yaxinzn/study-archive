@@ -1,3 +1,7 @@
+- title: "Elenev, Law, Song & Yaron (JFE, 2024) - Fearing the Fed: How Wall Street Reads Main Street"
+  file: "Elenev_Law_Song_Yaron_JFE_2024.pdf"
+  desc: "This note summarizes the paper, which uses high-frequency S&P 500 E-mini, Eurodollar, and Treasury futures reactions to scheduled macroeconomic news surprises, Bloomberg survey forecasts, time-varying stock sensitivity regressions, output-gap and inflation state variables, bond-market evidence, and survey-implied policy-rule estimates to show that stock prices react to macro news through both cash-flow news and perceived Federal Reserve reaction functions, implying that the same “good” macro surprise can be bullish when slack is high but muted or bearish when the economy is tight or inflation makes expected tightening dominant."
+
 - title: "Faria-e-Castro, Paul, and Sánchez (JFE, 2024) - Evergreening"
   file: "FariaeCastro_Paul_Sanchez_JFE_2024.pdf"
   desc: "This note summarizes the paper, which uses static and dynamic models of concentrated legacy lending, U.S. Y-14 loan-level data, within-firm-time bank comparisons, lender debt-share and distress interactions, firm-level lender-concentration tests, and quantitative heterogeneous-firm calibration to show that incumbent lenders with large old exposures lend more and charge lower rates to distressed borrowers to protect legacy claims, implying that evergreening can support debt and investment in normal credit markets while keeping weak firms alive and lowering measured productivity."
