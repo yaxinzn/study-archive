@@ -1,6 +1,6 @@
 - title: "Imbens & Angrist (Econometrica, 1994) - Identification and Estimation of Local Average Treatment Effects"
   file: "Imbens_Angrist_Econometrica_1994.pdf"
-  desc: "This note summarizes the paper, which formalizes the local average treatment effect framework for instrumental variables with heterogeneous treatment effects by defining potential treatment states, compliers, relevance, exclusion, and monotonicity conditions, proving that the Wald IV ratio identifies the average causal effect for individuals whose treatment status is changed by the instrument, and extending the logic to multi-valued instruments as weighted averages of adjacent LATEs, implying that IV estimates must be interpreted through the specific complier population and institutional margin moved by the instrument."
+  desc: "This note summarizes the paper, which formalizes the local average treatment effect framework by using potential outcomes, potential treatment states, instrument relevance/exogeneity, and monotonicity to show that IV identifies the average causal effect for compliers whose treatment status is changed by the instrument, not necessarily the ATE or ATT, implying that empirical IV estimates must be interpreted through the institutional mechanism, monotonicity argument, and complier population they actually move."
 
 - title: "Tobin (Econometrica, 1958) - Estimation of Relationships for Limited Dependent Variables"
   file: "Tobin_Econometrica_1958.pdf"
