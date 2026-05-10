@@ -1,3 +1,7 @@
+- title: "Sacerdote (QJE, 2001) - Peer Effects with Random Assignment: Results for Dartmouth Roommates"
+  file: "Sacerdote_QJE_2001.pdf"
+  desc: "This note summarizes the paper, which uses Dartmouth’s randomized freshman roommate assignment, balance tests, pretreatment roommate characteristics, academic and social outcome regressions, dorm and room peer-group comparisons, and nonlinear match specifications to show that roommates modestly affect freshman GPA and fraternity/sorority/coed-house participation but not major choice or varsity athletics, implying that peer effects are real yet outcome-specific and depend on the relevant social reference group."
+
 - title: "Sapienza (JFE, 2004) - The Effects of Government Ownership on Bank Lending"
   file: "Sapienza_JFE_2004.pdf"
   desc: "This note summarizes the paper, which uses Italian credit-line contracts, firm risk scores, matched borrower samples, firm and time fixed effects, bank controls, dual-borrower comparisons, regional and firm-size heterogeneity, and political-party affiliation measures to show that state-owned banks charge lower interest rates than private banks—especially to large firms and in provinces where the affiliated political party is stronger—implying that government bank ownership can distort credit allocation through political patronage rather than purely social lending."
