@@ -1,3 +1,7 @@
+- title: "Nickell (Econometrica, 1981) - Biases in Dynamic Models with Fixed Effects"
+  file: "Nickell_Econometrica_1981.pdf"
+  desc: "This note summarizes the paper, which derives the classic Nickell bias in dynamic fixed-effects panel models by showing that within transformation mechanically correlates the demeaned lagged dependent variable with the demeaned error when T is fixed, producing a negative asymptotic bias in the autoregressive coefficient that does not vanish as N grows and can also contaminate exogenous-regressor coefficients, implying that ordinary fixed-effects OLS is inconsistent in short dynamic panels and must be replaced by estimators designed for dynamic panel bias."
+
 - title: "Massa, Zhang, and Zhang (RFS, 2015) - The Invisible Hand of Short Selling: Does Short Selling Discipline Earnings Management?"
   file: "Massa_Zhang_Zhang_RFS_2015.pdf"
   desc: "This note summarizes the paper, which uses a large international panel, securities-lending data, modified Jones accruals, lendable-share measures of short-selling potential, ETF-based instruments, U.S. Regulation SHO, Hong Kong short-sale eligibility changes, and robustness tests to show that the threat of short selling reduces future earnings management and improves price informativeness, implying that short sellers act not only as price-discovery traders but also as external monitors disciplining managerial reporting behavior."
