@@ -1,3 +1,7 @@
+- title: "Goyal & Saretto (RFS, 2025) - Can Equity Option Returns Be Explained by a Factor Model? IPCA Says Yes"
+  file: "Goyal_Saretto_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which uses expiration-to-expiration daily delta-hedged equity option returns, 46 option and stock characteristics, transaction-cost adjustments, and a three-factor IPCA model with characteristic-based dynamic betas to show that most large long-short option-strategy returns are explained by systematic option-factor exposure rather than abnormal profits, implying that many option predictors proxy for latent risk exposures—especially through RV–IV—rather than pure option-market inefficiency."
+
 - title: "Martin (RFS, 2025) - Real Effects of Centralized Markets: Evidence from Steel Futures"
   file: "Martin_RFS_2025.pdf"
   desc: "This note summarizes the paper, which uses the introductions of U.S. steel futures for hot-rolled coil and busheling scrap, product-level price data, firm hedging disclosures, market-share and cost-sensitivity tests, profit regressions, stock-market event studies, and non-U.S. placebo tests to show that centralized futures markets reduce physical-market price dispersion, increase producer hedging, shift market share toward low-cost firms, lower product prices, and reduce producer profits and valuations, implying that derivative-market centralization can reshape real product-market competition through reference-price and risk-management channels."
