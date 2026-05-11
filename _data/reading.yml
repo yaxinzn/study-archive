@@ -1,3 +1,7 @@
+- title: "Gurun, Wu, S. Xiao & W. Xiao (RFS, 2023) - Do Wall Street Landlords Undermine Renters’ Welfare?"
+  file: "Gurun_Wu_Xiao_Xiao_RFS_2023.pdf"
+  desc: "This note summarizes the paper, which uses institutional landlord mergers, overlapped-neighborhood treatment variation, Zillow rent data, property-level listings, census-tract crime, amenities, turnover, vacancy, competition, and broad-sample robustness tests to show that landlord consolidation raises rents through market power while reducing crime through scale economies and neighborhood-quality investment, implying that Wall Street landlords can simultaneously extract more tenant surplus and improve local public goods."
+
 - title: "Keys, Mahoney & Yang (RFS, 2023) - What Determines Consumer Financial Distress? Place- and Person-Based Factors"
   file: "Keys_Mahoney_Yang_RFS_2023.pdf"
   desc: "This note summarizes the paper, which uses a large TransUnion credit-report panel, commuting-zone variation, mover event studies, variance decompositions, and robustness checks based on same-origin and same-destination comparisons to show that collections and credit card delinquency are driven mostly by portable person-based factors, while bankruptcy—especially Chapter 13—is substantially shaped by local place-based legal institutions and filing norms, implying that consumer financial distress requires outcome-specific policy responses rather than a single place-based explanation."
