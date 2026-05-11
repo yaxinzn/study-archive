@@ -1,3 +1,7 @@
+- title: "Grigoris, Hu, and Segal (RFS, 2023) - Counterparty Risk: Implications for Network Linkages and Asset Prices"
+  file: "Grigoris_Hu_Segal_RFS_2023.pdf"
+  desc: "This note summarizes the paper, which uses receivables-to-sales as a trade-credit measure, CRSP/Compustat returns, FactSet supplier-customer links, aggregate search-cost proxies, macro pricing tests, and a calibrated production-network model to show that low-trade-credit firms earn higher returns because they face shorter customer relationships and greater exposure to systematic customer-replacement costs, implying that trade credit is not merely working-capital finance but a signal of counterparty relationship quality and priced production-network risk."
+
 - title: "Charles (RFS, 2025) - Memory Moves Markets"
   file: "Charles_RFS_2025.pdf"
   desc: "This note summarizes the paper, which uses rigid earnings-announcement schedules, calendar rotations, characteristic-adjusted returns, retail order-imbalance measures, memory-strength tests, and cue-based trading strategies to show that salient events at one firm can cue investors to recall associated firms, generating retail buying pressure, temporary abnormal returns, and later reversals, implying that internally generated investor memory can move markets and create short-lived return predictability beyond external news or fundamental information spillovers."
