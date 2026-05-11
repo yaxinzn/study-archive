@@ -1,3 +1,7 @@
+- title: "Guo (RFS, 2025) - Earnings Extrapolation and Predictable Stock Market Returns"
+  file: "Guo_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which links aggregate return predictability to the earnings-calendar cycle by showing that past newsy-month returns predict reversals in future newsy months but continuations in non-newsy months, using CRSP returns, IBES expectation data, industry returns, real-time forecasting tests, and a parameter-compression model to argue that investors extrapolate earnings news while misjudging its month-specific relevance, implying that market-wide predictability can be hidden in unconditional autocorrelations but revealed by earnings-announcement timing."
+
 - title: "Andries, Bianchi, Huynh & Pouget (RFS, 2025) - Return Predictability, Expectations, and Investment: Experimental Evidence"
   file: "Andries_Bianchi_Huynh_Pouget_RFS_2025.pdf"
   desc: "This note summarizes the paper, which uses a controlled investment experiment with return histories, a potentially predictive signal, elicited signal-use beliefs, forecasts, confidence/tail probabilities, and risky allocations to show that investors switch between signal-based forecasting and extrapolation depending on perceived signal usefulness, and that signal-based forecasts have stronger portfolio pass-through than extrapolative forecasts, implying that information changes not only expectations but also how strongly investors act on those expectations."
