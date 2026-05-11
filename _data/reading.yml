@@ -1,3 +1,7 @@
+- title: "Andries, Bianchi, Huynh & Pouget (RFS, 2025) - Return Predictability, Expectations, and Investment: Experimental Evidence"
+  file: "Andries_Bianchi_Huynh_Pouget_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which uses a controlled investment experiment with return histories, a potentially predictive signal, elicited signal-use beliefs, forecasts, confidence/tail probabilities, and risky allocations to show that investors switch between signal-based forecasting and extrapolation depending on perceived signal usefulness, and that signal-based forecasts have stronger portfolio pass-through than extrapolative forecasts, implying that information changes not only expectations but also how strongly investors act on those expectations."
+
 - title: "Goyal & Saretto (RFS, 2025) - Can Equity Option Returns Be Explained by a Factor Model? IPCA Says Yes"
   file: "Goyal_Saretto_RFS_2025.pdf"
   desc: "This note summarizes the paper, which uses expiration-to-expiration daily delta-hedged equity option returns, 46 option and stock characteristics, transaction-cost adjustments, and a three-factor IPCA model with characteristic-based dynamic betas to show that most large long-short option-strategy returns are explained by systematic option-factor exposure rather than abnormal profits, implying that many option predictors proxy for latent risk exposures—especially through RV–IV—rather than pure option-market inefficiency."
