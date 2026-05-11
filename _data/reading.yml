@@ -1,3 +1,7 @@
+- title: "John, Rivera, and Saleh (RFS, 2025) - Proof-of-Work versus Proof-of-Stake: A Comparative Economic Analysis"
+  file: "John_Rivera_Saleh_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which develops a unified equilibrium model comparing Proof-of-Work and Proof-of-Stake security through user adoption, validator incentives, DeFi opportunity costs, congestion fees, asset values, and attacker benefits, showing that PoS is generally more secure under realistic parameters because staking avoids the high depreciation and energy costs of mining while requiring implausibly large attacker leverage to overturn its advantage, implying that blockchain security is an economic equilibrium outcome rather than a purely technical protocol feature."
+
 - title: "Li & Mann (RFS, 2025) - Digital Tokens and Platform Building"
   file: "Li_Mann_RFS_2025.pdf"
   desc: "This note summarizes the paper, which develops a theory of digital tokens as coordination devices for launching peer-to-peer platforms, showing that costly and observable purchases of intrinsically platform-specific tokens allow users to signal intended participation under forward induction, eliminate no-trade equilibria, support investor resale to late adopters, and aggregate information about platform value, implying that utility tokens can create economic value by solving platform-adoption coordination failures rather than by paying dividends or functioning as conventional securities."
