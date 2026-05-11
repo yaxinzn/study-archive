@@ -1,3 +1,7 @@
+- title: "Lee, Moretti, and Butler (QJE, 2004) - Do Voters Affect or Elect Policies? Evidence from the U.S. House"
+  file: "Lee_Moretti_Butler_QJE_2004.pdf"
+  desc: "This note summarizes the paper, which uses close U.S. House elections in a regression-discontinuity design, ADA and alternative roll-call voting scores, incumbency-induced future win probabilities, balance and placebo tests, and a decomposition of total effects into “elect” versus “affect” components to show that voters mainly change policy by electing different parties rather than by forcing candidates to moderate, implying that general-election competition selects between policy positions more than it reshapes them."
+
 - title: "Sacerdote (QJE, 2001) - Peer Effects with Random Assignment: Results for Dartmouth Roommates"
   file: "Sacerdote_QJE_2001.pdf"
   desc: "This note summarizes the paper, which uses Dartmouth’s randomized freshman roommate assignment, balance tests, pretreatment roommate characteristics, academic and social outcome regressions, dorm and room peer-group comparisons, and nonlinear match specifications to show that roommates modestly affect freshman GPA and fraternity/sorority/coed-house participation but not major choice or varsity athletics, implying that peer effects are real yet outcome-specific and depend on the relevant social reference group."
