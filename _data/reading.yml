@@ -1,3 +1,7 @@
+- title: "Loewenstein & Qin (RFS, 2025) - An Equilibrium Model of Imperfect Hedging: Transaction Costs, Heterogeneity in Risk Aversion, and Return Volatility"
+  file: "Loewenstein_Qin_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which develops an equilibrium model of derivative trading with proportional transaction costs, imperfect hedging, nontraded endowment risk, and heterogeneous risk aversion to show that transaction costs create no-transaction regions, require market clearing at both buy and sell boundaries, can raise equilibrium return volatility when trade survives, and can eliminate trade when heterogeneity is insufficient, implying that financial transaction taxes need not stabilize derivative markets and may instead increase volatility or reduce risk sharing."
+
 - title: "Giambona, Kumar, and Phillips (RFS, 2025) - Hedging, Contract Enforceability, and Competition"
   file: "Giambona_Kumar_Phillips_RFS_2025.pdf"
   desc: "This note summarizes the paper, which uses staggered state adoption of Section 711, U.S. life-insurer derivatives and product-market data, high-leverage exposure measures, event studies, matched samples, and financial-stability and sales outcomes to show that stronger derivatives contract enforceability increases hedging by constrained insurers, reduces risk, improves ratings, raises policy sales, lowers prices, and expands market share, implying that hedging access can reshape product-market competition by making financially fragile firms safer and more competitive."
