@@ -12,7 +12,7 @@ hide_name: true
 
 ## Reference
 He, X. (2026). *Microeconomics*. [https://www.hexindi.com/notes/econometrics](https://www.hexindi.com/notes/microeconomic)
-- **[XMind mind map (Micro)](https://app.xmind.com/share/BGA5niRe)**
+- **[Mind map (Microeconomics)](https://app.xmind.com/share/BGA5niRe)**
 
 ## Files
 <!-- AUTO-LIST-START -->
