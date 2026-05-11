@@ -1,3 +1,7 @@
+- title: "Charles (RFS, 2025) - Memory Moves Markets"
+  file: "Charles_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which uses rigid earnings-announcement schedules, calendar rotations, characteristic-adjusted returns, retail order-imbalance measures, memory-strength tests, and cue-based trading strategies to show that salient events at one firm can cue investors to recall associated firms, generating retail buying pressure, temporary abnormal returns, and later reversals, implying that internally generated investor memory can move markets and create short-lived return predictability beyond external news or fundamental information spillovers."
+
 - title: "Godker, Jiao & Smeets (RFS, 2025) - Investor Memory"
   file: "Godker_Jiao_Smeets_RFS_2025.pdf"
   desc: "This note summarizes the paper, which uses three investment experiments with delayed versus immediate recall, Bayesian belief benchmarks, memory-bias measures, reinvestment and confidence outcomes, and high-incentive/no-choice mechanism tests to show that investors selectively remember more gains and fewer losses, leading to optimistic beliefs, suboptimal reinvestment, and overconfidence, implying that investor memory is a biased filter rather than neutral storage of past outcomes."
