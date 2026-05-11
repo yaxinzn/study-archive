@@ -1,3 +1,7 @@
+- title: "Keys, Mahoney & Yang (RFS, 2023) - What Determines Consumer Financial Distress? Place- and Person-Based Factors"
+  file: "Keys_Mahoney_Yang_RFS_2023.pdf"
+  desc: "This note summarizes the paper, which uses a large TransUnion credit-report panel, commuting-zone variation, mover event studies, variance decompositions, and robustness checks based on same-origin and same-destination comparisons to show that collections and credit card delinquency are driven mostly by portable person-based factors, while bankruptcy—especially Chapter 13—is substantially shaped by local place-based legal institutions and filing norms, implying that consumer financial distress requires outcome-specific policy responses rather than a single place-based explanation."
+
 - title: "Benmelech, Guren & Melzer (RFS, 2023) - Making the House a Home: The Stimulative Effect of Home Purchases on Consumption and Investment"
   file: "Benmelech_Guren_Melzer_RFS_2023.pdf"
   desc: "This note summarizes the paper, which uses Consumer Expenditure Survey household event studies, PSID mover comparisons, BuildFax/DataQuick permit records, Economic Census retail data, and aggregate Great Recession calculations to show that home purchases trigger large home-specific spending on durables, repairs, improvements, and maintenance, implying that housing transaction volume itself is a macroeconomic transmission channel distinct from housing wealth effects."
