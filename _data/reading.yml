@@ -1,3 +1,7 @@
+- title: "Li & Mann (RFS, 2025) - Digital Tokens and Platform Building"
+  file: "Li_Mann_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which develops a theory of digital tokens as coordination devices for launching peer-to-peer platforms, showing that costly and observable purchases of intrinsically platform-specific tokens allow users to signal intended participation under forward induction, eliminate no-trade equilibria, support investor resale to late adopters, and aggregate information about platform value, implying that utility tokens can create economic value by solving platform-adoption coordination failures rather than by paying dividends or functioning as conventional securities."
+
 - title: "Lee, Moretti, and Butler (QJE, 2004) - Do Voters Affect or Elect Policies? Evidence from the U.S. House"
   file: "Lee_Moretti_Butler_QJE_2004.pdf"
   desc: "This note summarizes the paper, which uses close U.S. House elections in a regression-discontinuity design, ADA and alternative roll-call voting scores, incumbency-induced future win probabilities, balance and placebo tests, and a decomposition of total effects into “elect” versus “affect” components to show that voters mainly change policy by electing different parties rather than by forcing candidates to moderate, implying that general-election competition selects between policy positions more than it reshapes them."
