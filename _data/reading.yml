@@ -1,3 +1,7 @@
+- title: "Abrardi, Colombo, and Tedeschi (RFS, 2025) - Pretending Ignorance Is Bliss: Competing Insurers with Heterogeneous Informational Advantages"
+  file: "Abrardi_Colombo_Tedeschi_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which develops a theory of competitive insurance markets where insurers hold private, imperfect, and heterogeneous information about policyholder risk, showing that noninformative pooling equilibria can be profitable and efficient under optimistic off-path beliefs while informative equilibria reveal signal profiles but create signaling-screening distortions and underinsurance, implying that data-rich insurer competition need not force full information revelation, zero profits, or socially efficient transparency."
+
 - title: "John, Rivera, and Saleh (RFS, 2025) - Proof-of-Work versus Proof-of-Stake: A Comparative Economic Analysis"
   file: "John_Rivera_Saleh_RFS_2025.pdf"
   desc: "This note summarizes the paper, which develops a unified equilibrium model comparing Proof-of-Work and Proof-of-Stake security through user adoption, validator incentives, DeFi opportunity costs, congestion fees, asset values, and attacker benefits, showing that PoS is generally more secure under realistic parameters because staking avoids the high depreciation and energy costs of mining while requiring implausibly large attacker leverage to overturn its advantage, implying that blockchain security is an economic equilibrium outcome rather than a purely technical protocol feature."
