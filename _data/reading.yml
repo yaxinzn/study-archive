@@ -1,3 +1,7 @@
+- title: "Butler, Mayer & Weston (RFS, 2023) - Racial Disparities in the Auto Loan Market"
+  file: "Butler_Mayer_Weston_RFS_2023.pdf"
+  desc: "This note summarizes the paper, which links credit bureau records to HMDA mortgage data to observe race in auto lending and uses approval, interest-rate, default, credit-card falsification, racial-bias, competition, and CFPB-intervention evidence to show that minority borrowers face lower auto credit access and higher rates despite not defaulting more, implying that discretionary and opaque auto lending sustains racial disparities that competition and regulatory scrutiny can reduce."
+
 - title: "Gurun, Wu, S. Xiao & W. Xiao (RFS, 2023) - Do Wall Street Landlords Undermine Renters’ Welfare?"
   file: "Gurun_Wu_Xiao_Xiao_RFS_2023.pdf"
   desc: "This note summarizes the paper, which uses institutional landlord mergers, overlapped-neighborhood treatment variation, Zillow rent data, property-level listings, census-tract crime, amenities, turnover, vacancy, competition, and broad-sample robustness tests to show that landlord consolidation raises rents through market power while reducing crime through scale economies and neighborhood-quality investment, implying that Wall Street landlords can simultaneously extract more tenant surplus and improve local public goods."
