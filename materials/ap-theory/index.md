@@ -10,6 +10,10 @@ hide_name: true
 
 # Asset Pricing (Theory)
 - **[Mind map (Asset Pricing)](https://app.xmind.com/share/6AaHYByM)**
-- 
-## Files
+-
 
+## Files
+<!-- AUTO-LIST-START -->
+- **[AP1.pdf](AP1.pdf)**
+- **[AP_Linkages.pdf](AP_Linkages.pdf)**
+<!-- AUTO-LIST-END -->
