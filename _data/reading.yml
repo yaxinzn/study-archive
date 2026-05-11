@@ -1,3 +1,7 @@
+- title: "Dicks & Fulghieri (RFS, 2025) - Uncertainty, Contracting, and Beliefs in Organizations"
+  file: "Dicks_Fulghieri_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which develops a multidivisional principal-agent model with uncertainty-averse managers and headquarters to show that incentive contracts shape beliefs as well as risk and effort, so cross-division exposure, aggregate bonuses, or equity-based pay can be optimal even when other-division performance is not informative about effort, implying that broad pay and limited relative-performance evaluation may serve as uncertainty-hedging and belief-alignment tools rather than governance failures."
+
 - title: "Guo (RFS, 2025) - Earnings Extrapolation and Predictable Stock Market Returns"
   file: "Guo_RFS_2025.pdf"
   desc: "This note summarizes the paper, which links aggregate return predictability to the earnings-calendar cycle by showing that past newsy-month returns predict reversals in future newsy months but continuations in non-newsy months, using CRSP returns, IBES expectation data, industry returns, real-time forecasting tests, and a parameter-compression model to argue that investors extrapolate earnings news while misjudging its month-specific relevance, implying that market-wide predictability can be hidden in unconditional autocorrelations but revealed by earnings-announcement timing."
