@@ -1,3 +1,7 @@
+- title: "Hvide & Meling (RFS, 2023) - Do Temporary Demand Shocks Have Long-Term Effects for Startups?"
+  file: "Hvide_Meling_RFS_2023.pdf"
+  desc: "This note summarizes the paper, which uses Norwegian public procurement auctions, winner-versus-runner-up startup comparisons, difference-in-differences event studies, placebo tests, contract-delay checks, treatment-intensity and age heterogeneity, and post-win bidding/product-market evidence to show that temporary demand shocks from winning contracts generate persistent increases in startup sales, employment, profitability, and market scope, implying that early demand can create durable firm growth through learning-by-doing and capability accumulation."
+
 - title: "Pancost & Robatto (RFS, 2023) - The Effects of Capital Requirements on Good and Bad Risk-Taking"
   file: "Pancost_Robatto_RFS_2023.pdf"
   desc: "This note summarizes the paper, which develops a quantitative general-equilibrium model where deposits are held by both households and firms, showing that capital requirements reduce banks’ bad risk-taking but also reduce deposits that support firms’ productive risk-taking, and that because the welfare cost of lower firm deposits is partly absorbed through wages and profits, the optimal capital requirement is higher than in household-only models, implying that ignoring firm deposit demand can understate optimal bank capital regulation and overstate the cost of overshooting."
