@@ -1,4 +1,7 @@
 # Auto-generated update history (sorted newest -> oldest). Do not edit manually.
+- ts: "1778586311"
+  date: "2026-05-12"
+  title: "Revise messages in reading index"
 - ts: "1778586125"
   date: "2026-05-12"
   title: "Refactor CSS and add random PDF selection feature"
