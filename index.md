@@ -35,7 +35,7 @@ hide_name: true
 
 ### Fields - incomplete
 - **[Microeconomics](materials/micro/)**
-- **[Macroeconomics](materials/macro/)** 
+- **[Macroeconomics](materials/Macroeconomics/)** 
 - **[Econometrics](materials/econometrics/)** 
 - **[Mathematics for Economics](materials/math-foundations/)**
 - **[TFP Measurement](materials/tfp-measurement/)** 
