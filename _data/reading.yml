@@ -1,3 +1,7 @@
+- title: "Huang & Kisgen (JFE, 2013) - Gender and Corporate Finance: Are Male Executives Overconfident Relative to Female Executives?"
+  file: "Huang_Kisgen_JFE_2013.pdf"
+  desc: "This note summarizes the paper, which uses CEO/CFO gender-transition data, difference-in-differences around male-to-female versus male-to-male executive changes, announcement returns, earnings-forecast precision, option-exercise behavior, career outcomes, and value-destroying acquisition tests to show that firms with female executives make fewer acquisitions and debt issues but receive better market reactions when they act, implying that male executives are relatively more overconfident and that managerial gender helps explain corporate finance decisions beyond firm characteristics."
+
 - title: "Lu, Naik & Teo (RFS, 2024) - Diverse Hedge Funds"
   file: "Lu_Naik_Teo_RFS_2024.pdf"
   desc: "This note summarizes the paper, which uses hedge fund team background data, diversity measures based on education, major, work experience, gender, and race, baseline regressions, portfolio sorts, diversity-enhancing hire event studies, founder-hometown IVs, and within-manager solo-versus-team comparisons to show that diverse hedge fund teams outperform homogeneous teams by exploiting broader investment opportunities, avoiding behavioral biases, managing risk better, and overcoming capacity constraints, implying that diversity can create direct investment value in sophisticated asset management."
