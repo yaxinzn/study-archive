@@ -131,15 +131,15 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     <button id="readingClear" type="button">Clear</button>
   </div>
   <div class="reading-count" id="readingCount"></div>
-  <div class="reading-empty" id="readingEmpty">No matching papers. Try a different keyword (e.g., author surname).</div>
+  <div class="reading-empty" id="readingEmpty">No matching papers. Try a different keyword, such as an author surname.</div>
 </div>
 
 <div class="reading-random">
   <div class="reading-random-row">
-    <button id="readingRandomBtn" type="button">随机抽 10 篇</button>
+    <button id="readingRandomBtn" type="button">Pick 10 Random PDFs</button>
   </div>
   <div class="reading-random-note">
-    趣味检验阅读：从 library 里随机抽取 10 个 PDF 文件名。
+    Reading check: randomly select 10 PDF files from the library.
   </div>
   <ol id="readingRandomList"></ol>
 </div>
