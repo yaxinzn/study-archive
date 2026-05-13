@@ -1,3 +1,7 @@
+- title: "Dilm´e & Garrett (RES, 2026) - A Dynamic Theory of Random Price Discounts"
+  file: "Dilme_Garrett_RES_2026.pdf"
+  desc: "This note summarizes the paper, which develops a theoretical dynamic pricing model with a monopolist seller, forward-looking risk-averse buyers, buyer types, static allocation probabilities, stochastic price paths, stopping times, and random discount arrivals to explain why retailers use high regular prices with abrupt random sales, showing that random discounts can implement the optimal static screening allocation by giving lower-value buyers probabilistic access to low prices while preserving incentives for high-value buyers to buy at regular prices."
+
 - title: "Dempsey (RES, 2026) - Capital Requirements with Non-Bank Finance"
   file: "Dempsey_RES_2026.pdf"
   desc: "This note summarizes the paper, which uses a calibrated structural macro-finance model with heterogeneous firms, heterogeneous banks, bank loans, corporate bond finance, bank net worth, monitoring, moral hazard, insured deposits, costly equity, and capital requirements to study how tighter bank regulation works when firms can substitute into non-bank finance, showing that higher capital requirements reduce bank leverage and failure risk with small aggregate output and consumption costs, while the main burden falls on bank-dependent non-corporate firms that lack access to bond-market financing."
