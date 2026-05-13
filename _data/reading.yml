@@ -1,3 +1,7 @@
+- title: "Dempsey (RES, 2026) - Capital Requirements with Non-Bank Finance"
+  file: "Dempsey_RES_2026.pdf"
+  desc: "This note summarizes the paper, which uses a calibrated structural macro-finance model with heterogeneous firms, heterogeneous banks, bank loans, corporate bond finance, bank net worth, monitoring, moral hazard, insured deposits, costly equity, and capital requirements to study how tighter bank regulation works when firms can substitute into non-bank finance, showing that higher capital requirements reduce bank leverage and failure risk with small aggregate output and consumption costs, while the main burden falls on bank-dependent non-corporate firms that lack access to bond-market financing."
+
 - title: "Chen, Chen & Yang (RES, 2026) - Women in the Courtroom: Technology and Justice"
   file: "Chen_Chen_Yang_RES_2026.pdf"
   desc: "This note summarizes the paper, which uses roughly 6.4 million Chinese civil judgments from 2014–2018, China Court Trial Online broadcast records, litigant and judge gender measures, plaintiff winning outcomes, court-area broadcast intensity, case controls, and text-based measures of judicial attention and effort to study whether courtroom transparency reduces gender disparities, identifying effects through continuous DID, event studies, judge and court-area fixed effects, and Bartik IV based on pre-reform case-area shares, and showing that live trial broadcasting narrows the female plaintiff disadvantage by making judges more attentive, legally detailed, and less formulaic in their written decisions."
