@@ -1,3 +1,7 @@
+- title: "DellaVigna & Kim (RES, 2026) - Policy Diffusion and Polarization across U.S. States"
+  file: "DellaVigna_Kim_RES_2026.pdf"
+  desc: "This note summarizes the paper, which uses a large dataset of 602 U.S. state policies from the 1950s to 2020, policy categories, innovation measures, adoption timing, geographic proximity, demographic/economic similarity, migration flows, voter preferences, Republican vote-share similarity, and state party control to study how policies originate and diffuse across states, showing through innovation regressions, clustering measures, hazard models, robustness checks, and unified-government event studies that state policy diffusion has shifted from geography-based “laboratories of democracy” toward faster, more partisan diffusion driven by political alignment and party control."
+
 - title: "Dilm´e & Garrett (RES, 2026) - A Dynamic Theory of Random Price Discounts"
   file: "Dilme_Garrett_RES_2026.pdf"
   desc: "This note summarizes the paper, which develops a theoretical dynamic pricing model with a monopolist seller, forward-looking risk-averse buyers, buyer types, static allocation probabilities, stochastic price paths, stopping times, and random discount arrivals to explain why retailers use high regular prices with abrupt random sales, showing that random discounts can implement the optimal static screening allocation by giving lower-value buyers probabilistic access to low prices while preserving incentives for high-value buyers to buy at regular prices."
