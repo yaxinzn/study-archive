@@ -1,3 +1,7 @@
+- title: "Zhang (JFE, 2022) - Competition and manipulation in derivative contract markets"
+  file: "Zhang_JFE_2022.pdf"
+  desc: "This note summarizes the paper, which develops a theoretical model of derivative markets with hedgers, strategic spot traders, cash-settled contracts, settlement benchmarks, spot-market storage capacity, contract positions, inventory shocks, bid curves, and manipulation-induced basis risk to study how derivative payoffs distort spot-market trading, showing that manipulation is the derivative-position-driven component of spot bids, that it creates non-fundamental settlement-price noise Var(p−ψ), and that position limits, greater spot-market competition, deeper storage capacity, and better benchmark design can reduce manipulation risk."
+
 - title: "Baker, Larcker & Wang (JFE, 2022) - How Much Should We Trust Staggered Difference-in-Differences Estimates?"
   file: "Baker_Larcker_Wang_JFE_2022.pdf"
   desc: "This note summarizes the paper, which uses simulations based on Compustat-like finance data, Goodman-Bacon decompositions, staggered treatment-timing diagnostics, and reanalyses of banking deregulation and board-reform applications to study whether standard two-way fixed-effects difference-in-differences estimates can be trusted, showing that staggered TWFE can be biased when treatment effects are heterogeneous or dynamic because already-treated units become invalid controls, and recommending robust alternatives such as Callaway–Sant’Anna, Sun–Abraham, and stacked regressions."
