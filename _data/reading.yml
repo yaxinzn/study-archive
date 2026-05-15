@@ -1,3 +1,7 @@
+- title: "Jermann (RFS, 2020) - Negative Swap Spreads and Limited Arbitrage"
+  file: "Jermann_RFS_2020.pdf"
+  desc: "This note summarizes the paper, which develops a limited-arbitrage model of negative U.S. dollar swap spreads using Treasury yields, LIBOR/TED spreads, term spreads, dealer bond-holding costs, swap pricing, demand effects, leverage constraints, and swap-spread regressions from 1997–2018 to show that persistent negative long-maturity swap spreads can arise in equilibrium when constrained intermediaries face costly Treasury positions, so swap rates fail to fully incorporate long-bond term premia and become especially negatively related to term spreads after post-crisis balance-sheet constraints tighten."
+
 - title: " Begin, Dorion & Gauthier (RFS, 2020) - Idiosyncratic Jump Risk Matters: Evidence from Equity Returns and Options"
   file: "Begin_Dorion_Gauthier_RFS_2020.pdf"
   desc: "This note summarizes the paper, which uses daily stock returns and weekly out-of-the-money option prices for the S&P 500 and 260 firms from 1996–2015 to decompose expected equity returns into systematic normal, systematic jump, idiosyncratic normal, and idiosyncratic jump premia, showing through option-implied structural estimation, nested-model comparisons, factor regressions, double sorts, and long-short portfolio tests that idiosyncratic risk matters mainly through firm-specific jump/tail risk rather than ordinary Gaussian idiosyncratic volatility, with IJRP predicting positive abnormal returns beyond standard factors."
