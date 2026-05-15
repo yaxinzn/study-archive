@@ -1,3 +1,7 @@
+- title: "Langlois (JFE, 2023) - What matters in a characteristic?"
+  file: "Langlois_JFE_2023.pdf"
+  desc: "This note summarizes the paper, which uses international stock data across 35 countries, 17 industries, and eight normalized characteristics, decomposing each characteristic into country, industry, and adjusted residual components and embedding these components in an IPCA asset-pricing framework to study what parts of characteristics explain alphas versus betas, showing that adjusted within-country-and-industry variation is most important for expected-return alphas, while country components mainly explain factor exposures, return comovement, and international diversification patterns."
+
 - title: "Hinzen, John & Saleh (JFE, 2022) - Bitcoin’s Limited Adoption Problem"
   file: "Hinzen_John_Saleh_JFE_2022.pdf"
   desc: "This note summarizes the paper, which develops a theoretical equilibrium model of Bitcoin adoption with users, waiting-cost heterogeneity, transaction fees, miner free entry, network delay, fork probability, consensus wait time, and transaction-rate choices to show that Bitcoin’s limited adoption can arise endogenously because higher transaction demand raises fees, attracts more miners, increases network delay and fork risk, lengthens settlement time, and ultimately makes decentralized payment adoption bounded unless the protocol limits fork probabilities or reduces consensus delays."
