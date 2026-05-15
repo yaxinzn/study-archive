@@ -1,3 +1,7 @@
+- title: "Hu (JFE, 2022) - Social interactions and households’ flood insurance decisions"
+  file: "Hu_JFE_2022.pdf"
+  desc: "This note summarizes the paper, which uses over 50 million NFIP flood-insurance transactions from 2009–2019, county-month policy counts, FEMA flood declarations, Risk MAP campaigns, flood-risk-zone measures, and Facebook Social Connectedness Index data to study whether social interactions affect household insurance demand, showing through distant-flood and distant-campaign difference-in-differences/event-study designs that geographically distant friends’ flood or risk-information experiences raise local flood-insurance purchases persistently, consistent with social learning and attention rather than local risk shocks, migration, or general risk aversion."
+
 - title: "Zhang (JFE, 2022) - Competition and manipulation in derivative contract markets"
   file: "Zhang_JFE_2022.pdf"
   desc: "This note summarizes the paper, which develops a theoretical model of derivative markets with hedgers, strategic spot traders, cash-settled contracts, settlement benchmarks, spot-market storage capacity, contract positions, inventory shocks, bid curves, and manipulation-induced basis risk to study how derivative payoffs distort spot-market trading, showing that manipulation is the derivative-position-driven component of spot bids, that it creates non-fundamental settlement-price noise Var(p−ψ), and that position limits, greater spot-market competition, deeper storage capacity, and better benchmark design can reduce manipulation risk."
