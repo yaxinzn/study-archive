@@ -1,3 +1,7 @@
+- title: "Baker, Larcker & Wang (JFE, 2022) - How Much Should We Trust Staggered Difference-in-Differences Estimates?"
+  file: "Baker_Larcker_Wang_JFE_2022.pdf"
+  desc: "This note summarizes the paper, which uses simulations based on Compustat-like finance data, Goodman-Bacon decompositions, staggered treatment-timing diagnostics, and reanalyses of banking deregulation and board-reform applications to study whether standard two-way fixed-effects difference-in-differences estimates can be trusted, showing that staggered TWFE can be biased when treatment effects are heterogeneous or dynamic because already-treated units become invalid controls, and recommending robust alternatives such as Callaway–Sant’Anna, Sun–Abraham, and stacked regressions."
+
 - title: "Langlois (JFE, 2023) - What matters in a characteristic?"
   file: "Langlois_JFE_2023.pdf"
   desc: "This note summarizes the paper, which uses international stock data across 35 countries, 17 industries, and eight normalized characteristics, decomposing each characteristic into country, industry, and adjusted residual components and embedding these components in an IPCA asset-pricing framework to study what parts of characteristics explain alphas versus betas, showing that adjusted within-country-and-industry variation is most important for expected-return alphas, while country components mainly explain factor exposures, return comovement, and international diversification patterns."
