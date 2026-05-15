@@ -2,9 +2,9 @@
   file: "Campello_JFE_2003.pdf"
   desc: "This note summarizes Campello (2003), which studies how capital structure affects product-market competition over the business cycle. Using industry markups, production data, Compustat firm-quarter leverage, business-cycle indicators, and relative sales-growth measures, the paper shows that high-debt industries raise markups more in downturns and that highly levered firms lose relative sales mainly when their rivals are less financially constrained."
 
-- title: "Campello (JFE, 2003) - Capital structure and product markets interactions: evidence from business cycles"
+- title: "Sharifkhani & Simutin (JFE, 2021) - Feedback loops in industry trade networks and the term structure of momentum profits"
   file: "Sharifkhani_Simutin_JFE_2021.pdf"
-  desc: "This note summarizes the paper, which uses industry-level markup data, BLS and BEA production measures, Compustat firm-quarter data, leverage ratios, business-cycle indicators, and firm-level relative sales-growth measures to study how capital structure affects product-market competition over the business cycle, showing through industry markup regressions, two-step sales-debt sensitivity estimates, low- versus high-debt industry comparisons, and robustness checks that high-debt industries raise markups more in downturns and highly levered firms lose relative sales mainly when their rivals are less financially constrained."
+  desc: "This note summarizes Sharifkhani and Simutin (2021), which studies why momentum profits peak at intermediate horizons. Using 49 industry portfolio returns, BEA input-output customer-supplier networks, feedback-strength measures, and portfolio tests, the paper shows that shocks travel through industry trade networks and later return through feedback loops, generating larger momentum echo profits in high-feedback-strength industries."
 
 - title: "Mitchell & Mulherin (JFE, 1996) - The Impact of Industry Shocks on Takeover and Restructuring Activity"
   file: "Mitchell_Mulherin_JFE_1996.pdf"
