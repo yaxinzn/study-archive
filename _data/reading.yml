@@ -1,6 +1,6 @@
-- title: "Campello (JFE, 2003) - Capital structure and product markets interactions: evidence from business cycles"
+- title: "Sharifkhani & Simutin (JFE, 2021) - Feedback loops in industry trade networks and the term structure of momentum profits"
   file: "Sharifkhani_Simutin_JFE_2021.pdf"
-  desc: "This note summarizes the paper, which uses industry-level markup data, BLS and BEA production measures, Compustat firm-quarter data, leverage ratios, business-cycle indicators, and firm-level relative sales-growth measures to study how capital structure affects product-market competition over the business cycle, showing through industry markup regressions, two-step sales-debt sensitivity estimates, low- versus high-debt industry comparisons, and robustness checks that high-debt industries raise markups more in downturns and highly levered firms lose relative sales mainly when their rivals are less financially constrained."
+  desc: "This note summarizes the paper, which uses 49 industry portfolio returns from CRSP and Ken French, BEA input-output customer–supplier networks, feedback-strength measures, intermediate- and recent-horizon returns, analyst coverage, and feedback-loop portfolio tests to study why momentum profits peak at intermediate horizons, showing that shocks travel through industry trade networks and later return through strong feedback loops, generating larger momentum “echo” profits in high-feedback-strength industries, especially when information diffusion along the loop is limited."
 
 - title: "Mitchell & Mulherin (JFE, 1996) - The Impact of Industry Shocks on Takeover and Restructuring Activity"
   file: "Mitchell_Mulherin_JFE_1996.pdf"
