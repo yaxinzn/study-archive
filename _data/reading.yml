@@ -1,3 +1,7 @@
+- title: "Bessembinder, Hao, and Zheng (RFS, 2020) - Liquidity Provision Contracts and Market Quality: Evidence from the New York Stock Exchange"
+  file: "Bessembinder_Hao_Zheng_RFS_2020.pdf"
+  desc: "This note summarizes the paper, which uses NYSE-listed security-month and firm-day data from 2009–2013, the NYSE Designated Market Maker 1-million-share volume threshold, quoted and effective spreads, depth, price improvement, trading volume, venue-specific liquidity, market-share outcomes, placebo thresholds, and regression-discontinuity tests to study whether liquidity-provision contracts improve market quality, showing that enhanced DMM obligations narrow spreads, increase depth, improve execution quality, raise volume, and generate off-NYSE liquidity spillovers consistent with strategic complementarity in liquidity provision."
+
 - title: "Chaderina, Weiss & Zechner (JFE, 2022) - The Maturity Premium"
   file: "Chaderina_Weiss_Zechner_JFE_2022.pdf"
   desc: "This note summarizes the paper, which uses CRSP–Compustat firm-month data from 1976–2017, debt maturity measures, size-maturity portfolio sorts, Capital IQ crisis-period maturity data, leverage and beta dynamics, conditional CAPM tests, and a dynamic capital-structure model to study whether debt maturity affects equity risk premia, showing that long-maturity firms earn a positive maturity premium because sticky long-term debt keeps leverage and beta elevated in downturns, exactly when the market price of risk is high, so unconditional factor models miss this state-dependent risk exposure."
