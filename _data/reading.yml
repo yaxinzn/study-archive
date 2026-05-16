@@ -1,3 +1,7 @@
+- title: "Sequeira, Nunn & Qian (RES, 2020) - Immigrants and the Making of America"
+  file: "Sequeira_Nunn_Qian_RES_2020.pdf"
+  desc: "This note summarizes the paper, which uses U.S. county-level immigration data from 1860–1920, historical railroad access, national immigration booms and lulls, predicted immigrant shares, contemporary income, poverty, unemployment, urbanization, schooling, social capital, voting, crime, manufacturing, farming, patent, and education outcomes to study the long-run effects of the Age of Mass Migration, showing through a rail-access-by-immigration-boom IV strategy and weather-shock robustness checks that historical immigration raised local prosperity, industrialization, innovation, urbanization, and human capital without robust evidence of persistent negative social effects."
+
 - title: "Stevens (RES, 2020) - Coarse Pricing Policies"
   file: "Stevens_RES_2020.pdf"
   desc: "This note summarizes the paper, which uses weekly Nielsen Retail Scanner store-UPC prices from 2006–2015, distributional break tests, pricing-policy classifications, inflation decompositions, Great Recession pricing dynamics, and a rational-inattention model to study why aggregate inflation can be sluggish despite frequent micro price changes, showing that firms use coarse price menus that are revised infrequently, so prices often move within sticky policies rather than through full reoptimization, making aggregate price flexibility lower than raw posted-price volatility suggests."
