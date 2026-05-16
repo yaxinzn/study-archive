@@ -1,3 +1,7 @@
+- title: "Broer, Hansen, Krusell & Oberg (RES, 2020) The New Keynesian Transmission Mechanism: A Heterogeneous-Agent Perspective"
+  file: "Broer_Hansen_Krusell_Oberg_RES_2020.pdf"
+  desc: "This note summarizes the paper, which develops a tractable heterogeneous-agent New Keynesian model with workers, capitalists, incomplete markets, sticky prices, flexible versus rigid wages, and monetary policy shocks to study the transmission mechanism, showing that when workers receive wages while capitalists receive profits, sticky prices alone generate redistribution but no output response under flexible wages, whereas wage rigidity restores standard monetary transmission by making labor demand determine hours and output."
+
 - title: "Cloyne, Ferreira & Surico (RES, 2020) - Monetary Policy when Households have Debt: New Evidence on the Transmission Mechanism"
   file: "Cloyne_Ferreira_Surico_RES_2020.pdf"
   desc: "This note summarizes the paper, which uses U.K. and U.S. household expenditure surveys, housing-tenure groups, identified monetary policy shocks, wealth survey evidence, distributed-lag impulse responses, propensity-score robustness, income responses, mortgage/rent payment data, and wealthy hand-to-mouth measures to study monetary transmission with household debt, showing that interest-rate cuts raise consumption mainly through mortgagors and renters with high MPCs, because general-equilibrium income gains interact with liquidity constraints and illiquid housing wealth rather than operating only through direct mortgage-payment cash-flow effects."
