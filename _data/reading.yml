@@ -1,3 +1,7 @@
+- title: "Davila (RES, 2020) - Using Elasticities to Derive Optimal Bankruptcy Exemptions"
+  file: "Davila_RES_2020.pdf"
+  desc: "This note summarizes the paper, which develops a sufficient-statistics framework for optimal bankruptcy exemptions using unsecured credit, default decisions, lender recovery, credit-supply sensitivity, bankruptcy probabilities, marginal valuation in bad states, and U.S. state-level exemption, bankruptcy, interest-rate, household, income, unemployment, and house-price data, showing that higher exemptions trade off worse credit terms against better insurance for bankrupt households and are estimated to raise welfare on average, with large heterogeneity across states and income groups."
+
 - title: "DeFusco, Johnson & Mondragon (RES, 2020) - Regulating Household Leverage"
   file: "Defusco_Johnson_Mondragon_RES_2020.pdf"
   desc: "This note summarizes the paper, which uses loan-level U.S. mortgage data around the 2014 ATR/QM 43% debt-to-income threshold, jumbo versus conforming loan exemptions, difference-in-differences and triple-difference pricing designs, counterfactual DTI distributions, bunching and missing-mass estimates, product-substitution tests, lender-channel measures, and default comparisons to study household leverage regulation, showing that ATR/QM modestly raised rates on affected high-DTI jumbo loans but produced large quantity effects by shifting borrowers below the threshold, eliminating high-DTI credit, and making lender organization and agency frictions central to regulatory incidence."
