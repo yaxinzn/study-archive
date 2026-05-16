@@ -1,3 +1,7 @@
+- title: "Ekmekci & Lauermann (RES, 2020) - Manipulated Electorates and Information Aggregation"
+  file: "Ekmekci_Lauermann_RES_2020.pdf"
+  desc: "This note summarizes the paper, which develops a theory of information aggregation in large elections with state-dependent turnout, private voter signals, pivotality-based Bayesian updating, and a biased organizer who can recruit voters after observing the state, showing that majority rule can fail to aggregate information because pivotal voters overweight the low-turnout state, allowing endogenous turnout manipulation to make the organizer’s preferred policy win in both states even when voters share common interests and elections become large."
+
 - title: "Stavrakeva (RES, 2020) - Optimal Bank Regulation and Fiscal Capacity"
   file: "Stavrakeva_RES_2020.pdf"
   desc: "This note summarizes the paper, which develops a theoretical model of optimal bank regulation with fire-sale pecuniary externalities, fiscal-capacity-dependent bailouts, small versus large banks, capital requirements, investment taxes, and bad-state liability caps to study how regulation should vary across countries, showing that fiscally stronger governments can optimally impose lower minimum capital ratios because they can cushion crisis fire sales more cheaply, while large-bank Too-Big-To-Fail moral hazard may require additional regulation of state-contingent liabilities such as CDS-like exposures."
