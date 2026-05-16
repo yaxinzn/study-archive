@@ -1,3 +1,7 @@
+- title: "Parkhomenko (RES, 2026) - Homeownership, Polarization, and Inequality"
+  file: "Parkhomenko_RES_2026.pdf"
+  desc: "This note summarizes the paper, which uses U.S. commuting-zone data from 1980–2019, occupational skill shares, wage inequality measures, house prices, price–wage and price–rent ratios, CPS migration reasons, land-unavailability-by-interest-rate instruments, and a spatial equilibrium model with heterogeneous skills, tenure choice, homeownership constraints, housing supply, and skill-biased technical change to study why large cities became more polarized and unequal, showing that rising housing costs push middle-income households out of expensive productive cities, creating a “missing middle” and amplifying the spatial inequality effects of SBTC."
+
 - title: "Milgrom & Watt (RES, 2026) - A Walrasian Mechanism with Markups for Nonconvex Markets"
   file: "Milgrom_Watt_RES_2026.pdf"
   desc: "This note summarizes the paper, which develops a markup-equilibrium mechanism for nonconvex markets with fixed costs, indivisibilities, start-up costs, quasilinear buyers and sellers, buyer prices (1+α)p, seller prices p, Shapley–Folkman rounding, nonconvexity measures, and a Bound-Form First Welfare Theorem, showing that anonymous linear prices can be extended to nonconvex economies by using a small buyer markup to finance excess production, achieve resource and budget feasibility, preserve individual optimization, and deliver nearly efficient and approximately incentive-compatible outcomes in large markets."
