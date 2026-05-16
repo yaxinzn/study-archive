@@ -17,6 +17,7 @@ hide_name: true
 ## Files
 <!-- AUTO-LIST-START -->
 - **[contents.pdf](contents.pdf)**
+- **[Derivations_for_Empirical_Industrial_Organization.pdf](Derivations_for_Empirical_Industrial_Organization.pdf)**
 - **[EIO1.pdf](EIO1.pdf)**
 - **[EIO2.pdf](EIO2.pdf)**
 - **[EIO3.pdf](EIO3.pdf)**
