@@ -1,3 +1,7 @@
+- title: "Berger, Dew-Becker & Giglio (RES, 2020) - Uncertainty Shocks as Second-Moment News Shocks"
+  file: "Berger_DewBecker_Giglio_RES_2020.pdf"
+  desc: "This note summarizes the paper, which uses monthly realized S&P 500 volatility, option-implied volatility, federal funds rates, industrial production, employment, variance-claim returns, VAR decompositions, robustness checks, and a structural model with left-skewed shocks to distinguish realized volatility from forward-looking uncertainty news, showing that realized volatility shocks are followed by contractions in employment and industrial production, while pure second-moment news about future volatility predicts volatility but does not significantly depress real activity or command large risk premia."
+
 - title: "Broer, Hansen, Krusell & Oberg (RES, 2020) The New Keynesian Transmission Mechanism: A Heterogeneous-Agent Perspective"
   file: "Broer_Hansen_Krusell_Oberg_RES_2020.pdf"
   desc: "This note summarizes the paper, which develops a tractable heterogeneous-agent New Keynesian model with workers, capitalists, incomplete markets, sticky prices, flexible versus rigid wages, and monetary policy shocks to study the transmission mechanism, showing that when workers receive wages while capitalists receive profits, sticky prices alone generate redistribution but no output response under flexible wages, whereas wage rigidity restores standard monetary transmission by making labor demand determine hours and output."
