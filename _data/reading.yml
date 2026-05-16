@@ -1,3 +1,7 @@
+- title: "Stevens (RES, 2020) - Coarse Pricing Policies"
+  file: "Stevens_RES_2020.pdf"
+  desc: "This note summarizes the paper, which uses weekly Nielsen Retail Scanner store-UPC prices from 2006–2015, distributional break tests, pricing-policy classifications, inflation decompositions, Great Recession pricing dynamics, and a rational-inattention model to study why aggregate inflation can be sluggish despite frequent micro price changes, showing that firms use coarse price menus that are revised infrequently, so prices often move within sticky policies rather than through full reoptimization, making aggregate price flexibility lower than raw posted-price volatility suggests."
+
 - title: "Yang (RES, 2020) - Optimality of Debt under Flexible Information Acquisition"
   file: "Yang_RES_2020.pdf"
   desc: "This note summarizes Yang (2020), which develops a theoretical security-design model with an impatient seller, a sophisticated buyer, feasible asset-backed securities, flexible costly information acquisition, buyer acceptance rules, and seller liquidity motives to explain why debt is optimal. The paper shows that debt uniquely maximizes liquidity in the baseline fixed-cash-flow environment because its flat payoff in high states minimizes information sensitivity, discourages buyers from acquiring private information and cherry-picking states, while more call-like or pass-through securities invite costly information production and worsen adverse selection."
