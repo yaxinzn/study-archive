@@ -12,6 +12,7 @@ hide_name: true
 
 ## Reference
 - Aguirregabiria, V. (n.d.). *A course in dynamic structural econometrics (Dynamic IO)*. http://aguirregabiria.net/wpapers/book_dynamic_io.pdf
+- Hortaçsu, A., & Joo, J. (n.d.). *Structural econometric modeling in industrial organization and quantitative marketing: Theory and applications*. https://doi.org/10.2307/jj.5425946
 - Kawaguchi, K. (n.d.). *Empirical industrial organization*. https://kohei-kawaguchi.github.io/EmpiricalIO/
 
 ## Files
