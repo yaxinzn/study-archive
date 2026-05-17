@@ -1,3 +1,7 @@
+- title: "Caoui (RES, 2023) - Estimating the Costs of Standardization: Evidence from the Movie Industry"
+  file: "Caoui_RES_2023.pdf"
+  desc: "This note summarizes the paper, which uses French theatre-screen adoption data, digital projector costs, theatre characteristics, digital movie availability, U.S. digital-release instruments, conditional choice probabilities, and a dynamic game with non-stationary oblivious equilibrium to study the transition from 35mm film to digital cinema, showing that standardization created excess inertia because theatres and distributors failed to internalize hardware–software network effects, so market adoption was slower than efficient benchmarks and modest targeted subsidies could recover much of the lost theatre surplus without inducing excessive early adoption."
+
 - title: "Ball & Mankiw (RES, 2023) - Market Power in Neoclassical Growth Models"
   file: "Ball_Mankiw_RES_2023.pdf"
   desc: "This note summarizes the paper, which adds firm market power and markup wedges to Solow and Diamond-style neoclassical growth models, using theoretical derivations and calibrations with plausible markups and Tobin’s q to distinguish private real interest rates from the social return on capital, showing that low r does not necessarily imply dynamic inefficiency because markups can make the social return far higher than savers’ return, so public debt may be feasible when r<g but still welfare-reducing if it crowds out capital whose social return exceeds growth."
