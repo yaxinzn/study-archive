@@ -30,7 +30,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 /* Two-column layout */
 .reading-layout{
   display: grid;
-  grid-template-columns: minmax(0, 1fr) 300px;
+  grid-template-columns: minmax(0, 1fr) 330px;
   gap: 20px;
   align-items: start;
 }
@@ -59,7 +59,9 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   border-radius: 10px;
   font-size: 15px;
 }
-#readingClear{
+.reading-clear-btn,
+#readingClear,
+#readingResetFilters{
   padding: 10px 12px;
   border: 1px solid rgba(0,0,0,.18);
   border-radius: 10px;
@@ -67,7 +69,9 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   font-weight: 650;
   cursor:pointer;
 }
-#readingClear:hover{
+.reading-clear-btn:hover,
+#readingClear:hover,
+#readingResetFilters:hover{
   transform: translateY(-1px);
 }
 .reading-count{
@@ -132,7 +136,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   margin: 5px 0;
 }
 
-/* Author initial guide */
+/* Filter guide */
 .reading-guide{
   position: sticky;
   top: 18px;
@@ -154,39 +158,51 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   line-height: 1.45;
   opacity: .78;
 }
-.reading-initial-row{
+.reading-filter-group{
+  margin: 14px 0;
+  padding-top: 12px;
+  border-top: 1px solid rgba(0,0,0,.08);
+}
+.reading-filter-group:first-of-type{
+  border-top: 0;
+  padding-top: 0;
+}
+.reading-filter-label{
+  display:block;
+  margin-bottom: 6px;
+  font-size: 13px;
+  font-weight: 850;
+}
+.reading-filter-help{
+  margin: 6px 0 0 0;
+  font-size: 12px;
+  line-height: 1.4;
+  opacity: .72;
+}
+.reading-input-row{
   display: flex;
   gap: 8px;
-  margin-bottom: 10px;
+  align-items: center;
 }
-#readingInitialInput{
+.reading-input-row input{
   width: 100%;
   min-width: 0;
   padding: 10px 12px;
   border: 1px solid rgba(0,0,0,.18);
   border-radius: 10px;
   font-size: 15px;
+}
+#readingInitialInput{
   text-transform: uppercase;
-}
-#readingInitialClear{
-  flex: 0 0 auto;
-  padding: 10px 12px;
-  border: 1px solid rgba(0,0,0,.18);
-  border-radius: 10px;
-  background:#fff;
-  font-weight: 650;
-  cursor:pointer;
-}
-#readingInitialClear:hover{
-  transform: translateY(-1px);
 }
 .reading-letter-grid{
   display: grid;
   grid-template-columns: repeat(6, 1fr);
   gap: 6px;
-  margin: 8px 0 12px 0;
+  margin: 8px 0 0 0;
 }
-.reading-letter-btn{
+.reading-letter-btn,
+.reading-journal-btn{
   padding: 7px 0;
   border: 1px solid rgba(0,0,0,.16);
   border-radius: 8px;
@@ -195,24 +211,64 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   font-weight: 750;
   cursor: pointer;
 }
-.reading-letter-btn:hover:not(:disabled){
+.reading-letter-btn:hover:not(:disabled),
+.reading-journal-btn:hover:not(:disabled){
   transform: translateY(-1px);
 }
-.reading-letter-btn.is-active{
+.reading-letter-btn.is-active,
+.reading-journal-btn.is-active{
   background: #0f3d2e;
   border-color: #0f3d2e;
   color: #fff;
 }
-.reading-letter-btn:disabled{
+.reading-letter-btn:disabled,
+.reading-journal-btn:disabled{
   opacity: .32;
   cursor: not-allowed;
 }
-.reading-guide-count{
+.reading-journal-grid{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
   margin-top: 8px;
-  padding-top: 10px;
+}
+.reading-journal-btn{
+  padding: 7px 9px;
+}
+.reading-active-filters{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+}
+.reading-filter-chip{
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  max-width: 100%;
+  padding: 6px 8px;
+  border: 1px solid rgba(0,0,0,.14);
+  border-radius: 999px;
+  background: rgba(15,61,46,.06);
+  font-size: 12px;
+  line-height: 1.2;
+  cursor: pointer;
+}
+.reading-filter-chip:hover{
+  transform: translateY(-1px);
+}
+.reading-filter-chip span{
+  overflow-wrap: anywhere;
+}
+.reading-filter-chip strong{
+  font-size: 13px;
+}
+.reading-guide-count{
+  margin-top: 10px;
+  padding-top: 12px;
   border-top: 1px solid rgba(0,0,0,.08);
   font-size: 13px;
-  font-weight: 750;
+  font-weight: 850;
 }
 .reading-guide-list{
   list-style: none;
@@ -240,6 +296,19 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   line-height: 1.35;
   opacity: .75;
   overflow-wrap: anywhere;
+}
+.reading-guide-tags{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 5px;
+}
+.reading-guide-tag{
+  padding: 2px 6px;
+  border: 1px solid rgba(0,0,0,.12);
+  border-radius: 999px;
+  font-size: 11px;
+  opacity: .82;
 }
 .reading-guide-empty{
   margin-top: 10px;
@@ -302,22 +371,22 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     <div class="reading-search">
       <div class="reading-search-row">
         <input id="readingQuery" type="search" placeholder="Search by author / title / keywords…" autocomplete="off">
-        <button id="readingClear" type="button">Clear</button>
+        <button id="readingClear" type="button">Clear Search</button>
       </div>
       <div class="reading-count" id="readingCount"></div>
-      <div class="reading-empty" id="readingEmpty">No matching papers. Try a different keyword or clear the author initial filter.</div>
+      <div class="reading-empty" id="readingEmpty">No matching papers. Try clearing one filter or using a broader keyword.</div>
     </div>
 
     <div class="reading-random">
       <div class="reading-random-row">
-        <button id="readingRandomBtn" type="button">Pick 10 Random PDFs</button>
+        <button id="readingRandomBtn" type="button">Pick 10 Random PDFs from Current Results</button>
         <button id="readingCopyBtn" type="button" disabled>Copy Selected Names</button>
         <button id="readingDownloadNamesBtn" type="button" disabled>Download Selected Names</button>
         <button id="readingCopyDownloadBtn" type="button" disabled>Copy + Download Names</button>
       </div>
 
       <div class="reading-random-note">
-        Reading check: randomly select 10 PDF files from the library. After selection, you can copy the selected PDF names, download them as a text file, or do both with one click.
+        Reading check: randomly select up to 10 PDF files from the currently filtered results. If no filters are active, the full library is used.
       </div>
 
       <div class="reading-random-status" id="readingRandomStatus" aria-live="polite"></div>
@@ -367,17 +436,42 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   </main>
 
   <aside class="reading-guide" aria-labelledby="readingGuideTitle">
-    <div class="reading-guide-title" id="readingGuideTitle">Author Initial Guide</div>
+    <div class="reading-guide-title" id="readingGuideTitle">PDF Filter Guide</div>
     <p class="reading-guide-desc">
-      Type an author initial or click a letter to filter the library and show matching PDF files.
+      Combine author initials, publication years, and journal codes to quickly narrow the library. Journal and year are read from the PDF file name pattern <code>Author_Journal_Year.pdf</code>.
     </p>
 
-    <div class="reading-initial-row">
-      <input id="readingInitialInput" type="text" maxlength="1" inputmode="latin" placeholder="A" aria-label="Author initial">
-      <button id="readingInitialClear" type="button">Clear</button>
+    <div class="reading-filter-group">
+      <label class="reading-filter-label" for="readingInitialInput">Author Initials</label>
+      <div class="reading-input-row">
+        <input id="readingInitialInput" type="text" inputmode="latin" placeholder="G R Y" aria-label="Author initials">
+        <button id="readingInitialClear" class="reading-clear-btn" type="button">Clear</button>
+      </div>
+      <p class="reading-filter-help">Enter one or more letters, such as <strong>G</strong>, <strong>GR</strong>, or <strong>G R Y</strong>. Matches any selected initial.</p>
+      <div class="reading-letter-grid" id="readingLetterButtons" aria-label="Author initials A to Z"></div>
     </div>
 
-    <div class="reading-letter-grid" id="readingLetterButtons" aria-label="Author initials A to Z"></div>
+    <div class="reading-filter-group">
+      <label class="reading-filter-label" for="readingYearInput">Publication Year</label>
+      <div class="reading-input-row">
+        <input id="readingYearInput" type="text" inputmode="numeric" list="readingYearOptions" placeholder="2023" aria-label="Publication year">
+        <button id="readingYearClear" class="reading-clear-btn" type="button">Clear</button>
+      </div>
+      <datalist id="readingYearOptions"></datalist>
+      <p class="reading-filter-help">Use one year, multiple years, or a range: <strong>2023</strong>, <strong>2020 2023</strong>, or <strong>2020-2024</strong>.</p>
+    </div>
+
+    <div class="reading-filter-group">
+      <div class="reading-filter-label">Journal</div>
+      <p class="reading-filter-help">Journal codes are extracted from the token before the year, such as <strong>RES</strong>, <strong>RFS</strong>, <strong>JFE</strong>, or <strong>QJE</strong>.</p>
+      <div class="reading-journal-grid" id="readingJournalButtons" aria-label="Journal filters"></div>
+    </div>
+
+    <div class="reading-filter-group">
+      <div class="reading-filter-label">Active Filters</div>
+      <button id="readingResetFilters" type="button">Reset All Filters</button>
+      <div class="reading-active-filters" id="readingActiveFilters"></div>
+    </div>
 
     <div class="reading-guide-count" id="readingGuideCount"></div>
     <ul class="reading-guide-list" id="readingGuideList"></ul>
@@ -395,6 +489,15 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   const initialInput = document.getElementById('readingInitialInput');
   const initialClearBtn = document.getElementById('readingInitialClear');
   const letterButtonsWrap = document.getElementById('readingLetterButtons');
+
+  const yearInput = document.getElementById('readingYearInput');
+  const yearClearBtn = document.getElementById('readingYearClear');
+  const yearOptions = document.getElementById('readingYearOptions');
+
+  const journalButtonsWrap = document.getElementById('readingJournalButtons');
+  const resetFiltersBtn = document.getElementById('readingResetFilters');
+  const activeFiltersWrap = document.getElementById('readingActiveFilters');
+
   const guideCount = document.getElementById('readingGuideCount');
   const guideList = document.getElementById('readingGuideList');
 
@@ -407,10 +510,17 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
   let selectedPDFs = [];
   let selectedDate = '';
-  let selectedInitial = '';
+  let selectedFilterSummary = '';
+  let selectedInitials = new Set();
+  let selectedJournals = new Set();
   let letterButtons = [];
+  let journalButtons = [];
+  let lastVisibleItems = [];
 
   if (!input) return;
+
+  const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+  const maxGuideItems = 80;
 
   function norm(x){
     return (x || '')
@@ -432,24 +542,77 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       .trim();
   }
 
-  function normalizeInitial(x){
-    const match = (x || '')
+  function uniqueSorted(values){
+    return Array.from(new Set(values.filter(Boolean))).sort((a, b) => a.localeCompare(b));
+  }
+
+  function parseInitialSet(value){
+    const letters = (value || '')
       .toString()
       .normalize('NFD')
       .replace(/[\u0300-\u036f]/g, '')
       .toUpperCase()
-      .match(/[A-Z]/);
+      .match(/[A-Z]/g) || [];
 
-    return match ? match[0] : '';
+    return new Set(uniqueSorted(letters));
   }
 
-  function initialsFromAuthor(author){
+  function syncInitialInput(){
+    if (initialInput) {
+      initialInput.value = Array.from(selectedInitials).sort().join(' ');
+    }
+  }
+
+  function parseFileMeta(file){
+    const base = (file || '').toString().replace(/\.pdf$/i, '');
+    const parts = base.split('_').map(part => part.trim()).filter(Boolean);
+    let year = '';
+    let journal = '';
+    let authorParts = [];
+
+    for (let i = parts.length - 1; i >= 0; i -= 1) {
+      const yearMatch = parts[i].match(/(?:19|20)\d{2}/);
+
+      if (yearMatch) {
+        year = yearMatch[0];
+        journal = i > 0 ? parts[i - 1].toUpperCase() : '';
+        authorParts = i > 1 ? parts.slice(0, i - 1) : [];
+        break;
+      }
+    }
+
+    return {
+      year,
+      journal,
+      authorParts
+    };
+  }
+
+  function initialsFromAuthorParts(parts){
+    const initials = [];
+
+    for (const part of parts || []) {
+      const match = part
+        .toString()
+        .normalize('NFD')
+        .replace(/[\u0300-\u036f]/g, '')
+        .match(/[A-Za-z]/);
+
+      if (match) {
+        initials.push(match[0].toUpperCase());
+      }
+    }
+
+    return uniqueSorted(initials);
+  }
+
+  function initialsFromAuthorField(author){
     const words = cleanSeed(author)
       .normalize('NFD')
       .replace(/[\u0300-\u036f]/g, '')
       .match(/[A-Za-z]+/g) || [];
 
-    return Array.from(new Set(words.map(word => word.charAt(0).toUpperCase())));
+    return uniqueSorted(words.map(word => word.charAt(0).toUpperCase()));
   }
 
   function firstInitialFromText(text){
@@ -461,6 +624,12 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     return match ? match[0].toUpperCase() : '';
   }
 
+  function formatAuthorParts(parts){
+    return (parts || [])
+      .filter(Boolean)
+      .join(', ');
+  }
+
   function getEntryData(el){
     const link = el.querySelector('.reading-file a');
     const titleNode = el.querySelector('.reading-title');
@@ -469,25 +638,43 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     const title = (el.getAttribute('data-title') || (titleNode ? titleNode.textContent : '') || '').trim();
     const file = (el.getAttribute('data-file') || (link ? link.textContent : '') || '').trim();
     const href = link ? link.getAttribute('href') : '';
+    const meta = parseFileMeta(file);
 
-    let initials = [];
+    let initials = initialsFromAuthorParts(meta.authorParts);
 
-    if (author) {
-      initials = initialsFromAuthor(author);
-    } else {
+    if (initials.length === 0 && author) {
+      initials = initialsFromAuthorField(author);
+    }
+
+    if (initials.length === 0) {
       const fallbackInitial = firstInitialFromText(title || file);
       initials = fallbackInitial ? [fallbackInitial] : [];
     }
 
+    const fileAuthorLabel = formatAuthorParts(meta.authorParts);
+    const authorDisplay = author || fileAuthorLabel;
+    const searchText = [
+      author,
+      fileAuthorLabel,
+      title,
+      file,
+      meta.journal,
+      meta.year,
+      el.textContent
+    ].join(' ');
+
     return {
       el,
       author,
+      authorDisplay,
       title,
       file,
       href,
       initials,
-      search: norm(`${author} ${title} ${file} ${el.textContent}`),
-      sortKey: norm(`${author || title || file} ${file}`)
+      year: meta.year,
+      journal: meta.journal,
+      search: norm(searchText),
+      sortKey: norm(`${authorDisplay || title || file} ${meta.year} ${meta.journal} ${file}`)
     };
   }
 
@@ -496,18 +683,143 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     .filter(item => item.href && item.file);
 
   const dataByElement = new Map(paperData.map(item => [item.el, item]));
-  const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
 
-  function getAvailableInitials(){
-    const available = new Set();
+  function parseYearFilter(value){
+    const raw = (value || '').toString();
+    let remaining = raw;
+    const years = new Set();
+    const ranges = [];
+    const rangeRegex = /((?:19|20)\d{2})\s*[-–—]\s*((?:19|20)\d{2})/g;
+    let rangeMatch;
 
-    for (const item of paperData) {
-      for (const letter of item.initials) {
-        available.add(letter);
+    while ((rangeMatch = rangeRegex.exec(raw)) !== null) {
+      const start = Number(rangeMatch[1]);
+      const end = Number(rangeMatch[2]);
+
+      if (Number.isFinite(start) && Number.isFinite(end)) {
+        ranges.push({
+          start: Math.min(start, end),
+          end: Math.max(start, end)
+        });
       }
     }
 
-    return available;
+    remaining = remaining.replace(rangeRegex, ' ');
+
+    const yearMatches = remaining.match(/(?:19|20)\d{2}/g) || [];
+
+    for (const year of yearMatches) {
+      years.add(year);
+    }
+
+    return {
+      raw: raw.trim(),
+      years,
+      ranges,
+      hasFilter: years.size > 0 || ranges.length > 0
+    };
+  }
+
+  function yearMatches(itemYear, yearFilter){
+    if (!yearFilter.hasFilter) return true;
+    if (!itemYear) return false;
+
+    const numericYear = Number(itemYear);
+
+    if (yearFilter.years.has(itemYear)) return true;
+
+    for (const range of yearFilter.ranges) {
+      if (numericYear >= range.start && numericYear <= range.end) {
+        return true;
+      }
+    }
+
+    return false;
+  }
+
+  function getFilters(){
+    return {
+      q: norm(input.value),
+      rawSearch: (input.value || '').trim(),
+      initials: new Set(selectedInitials),
+      yearFilter: parseYearFilter(yearInput ? yearInput.value : ''),
+      journals: new Set(selectedJournals)
+    };
+  }
+
+  function hasActiveFilters(filters){
+    return Boolean(
+      filters.rawSearch ||
+      filters.initials.size ||
+      filters.yearFilter.hasFilter ||
+      filters.journals.size
+    );
+  }
+
+  function matchesSearch(item, filters){
+    return !filters.q || item.search.includes(filters.q);
+  }
+
+  function matchesInitials(item, filters){
+    if (!filters.initials.size) return true;
+
+    for (const letter of filters.initials) {
+      if (item.initials.includes(letter)) {
+        return true;
+      }
+    }
+
+    return false;
+  }
+
+  function matchesJournal(item, filters){
+    return !filters.journals.size || filters.journals.has(item.journal);
+  }
+
+  function itemMatches(item, filters){
+    return matchesSearch(item, filters) &&
+      matchesInitials(item, filters) &&
+      yearMatches(item.year, filters.yearFilter) &&
+      matchesJournal(item, filters);
+  }
+
+  function itemMatchesIgnoringInitials(item, filters){
+    return matchesSearch(item, filters) &&
+      yearMatches(item.year, filters.yearFilter) &&
+      matchesJournal(item, filters);
+  }
+
+  function itemMatchesIgnoringJournal(item, filters){
+    return matchesSearch(item, filters) &&
+      matchesInitials(item, filters) &&
+      yearMatches(item.year, filters.yearFilter);
+  }
+
+  function getAvailableInitialCounts(filters){
+    const counts = new Map();
+
+    for (const item of paperData) {
+      if (!itemMatchesIgnoringInitials(item, filters)) continue;
+
+      for (const letter of item.initials) {
+        counts.set(letter, (counts.get(letter) || 0) + 1);
+      }
+    }
+
+    return counts;
+  }
+
+  function getJournalCounts(filters){
+    const counts = new Map();
+
+    for (const item of paperData) {
+      if (!item.journal) continue;
+      if (!itemMatchesIgnoringJournal(item, filters)) continue;
+
+      counts.set(item.journal, (counts.get(item.journal) || 0) + 1);
+    }
+
+    return counts;
   }
 
   function buildLetterButtons(){
@@ -524,67 +836,268 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       btn.dataset.letter = letter;
       btn.textContent = letter;
       btn.setAttribute('aria-pressed', 'false');
-      btn.addEventListener('click', () => setInitial(letter));
+      btn.addEventListener('click', () => {
+        if (selectedInitials.has(letter)) {
+          selectedInitials.delete(letter);
+        } else {
+          selectedInitials.add(letter);
+        }
+
+        syncInitialInput();
+        update();
+      });
 
       letterButtonsWrap.appendChild(btn);
       letterButtons.push(btn);
     }
   }
 
-  function updateLetterButtons(activeLetter){
-    const available = getAvailableInitials();
+  function updateLetterButtons(filters){
+    const counts = getAvailableInitialCounts(filters);
 
     for (const btn of letterButtons) {
       const letter = btn.dataset.letter;
-      const hasMatches = available.has(letter);
-      const isActive = activeLetter === letter;
+      const countForLetter = counts.get(letter) || 0;
+      const isActive = selectedInitials.has(letter);
+      const hasMatches = countForLetter > 0;
 
-      btn.disabled = !hasMatches;
+      btn.disabled = !hasMatches && !isActive;
       btn.classList.toggle('is-active', isActive);
       btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
       btn.title = hasMatches
-        ? `Show PDFs with author initial ${letter}`
-        : `No PDFs found for author initial ${letter}`;
+        ? `${countForLetter} PDF${countForLetter === 1 ? '' : 's'} with author initial ${letter}`
+        : `No PDFs found for author initial ${letter} under the current filters`;
     }
   }
 
-  function getGuideMatches(letter){
-    if (!letter) return [];
+  function buildYearOptions(){
+    if (!yearOptions) return;
 
-    return paperData
-      .filter(item => item.initials.includes(letter))
-      .sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+    const years = uniqueSorted(paperData.map(item => item.year)).sort((a, b) => Number(b) - Number(a));
+    yearOptions.innerHTML = '';
+
+    for (const year of years) {
+      const option = document.createElement('option');
+      option.value = year;
+      yearOptions.appendChild(option);
+    }
   }
 
-  function renderGuide(letter){
+  function buildJournalButtons(){
+    if (!journalButtonsWrap) return;
+
+    const journals = uniqueSorted(paperData.map(item => item.journal));
+    journalButtonsWrap.innerHTML = '';
+    journalButtons = [];
+
+    if (journals.length === 0) {
+      const emptyMsg = document.createElement('div');
+      emptyMsg.className = 'reading-guide-empty';
+      emptyMsg.textContent = 'No journal codes were detected from the PDF file names.';
+      journalButtonsWrap.appendChild(emptyMsg);
+      return;
+    }
+
+    const allBtn = document.createElement('button');
+    allBtn.type = 'button';
+    allBtn.className = 'reading-journal-btn';
+    allBtn.dataset.journal = '__ALL__';
+    allBtn.textContent = 'All';
+    allBtn.setAttribute('aria-pressed', 'true');
+    allBtn.addEventListener('click', () => {
+      selectedJournals.clear();
+      update();
+    });
+    journalButtonsWrap.appendChild(allBtn);
+    journalButtons.push(allBtn);
+
+    for (const journal of journals) {
+      const btn = document.createElement('button');
+
+      btn.type = 'button';
+      btn.className = 'reading-journal-btn';
+      btn.dataset.journal = journal;
+      btn.textContent = journal;
+      btn.setAttribute('aria-pressed', 'false');
+      btn.addEventListener('click', () => {
+        if (selectedJournals.has(journal)) {
+          selectedJournals.delete(journal);
+        } else {
+          selectedJournals.add(journal);
+        }
+
+        update();
+      });
+
+      journalButtonsWrap.appendChild(btn);
+      journalButtons.push(btn);
+    }
+  }
+
+  function updateJournalButtons(filters){
+    const counts = getJournalCounts(filters);
+
+    for (const btn of journalButtons) {
+      const journal = btn.dataset.journal;
+
+      if (journal === '__ALL__') {
+        const isActive = selectedJournals.size === 0;
+        btn.classList.toggle('is-active', isActive);
+        btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+        btn.disabled = false;
+        btn.title = 'Show all journals';
+        continue;
+      }
+
+      const countForJournal = counts.get(journal) || 0;
+      const isActive = selectedJournals.has(journal);
+      const hasMatches = countForJournal > 0;
+
+      btn.disabled = !hasMatches && !isActive;
+      btn.classList.toggle('is-active', isActive);
+      btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
+      btn.textContent = hasMatches ? `${journal} (${countForJournal})` : journal;
+      btn.title = hasMatches
+        ? `${countForJournal} PDF${countForJournal === 1 ? '' : 's'} in ${journal} under the current filters`
+        : `No ${journal} PDFs found under the current filters`;
+    }
+  }
+
+  function readableFilterSummary(filters){
+    const parts = [];
+
+    if (filters.rawSearch) {
+      parts.push(`search “${filters.rawSearch}”`);
+    }
+
+    if (filters.initials.size) {
+      parts.push(`initials ${Array.from(filters.initials).sort().join(', ')}`);
+    }
+
+    if (filters.yearFilter.raw) {
+      parts.push(`years ${filters.yearFilter.raw}`);
+    }
+
+    if (filters.journals.size) {
+      parts.push(`journals ${Array.from(filters.journals).sort().join(', ')}`);
+    }
+
+    return parts.length ? parts.join('; ') : 'no active filters';
+  }
+
+  function renderActiveFilters(filters){
+    if (!activeFiltersWrap) return;
+
+    activeFiltersWrap.innerHTML = '';
+
+    if (!hasActiveFilters(filters)) {
+      const emptyChip = document.createElement('span');
+      emptyChip.className = 'reading-filter-help';
+      emptyChip.textContent = 'No active filters.';
+      activeFiltersWrap.appendChild(emptyChip);
+      return;
+    }
+
+    function addChip(label, onRemove){
+      const chip = document.createElement('button');
+      const text = document.createElement('span');
+      const close = document.createElement('strong');
+
+      chip.type = 'button';
+      chip.className = 'reading-filter-chip';
+      text.textContent = label;
+      close.textContent = '×';
+
+      chip.appendChild(text);
+      chip.appendChild(close);
+      chip.addEventListener('click', onRemove);
+      activeFiltersWrap.appendChild(chip);
+    }
+
+    if (filters.rawSearch) {
+      addChip(`Search: ${filters.rawSearch}`, () => {
+        input.value = '';
+        update();
+      });
+    }
+
+    for (const letter of Array.from(filters.initials).sort()) {
+      addChip(`Initial: ${letter}`, () => {
+        selectedInitials.delete(letter);
+        syncInitialInput();
+        update();
+      });
+    }
+
+    if (filters.yearFilter.raw) {
+      addChip(`Year: ${filters.yearFilter.raw}`, () => {
+        if (yearInput) yearInput.value = '';
+        update();
+      });
+    }
+
+    for (const journal of Array.from(filters.journals).sort()) {
+      addChip(`Journal: ${journal}`, () => {
+        selectedJournals.delete(journal);
+        update();
+      });
+    }
+  }
+
+  function makeGuideMeta(item){
+    const meta = [];
+
+    if (item.authorDisplay) {
+      meta.push(item.authorDisplay);
+    }
+
+    if (item.title) {
+      meta.push(item.title);
+    }
+
+    return meta.join(' — ');
+  }
+
+  function renderGuide(visibleItems, filters){
     if (!guideList || !guideCount) return;
 
     guideList.innerHTML = '';
 
-    if (!letter) {
-      guideCount.textContent = 'No author initial selected';
+    if (!paperData.length) {
+      guideCount.textContent = 'No PDF files found';
       const li = document.createElement('li');
       li.className = 'reading-guide-empty';
-      li.textContent = 'Type an author initial or click an A–Z button to see matching PDF files.';
+      li.textContent = 'Add entries to _data/reading.yml and upload PDFs to reading/library/.';
       guideList.appendChild(li);
       return;
     }
 
-    const matches = getGuideMatches(letter);
-    guideCount.textContent = `${matches.length} PDF${matches.length === 1 ? '' : 's'} for author initial ${letter}`;
-
-    if (matches.length === 0) {
+    if (!hasActiveFilters(filters)) {
+      guideCount.textContent = `${paperData.length} PDFs in the library`;
       const li = document.createElement('li');
       li.className = 'reading-guide-empty';
-      li.textContent = `No PDFs found for author initial ${letter}.`;
+      li.textContent = 'Choose an author initial, year, journal, or keyword to build a focused PDF list here.';
       guideList.appendChild(li);
       return;
     }
 
-    for (const item of matches) {
+    guideCount.textContent = `${visibleItems.length} matching PDF${visibleItems.length === 1 ? '' : 's'}`;
+
+    if (visibleItems.length === 0) {
+      const li = document.createElement('li');
+      li.className = 'reading-guide-empty';
+      li.textContent = 'No PDFs match the current filter combination.';
+      guideList.appendChild(li);
+      return;
+    }
+
+    const shownItems = visibleItems.slice(0, maxGuideItems);
+
+    for (const item of shownItems) {
       const li = document.createElement('li');
       const a = document.createElement('a');
       const meta = document.createElement('span');
+      const tags = document.createElement('span');
 
       a.textContent = item.file;
       a.href = item.href;
@@ -592,53 +1105,78 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       a.rel = 'noopener';
 
       meta.className = 'reading-guide-meta';
-      meta.textContent = item.author ? `${item.author} — ${item.title}` : item.title;
+      meta.textContent = makeGuideMeta(item);
+
+      tags.className = 'reading-guide-tags';
+
+      if (item.journal) {
+        const journalTag = document.createElement('span');
+        journalTag.className = 'reading-guide-tag';
+        journalTag.textContent = item.journal;
+        tags.appendChild(journalTag);
+      }
+
+      if (item.year) {
+        const yearTag = document.createElement('span');
+        yearTag.className = 'reading-guide-tag';
+        yearTag.textContent = item.year;
+        tags.appendChild(yearTag);
+      }
+
+      if (item.initials.length) {
+        const initialTag = document.createElement('span');
+        initialTag.className = 'reading-guide-tag';
+        initialTag.textContent = `Initials: ${item.initials.join(', ')}`;
+        tags.appendChild(initialTag);
+      }
 
       li.appendChild(a);
-      li.appendChild(meta);
+      if (meta.textContent) li.appendChild(meta);
+      if (tags.children.length) li.appendChild(tags);
+      guideList.appendChild(li);
+    }
+
+    if (visibleItems.length > maxGuideItems) {
+      const li = document.createElement('li');
+      li.className = 'reading-guide-empty';
+      li.textContent = `Showing the first ${maxGuideItems} of ${visibleItems.length} matches. Add another filter to narrow the list.`;
       guideList.appendChild(li);
     }
   }
 
   function update(){
-    const q = norm(input.value);
-    const activeLetter = normalizeInitial(selectedInitial || (initialInput ? initialInput.value : ''));
-    let shown = 0;
+    const filters = getFilters();
+    const visibleItems = paperData
+      .filter(item => itemMatches(item, filters))
+      .sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+    const visibleSet = new Set(visibleItems);
+
+    lastVisibleItems = visibleItems;
 
     for (const el of entries) {
       const item = dataByElement.get(el);
-      const hay = item ? item.search : norm(el.getAttribute('data-search') || el.textContent);
-      const searchOk = !q || hay.includes(q);
-      const initialOk = !activeLetter || (item && item.initials.includes(activeLetter));
-      const ok = searchOk && initialOk;
 
-      el.style.display = ok ? '' : 'none';
-
-      if (item && ok) {
-        shown += 1;
+      if (!item) {
+        el.style.display = paperData.length === 0 ? '' : 'none';
+        continue;
       }
+
+      const ok = visibleSet.has(item);
+      el.style.display = ok ? '' : 'none';
     }
 
     if (count) {
-      count.textContent = `${shown} / ${paperData.length} papers`;
+      count.textContent = `${visibleItems.length} / ${paperData.length} papers shown · ${readableFilterSummary(filters)}`;
     }
 
     if (empty) {
-      empty.style.display = shown === 0 ? 'block' : 'none';
+      empty.style.display = visibleItems.length === 0 ? 'block' : 'none';
     }
 
-    renderGuide(activeLetter);
-    updateLetterButtons(activeLetter);
-  }
-
-  function setInitial(value){
-    selectedInitial = normalizeInitial(value);
-
-    if (initialInput) {
-      initialInput.value = selectedInitial;
-    }
-
-    update();
+    renderGuide(visibleItems, filters);
+    updateLetterButtons(filters);
+    updateJournalButtons(filters);
+    renderActiveFilters(filters);
   }
 
   function getLocalDateStamp(){
@@ -648,15 +1186,6 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     const day = String(now.getDate()).padStart(2, '0');
 
     return `${year}-${month}-${day}`;
-  }
-
-  function getPDFs(){
-    return Array.from(document.querySelectorAll('.reading-file a'))
-      .map(a => ({
-        name: a.textContent.trim(),
-        href: a.getAttribute('href')
-      }))
-      .filter(pdf => pdf.name && pdf.href);
   }
 
   function shuffle(items){
@@ -689,6 +1218,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   function formatSelectedNamesFile(){
     return [
       `Random PDF Selection Date: ${selectedDate}`,
+      `Filter Summary: ${selectedFilterSummary}`,
       '',
       formatSelectedNames()
     ].join('\n');
@@ -719,10 +1249,18 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   }
 
   function pickRandomPDFs(){
-    const pdfs = getPDFs();
+    const filters = getFilters();
+    const currentItems = lastVisibleItems.length ? lastVisibleItems : paperData.filter(item => itemMatches(item, filters));
 
-    selectedPDFs = shuffle(pdfs).slice(0, 10);
+    selectedPDFs = shuffle(currentItems)
+      .slice(0, 10)
+      .map(item => ({
+        name: item.file,
+        href: item.href
+      }));
+
     selectedDate = getLocalDateStamp();
+    selectedFilterSummary = readableFilterSummary(filters);
 
     renderRandomList();
 
@@ -731,9 +1269,9 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
     if (randomStatus) {
       if (hasSelection) {
-        randomStatus.textContent = `Selected ${selectedPDFs.length} PDF names on ${selectedDate}.`;
+        randomStatus.textContent = `Selected ${selectedPDFs.length} PDF name${selectedPDFs.length === 1 ? '' : 's'} from current results on ${selectedDate}.`;
       } else {
-        randomStatus.textContent = 'No PDFs were found in the library.';
+        randomStatus.textContent = 'No PDFs were found under the current filters.';
       }
     }
   }
@@ -764,7 +1302,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     }
 
     if (showStatus && randomStatus) {
-      randomStatus.textContent = `Copied ${selectedPDFs.length} PDF names to clipboard. Selection date: ${selectedDate}.`;
+      randomStatus.textContent = `Copied ${selectedPDFs.length} PDF name${selectedPDFs.length === 1 ? '' : 's'} to clipboard. Selection date: ${selectedDate}.`;
     }
 
     return true;
@@ -779,7 +1317,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
     const a = document.createElement('a');
     a.href = url;
-    a.download = `${selectedDate}.txt`;
+    a.download = `reading-selection-${selectedDate}.txt`;
 
     document.body.appendChild(a);
     a.click();
@@ -788,7 +1326,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     URL.revokeObjectURL(url);
 
     if (showStatus && randomStatus) {
-      randomStatus.textContent = `Downloaded selected PDF names as ${selectedDate}.txt.`;
+      randomStatus.textContent = `Downloaded selected PDF names as reading-selection-${selectedDate}.txt.`;
     }
 
     return true;
@@ -801,7 +1339,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     downloadSelectedNames(false);
 
     if (randomStatus) {
-      randomStatus.textContent = `Copied and downloaded ${selectedPDFs.length} PDF names as ${selectedDate}.txt.`;
+      randomStatus.textContent = `Copied and downloaded ${selectedPDFs.length} PDF name${selectedPDFs.length === 1 ? '' : 's'} as reading-selection-${selectedDate}.txt.`;
     }
   }
 
@@ -821,18 +1359,52 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   });
 
   initialInput && initialInput.addEventListener('input', () => {
-    setInitial(initialInput.value);
+    selectedInitials = parseInitialSet(initialInput.value);
+    update();
   });
 
   initialInput && initialInput.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
-      setInitial('');
+      selectedInitials.clear();
+      syncInitialInput();
+      update();
     }
   });
 
   initialClearBtn && initialClearBtn.addEventListener('click', () => {
-    setInitial('');
+    selectedInitials.clear();
+    syncInitialInput();
+    update();
     initialInput && initialInput.focus();
+  });
+
+  yearInput && yearInput.addEventListener('input', update);
+
+  yearInput && yearInput.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      yearInput.value = '';
+      update();
+    }
+  });
+
+  yearClearBtn && yearClearBtn.addEventListener('click', () => {
+    if (yearInput) {
+      yearInput.value = '';
+      update();
+      yearInput.focus();
+    }
+  });
+
+  resetFiltersBtn && resetFiltersBtn.addEventListener('click', () => {
+    input.value = '';
+    selectedInitials.clear();
+    selectedJournals.clear();
+
+    if (initialInput) initialInput.value = '';
+    if (yearInput) yearInput.value = '';
+
+    update();
+    input.focus();
   });
 
   randomBtn && randomBtn.addEventListener('click', pickRandomPDFs);
@@ -841,6 +1413,8 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   copyDownloadBtn && copyDownloadBtn.addEventListener('click', copyAndDownloadSelectedNames);
 
   buildLetterButtons();
+  buildYearOptions();
+  buildJournalButtons();
   setActionButtonsEnabled(false);
   update();
 })();
