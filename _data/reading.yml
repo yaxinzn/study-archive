@@ -1,3 +1,7 @@
+- title: "Jones (AER: Insights, 2024) - The AI Dilemma: Growth versus Existential Risk"
+  file: "Jones_AERInsights_2024.pdf"
+  desc: "This note summarizes the paper, which develops calibrated static and dynamic welfare models of AI-enabled growth versus existential risk, using CRRA utility, value-of-life calibration, social discounting, mortality improvements, singularity cases, and existential-risk cutoffs to show that pure consumption gains can justify large AI risks under log utility but much less under bounded utility, while AI-driven longevity gains can substantially raise acceptable risk thresholds, implying that AI policy depends critically on how society values consumption, life, future generations, and mortality reduction."
+
 - title: "Pierce & Schott (AER: Insights, 2020) — Trade Liberalization and Mortality: Evidence from US Counties"
   file: "Pierce_and_Schott_AERInsights_2020.pdf"
   desc: "This note summarizes the paper by constructing county exposure to China’s PNTR using a 1990 employment–share shift-share NTR-gap measure, estimating population-weighted county-by-year generalized DiD/event-study regressions with county and year fixed effects plus rich controls/heterogeneity/robustness checks, and interpreting the core figures on post-2000 increases in drug-overdose “deaths of despair” and related labor-market and disability mechanisms."
