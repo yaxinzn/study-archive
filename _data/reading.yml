@@ -1,3 +1,7 @@
+- title: "Bornstein, Krusell & Rebelo (RES, 2023) - A World Equilibrium Model of the Oil Market"
+  file: "Bornstein_Krusell_Rebelo_RES_2023.pdf"
+  desc: "This note summarizes the paper, which uses Rystad Energy micro data on oil fields, companies, and countries, micro estimates of investment-to-production lags and extraction adjustment costs, aggregate oil-price, investment, and production moments, and a general-equilibrium model with OPEC, non-OPEC conventional producers, and fracking firms to study the world oil market, showing that fracking makes oil supply faster and more elastic, lowers long-run oil prices, weakens OPEC market power, reduces oil-price volatility, and changes macroeconomic shock transmission by crowding out mainly conventional non-OPEC production."
+
 - title: "Davila (RES, 2020) - Using Elasticities to Derive Optimal Bankruptcy Exemptions"
   file: "Davila_RES_2020.pdf"
   desc: "This note summarizes the paper, which develops a sufficient-statistics framework for optimal bankruptcy exemptions using unsecured credit, default decisions, lender recovery, credit-supply sensitivity, bankruptcy probabilities, marginal valuation in bad states, and U.S. state-level exemption, bankruptcy, interest-rate, household, income, unemployment, and house-price data, showing that higher exemptions trade off worse credit terms against better insurance for bankrupt households and are estimated to raise welfare on average, with large heterogeneity across states and income groups."
