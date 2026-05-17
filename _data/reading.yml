@@ -1,3 +1,7 @@
+- title: "Dasaratha (RES, 2023) - Innovation and Strategic Network Formation"
+  file: "Dasaratha_RES_2023.pdf"
+  desc: "This note summarizes the paper, which develops a theoretical model of combinatorial innovation and strategic network formation with firms choosing R&D investment and openness, indirect learning, proprietary technologies, random-graph criticality, and competition over discovered idea combinations to study openness versus secrecy, showing that large-economy innovation networks endogenously settle at the critical threshold where equilibrium discovery vanishes asymptotically, while small increases in openness can generate non-vanishing innovation and make interaction-promoting policies more powerful than R&D subsidies alone."
+
 - title: "Cox & Shi (RES, 2023) - Simple Adaptive Size-Exact Testing for Full-Vector and Subvector Inference in Moment Inequality Models"
   file: "Cox_Shi_RES_2023.pdf"
   desc: "This note summarizes the paper, which develops simulation-free and tuning-parameter-free conditional chi-squared tests for full-vector and subvector inference in moment inequality models, using likelihood-ratio distance to the feasible moment set, active-rank critical values, refined finite-sample corrections, nuisance-parameter elimination, convex geometry, and algorithmic implementations to show that valid moment-inequality inference can adapt automatically to slack constraints while remaining computationally fast, size-controlled, and practical for confidence-set construction."
