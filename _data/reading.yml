@@ -1,3 +1,7 @@
+- title: "Berger, Milbradt, Tourre, and Vavra (AER: Insights, 2025) - Optimal Mortgage Refinancing with Inattention"
+  file: "Berger_Milbradt_Tourre_Vavra_AERInsights_2025.pdf"
+  desc: "This note summarizes the paper, which develops an optimal fixed-rate mortgage refinancing model with fixed costs, Poisson attention, Brownian mortgage-rate dynamics, closed-form rate-gap thresholds, ergodic rate-gap distributions, and a sufficient-statistic mapping to Fannie Mae SFLP data—showing that inattentive borrowers should refinance at lower rate gaps when they finally pay attention and that this benchmark explains many apparent refinancing “mistakes,” implying that household refinancing behavior should be evaluated against an inattention-adjusted optimal rule rather than the perfect-attention ADL threshold."
+
 - title: "Jones (AER: Insights, 2024) - The AI Dilemma: Growth versus Existential Risk"
   file: "Jones_AERInsights_2024.pdf"
   desc: "This note summarizes the paper, which develops calibrated static and dynamic welfare models of AI-enabled growth versus existential risk, using CRRA utility, value-of-life calibration, social discounting, mortality improvements, singularity cases, and existential-risk cutoffs to show that pure consumption gains can justify large AI risks under log utility but much less under bounded utility, while AI-driven longevity gains can substantially raise acceptable risk thresholds, implying that AI policy depends critically on how society values consumption, life, future generations, and mortality reduction."
