@@ -1,4 +1,7 @@
 # Auto-generated update history (sorted newest -> oldest). Do not edit manually.
+- ts: "1779022459"
+  date: "2026-05-17"
+  title: "Refactor reading interface styles and filter options"
 - ts: "1779020011"
   date: "2026-05-17"
   title: "Enhance reading layout and author filtering features"
