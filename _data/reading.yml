@@ -1,3 +1,7 @@
+- title: "Demyanyk & Van Hemert (RFS, 2011) - Understanding the Subprime Mortgage Crisis"
+  file: "Demyanyk_VanHemert_RFS_2011.pdf"
+  desc: "This note summarizes the paper, which uses LoanPerformance securitized subprime mortgage data, loan-level delinquency outcomes, borrower and contract characteristics, vintage-adjusted proportional odds models, LTV pricing sensitivity, neighborhood-income effects, and subprime-prime spread regressions to study the origins of the subprime mortgage crisis, showing that subprime loan quality deteriorated monotonically from 2001 to 2007, high house-price appreciation temporarily masked weak underwriting, and risk premia compressed even as adjusted mortgage risk increased."
+
 - title: "Degryse & Ongena (JF, 2005) - Distance, Lending Relationships, and Competition"
   file: "Degryse_Ongena_JF_2005.pdf"
   desc: "This note summarizes the paper, which uses more than 15,000 Belgian small-business loan contracts, borrower-to-lender and borrower-to-competitor travel-time measures, relationship variables, local branch competition, firm and loan controls, and subsample tests by loan size, maturity, collateral, loan type, and purpose to study spatial competition in relationship lending, showing that loan rates fall with distance to the lending branch but rise with distance to competing branches, consistent with banks using borrower geography to price discriminate based on local outside options and transportation costs."
