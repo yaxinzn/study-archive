@@ -1,3 +1,7 @@
+- title: "Chevalier & Ellison (JPE, 1997) - Risk Taking by Mutual Funds as a Response to Incentives"
+  file: "Chevalier_Ellison_JPE_1997.pdf"
+  desc: "This note summarizes the paper, which uses Morningstar mutual fund data, semi-parametric flow-performance estimation, fund age and size heterogeneity, computed risk-taking incentives, September-to-December portfolio holdings, and risk-change regressions to study whether mutual funds alter risk in response to investor-flow incentives, showing that nonlinear flow-performance relationships create option-like incentives for managers to gamble or lock in gains depending on year-to-date performance, with young and small funds most strongly changing portfolio risk in the predicted direction."
+
 - title: "Célérier & Vallée (QJE, 2017) - Catering to Investors Through Security Design: Headline Rate and Complexity"
   file: "Celerier_Vallee_QJE_2017.pdf"
   desc: "This note summarizes the paper, which uses a large European retail structured-products dataset, text-based measures of headline rates, payoff complexity, complete-loss exposure, markups, ex post returns, distributor types, bank risk measures, and low-interest-rate variation to study security design in household finance, showing that banks maintain salient high advertised yields by increasing complexity and downside risk, especially when benchmark rates are low, and that more complex products carry higher bank markups and worse investor performance, consistent with catering to yield-seeking investors rather than pure risk-sharing innovation."
