@@ -8,347 +8,464 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 ---
 
 <style>
+:root{
+  --reading-green:#0f3d2e;
+  --reading-border:rgba(0,0,0,.11);
+  --reading-soft:rgba(15,61,46,.055);
+  --reading-muted:rgba(0,0,0,.66);
+}
+
+.reading-callout,
+.reading-panel,
+.reading-picker,
+.reading-side,
+.reading-entry{
+  border:1px solid var(--reading-border);
+  border-radius:14px;
+  background:#fff;
+}
+
 .reading-callout{
-  margin: 16px 0 18px 0;
-  padding: 14px 16px;
-  border: 1px solid rgba(0,0,0,.12);
-  border-left: 4px solid #0f3d2e;
-  border-radius: 10px;
-  background: #fff;
+  margin:16px 0 18px 0;
+  padding:16px 18px;
+  border-left:4px solid var(--reading-green);
 }
 .reading-callout-title{
-  font-weight: 850;
-  margin-bottom: 6px;
+  font-size:18px;
+  font-weight:850;
+  margin-bottom:6px;
 }
 .reading-callout p{
-  margin: 8px 0;
+  margin:7px 0;
 }
-.reading-small{
-  opacity: .88;
+.reading-small,
+.reading-help,
+.reading-side-hint,
+.reading-count,
+.reading-picker-subtitle,
+.reading-random-status{
+  color:var(--reading-muted);
 }
 
-/* Two-column layout */
 .reading-layout{
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 330px;
-  gap: 20px;
-  align-items: start;
+  display:grid;
+  grid-template-columns:minmax(0,1fr) 300px;
+  gap:22px;
+  align-items:start;
 }
 .reading-main{
-  min-width: 0;
+  min-width:0;
 }
 
-/* Search */
-.reading-search{
-  margin: 10px 0 18px 0;
-  padding: 12px 14px;
-  border: 1px solid rgba(0,0,0,.10);
-  border-radius: 10px;
-  background: #fff;
+/* Compact filter panel */
+.reading-panel{
+  margin:10px 0 18px 0;
+  padding:16px;
 }
-.reading-search-row{
+.reading-panel-head{
   display:flex;
+  gap:14px;
+  justify-content:space-between;
+  align-items:flex-start;
+  margin-bottom:13px;
+}
+.reading-panel-title{
+  margin:0;
+  font-size:18px;
+  line-height:1.25;
+}
+.reading-panel-note{
+  margin:4px 0 0 0;
+  font-size:13px;
+  color:var(--reading-muted);
+}
+.reading-filter-grid{
+  display:grid;
+  grid-template-columns:minmax(260px,2fr) minmax(120px,.7fr) minmax(150px,.8fr) minmax(190px,1fr);
   gap:10px;
-  flex-wrap:wrap;
-  align-items:center;
+  align-items:end;
 }
-#readingQuery{
-  flex: 1 1 420px;
-  padding: 10px 12px;
-  border: 1px solid rgba(0,0,0,.18);
-  border-radius: 10px;
-  font-size: 15px;
+.reading-field{
+  display:block;
+  min-width:0;
 }
-.reading-clear-btn,
-#readingClear,
-#readingResetFilters{
-  padding: 10px 12px;
-  border: 1px solid rgba(0,0,0,.18);
-  border-radius: 10px;
+.reading-field span,
+.reading-field-label{
+  display:block;
+  margin:0 0 5px 0;
+  font-size:12px;
+  font-weight:800;
+  letter-spacing:.01em;
+  color:rgba(0,0,0,.76);
+}
+.reading-field input,
+.reading-journal-summary{
+  width:100%;
+  min-height:42px;
+  box-sizing:border-box;
+  padding:10px 11px;
+  border:1px solid rgba(0,0,0,.18);
+  border-radius:10px;
   background:#fff;
-  font-weight: 650;
-  cursor:pointer;
+  font-size:14px;
 }
-.reading-clear-btn:hover,
-#readingClear:hover,
-#readingResetFilters:hover{
-  transform: translateY(-1px);
+#readingInitialInput{
+  text-transform:uppercase;
+}
+.reading-field input:focus,
+.reading-journal-select:focus-within .reading-journal-summary{
+  outline:2px solid rgba(15,61,46,.16);
+  border-color:rgba(15,61,46,.45);
+}
+.reading-secondary-btn,
+.reading-random-row button,
+.reading-filter-chip,
+.reading-letter-btn{
+  border:1px solid rgba(0,0,0,.16);
+  border-radius:10px;
+  background:#fff;
+  cursor:pointer;
+  font-weight:700;
+}
+.reading-secondary-btn{
+  flex:0 0 auto;
+  padding:9px 11px;
+}
+.reading-secondary-btn:hover,
+.reading-random-row button:hover:not(:disabled),
+.reading-filter-chip:hover,
+.reading-letter-btn:hover:not(:disabled){
+  transform:translateY(-1px);
+}
+
+/* Journal dropdown: compact by default */
+.reading-journal-select{
+  position:relative;
+}
+.reading-journal-summary{
+  list-style:none;
+  cursor:pointer;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  color:rgba(0,0,0,.85);
+}
+.reading-journal-summary::-webkit-details-marker{
+  display:none;
+}
+.reading-journal-summary::after{
+  content:'▾';
+  font-size:12px;
+  color:var(--reading-muted);
+}
+.reading-journal-select[open] .reading-journal-summary::after{
+  content:'▴';
+}
+.reading-journal-menu{
+  position:absolute;
+  z-index:20;
+  right:0;
+  left:0;
+  margin-top:6px;
+  max-height:260px;
+  overflow:auto;
+  padding:8px;
+  border:1px solid var(--reading-border);
+  border-radius:12px;
+  background:#fff;
+  box-shadow:0 16px 34px rgba(0,0,0,.12);
+}
+.reading-journal-option{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  padding:7px 6px;
+  border-radius:8px;
+  font-size:13px;
+  line-height:1.25;
+}
+.reading-journal-option:hover{
+  background:var(--reading-soft);
+}
+.reading-journal-option input{
+  width:auto;
+  min-height:0;
+}
+.reading-journal-option.is-muted{
+  opacity:.45;
+}
+
+/* Optional A-Z picker */
+.reading-advanced{
+  margin-top:10px;
+}
+.reading-advanced summary{
+  width:max-content;
+  cursor:pointer;
+  font-size:13px;
+  font-weight:750;
+  color:var(--reading-green);
+}
+.reading-letter-grid{
+  display:grid;
+  grid-template-columns:repeat(13, minmax(0,1fr));
+  gap:5px;
+  margin-top:8px;
+  max-width:620px;
+}
+.reading-letter-btn{
+  min-height:30px;
+  padding:4px 0;
+  font-size:12px;
+}
+.reading-letter-btn.is-active{
+  color:#fff;
+  background:var(--reading-green);
+  border-color:var(--reading-green);
+}
+.reading-letter-btn:disabled{
+  opacity:.28;
+  cursor:not-allowed;
+}
+
+.reading-active-filters{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+  min-height:0;
+  margin-top:10px;
+}
+.reading-filter-chip{
+  display:inline-flex;
+  align-items:center;
+  gap:6px;
+  max-width:100%;
+  padding:6px 9px;
+  background:var(--reading-soft);
+  font-size:12px;
+  line-height:1.2;
+}
+.reading-filter-chip strong{
+  font-size:13px;
+}
+.reading-filter-empty{
+  font-size:12px;
+  color:var(--reading-muted);
 }
 .reading-count{
-  margin-top: 8px;
-  opacity: .78;
-  font-size: 13px;
+  margin-top:8px;
+  font-size:13px;
 }
 .reading-empty{
   display:none;
-  margin-top: 8px;
-  padding: 10px 12px;
-  border: 1px dashed rgba(0,0,0,.18);
-  border-radius: 10px;
-  background: rgba(0,0,0,.02);
-  opacity: .85;
+  margin-top:10px;
+  padding:10px 12px;
+  border:1px dashed rgba(0,0,0,.18);
+  border-radius:10px;
+  background:rgba(0,0,0,.02);
+  color:var(--reading-muted);
 }
 
-/* Random picker */
-.reading-random{
-  margin: 10px 0 18px 0;
-  padding: 12px 14px;
-  border: 1px solid rgba(0,0,0,.10);
-  border-radius: 10px;
-  background: #fff;
+/* Review picker */
+.reading-picker{
+  margin:10px 0 18px 0;
+  padding:0;
+}
+.reading-picker summary{
+  cursor:pointer;
+  padding:14px 16px;
+  display:flex;
+  gap:10px;
+  justify-content:space-between;
+  align-items:center;
+  font-weight:850;
+}
+.reading-picker-subtitle{
+  font-size:12px;
+  font-weight:500;
+}
+.reading-picker-body{
+  padding:0 16px 15px 16px;
+  border-top:1px solid rgba(0,0,0,.08);
 }
 .reading-random-row{
   display:flex;
-  gap:10px;
   flex-wrap:wrap;
-  align-items:center;
+  gap:8px;
+  margin-top:12px;
 }
 .reading-random-row button{
-  padding: 10px 12px;
-  border: 1px solid rgba(0,0,0,.18);
-  border-radius: 10px;
-  background:#fff;
-  font-weight: 650;
-  cursor:pointer;
-}
-.reading-random-row button:hover{
-  transform: translateY(-1px);
+  padding:9px 11px;
 }
 .reading-random-row button:disabled{
-  opacity: .45;
-  cursor: not-allowed;
-  transform: none;
-}
-.reading-random-note{
-  margin-top: 8px;
-  opacity: .78;
-  font-size: 13px;
+  opacity:.42;
+  cursor:not-allowed;
+  transform:none;
 }
 .reading-random-status{
-  margin-top: 8px;
-  font-size: 13px;
-  opacity: .82;
+  margin-top:9px;
+  font-size:13px;
 }
 #readingRandomList{
-  margin: 10px 0 0 20px;
+  margin:10px 0 0 20px;
 }
 #readingRandomList li{
-  margin: 5px 0;
+  margin:5px 0;
 }
 
-/* Filter guide */
-.reading-guide{
-  position: sticky;
-  top: 18px;
-  max-height: calc(100vh - 36px);
-  overflow: auto;
-  margin: 10px 0 18px 0;
-  padding: 14px;
-  border: 1px solid rgba(0,0,0,.10);
-  border-radius: 10px;
-  background: #fff;
+/* Library cards */
+.reading-section-title{
+  margin:20px 0 10px 0;
 }
-.reading-guide-title{
-  font-weight: 850;
-  margin-bottom: 6px;
-}
-.reading-guide-desc{
-  margin: 0 0 12px 0;
-  font-size: 13px;
-  line-height: 1.45;
-  opacity: .78;
-}
-.reading-filter-group{
-  margin: 14px 0;
-  padding-top: 12px;
-  border-top: 1px solid rgba(0,0,0,.08);
-}
-.reading-filter-group:first-of-type{
-  border-top: 0;
-  padding-top: 0;
-}
-.reading-filter-label{
-  display:block;
-  margin-bottom: 6px;
-  font-size: 13px;
-  font-weight: 850;
-}
-.reading-filter-help{
-  margin: 6px 0 0 0;
-  font-size: 12px;
-  line-height: 1.4;
-  opacity: .72;
-}
-.reading-input-row{
-  display: flex;
-  gap: 8px;
-  align-items: center;
-}
-.reading-input-row input{
-  width: 100%;
-  min-width: 0;
-  padding: 10px 12px;
-  border: 1px solid rgba(0,0,0,.18);
-  border-radius: 10px;
-  font-size: 15px;
-}
-#readingInitialInput{
-  text-transform: uppercase;
-}
-.reading-letter-grid{
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
-  gap: 6px;
-  margin: 8px 0 0 0;
-}
-.reading-letter-btn,
-.reading-journal-btn{
-  padding: 7px 0;
-  border: 1px solid rgba(0,0,0,.16);
-  border-radius: 8px;
-  background: #fff;
-  font-size: 12px;
-  font-weight: 750;
-  cursor: pointer;
-}
-.reading-letter-btn:hover:not(:disabled),
-.reading-journal-btn:hover:not(:disabled){
-  transform: translateY(-1px);
-}
-.reading-letter-btn.is-active,
-.reading-journal-btn.is-active{
-  background: #0f3d2e;
-  border-color: #0f3d2e;
-  color: #fff;
-}
-.reading-letter-btn:disabled,
-.reading-journal-btn:disabled{
-  opacity: .32;
-  cursor: not-allowed;
-}
-.reading-journal-grid{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin-top: 8px;
-}
-.reading-journal-btn{
-  padding: 7px 9px;
-}
-.reading-active-filters{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  margin-top: 8px;
-}
-.reading-filter-chip{
-  display: inline-flex;
-  align-items: center;
-  gap: 5px;
-  max-width: 100%;
-  padding: 6px 8px;
-  border: 1px solid rgba(0,0,0,.14);
-  border-radius: 999px;
-  background: rgba(15,61,46,.06);
-  font-size: 12px;
-  line-height: 1.2;
-  cursor: pointer;
-}
-.reading-filter-chip:hover{
-  transform: translateY(-1px);
-}
-.reading-filter-chip span{
-  overflow-wrap: anywhere;
-}
-.reading-filter-chip strong{
-  font-size: 13px;
-}
-.reading-guide-count{
-  margin-top: 10px;
-  padding-top: 12px;
-  border-top: 1px solid rgba(0,0,0,.08);
-  font-size: 13px;
-  font-weight: 850;
-}
-.reading-guide-list{
-  list-style: none;
-  margin: 10px 0 0 0;
-  padding: 0;
-}
-.reading-guide-list li{
-  margin: 0;
-  padding: 9px 0;
-  border-bottom: 1px solid rgba(0,0,0,.07);
-}
-.reading-guide-list li:last-child{
-  border-bottom: 0;
-}
-.reading-guide-list a{
-  display: block;
-  font-weight: 750;
-  line-height: 1.35;
-  overflow-wrap: anywhere;
-}
-.reading-guide-meta{
-  display: block;
-  margin-top: 4px;
-  font-size: 12px;
-  line-height: 1.35;
-  opacity: .75;
-  overflow-wrap: anywhere;
-}
-.reading-guide-tags{
-  display: flex;
-  flex-wrap: wrap;
-  gap: 5px;
-  margin-top: 5px;
-}
-.reading-guide-tag{
-  padding: 2px 6px;
-  border: 1px solid rgba(0,0,0,.12);
-  border-radius: 999px;
-  font-size: 11px;
-  opacity: .82;
-}
-.reading-guide-empty{
-  margin-top: 10px;
-  padding: 10px 12px;
-  border: 1px dashed rgba(0,0,0,.18);
-  border-radius: 10px;
-  background: rgba(0,0,0,.02);
-  font-size: 13px;
-  line-height: 1.4;
-  opacity: .82;
-}
-
-/* Cards */
 .reading-entry{
-  margin: 16px 0;
-  padding: 14px 16px;
-  border: 1px solid rgba(0,0,0,.10);
-  border-left: 4px solid #0f3d2e;
-  border-radius: 10px;
-  background: #fff;
+  margin:12px 0;
+  padding:14px 16px;
+  border-left:4px solid var(--reading-green);
+}
+.reading-entry[hidden]{
+  display:none !important;
+}
+.reading-entry-top{
+  display:flex;
+  gap:12px;
+  align-items:flex-start;
+  justify-content:space-between;
 }
 .reading-title{
-  font-weight: 800;
+  font-weight:850;
+  line-height:1.35;
+}
+.reading-card-meta{
+  display:flex;
+  flex-wrap:wrap;
+  gap:5px;
+  flex:0 0 auto;
+  justify-content:flex-end;
+}
+.reading-pill{
+  display:inline-flex;
+  align-items:center;
+  padding:3px 7px;
+  border:1px solid rgba(0,0,0,.12);
+  border-radius:999px;
+  background:rgba(0,0,0,.02);
+  font-size:11px;
+  line-height:1.25;
+  color:rgba(0,0,0,.72);
 }
 .reading-author,
 .reading-file{
-  margin-top: 10px;
+  margin:8px 0 0 0;
+  font-size:14px;
+}
+.reading-note{
+  margin-top:9px;
+}
+.reading-note summary{
+  cursor:pointer;
+  width:max-content;
+  font-size:13px;
+  font-weight:800;
+  color:var(--reading-green);
 }
 .reading-desc{
-  margin-top: 8px;
-  opacity: .90;
+  margin:8px 0 0 0;
+  opacity:.9;
+  line-height:1.62;
 }
 
-@media (max-width: 980px){
+/* Right-side result guide */
+.reading-side{
+  position:sticky;
+  top:18px;
+  max-height:calc(100vh - 36px);
+  overflow:auto;
+  padding:15px;
+  margin:10px 0 18px 0;
+}
+.reading-side-title{
+  font-weight:850;
+  margin-bottom:5px;
+}
+.reading-side-hint{
+  margin:0 0 12px 0;
+  font-size:13px;
+  line-height:1.45;
+}
+.reading-guide-count{
+  padding:10px 0;
+  border-top:1px solid rgba(0,0,0,.08);
+  border-bottom:1px solid rgba(0,0,0,.08);
+  font-size:13px;
+  font-weight:850;
+}
+.reading-guide-list{
+  list-style:none;
+  margin:10px 0 0 0;
+  padding:0;
+}
+.reading-guide-list li{
+  padding:9px 0;
+  border-bottom:1px solid rgba(0,0,0,.07);
+}
+.reading-guide-list li:last-child{
+  border-bottom:0;
+}
+.reading-guide-list a{
+  display:block;
+  font-weight:750;
+  line-height:1.35;
+  overflow-wrap:anywhere;
+}
+.reading-guide-meta{
+  display:block;
+  margin-top:4px;
+  font-size:12px;
+  line-height:1.35;
+  color:var(--reading-muted);
+  overflow-wrap:anywhere;
+}
+.reading-guide-empty{
+  padding:10px 12px !important;
+  border:1px dashed rgba(0,0,0,.18) !important;
+  border-radius:10px;
+  background:rgba(0,0,0,.02);
+  font-size:13px;
+  line-height:1.4;
+  color:var(--reading-muted);
+}
+
+@media (max-width:1100px){
   .reading-layout{
-    grid-template-columns: 1fr;
+    grid-template-columns:1fr;
   }
-  .reading-guide{
-    position: static;
-    max-height: none;
+  .reading-side{
+    position:static;
+    max-height:none;
+  }
+}
+@media (max-width:780px){
+  .reading-filter-grid{
+    grid-template-columns:1fr;
+  }
+  .reading-panel-head,
+  .reading-entry-top,
+  .reading-picker summary{
+    display:block;
+  }
+  .reading-secondary-btn{
+    margin-top:10px;
+  }
+  .reading-card-meta{
+    justify-content:flex-start;
+    margin-top:8px;
+  }
+  .reading-letter-grid{
+    grid-template-columns:repeat(7, minmax(0,1fr));
+  }
+  .reading-journal-menu{
+    position:static;
   }
 }
 </style>
@@ -356,11 +473,10 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 <div class="reading-callout">
   <div class="reading-callout-title">Paper Reading &amp; Quick Notes</div>
   <p>
-    A curated reading notebook: concise notes that prioritize <strong>identification</strong>, <strong>variable construction</strong>,
-    and <strong>replication hooks</strong>.
+    A curated reading notebook for fast review: search by author, title, PDF name, keywords, author initials, year, or journal.
   </p>
   <p class="reading-small">
-    If anything is unclear or incorrect, please tell me—I will revise and improve it.
+    Notes prioritize identification logic, variable construction, and replication hooks.
   </p>
 </div>
 
@@ -368,33 +484,75 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 <div class="reading-layout">
   <main class="reading-main">
-    <div class="reading-search">
-      <div class="reading-search-row">
-        <input id="readingQuery" type="search" placeholder="Search by author / title / keywords…" autocomplete="off">
-        <button id="readingClear" type="button">Clear Search</button>
+    <section class="reading-panel" aria-label="Paper search and filters">
+      <div class="reading-panel-head">
+        <div>
+          <h2 class="reading-panel-title">Find papers</h2>
+          <p class="reading-panel-note">Combine filters. Journal and year are read from the PDF file name, for example <code>Author_RES_2023.pdf</code>.</p>
+        </div>
+        <button id="readingResetFilters" class="reading-secondary-btn" type="button">Clear all</button>
       </div>
+
+      <div class="reading-filter-grid">
+        <label class="reading-field reading-field-search" for="readingQuery">
+          <span>Search</span>
+          <input id="readingQuery" type="search" placeholder="Author / title / keyword / PDF file…" autocomplete="off">
+        </label>
+
+        <label class="reading-field" for="readingInitialInput">
+          <span>Author initials</span>
+          <input id="readingInitialInput" type="text" inputmode="latin" placeholder="G R Y" aria-label="Author initials">
+        </label>
+
+        <label class="reading-field" for="readingYearInput">
+          <span>Year</span>
+          <input id="readingYearInput" type="text" inputmode="numeric" list="readingYearOptions" placeholder="2023 or 2020-2024" aria-label="Publication year">
+          <datalist id="readingYearOptions"></datalist>
+        </label>
+
+        <div class="reading-field">
+          <div class="reading-field-label">Journal</div>
+          <details class="reading-journal-select" id="readingJournalDetails">
+            <summary class="reading-journal-summary" id="readingJournalSummary">All journals</summary>
+            <div class="reading-journal-menu" id="readingJournalMenu">
+              <label class="reading-journal-option">
+                <input id="readingJournalAll" type="checkbox" checked>
+                <span>All journals</span>
+              </label>
+              <div id="readingJournalOptions"></div>
+            </div>
+          </details>
+        </div>
+      </div>
+
+      <details class="reading-advanced">
+        <summary>A–Z initial picker</summary>
+        <div class="reading-letter-grid" id="readingLetterButtons" aria-label="Author initials A to Z"></div>
+      </details>
+
+      <div class="reading-active-filters" id="readingActiveFilters"></div>
       <div class="reading-count" id="readingCount"></div>
       <div class="reading-empty" id="readingEmpty">No matching papers. Try clearing one filter or using a broader keyword.</div>
-    </div>
+    </section>
 
-    <div class="reading-random">
-      <div class="reading-random-row">
-        <button id="readingRandomBtn" type="button">Pick 10 Random PDFs from Current Results</button>
-        <button id="readingCopyBtn" type="button" disabled>Copy Selected Names</button>
-        <button id="readingDownloadNamesBtn" type="button" disabled>Download Selected Names</button>
-        <button id="readingCopyDownloadBtn" type="button" disabled>Copy + Download Names</button>
+    <details class="reading-picker">
+      <summary>
+        <span>Review picker</span>
+        <span class="reading-picker-subtitle">Pick up to 10 PDFs from current results</span>
+      </summary>
+      <div class="reading-picker-body">
+        <div class="reading-random-row">
+          <button id="readingRandomBtn" type="button">Pick PDFs</button>
+          <button id="readingCopyBtn" type="button" disabled>Copy names</button>
+          <button id="readingDownloadNamesBtn" type="button" disabled>Download names</button>
+          <button id="readingCopyDownloadBtn" type="button" disabled>Copy + download</button>
+        </div>
+        <div class="reading-random-status" id="readingRandomStatus" aria-live="polite"></div>
+        <ol id="readingRandomList"></ol>
       </div>
+    </details>
 
-      <div class="reading-random-note">
-        Reading check: randomly select up to 10 PDF files from the currently filtered results. If no filters are active, the full library is used.
-      </div>
-
-      <div class="reading-random-status" id="readingRandomStatus" aria-live="polite"></div>
-
-      <ol id="readingRandomList"></ol>
-    </div>
-
-    <h2 id="library">Library</h2>
+    <h2 class="reading-section-title" id="library">Library</h2>
 
     {% if items and items.size > 0 %}
       {% for p in items %}
@@ -405,74 +563,42 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
           {% assign paper_authors = p.authors | join: ", " %}
         {% endif %}
 
-        <div class="reading-entry"
+        <article class="reading-entry"
              data-search="{{ paper_authors | escape }} {{ p.title | escape }} {{ p.file | escape }} {{ p.desc | escape }}"
              data-author="{{ paper_authors | escape }}"
              data-title="{{ p.title | escape }}"
              data-file="{{ p.file | escape }}">
-          <div class="reading-title">{{ p.title }}</div>
+          <div class="reading-entry-top">
+            <div>
+              <div class="reading-title">{{ p.title }}</div>
+              {% if paper_authors and paper_authors != "" %}
+                <p class="reading-author"><strong>Author:</strong> {{ paper_authors }}</p>
+              {% endif %}
+              <p class="reading-file">
+                <strong>File:</strong>
+                <a href="{{ site.baseurl }}/reading/library/{{ p.file | uri_escape }}">{{ p.file }}</a>
+              </p>
+            </div>
+            <div class="reading-card-meta" data-card-meta></div>
+          </div>
 
-          {% if paper_authors and paper_authors != "" %}
-            <p class="reading-author">
-              <strong>Author:</strong>
-              {{ paper_authors }}
-            </p>
-          {% endif %}
-
-          <p class="reading-file">
-            <strong>File:</strong>
-            <a href="{{ site.baseurl }}/reading/library/{{ p.file | uri_escape }}">{{ p.file }}</a>
-          </p>
-
-          <p class="reading-desc">{{ p.desc }}</p>
-        </div>
+          <details class="reading-note">
+            <summary>Quick note</summary>
+            <p class="reading-desc">{{ p.desc }}</p>
+          </details>
+        </article>
       {% endfor %}
     {% else %}
-      <div class="reading-entry">
+      <article class="reading-entry">
         <div class="reading-title">No papers yet.</div>
         <p class="reading-desc">Add entries to <code>_data/reading.yml</code> and upload PDFs to <code>reading/library/</code>.</p>
-      </div>
+      </article>
     {% endif %}
   </main>
 
-  <aside class="reading-guide" aria-labelledby="readingGuideTitle">
-    <div class="reading-guide-title" id="readingGuideTitle">PDF Filter Guide</div>
-    <p class="reading-guide-desc">
-      Combine author initials, publication years, and journal codes to quickly narrow the library. Journal and year are read from the PDF file name pattern <code>Author_Journal_Year.pdf</code>.
-    </p>
-
-    <div class="reading-filter-group">
-      <label class="reading-filter-label" for="readingInitialInput">Author Initials</label>
-      <div class="reading-input-row">
-        <input id="readingInitialInput" type="text" inputmode="latin" placeholder="G R Y" aria-label="Author initials">
-        <button id="readingInitialClear" class="reading-clear-btn" type="button">Clear</button>
-      </div>
-      <p class="reading-filter-help">Enter one or more letters, such as <strong>G</strong>, <strong>GR</strong>, or <strong>G R Y</strong>. Matches any selected initial.</p>
-      <div class="reading-letter-grid" id="readingLetterButtons" aria-label="Author initials A to Z"></div>
-    </div>
-
-    <div class="reading-filter-group">
-      <label class="reading-filter-label" for="readingYearInput">Publication Year</label>
-      <div class="reading-input-row">
-        <input id="readingYearInput" type="text" inputmode="numeric" list="readingYearOptions" placeholder="2023" aria-label="Publication year">
-        <button id="readingYearClear" class="reading-clear-btn" type="button">Clear</button>
-      </div>
-      <datalist id="readingYearOptions"></datalist>
-      <p class="reading-filter-help">Use one year, multiple years, or a range: <strong>2023</strong>, <strong>2020 2023</strong>, or <strong>2020-2024</strong>.</p>
-    </div>
-
-    <div class="reading-filter-group">
-      <div class="reading-filter-label">Journal</div>
-      <p class="reading-filter-help">Journal codes are extracted from the token before the year, such as <strong>RES</strong>, <strong>RFS</strong>, <strong>JFE</strong>, or <strong>QJE</strong>.</p>
-      <div class="reading-journal-grid" id="readingJournalButtons" aria-label="Journal filters"></div>
-    </div>
-
-    <div class="reading-filter-group">
-      <div class="reading-filter-label">Active Filters</div>
-      <button id="readingResetFilters" type="button">Reset All Filters</button>
-      <div class="reading-active-filters" id="readingActiveFilters"></div>
-    </div>
-
+  <aside class="reading-side" aria-labelledby="readingGuideTitle">
+    <div class="reading-side-title" id="readingGuideTitle">Matching PDFs</div>
+    <p class="reading-side-hint">A compact PDF list appears here once filters are active. Use it as a quick directory while reviewing.</p>
     <div class="reading-guide-count" id="readingGuideCount"></div>
     <ul class="reading-guide-list" id="readingGuideList"></ul>
   </aside>
@@ -481,20 +607,19 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 <script>
 (function(){
   const input = document.getElementById('readingQuery');
-  const clearBtn = document.getElementById('readingClear');
   const entries = Array.from(document.querySelectorAll('.reading-entry'));
   const count = document.getElementById('readingCount');
   const empty = document.getElementById('readingEmpty');
 
   const initialInput = document.getElementById('readingInitialInput');
-  const initialClearBtn = document.getElementById('readingInitialClear');
   const letterButtonsWrap = document.getElementById('readingLetterButtons');
 
   const yearInput = document.getElementById('readingYearInput');
-  const yearClearBtn = document.getElementById('readingYearClear');
   const yearOptions = document.getElementById('readingYearOptions');
 
-  const journalButtonsWrap = document.getElementById('readingJournalButtons');
+  const journalSummary = document.getElementById('readingJournalSummary');
+  const journalAll = document.getElementById('readingJournalAll');
+  const journalOptionsWrap = document.getElementById('readingJournalOptions');
   const resetFiltersBtn = document.getElementById('readingResetFilters');
   const activeFiltersWrap = document.getElementById('readingActiveFilters');
 
@@ -508,19 +633,19 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   const randomList = document.getElementById('readingRandomList');
   const randomStatus = document.getElementById('readingRandomStatus');
 
+  if (!input) return;
+
+  const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+  const maxGuideItems = 45;
+
   let selectedPDFs = [];
   let selectedDate = '';
   let selectedFilterSummary = '';
   let selectedInitials = new Set();
   let selectedJournals = new Set();
   let letterButtons = [];
-  let journalButtons = [];
+  let journalCheckboxes = [];
   let lastVisibleItems = [];
-
-  if (!input) return;
-
-  const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
-  const maxGuideItems = 80;
 
   function norm(x){
     return (x || '')
@@ -581,11 +706,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       }
     }
 
-    return {
-      year,
-      journal,
-      authorParts
-    };
+    return { year, journal, authorParts };
   }
 
   function initialsFromAuthorParts(parts){
@@ -598,9 +719,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
         .replace(/[\u0300-\u036f]/g, '')
         .match(/[A-Za-z]/);
 
-      if (match) {
-        initials.push(match[0].toUpperCase());
-      }
+      if (match) initials.push(match[0].toUpperCase());
     }
 
     return uniqueSorted(initials);
@@ -625,15 +744,12 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   }
 
   function formatAuthorParts(parts){
-    return (parts || [])
-      .filter(Boolean)
-      .join(', ');
+    return (parts || []).filter(Boolean).join(', ');
   }
 
   function getEntryData(el){
     const link = el.querySelector('.reading-file a');
     const titleNode = el.querySelector('.reading-title');
-
     const author = (el.getAttribute('data-author') || '').trim();
     const title = (el.getAttribute('data-title') || (titleNode ? titleNode.textContent : '') || '').trim();
     const file = (el.getAttribute('data-file') || (link ? link.textContent : '') || '').trim();
@@ -684,6 +800,26 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
   const dataByElement = new Map(paperData.map(item => [item.el, item]));
 
+  function addCardPill(wrap, text){
+    if (!wrap || !text) return;
+
+    const pill = document.createElement('span');
+    pill.className = 'reading-pill';
+    pill.textContent = text;
+    wrap.appendChild(pill);
+  }
+
+  function hydrateCardMeta(){
+    for (const item of paperData) {
+      const wrap = item.el.querySelector('[data-card-meta]');
+      if (!wrap) continue;
+
+      wrap.innerHTML = '';
+      addCardPill(wrap, item.journal);
+      addCardPill(wrap, item.year);
+    }
+  }
+
   function parseYearFilter(value){
     const raw = (value || '').toString();
     let remaining = raw;
@@ -707,10 +843,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     remaining = remaining.replace(rangeRegex, ' ');
 
     const yearMatches = remaining.match(/(?:19|20)\d{2}/g) || [];
-
-    for (const year of yearMatches) {
-      years.add(year);
-    }
+    for (const year of yearMatches) years.add(year);
 
     return {
       raw: raw.trim(),
@@ -725,13 +858,10 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     if (!itemYear) return false;
 
     const numericYear = Number(itemYear);
-
     if (yearFilter.years.has(itemYear)) return true;
 
     for (const range of yearFilter.ranges) {
-      if (numericYear >= range.start && numericYear <= range.end) {
-        return true;
-      }
+      if (numericYear >= range.start && numericYear <= range.end) return true;
     }
 
     return false;
@@ -764,9 +894,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     if (!filters.initials.size) return true;
 
     for (const letter of filters.initials) {
-      if (item.initials.includes(letter)) {
-        return true;
-      }
+      if (item.initials.includes(letter)) return true;
     }
 
     return false;
@@ -815,7 +943,6 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     for (const item of paperData) {
       if (!item.journal) continue;
       if (!itemMatchesIgnoringJournal(item, filters)) continue;
-
       counts.set(item.journal, (counts.get(item.journal) || 0) + 1);
     }
 
@@ -830,7 +957,6 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
     for (const letter of alphabet) {
       const btn = document.createElement('button');
-
       btn.type = 'button';
       btn.className = 'reading-letter-btn';
       btn.dataset.letter = letter;
@@ -883,104 +1009,83 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     }
   }
 
-  function buildJournalButtons(){
-    if (!journalButtonsWrap) return;
+  function buildJournalOptions(){
+    if (!journalOptionsWrap) return;
 
     const journals = uniqueSorted(paperData.map(item => item.journal));
-    journalButtonsWrap.innerHTML = '';
-    journalButtons = [];
+    journalOptionsWrap.innerHTML = '';
+    journalCheckboxes = [];
 
     if (journals.length === 0) {
       const emptyMsg = document.createElement('div');
-      emptyMsg.className = 'reading-guide-empty';
-      emptyMsg.textContent = 'No journal codes were detected from the PDF file names.';
-      journalButtonsWrap.appendChild(emptyMsg);
+      emptyMsg.className = 'reading-journal-option is-muted';
+      emptyMsg.textContent = 'No journal codes detected.';
+      journalOptionsWrap.appendChild(emptyMsg);
       return;
     }
 
-    const allBtn = document.createElement('button');
-    allBtn.type = 'button';
-    allBtn.className = 'reading-journal-btn';
-    allBtn.dataset.journal = '__ALL__';
-    allBtn.textContent = 'All';
-    allBtn.setAttribute('aria-pressed', 'true');
-    allBtn.addEventListener('click', () => {
-      selectedJournals.clear();
-      update();
-    });
-    journalButtonsWrap.appendChild(allBtn);
-    journalButtons.push(allBtn);
-
     for (const journal of journals) {
-      const btn = document.createElement('button');
+      const label = document.createElement('label');
+      const checkbox = document.createElement('input');
+      const text = document.createElement('span');
 
-      btn.type = 'button';
-      btn.className = 'reading-journal-btn';
-      btn.dataset.journal = journal;
-      btn.textContent = journal;
-      btn.setAttribute('aria-pressed', 'false');
-      btn.addEventListener('click', () => {
-        if (selectedJournals.has(journal)) {
-          selectedJournals.delete(journal);
-        } else {
+      label.className = 'reading-journal-option';
+      checkbox.type = 'checkbox';
+      checkbox.value = journal;
+      checkbox.dataset.journal = journal;
+      text.textContent = journal;
+
+      checkbox.addEventListener('change', () => {
+        if (checkbox.checked) {
           selectedJournals.add(journal);
+        } else {
+          selectedJournals.delete(journal);
         }
 
         update();
       });
 
-      journalButtonsWrap.appendChild(btn);
-      journalButtons.push(btn);
+      label.appendChild(checkbox);
+      label.appendChild(text);
+      journalOptionsWrap.appendChild(label);
+      journalCheckboxes.push({ journal, checkbox, label, text });
     }
   }
 
-  function updateJournalButtons(filters){
+  function updateJournalOptions(filters){
     const counts = getJournalCounts(filters);
 
-    for (const btn of journalButtons) {
-      const journal = btn.dataset.journal;
+    if (journalAll) journalAll.checked = selectedJournals.size === 0;
 
-      if (journal === '__ALL__') {
-        const isActive = selectedJournals.size === 0;
-        btn.classList.toggle('is-active', isActive);
-        btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
-        btn.disabled = false;
-        btn.title = 'Show all journals';
-        continue;
-      }
-
-      const countForJournal = counts.get(journal) || 0;
-      const isActive = selectedJournals.has(journal);
+    for (const option of journalCheckboxes) {
+      const countForJournal = counts.get(option.journal) || 0;
+      const isActive = selectedJournals.has(option.journal);
       const hasMatches = countForJournal > 0;
 
-      btn.disabled = !hasMatches && !isActive;
-      btn.classList.toggle('is-active', isActive);
-      btn.setAttribute('aria-pressed', isActive ? 'true' : 'false');
-      btn.textContent = hasMatches ? `${journal} (${countForJournal})` : journal;
-      btn.title = hasMatches
-        ? `${countForJournal} PDF${countForJournal === 1 ? '' : 's'} in ${journal} under the current filters`
-        : `No ${journal} PDFs found under the current filters`;
+      option.checkbox.checked = isActive;
+      option.checkbox.disabled = !hasMatches && !isActive;
+      option.label.classList.toggle('is-muted', !hasMatches && !isActive);
+      option.text.textContent = hasMatches ? `${option.journal} (${countForJournal})` : option.journal;
+    }
+
+    if (!journalSummary) return;
+
+    if (selectedJournals.size === 0) {
+      journalSummary.textContent = 'All journals';
+    } else if (selectedJournals.size === 1) {
+      journalSummary.textContent = Array.from(selectedJournals)[0];
+    } else {
+      journalSummary.textContent = `${selectedJournals.size} journals selected`;
     }
   }
 
   function readableFilterSummary(filters){
     const parts = [];
 
-    if (filters.rawSearch) {
-      parts.push(`search “${filters.rawSearch}”`);
-    }
-
-    if (filters.initials.size) {
-      parts.push(`initials ${Array.from(filters.initials).sort().join(', ')}`);
-    }
-
-    if (filters.yearFilter.raw) {
-      parts.push(`years ${filters.yearFilter.raw}`);
-    }
-
-    if (filters.journals.size) {
-      parts.push(`journals ${Array.from(filters.journals).sort().join(', ')}`);
-    }
+    if (filters.rawSearch) parts.push(`search “${filters.rawSearch}”`);
+    if (filters.initials.size) parts.push(`initials ${Array.from(filters.initials).sort().join(', ')}`);
+    if (filters.yearFilter.raw) parts.push(`years ${filters.yearFilter.raw}`);
+    if (filters.journals.size) parts.push(`journals ${Array.from(filters.journals).sort().join(', ')}`);
 
     return parts.length ? parts.join('; ') : 'no active filters';
   }
@@ -992,8 +1097,8 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
     if (!hasActiveFilters(filters)) {
       const emptyChip = document.createElement('span');
-      emptyChip.className = 'reading-filter-help';
-      emptyChip.textContent = 'No active filters.';
+      emptyChip.className = 'reading-filter-empty';
+      emptyChip.textContent = 'No filters applied.';
       activeFiltersWrap.appendChild(emptyChip);
       return;
     }
@@ -1045,17 +1150,13 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   }
 
   function makeGuideMeta(item){
-    const meta = [];
+    const parts = [];
+    if (item.authorDisplay) parts.push(item.authorDisplay);
 
-    if (item.authorDisplay) {
-      meta.push(item.authorDisplay);
-    }
+    const tags = [item.journal, item.year].filter(Boolean).join(', ');
+    if (tags) parts.push(tags);
 
-    if (item.title) {
-      meta.push(item.title);
-    }
-
-    return meta.join(' — ');
+    return parts.join(' · ');
   }
 
   function renderGuide(visibleItems, filters){
@@ -1076,7 +1177,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       guideCount.textContent = `${paperData.length} PDFs in the library`;
       const li = document.createElement('li');
       li.className = 'reading-guide-empty';
-      li.textContent = 'Choose an author initial, year, journal, or keyword to build a focused PDF list here.';
+      li.textContent = 'Apply a filter to show a focused PDF directory here.';
       guideList.appendChild(li);
       return;
     }
@@ -1097,7 +1198,6 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       const li = document.createElement('li');
       const a = document.createElement('a');
       const meta = document.createElement('span');
-      const tags = document.createElement('span');
 
       a.textContent = item.file;
       a.href = item.href;
@@ -1107,32 +1207,8 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       meta.className = 'reading-guide-meta';
       meta.textContent = makeGuideMeta(item);
 
-      tags.className = 'reading-guide-tags';
-
-      if (item.journal) {
-        const journalTag = document.createElement('span');
-        journalTag.className = 'reading-guide-tag';
-        journalTag.textContent = item.journal;
-        tags.appendChild(journalTag);
-      }
-
-      if (item.year) {
-        const yearTag = document.createElement('span');
-        yearTag.className = 'reading-guide-tag';
-        yearTag.textContent = item.year;
-        tags.appendChild(yearTag);
-      }
-
-      if (item.initials.length) {
-        const initialTag = document.createElement('span');
-        initialTag.className = 'reading-guide-tag';
-        initialTag.textContent = `Initials: ${item.initials.join(', ')}`;
-        tags.appendChild(initialTag);
-      }
-
       li.appendChild(a);
       if (meta.textContent) li.appendChild(meta);
-      if (tags.children.length) li.appendChild(tags);
       guideList.appendChild(li);
     }
 
@@ -1157,12 +1233,11 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       const item = dataByElement.get(el);
 
       if (!item) {
-        el.style.display = paperData.length === 0 ? '' : 'none';
+        el.hidden = paperData.length !== 0;
         continue;
       }
 
-      const ok = visibleSet.has(item);
-      el.style.display = ok ? '' : 'none';
+      el.hidden = !visibleSet.has(item);
     }
 
     if (count) {
@@ -1175,7 +1250,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
     renderGuide(visibleItems, filters);
     updateLetterButtons(filters);
-    updateJournalButtons(filters);
+    updateJournalOptions(filters);
     renderActiveFilters(filters);
   }
 
@@ -1184,7 +1259,6 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     const year = now.getFullYear();
     const month = String(now.getMonth() + 1).padStart(2, '0');
     const day = String(now.getDate()).padStart(2, '0');
-
     return `${year}-${month}-${day}`;
   }
 
@@ -1196,17 +1270,9 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   }
 
   function setActionButtonsEnabled(enabled){
-    if (copyBtn) {
-      copyBtn.disabled = !enabled;
-    }
-
-    if (downloadNamesBtn) {
-      downloadNamesBtn.disabled = !enabled;
-    }
-
-    if (copyDownloadBtn) {
-      copyDownloadBtn.disabled = !enabled;
-    }
+    if (copyBtn) copyBtn.disabled = !enabled;
+    if (downloadNamesBtn) downloadNamesBtn.disabled = !enabled;
+    if (copyDownloadBtn) copyDownloadBtn.disabled = !enabled;
   }
 
   function formatSelectedNames(){
@@ -1263,16 +1329,12 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     selectedFilterSummary = readableFilterSummary(filters);
 
     renderRandomList();
-
-    const hasSelection = selectedPDFs.length > 0;
-    setActionButtonsEnabled(hasSelection);
+    setActionButtonsEnabled(selectedPDFs.length > 0);
 
     if (randomStatus) {
-      if (hasSelection) {
-        randomStatus.textContent = `Selected ${selectedPDFs.length} PDF name${selectedPDFs.length === 1 ? '' : 's'} from current results on ${selectedDate}.`;
-      } else {
-        randomStatus.textContent = 'No PDFs were found under the current filters.';
-      }
+      randomStatus.textContent = selectedPDFs.length
+        ? `Selected ${selectedPDFs.length} PDF name${selectedPDFs.length === 1 ? '' : 's'} from current results on ${selectedDate}.`
+        : 'No PDFs were found under the current filters.';
     }
   }
 
@@ -1289,12 +1351,10 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       }
     } catch (err) {
       const temp = document.createElement('textarea');
-
       temp.value = text;
       temp.setAttribute('readonly', '');
       temp.style.position = 'absolute';
       temp.style.left = '-9999px';
-
       document.body.appendChild(temp);
       temp.select();
       document.execCommand('copy');
@@ -1314,15 +1374,14 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     const fileContent = formatSelectedNamesFile();
     const blob = new Blob([fileContent], { type: 'text/plain;charset=utf-8' });
     const url = URL.createObjectURL(blob);
-
     const a = document.createElement('a');
+
     a.href = url;
     a.download = `reading-selection-${selectedDate}.txt`;
 
     document.body.appendChild(a);
     a.click();
     document.body.removeChild(a);
-
     URL.revokeObjectURL(url);
 
     if (showStatus && randomStatus) {
@@ -1344,13 +1403,6 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   }
 
   input.addEventListener('input', update);
-
-  clearBtn && clearBtn.addEventListener('click', () => {
-    input.value = '';
-    update();
-    input.focus();
-  });
-
   input.addEventListener('keydown', (e) => {
     if (e.key === 'Escape') {
       input.value = '';
@@ -1358,63 +1410,58 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     }
   });
 
-  initialInput && initialInput.addEventListener('input', () => {
-    selectedInitials = parseInitialSet(initialInput.value);
-    update();
-  });
+  if (initialInput) {
+    initialInput.addEventListener('input', () => {
+      selectedInitials = parseInitialSet(initialInput.value);
+      update();
+    });
+    initialInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        selectedInitials.clear();
+        syncInitialInput();
+        update();
+      }
+    });
+  }
 
-  initialInput && initialInput.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') {
+  if (yearInput) {
+    yearInput.addEventListener('input', update);
+    yearInput.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        yearInput.value = '';
+        update();
+      }
+    });
+  }
+
+  if (journalAll) {
+    journalAll.addEventListener('change', () => {
+      selectedJournals.clear();
+      update();
+    });
+  }
+
+  if (resetFiltersBtn) {
+    resetFiltersBtn.addEventListener('click', () => {
+      input.value = '';
       selectedInitials.clear();
-      syncInitialInput();
+      selectedJournals.clear();
+      if (initialInput) initialInput.value = '';
+      if (yearInput) yearInput.value = '';
       update();
-    }
-  });
+      input.focus();
+    });
+  }
 
-  initialClearBtn && initialClearBtn.addEventListener('click', () => {
-    selectedInitials.clear();
-    syncInitialInput();
-    update();
-    initialInput && initialInput.focus();
-  });
+  if (randomBtn) randomBtn.addEventListener('click', pickRandomPDFs);
+  if (copyBtn) copyBtn.addEventListener('click', () => copySelectedNames(true));
+  if (downloadNamesBtn) downloadNamesBtn.addEventListener('click', () => downloadSelectedNames(true));
+  if (copyDownloadBtn) copyDownloadBtn.addEventListener('click', copyAndDownloadSelectedNames);
 
-  yearInput && yearInput.addEventListener('input', update);
-
-  yearInput && yearInput.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') {
-      yearInput.value = '';
-      update();
-    }
-  });
-
-  yearClearBtn && yearClearBtn.addEventListener('click', () => {
-    if (yearInput) {
-      yearInput.value = '';
-      update();
-      yearInput.focus();
-    }
-  });
-
-  resetFiltersBtn && resetFiltersBtn.addEventListener('click', () => {
-    input.value = '';
-    selectedInitials.clear();
-    selectedJournals.clear();
-
-    if (initialInput) initialInput.value = '';
-    if (yearInput) yearInput.value = '';
-
-    update();
-    input.focus();
-  });
-
-  randomBtn && randomBtn.addEventListener('click', pickRandomPDFs);
-  copyBtn && copyBtn.addEventListener('click', () => copySelectedNames(true));
-  downloadNamesBtn && downloadNamesBtn.addEventListener('click', () => downloadSelectedNames(true));
-  copyDownloadBtn && copyDownloadBtn.addEventListener('click', copyAndDownloadSelectedNames);
-
+  hydrateCardMeta();
   buildLetterButtons();
   buildYearOptions();
-  buildJournalButtons();
+  buildJournalOptions();
   setActionButtonsEnabled(false);
   update();
 })();
