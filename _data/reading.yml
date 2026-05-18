@@ -1,3 +1,7 @@
+- title: "Altonji & Pierret (QJE, 2001) - Employer Learning and Statistical Discrimination"
+  file: "Altonji_Pierret_QJE_2001.pdf"
+  desc: "This note summarizes the paper, which uses NLSY79 early-career wage data, schooling, AFQT, sibling wages, father’s education, race, experience interactions, training controls, and wage-growth specifications to study employer learning and statistical discrimination, showing that initially observable credentials such as schooling lose wage importance as experience accumulates while initially hard-to-observe productivity correlates gain importance, consistent with employers gradually learning worker productivity and initially using education as an information proxy."
+
 - title: "Chevalier & Ellison (JPE, 1997) - Risk Taking by Mutual Funds as a Response to Incentives"
   file: "Chevalier_Ellison_JPE_1997.pdf"
   desc: "This note summarizes the paper, which uses Morningstar mutual fund data, semi-parametric flow-performance estimation, fund age and size heterogeneity, computed risk-taking incentives, September-to-December portfolio holdings, and risk-change regressions to study whether mutual funds alter risk in response to investor-flow incentives, showing that nonlinear flow-performance relationships create option-like incentives for managers to gamble or lock in gains depending on year-to-date performance, with young and small funds most strongly changing portfolio risk in the predicted direction."
