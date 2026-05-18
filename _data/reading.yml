@@ -1,3 +1,7 @@
+- title: "Manela & Moreira (JFE, 2017) - News implied volatility and disaster concerns"
+  file: "Manela_Moreira_JFE_2017.pdf"
+  desc: "This note summarizes the paper, which uses Wall Street Journal front-page text, n-gram frequencies, support-vector regression trained on modern VIX/VXO, historical news-implied volatility, return-predictability regressions, category decompositions, and disaster-transition tests to study priced uncertainty, showing that business news can recover a long-run VIX-like measure whose priced component is mainly disaster-related concerns—especially war and government-policy risk—and that high NVIX predicts both higher future excess returns and higher disaster-transition probabilities."
+
 - title: "Demyanyk & Van Hemert (RFS, 2011) - Understanding the Subprime Mortgage Crisis"
   file: "Demyanyk_VanHemert_RFS_2011.pdf"
   desc: "This note summarizes the paper, which uses LoanPerformance securitized subprime mortgage data, loan-level delinquency outcomes, borrower and contract characteristics, vintage-adjusted proportional odds models, LTV pricing sensitivity, neighborhood-income effects, and subprime-prime spread regressions to study the origins of the subprime mortgage crisis, showing that subprime loan quality deteriorated monotonically from 2001 to 2007, high house-price appreciation temporarily masked weak underwriting, and risk premia compressed even as adjusted mortgage risk increased."
