@@ -1,3 +1,7 @@
+- title: "Brunnermeier, Merkel & Sannikov (JPE, 2024) - Safe Assets"
+  file: "Brunnermeier_Merkel_Sannikov_JPE_2024.pdf"
+  desc: "This note summarizes the paper, which develops a theory of safe assets in an incomplete-markets economy with undiversifiable idiosyncratic risk, skin-in-the-game constraints, government debt, dynamic retrading, cash-flow and service-flow valuation, countercyclical idiosyncratic risk, negative-beta bonds, and a debt Laffer curve to study why government debt is valuable, showing that safe assets are priced not only for fiscal cash flows but also for the insurance services they provide through retrading in bad states, allowing government debt to sustain low returns and apparent overvaluation while still facing a finite debt-capacity limit."
+
 - title: "Coval & Stafford (JFE, 2007) - Asset Fire Sales (and Purchases) in Equity Markets"
   file: "Coval_Stafford_JFE_2007.pdf"
   desc: "This note summarizes the paper, which uses mutual fund flows, fund holdings, stock-level pressure measures, event-time abnormal returns, expected-flow regressions, and calendar-time portfolio tests from 1980–2004 to study asset fire sales and purchases in equity markets, showing that severe mutual fund outflows force funds to sell existing holdings and create temporary negative price pressure with later reversal, while severe inflows create mirror-image purchase pressure, implying that overlapping institutional ownership and predictable investor flows can generate temporary mispricing even in liquid public equity markets."
