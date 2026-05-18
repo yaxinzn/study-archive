@@ -1,3 +1,7 @@
+- title: "Coval & Stafford (JFE, 2007) - Asset Fire Sales (and Purchases) in Equity Markets"
+  file: "Coval_Stafford_JFE_2007.pdf"
+  desc: "This note summarizes the paper, which uses mutual fund flows, fund holdings, stock-level pressure measures, event-time abnormal returns, expected-flow regressions, and calendar-time portfolio tests from 1980–2004 to study asset fire sales and purchases in equity markets, showing that severe mutual fund outflows force funds to sell existing holdings and create temporary negative price pressure with later reversal, while severe inflows create mirror-image purchase pressure, implying that overlapping institutional ownership and predictable investor flows can generate temporary mispricing even in liquid public equity markets."
+
 - title: "Morris & Shin (AER, 2002) - Social Value of Public Information"
   file: "Morris_Shin_AER_2002.pdf"
   desc: "This note summarizes the paper, which develops a beauty-contest model with strategic complementarities, fundamentals-based actions, public and private signals, public-signal precision, private-signal precision, higher-order beliefs, and welfare comparisons to study the social value of public information, showing that private information always improves welfare but noisy public information can reduce welfare because rational agents overweight it as a coordination device, so high-visibility disclosures by central banks or public agencies should be designed to balance fundamentals learning against the risk of coordinating agents on common mistakes."
