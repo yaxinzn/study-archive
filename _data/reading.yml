@@ -1,3 +1,7 @@
+- title: "Cage, Herve & Viaud (RES, 2020) - The Production of Information in an Online World"
+  file: "Cage_Herve_Viaud_RES_2020.pdf"
+  desc: "This note summarizes the paper, which uses a large event-level dataset of French online news in 2013, article clustering, reaction-time measurement, verbatim-copy detection, originality rates, Facebook/Twitter shares, audience data, and fixed-effect article-level regressions to study online information production, showing that digital news markets feature very fast and extensive copying, but original reporting receives a significant audience premium, especially in competitive environments, partially preserving incentives for costly news production despite weak appropriability."
+
 - title: "Manela & Moreira (JFE, 2017) - News implied volatility and disaster concerns"
   file: "Manela_Moreira_JFE_2017.pdf"
   desc: "This note summarizes the paper, which uses Wall Street Journal front-page text, n-gram frequencies, support-vector regression trained on modern VIX/VXO, historical news-implied volatility, return-predictability regressions, category decompositions, and disaster-transition tests to study priced uncertainty, showing that business news can recover a long-run VIX-like measure whose priced component is mainly disaster-related concerns—especially war and government-policy risk—and that high NVIX predicts both higher future excess returns and higher disaster-transition probabilities."
