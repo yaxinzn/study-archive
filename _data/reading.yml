@@ -1,3 +1,7 @@
+- title: "Morris & Shin (AER, 2002) - Social Value of Public Information"
+  file: "Morris_Shin_AER_2002.pdf"
+  desc: "This note summarizes the paper, which develops a beauty-contest model with strategic complementarities, fundamentals-based actions, public and private signals, public-signal precision, private-signal precision, higher-order beliefs, and welfare comparisons to study the social value of public information, showing that private information always improves welfare but noisy public information can reduce welfare because rational agents overweight it as a coordination device, so high-visibility disclosures by central banks or public agencies should be designed to balance fundamentals learning against the risk of coordinating agents on common mistakes."
+
 - title: "Bertrand & Mullainathan (QJE, 2001) - Are CEOs Rewarded for Luck? The Ones Without Principals Are"
   file: "Bertrand_Mullainathan_QJE_2001.pdf"
   desc: "This note summarizes the paper, which uses CEO compensation data, oil-price shocks, exchange-rate shocks, industry-performance shocks, salary, bonus, option grants, large-shareholder and board-governance measures, tenure, and pay-performance regressions with luck instruments to test whether CEOs are rewarded for observable luck, showing that CEO pay rises with exogenous good fortune about as much as with general performance, especially in weakly governed firms, while firms with strong monitors such as large shareholders on the board filter luck more effectively."
