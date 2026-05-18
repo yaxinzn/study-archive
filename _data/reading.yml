@@ -1,3 +1,7 @@
+- title: "Kaustia & Knupfer (JF, 2008) - Do Investors Overweight Personal Experience? Evidence from IPO Subscriptions"
+  file: "Kaustia_Knupfer_JF_2008.pdf"
+  desc: "This note summarizes the paper, which uses Finnish IPO registry data, investor-level IPO allocations, personally experienced first-day returns, future subscription decisions, two-period logit models, event-by-event next-IPO regressions, duration models, and overlapping-IPO-pair natural experiments to study whether investors overweight personal experience, showing that retail investors who personally earn high IPO returns are much more likely to subscribe to later IPOs, while poor personal experiences reduce future participation, consistent with reinforcement learning as a microfoundation for IPO sentiment and repeat financial-product adoption."
+
 - title: "Altonji & Pierret (QJE, 2001) - Employer Learning and Statistical Discrimination"
   file: "Altonji_Pierret_QJE_2001.pdf"
   desc: "This note summarizes the paper, which uses NLSY79 early-career wage data, schooling, AFQT, sibling wages, father’s education, race, experience interactions, training controls, and wage-growth specifications to study employer learning and statistical discrimination, showing that initially observable credentials such as schooling lose wage importance as experience accumulates while initially hard-to-observe productivity correlates gain importance, consistent with employers gradually learning worker productivity and initially using education as an information proxy."
