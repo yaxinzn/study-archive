@@ -10,9 +10,18 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 <style>
 :root{
   --reading-green:#0f3d2e;
-  --reading-border:rgba(0,0,0,.11);
-  --reading-soft:rgba(15,61,46,.055);
-  --reading-muted:rgba(0,0,0,.66);
+  --reading-green-soft:rgba(15,61,46,.06);
+  --reading-border:rgba(0,0,0,.10);
+  --reading-border-strong:rgba(0,0,0,.16);
+  --reading-text:#111827;
+  --reading-muted:rgba(17,24,39,.64);
+  --reading-bg:#fff;
+  --reading-shadow:0 14px 34px rgba(0,0,0,.08);
+}
+
+.reading-page{
+  max-width:1080px;
+  margin:0 auto;
 }
 
 .reading-callout,
@@ -22,44 +31,30 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 .reading-entry{
   border:1px solid var(--reading-border);
   border-radius:14px;
-  background:#fff;
+  background:var(--reading-bg);
 }
 
 .reading-callout{
-  margin:16px 0 18px 0;
-  padding:16px 18px;
+  margin:16px 0 20px 0;
+  padding:15px 18px;
   border-left:4px solid var(--reading-green);
 }
 .reading-callout-title{
+  margin:0 0 5px 0;
+  color:var(--reading-text);
   font-size:18px;
   font-weight:850;
-  margin-bottom:6px;
+  line-height:1.25;
 }
 .reading-callout p{
-  margin:7px 0;
-}
-.reading-small,
-.reading-help,
-.reading-side-hint,
-.reading-count,
-.reading-picker-subtitle,
-.reading-random-status{
+  margin:6px 0;
   color:var(--reading-muted);
+  line-height:1.55;
 }
 
-.reading-layout{
-  display:grid;
-  grid-template-columns:minmax(0,1fr) 300px;
-  gap:22px;
-  align-items:start;
-}
-.reading-main{
-  min-width:0;
-}
-
-/* Compact filter panel */
+/* Full-width filter panel */
 .reading-panel{
-  margin:10px 0 18px 0;
+  margin:0 0 20px 0;
   padding:16px;
 }
 .reading-panel-head{
@@ -67,22 +62,37 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   gap:14px;
   justify-content:space-between;
   align-items:flex-start;
-  margin-bottom:13px;
+  margin-bottom:14px;
 }
 .reading-panel-title{
   margin:0;
+  color:var(--reading-green);
   font-size:18px;
+  font-weight:900;
   line-height:1.25;
 }
 .reading-panel-note{
   margin:4px 0 0 0;
-  font-size:13px;
+  max-width:760px;
   color:var(--reading-muted);
+  font-size:13px;
+  line-height:1.45;
 }
-.reading-filter-grid{
+.reading-filter-stack{
   display:grid;
-  grid-template-columns:minmax(260px,2fr) minmax(120px,.7fr) minmax(150px,.8fr) minmax(190px,1fr);
   gap:10px;
+}
+.reading-search-line{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
+  gap:10px;
+  align-items:end;
+}
+.reading-filter-row{
+  display:grid;
+  grid-template-columns:minmax(150px,.9fr) minmax(170px,1fr) minmax(130px,.75fr);
+  gap:10px;
+  max-width:650px;
   align-items:end;
 }
 .reading-field{
@@ -93,43 +103,50 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 .reading-field-label{
   display:block;
   margin:0 0 5px 0;
+  color:rgba(17,24,39,.78);
   font-size:12px;
-  font-weight:800;
+  font-weight:850;
   letter-spacing:.01em;
-  color:rgba(0,0,0,.76);
 }
 .reading-field input,
 .reading-journal-summary{
   width:100%;
-  min-height:42px;
+  min-height:40px;
   box-sizing:border-box;
-  padding:10px 11px;
+  padding:9px 11px;
   border:1px solid rgba(0,0,0,.18);
   border-radius:10px;
   background:#fff;
+  color:var(--reading-text);
   font-size:14px;
+}
+.reading-field input::placeholder{
+  color:rgba(17,24,39,.46);
 }
 #readingInitialInput{
   text-transform:uppercase;
 }
 .reading-field input:focus,
 .reading-journal-select:focus-within .reading-journal-summary{
-  outline:2px solid rgba(15,61,46,.16);
-  border-color:rgba(15,61,46,.45);
+  outline:2px solid rgba(15,61,46,.15);
+  border-color:rgba(15,61,46,.48);
 }
 .reading-secondary-btn,
 .reading-random-row button,
 .reading-filter-chip,
 .reading-letter-btn{
-  border:1px solid rgba(0,0,0,.16);
+  border:1px solid var(--reading-border-strong);
   border-radius:10px;
   background:#fff;
+  color:var(--reading-text);
   cursor:pointer;
-  font-weight:700;
+  font-weight:760;
 }
 .reading-secondary-btn{
   flex:0 0 auto;
-  padding:9px 11px;
+  min-height:40px;
+  padding:9px 12px;
+  white-space:nowrap;
 }
 .reading-secondary-btn:hover,
 .reading-random-row button:hover:not(:disabled),
@@ -138,81 +155,96 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   transform:translateY(-1px);
 }
 
-/* Journal dropdown: compact by default */
+/* Compact journal dropdown */
 .reading-journal-select{
   position:relative;
+  max-width:100%;
 }
 .reading-journal-summary{
   list-style:none;
   cursor:pointer;
-  display:flex;
+  display:grid;
+  grid-template-columns:minmax(0,1fr) auto;
   align-items:center;
-  justify-content:space-between;
-  gap:10px;
-  color:rgba(0,0,0,.85);
+  gap:8px;
+  white-space:nowrap;
 }
 .reading-journal-summary::-webkit-details-marker{
   display:none;
 }
 .reading-journal-summary::after{
   content:'▾';
-  font-size:12px;
   color:var(--reading-muted);
+  font-size:11px;
 }
 .reading-journal-select[open] .reading-journal-summary::after{
   content:'▴';
 }
+#readingJournalSummaryText{
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
 .reading-journal-menu{
   position:absolute;
-  z-index:20;
+  z-index:30;
   right:0;
-  left:0;
-  margin-top:6px;
-  max-height:260px;
+  margin-top:7px;
+  width:max-content;
+  min-width:220px;
+  max-width:min(320px, calc(100vw - 40px));
+  max-height:280px;
   overflow:auto;
   padding:8px;
   border:1px solid var(--reading-border);
   border-radius:12px;
   background:#fff;
-  box-shadow:0 16px 34px rgba(0,0,0,.12);
+  box-shadow:var(--reading-shadow);
 }
 .reading-journal-option{
   display:flex;
   align-items:center;
   gap:8px;
-  padding:7px 6px;
+  min-width:0;
+  padding:7px 8px;
   border-radius:8px;
+  color:var(--reading-text);
   font-size:13px;
   line-height:1.25;
+  white-space:nowrap;
 }
 .reading-journal-option:hover{
-  background:var(--reading-soft);
+  background:var(--reading-green-soft);
 }
 .reading-journal-option input{
   width:auto;
   min-height:0;
+  margin:0;
+}
+.reading-journal-option span{
+  overflow:hidden;
+  text-overflow:ellipsis;
 }
 .reading-journal-option.is-muted{
-  opacity:.45;
+  opacity:.42;
 }
 
-/* Optional A-Z picker */
+/* Optional initial picker */
 .reading-advanced{
   margin-top:10px;
 }
 .reading-advanced summary{
   width:max-content;
   cursor:pointer;
-  font-size:13px;
-  font-weight:750;
   color:var(--reading-green);
+  font-size:13px;
+  font-weight:820;
 }
 .reading-letter-grid{
   display:grid;
   grid-template-columns:repeat(13, minmax(0,1fr));
   gap:5px;
-  margin-top:8px;
   max-width:620px;
+  margin-top:8px;
 }
 .reading-letter-btn{
   min-height:30px;
@@ -220,21 +252,23 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   font-size:12px;
 }
 .reading-letter-btn.is-active{
-  color:#fff;
-  background:var(--reading-green);
   border-color:var(--reading-green);
+  background:var(--reading-green);
+  color:#fff;
 }
 .reading-letter-btn:disabled{
-  opacity:.28;
   cursor:not-allowed;
+  opacity:.28;
 }
 
 .reading-active-filters{
   display:flex;
   flex-wrap:wrap;
   gap:6px;
-  min-height:0;
   margin-top:10px;
+}
+.reading-active-filters[hidden]{
+  display:none;
 }
 .reading-filter-chip{
   display:inline-flex;
@@ -242,19 +276,18 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   gap:6px;
   max-width:100%;
   padding:6px 9px;
-  background:var(--reading-soft);
+  background:var(--reading-green-soft);
+  color:var(--reading-green);
   font-size:12px;
   line-height:1.2;
 }
 .reading-filter-chip strong{
+  color:var(--reading-green);
   font-size:13px;
 }
-.reading-filter-empty{
-  font-size:12px;
-  color:var(--reading-muted);
-}
 .reading-count{
-  margin-top:8px;
+  margin-top:9px;
+  color:var(--reading-muted);
   font-size:13px;
 }
 .reading-empty{
@@ -263,30 +296,43 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   padding:10px 12px;
   border:1px dashed rgba(0,0,0,.18);
   border-radius:10px;
-  background:rgba(0,0,0,.02);
+  background:rgba(0,0,0,.025);
   color:var(--reading-muted);
+}
+
+/* Main content + side directory */
+.reading-content-grid{
+  display:grid;
+  grid-template-columns:minmax(0,1fr) 292px;
+  gap:22px;
+  align-items:start;
+}
+.reading-main{
+  min-width:0;
 }
 
 /* Review picker */
 .reading-picker{
-  margin:10px 0 18px 0;
+  margin:0 0 18px 0;
   padding:0;
 }
 .reading-picker summary{
   cursor:pointer;
-  padding:14px 16px;
   display:flex;
   gap:10px;
   justify-content:space-between;
   align-items:center;
+  padding:13px 15px;
+  color:var(--reading-text);
   font-weight:850;
 }
 .reading-picker-subtitle{
+  color:var(--reading-muted);
   font-size:12px;
   font-weight:500;
 }
 .reading-picker-body{
-  padding:0 16px 15px 16px;
+  padding:0 15px 14px 15px;
   border-top:1px solid rgba(0,0,0,.08);
 }
 .reading-random-row{
@@ -296,15 +342,18 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   margin-top:12px;
 }
 .reading-random-row button{
-  padding:9px 11px;
+  min-height:36px;
+  padding:8px 10px;
+  font-size:13px;
 }
 .reading-random-row button:disabled{
-  opacity:.42;
   cursor:not-allowed;
+  opacity:.42;
   transform:none;
 }
 .reading-random-status{
   margin-top:9px;
+  color:var(--reading-muted);
   font-size:13px;
 }
 #readingRandomList{
@@ -317,6 +366,9 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 /* Library cards */
 .reading-section-title{
   margin:20px 0 10px 0;
+  color:var(--reading-green);
+  font-size:26px;
+  line-height:1.2;
 }
 .reading-entry{
   margin:12px 0;
@@ -333,15 +385,16 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   justify-content:space-between;
 }
 .reading-title{
+  color:var(--reading-text);
   font-weight:850;
   line-height:1.35;
 }
 .reading-card-meta{
   display:flex;
-  flex-wrap:wrap;
-  gap:5px;
   flex:0 0 auto;
+  flex-wrap:wrap;
   justify-content:flex-end;
+  gap:5px;
 }
 .reading-pill{
   display:inline-flex;
@@ -350,46 +403,51 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   border:1px solid rgba(0,0,0,.12);
   border-radius:999px;
   background:rgba(0,0,0,.02);
+  color:rgba(17,24,39,.70);
   font-size:11px;
   line-height:1.25;
-  color:rgba(0,0,0,.72);
 }
 .reading-author,
 .reading-file{
   margin:8px 0 0 0;
   font-size:14px;
+  line-height:1.45;
+}
+.reading-file a{
+  overflow-wrap:anywhere;
 }
 .reading-note{
   margin-top:9px;
 }
 .reading-note summary{
-  cursor:pointer;
   width:max-content;
-  font-size:13px;
-  font-weight:800;
+  cursor:pointer;
   color:var(--reading-green);
+  font-size:13px;
+  font-weight:820;
 }
 .reading-desc{
   margin:8px 0 0 0;
-  opacity:.9;
-  line-height:1.62;
+  color:rgba(17,24,39,.82);
+  line-height:1.64;
 }
 
-/* Right-side result guide */
+/* Right-side focused PDF directory */
 .reading-side{
   position:sticky;
   top:18px;
   max-height:calc(100vh - 36px);
   overflow:auto;
   padding:15px;
-  margin:10px 0 18px 0;
 }
 .reading-side-title{
-  font-weight:850;
   margin-bottom:5px;
+  color:var(--reading-text);
+  font-weight:850;
 }
 .reading-side-hint{
   margin:0 0 12px 0;
+  color:var(--reading-muted);
   font-size:13px;
   line-height:1.45;
 }
@@ -397,13 +455,14 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   padding:10px 0;
   border-top:1px solid rgba(0,0,0,.08);
   border-bottom:1px solid rgba(0,0,0,.08);
+  color:var(--reading-text);
   font-size:13px;
   font-weight:850;
 }
 .reading-guide-list{
-  list-style:none;
   margin:10px 0 0 0;
   padding:0;
+  list-style:none;
 }
 .reading-guide-list li{
   padding:9px 0;
@@ -414,30 +473,30 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 }
 .reading-guide-list a{
   display:block;
-  font-weight:750;
+  font-weight:760;
   line-height:1.35;
   overflow-wrap:anywhere;
 }
 .reading-guide-meta{
   display:block;
   margin-top:4px;
+  color:var(--reading-muted);
   font-size:12px;
   line-height:1.35;
-  color:var(--reading-muted);
   overflow-wrap:anywhere;
 }
 .reading-guide-empty{
   padding:10px 12px !important;
   border:1px dashed rgba(0,0,0,.18) !important;
   border-radius:10px;
-  background:rgba(0,0,0,.02);
+  background:rgba(0,0,0,.025);
+  color:var(--reading-muted);
   font-size:13px;
   line-height:1.4;
-  color:var(--reading-muted);
 }
 
-@media (max-width:1100px){
-  .reading-layout{
+@media (max-width:980px){
+  .reading-content-grid{
     grid-template-columns:1fr;
   }
   .reading-side{
@@ -445,17 +504,19 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     max-height:none;
   }
 }
-@media (max-width:780px){
-  .reading-filter-grid{
-    grid-template-columns:1fr;
-  }
+@media (max-width:720px){
   .reading-panel-head,
+  .reading-search-line,
   .reading-entry-top,
   .reading-picker summary{
     display:block;
   }
   .reading-secondary-btn{
     margin-top:10px;
+  }
+  .reading-filter-row{
+    grid-template-columns:1fr;
+    max-width:none;
   }
   .reading-card-meta{
     justify-content:flex-start;
@@ -466,39 +527,40 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   }
   .reading-journal-menu{
     position:static;
+    width:100%;
+    min-width:0;
+    max-width:none;
+    box-shadow:none;
   }
 }
 </style>
 
-<div class="reading-callout">
-  <div class="reading-callout-title">Paper Reading &amp; Quick Notes</div>
-  <p>
-    A curated reading notebook for fast review: search by author, title, PDF name, keywords, author initials, year, or journal.
-  </p>
-  <p class="reading-small">
-    Notes prioritize identification logic, variable construction, and replication hooks.
-  </p>
-</div>
+<div class="reading-page">
+  <div class="reading-callout">
+    <div class="reading-callout-title">Paper Reading &amp; Quick Notes</div>
+    <p>A curated reading notebook for fast review. Search by author, title, PDF name, keyword, author initials, year, or journal.</p>
+  </div>
 
-{% assign items = site.data.reading %}
+  {% assign items = site.data.reading %}
 
-<div class="reading-layout">
-  <main class="reading-main">
-    <section class="reading-panel" aria-label="Paper search and filters">
-      <div class="reading-panel-head">
-        <div>
-          <h2 class="reading-panel-title">Find papers</h2>
-          <p class="reading-panel-note">Combine filters. Journal and year are read from the PDF file name, for example <code>Author_RES_2023.pdf</code>.</p>
-        </div>
-        <button id="readingResetFilters" class="reading-secondary-btn" type="button">Clear all</button>
+  <section class="reading-panel" aria-label="Paper search and filters">
+    <div class="reading-panel-head">
+      <div>
+        <h2 class="reading-panel-title">Find papers</h2>
+        <p class="reading-panel-note">Journal and year are parsed from PDF names such as <code>Author_RES_2023.pdf</code>. Use one filter or combine several.</p>
       </div>
+      <button id="readingResetFilters" class="reading-secondary-btn" type="button">Clear all</button>
+    </div>
 
-      <div class="reading-filter-grid">
+    <div class="reading-filter-stack">
+      <div class="reading-search-line">
         <label class="reading-field reading-field-search" for="readingQuery">
           <span>Search</span>
           <input id="readingQuery" type="search" placeholder="Author / title / keyword / PDF file…" autocomplete="off">
         </label>
+      </div>
 
+      <div class="reading-filter-row">
         <label class="reading-field" for="readingInitialInput">
           <span>Author initials</span>
           <input id="readingInitialInput" type="text" inputmode="latin" placeholder="G R Y" aria-label="Author initials">
@@ -513,7 +575,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
         <div class="reading-field">
           <div class="reading-field-label">Journal</div>
           <details class="reading-journal-select" id="readingJournalDetails">
-            <summary class="reading-journal-summary" id="readingJournalSummary">All journals</summary>
+            <summary class="reading-journal-summary"><span id="readingJournalSummaryText">All</span></summary>
             <div class="reading-journal-menu" id="readingJournalMenu">
               <label class="reading-journal-option">
                 <input id="readingJournalAll" type="checkbox" checked>
@@ -524,84 +586,88 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
           </details>
         </div>
       </div>
+    </div>
 
-      <details class="reading-advanced">
-        <summary>A–Z initial picker</summary>
-        <div class="reading-letter-grid" id="readingLetterButtons" aria-label="Author initials A to Z"></div>
-      </details>
-
-      <div class="reading-active-filters" id="readingActiveFilters"></div>
-      <div class="reading-count" id="readingCount"></div>
-      <div class="reading-empty" id="readingEmpty">No matching papers. Try clearing one filter or using a broader keyword.</div>
-    </section>
-
-    <details class="reading-picker">
-      <summary>
-        <span>Review picker</span>
-        <span class="reading-picker-subtitle">Pick up to 10 PDFs from current results</span>
-      </summary>
-      <div class="reading-picker-body">
-        <div class="reading-random-row">
-          <button id="readingRandomBtn" type="button">Pick PDFs</button>
-          <button id="readingCopyBtn" type="button" disabled>Copy names</button>
-          <button id="readingDownloadNamesBtn" type="button" disabled>Download names</button>
-          <button id="readingCopyDownloadBtn" type="button" disabled>Copy + download</button>
-        </div>
-        <div class="reading-random-status" id="readingRandomStatus" aria-live="polite"></div>
-        <ol id="readingRandomList"></ol>
-      </div>
+    <details class="reading-advanced">
+      <summary>A–Z initial picker</summary>
+      <div class="reading-letter-grid" id="readingLetterButtons" aria-label="Author initials A to Z"></div>
     </details>
 
-    <h2 class="reading-section-title" id="library">Library</h2>
+    <div class="reading-active-filters" id="readingActiveFilters" hidden></div>
+    <div class="reading-count" id="readingCount"></div>
+    <div class="reading-empty" id="readingEmpty">No matching papers. Try clearing one filter or using a broader keyword.</div>
+  </section>
 
-    {% if items and items.size > 0 %}
-      {% for p in items %}
-        {% assign paper_authors = "" %}
-        {% if p.author %}
-          {% assign paper_authors = p.author %}
-        {% elsif p.authors %}
-          {% assign paper_authors = p.authors | join: ", " %}
-        {% endif %}
-
-        <article class="reading-entry"
-             data-search="{{ paper_authors | escape }} {{ p.title | escape }} {{ p.file | escape }} {{ p.desc | escape }}"
-             data-author="{{ paper_authors | escape }}"
-             data-title="{{ p.title | escape }}"
-             data-file="{{ p.file | escape }}">
-          <div class="reading-entry-top">
-            <div>
-              <div class="reading-title">{{ p.title }}</div>
-              {% if paper_authors and paper_authors != "" %}
-                <p class="reading-author"><strong>Author:</strong> {{ paper_authors }}</p>
-              {% endif %}
-              <p class="reading-file">
-                <strong>File:</strong>
-                <a href="{{ site.baseurl }}/reading/library/{{ p.file | uri_escape }}">{{ p.file }}</a>
-              </p>
-            </div>
-            <div class="reading-card-meta" data-card-meta></div>
+  <div class="reading-content-grid">
+    <main class="reading-main">
+      <details class="reading-picker">
+        <summary>
+          <span>Review picker</span>
+          <span class="reading-picker-subtitle">Pick up to 10 PDFs from current results</span>
+        </summary>
+        <div class="reading-picker-body">
+          <div class="reading-random-row">
+            <button id="readingRandomBtn" type="button">Pick PDFs</button>
+            <button id="readingCopyBtn" type="button" disabled>Copy names</button>
+            <button id="readingDownloadNamesBtn" type="button" disabled>Download names</button>
+            <button id="readingCopyDownloadBtn" type="button" disabled>Copy + download</button>
           </div>
+          <div class="reading-random-status" id="readingRandomStatus" aria-live="polite"></div>
+          <ol id="readingRandomList"></ol>
+        </div>
+      </details>
 
-          <details class="reading-note">
-            <summary>Quick note</summary>
-            <p class="reading-desc">{{ p.desc }}</p>
-          </details>
+      <h2 class="reading-section-title" id="library">Library</h2>
+
+      {% if items and items.size > 0 %}
+        {% for p in items %}
+          {% assign paper_authors = "" %}
+          {% if p.author %}
+            {% assign paper_authors = p.author %}
+          {% elsif p.authors %}
+            {% assign paper_authors = p.authors | join: ", " %}
+          {% endif %}
+
+          <article class="reading-entry"
+               data-search="{{ paper_authors | escape }} {{ p.title | escape }} {{ p.file | escape }} {{ p.desc | escape }}"
+               data-author="{{ paper_authors | escape }}"
+               data-title="{{ p.title | escape }}"
+               data-file="{{ p.file | escape }}">
+            <div class="reading-entry-top">
+              <div>
+                <div class="reading-title">{{ p.title }}</div>
+                {% if paper_authors and paper_authors != "" %}
+                  <p class="reading-author"><strong>Author:</strong> {{ paper_authors }}</p>
+                {% endif %}
+                <p class="reading-file">
+                  <strong>File:</strong>
+                  <a href="{{ site.baseurl }}/reading/library/{{ p.file | uri_escape }}">{{ p.file }}</a>
+                </p>
+              </div>
+              <div class="reading-card-meta" data-card-meta></div>
+            </div>
+
+            <details class="reading-note">
+              <summary>Quick note</summary>
+              <p class="reading-desc">{{ p.desc }}</p>
+            </details>
+          </article>
+        {% endfor %}
+      {% else %}
+        <article class="reading-entry">
+          <div class="reading-title">No papers yet.</div>
+          <p class="reading-desc">Add entries to <code>_data/reading.yml</code> and upload PDFs to <code>reading/library/</code>.</p>
         </article>
-      {% endfor %}
-    {% else %}
-      <article class="reading-entry">
-        <div class="reading-title">No papers yet.</div>
-        <p class="reading-desc">Add entries to <code>_data/reading.yml</code> and upload PDFs to <code>reading/library/</code>.</p>
-      </article>
-    {% endif %}
-  </main>
+      {% endif %}
+    </main>
 
-  <aside class="reading-side" aria-labelledby="readingGuideTitle">
-    <div class="reading-side-title" id="readingGuideTitle">Matching PDFs</div>
-    <p class="reading-side-hint">A compact PDF list appears here once filters are active. Use it as a quick directory while reviewing.</p>
-    <div class="reading-guide-count" id="readingGuideCount"></div>
-    <ul class="reading-guide-list" id="readingGuideList"></ul>
-  </aside>
+    <aside class="reading-side" aria-labelledby="readingGuideTitle">
+      <div class="reading-side-title" id="readingGuideTitle">Matching PDFs</div>
+      <p class="reading-side-hint">A focused PDF directory appears here after filtering. Use it to jump to papers quickly.</p>
+      <div class="reading-guide-count" id="readingGuideCount"></div>
+      <ul class="reading-guide-list" id="readingGuideList"></ul>
+    </aside>
+  </div>
 </div>
 
 <script>
@@ -617,7 +683,8 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   const yearInput = document.getElementById('readingYearInput');
   const yearOptions = document.getElementById('readingYearOptions');
 
-  const journalSummary = document.getElementById('readingJournalSummary');
+  const journalDetails = document.getElementById('readingJournalDetails');
+  const journalSummaryText = document.getElementById('readingJournalSummaryText');
   const journalAll = document.getElementById('readingJournalAll');
   const journalOptionsWrap = document.getElementById('readingJournalOptions');
   const resetFiltersBtn = document.getElementById('readingResetFilters');
@@ -1068,14 +1135,14 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       option.text.textContent = hasMatches ? `${option.journal} (${countForJournal})` : option.journal;
     }
 
-    if (!journalSummary) return;
+    if (!journalSummaryText) return;
 
     if (selectedJournals.size === 0) {
-      journalSummary.textContent = 'All journals';
+      journalSummaryText.textContent = 'All';
     } else if (selectedJournals.size === 1) {
-      journalSummary.textContent = Array.from(selectedJournals)[0];
+      journalSummaryText.textContent = Array.from(selectedJournals)[0];
     } else {
-      journalSummary.textContent = `${selectedJournals.size} journals selected`;
+      journalSummaryText.textContent = `${selectedJournals.size} selected`;
     }
   }
 
@@ -1096,12 +1163,11 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     activeFiltersWrap.innerHTML = '';
 
     if (!hasActiveFilters(filters)) {
-      const emptyChip = document.createElement('span');
-      emptyChip.className = 'reading-filter-empty';
-      emptyChip.textContent = 'No filters applied.';
-      activeFiltersWrap.appendChild(emptyChip);
+      activeFiltersWrap.hidden = true;
       return;
     }
+
+    activeFiltersWrap.hidden = false;
 
     function addChip(label, onRemove){
       const chip = document.createElement('button');
@@ -1174,7 +1240,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     }
 
     if (!hasActiveFilters(filters)) {
-      guideCount.textContent = `${paperData.length} PDFs in the library`;
+      guideCount.textContent = `${fmtCount(paperData.length)} PDFs in the library`;
       const li = document.createElement('li');
       li.className = 'reading-guide-empty';
       li.textContent = 'Apply a filter to show a focused PDF directory here.';
@@ -1182,7 +1248,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       return;
     }
 
-    guideCount.textContent = `${visibleItems.length} matching PDF${visibleItems.length === 1 ? '' : 's'}`;
+    guideCount.textContent = `${fmtCount(visibleItems.length)} matching PDF${visibleItems.length === 1 ? '' : 's'}`;
 
     if (visibleItems.length === 0) {
       const li = document.createElement('li');
@@ -1215,7 +1281,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     if (visibleItems.length > maxGuideItems) {
       const li = document.createElement('li');
       li.className = 'reading-guide-empty';
-      li.textContent = `Showing the first ${maxGuideItems} of ${visibleItems.length} matches. Add another filter to narrow the list.`;
+      li.textContent = `Showing the first ${fmtCount(maxGuideItems)} of ${fmtCount(visibleItems.length)} matches. Add another filter to narrow the list.`;
       guideList.appendChild(li);
     }
   }
@@ -1241,7 +1307,8 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     }
 
     if (count) {
-      count.textContent = `${visibleItems.length} / ${paperData.length} papers shown · ${readableFilterSummary(filters)}`;
+      const base = `${visibleItems.length} / ${paperData.length} papers shown`;
+      count.textContent = hasActiveFilters(filters) ? `${base} · ${readableFilterSummary(filters)}` : base;
     }
 
     if (empty) {
@@ -1438,6 +1505,14 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     journalAll.addEventListener('change', () => {
       selectedJournals.clear();
       update();
+    });
+  }
+
+  if (journalDetails) {
+    document.addEventListener('click', (event) => {
+      if (journalDetails.open && !journalDetails.contains(event.target)) {
+        journalDetails.open = false;
+      }
     });
   }
 
