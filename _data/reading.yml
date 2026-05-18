@@ -1,3 +1,7 @@
+- title: "Degryse & Ongena (JF, 2005) - Distance, Lending Relationships, and Competition"
+  file: "Degryse_Ongena_JF_2005.pdf"
+  desc: "This note summarizes the paper, which uses more than 15,000 Belgian small-business loan contracts, borrower-to-lender and borrower-to-competitor travel-time measures, relationship variables, local branch competition, firm and loan controls, and subsample tests by loan size, maturity, collateral, loan type, and purpose to study spatial competition in relationship lending, showing that loan rates fall with distance to the lending branch but rise with distance to competing branches, consistent with banks using borrower geography to price discriminate based on local outside options and transportation costs."
+
 - title: "Kaustia & Knupfer (JF, 2008) - Do Investors Overweight Personal Experience? Evidence from IPO Subscriptions"
   file: "Kaustia_Knupfer_JF_2008.pdf"
   desc: "This note summarizes the paper, which uses Finnish IPO registry data, investor-level IPO allocations, personally experienced first-day returns, future subscription decisions, two-period logit models, event-by-event next-IPO regressions, duration models, and overlapping-IPO-pair natural experiments to study whether investors overweight personal experience, showing that retail investors who personally earn high IPO returns are much more likely to subscribe to later IPOs, while poor personal experiences reduce future participation, consistent with reinforcement learning as a microfoundation for IPO sentiment and repeat financial-product adoption."
