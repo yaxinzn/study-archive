@@ -1,3 +1,7 @@
+- title: "Berk, van Binsbergen, and Liu (JF, 2017) - Matching Capital and Labor"
+  file: "Berk_vanBinsbergen_Liu_JF_2017.pdf"
+  desc: "This note summarizes the paper, which uses U.S. active equity mutual fund data from CRSP and Morningstar, manager–fund–firm histories, Vanguard benchmark-adjusted dollar value added, internal promotions and demotions, investor-flow counterfactuals, public-information predictability tests, and external reallocation placebos to study why mutual fund firms add value, showing that firms use private information about managerial skill to match capital with labor, increasing manager value added through internal AUM reallocations even when gross alpha falls because of decreasing returns to scale."
+
 - title: "Hornbeck & Rotemberg (JPE, 2024) - Growth Off the Rails: Aggregate Productivity Growth in Distorted Economies"
   file: "Hornbeck_Rotemberg_JPE_2024.pdf"
   desc: "This note summarizes the paper, which uses newly digitized nineteenth-century U.S. county-by-industry manufacturing data, transportation-network market access, input expenditure shares, production elasticities, TFPR and allocative-efficiency decompositions, water-access instruments, and general-equilibrium counterfactuals to study railroad-driven growth in distorted economies, showing that railroads raised aggregate productivity not mainly by directly improving technical efficiency but by expanding input use in counties where marginal products exceeded marginal costs, generating large productivity gains far beyond traditional transportation-cost savings."
