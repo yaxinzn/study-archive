@@ -1,3 +1,7 @@
+- title: "Tetlock, Saar-Tsechansky & Macskassy (JF, 2008) - More Than Words: Quantifying Language to Measure Firms’ Fundamentals"
+  file: "Tetlock_SaarTsechansky_Macskassy_JF_2008.pdf"
+  desc: "This note summarizes the paper, which uses WSJ and Dow Jones firm-specific news stories, dictionary-based negative-word measures, standardized unexpected earnings, analyst forecast errors, return-predictability tests, trading-strategy returns, and fundamentals-related story interactions to study whether qualitative language measures firm fundamentals, showing that negative news language predicts lower future earnings and a small next-day return continuation, especially when stories discuss earnings, implying that words contain cash-flow information that investors mostly but not fully incorporate immediately."
+
 - title: "Madrian & Shea (QJE, 2001) - The Power of Suggestion: Inertia in 401(k) Participation and Savings Behavior"
   file: "Madrian_Shea_QJE_2001.pdf"
   desc: "This note summarizes the paper, which uses a large firm-level 401(k) plan change, automatic enrollment, immediate eligibility comparisons, employee cohort data, contribution-rate distributions, asset-allocation records, regression-adjusted cohort differences, and default-behavior decompositions to study retirement saving inertia, showing that automatic enrollment sharply raises participation but anchors many employees at the 3% money-market default, so choice architecture powerfully affects saving behavior and default design is central for retirement policy."
