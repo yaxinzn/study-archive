@@ -1,3 +1,7 @@
+- title: "Baker, Gibbons & Murphy (QJE, 2002) - Relational Contracts and the Theory of the Firm"
+  file: "Baker_Gibbons_Murphy_QJE_2002.pdf"
+  desc: "This note summarizes the paper, which develops a theory of the firm combining asset ownership and relational contracts, using upstream–downstream production, observable but nonverifiable performance, spot employment, spot outsourcing, relational employment, relational outsourcing, reneging constraints, and fallback payoffs to study firm boundaries, showing that ownership matters because it changes the credibility of informal promises, so integration can make some relational contracts feasible, weaken others, and explain why firms cannot simply replicate market incentives internally."
+
 - title: "Holmstrom (RES, 1999) - Managerial Incentive Problems: A Dynamic Perspective"
   file: "Holmstrom_RES_1999.pdf"
   desc: "This note summarizes the paper, which develops a dynamic career-concerns model using managerial ability, output-based Bayesian learning, competitive wage setting, effort choice, evolving ability, belief precision, nonlinear technology, risk-taking, and unverifiable project information to study implicit managerial incentives, showing that reputation can motivate effort without explicit contracts but is not automatically efficient, because career concerns can underprovide long-run effort, create excessive early-career effort, and make managers too conservative in risky project choice."
