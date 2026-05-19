@@ -1,3 +1,7 @@
+- title: "Nanda, Wang, and Zheng (RFS, 2004) - Family Values and the Star Phenomenon: Strategies of Mutual Fund Families"
+  file: "Nanda_Wang_Zheng_RFS_2004.pdf"
+  desc: "This note summarizes the paper, which uses CRSP mutual fund family data, risk-adjusted star and dog definitions, family-level and fund-level new-money flows, cross-fund return dispersion, number of funds, Morningstar-style stars, and future performance portfolio tests to study mutual fund family strategy, showing that star funds create positive inflow spillovers to sibling funds, families can increase star probability through more funds or higher strategy dispersion, and stars are most informative about true skill when they arise from low-dispersion small families where star creation is less mechanically likely."
+
 - title: "Scharfstein & Stein (JF, 2000) - The Dark Side of Internal Capital Markets: Divisional Rent-Seeking and Inefficient Investment"
   file: "Scharfstein_Stein_JF_2000.pdf"
   desc: "This note summarizes the paper, which develops a two-tier agency theory of internal capital markets using divisional rent-seeking, CEO capital allocation discretion, retention constraints, cash versus capital compensation, low/medium/high productivity divisions, and CEO incentive strength to study inefficient conglomerate investment, showing that weak divisions can extract capital subsidies when paired with strong divisions because CEOs may find it privately cheaper to compensate rent-seeking managers with distorted capital budgets rather than cash wages."
