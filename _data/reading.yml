@@ -1,3 +1,7 @@
+- title: "Moen (JPE, 1997) - Competitive Search Equilibrium"
+  file: "Moen_JPE_1997.pdf"
+  desc: "This note summarizes the paper, which develops competitive search equilibrium using wage-posted submarkets, labor-market tightness, matching frictions, free entry, worker indifference, no-surplus wage choice, social planner optimality, wage-announcement implementation, and sorting with heterogeneous firms and workers to study frictional labor markets, showing that when firms post wages and workers direct search, wages and queue lengths jointly internalize search externalities, generating efficient unemployment, wage dispersion, and productivity-based sorting without imposing the Hosios bargaining condition."
+
 - title: "Buera, Kaboski & Shin (AER, 2011) - Finance and Development: A Tale of Two Sectors"
   file: "Buera_Kaboski_Shin_AER_2011.pdf"
   desc: "This note summarizes the paper, which develops a quantitative two-sector development model with heterogeneous entrepreneurial talent, wealth accumulation, endogenous occupational choice, collateral/enforceability constraints, small-scale services, large-scale manufacturing, sectoral fixed costs, and establishment-size validation to study finance and development, showing that financial frictions distort both capital allocation and entrepreneurial selection, especially in large-scale manufacturing, generating lower aggregate TFP, higher relative prices of manufactured goods, and large cross-country income differences."
