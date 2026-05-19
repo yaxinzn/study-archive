@@ -1,3 +1,7 @@
+- title: "Gaspar, Massa & Matos (JF, 2006) - Favoritism in Mutual Fund Families? Evidence on Strategic Cross-Fund Subsidization"
+  file: "Gaspar_Massa_Matos_JF_2006.pdf"
+  desc: "This note summarizes the paper, which uses CRSP mutual fund family data, high- and low-value fund classifications, actual versus matched high/low fund pairs, net-of-style returns, family fixed effects, IPO allocation tests, opposite-trade measures, and family-structure heterogeneity to study strategic cross-fund subsidization, showing that mutual fund families appear to favor high-fee and high-performing funds by allocating performance-enhancing opportunities toward them, partly through underpriced IPO allocations and coordinated opposite trades, creating a family-level agency conflict across investors in different funds."
+
 - title: "Ozbas & Scharfstein (RFS, 2010) - Evidence on the Dark Side of Internal Capital Markets"
   file: "Ozbas_Scharfstein_RFS_2010.pdf"
   desc: "This note summarizes the paper, which uses Compustat segment data, BEA input-output relatedness measures, unrelated conglomerate segments, stand-alone firm matches, industry Q, investment-to-sales sensitivity, bias-corrected matching estimators, and managerial-ownership heterogeneity to study internal capital markets, showing that unrelated conglomerate segments invest less responsively to high industry investment opportunities than comparable stand-alone firms, especially when top-management ownership is low, consistent with agency-driven distortions in internal capital allocation."
