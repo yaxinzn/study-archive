@@ -1,3 +1,7 @@
+- title: "Farboodi, Matray, Veldkamp & Venkateswaran (RFS, 2022) - Where Has All the Data Gone?"
+  file: "Farboodi_Matray_Veldkamp_Venkateswaran_RFS_2022.pdf"
+  desc: "This note summarizes the paper, which uses a noisy rational-expectations model, CRSP–Compustat firm data, price–future-cash-flow informativeness, cash-flow growth and volatility components, structural data-precision measures, private-versus-price information decompositions, and value-of-information calculations to study where financial data processing has increased, showing that the financial data revolution has been highly uneven, with investors processing much more net private information about large high-growth firms while small and low-growth firms remain relatively informationally neglected."
+
 - title: "Boot, Milbourn & Schmeits (RFS, 2006) - Credit Ratings as Coordination Mechanisms"
   file: "Boot_Milbourn_Schmeits_RFS_2006.pdf"
   desc: "This note summarizes the paper, which develops a theory of credit ratings as coordination mechanisms using firm risk-shifting incentives, investor beliefs, rating-linked institutional mandates, multiple equilibria, credit-watch monitoring, recovery effort, and rating-contingent financing terms to study why ratings matter beyond information disclosure, showing that ratings can coordinate dispersed bond investors on a good equilibrium, lower funding costs, induce firms to choose viable projects, and make credit watch function as an implicit monitoring contract whose confirmations and downgrades reveal recovery success or failure."
