@@ -1,3 +1,7 @@
+- title: "Ozbas & Scharfstein (RFS, 2010) - Evidence on the Dark Side of Internal Capital Markets"
+  file: "Ozbas_Scharfstein_RFS_2010.pdf"
+  desc: "This note summarizes the paper, which uses Compustat segment data, BEA input-output relatedness measures, unrelated conglomerate segments, stand-alone firm matches, industry Q, investment-to-sales sensitivity, bias-corrected matching estimators, and managerial-ownership heterogeneity to study internal capital markets, showing that unrelated conglomerate segments invest less responsively to high industry investment opportunities than comparable stand-alone firms, especially when top-management ownership is low, consistent with agency-driven distortions in internal capital allocation."
+
 - title: "Tetlock, Saar-Tsechansky & Macskassy (JF, 2008) - More Than Words: Quantifying Language to Measure Firms’ Fundamentals"
   file: "Tetlock_SaarTsechansky_Macskassy_JF_2008.pdf"
   desc: "This note summarizes the paper, which uses WSJ and Dow Jones firm-specific news stories, dictionary-based negative-word measures, standardized unexpected earnings, analyst forecast errors, return-predictability tests, trading-strategy returns, and fundamentals-related story interactions to study whether qualitative language measures firm fundamentals, showing that negative news language predicts lower future earnings and a small next-day return continuation, especially when stories discuss earnings, implying that words contain cash-flow information that investors mostly but not fully incorporate immediately."
