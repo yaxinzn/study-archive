@@ -1,3 +1,7 @@
+- title: "Scharfstein & Stein (JF, 2000) - The Dark Side of Internal Capital Markets: Divisional Rent-Seeking and Inefficient Investment"
+  file: "Scharfstein_Stein_JF_2000.pdf"
+  desc: "This note summarizes the paper, which develops a two-tier agency theory of internal capital markets using divisional rent-seeking, CEO capital allocation discretion, retention constraints, cash versus capital compensation, low/medium/high productivity divisions, and CEO incentive strength to study inefficient conglomerate investment, showing that weak divisions can extract capital subsidies when paired with strong divisions because CEOs may find it privately cheaper to compensate rent-seeking managers with distorted capital budgets rather than cash wages."
+
 - title: "Chen, Hong, Huang & Kubik (AER, 2004) - Does Fund Size Erode Mutual Fund Performance? The Role of Liquidity and Organization"
   file: "Chen_Hong_Huang_Kubik_AER_2004.pdf"
   desc: "This note summarizes the paper, which uses CRSP mutual fund data, benchmark-adjusted gross and net returns, lagged fund size, family size, style interactions, CDA holdings, local-stock investments, and management-structure measures to study whether fund scale erodes active management performance, showing that larger funds underperform smaller funds especially in illiquid small-cap strategies, while family size can help, implying that active investment skill is capacity constrained by liquidity and organizational diseconomies."
