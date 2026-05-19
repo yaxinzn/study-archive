@@ -1,3 +1,7 @@
+- title: "Holmstrom (RES, 1999) - Managerial Incentive Problems: A Dynamic Perspective"
+  file: "Holmstrom_RES_1999.pdf"
+  desc: "This note summarizes the paper, which develops a dynamic career-concerns model using managerial ability, output-based Bayesian learning, competitive wage setting, effort choice, evolving ability, belief precision, nonlinear technology, risk-taking, and unverifiable project information to study implicit managerial incentives, showing that reputation can motivate effort without explicit contracts but is not automatically efficient, because career concerns can underprovide long-run effort, create excessive early-career effort, and make managers too conservative in risky project choice."
+
 - title: "Aghion & Tirole (JPE, 1997) - Formal and Real Authority in Organizations"
   file: "Aghion_Tirole_JPE_1997.pdf"
   desc: "This note summarizes the paper, which develops a theory of formal versus real authority in organizations using principal–agent project choice, endogenous information acquisition, delegation, control versus initiative, communication, span of control, overload, performance measurement, urgency, and monetary incentives to study organizational design, showing that formal decision rights do not guarantee effective control because real authority depends on who becomes informed, so delegation and decentralization can raise subordinate initiative even while reducing the principal’s control over final decisions."
