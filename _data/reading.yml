@@ -1,3 +1,7 @@
+- title: "Shimer (JPE, 2005) - The Assignment of Workers to Jobs in an Economy with Coordination Frictions"
+  file: "Shimer_JPE_2005.pdf"
+  desc: "This note summarizes the paper, which develops a directed-search assignment model with heterogeneous workers and firms, anonymous mixed application strategies, Poisson queues, wage posting, type-contingent wages, competitive search equilibrium, planner queue allocation, and threshold application rules to study worker–job assignment under coordination frictions, showing that unemployment, vacancies, imperfect assortative matching, firm wage effects, and profit–worker-quality correlations can arise in a competitive and constrained-efficient labor market without wage rigidity, bargaining distortions, or exogenous mismatch."
+
 - title: "Moen (JPE, 1997) - Competitive Search Equilibrium"
   file: "Moen_JPE_1997.pdf"
   desc: "This note summarizes the paper, which develops competitive search equilibrium using wage-posted submarkets, labor-market tightness, matching frictions, free entry, worker indifference, no-surplus wage choice, social planner optimality, wage-announcement implementation, and sorting with heterogeneous firms and workers to study frictional labor markets, showing that when firms post wages and workers direct search, wages and queue lengths jointly internalize search externalities, generating efficient unemployment, wage dispersion, and productivity-based sorting without imposing the Hosios bargaining condition."
