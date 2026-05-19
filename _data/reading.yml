@@ -1,3 +1,7 @@
+- title: "Chen, Hong, Huang & Kubik (AER, 2004) - Does Fund Size Erode Mutual Fund Performance? The Role of Liquidity and Organization"
+  file: "Chen_Hong_Huang_Kubik_AER_2004.pdf"
+  desc: "This note summarizes the paper, which uses CRSP mutual fund data, benchmark-adjusted gross and net returns, lagged fund size, family size, style interactions, CDA holdings, local-stock investments, and management-structure measures to study whether fund scale erodes active management performance, showing that larger funds underperform smaller funds especially in illiquid small-cap strategies, while family size can help, implying that active investment skill is capacity constrained by liquidity and organizational diseconomies."
+
 - title: "Maksimovic & Phillips (JF, 2002) - Do Conglomerate Firms Allocate Resources Inefficiently Across Industries? Theory and Evidence"
   file: "Maksimovic_Phillips_JF_2002.pdf"
   desc: "This note summarizes the paper, which uses U.S. Census plant-level manufacturing data, firm-industry segment construction, translog productivity estimates, industry demand shocks, segment growth and capital-expenditure regressions, and restructuring splits to study conglomerate resource allocation, showing that most conglomerates allocate resources consistently with comparative advantage: productive segments grow and invest more when demand rises, while segments grow less when other segments have stronger opportunities, so conglomerate discounts need not imply systematic internal-capital-market inefficiency."
