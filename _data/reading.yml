@@ -1,3 +1,7 @@
+- title: "Buera, Kaboski & Shin (AER, 2011) - Finance and Development: A Tale of Two Sectors"
+  file: "Buera_Kaboski_Shin_AER_2011.pdf"
+  desc: "This note summarizes the paper, which develops a quantitative two-sector development model with heterogeneous entrepreneurial talent, wealth accumulation, endogenous occupational choice, collateral/enforceability constraints, small-scale services, large-scale manufacturing, sectoral fixed costs, and establishment-size validation to study finance and development, showing that financial frictions distort both capital allocation and entrepreneurial selection, especially in large-scale manufacturing, generating lower aggregate TFP, higher relative prices of manufactured goods, and large cross-country income differences."
+
 - title: " Jiang, Kelly & Xiu (Journal of Finance, 2023) - (Re-)Imag(in)ing Price Trends"
   file: "Jiang_Kelly_Xiu_JF_2023.pdf"
   desc: "This note summarizes the paper, which uses CRSP daily OHLC, return, and volume data, standardized price-chart images, CNN classifiers, portfolio sorts, technical-indicator benchmarks, stock-characteristic controls, and international/time-scale transfer tests to study price-trend predictability, showing that visual price-chart patterns contain nonlinear return-predictive information beyond standard momentum, reversal, moving-average, liquidity, and size signals, with CNN image strategies delivering strong out-of-sample portfolio performance across horizons, markets, and time scales."
