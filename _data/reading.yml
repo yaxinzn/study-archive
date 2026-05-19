@@ -1,3 +1,7 @@
+- title: "Bybee, Kelly & Su (RFS, 2023) - Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text"
+  file: "Bybee_Kelly_Su_RFS_2023.pdf"
+  desc: "This note summarizes the paper, which uses Wall Street Journal business-news text, LDA narrative topics, narrative attention shocks, stock-return covariance instruments, Sparse IPCA with group-lasso selection, anomaly and size/book-to-market test assets, out-of-sample MVE portfolios, and macro forecasting tests to construct interpretable systematic risk factors, showing that news narratives such as recession, record highs, optimism, politics, and financial intermediaries identify priced ICAPM-style state variables that improve cross-sectional pricing and portfolio performance beyond standard benchmark factors."
+
 - title: "Farboodi, Matray, Veldkamp & Venkateswaran (RFS, 2022) - Where Has All the Data Gone?"
   file: "Farboodi_Matray_Veldkamp_Venkateswaran_RFS_2022.pdf"
   desc: "This note summarizes the paper, which uses a noisy rational-expectations model, CRSP–Compustat firm data, price–future-cash-flow informativeness, cash-flow growth and volatility components, structural data-precision measures, private-versus-price information decompositions, and value-of-information calculations to study where financial data processing has increased, showing that the financial data revolution has been highly uneven, with investors processing much more net private information about large high-growth firms while small and low-growth firms remain relatively informationally neglected."
