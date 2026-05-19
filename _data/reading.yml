@@ -1,3 +1,7 @@
+- title: " Jiang, Kelly & Xiu (Journal of Finance, 2023) - (Re-)Imag(in)ing Price Trends"
+  file: "Jiang_Kelly_Xiu_JF_2023.pdf"
+  desc: "This note summarizes the paper, which uses CRSP daily OHLC, return, and volume data, standardized price-chart images, CNN classifiers, portfolio sorts, technical-indicator benchmarks, stock-characteristic controls, and international/time-scale transfer tests to study price-trend predictability, showing that visual price-chart patterns contain nonlinear return-predictive information beyond standard momentum, reversal, moving-average, liquidity, and size signals, with CNN image strategies delivering strong out-of-sample portfolio performance across horizons, markets, and time scales."
+
 - title: "Bybee, Kelly & Su (RFS, 2023) - Narrative Asset Pricing: Interpretable Systematic Risk Factors from News Text"
   file: "Bybee_Kelly_Su_RFS_2023.pdf"
   desc: "This note summarizes the paper, which uses Wall Street Journal business-news text, LDA narrative topics, narrative attention shocks, stock-return covariance instruments, Sparse IPCA with group-lasso selection, anomaly and size/book-to-market test assets, out-of-sample MVE portfolios, and macro forecasting tests to construct interpretable systematic risk factors, showing that news narratives such as recession, record highs, optimism, politics, and financial intermediaries identify priced ICAPM-style state variables that improve cross-sectional pricing and portfolio performance beyond standard benchmark factors."
