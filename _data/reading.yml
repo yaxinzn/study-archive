@@ -1,3 +1,7 @@
+- title: "Gennaioli, Shleifer, and Vishny (JF, 2013) - A Model of Shadow Banking"
+  file: "Gennaioli_Shleifer_Vishny_JF_2013.pdf"
+  desc: "This note summarizes the paper, which develops a shadow-banking model using safe-asset demand, limited safe projects, securitization, risky loan pools, intermediary leverage, rational-expectations versus neglected-risk equilibria, and liquidity-dry-up mechanisms to study financial fragility, showing that securitization can efficiently diversify idiosyncratic risk under correct beliefs but becomes destabilizing when investors neglect tail aggregate risk, because perceived safety supports excessive debt, leverage, interconnectedness, and crisis-time illiquidity."
+
 - title: "Nanda, Wang, and Zheng (RFS, 2004) - Family Values and the Star Phenomenon: Strategies of Mutual Fund Families"
   file: "Nanda_Wang_Zheng_RFS_2004.pdf"
   desc: "This note summarizes the paper, which uses CRSP mutual fund family data, risk-adjusted star and dog definitions, family-level and fund-level new-money flows, cross-fund return dispersion, number of funds, Morningstar-style stars, and future performance portfolio tests to study mutual fund family strategy, showing that star funds create positive inflow spillovers to sibling funds, families can increase star probability through more funds or higher strategy dispersion, and stars are most informative about true skill when they arise from low-dispersion small families where star creation is less mechanically likely."
