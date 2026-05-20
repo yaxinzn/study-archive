@@ -1,3 +1,7 @@
+- title: "Kremer (QJE, 1993) - The O-Ring Theory of Economic Development"
+  file: "Kremer_QJE_1993.pdf"
+  desc: "This note summarizes the paper, which develops the O-ring theory of production using multiplicative task quality, worker reliability, capital, positive cross-partials, assortative matching, steep wage schedules, technology complexity, imperfect skill observability, noisy testing, strategic complementarities in education, and multiple equilibria to study development, showing that small differences in worker quality can generate large productivity and wage gaps because tasks are complements, high-skill workers are most valuable with other high-skill workers, and imperfect matching creates human-capital externalities and possible low-skill development traps."
+
 - title: "Covitz, Liang, and Suarez (JF, 2013) - The Evolution of a Financial Crisis: Collapse of the Asset-Backed Commercial Paper Market"
   file: "Covitz_Liang_Suarez_JF_2013.pdf"
   desc: "This note summarizes the paper, which uses DTCC transaction-level ABCP data, program characteristics, liquidity-support measures, ratings, sponsor risk, LIBOR-OIS and ABX stress variables, program-level run definitions, probit run regressions, spread regressions, and maturity regressions to study the 2007 ABCP collapse, showing that the crisis involved genuine runs on shadow-bank conduits, with withdrawals, higher spreads, and shorter maturities concentrated among programs with weaker support, lower ratings, riskier sponsors, and greater exposure to mortgage or structured-credit risk."
