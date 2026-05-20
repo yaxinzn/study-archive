@@ -1,3 +1,7 @@
+- title: "Fisman & Miguel (JPE, 2007) - Corruption, Norms, and Legal Enforcement: Evidence from Diplomatic Parking Tickets"
+  file: "Fisman_Miguel_JPE_2007.pdf"
+  desc: "This note summarizes the paper, which uses unpaid New York City diplomatic parking violations, UN diplomat records, country corruption indices, mission and vehicle controls, pre/post-2002 enforcement changes, country-level negative binomial regressions, and diplomat-level tenure tests to study corruption norms and legal enforcement, showing that diplomats from more corrupt countries commit more violations when enforcement is weak, but credible sanctions reduce violations by over 98%, implying that both internalized norms and formal punishment shape rule-breaking behavior."
+
 - title: "Enikolopov, Petrova, and Zhuravskaya (AER, 2011) - Media and Political Persuasion: Evidence from Russia"
   file: "Enikolopov_Petrova_Zhuravskaya_AER_2011.pdf"
   desc: "This note summarizes the paper, which uses geographic variation in NTV signal availability, Russian 1999 parliamentary election results, transmitter and signal-propagation data, 1995 placebo outcomes, 2003 persistence tests, individual survey data, and IV estimates of NTV watching to study media persuasion, showing that independent television substantially reduced support for the pro-government Unity party, increased votes for opposition parties favored by NTV, lowered turnout, and had especially large negative-message persuasion effects in a weakly institutionalized media environment."
