@@ -1,3 +1,7 @@
+- title: "Greenwood (JFE, 2005) - Short- and Long-Term Demand Curves for Stocks: Theory and Evidence on the Dynamics of Arbitrage"
+  file: "Greenwood_JFE_2005.pdf"
+  desc: "This note summarizes the paper, which uses the April 2000 Nikkei 225 redefinition, mechanical index-tracking demand shocks, covariance-based arbitrage-risk measures, affected and unaffected stock returns, liquidity controls, post-event reversal tests, and arbitrage-profit calculations to study short- and long-term stock demand curves, showing that price impact depends on each stock’s contribution to the risk of the arbitrage portfolio rather than own demand alone, with spillovers to related unaffected stocks and substantial later reversal as arbitrageurs are compensated for bearing temporary demand-shock risk."
+
 - title: "Gennaioli, Shleifer, and Vishny (JF, 2013) - A Model of Shadow Banking"
   file: "Gennaioli_Shleifer_Vishny_JF_2013.pdf"
   desc: "This note summarizes the paper, which develops a shadow-banking model using safe-asset demand, limited safe projects, securitization, risky loan pools, intermediary leverage, rational-expectations versus neglected-risk equilibria, and liquidity-dry-up mechanisms to study financial fragility, showing that securitization can efficiently diversify idiosyncratic risk under correct beliefs but becomes destabilizing when investors neglect tail aggregate risk, because perceived safety supports excessive debt, leverage, interconnectedness, and crisis-time illiquidity."
