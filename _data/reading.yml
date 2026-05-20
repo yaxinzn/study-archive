@@ -1,3 +1,7 @@
+- title: "Gorton & Metrick (JFE, 2012) - Securitized Banking and the Run on Repo"
+  file: "Gorton_Metrick_JFE_2012.pdf"
+  desc: "This note summarizes the paper, which uses securitized-bond spreads, repo rates and haircuts, ABX subprime indices, LIB-OIS counterparty-risk measures, broker-dealer repo financing data, and collateral-class regressions to study the 2007–2008 crisis, showing that the systemic crisis was a run on repo in the securitized-banking system, where rising counterparty risk and collateral uncertainty raised repo rates and haircuts, forcing deleveraging and spreading stress from subprime assets to broader securitized collateral markets."
+
 - title: "Moreira & Savov (JF, 2017) - The Macroeconomics of Shadow Banking"
   file: "Moreira_Savov_JF_2017.pdf"
   desc: "This note summarizes the paper, which develops a macroeconomic model of shadow banking using collateral constraints, money, shadow money, equity tranches, liquidity events, collateral premia, uncertainty shocks, asset prices, investment, and central-bank balance-sheet policies to study fragile liquidity creation, showing that shadow banking expands liquidity and growth in low-uncertainty times but collapses when uncertainty rises, causing shadow-money spreads, collateral premia, asset-price declines, and output losses, with policy effects depending on whether interventions increase stable collateral and liquidity."
