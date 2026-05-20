@@ -1,3 +1,7 @@
+- title: "Enikolopov, Petrova, and Zhuravskaya (AER, 2011) - Media and Political Persuasion: Evidence from Russia"
+  file: "Enikolopov_Petrova_Zhuravskaya_AER_2011.pdf"
+  desc: "This note summarizes the paper, which uses geographic variation in NTV signal availability, Russian 1999 parliamentary election results, transmitter and signal-propagation data, 1995 placebo outcomes, 2003 persistence tests, individual survey data, and IV estimates of NTV watching to study media persuasion, showing that independent television substantially reduced support for the pro-government Unity party, increased votes for opposition parties favored by NTV, lowered turnout, and had especially large negative-message persuasion effects in a weakly institutionalized media environment."
+
 - title: "Ganong & Noel (AER, 2020) - Liquidity versus Wealth in Household Debt Obligations: Evidence from Housing Policy in the Great Recession"
   file: "Ganong_Noel_AER_2020.pdf"
   desc: "This note summarizes the paper, which uses HAMP mortgage modifications, principal-reduction and payment-reduction quasi-experiments, matched credit-bureau data, JPMorgan Chase account data, default outcomes, spending measures, regression discontinuity, difference-in-differences, and a collateral-constrained consumption model to study liquidity versus wealth in household debt relief, showing that principal forgiveness has little effect on default or short-run spending when borrowers remain underwater, while near-term payment reductions substantially reduce default by relaxing current cash-flow constraints."
