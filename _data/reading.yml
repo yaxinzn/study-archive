@@ -1,3 +1,7 @@
+- title: "Nunn & Wantchekon (AER, 2011) - The Slave Trade and the Origins of Mistrust in Africa"
+  file: "Nunn_Wantchekon_AER_2011.pdf"
+  desc: "This note summarizes the paper, which uses Afrobarometer trust surveys, ethnicity-level slave-export exposure, historical controls, distance-from-coast instruments, selection-on-observables diagnostics, falsification tests, and ancestry-versus-location channel decompositions to study the historical origins of mistrust in Africa, showing that individuals from ethnic groups more heavily exposed to the slave trades report lower trust today, especially through persistent internal cultural norms formed in an environment where betrayal, kidnapping, and insecurity made mistrust adaptive."
+
 - title: "Fisman & Miguel (JPE, 2007) - Corruption, Norms, and Legal Enforcement: Evidence from Diplomatic Parking Tickets"
   file: "Fisman_Miguel_JPE_2007.pdf"
   desc: "This note summarizes the paper, which uses unpaid New York City diplomatic parking violations, UN diplomat records, country corruption indices, mission and vehicle controls, pre/post-2002 enforcement changes, country-level negative binomial regressions, and diplomat-level tenure tests to study corruption norms and legal enforcement, showing that diplomats from more corrupt countries commit more violations when enforcement is weak, but credible sanctions reduce violations by over 98%, implying that both internalized norms and formal punishment shape rule-breaking behavior."
