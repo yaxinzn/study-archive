@@ -1,3 +1,7 @@
+- title: "Womack (JF, 1996) - Do Brokerage Analysts’ Recommendations Have Investment Value?"
+  file: "Womack_JF_1996.pdf"
+  desc: "This note summarizes the paper, which uses First Call brokerage recommendation-change dates, added-to-buy, removed-from-buy, added-to-sell, and removed-from-sell events, event-window returns, post-event drift, size-, industry-, and Fama–French-adjusted returns, randomization tests, and stock-versus-industry decompositions to study analyst investment value, showing that recommendation changes move prices immediately but not fully, with especially strong and persistent negative drift after rare sell recommendations, implying that brokerage analysts convey valuable information and markets underreact to analyst news."
+
 - title: "Berk & Green (JPE, 2004) - Mutual Fund Flows and Performance in Rational Markets"
   file: "Berk_Green_JPE_2004.pdf"
   desc: "This note summarizes the paper, which develops a rational equilibrium model of mutual fund flows using Bayesian learning about manager skill, noisy past returns, fund fees, fund size, decreasing returns to active management, competitive capital supply, and fund exit to study performance chasing, showing that investors rationally send capital to past winners because returns reveal skill, but inflows scale up successful funds until expected investor alpha returns to zero, so skilled managers, strong flow-performance sensitivity, zero average alpha, and little performance persistence can coexist."
