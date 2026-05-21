@@ -1,3 +1,7 @@
+- title: "Evans (JF, 2010) - Mutual Fund Incubation"
+  file: "Evans_JF_2010.pdf"
+  desc: "This note summarizes the paper, which uses U.S. domestic equity mutual fund data, inception dates versus ticker creation dates, incubation-period and postincubation returns, factor alphas, investor flow regressions, family-level fund-opening decisions, and database filters to study mutual fund incubation, showing that fund families privately test funds and reveal winners to the public, creating high pre-public alphas that disappear after opening, attracting flows and biasing measured mutual fund performance upward unless ticker-creation-date or age filters are used."
+
 - title: "Mian, Sufi, and Trebbi (JF, 2015) - Foreclosures, House Prices, and the Real Economy"
   file: "Mian_Sufi_Trebbi_JF_2015.pdf"
   desc: "This note summarizes the paper, which uses state judicial versus nonjudicial foreclosure laws, foreclosure and delinquency data, house-price indexes, residential permits, auto sales, IV estimates, and zip-code border tests to study the real effects of foreclosure during the Great Recession, showing that faster foreclosure conversion caused larger house-price declines and weaker real activity through fire-sale supply pressure, implying that foreclosures were not merely symptoms of the housing bust but an important macro-financial amplification channel."
