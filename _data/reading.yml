@@ -1,3 +1,7 @@
+- title: "Tervio (AER, 2008) - The Difference That CEOs Make: An Assignment Model Approach"
+  file: "Tervio_AER_2008.pdf"
+  desc: "This note summarizes the paper, which develops a two-sided assignment model of CEO pay using heterogeneous CEO ability, heterogeneous firm scale, positive assortative matching, competitive wage and profit profiles, observed CEO compensation, firm market values, and counterfactual ability assignments to study how much CEOs matter, showing that very high CEO pay can arise competitively because small talent differences are magnified at large firms, but most pay variation reflects firm heterogeneity rather than large CEO ability differences, so the social value of replacing CEOs with the best observed type is relatively modest."
+
 - title: "Spence (QJE, 1973) - Job Market Signaling"
   file: "Spence_QJE_1973.pdf"
   desc: "This note summarizes the paper, which develops the canonical job-market signaling model using employer beliefs, observable alterable signals such as education, fixed indices such as sex or race, signaling costs, wage schedules, separating and pooling equilibria, and informational feedback to study hiring under uncertainty, showing that education can earn a wage premium because it credibly separates productivity types when signaling costs differ by type, while multiple self-confirming equilibria can make credentials, prerequisites, and group-specific wage patterns persist even without productivity effects."
