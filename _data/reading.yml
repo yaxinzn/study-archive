@@ -1,3 +1,7 @@
+- title: "Berk & Green (JPE, 2004) - Mutual Fund Flows and Performance in Rational Markets"
+  file: "Berk_Green_JPE_2004.pdf"
+  desc: "This note summarizes the paper, which develops a rational equilibrium model of mutual fund flows using Bayesian learning about manager skill, noisy past returns, fund fees, fund size, decreasing returns to active management, competitive capital supply, and fund exit to study performance chasing, showing that investors rationally send capital to past winners because returns reveal skill, but inflows scale up successful funds until expected investor alpha returns to zero, so skilled managers, strong flow-performance sensitivity, zero average alpha, and little performance persistence can coexist."
+
 - title: "Campbell, Giglio & Pathak (AER, 2011) - Forced Sales and House Prices"
   file: "Campbell_Giglio_Pathak_AER_2011.pdf"
   desc: "This note summarizes the paper, which uses Massachusetts housing transactions, death/bankruptcy/foreclosure event matching, hedonic price regressions with census tract-year fixed effects, value-component interactions, ZIP-level VARs, and local foreclosure spillover tests to study forced sales and house prices, showing that forced sellers receive sizable discounts—especially foreclosures—and that nearby foreclosures can depress very local house prices through illiquidity, urgency, vacancy, deterioration, and neighborhood spillover channels."
