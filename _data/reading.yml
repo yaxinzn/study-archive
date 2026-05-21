@@ -1,3 +1,7 @@
+- title: "Baker (JPE, 1992) - Incentive Contracts and Performance Measurementt"
+  file: "Baker_JPE_1992.pdf"
+  desc: "This note summarizes the paper, which develops a theory of incentive contracts under imperfect performance measurement using a noncontractible true objective, contractible proxy measures, state-contingent marginal products, agent private information, linear piece rates, gaming, revenue commissions, and relative performance evaluation to study compensation design, showing that optimal incentive intensity depends on the marginal alignment between the proxy and true value, so weak incentives can be optimal even for risk-neutral agents when high-powered proxy-based pay would induce agents to game the measure rather than create value."
+
 - title: "Oyer (QJE, 1998) - Fiscal Year Ends and Nonlinear Incentive Contracts: The Effect on Business Seasonality"
   file: "Oyer_QJE_1998.pdf"
   desc: "This note summarizes the paper, which uses Compustat quarterly manufacturing data, variation in firm fiscal-year ends, nonlinear sales and executive compensation incentives, revenue and price seasonality regressions, industry sales-channel heterogeneity, and fiscal-year-change tests to study incentive-induced timing, showing that firms have lower sales in the first fiscal quarter and higher sales in the fourth fiscal quarter, with opposite price movements, consistent with agents pulling sales forward and adjusting prices or effort around fiscal-year bonus and quota deadlines."
