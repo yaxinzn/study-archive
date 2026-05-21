@@ -1,3 +1,7 @@
+- title: "Grossman & Rossi-Hansberg (AER, 2008) - Trading Tasks: A Simple Theory of Offshoring"
+  file: "Grossman_RossiHansberg_AER_2008.pdf"
+  desc: "This note summarizes the paper, which develops a task-trade theory of offshoring using continua of tasks, heterogeneous offshoring costs, marginal offshore-task conditions, effective task-cost reductions, factor-market clearing, and wage-effect decompositions to study globalization, showing that offshoring is not equivalent to goods trade or immigration because it creates a productivity effect that can raise the domestic wage of the factor whose tasks are offshored, although relative-price and labor-supply effects can offset this gain in larger or specialized economies."
+
 - title: "Diamond (JPE, 1991) - Monitoring and Reputation: The Choice between Bank Loans and Directly Placed Debt"
   file: "Diamond_JPE_1991.pdf"
   desc: "This note summarizes the paper, which develops a theory of bank loans versus directly placed debt using borrower reputation, private borrower types, moral-hazard project choice, costly bank monitoring, public beliefs, credit-quality regions, screening, and direct-debt access to study financing choice, showing that high-reputation borrowers can borrow directly without monitoring, middle-rated borrowers use bank loans because monitoring provides marginal incentive value, and low-rated borrowers may be screened or rationed, with firms potentially graduating from bank debt to public debt as repayment history builds reputation."
