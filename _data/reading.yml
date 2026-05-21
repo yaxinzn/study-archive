@@ -1,3 +1,7 @@
+- title: "Chamley & Gale (Econometrica, 1994) - Information Revelation and Strategic Delay in a Model of Investment"
+  file: "Chamley_Gale_Econometrica_1994.pdf"
+  desc: "This note summarizes the paper, which develops an endogenous-timing investment model using private investment opportunities, public investment actions, Bayesian learning, option value of waiting, symmetric perfect Bayesian equilibrium, period length, large-player limits, and temporary subsidies to study strategic delay, showing that agents may wait for others to reveal information, causing inefficient delay or herd-like investment collapse even without direct payoff complementarities, because early investment creates a public information externality that private investors do not internalize."
+
 - title: "Ellison & Fudenberg (QJE, 1995) - Word-of-Mouth Communication and Social Learning"
   file: "Ellison_Fudenberg_QJE_1995.pdf"
   desc: "This note summarizes the paper, which develops a boundedly rational model of word-of-mouth social learning using repeated choices between two technologies, random sampling of other agents, inertia, common and idiosyncratic payoff shocks, must-see constraints, endpoint dynamics, popularity weighting, and social memory to study conformity and diversity, showing that communication breadth determines whether society locks into one choice, sustains diversity, learns efficiently, or herds inefficiently, with limited word-of-mouth sometimes outperforming broader communication when common shocks make large samples misleading."
