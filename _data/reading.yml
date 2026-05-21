@@ -1,3 +1,7 @@
+- title: "Spence (QJE, 1973) - Job Market Signaling"
+  file: "Spence_QJE_1973.pdf"
+  desc: "This note summarizes the paper, which develops the canonical job-market signaling model using employer beliefs, observable alterable signals such as education, fixed indices such as sex or race, signaling costs, wage schedules, separating and pooling equilibria, and informational feedback to study hiring under uncertainty, showing that education can earn a wage premium because it credibly separates productivity types when signaling costs differ by type, while multiple self-confirming equilibria can make credentials, prerequisites, and group-specific wage patterns persist even without productivity effects."
+
 - title: "Dewatripont & Tirole (JPE, 2005) - Modes of Communication"
   file: "Dewatripont_Tirole_JPE_2005.pdf"
   desc: "This note summarizes the paper, which develops a theory of communication as costly joint production using sender exposition effort, receiver absorption effort, congruence, executive versus supervisory decision modes, credibility cues, sequential communication, first impressions, and information overload to study why communication succeeds or fails, showing that even aligned parties may undercommunicate, high trust can induce rubber-stamping and reduce substantive explanation, and effective communication depends on incentives to explain, listen, and process source credibility."
