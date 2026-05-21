@@ -1,3 +1,7 @@
+- title: "Farhi, Lerner & Tirole (RAND Journal of Economics, 2013) - Fear of Rejection? Tiered Certification and Transparency"
+  file: "Farhi_Lerner_Tirole_RANDJE_2013.pdf"
+  desc: "This note summarizes the paper, which develops a theory of tiered certification using high- and low-tier certifiers, opaque versus transparent rejections, seller application strategies, buyer beliefs, stigma from prior rejection, certifier market power, heterogeneous sellers, and multitier grading to study certification design, showing that rejection opacity can arise even in competitive markets because sellers dislike disclosed failure and lower-tier certification becomes stigmatized, while transparency can improve seller welfare but may reduce buyer information by discouraging high-tier screening."
+
 - title: "He & Tian (JFE, 2013) - The Dark Side of Analyst Coverage: The Case of Innovation"
   file: "He_Tian_JFE_2013.pdf"
   desc: "This note summarizes the paper, which uses U.S. public-firm patent and citation data, I/B/E/S analyst coverage, firm-panel regressions, brokerage-closure and merger shocks, matched difference-in-differences tests, expected-coverage instruments, and mechanism tests on institutional ownership, takeover exposure, liquidity, and accruals to study analysts’ real effects, showing that greater analyst coverage reduces future innovation by intensifying short-term earnings pressure, while exogenous coverage losses lead firms to produce more and higher-impact patents."
