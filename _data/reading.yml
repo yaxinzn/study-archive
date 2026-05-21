@@ -1,3 +1,7 @@
+- title: "Scharfstein & Stein (AER, 1990) - Herd Behavior and Investment"
+  file: "Scharfstein_Stein_AER_1990.pdf"
+  desc: "This note summarizes the paper, which develops a rational herding model using sequential managers, smart versus dumb types, correlated private signals, labor-market reputation, Bayesian updating, investment decisions, and reputational payoffs to study herd behavior, showing that career-concerned managers may ignore useful private information and mimic earlier managers because disagreement is interpreted as evidence of low ability, so private signals are suppressed, information aggregation fails, and conventional mistakes can be individually safer than unconventional dissent."
+
 - title: "Rosen (AER, 1981) - The Economics of Superstars"
   file: "Rosen_AER_1981.pdf"
   desc: "This note summarizes the paper, which develops a theory of superstar markets using heterogeneous talent, imperfect substitution across quality levels, joint consumption, market size, crowding, consumer heterogeneity, and convex talent-to-revenue mappings to study extreme income inequality, showing that small differences in quality can generate enormous differences in earnings because top performers both charge higher prices and serve much larger audiences, especially when technology lowers distribution costs and expands market reach."
