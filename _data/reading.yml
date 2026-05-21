@@ -1,3 +1,7 @@
+- title: "Hong, Lim & Stein (JF, 2000) - Bad News Travels Slowly: Size, Analyst Coverage, and the Profitability of Momentum Strategies"
+  file: "Hong_Lim_Stein_JF_2000.pdf"
+  desc: "This note summarizes the paper, which uses CRSP/I/B/E/S stock returns, analyst coverage, residual coverage after size controls, six-month momentum portfolios, size and coverage double-sorts, loser-side momentum tests, beta/turnover/industry robustness checks, and Fama–MacBeth regressions to study gradual information diffusion, showing that momentum profits are stronger for small and low-analyst-coverage stocks, especially past losers, consistent with bad firm-specific news diffusing slowly and prices underreacting where information flow is weaker."
+
 - title: "Farhi, Lerner & Tirole (RAND Journal of Economics, 2013) - Fear of Rejection? Tiered Certification and Transparency"
   file: "Farhi_Lerner_Tirole_RANDJE_2013.pdf"
   desc: "This note summarizes the paper, which develops a theory of tiered certification using high- and low-tier certifiers, opaque versus transparent rejections, seller application strategies, buyer beliefs, stigma from prior rejection, certifier market power, heterogeneous sellers, and multitier grading to study certification design, showing that rejection opacity can arise even in competitive markets because sellers dislike disclosed failure and lower-tier certification becomes stigmatized, while transparency can improve seller welfare but may reduce buyer information by discouraging high-tier screening."
