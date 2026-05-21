@@ -1,3 +1,7 @@
+- title: "Di Maggio & Yao (RFS, 2021) - Fintech Borrowers: Lax Screening or Cream-Skimming?"
+  file: "DiMaggio_Yao_RFS_2021.pdf"
+  desc: "This note summarizes the paper, which uses proprietary credit-bureau data, lender-name identification, fintech versus non-fintech personal loans, borrower credit histories, loan terms, matching methods, borrower fixed effects, dynamic balance-sheet outcomes, and delinquency regressions to study fintech lending, showing that fintech lenders rely heavily on hard credit information, initially serve riskier borrowers before moving toward safer ones, and make loans that default more than comparable traditional loans, while borrowers initially consolidate debt but later rebuild debt and increase consumption."
+
 - title: "Pastor, Stambaugh & Taylor (JFE, 2015) - Scale and skill in active management"
   file: "Pastor_Stambaugh_Taylor_JFE_2015.pdf"
   desc: "This note summarizes the paper, which uses CRSP–Morningstar active domestic equity mutual fund data, benchmark-adjusted gross returns, fund size, industry size, recursive demeaning, fund-age tests, skill estimates, and strategy-capacity heterogeneity to study scale and skill in active management, showing that active management faces strong industry-level decreasing returns because growing industry assets crowd finite alpha opportunities, so measured skill rises over time but realized performance does not improve as industry scale offsets increasing managerial ability."
