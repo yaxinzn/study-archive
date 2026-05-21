@@ -1,3 +1,7 @@
+- title: "Welch (JF, 1992) - Sequential Sales, Learning, and Cascades"
+  file: "Welch_JF_1992.pdf"
+  desc: "This note summarizes the paper, which develops a sequential IPO sales model using fixed offer prices, private investor signals, path-dependent selling, action-based learning, informational cascades, issuer underpricing, offering failure, inside information, and underwriter control of investor communication to study IPO demand formation, showing that later investors may ignore their own signals after observing early purchase decisions, so underpriced offerings can fail, overpriced offerings can succeed, and issuers may optimally underprice to start a favorable cascade and avoid demand collapse."
+
 - title: "Avery & Zemsky (AER, 1998) - Multidimensional Uncertainty and Herd Behavior in Financial Markets"
   file: "Avery_Zemsky_AER_1998.pdf"
   desc: "This note summarizes the paper, which develops a sequential trading model with endogenous bid–ask prices, informed and noise traders, Bayesian market makers, value uncertainty, event uncertainty, composition uncertainty, herd behavior, and simulated price paths to study rational herding in financial markets, showing that price adjustment prevents true informational cascades under one-dimensional uncertainty, but multidimensional uncertainty can generate rational herding, short-run bubbles, crashes, and informative trading histories because a single price cannot immediately summarize event occurrence, value direction, and trader quality."
