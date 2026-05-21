@@ -711,6 +711,19 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 .reading-game-answer-row a{
   overflow-wrap:anywhere;
 }
+.reading-game-answer-row.is-long{
+  grid-template-columns:1fr;
+  gap:3px;
+  margin-top:9px;
+}
+.reading-game-answer-row.is-long span{
+  display:block;
+  padding:9px 10px;
+  border:1px solid rgba(0,0,0,.06);
+  border-radius:10px;
+  background:rgba(15,61,46,.025);
+  line-height:1.58;
+}
 .reading-game-controls{
   display:flex;
   flex-wrap:wrap;
@@ -1004,7 +1017,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
         <button class="reading-primary-btn" id="readingGameStart" type="button">Start</button>
       </div>
-      <p class="reading-game-mode-note" id="readingGameModeNote">Flashcards show the paper title first, then reveal the PDF, journal, year, and note.</p>
+      <p class="reading-game-mode-note" id="readingGameModeNote">Flashcards show the paper topic first, then reveal the full title, PDF, journal, year, authors, and full summary.</p>
     </div>
 
     <div class="reading-game-panel">
@@ -1021,7 +1034,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
         <div class="reading-game-options" id="readingGameOptions"></div>
 
         <div class="reading-game-answer" id="readingGameAnswer" hidden>
-          <div class="reading-game-answer-title">Answer</div>
+          <div class="reading-game-answer-title">Answer &amp; summary</div>
           <div id="readingGameAnswerRows"></div>
         </div>
 
@@ -1113,10 +1126,10 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   const maxGuideItems = 45;
 
   const gameModeText = {
-    flashcard: 'Flashcards show the paper title first, then reveal the PDF, journal, year, and note.',
-    title_pdf: 'Title → PDF asks users to identify the correct PDF file from multiple choices.',
-    note_title: 'Note → Paper asks users to match a quick-note excerpt to the right paper.',
-    journal_year: 'Journal & Year asks users to recall the journal code and publication year from the title.'
+    flashcard: 'Flashcards show only the paper topic first; the full title, PDF, journal, year, authors, and full summary appear after reveal.',
+    title_pdf: 'Title → PDF shows the paper topic only, then asks users to identify the correct PDF file.',
+    note_title: 'Note → Paper shows a quick-note excerpt and uses short paper topics as choices.',
+    journal_year: 'Journal & Year shows the paper topic only, then asks users to recall the journal code and publication year.'
   };
 
   let selectedPDFs = [];
@@ -1167,6 +1180,34 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     const value = (text || '').replace(/\s+/g, ' ').trim();
     if (value.length <= maxLength) return value;
     return value.slice(0, Math.max(0, maxLength - 1)).trim() + '…';
+  }
+
+  function practiceTitle(title){
+    const value = (title || '').replace(/\s+/g, ' ').trim();
+    if (!value) return '';
+
+    function tidyTopic(topic){
+      return (topic || '')
+        .replace(/^\s*[-–—:;|]+\s*/, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+    }
+
+    // Standard format: Authors (JOURNAL, YEAR) - Paper Topic
+    // Also handles missing separators: Authors (JOURNAL, YEAR) Paper Topic
+    const afterJournalYear = value.match(/\([^)]*(?:19|20)\d{2}[^)]*\)\s*(?:[-–—:;|]\s*)?(.+)$/);
+    if (afterJournalYear && tidyTopic(afterJournalYear[1])) return tidyTopic(afterJournalYear[1]);
+
+    // Fallback for entries that use a parenthetical marker without a year
+    // but still include a separator, for example: Authors (JOURNAL) - Topic.
+    const afterParenthesis = value.match(/\([^)]*\)\s*[-–—:;|]\s*(.+)$/);
+    if (afterParenthesis && tidyTopic(afterParenthesis[1])) return tidyTopic(afterParenthesis[1]);
+
+    // Final fallback: remove the author prefix before a spaced dash.
+    const dashParts = value.split(/\s+[-–—]\s+/);
+    if (dashParts.length > 1) return tidyTopic(dashParts.slice(1).join(' - '));
+
+    return value;
   }
 
   function parseInitialSet(value){
@@ -1285,6 +1326,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       author,
       authorDisplay,
       title,
+      shortTitle: practiceTitle(title),
       file,
       desc,
       href,
@@ -2028,11 +2070,15 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     return [item.journal || 'Unknown journal', item.year || 'Unknown year'].join(' · ');
   }
 
+  function displayPracticeTitle(item){
+    return item.shortTitle || item.title || item.file;
+  }
+
   function answerValue(item, mode){
     if (mode === 'title_pdf') return item.file;
-    if (mode === 'note_title') return item.title;
+    if (mode === 'note_title') return displayPracticeTitle(item);
     if (mode === 'journal_year') return gameTag(item);
-    return item.title;
+    return displayPracticeTitle(item);
   }
 
   function makeOptions(correctItem, mode){
@@ -2051,7 +2097,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     return shuffle([correctValue].concat(candidates));
   }
 
-  function addAnswerRow(label, content, isLink){
+  function addAnswerRow(label, content, isLink, isLong){
     if (!gameAnswerRows || !content) return;
 
     const row = document.createElement('div');
@@ -2059,6 +2105,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     const value = isLink ? document.createElement('a') : document.createElement('span');
 
     row.className = 'reading-game-answer-row';
+    if (isLong) row.classList.add('is-long');
     strong.textContent = label;
 
     if (isLink) {
@@ -2079,12 +2126,13 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     if (!gameAnswer || !gameAnswerRows) return;
 
     gameAnswerRows.innerHTML = '';
-    addAnswerRow('Title', item.title);
+    addAnswerRow('Practice title', displayPracticeTitle(item));
+    addAnswerRow('Full title', item.title, false, true);
     addAnswerRow('PDF', { text: item.file, href: item.href }, true);
     addAnswerRow('Journal', item.journal || 'Unknown');
     addAnswerRow('Year', item.year || 'Unknown');
     if (item.authorDisplay) addAnswerRow('Authors', item.authorDisplay);
-    if (item.desc) addAnswerRow('Note', excerpt(item.desc, 220));
+    if (item.desc) addAnswerRow('Summary', item.desc, false, true);
 
     gameAnswer.hidden = false;
   }
@@ -2180,11 +2228,11 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     if (gameQuestion) gameQuestion.classList.remove('is-note');
 
     if (mode === 'flashcard') {
-      if (gamePrompt) gamePrompt.textContent = 'Recall the paper details';
-      if (gameQuestion) gameQuestion.textContent = item.title;
+      if (gamePrompt) gamePrompt.textContent = 'Recall from the paper topic';
+      if (gameQuestion) gameQuestion.textContent = displayPracticeTitle(item);
     } else if (mode === 'title_pdf') {
       if (gamePrompt) gamePrompt.textContent = 'Choose the correct PDF';
-      if (gameQuestion) gameQuestion.textContent = item.title;
+      if (gameQuestion) gameQuestion.textContent = displayPracticeTitle(item);
       renderOptions(item, mode);
     } else if (mode === 'note_title') {
       if (gamePrompt) gamePrompt.textContent = 'Which paper matches this note?';
@@ -2195,7 +2243,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       renderOptions(item, mode);
     } else if (mode === 'journal_year') {
       if (gamePrompt) gamePrompt.textContent = 'Recall journal and year';
-      if (gameQuestion) gameQuestion.textContent = item.title;
+      if (gameQuestion) gameQuestion.textContent = displayPracticeTitle(item);
       renderOptions(item, mode);
     }
 
