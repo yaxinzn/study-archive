@@ -1,3 +1,7 @@
+- title: "Avery & Zemsky (AER, 1998) - Multidimensional Uncertainty and Herd Behavior in Financial Markets"
+  file: "Avery_Zemsky_AER_1998.pdf"
+  desc: "This note summarizes the paper, which develops a sequential trading model with endogenous bid–ask prices, informed and noise traders, Bayesian market makers, value uncertainty, event uncertainty, composition uncertainty, herd behavior, and simulated price paths to study rational herding in financial markets, showing that price adjustment prevents true informational cascades under one-dimensional uncertainty, but multidimensional uncertainty can generate rational herding, short-run bubbles, crashes, and informative trading histories because a single price cannot immediately summarize event occurrence, value direction, and trader quality."
+
 - title: "Chamley & Gale (Econometrica, 1994) - Information Revelation and Strategic Delay in a Model of Investment"
   file: "Chamley_Gale_Econometrica_1994.pdf"
   desc: "This note summarizes the paper, which develops an endogenous-timing investment model using private investment opportunities, public investment actions, Bayesian learning, option value of waiting, symmetric perfect Bayesian equilibrium, period length, large-player limits, and temporary subsidies to study strategic delay, showing that agents may wait for others to reveal information, causing inefficient delay or herd-like investment collapse even without direct payoff complementarities, because early investment creates a public information externality that private investors do not internalize."
