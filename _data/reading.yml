@@ -1,3 +1,7 @@
+- title: "Ellison & Fudenberg (QJE, 1995) - Word-of-Mouth Communication and Social Learning"
+  file: "Ellison_Fudenberg_QJE_1995.pdf"
+  desc: "This note summarizes the paper, which develops a boundedly rational model of word-of-mouth social learning using repeated choices between two technologies, random sampling of other agents, inertia, common and idiosyncratic payoff shocks, must-see constraints, endpoint dynamics, popularity weighting, and social memory to study conformity and diversity, showing that communication breadth determines whether society locks into one choice, sustains diversity, learns efficiently, or herds inefficiently, with limited word-of-mouth sometimes outperforming broader communication when common shocks make large samples misleading."
+
 - title: "Scharfstein & Stein (AER, 1990) - Herd Behavior and Investment"
   file: "Scharfstein_Stein_AER_1990.pdf"
   desc: "This note summarizes the paper, which develops a rational herding model using sequential managers, smart versus dumb types, correlated private signals, labor-market reputation, Bayesian updating, investment decisions, and reputational payoffs to study herd behavior, showing that career-concerned managers may ignore useful private information and mimic earlier managers because disagreement is interpreted as evidence of low ability, so private signals are suppressed, information aggregation fails, and conventional mistakes can be individually safer than unconventional dissent."
