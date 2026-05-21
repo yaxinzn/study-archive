@@ -1,3 +1,7 @@
+- title: "Radner (Econometrica, 1993) - The Organization of Decentralized Information Processing"
+  file: "Radner_Econometrica_1993.pdf"
+  desc: "This note summarizes the paper, which develops a computational theory of organizational design using bounded processors, information items, networks, ranked trees, delay, processor counts, one-shot aggregation, systolic processing, balanced hierarchies, preprocessing/tree networks, and efficiency frontiers to study decentralized information processing, showing that hierarchy can be an efficient technology for aggregating information at scale, with organizational form shaped by the trade-off between managerial processing capacity and decision delay."
+
 - title: "Crawford & Sobel (Econometrica, 1982) - Strategic Information Transmission"
   file: "Crawford_Sobel_Econometrica_1982.pdf"
   desc: "This note summarizes the paper, which develops the canonical cheap-talk model using an informed Sender, an uninformed Receiver, costless unverifiable messages, biased preferences, Bayesian equilibrium communication rules, finite induced actions, partition equilibria, quadratic-uniform examples, and preference-alignment comparative statics to study strategic information transmission, showing that communication can be informative without commitment or signaling costs but only coarsely, with finer information transmission possible when Sender and Receiver preferences are more closely aligned."
