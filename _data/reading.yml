@@ -1,3 +1,7 @@
+- title: "Lerner & Tirole (AER, 2006) - A Model of Forum Shopping"
+  file: "Lerner_Tirole_AER_2006.pdf"
+  desc: "This note summarizes the paper, which uses CRSP/I/B/E/S stock returns, analyst coverage, residual coverage after size controls, six-month momentum portfolios, size and coverage double-sorts, loser-versus-winner asymmetry, beta/turnover/industry robustness checks, and Fama–MacBeth regressions to study gradual information diffusion, showing that momentum profits are stronger among small and low-analyst-coverage stocks, especially past losers, consistent with the idea that bad firm-specific news travels slowly and prices underreact when information diffuses less widely."
+
 - title: "Womack (JF, 1996) - Do Brokerage Analysts’ Recommendations Have Investment Value?"
   file: "Womack_JF_1996.pdf"
   desc: "This note summarizes the paper, which uses First Call brokerage recommendation-change dates, added-to-buy, removed-from-buy, added-to-sell, and removed-from-sell events, event-window returns, post-event drift, size-, industry-, and Fama–French-adjusted returns, randomization tests, and stock-versus-industry decompositions to study analyst investment value, showing that recommendation changes move prices immediately but not fully, with especially strong and persistent negative drift after rare sell recommendations, implying that brokerage analysts convey valuable information and markets underreact to analyst news."
