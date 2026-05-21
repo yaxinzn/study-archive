@@ -1,3 +1,7 @@
+- title: "Barberis, Boycko, Shleifer, and Tsukanova (JPE, 1996) - How Does Privatization Work? Evidence from the Russian Shops"
+  file: "Barberis_Boycko_Shleifer_Tsukanova_JPE_1996.pdf"
+  desc: "This note summarizes the paper, which uses a survey of privatized Russian retail shops, restructuring outcomes, ownership changes, management layoffs, managerial and outside ownership shares, privatization-method instruments, and 2SLS tests to study how privatization works, showing that restructuring is driven mainly by new owners and new managers with market-oriented human capital rather than by equity incentives for old managers, implying that effective privatization requires reallocating control to new people, not merely giving residual claims to existing insiders."
+
 - title: "Lerner & Tirole (AER, 2006) - A Model of Forum Shopping"
   file: "Lerner_Tirole_AER_2006.pdf"
   desc: "This note summarizes the paper, which uses CRSP/I/B/E/S stock returns, analyst coverage, residual coverage after size controls, six-month momentum portfolios, size and coverage double-sorts, loser-versus-winner asymmetry, beta/turnover/industry robustness checks, and Fama–MacBeth regressions to study gradual information diffusion, showing that momentum profits are stronger among small and low-analyst-coverage stocks, especially past losers, consistent with the idea that bad firm-specific news travels slowly and prices underreact when information diffuses less widely."
