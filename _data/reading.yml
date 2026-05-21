@@ -1,3 +1,7 @@
+- title: "Diamond (JPE, 1991) - Monitoring and Reputation: The Choice between Bank Loans and Directly Placed Debt"
+  file: "Diamond_JPE_1991.pdf"
+  desc: "This note summarizes the paper, which develops a theory of bank loans versus directly placed debt using borrower reputation, private borrower types, moral-hazard project choice, costly bank monitoring, public beliefs, credit-quality regions, screening, and direct-debt access to study financing choice, showing that high-reputation borrowers can borrow directly without monitoring, middle-rated borrowers use bank loans because monitoring provides marginal incentive value, and low-rated borrowers may be screened or rationed, with firms potentially graduating from bank debt to public debt as repayment history builds reputation."
+
 - title: "Radner (Econometrica, 1993) - The Organization of Decentralized Information Processing"
   file: "Radner_Econometrica_1993.pdf"
   desc: "This note summarizes the paper, which develops a computational theory of organizational design using bounded processors, information items, networks, ranked trees, delay, processor counts, one-shot aggregation, systolic processing, balanced hierarchies, preprocessing/tree networks, and efficiency frontiers to study decentralized information processing, showing that hierarchy can be an efficient technology for aggregating information at scale, with organizational form shaped by the trade-off between managerial processing capacity and decision delay."
