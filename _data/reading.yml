@@ -1,3 +1,7 @@
+- title: "Howell (AER, 2017) - Financing Innovation: Evidence from R&D Grants"
+  file: "Howell_AER_2017.pdf"
+  desc: "This note summarizes the paper, which uses DOE SBIR ranked application data, Phase 1 grant cutoffs, a sharp regression discontinuity design, cite-weighted patents, venture capital, revenue, survival, exits, Phase 2 comparisons, heterogeneity tests, and placebo cutoffs to study early-stage R&D financing, showing that small proof-of-concept grants causally increase innovation, private VC financing, commercialization, survival, and successful exits by relaxing financing frictions and helping startups prototype technologies rather than merely certifying quality."
+
 - title: "Kerr & Nanda (JFE, 2009) - Democratizing Entry: Banking Deregulations, Financing Constraints, and Entrepreneurship"
   file: "Kerr_Nanda_JFE_2009.pdf"
   desc: "This note summarizes the paper, which uses staggered U.S. intrastate and interstate branch banking deregulations, Census Longitudinal Business Database establishment data, new single-unit start-ups, facility expansions, churning and long-term entry, exit, entrant size, and concentration tests to study finance and entrepreneurship, showing that interstate banking deregulation increased entrepreneurial entry mainly by enabling more small start-ups to experiment, with many short-lived failures, implying that financial development democratizes entry through market experimentation rather than perfect ex ante selection."
