@@ -1,3 +1,7 @@
+- title: "Xia (JFE, 2014) - Can investor-paid credit rating agencies improve the information quality of issuer-paid rating agencies?"
+  file: "Xia_JFE_2014.pdf"
+  desc: "This note summarizes the paper, which uses Egan-Jones investor-paid rating coverage events, S&P issuer-paid ratings, Merton/KMV expected default probabilities, rating-responsiveness regressions, downgrade announcement returns, IV tests, falsification tests, propensity-score matching, and lower-versus-higher EJR rating splits to study credit-rating competition, showing that investor-paid rating coverage disciplines issuer-paid incumbents by making S&P ratings more responsive to credit risk, more informative to markets, and more conservative, especially when EJR exposes possible S&P overrating."
+
 - title: "Hong, Lim & Stein (JF, 2000) - Bad News Travels Slowly: Size, Analyst Coverage, and the Profitability of Momentum Strategies"
   file: "Hong_Lim_Stein_JF_2000.pdf"
   desc: "This note summarizes the paper, which uses CRSP/I/B/E/S stock returns, analyst coverage, residual coverage after size controls, six-month momentum portfolios, size and coverage double-sorts, loser-side momentum tests, beta/turnover/industry robustness checks, and Fama–MacBeth regressions to study gradual information diffusion, showing that momentum profits are stronger for small and low-analyst-coverage stocks, especially past losers, consistent with bad firm-specific news diffusing slowly and prices underreacting where information flow is weaker."
