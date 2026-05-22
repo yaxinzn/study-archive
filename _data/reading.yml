@@ -1,3 +1,7 @@
+- title: "Sørensen (JF, 2007) - How Smart Is Smart Money? A Two-Sided Matching Model of Venture Capital"
+  file: "Sorensen_JF_2007.pdf"
+  desc: "This note summarizes the paper, which uses VentureXpert first-round VC investments, investor experience, IPO outcomes, market definitions, feasible VC-company matches, probit benchmarks, and a structural two-sided matching model to study “smart money,” showing that experienced VCs both add value and sort into better companies, but sorting/access to higher-quality deals explains almost twice as much of the raw IPO-rate advantage as direct VC influence."
+
 - title: "Brogaard, Engelberg & Parsons (JFE, 2014) - Networks and productivity: Causal evidence from editor rotations"
   file: "Brogaard_Engelberg_Parsons_JFE_2014.pdf"
   desc: "This note summarizes the paper, which uses editor rotations at 30 leading economics and finance journals, school–journal–year publication counts, editor-author colleague and coauthor connections, false-match timing tests, citation-quality regressions, placement evidence, competing-journal tests, and a network-information model to study professional networks, showing that connected authors publish more during an editor’s tenure but their papers receive more citations, supporting an informed-selection channel rather than simple favoritism or productivity spillovers."
