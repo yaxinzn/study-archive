@@ -1,3 +1,7 @@
+- title: "Khorana, Servaes & Wedge (JFE, 2007) - Portfolio Manager Ownership and Fund Performance"
+  file: "Khorana_Servaes_Wedge_JFE_2007.pdf"
+  desc: "This note summarizes the paper, which uses newly required SEC disclosures of portfolio-manager ownership, fund-level ownership scaled by assets, objective-adjusted returns, four-factor alphas, governance controls, manager fixed effects, and predicted/residual ownership decompositions to study delegated portfolio management, showing that managers with more personal capital invested in their own funds deliver better subsequent performance, while board governance variables are weaker predictors, implying that “skin in the game” is useful to investors as either an incentive-alignment mechanism or a signal of manager private information."
+
 - title: "Xia (JFE, 2014) - Can investor-paid credit rating agencies improve the information quality of issuer-paid rating agencies?"
   file: "Xia_JFE_2014.pdf"
   desc: "This note summarizes the paper, which uses Egan-Jones investor-paid rating coverage events, S&P issuer-paid ratings, Merton/KMV expected default probabilities, rating-responsiveness regressions, downgrade announcement returns, IV tests, falsification tests, propensity-score matching, and lower-versus-higher EJR rating splits to study credit-rating competition, showing that investor-paid rating coverage disciplines issuer-paid incumbents by making S&P ratings more responsive to credit risk, more informative to markets, and more conservative, especially when EJR exposes possible S&P overrating."
