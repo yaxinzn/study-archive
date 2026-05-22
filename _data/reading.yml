@@ -1,3 +1,7 @@
+- title: "Dyck, Morse & Zingales (JF, 2010) - Who Blows the Whistle on Corporate Fraud?"
+  file: "Dyck_Morse_Zingales_JF_2010.pdf"
+  desc: "This note summarizes the paper, which uses 216 large U.S. corporate fraud cases, detector-type coding, securities class-action data, event-study returns, conditional logit models, auditor/analyst/journalist career tests, employee whistleblower costs, health-care qui tam incentives, and SOX-era comparisons to study who reveals corporate fraud, showing that fraud detection is decentralized across employees, media, industry regulators, analysts, short sellers, and other actors, and that effective whistleblowing depends on both information access and incentives such as monetary rewards, career benefits, and retaliation protection."
+
 - title: "Jegadeesh, Kim, Krische & Lee (JF, 2004) - Analyzing the Analysts: When Do Recommendations Add Value?"
   file: "Jegadeesh_Kim_Krische_Lee_JF_2004.pdf"
   desc: "This note summarizes the paper, which uses Zacks analyst recommendations, consensus recommendation levels and changes, CRSP/I/B/E/S/Compustat data, 12 quantitative return predictors, QScore, rank correlations, portfolio sorts, multivariate return regressions, and cumulative hedge-return tests to study analyst value, showing that static recommendation levels are biased toward glamour stocks and add value mainly conditionally, while recommendation changes contain more robust incremental information beyond standard quantitative signals."
