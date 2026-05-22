@@ -1,3 +1,7 @@
+- title: "Kelly & Ljungqvist (RFS, 2012) - Testing Asymmetric-Information Asset Pricing Models"
+  file: "Kelly_Ljungqvist_RFS_2012.pdf"
+  desc: "This note summarizes the paper, which uses brokerage closures as exogenous shocks to analyst coverage, coverage-termination events, bid–ask spreads, Amihud illiquidity, abnormal returns, 13F institutional holdings, signal-precision tests, liquidity-risk loadings, and coverage-initiation reversals to test asymmetric-information asset-pricing models, showing that losing public analyst signals raises information asymmetry, lowers stock prices and retail demand, increases institutional ownership, and raises exposure to priced liquidity risk."
+
 - title: "Fuster, Goldsmith-Pinkham, Ramadorai & Walther (JF, 2022) - Predictably Unequal? The Effects of Machine Learning on Credit Markets"
   file: "Fuster_GoldsmithPinkham_Ramadorai_Walther_JF_2022.pdf"
   desc: "This note summarizes the paper, which uses matched HMDA–McDash mortgage data, borrower race and ethnicity, default outcomes, logit, nonlinear logit, calibrated Random Forest models, flexibility-versus-triangulation decompositions, and equilibrium pricing counterfactuals to study machine learning in credit markets, showing that better prediction spreads default-risk estimates and improves accuracy but creates unequal gains, with Black and White Hispanic borrowers less likely to benefit and Random Forest pricing increasing rate dispersion even as acceptance rises slightly."
