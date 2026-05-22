@@ -1,3 +1,7 @@
+- title: "Comin, Lashkari & Mestieri (Econometrica, 2021) - Structural Change With Long-Run Income and Price Effects"
+  file: "Comin_Lashkari_Mestieri_Econometrica_2021.pdf"
+  desc: "This note summarizes the paper, which develops a nonhomothetic CES demand system and uses U.S. CEX data, Indian NSS data, cross-country sectoral panels, relative prices, real consumption indexes, income-elasticity estimates, and variance decompositions to study structural transformation, showing that agriculture is a necessity, services are a luxury, manufacturing is intermediate, and long-run income effects explain most within-country reallocation across sectors, dominating relative-price effects in structural change."
+
 - title: "Sørensen (JF, 2007) - How Smart Is Smart Money? A Two-Sided Matching Model of Venture Capital"
   file: "Sorensen_JF_2007.pdf"
   desc: "This note summarizes the paper, which uses VentureXpert first-round VC investments, investor experience, IPO outcomes, market definitions, feasible VC-company matches, probit benchmarks, and a structural two-sided matching model to study “smart money,” showing that experienced VCs both add value and sort into better companies, but sorting/access to higher-quality deals explains almost twice as much of the raw IPO-rate advantage as direct VC influence."
