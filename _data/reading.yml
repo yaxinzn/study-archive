@@ -1,3 +1,7 @@
+- title: "Jegadeesh, Kim, Krische & Lee (JF, 2004) - Analyzing the Analysts: When Do Recommendations Add Value?"
+  file: "Jegadeesh_Kim_Krische_Lee_JF_2004.pdf"
+  desc: "This note summarizes the paper, which uses Zacks analyst recommendations, consensus recommendation levels and changes, CRSP/I/B/E/S/Compustat data, 12 quantitative return predictors, QScore, rank correlations, portfolio sorts, multivariate return regressions, and cumulative hedge-return tests to study analyst value, showing that static recommendation levels are biased toward glamour stocks and add value mainly conditionally, while recommendation changes contain more robust incremental information beyond standard quantitative signals."
+
 - title: "Carter & Manaster (JF, 1990) - Initial Public Offerings and Underwriter Reputation"
   file: "Carter_Manaster_JF_1990.pdf"
   desc: "This note summarizes the paper, which develops a winner’s-curse model of IPO underpricing and uses 501 IPOs, tombstone-based Carter–Manaster underwriter reputation rankings, return-dispersion regressions, and market-adjusted IPO return regressions to study underwriter certification, showing that prestigious underwriters are associated with lower-dispersion issues and lower IPO price run-ups because reputation signals lower issuer uncertainty and reduces the underpricing needed to compensate uninformed investors."
