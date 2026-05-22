@@ -1,3 +1,7 @@
+- title: "Shleifer & Vishny (QJE, 1994) - Politicians and Firms"
+  file: "Shleifer_Vishny_QJE_1994.pdf"
+  desc: "This note summarizes the paper, which develops a theory of state-owned and privatized firms using politicians, managers, control rights, cash-flow rights, subsidies, bribes, bargaining threat points, and a decency constraint to study enterprise inefficiency, showing that ownership matters only when corruption and subsidies are constrained, because privatization improves restructuring when private cash-flow owners and managerial control make political overemployment harder to sustain, especially for potentially profitable firms."
+
 - title: "Kelly & Ljungqvist (RFS, 2012) - Testing Asymmetric-Information Asset Pricing Models"
   file: "Kelly_Ljungqvist_RFS_2012.pdf"
   desc: "This note summarizes the paper, which uses brokerage closures as exogenous shocks to analyst coverage, coverage-termination events, bid–ask spreads, Amihud illiquidity, abnormal returns, 13F institutional holdings, signal-precision tests, liquidity-risk loadings, and coverage-initiation reversals to test asymmetric-information asset-pricing models, showing that losing public analyst signals raises information asymmetry, lowers stock prices and retail demand, increases institutional ownership, and raises exposure to priced liquidity risk."
