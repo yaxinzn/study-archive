@@ -1,3 +1,7 @@
+- title: "Kaplan & Strömberg (RES, 2003) - Financial Contracting Theory Meets the Real World: An Empirical Analysis of Venture Capital Contracts"
+  file: "Kaplan_Stromberg_RES_2003.pdf"
+  desc: "This note summarizes the paper, which uses 213 real VC financing contracts from 119 portfolio companies, cash-flow rights, board and voting control, liquidation and redemption rights, conversion terms, vesting, staging, milestone contingencies, cluster analysis, and round-by-round contract evolution to test financial-contracting theory, showing that VC contracts are multidimensional governance systems that allocate incentives, control, downside protection, and future bargaining power state-contingently, with stronger VC control and liquidation rights in bad states and later financing rounds."
+
 - title: "Gompers (JF, 1995) - Optimal Investment, Monitoring, and the Staging of Venture Capital"
   file: "Gompers_JF_1995.pdf"
   desc: "This note summarizes the paper, which uses a random Venture Economics sample of 794 venture-backed firms and 2,143 financing rounds, financing duration, round size, firm stage, industry tangibility, market-to-book, R&D intensity, VC commitments, and exit outcomes to study staged venture capital financing, showing that VCs use shorter and smaller financing rounds when agency costs and uncertainty are higher, preserving monitoring rights and abandonment options while allocating more capital over time to firms that pass repeated information screens."
