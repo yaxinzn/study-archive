@@ -1,3 +1,7 @@
+- title: "Hsu (JF, 2004) - What Do Entrepreneurs Pay for Venture Capital Affiliation?"
+  file: "Hsu_JF_2004.pdf"
+  desc: "This note summarizes the paper, which uses a rare MIT survey of start-ups with multiple Series A financing offers, start-up fixed effects, offer acceptance regressions, relative pre-money valuations, VC industry deal experience, reputation rankings, network resources, and selection-correction tests to study the price of VC affiliation, showing that entrepreneurs are more likely to accept offers from reputable VCs even at lower valuations, effectively paying a 10–14% valuation discount for certification, networks, and value-added services."
+
 - title: "Kaplan & Strömberg (RES, 2003) - Financial Contracting Theory Meets the Real World: An Empirical Analysis of Venture Capital Contracts"
   file: "Kaplan_Stromberg_RES_2003.pdf"
   desc: "This note summarizes the paper, which uses 213 real VC financing contracts from 119 portfolio companies, cash-flow rights, board and voting control, liquidation and redemption rights, conversion terms, vesting, staging, milestone contingencies, cluster analysis, and round-by-round contract evolution to test financial-contracting theory, showing that VC contracts are multidimensional governance systems that allocate incentives, control, downside protection, and future bargaining power state-contingently, with stronger VC control and liquidation rights in bad states and later financing rounds."
