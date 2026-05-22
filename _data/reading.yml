@@ -1,3 +1,7 @@
+- title: "Gompers (JF, 1995) - Optimal Investment, Monitoring, and the Staging of Venture Capital"
+  file: "Gompers_JF_1995.pdf"
+  desc: "This note summarizes the paper, which uses a random Venture Economics sample of 794 venture-backed firms and 2,143 financing rounds, financing duration, round size, firm stage, industry tangibility, market-to-book, R&D intensity, VC commitments, and exit outcomes to study staged venture capital financing, showing that VCs use shorter and smaller financing rounds when agency costs and uncertainty are higher, preserving monitoring rights and abandonment options while allocating more capital over time to firms that pass repeated information screens."
+
 - title: "Efing, Goldbach & Nitsch (RFS, 2023) - Freeze! Financial Sanctions and Bank Responses"
   file: "Efing_Goldbach_Nitsch_RFS_2023.pdf"
   desc: "This note summarizes the paper, which uses Bundesbank external-position data, EU/UN financial sanction events, German banks’ domestic and foreign affiliate lending, host-country sanction enactment, FATF enforcement proxies, branch-versus-subsidiary legal form, and difference-in-differences designs to study bank responses to sanctions, showing that sanctions reduce lending from banks in Germany but redirect activity toward foreign affiliates in weaker-enforcement jurisdictions, implying that effective sanctions require consistent enforcement capacity rather than formal legal adoption alone."
