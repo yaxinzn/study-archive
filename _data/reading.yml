@@ -1,3 +1,7 @@
+- title: "Carter & Manaster (JF, 1990) - Initial Public Offerings and Underwriter Reputation"
+  file: "Carter_Manaster_JF_1990.pdf"
+  desc: "This note summarizes the paper, which develops a winner’s-curse model of IPO underpricing and uses 501 IPOs, tombstone-based Carter–Manaster underwriter reputation rankings, return-dispersion regressions, and market-adjusted IPO return regressions to study underwriter certification, showing that prestigious underwriters are associated with lower-dispersion issues and lower IPO price run-ups because reputation signals lower issuer uncertainty and reduces the underpricing needed to compensate uninformed investors."
+
 - title: "Daines, Gow & Larcker (JFE, 2010) - Rating the Ratings: How Good Are Commercial Governance Ratings?"
   file: "Daines_Gow_Larcker_JFE_2010.pdf"
   desc: "This note summarizes the paper, which evaluates commercial governance ratings from RiskMetrics/ISS CGQ, GMI, The Corporate Library, and Audit Integrity AGR using future restatements, lawsuits, ROA, Tobin’s Q, stock returns, credit ratings, ISS recommendations, and shareholder votes to test whether these products measure governance quality, showing that broad governance ratings are weakly correlated and have limited, inconsistent predictive power, while AGR performs better mainly because it captures accounting-risk outputs rather than general governance inputs."
