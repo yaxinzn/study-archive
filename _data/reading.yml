@@ -1,3 +1,7 @@
+- title: "Becker & Ivashina (JF, 2015) - Reaching for Yield in the Bond Market"
+  file: "Becker_Ivashina_JF_2015.pdf"
+  desc: "This note summarizes the paper, which uses eMAXX institutional bond holdings, NAIC rating-based capital categories, Mergent FISD bond characteristics, yield spreads, CDS spreads, TRACE trading and returns, insurer capital surplus, governance measures, and downgrade/performance tests to study reaching for yield, showing that insurers overweight higher-yield and higher-CDS bonds within the same regulatory rating bucket, especially in boom periods, and that this hidden risk-taking is linked to weaker capital/governance incentives, worse crisis performance, and more downgrades rather than superior bond selection."
+
 - title: "George & Waldfogel (JPE, 2003) - Who Affects Whom in Daily Newspaper Markets?"
   file: "George_Waldfogel_JPE_2003.pdf"
   desc: "This note summarizes the paper, which uses zip-code newspaper circulation, MSA demographic composition, race/Hispanic/education/income/age group shares, newspaper staffing/content measures, and two-newspaper market comparisons to study preference externalities in differentiated-product markets, showing that consumers are more likely to buy newspapers when their own preference group is larger in the market because firms position content toward larger groups, especially along race and Hispanic-status dimensions."
