@@ -1,3 +1,7 @@
+- title: "Sweeting (Econometrica, 2013) - Dynamic Product Positioning in Differentiated Product Markets: The Effect of Fees for Musical Performance Rights on the Commercial Radio Industry"
+  file: "Sweeting_Econometrica_2013.pdf"
+  desc: "This note summarizes the paper, which uses data from 102 local radio markets, station formats, demographic listening shares, advertising revenues, listener demand estimates, revenue functions, repositioning costs, multi-station ownership, and a dynamic oligopoly model with value-function approximation to study radio product positioning, showing that performance-rights fees would gradually reduce music-station variety because stations trade off fee avoidance against listener losses, advertiser-valued demographics, and costly format switching."
+
 - title: "Handel (AER, 2013) - Adverse Selection and Inertia in Health Insurance Markets: When Nudging Hurts"
   file: "Handel_AER_2013.pdf"
   desc: "This note summarizes the paper, which uses a large-employer health insurance redesign, forced active choice, passive default renewal, PPO plan choices, claims-based health-risk distributions, dominated-plan evidence, adverse-selection cost patterns, a structural choice model with risk aversion and inertia, and endogenous premium counterfactuals to study nudges in insurance markets, showing that reducing inertia can improve individual choices at fixed prices but lower equilibrium welfare by intensifying adverse selection and causing premiums to reprice against comprehensive coverage."
