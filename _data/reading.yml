@@ -1,3 +1,7 @@
+- title: "Goeree (Econometrica, 2008) - Limited Information and Advertising in the U.S. Personal Computer Industry"
+  file: "Goeree_Econometrica_2008.pdf"
+  desc: "This note summarizes the paper, which develops a limited-information random-coefficients demand model using U.S. personal computer sales, prices, advertising by media channel, product characteristics, Simmons micro data on demographics and media exposure, stochastic consumer choice sets, and pricing/advertising first-order conditions to study demand and market power, showing that advertising informs consumers about products, limited awareness weakens substitution, and full-information models substantially understate markups by making the PC market appear more competitive than it is."
+
 - title: "Sorensen (JPE, 2000) - Equilibrium Price Dispersion in Retail Markets for Prescription Drugs"
   file: "Sorensen_JPE_2000.pdf"
   desc: "This note summarizes the paper, which uses posted cash prices for identical prescription drugs in two local New York markets, purchase frequency as a proxy for consumer search incentives, price-range and standard-deviation measures, residual dispersion after pharmacy fixed effects, margin estimates, and pharmacy-ranking decompositions to study equilibrium price dispersion, showing that repeatedly purchased drugs have lower price dispersion and lower margins because consumers search more when price information can be reused, supporting costly-search explanations of retail price dispersion."
