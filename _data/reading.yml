@@ -1,3 +1,7 @@
+- title: "Ellison & Ellison (Econometrica, 2009) - Search, Obfuscation, and Price Elasticities on the Internet"
+  file: "Ellison_Ellison_Econometrica_2009.pdf"
+  desc: "This note summarizes the paper, which uses Pricewatch search-engine rankings, online memory-module prices, actual sales and cost data from one retailer, product-quality tiers, rank-based demand estimates, conditional site-choice tests, IV checks, and markup comparisons to study Internet search and obfuscation, showing that online price search creates extreme price sensitivity for advertised low-quality products, but firms preserve markups by using low-price loss leaders, upgrades, add-ons, and opaque quality/contract terms that make full price-quality comparison difficult."
+
 - title: "Duflo (AER, 2001) - Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment"
   file: "Duflo_AER_2001.pdf"
   desc: "This note summarizes the paper, which uses Indonesia’s massive INPRES primary-school construction program, district-level program intensity, cohort exposure by age in 1974, SUPAS education and wage data, region-of-birth and year-of-birth fixed effects, placebo older cohorts, and IV returns-to-schooling estimates to study education infrastructure, showing that school construction raised schooling and later wages for exposed cohorts, with implied returns to education of about 6.8–10.6% and positive social returns under many assumptions."
