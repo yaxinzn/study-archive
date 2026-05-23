@@ -1,3 +1,7 @@
+- title: "Sorensen (JPE, 2000) - Equilibrium Price Dispersion in Retail Markets for Prescription Drugs"
+  file: "Sorensen_JPE_2000.pdf"
+  desc: "This note summarizes the paper, which uses posted cash prices for identical prescription drugs in two local New York markets, purchase frequency as a proxy for consumer search incentives, price-range and standard-deviation measures, residual dispersion after pharmacy fixed effects, margin estimates, and pharmacy-ranking decompositions to study equilibrium price dispersion, showing that repeatedly purchased drugs have lower price dispersion and lower margins because consumers search more when price information can be reused, supporting costly-search explanations of retail price dispersion."
+
 - title: "Kamenica & Gentzkow (AER, 2011) - Bayesian Persuasion"
   file: "Kamenica_Gentzkow_AER_2011.pdf"
   desc: "This note summarizes the paper, which develops the canonical Bayesian persuasion framework using sender commitment to information structures, receiver Bayesian updating, Bayes-plausible posterior distributions, indirect sender payoffs, concave closure, optimal posterior splitting, and applications such as prosecution, lobbying, and advertising to study strategic information design, showing that rational receivers can still be persuaded because Bayes’ rule fixes the average posterior but allows the sender to choose a distribution of beliefs that moves receivers across nonlinear action thresholds."
