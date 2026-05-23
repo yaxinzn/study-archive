@@ -1,3 +1,7 @@
+- title: "Strömberg (QJE, 2004) - Radio’s Impact on Public Spending"
+  file: "Stromberg_QJE_2004.pdf"
+  desc: "This note summarizes the paper, which uses New Deal FERA county-level relief spending, 1930 radio ownership, voter turnout, political competitiveness, socioeconomic controls, and AM-radio reception instruments based on ground conductivity and woodland share to study media and redistribution, showing that counties with greater radio penetration received more public relief because informed voters were more electorally valuable, with radio affecting spending mainly through information/accountability rather than turnout alone."
+
 - title: "Copeland, Martin, and Walker (JF, 2014) - Repo Runs: Evidence from the Tri-Party Repo Market"
   file: "Copeland_Martin_Walker_JF_2014.pdf"
   desc: "This note summarizes the paper, which uses confidential daily tri-party repo data, collateral-class margins, dealer-investor relationships, collateral quantities, Lehman Brothers’ funding dynamics, CDS regressions, and comparisons with bilateral repo to study repo runs during the financial crisis, showing that the tri-party repo market did not experience a system-wide margin run: margins were mostly stable, quantities declined gradually, and the main run-like event was Lehman’s concentrated quantity collapse rather than a broad haircut spiral."
