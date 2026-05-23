@@ -1,3 +1,7 @@
+- title: "Copeland, Martin, and Walker (JF, 2014) - Repo Runs: Evidence from the Tri-Party Repo Market"
+  file: "Copeland_Martin_Walker_JF_2014.pdf"
+  desc: "This note summarizes the paper, which uses confidential daily tri-party repo data, collateral-class margins, dealer-investor relationships, collateral quantities, Lehman Brothers’ funding dynamics, CDS regressions, and comparisons with bilateral repo to study repo runs during the financial crisis, showing that the tri-party repo market did not experience a system-wide margin run: margins were mostly stable, quantities declined gradually, and the main run-like event was Lehman’s concentrated quantity collapse rather than a broad haircut spiral."
+
 - title: "Milgrom & Roberts (JPE, 1986) - Price and Advertising Signals of Product Qualitya"
   file: "Milgrom_Roberts_JPE_1986.pdf"
   desc: "This note summarizes the paper, which develops a multi-signal theory of experience-good quality using hidden product quality, introductory prices, dissipative advertising, repeat purchases, separating equilibria, dominated-strategy refinements, and a Kreps-style intuitive criterion to study quality signaling, showing that uninformative advertising can credibly signal high quality only when price alone is an insufficient or more costly signal, so advertising may improve welfare by reducing the need for more distorted introductory prices."
