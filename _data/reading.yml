@@ -1,3 +1,7 @@
+- title: "Nevo (Econometrica, 2001) - Measuring Market Power in the Ready-to-Eat Cereal Industry"
+  file: "Nevo_Econometrica_2001.pdf"
+  desc: "This note summarizes the paper, which uses IRI scanner data on ready-to-eat cereal brands, city-quarter price and share variation, random-coefficients discrete-choice demand, demographic heterogeneity, brand fixed effects, other-city price instruments, and Nash-Bertrand supply counterfactuals to study cereal market power, showing that high observed margins can be explained largely by product differentiation and multiproduct portfolio pricing rather than full collusion, because current ownership predicts margins close to accounting benchmarks while joint ownership implies much higher margins."
+
 - title: "Bernstein, Korteweg & Laws (JF, 2017) - Attracting Early-Stage Investors: Evidence from a Randomized Field Experiment"
   file: "Bernstein_Korteweg_Laws_JF_2017.pdf"
   desc: "This note summarizes the paper, which uses a randomized AngelList field experiment, real featured start-up emails, randomized disclosure of team, traction, and current-investor information, opened-email click-through outcomes, start-up fixed effects, and investor heterogeneity tests to study early-stage investor screening, showing that investors respond most strongly to founding-team information, while traction and current-investor disclosures have weaker randomized effects, implying that human capital is a central causal asset in attracting early-stage financing attention."
