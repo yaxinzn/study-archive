@@ -1,3 +1,7 @@
+- title: "Dessein (RES, 2002) - Authority and Communication in Organizations"
+  file: "Dessein_RES_2002.pdf"
+  desc: "This note summarizes the paper, which develops a theory of organizational authority using an informed but biased agent, an uninformed principal, soft information, cheap-talk communication, delegation, Crawford–Sobel partitions, intermediary delegation, and veto rights to study decentralization, showing that delegation can dominate communication because it preserves the agent’s local information while cheap talk strategically garbles it, so authority should be delegated when the agent’s bias is small relative to the principal’s uncertainty."
+
 - title: "Goeree (Econometrica, 2008) - Limited Information and Advertising in the U.S. Personal Computer Industry"
   file: "Goeree_Econometrica_2008.pdf"
   desc: "This note summarizes the paper, which develops a limited-information random-coefficients demand model using U.S. personal computer sales, prices, advertising by media channel, product characteristics, Simmons micro data on demographics and media exposure, stochastic consumer choice sets, and pricing/advertising first-order conditions to study demand and market power, showing that advertising informs consumers about products, limited awareness weakens substitution, and full-information models substantially understate markups by making the PC market appear more competitive than it is."
