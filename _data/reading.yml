@@ -1,3 +1,7 @@
+- title: "Gennaioli, Shleifer & Vishny (JFE, 2012) - Neglected Risks, Financial Innovation, and Financial Fragility"
+  file: "Gennaioli_Shleifer_Vishny_JFE_2012.pdf"
+  desc: "This note summarizes the paper, which develops a theory of financial innovation with preferred demand for safe assets, local thinking, neglected recession risk, engineered claims, belief revision, flight to safety, intermediary wealth limits, and production distortions to study financial fragility, showing that intermediaries can overissue securities that appear safe when investors neglect rare bad states, but once bad news makes those risks salient, the new claims collapse in value while traditional safe assets rise, generating fragility even without leverage or fire sales."
+
 - title: "Chernenko, Hanson & Sunderam (JFE, 2016) - Who Neglects Risk? Investor Experience and the Credit Boom"
   file: "Chernenko_Hanson_Sunderam_JFE_2016.pdf"
   desc: "This note summarizes the paper, which uses mutual fund fixed-income holdings, portfolio-manager experience, nontraditional securitization exposure, manager biographies, local house-price experiences, 1998 credit-market experience, institutional memory, CFA training, and crisis trading behavior to study risk neglect during the credit boom, showing that inexperienced managers bought more and riskier mortgage-linked securitizations because they lacked salient negative credit experiences, then sold more and suffered larger write-downs when the crisis revealed the neglected tail risk."
