@@ -1,3 +1,7 @@
+- title: "Handel (AER, 2013) - Adverse Selection and Inertia in Health Insurance Markets: When Nudging Hurts"
+  file: "Handel_AER_2013.pdf"
+  desc: "This note summarizes the paper, which uses a large-employer health insurance redesign, forced active choice, passive default renewal, PPO plan choices, claims-based health-risk distributions, dominated-plan evidence, adverse-selection cost patterns, a structural choice model with risk aversion and inertia, and endogenous premium counterfactuals to study nudges in insurance markets, showing that reducing inertia can improve individual choices at fixed prices but lower equilibrium welfare by intensifying adverse selection and causing premiums to reprice against comprehensive coverage."
+
 - title: "Dessein (RES, 2002) - Authority and Communication in Organizations"
   file: "Dessein_RES_2002.pdf"
   desc: "This note summarizes the paper, which develops a theory of organizational authority using an informed but biased agent, an uninformed principal, soft information, cheap-talk communication, delegation, Crawford–Sobel partitions, intermediary delegation, and veto rights to study decentralization, showing that delegation can dominate communication because it preserves the agent’s local information while cheap talk strategically garbles it, so authority should be delegated when the agent’s bias is small relative to the principal’s uncertainty."
