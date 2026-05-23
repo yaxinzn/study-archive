@@ -1,3 +1,7 @@
+- title: "Fuster & Vickery (RFS, 2015) - Securitization and the Fixed-Rate Mortgage"
+  file: "Fuster_Vickery_RFS_2015.pdf"
+  desc: "This note summarizes the paper, which uses loan-level mortgage data, conforming loan limits, jumbo versus conforming status, nonagency securitization freezes in 1999–2000 and 2007–2009, difference-in-differences, fuzzy regression discontinuity around appraisal thresholds, and jumbo-conforming rate spreads to study fixed-rate mortgage supply, showing that liquid securitization markets support long-term prepayable FRMs by letting lenders transfer duration and prepayment risk, while nonagency market freezes sharply reduce FRM availability for jumbo borrowers."
+
 - title: "Nadauld & Weisbach (JFE, 2012) - Did securitization affect the cost of corporate debt?"
   file: "Nadauld_Weisbach_JFE_2012.pdf"
   desc: "This note summarizes the paper, which uses Dealscan syndicated loan facilities, Moody’s CLO collateral data, Term Loan B structures, borrower ratings, securitization-active banks, all-in-drawn spreads, triple-interaction pricing tests, and within-loan facility comparisons to study CLO securitization, showing that securitization lowered corporate loan spreads by creating collateral demand, especially for B-rated Term Loan B facilities originated by CLO-active banks, where secondary-market demand fed back into cheaper primary-market credit."
