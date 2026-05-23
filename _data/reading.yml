@@ -1,3 +1,7 @@
+- title: "Mayzlin, Dover & Chevalier (AER, 2014) - Promotional Reviews: An Empirical Investigation of Online Review Manipulation"
+  file: "Mayzlin_Dover_Chevalier_AER_2014.pdf"
+  desc: "This note summarizes the paper, which uses matched TripAdvisor–Expedia hotel reviews, platform verification differences, STR hotel ownership and affiliation data, nearby-competitor measures, one-time reviewer behavior, and review-share regressions to study online review manipulation, showing that fake promotional reviewing varies systematically with incentives: independent/single-unit hotels appear more likely to generate positive TripAdvisor reviews, while hotels with nearby low-reputation-cost competitors receive more negative TripAdvisor reviews, especially on the less-verified platform."
+
 - title: "Bae, Stulz & Tan (JFE, 2008) - Do Local Analysts Know More? A Cross-Country Study of the Performance of Local Analysts and Foreign Analysts"
   file: "Bae_Stulz_Tan_JFE_2008.pdf"
   desc: "This note summarizes the paper, which uses non-U.S. I/B/E/S analyst forecasts, Nelson analyst-location data, S&P transparency scores, firm-year matched forecast accuracy, local/pure-local/expatriate/foreign analyst classifications, analyst fixed effects, switcher tests, disclosure interactions, and home-bias measures to study information geography, showing that local analysts forecast earnings more accurately than foreign analysts, especially in opaque firms and countries, implying that proximity and local information networks remain valuable in global equity markets."
