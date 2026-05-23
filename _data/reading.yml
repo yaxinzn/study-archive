@@ -1,3 +1,7 @@
+- title: "Milgrom & Roberts (JPE, 1986) - Price and Advertising Signals of Product Qualitya"
+  file: "Milgrom_Roberts_JPE_1986.pdf"
+  desc: "This note summarizes the paper, which develops a multi-signal theory of experience-good quality using hidden product quality, introductory prices, dissipative advertising, repeat purchases, separating equilibria, dominated-strategy refinements, and a Kreps-style intuitive criterion to study quality signaling, showing that uninformative advertising can credibly signal high quality only when price alone is an insufficient or more costly signal, so advertising may improve welfare by reducing the need for more distorted introductory prices."
+
 - title: "Brown & Goolsbee (JPE, 2002) - Does the Internet Make Markets More Competitive? Evidence from the Life Insurance Industry"
   file: "Brown_Goolsbee_JPE_2002.pdf"
   desc: "This note summarizes the paper, which uses LIMRA policy-level life-insurance transactions, Forrester Internet-adoption and online insurance-research measures, term-versus-whole-life product comparisons, hedonic price regressions, timing and product placebos, mortality controls, and price-dispersion tests to study Internet search, showing that online comparison sites reduced search costs and lowered term life insurance prices by about 8–15%, while producing the non-monotonic dispersion pattern predicted by search theory."
