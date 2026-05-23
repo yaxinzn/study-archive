@@ -1,3 +1,7 @@
+- title: "Fan (AER, 2013) - Ownership Consolidation and Product Characteristics: A Study of the US Daily Newspaper Market"
+  file: "Fan_AER_2013.pdf"
+  desc: "This note summarizes the paper, which uses U.S. daily newspaper data, overlapping circulation markets, reader and advertising demand, endogenous subscription prices, advertising rates, content quality, local news, variety, ownership, and partial-overlap demographic instruments to study newspaper consolidation, showing that mergers can raise prices while reducing quality, localness, and variety, so price-only merger simulations understate reader harm when firms can adjust product characteristics after ownership consolidation."
+
 - title: "Reuter & Zitzewitz (QJE, 2006) - Do Ads Influence Editors? Advertising and Bias in the Financial Media"
   file: "Reuter_Zitzewitz_QJE_2006.pdf"
   desc: "This note summarizes the paper, which uses hand-collected mutual fund mentions from financial media, CRSP mutual fund data, publication-specific advertising by fund families, fund characteristics, logit mention regressions, IV robustness, post-mention flow regressions, and future-return tests to study advertising bias, showing that own-publication advertising predicts positive fund mentions in personal finance magazines but not newspapers or Consumer Reports, and that these mentions attract large inflows without reliably predicting superior future returns."
