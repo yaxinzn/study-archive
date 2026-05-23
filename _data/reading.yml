@@ -1,3 +1,7 @@
+- title: "Duflo (AER, 2001) - Schooling and Labor Market Consequences of School Construction in Indonesia: Evidence from an Unusual Policy Experiment"
+  file: "Duflo_AER_2001.pdf"
+  desc: "This note summarizes the paper, which uses Indonesia’s massive INPRES primary-school construction program, district-level program intensity, cohort exposure by age in 1974, SUPAS education and wage data, region-of-birth and year-of-birth fixed effects, placebo older cohorts, and IV returns-to-schooling estimates to study education infrastructure, showing that school construction raised schooling and later wages for exposed cohorts, with implied returns to education of about 6.8–10.6% and positive social returns under many assumptions."
+
 - title: "Dranove, Kessler, McClellan, and Satterthwaite (JPE, 2003) - Is More Information Better? The Effects of “Report Cards” on Health Care Providers"
   file: "Dranove_Kessler_McClellan_Satterthwaite_JPE_2003.pdf"
   desc: "This note summarizes the paper, which uses Medicare claims for AMI and CABG patients, New York and Pennsylvania CABG report-card adoption, hospital severity measures, teaching-hospital matching tests, treatment timing, expenditures, readmissions, mortality, and difference-in-differences comparisons to study health-care report cards, showing that public quality disclosure can backfire because imperfect risk adjustment gives providers incentives to avoid high-risk patients, producing healthier CABG caseloads but worse outcomes and higher costs for the broader AMI population."
