@@ -1,3 +1,7 @@
+- title: "Athey & Ellison (QJE, 2011) - Position Auctions with Consumer Search"
+  file: "Athey_Ellison_QJE_2011.pdf"
+  desc: "This note summarizes the paper, which develops a sponsored-link auction model with rational consumer search, advertiser quality, endogenous click-through rates, top-down stopping rules, reserve prices, click-weighting, obfuscatory ad text, and product-variety concerns to study search-engine advertising, showing that auction design is also information design because ad ordering shapes consumer beliefs and search behavior, so sorted links and quality-screening reserves can raise welfare while click-maximizing rules may reduce informativeness and encourage misleading ads."
+
 - title: "Mayzlin, Dover & Chevalier (AER, 2014) - Promotional Reviews: An Empirical Investigation of Online Review Manipulation"
   file: "Mayzlin_Dover_Chevalier_AER_2014.pdf"
   desc: "This note summarizes the paper, which uses matched TripAdvisor–Expedia hotel reviews, platform verification differences, STR hotel ownership and affiliation data, nearby-competitor measures, one-time reviewer behavior, and review-share regressions to study online review manipulation, showing that fake promotional reviewing varies systematically with incentives: independent/single-unit hotels appear more likely to generate positive TripAdvisor reviews, while hotels with nearby low-reputation-cost competitors receive more negative TripAdvisor reviews, especially on the less-verified platform."
