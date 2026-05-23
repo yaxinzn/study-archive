@@ -1,3 +1,7 @@
+- title: "Egan, Horta¸csu & Matvos (AER, 2017) - Deposit Competition and Financial Fragility: Evidence from the US Banking Sector"
+  file: "Egan_Hortacsu_Matvos_AER_2017.pdf"
+  desc: "This note summarizes the paper, which uses FDIC deposit data, RateWatch deposit rates, CDS-implied default probabilities, insured versus uninsured deposit demand, bank service differentiation, structural deposit competition, endogenous default, multiple-equilibrium computation, and regulatory counterfactuals to study bank fragility, showing that uninsured deposit demand is run-prone enough to generate bad self-fulfilling equilibria, while deposit insurance, rate competition, and capital requirements can stabilize or distort the banking system depending on equilibrium selection."
+
 - title: "Jin & Leslie (QJE, 2003) - The Effect of Information on Product Quality: Evidence from Restaurant Hygiene Grade Cards"
   file: "Jin_Leslie_QJE_2003.pdf"
   desc: "This note summarizes the paper, which uses Los Angeles restaurant hygiene inspection scores, confidential sales-tax revenue data, staggered hygiene grade-card disclosure regimes, score-distribution tests, revenue-grade interactions, and foodborne-illness hospitalization data to study quality disclosure, showing that public grade cards increased hygiene scores, made consumer demand more responsive to restaurant quality, and reduced food-related hospitalizations, implying that standardized information disclosure can improve both firm behavior and real health outcomes."
