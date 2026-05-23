@@ -1,3 +1,7 @@
+- title: "Crawford & Yurukoglu (AER, 2012) - The Welfare Effects of Bundling in Multichannel Television Markets"
+  file: "Crawford_Yurukoglu_AER_2012.pdf"
+  desc: "This note summarizes the paper, which uses cable-system bundle data, channel-level viewing data, channel revenues and costs, household willingness-to-pay estimates, and Nash bargaining over distributor-channel input fees to study a la carte television pricing, showing that unbundling increases consumer choice but sharply raises negotiated input costs, so consumer-surplus gains that appear large with fixed fees are almost eliminated once upstream bargaining and vertical market structure are endogenized."
+
 - title: "Handel & Kolstad (AER, 2015) - Health Insurance for “Humans”: Information Frictions, Plan Choice, and Consumer Welfare"
   file: "Handel_Kolstad_AER_2015.pdf"
   desc: "This note summarizes the paper, which uses employer health insurance choices, administrative claims, linked survey measures of plan knowledge, provider-network beliefs, time/hassle costs, HDHP take-up, inertia, and structural choice models to study insurance demand, showing that low high-deductible plan enrollment reflects not only risk aversion but also misinformation, perceived hassle, and inertia, so standard revealed-preference models overstate risk aversion and mismeasure welfare effects of plan redesign."
