@@ -1,3 +1,7 @@
+- title: "Handel & Kolstad (AER, 2015) - Health Insurance for “Humans”: Information Frictions, Plan Choice, and Consumer Welfare"
+  file: "Handel_Kolstad_AER_2015.pdf"
+  desc: "This note summarizes the paper, which uses employer health insurance choices, administrative claims, linked survey measures of plan knowledge, provider-network beliefs, time/hassle costs, HDHP take-up, inertia, and structural choice models to study insurance demand, showing that low high-deductible plan enrollment reflects not only risk aversion but also misinformation, perceived hassle, and inertia, so standard revealed-preference models overstate risk aversion and mismeasure welfare effects of plan redesign."
+
 - title: "Bresnahan, Brynjolfsson, and Hitt (QJE, 2002) - Information Technology, Workplace Organization, and the Demand for Skilled Labor: Firm-Level Evidence"
   file: "Bresnahan_Brynjolfsson_Hitt_QJE_2002.pdf"
   desc: "This note summarizes the paper, which uses firm-level survey data on workplace organization and human capital, Computer Intelligence IT capital data, Compustat production variables, IT demand regressions, human-capital investment equations, productivity interactions, and managerial-belief measures to study skill-biased technical change, showing that IT raises demand for skilled labor through a complementary system of decentralized work organization, training, worker autonomy, and product/service innovation rather than through computer capital alone."
