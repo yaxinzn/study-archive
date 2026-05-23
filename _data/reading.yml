@@ -1,3 +1,7 @@
+- title: "Cornelli & Goldreich (JF, 2003) - Bookbuilding: How Informative Is the Order Book?"
+  file: "Cornelli_Goldreich_JF_2003.pdf"
+  desc: "This note summarizes the paper, which uses confidential institutional order books from 37 IPOs and 26 SEOs, bid quantities, bid timing, strike/limit/step bids, bidder frequency, allocation favoritism, normalized issue prices, and aftermarket returns to study bookbuilding, showing that order books contain substantial pricing information: underwriters rely especially on limit prices from large, frequent, and allocation-favored investors, while leaving some information in underpricing to compensate investors for truthful information revelation."
+
 - title: "Gennaioli, Shleifer & Vishny (JFE, 2012) - Neglected Risks, Financial Innovation, and Financial Fragility"
   file: "Gennaioli_Shleifer_Vishny_JFE_2012.pdf"
   desc: "This note summarizes the paper, which develops a theory of financial innovation with preferred demand for safe assets, local thinking, neglected recession risk, engineered claims, belief revision, flight to safety, intermediary wealth limits, and production distortions to study financial fragility, showing that intermediaries can overissue securities that appear safe when investors neglect rare bad states, but once bad news makes those risks salient, the new claims collapse in value while traditional safe assets rise, generating fragility even without leverage or fire sales."
