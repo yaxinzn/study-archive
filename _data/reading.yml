@@ -1,3 +1,7 @@
+- title: "Brown & Goolsbee (JPE, 2002) - Does the Internet Make Markets More Competitive? Evidence from the Life Insurance Industry"
+  file: "Brown_Goolsbee_JPE_2002.pdf"
+  desc: "This note summarizes the paper, which uses LIMRA policy-level life-insurance transactions, Forrester Internet-adoption and online insurance-research measures, term-versus-whole-life product comparisons, hedonic price regressions, timing and product placebos, mortality controls, and price-dispersion tests to study Internet search, showing that online comparison sites reduced search costs and lowered term life insurance prices by about 8–15%, while producing the non-monotonic dispersion pattern predicted by search theory."
+
 - title: "Egan, Horta¸csu & Matvos (AER, 2017) - Deposit Competition and Financial Fragility: Evidence from the US Banking Sector"
   file: "Egan_Hortacsu_Matvos_AER_2017.pdf"
   desc: "This note summarizes the paper, which uses FDIC deposit data, RateWatch deposit rates, CDS-implied default probabilities, insured versus uninsured deposit demand, bank service differentiation, structural deposit competition, endogenous default, multiple-equilibrium computation, and regulatory counterfactuals to study bank fragility, showing that uninsured deposit demand is run-prone enough to generate bad self-fulfilling equilibria, while deposit insurance, rate competition, and capital requirements can stabilize or distort the banking system depending on equilibrium selection."
