@@ -1,3 +1,7 @@
+- title: "Bresnahan, Brynjolfsson, and Hitt (QJE, 2002) - Information Technology, Workplace Organization, and the Demand for Skilled Labor: Firm-Level Evidence"
+  file: "Bresnahan_Brynjolfsson_Hitt_QJE_2002.pdf"
+  desc: "This note summarizes the paper, which uses firm-level survey data on workplace organization and human capital, Computer Intelligence IT capital data, Compustat production variables, IT demand regressions, human-capital investment equations, productivity interactions, and managerial-belief measures to study skill-biased technical change, showing that IT raises demand for skilled labor through a complementary system of decentralized work organization, training, worker autonomy, and product/service innovation rather than through computer capital alone."
+
 - title: "Sweeting (Econometrica, 2013) - Dynamic Product Positioning in Differentiated Product Markets: The Effect of Fees for Musical Performance Rights on the Commercial Radio Industry"
   file: "Sweeting_Econometrica_2013.pdf"
   desc: "This note summarizes the paper, which uses data from 102 local radio markets, station formats, demographic listening shares, advertising revenues, listener demand estimates, revenue functions, repositioning costs, multi-station ownership, and a dynamic oligopoly model with value-function approximation to study radio product positioning, showing that performance-rights fees would gradually reduce music-station variety because stations trade off fee avoidance against listener losses, advertiser-valued demographics, and costly format switching."
