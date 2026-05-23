@@ -1,3 +1,7 @@
+- title: "Froot, Scharfstein & Stein (JF, 1992) - Herd on the Street: Informational Inefficiencies in a Market with Short-Term Speculation"
+  file: "Froot_Scharfstein_Stein_JF_1992.pdf"
+  desc: "This note summarizes the paper, which develops a rational-expectations model of short-horizon speculation using endogenous signal acquisition, staggered order flow, liquidity noise, Bayesian market-maker pricing, horizon-dependent payoffs, herding equilibria, and a chartist extension to study informational efficiency, showing that short horizons make traders prefer information others will soon trade on, turning information acquisition into a coordination problem that can produce rational herding on crowded or even nonfundamental signals."
+
 - title: "Athey & Ellison (QJE, 2011) - Position Auctions with Consumer Search"
   file: "Athey_Ellison_QJE_2011.pdf"
   desc: "This note summarizes the paper, which develops a sponsored-link auction model with rational consumer search, advertiser quality, endogenous click-through rates, top-down stopping rules, reserve prices, click-weighting, obfuscatory ad text, and product-variety concerns to study search-engine advertising, showing that auction design is also information design because ad ordering shapes consumer beliefs and search behavior, so sorted links and quality-screening reserves can raise welfare while click-maximizing rules may reduce informativeness and encourage misleading ads."
