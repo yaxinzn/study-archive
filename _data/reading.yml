@@ -1,3 +1,7 @@
+- title: "Kamenica & Gentzkow (AER, 2011) - Bayesian Persuasion"
+  file: "Kamenica_Gentzkow_AER_2011.pdf"
+  desc: "This note summarizes the paper, which develops the canonical Bayesian persuasion framework using sender commitment to information structures, receiver Bayesian updating, Bayes-plausible posterior distributions, indirect sender payoffs, concave closure, optimal posterior splitting, and applications such as prosecution, lobbying, and advertising to study strategic information design, showing that rational receivers can still be persuaded because Bayes’ rule fixes the average posterior but allows the sender to choose a distribution of beliefs that moves receivers across nonlinear action thresholds."
+
 - title: "Nevo (Econometrica, 2001) - Measuring Market Power in the Ready-to-Eat Cereal Industry"
   file: "Nevo_Econometrica_2001.pdf"
   desc: "This note summarizes the paper, which uses IRI scanner data on ready-to-eat cereal brands, city-quarter price and share variation, random-coefficients discrete-choice demand, demographic heterogeneity, brand fixed effects, other-city price instruments, and Nash-Bertrand supply counterfactuals to study cereal market power, showing that high observed margins can be explained largely by product differentiation and multiproduct portfolio pricing rather than full collusion, because current ownership predicts margins close to accounting benchmarks while joint ownership implies much higher margins."
