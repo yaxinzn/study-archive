@@ -1,3 +1,7 @@
+- title: "Reuter & Zitzewitz (QJE, 2006) - Do Ads Influence Editors? Advertising and Bias in the Financial Media"
+  file: "Reuter_Zitzewitz_QJE_2006.pdf"
+  desc: "This note summarizes the paper, which uses hand-collected mutual fund mentions from financial media, CRSP mutual fund data, publication-specific advertising by fund families, fund characteristics, logit mention regressions, IV robustness, post-mention flow regressions, and future-return tests to study advertising bias, showing that own-publication advertising predicts positive fund mentions in personal finance magazines but not newspapers or Consumer Reports, and that these mentions attract large inflows without reliably predicting superior future returns."
+
 - title: "Tadelis (AER, 1999) - What’s in a Name? Reputation as a Tradeable Asset"
   file: "Tadelis_AER_1999.pdf"
   desc: "This note summarizes the paper, which develops an adverse-selection theory of reputation using firm names, observable performance histories, hidden ownership changes, good and bad agent types, name trading, name changing, and Bayesian customer beliefs to study reputational capital, showing that successful names become tradeable assets when customers cannot observe who is behind the name, but reputation markets also create adverse selection because bad types may value good names precisely because they cannot build reputations themselves."
