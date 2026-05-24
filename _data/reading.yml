@@ -1,3 +1,7 @@
+- title: "Pool, Stoffman & Yonker (JF, 2015) - The People in Your Neighborhood: Social Interactions and Mutual Fund Portfolios"
+  file: "Pool_Stoffman_Yonker_JF_2015.pdf"
+  desc: "This note summarizes the paper, which uses mutual fund holdings, trades, manager residential address histories, normalized driving-distance neighbor measures, portfolio and trade-overlap regressions, relocation/placebo tests, indirect-neighbor networks, and performance tests to study social interactions among professional investors, showing that neighboring fund managers hold and trade more similar stocks, especially hard-to-research stocks, consistent with value-relevant investment ideas diffusing through local social networks."
+
 - title: "Philippon & Reshef (QJE, 2012) - Wages and Human Capital in the U.S. Finance Industry: 1909–2006"
   file: "Philippon_Reshef_QJE_2012.pdf"
   desc: "This note summarizes the paper, which uses century-long U.S. finance-industry data on relative wages, education, top earners, executive compensation, job complexity, deregulation, financial activity, IT, globalization, and worker-level wage premia to study human capital in finance, showing that finance wages and skill intensity follow a U-shape over 1909–2006, with the post-1980 rise strongly linked to deregulation, increased complexity, and the renewed pull of high-skilled labor into finance."
