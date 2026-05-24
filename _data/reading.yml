@@ -1,3 +1,7 @@
+- title: "Lynch & Musto (JF, 2003) - How Investors Interpret Past Fund Returns"
+  file: "Lynch_Musto_JF_2003.pdf"
+  desc: "This note summarizes the paper, which develops a model of mutual fund flows with advisor strategy-replacement options and tests it using Micropal daily fund returns, CRSP manager-change data, Carhart factor-loading changes, dollar flows, and future performance regressions, showing that investors respond weakly to bad performance because poor returns increase the likelihood of manager or strategy replacement, making bad past returns less informative about future fund performance and generating convex flow-performance relations."
+
 - title: "Fuster & Vickery (RFS, 2015) - Securitization and the Fixed-Rate Mortgage"
   file: "Fuster_Vickery_RFS_2015.pdf"
   desc: "This note summarizes the paper, which uses loan-level mortgage data, conforming loan limits, jumbo versus conforming status, nonagency securitization freezes in 1999–2000 and 2007–2009, difference-in-differences, fuzzy regression discontinuity around appraisal thresholds, and jumbo-conforming rate spreads to study fixed-rate mortgage supply, showing that liquid securitization markets support long-term prepayable FRMs by letting lenders transfer duration and prepayment risk, while nonagency market freezes sharply reduce FRM availability for jumbo borrowers."
