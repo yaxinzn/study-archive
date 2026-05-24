@@ -1,3 +1,7 @@
+- title: "Philippon & Reshef (QJE, 2012) - Wages and Human Capital in the U.S. Finance Industry: 1909–2006"
+  file: "Philippon_Reshef_QJE_2012.pdf"
+  desc: "This note summarizes the paper, which uses century-long U.S. finance-industry data on relative wages, education, top earners, executive compensation, job complexity, deregulation, financial activity, IT, globalization, and worker-level wage premia to study human capital in finance, showing that finance wages and skill intensity follow a U-shape over 1909–2006, with the post-1980 rise strongly linked to deregulation, increased complexity, and the renewed pull of high-skilled labor into finance."
+
 - title: "Lynch & Musto (JF, 2003) - How Investors Interpret Past Fund Returns"
   file: "Lynch_Musto_JF_2003.pdf"
   desc: "This note summarizes the paper, which develops a model of mutual fund flows with advisor strategy-replacement options and tests it using Micropal daily fund returns, CRSP manager-change data, Carhart factor-loading changes, dollar flows, and future performance regressions, showing that investors respond weakly to bad performance because poor returns increase the likelihood of manager or strategy replacement, making bad past returns less informative about future fund performance and generating convex flow-performance relations."
