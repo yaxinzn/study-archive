@@ -1,3 +1,7 @@
+- title: "Lazear (AER, 2000) - Performance Pay and Productivity"
+  file: "Lazear_AER_2000.pdf"
+  desc: "This note summarizes the paper, which uses Safelite’s staggered switch from hourly wages to a piece-rate Performance Pay Plan, worker-month productivity and pay data, wage guarantees, worker fixed effects, separation rates, output dispersion, and pay regressions to study incentive compensation, showing that piece rates increased productivity by about 44% overall, with roughly half from within-worker effort responses and half from sorting, while worker pay rose much less than output."
+
 - title: "Pool, Stoffman & Yonker (JF, 2015) - The People in Your Neighborhood: Social Interactions and Mutual Fund Portfolios"
   file: "Pool_Stoffman_Yonker_JF_2015.pdf"
   desc: "This note summarizes the paper, which uses mutual fund holdings, trades, manager residential address histories, normalized driving-distance neighbor measures, portfolio and trade-overlap regressions, relocation/placebo tests, indirect-neighbor networks, and performance tests to study social interactions among professional investors, showing that neighboring fund managers hold and trade more similar stocks, especially hard-to-research stocks, consistent with value-relevant investment ideas diffusing through local social networks."
