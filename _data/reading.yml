@@ -38,9 +38,9 @@
   file: "Nadauld_Weisbach_JFE_2012.pdf"
   desc: "This note summarizes the paper, which uses Dealscan syndicated loan facilities, Moody’s CLO collateral data, Term Loan B structures, borrower ratings, securitization-active banks, all-in-drawn spreads, triple-interaction pricing tests, and within-loan facility comparisons to study CLO securitization, showing that securitization lowered corporate loan spreads by creating collateral demand, especially for B-rated Term Loan B facilities originated by CLO-active banks, where secondary-market demand fed back into cheaper primary-market credit."
 
-- title: "Cornelli & Goldreich (JF, 2003) - Bookbuilding: How Informative Is the Order Book?"
+- title: "Oberholzer-Gee & Waldfogel (AER, 2009) - Media Markets and Localism: Does Local News en Espanol Boost Hispanic Voter Turnout?"
   file: "Cornelli_Goldreich_JF_2003.pdf"
-  desc: "This note summarizes the paper, which uses confidential institutional order books from 37 IPOs and 26 SEOs, bid quantities, bid timing, strike/limit/step bids, bidder frequency, allocation favoritism, normalized issue prices, and aftermarket returns to study bookbuilding, showing that order books contain substantial pricing information: underwriters rely especially on limit prices from large, frequent, and allocation-favored investors, while leaving some information in underpricing to compensate investors for truthful information revelation."
+  desc: "This note summarizes the paper, which uses CPS voter turnout data, Spanish-language local TV news entry across metropolitan areas, Telemundo/Univision station information, Scarborough viewing data, Census demographics, difference-in-differences, and Hispanic-versus-non-Hispanic comparisons to study media localism, showing that Spanish-language local news increased Hispanic turnout in local elections by making politically relevant local information more accessible to an underserved language group."
 
 - title: "Gennaioli, Shleifer & Vishny (JFE, 2012) - Neglected Risks, Financial Innovation, and Financial Fragility"
   file: "Gennaioli_Shleifer_Vishny_JFE_2012.pdf"
