@@ -1,3 +1,7 @@
+- title: "Jaffe, Trajtenberg & Henderson (QJE, 1993) - Geographic Localization of Knowledge Spillovers as Evidenced by Patent Citations"
+  file: "Jaffe_Trajtenberg_Henderson_QJE_1993.pdf"
+  desc: "This note summarizes the paper, which uses patent citations, 1975 and 1980 patent cohorts, university and corporate origin patents, self-citation exclusions, matched control patents from the same technology class and application year, geographic matching at country/state/SMSA levels, citation-lag analysis, and probit models to study knowledge spillovers, showing that citations are significantly more geographically localized than comparable inventive activity and that this localization fades over time."
+
 - title: "Benveniste & Spindt (JFE, 1989) - How Investment Bankers Determine the Offer Price and Allocation of New Issues"
   file: "Benveniste_Spindt_JFE_1989.pdf"
   desc: "This note summarizes the paper, which develops a bookbuilding theory of IPO pricing using regular investors’ private information, premarket indications of interest, offer-price adjustment, allocation priority, truth-telling constraints, underwriter-investor relationships, and firm-commitment versus best-efforts contracts to study new issues, showing that IPO underpricing and preferential allocations are the information rents needed to induce informed investors to reveal favorable information before the offer price is set."
