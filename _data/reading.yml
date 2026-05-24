@@ -1,3 +1,7 @@
+- title: "Bandiera, Barankay & Rasul (Econometrica, 2009) - Social Connections and Incentives in the Workplace: Evidence From Personnel Data"
+  file: "Bandiera_Barankay_Rasul_Econometrica_2009.pdf"
+  desc: "This note summarizes the paper, which uses detailed personnel data from a UK fruit-picking firm, worker-manager social connection measures, piece-rate worker productivity, an experimentally introduced managerial performance bonus, worker and field-date fixed effects, quantile regressions, and field-level productivity tests to study workplace favoritism, showing that managers favor socially connected workers under fixed wages, but performance pay redirects managerial effort toward higher-ability workers and removes the connected-worker productivity premium."
+
 - title: "Callen, Isaqzadeh, Long & Sprenger (AER, 2014) - Violence and Risk Preference: Experimental Evidence from Afghanistan"
   file: "Callen_Isaqzadeh_Long_Sprenger_AER_2014.pdf"
   desc: "This note summarizes the paper, which uses Afghan field experiments, randomized fear/happy/neutral recollection primes, multiple price-list tasks, utility under uncertainty, utility under certainty, geocoded administrative violence records, failed-violence placebos, and polling-center fixed effects to study violence and risk preferences, showing that violence exposure does not simply shift baseline risk aversion but makes individuals more responsive to fear recall, increasing their certainty premium and demand for sure outcomes."
