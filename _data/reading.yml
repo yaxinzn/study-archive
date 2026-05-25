@@ -1,3 +1,7 @@
+- title: "Chaney (AER, 2008) - Distorted Gravity: The Intensive and Extensive Margins of International Trade"
+  file: "Chaney_AER_2008.pdf"
+  desc: "This note summarizes the paper, which develops a many-country heterogeneous-firm gravity model with CES demand, Pareto productivity, variable trade costs, fixed export costs, exporter productivity cutoffs, and intensive/extensive margin decompositions to study distorted gravity, showing that aggregate trade elasticities are governed by firm heterogeneity and exporter selection rather than only by the elasticity of substitution, because trade barriers affect both incumbent exporter sales and the mass and size of marginal exporters."
+
 - title: "Eaton, Kortum, and Kramarz (Econometrica, 2011) - An Anatomy of International Trade: Evidence from French Firms"
   file: "Eaton_Kortum_Kramarz_Econometrica_2011.pdf"
   desc: "This note summarizes the paper, which uses French firm-destination export data, domestic sales, destination market sizes, entry hierarchies, sales distributions, destination-specific demand and entry shocks, simulated moments, and a general-equilibrium trade-barrier counterfactual to study the anatomy of international trade, showing that firm efficiency explains much of export-market entry, but destination-specific shocks are crucial for sales conditional on entry, and trade liberalization reallocates gains toward the largest and most productive firms."
