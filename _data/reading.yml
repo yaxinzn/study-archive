@@ -1,3 +1,7 @@
+- title: "Julio & Yook (JF, 2012) - Political Uncertainty and Corporate Investment Cycles"
+  file: "Julio_Yook_JF_2012.pdf"
+  desc: "This note summarizes the paper, which uses national election data from 48 countries, Worldscope firm-level investment and cash data, political-system classifications, fixed versus flexible election timing, close-election measures, institutional checks, government stability, politically sensitive industries, placebo elections, and cash-holding regressions to study political uncertainty, showing that firms reduce investment in election years and increase cash holdings, consistent with delaying irreversible investment until electoral uncertainty is resolved."
+
 - title: "Gathergood & Olafsson (RFS, 2026) - The Coholding Puzzle: New Evidence from Transaction-Level Data"
   file: "Gathergood_Olafsson_RFS_2026.pdf"
   desc: "This note summarizes the paper, which uses Icelandic Meniga daily financial aggregator data, deposit and overdraft balances, transaction-level spending categories, coholding spell duration, cost measures, household-link comparisons, shock-onset regressions, and individual fixed effects to study asset-debt coholding, showing that coholding is often short-lived, modest, and category-specific, with the strongest evidence pointing to mental accounting across accounts rather than persistent arbitrage mistakes, household coordination failures, or short-term financial shocks."
