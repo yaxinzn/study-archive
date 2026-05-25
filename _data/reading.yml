@@ -1,3 +1,7 @@
+- title: "Barrot & Sauvagnat (QJE, 2016) - Input Specificity and the Propagation of Idiosyncratic Shocks in Production Networks"
+  file: "Barrot_Sauvagnat_QJE_2016.pdf"
+  desc: "This note summarizes the paper, which uses major U.S. natural disasters, Compustat Segment supplier-customer links, firm-quarter sales and COGS growth, input-specificity measures based on differentiated goods, R&D, and patents, customer stock returns, and horizontal propagation tests to study production-network shocks, showing that idiosyncratic supplier disruptions reduce customer output and market value, especially when inputs are specific and difficult to substitute."
+
 - title: "Fajgelbaum, Goldberg, Kennedy & Khandelwal (QJE, 2020) - The Return to Protectionism"
   file: "Fajgelbaum_Goldberg_Kennedy_Khandelwal_QJE_2020.pdf"
   desc: "This note summarizes the paper, which uses the 2018 U.S. tariff waves, foreign retaliatory tariffs, product-country-month trade data, import and export unit values, event-study and variety-level regressions, product and sector elasticities, welfare decomposition, and county-level political exposure to study protectionism, showing that U.S. tariffs were passed through almost fully to U.S. buyers, reduced trade flows, generated large gross losses and redistribution, and imposed especially large regional real-wage losses on Republican-leaning counties once retaliation is included."
