@@ -1,3 +1,7 @@
+- title: "Antras (QJE, 2003) - Firms, Contracts, and Trade Structure"
+  file: "Antras_QJE_2003.pdf"
+  desc: "This note summarizes the paper, which combines property-rights theory, incomplete contracts, relationship-specific capital and labor investments, Helpman-Krugman trade structure, U.S. related-party import data, industry capital intensity, and country capital abundance to study intrafirm trade, showing that capital-intensive industries and capital-abundant exporters have higher intrafirm import shares because vertical integration improves incentives for transferable capital investment while outsourcing better preserves supplier labor incentives."
+
 - title: "Antras, Fort & Tintelnot (AER, 2017) - The Margins of Global Sourcing: Theory and Evidence from US Firms"
   file: "Antras_Fort_Tintelnot_AER_2017.pdf"
   desc: "This note summarizes the paper, which uses confidential U.S. Census firm-level production and import data, multi-country sourcing sets, HS10 product-country imports, a heterogeneous-firm sourcing model, country sourcing potential, fixed access costs, complementarity in extensive-margin sourcing, China-shock counterfactuals, and reduced-form IV evidence to study global input sourcing, showing that sourcing from one country can raise the value of sourcing from others, so trade shocks reorganize firms’ entire sourcing networks rather than simply substituting foreign inputs for domestic inputs one-for-one."
