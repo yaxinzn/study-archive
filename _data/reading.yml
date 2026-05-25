@@ -1,3 +1,7 @@
+- title: "Gathergood & Olafsson (RFS, 2026) - The Coholding Puzzle: New Evidence from Transaction-Level Data"
+  file: "Gathergood_Olafsson_RFS_2026.pdf"
+  desc: "This note summarizes the paper, which uses Icelandic Meniga daily financial aggregator data, deposit and overdraft balances, transaction-level spending categories, coholding spell duration, cost measures, household-link comparisons, shock-onset regressions, and individual fixed effects to study asset-debt coholding, showing that coholding is often short-lived, modest, and category-specific, with the strongest evidence pointing to mental accounting across accounts rather than persistent arbitrage mistakes, household coordination failures, or short-term financial shocks."
+
 - title: "Gomes, Haliassos & Ramadorai (RFS, 2026) - New Frontiers in Household Finance"
   file: "Gomes_Haliassos_Ramadorai_RFS_2026.pdf"
   desc: "This note summarizes the paper, which introduces an RFS special issue on household finance by organizing recent work around preferences, beliefs, inaction, financial advice, retirement design, and asset-debt co-holding, showing that the frontier of household finance increasingly depends on measuring latent household states, linking survey and administrative data, modeling supply-side financial intermediaries, and using structural/welfare frameworks to diagnose which household behaviors reflect rational constraints versus actionable frictions."
