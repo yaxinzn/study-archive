@@ -1,3 +1,7 @@
+- title: "Carvalho, Nirei, Saito & Tahbaz-Salehi (QJE, 2021) - Supply Chain Disruptions: Evidence from the Great East Japan Earthquake"
+  file: "Carvalho_Nirei_Saito_TahbazSalehi_QJE_2021.pdf"
+  desc: "This note summarizes the paper, which uses the 2011 Great East Japan Earthquake, Tokyo Shoko Research firm-level buyer-supplier network data, upstream and downstream supply-chain distance, network difference-in-differences, robustness checks using flooded regions and electricity-frequency borders, and a structural production-network model to study supply-chain disruptions, showing that localized firm damage propagated several links through both customers and suppliers and reduced Japan’s aggregate GDP growth through production-network amplification."
+
 - title: "Cajal-Grossi, Macchiavello & Noguera (QJE, 2023) - Buyers’ Sourcing Strategies and Suppliers’ Markups in Bangladeshi Garments"
   file: "CajalGrossi_Macchiavello_Noguera_QJE_2023.pdf"
   desc: "This note summarizes the paper, which uses Bangladeshi garment export orders, buyer-level sourcing concentration, seller-product-year comparisons, order-level fabric and sewing-line labor data, production-based markup measures, robustness across fixed effects, and a VF Corporation sourcing event study to study global value-chain relationships, showing that relational buyers pay higher prices and supplier markups than spot buyers, not because orders use more costly inputs, but because higher rents support reliable long-term sourcing relationships."
