@@ -1,4 +1,8 @@
-- title: "Juhász (AER, 2018) 0 Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade"
+- title: "Alfaro, Antras, Chor & Conconi (JPE, 2019) - Internalizing Global Value Chains: A Firm-Level Analysis"
+  file: "Alfaro_Antras_Chor_Conconi_JPE_2019.pdf"
+  desc: "This note summarizes the paper, which uses Dun & Bradstreet WorldBase firm-activity data, U.S. input-output tables, bilateral upstreamness of input-output pairs, demand elasticity, contractibility, firm productivity, and cross-firm and within-firm integration regressions to study global value-chain ownership, showing that firms internalize different stages depending on where inputs sit in the chain: high-demand-elasticity firms integrate relatively downstream stages, while low-elasticity firms integrate relatively upstream stages, consistent with a sequential property-rights theory of firm boundaries."
+
+- title: "Juhász (AER, 2018) - Temporary Protection and Technology Adoption: Evidence from the Napoleonic Blockade"
   file: "Juhasz_AER_2018.pdf"
   desc: "This note summarizes the paper, which uses the Napoleonic Blockade, changes in effective distance to London, French department-level mechanized cotton spindle data, shipping-route evidence, continuous difference-in-differences, long-run IV estimates, market-access controls, and placebo tests to study infant-industry protection, showing that temporary protection from British competition induced adoption of mechanized cotton spinning and helped shift the persistent geography of the French cotton industry, though broader regional industrial effects faded over time."
 
