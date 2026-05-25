@@ -1,3 +1,7 @@
+- title: "Kelly, Pastor & Veronesi (JF, 2016) - The Price of Political Uncertainty: Theory and Evidence from the Option Market"
+  file: "Kelly_Pastor_Veronesi_JF_2016.pdf"
+  desc: "This note summarizes the paper, which uses equity index options around elections and global summits, event-spanning versus neighboring control maturities, implied volatility differences, variance risk premium differences, volatility skew, election poll spreads, economic-condition measures, placebo events, FX options, and a Pastor-Veronesi policy-choice model to study political uncertainty, showing that investors pay sizable premia for protection against political-event price, variance, and tail risks, especially in weak economies and close elections, with spillovers across countries and currencies."
+
 - title: "Schlafmann, Setty & Vestman (RFS, 2026) - Designing Pension Plans According to Consumption-Savings Theory"
   file: "Schlafmann_Setty_Vestman_RFS_2026.pdf"
   desc: "This note summarizes the paper, which uses Swedish registry balance-sheet data, liquid active saving measures, hand-to-mouth status, a stylized consumption-savings model, a calibrated life-cycle pension model, age and balance-to-income contribution rules, replacement-rate dispersion, and welfare counterfactuals to study DC pension design, showing that mandatory contribution rates should rise with age and fall with pension balance-to-income, producing sizable welfare gains and lower replacement-rate dispersion relative to constant contribution rates."
