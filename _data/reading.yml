@@ -1,3 +1,7 @@
+- title: "Schlafmann, Setty & Vestman (RFS, 2026) - Designing Pension Plans According to Consumption-Savings Theory"
+  file: "Schlafmann_Setty_Vestman_RFS_2026.pdf"
+  desc: "This note summarizes the paper, which uses Swedish registry balance-sheet data, liquid active saving measures, hand-to-mouth status, a stylized consumption-savings model, a calibrated life-cycle pension model, age and balance-to-income contribution rules, replacement-rate dispersion, and welfare counterfactuals to study DC pension design, showing that mandatory contribution rates should rise with age and fall with pension balance-to-income, producing sizable welfare gains and lower replacement-rate dispersion relative to constant contribution rates."
+
 - title: "Alfaro, Antras, Chor & Conconi (JPE, 2019) - Internalizing Global Value Chains: A Firm-Level Analysis"
   file: "Alfaro_Antras_Chor_Conconi_JPE_2019.pdf"
   desc: "This note summarizes the paper, which uses Dun & Bradstreet WorldBase firm-activity data, U.S. input-output tables, bilateral upstreamness of input-output pairs, demand elasticity, contractibility, firm productivity, and cross-firm and within-firm integration regressions to study global value-chain ownership, showing that firms internalize different stages depending on where inputs sit in the chain: high-demand-elasticity firms integrate relatively downstream stages, while low-elasticity firms integrate relatively upstream stages, consistent with a sequential property-rights theory of firm boundaries."
