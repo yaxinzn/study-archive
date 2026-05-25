@@ -1,3 +1,7 @@
+- title: "Eaton, Kortum, and Kramarz (Econometrica, 2011) - An Anatomy of International Trade: Evidence from French Firms"
+  file: "Eaton_Kortum_Kramarz_Econometrica_2011.pdf"
+  desc: "This note summarizes the paper, which uses French firm-destination export data, domestic sales, destination market sizes, entry hierarchies, sales distributions, destination-specific demand and entry shocks, simulated moments, and a general-equilibrium trade-barrier counterfactual to study the anatomy of international trade, showing that firm efficiency explains much of export-market entry, but destination-specific shocks are crucial for sales conditional on entry, and trade liberalization reallocates gains toward the largest and most productive firms."
+
 - title: "Hassan, Hollander, van Lent & Tahoun (QJE, 2019) - Firm-Level Political Risk: Measurement and Effectsa"
   file: "Hassan_Hollander_vanLent_Tahoun_QJE_2019.pdf"
   desc: "This note summarizes the paper, which uses earnings-call transcripts, political bigrams near risk/uncertainty language, firm-quarter PRisk measures, topic-specific political-risk scores, validation against EPU, sector exposure, volatility, investment, employment, lobbying, donations, and sentiment/nonpolitical-risk controls to study firm-level political risk, showing that political risk is highly granular across firms and topics, predicts higher volatility and lower investment/hiring, and leads firms to manage exposure through lobbying and political donations."
