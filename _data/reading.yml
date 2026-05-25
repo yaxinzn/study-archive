@@ -1,3 +1,7 @@
+- title: "Hassan, Hollander, van Lent & Tahoun (QJE, 2019) - Firm-Level Political Risk: Measurement and Effectsa"
+  file: "Hassan_Hollander_vanLent_Tahoun_QJE_2019.pdf"
+  desc: "This note summarizes the paper, which uses earnings-call transcripts, political bigrams near risk/uncertainty language, firm-quarter PRisk measures, topic-specific political-risk scores, validation against EPU, sector exposure, volatility, investment, employment, lobbying, donations, and sentiment/nonpolitical-risk controls to study firm-level political risk, showing that political risk is highly granular across firms and topics, predicts higher volatility and lower investment/hiring, and leads firms to manage exposure through lobbying and political donations."
+
 - title: "Baker, Bloom, and Davis (QJE, 2016) - Measuring Economic Policy Uncertainty"
   file: "Baker_Bloom_Davis_QJE_2016.pdf"
   desc: "This note summarizes the paper, which constructs newspaper-based Economic Policy Uncertainty indexes using economy, policy, and uncertainty term counts, category-specific policy filters, human validation audits, international extensions, firm-level exposure tests, implied volatility, investment and employment regressions, and U.S./panel VARs to study policy uncertainty, showing that EPU spikes around major policy events and is associated with higher firm risk, lower investment and employment, and weaker aggregate output."
