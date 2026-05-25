@@ -1,3 +1,7 @@
+- title: "Baker, Bloom, and Davis (QJE, 2016) - Measuring Economic Policy Uncertainty"
+  file: "Baker_Bloom_Davis_QJE_2016.pdf"
+  desc: "This note summarizes the paper, which constructs newspaper-based Economic Policy Uncertainty indexes using economy, policy, and uncertainty term counts, category-specific policy filters, human validation audits, international extensions, firm-level exposure tests, implied volatility, investment and employment regressions, and U.S./panel VARs to study policy uncertainty, showing that EPU spikes around major policy events and is associated with higher firm risk, lower investment and employment, and weaker aggregate output."
+
 - title: "Pástor & Veronesi (JFE, 2013) - Political Uncertainty and Risk Premia"
   file: "Pastor_Veronesi_JFE_2013.pdf"
   desc: "This note summarizes the paper, which develops a general-equilibrium asset-pricing model of government policy choice, policy-impact uncertainty, political-cost uncertainty, policy adoption probabilities, risk-premium decomposition, volatility, correlation, and empirical tests using the Baker-Bloom-Davis policy uncertainty index, showing that political uncertainty is a priced systematic risk that lowers valuations and raises risk premia, volatility, and stock-market correlations, especially when economic conditions are weak."
