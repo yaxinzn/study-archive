@@ -1,3 +1,7 @@
+- title: "Acemoglu, Carvalho, Ozdaglar & Tahbaz-Salehi (Econometrica, 2012) - The Network Origins of Aggregate Fluctuations"
+  file: "Acemoglu_Carvalho_Ozdaglar_TahbazSalehi_Econometrica_2012.pdf"
+  desc: "This note summarizes the paper, which develops a production-network model with input-output linkages, Cobb-Douglas sectoral production, independent sectoral productivity shocks, Leontief-inverse influence vectors, first- and second-order supplier centrality, and U.S. BEA input-output data to study aggregate fluctuations, showing that idiosyncratic micro shocks can generate macro volatility when production networks are sufficiently asymmetric and a small number of direct or indirect supplier sectors have disproportionate influence."
+
 - title: "De Loecker, Goldberg, Khandelwal & Pavcnik (Econometrica, 2016) - Prices, Markups, and Trade Reform"
   file: "DeLoecker_Goldberg_Khandelwal_Pavcnik_Econometrica_2016.pdf"
   desc: "This note summarizes the paper, which uses Indian Prowess product-level price and quantity data, output and input tariff changes, production-function estimation, recovered product-level markups and marginal costs, multi-product input allocation, pass-through regressions, and pro-competitive markup tests to study trade reform, showing that India’s liberalization sharply lowered marginal costs through input tariff cuts, but firms raised markups and passed through only part of these cost savings to prices, while output tariff cuts directly disciplined markups."
