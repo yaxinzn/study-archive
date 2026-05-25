@@ -1,3 +1,7 @@
+- title: "De Loecker, Goldberg, Khandelwal & Pavcnik (Econometrica, 2016) - Prices, Markups, and Trade Reform"
+  file: "DeLoecker_Goldberg_Khandelwal_Pavcnik_Econometrica_2016.pdf"
+  desc: "This note summarizes the paper, which uses Indian Prowess product-level price and quantity data, output and input tariff changes, production-function estimation, recovered product-level markups and marginal costs, multi-product input allocation, pass-through regressions, and pro-competitive markup tests to study trade reform, showing that India’s liberalization sharply lowered marginal costs through input tariff cuts, but firms raised markups and passed through only part of these cost savings to prices, while output tariff cuts directly disciplined markups."
+
 - title: "Goldberg, Khandelwal, Pavcnik & Topalova (QJE, 2010) - Imported Intermediate Inputs and Domestic Product Growth: Evidence from India"
   file: "Goldberg_Khandelwal_Pavcnik_Topalova_QJE_2010.pdf"
   desc: "This note summarizes the paper, which uses Indian firm-level Prowess product-scope data, detailed import varieties, input-output-weighted input tariffs, output tariff and reform controls, Feenstra/Broda-Weinstein exact price indices, and IV channel regressions to study imported intermediates and domestic product growth, showing that India’s input tariff reductions expanded firms’ product scope mainly by increasing access to new imported intermediate varieties rather than only lowering prices of existing inputs."
