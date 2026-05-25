@@ -1,3 +1,7 @@
+- title: "Fajgelbaum, Goldberg, Kennedy & Khandelwal (QJE, 2020) - The Return to Protectionism"
+  file: "Fajgelbaum_Goldberg_Kennedy_Khandelwal_QJE_2020.pdf"
+  desc: "This note summarizes the paper, which uses the 2018 U.S. tariff waves, foreign retaliatory tariffs, product-country-month trade data, import and export unit values, event-study and variety-level regressions, product and sector elasticities, welfare decomposition, and county-level political exposure to study protectionism, showing that U.S. tariffs were passed through almost fully to U.S. buyers, reduced trade flows, generated large gross losses and redistribution, and imposed especially large regional real-wage losses on Republican-leaning counties once retaliation is included."
+
 - title: "Carvalho, Nirei, Saito & Tahbaz-Salehi (QJE, 2021) - Supply Chain Disruptions: Evidence from the Great East Japan Earthquake"
   file: "Carvalho_Nirei_Saito_TahbazSalehi_QJE_2021.pdf"
   desc: "This note summarizes the paper, which uses the 2011 Great East Japan Earthquake, Tokyo Shoko Research firm-level buyer-supplier network data, upstream and downstream supply-chain distance, network difference-in-differences, robustness checks using flooded regions and electricity-frequency borders, and a structural production-network model to study supply-chain disruptions, showing that localized firm damage propagated several links through both customers and suppliers and reduced Japan’s aggregate GDP growth through production-network amplification."
