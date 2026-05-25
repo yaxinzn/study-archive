@@ -1,3 +1,7 @@
+- title: "Antras, Fort & Tintelnot (AER, 2017) - The Margins of Global Sourcing: Theory and Evidence from US Firms"
+  file: "Antras_Fort_Tintelnot_AER_2017.pdf"
+  desc: "This note summarizes the paper, which uses confidential U.S. Census firm-level production and import data, multi-country sourcing sets, HS10 product-country imports, a heterogeneous-firm sourcing model, country sourcing potential, fixed access costs, complementarity in extensive-margin sourcing, China-shock counterfactuals, and reduced-form IV evidence to study global input sourcing, showing that sourcing from one country can raise the value of sourcing from others, so trade shocks reorganize firms’ entire sourcing networks rather than simply substituting foreign inputs for domestic inputs one-for-one."
+
 - title: "Chaney (AER, 2008) - Distorted Gravity: The Intensive and Extensive Margins of International Trade"
   file: "Chaney_AER_2008.pdf"
   desc: "This note summarizes the paper, which develops a many-country heterogeneous-firm gravity model with CES demand, Pareto productivity, variable trade costs, fixed export costs, exporter productivity cutoffs, and intensive/extensive margin decompositions to study distorted gravity, showing that aggregate trade elasticities are governed by firm heterogeneity and exporter selection rather than only by the elasticity of substitution, because trade barriers affect both incumbent exporter sales and the mass and size of marginal exporters."
