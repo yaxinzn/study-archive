@@ -1,3 +1,7 @@
+- title: "Engelberg, Reed & Ringgenberg (JFE, 2012) - How are shorts informed? Short sellers, news, and information processing"
+  file: "Engelberg_Reed_Ringgenberg_JFE_2012.pdf"
+  desc: "This note summarizes the paper, which uses a value-weighted cryptocurrency market index, network-adoption factors, electricity and computing-cost proxies, momentum regressions, Google/Twitter attention measures, valuation ratios, and traditional asset-factor loadings to study cryptocurrency returns, showing that crypto behaves as a distinct asset class driven mainly by network adoption, momentum, and investor attention rather than stock, currency, commodity, macro, or simple mining-cost factors."
+
 - title: "Grubb & Osborne (AER, 2015) - Cellular Service Demand: Biased Beliefs, Learning, and Bill Shock"
   file: "Grubb_Osborne_AER_2015.pdf"
   desc: "This note summarizes the paper, which uses detailed cellular billing and usage data, three-part tariff plan menus, within-cycle calling responses, plan-choice dynamics, learning, biased-belief parameters, overconfidence estimates, bill-shock alert counterfactuals, and endogenous firm pricing simulations to study nonlinear pricing, showing that consumers underestimate usage risk and make costly plan choices, but consumer-protection alerts can reduce welfare once firms redesign tariffs in response."
