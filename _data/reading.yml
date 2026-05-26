@@ -1,3 +1,7 @@
+- title: "Brogaard, Denes & Duchin (RFS, 2021) - Political Influence and the Renegotiation of Government Contracts"
+  file: "Brogaard_Denes_Duchin_RFS_2021.pdf"
+  desc: "This note summarizes the paper, which uses U.S. federal procurement contracts, contract-renegotiation outcomes, firm PAC-based local political connections, sudden deaths and unexpected resignations of connected politicians, difference-in-differences event studies, underbidding tests, ARRA stimulus contracts, and firm-value reactions to study political influence, showing that connected firms use political access to obtain favorable ex post renegotiations in award amounts, deadlines, and monitoring terms, and that losing such access sharply reduces these benefits."
+
 - title: "Chen, An, Wang & Yu (JF, 2023) - Attention Spillover in Asset Pricing"
   file: "Chen_An_Wang_Yu_JF_2023.pdf"
   desc: "This note summarizes the paper, which uses Chinese trading-software listing-code display proximity, retail brokerage account data, survey-linked behavioral measures, LOCAL/RLOCAL neighbor-return signals, portfolio sorts, Fama-MacBeth regressions, turnover tests, SME Board display-distance shocks, and arbitrage-cost heterogeneity to study attention spillover, showing that investors who experience gains trade more and buy nearby screen-neighbor stocks, creating temporary return, turnover, and comovement effects that later reverse."
