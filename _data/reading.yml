@@ -1,3 +1,7 @@
+- title: "Ketcham, Lucarelli & Powers (AER, 2015) - Paying Attention or Paying Too Much in Medicare Part D"
+  file: "Ketcham_Lucarelli_Powers_AER_2015.pdf"
+  desc: "This note summarizes the paper, which uses Medicare Part D administrative data, person-specific counterfactual plan costs, PDP switching histories, above-minimum spending, plan-cost-bin choice sets, individual fixed effects, and ex post, ex ante, and rational-expectations cost models to study consumer inertia and choice overload, showing that beneficiaries are more likely to switch when their status quo plan becomes costly and when low-cost alternatives are available, with little evidence that larger menus mechanically increase inertia."
+
 - title: "Liu, Stambaugh, and Yuan (JFE, 2019) - Size and Value in China"
   file: "Liu_Stambaugh_Yuan_JFE_2019.pdf"
   desc: "This note summarizes the paper, which uses China A-share returns, reverse-merger shell evidence, IPO-regulation institutional features, earnings-surprise tests, valuation-ratio horse races, China-specific size and EP value factors, anomaly portfolios, and CH-3/CH-4 factor-model comparisons to study Chinese asset pricing, showing that factor construction in China must exclude shell-contaminated micro-cap stocks and use earnings-price rather than book-to-market, allowing the resulting CH-3 model to explain most major Chinese return anomalies better than mechanically imported Fama–French models."
