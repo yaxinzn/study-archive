@@ -1,3 +1,7 @@
+- title: "Liu & Tsyvinski (RFS, 2021) - Risks and Returns of Cryptocurrency"
+  file: "Liu_Tsyvinski_Wu_RFS_2021.pdf"
+  desc: "This note summarizes the paper, which uses a value-weighted cryptocurrency market index, network-adoption factors, electricity and computing-cost proxies, momentum regressions, Google/Twitter attention measures, negative hack-search attention, valuation ratios, and traditional asset-factor loadings to study cryptocurrency risks and returns, showing that crypto behaves as a distinct asset class driven mainly by network adoption, momentum, and investor attention rather than stock, currency, commodity, macro, or simple mining-cost factors."
+
 - title: "Engelberg, Reed & Ringgenberg (JFE, 2012) - How are shorts informed? Short sellers, news, and information processing"
   file: "Engelberg_Reed_Ringgenberg_JFE_2012.pdf"
   desc: "This note summarizes the paper, which uses a value-weighted cryptocurrency market index, network-adoption factors, electricity and computing-cost proxies, momentum regressions, Google/Twitter attention measures, valuation ratios, and traditional asset-factor loadings to study cryptocurrency returns, showing that crypto behaves as a distinct asset class driven mainly by network adoption, momentum, and investor attention rather than stock, currency, commodity, macro, or simple mining-cost factors."
