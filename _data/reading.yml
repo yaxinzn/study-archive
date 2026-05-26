@@ -1,3 +1,7 @@
+- title: "Flaaen, Horta¸csu, and Tintelnot (AER, 2020) - The Production Relocation and Price Effects of US Trade Policy: The Case of Washing Machines"
+  file: "Flaaen_Hortacsu_Tintelnot_AER_2020.pdf"
+  desc: "This note summarizes the paper, which uses U.S. washing-machine trade-policy episodes, import and parts-flow data, PIERS firm-level shipments, weekly retail appliance prices, hedonic price regressions, washer–dryer complementarity, brand-specific estimates, and tariff-incidence calculations to study trade policy, showing that country-specific duties led firms to relocate production across export platforms, while the broad 2018 safeguard tariff raised washer, dryer, and domestic-brand prices substantially, making consumer incidence larger than the direct tariff burden."
+
 - title: "Li, Massa, Zhang, and Zhang (JFE, 2021) - Air Pollution, Behavioral Bias, and the Disposition Effect in China"
   file: "Li_Massa_Zhang_Zhang_JFE_2021.pdf"
   desc: "This note summarizes the paper, which uses proprietary Chinese mutual fund account trading data, city-day AQI pollution measures, disposition-effect measures, portfolio performance tests, strong-wind pollution-dissipation DID, Huai River RD/IV designs, account-level robustness, and realization-gain mechanism tests to study behavioral bias, showing that air pollution causally intensifies investors’ disposition effect and leads to costly premature selling of winners, consistent with pollution-induced mood or cognitive impairment."
