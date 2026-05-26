@@ -1,3 +1,7 @@
+- title: "Liu, Stambaugh, and Yuan (JFE, 2019) - Size and Value in China"
+  file: "Liu_Stambaugh_Yuan_JFE_2019.pdf"
+  desc: "This note summarizes the paper, which uses China A-share returns, reverse-merger shell evidence, IPO-regulation institutional features, earnings-surprise tests, valuation-ratio horse races, China-specific size and EP value factors, anomaly portfolios, and CH-3/CH-4 factor-model comparisons to study Chinese asset pricing, showing that factor construction in China must exclude shell-contaminated micro-cap stocks and use earnings-price rather than book-to-market, allowing the resulting CH-3 model to explain most major Chinese return anomalies better than mechanically imported Fama–French models."
+
 - title: "Amiti, Itskhoki, and Konings (AER, 2014) - Importers, Exporters, and Exchange Rate Disconnec"
   file: "Amiti_Itskhoki_Konings_AER_2014.pdf"
   desc: "This note summarizes the paper, which uses Belgian firm-product-destination export prices, firm-level import sourcing, destination exchange-rate shocks, non-euro import intensity, market-share measures, marginal-cost proxies, pass-through regressions, and import-type robustness tests to study exchange-rate disconnect, showing that large import-intensive exporters pass through less because imported inputs make marginal costs move with exchange rates and market power allows firms to absorb shocks through markups."
