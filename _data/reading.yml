@@ -1,3 +1,7 @@
+- title: "Grossman & Helpman (AER, 1994) - Protection for Sale"
+  file: "Grossman_Helpman_AER_1994.pdf"
+  desc: "This note summarizes the paper, which develops a common-agency model of trade protection with organized industry lobbies, policy-contingent contribution schedules, truthful menu auctions, a government objective combining contributions and aggregate welfare, and a modified Ramsey protection formula to study endogenous trade policy, showing that politically organized sectors can purchase protection when domestic output is large relative to imports and trade elasticities are low, even though free trade is socially efficient."
+
 - title: "Matějka & McKay (AER, 2015) - Rational Inattention to Discrete Choices: A New Foundation for the Multinomial Logit Model"
   file: "Matejka_McKay_AER_2015.pdf"
   desc: "This note summarizes the paper, which uses a rational-inattention discrete-choice model, entropy-based information costs, endogenous unconditional choice probabilities, conditional logit formulas, IIA reinterpretation, dominated/duplicate action examples, and bus-versus-train payoff illustrations to study multinomial logit, showing that logit choice probabilities can arise from optimal limited attention rather than exogenous taste shocks, with the logit scale parameter interpreted as the marginal cost of information."
