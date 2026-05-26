@@ -2030,10 +2030,6 @@
   file: "Kim_Lee_Scharlemann_Vickery_JFE_2024.pdf"
   desc: "This note summarizes the paper, which uses Ginnie Mae FHA/VA mortgage data, servicer fixed effects, borrower-credit bureau matches, CFPB complaints, high-forbearance servicer classifications, dynamic difference-in-differences, payment-behavior outcomes, credit-card balance tests, credit-score evidence, and lending crowd-out checks to study CARES Act mortgage forbearance—showing that servicer liquidity, size, and organizational form strongly shaped access to debt relief and that easier forbearance increased payment deferral without major credit-score harm, implying that broad public debt-relief programs can be materially filtered by private intermediary frictions."
 
-- title: "Jones (AER: Insights, 2024) - The AI Dilemma: Growth versus Existential Risk"
-  file: "Jones_AERInsight_2024.pdf"
-  desc: "This note summarizes the paper, which develops calibrated static and dynamic welfare models of AI-enabled growth versus existential risk, using CRRA utility, value-of-life calibration, social discounting, mortality improvements, singularity cases, and existential-risk cutoffs to show that pure consumption gains can justify large AI risks under log utility but much less under bounded utility, while AI-driven longevity gains can substantially raise acceptable risk thresholds, implying that AI policy depends critically on how society values consumption, life, future generations, and mortality reduction."
-
 - title: "Hayek (AER, 1945) - The Use of Knowledge in Society"
   file: "Hayek_AER_1945.pdf"
   desc: "This note summarizes the paper, which develops a conceptual theory of the economic problem as the use of dispersed, local, tacit, and changing knowledge, contrasts centralized and decentralized planning, explains prices as compressed signals of relative scarcity through examples such as tin, and critiques equilibrium analysis for assuming away the knowledge problem—showing that markets coordinate individual plans not by making everyone fully informed but by economizing on information, implying that prices are a communication mechanism for using knowledge no single mind possesses."
@@ -2125,10 +2121,6 @@
 - title: "Jiang, Lustig, Van Nieuwerburgh & Xiaolan (JFE, 2026) - Manufacturing Risk-Free Government Debt"
   file: "Jiang_Lustig_Nieuwerburgh_Xiaolan_JFE_2026.pdf"
   desc: "This note summarizes the paper, which combines government debt valuation, return-beta restrictions, U.S. debt/GDP dynamics, a calibrated stochastic discount factor, model-implied primary-surplus paths, realized and CBO projected surplus comparisons, convenience-yield extensions, and simulation-based robustness tests to study what fiscal policy must do to manufacture risk-free government debt—showing that making Treasury debt risk-free requires taxpayers to absorb aggregate risk through future surpluses far above observed U.S. fiscal paths after the GFC and COVID, implying that treating government debt as risk-free can overstate fiscal capacity because aggregate risk must be borne either by taxpayers or by bondholders."
-
-- title: "Berger, Milbradt, Tourre, and Vavra (AER: Insights, 2025) - Optimal Mortgage Refinancing with Inattention"
-  file: "Berger_Milbradt_Tourre_Vavra_AERInsight_2025.pdf"
-  desc: "This note summarizes the paper, which develops an optimal fixed-rate mortgage refinancing model with fixed costs, Poisson attention, Brownian mortgage-rate dynamics, closed-form rate-gap thresholds, ergodic rate-gap distributions, and a sufficient-statistic mapping to Fannie Mae SFLP data—showing that inattentive borrowers should refinance at lower rate gaps when they finally pay attention and that this benchmark explains many apparent refinancing “mistakes,” implying that household refinancing behavior should be evaluated against an inattention-adjusted optimal rule rather than the perfect-attention ADL threshold."
 
 - title: "Opp, Opp, and Harris (JFE, 2013) - Rating agencies in the face of regulation"
   file: "Opp_Opp_Harris_JFE_2013.pdf"
@@ -4021,10 +4013,6 @@
   file: "Saretto_Tookes_RFS_2013.pdf"
   desc: "This note summarizes the paper, which studies whether single-name CDS trading relaxes credit supply by estimating a simultaneous system of firm leverage and debt-maturity regressions on CDS Trading (within-firm timing), validating the hedging mechanism with within-CDS liquidity tests (quote counts and bid–ask spreads), an IV for CDS introduction based on connected lenders’/underwriters’ FX-derivatives hedging propensity, and a matched-firm DiD event design around CDS start dates, and then shows the effects are strongest when supply is tight (aggregate credit tightening, local defaults, and connected-bank crisis writedowns) and work mainly through greater bond financing rather than loans—implying CDS markets expand debt capacity and lengthen maturity rather than merely reprice spreads."
 
-- title: "Autor, Dorn, and Hanson (AER: Insights, 2019) - When Work Disappears: Manufacturing Decline and the Falling Marriage Market Value of Young Men"
-  file: "Autor_Dorn_Hanson_AERInsight_2019.pdf"
-  desc: "This note summarizes the paper, which uses commuting-zone exposure to Chinese import competition (stacked first differences for 1990–2000 and 2000–2014) instrumented by China’s export growth to other rich countries, decomposes the shock into male- versus female-intensive industry components, and estimates CZ-level 2SLS regressions showing male-intensive trade shocks reduce young men’s relative employment and earnings, raise male idleness and premature mortality, and spill over into lower marriage and fertility and higher child poverty and single-parent households (with opposite-signed family effects for female-intensive shocks)."
-
 - title: "Jansen (RFS, 2025) - Long-Term Investors, Demand Shifts, and Yields"
   file: "Jansen_RFS_2025.pdf"
   desc: "This note summarizes the paper, which exploits the Netherlands’ July 2012 UFR reform to the regulatory discount curve as an exogenous maturity-specific demand shock for pension funds and insurers, estimates difference-in-differences portfolio regressions using pre-reform liability duration and solvency constraints to show exposed institutions rotate out of ≥30-year bonds into 15–25-year bonds and take more risk, and then instruments maturity-bucket yields with the reform-implied discount-curve weights to estimate a Koijen–Yogo-style government-bond demand system that quantifies yield effects and identifies banks as the most price-elastic investors and primary shock absorbers, with corroborating evidence from swap positions and European external-validity tests."
@@ -5424,10 +5412,6 @@
 - title: "Malenko & Shen (RFS, 2016) — The Role of Proxy Advisory Firms: Evidence from a Regression-Discontinuity Design"
   file: "Malenko_Shen_RFS_2016.pdf"
   desc: "This note summarizes the paper by exploiting ISS’s explicit TSR cutoff for say-on-pay votes to implement a fuzzy regression discontinuity / 2SLS design (BelowCutoff as an instrument for a negative ISS recommendation), running RD validity checks (McCrary density, covariate balance, placebo/falsification), heterogeneity and bandwidth/functional-form robustness, and interpreting the core tables and figures on the causal effect of proxy-advisor recommendations on voting support."
-
-- title: "Pierce & Schott (AER: Insights, 2020) — Trade Liberalization and Mortality: Evidence from US Counties"
-  file: "Pierce_and_Schott_AER_Insights_2020.pdf"
-  desc: "This note summarizes the paper by constructing county exposure to China’s PNTR using a 1990 employment–share shift-share NTR-gap measure, estimating population-weighted county-by-year generalized DiD/event-study regressions with county and year fixed effects plus rich controls/heterogeneity/robustness checks, and interpreting the core figures on post-2000 increases in drug-overdose “deaths of despair” and related labor-market and disability mechanisms."
 
 - title: "Chen, Chen, Kang, and Peng (JFE, 2020) — Board structure, director expertise, and advisory role of outside directors"
   file: "Chen_Chen_Kang_Peng_JFE_2020.pdf"
