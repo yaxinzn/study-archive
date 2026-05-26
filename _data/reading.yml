@@ -1,3 +1,7 @@
+- title: "Abaluck & Adams-Prassl (QJE, 2021) - What Do Consumers Consider Before They Choose? Identification from Asymmetric Demand Responses"
+  file: "Abaluck_AdamsPrassl_QJE_2021.pdf"
+  desc: "This note summarizes the paper, which uses asymmetric cross-price demand responses, limited-consideration theory, lab-choice validation with known consideration sets, Medicare Part D plan-choice data, hybrid default-specific and alternative-specific consideration models, switching-cost estimates, and smart-default welfare simulations to study consumer attention, showing that hidden consideration sets can be identified from choice data and that much Medicare Part D inertia reflects limited attention rather than only utility-relevant switching costs."
+
 - title: "Liu, Shu & Wei (JFE, 2017) - The Impacts of Political Uncertainty on Asset Prices: Evidence from the Bo Scandal in China"
   file: "Liu_Shu_Wei_JFE_2017.pdf"
   desc: "This note summarizes the paper, which uses the Bo Xilai scandal as an unexpected political uncertainty shock, Chinese A-share event-window returns, Google/Baidu attention measures, policy-sensitivity proxies, analyst forecast revisions, realized cash-flow tests, volatility changes, ownership splits, and Bo-connectedness controls to study political risk, showing that policy-sensitive firms suffer larger stock price declines and volatility increases, consistent with discount-rate/political-risk effects rather than near-term cash-flow news."
