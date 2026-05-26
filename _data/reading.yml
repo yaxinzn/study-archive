@@ -1,3 +1,7 @@
+- title: "Grubb & Osborne (AER, 2015) - Cellular Service Demand: Biased Beliefs, Learning, and Bill Shock"
+  file: "Grubb_Osborne_AER_2015.pdf"
+  desc: "This note summarizes the paper, which uses detailed cellular billing and usage data, three-part tariff plan menus, within-cycle calling responses, plan-choice dynamics, learning, biased-belief parameters, overconfidence estimates, bill-shock alert counterfactuals, and endogenous firm pricing simulations to study nonlinear pricing, showing that consumers underestimate usage risk and make costly plan choices, but consumer-protection alerts can reduce welfare once firms redesign tariffs in response."
+
 - title: "Cai, He, Jiang & Xiong (RFS, 2021) - The Whack-a-Mole Game: Tobin Taxes and Trading Frenzy"
   file: "Cai_He_Jiang_Xiong_RFS_2021.pdf"
   desc: "This note summarizes the paper, which uses China’s May 30, 2007 stock stamp-tax increase, untaxed stock warrants, warrant price and turnover data, investor account-level trading records, placebo stock-market crash events, and speculative-warrant heterogeneity to study Tobin taxes, showing that raising transaction costs in the stock market modestly reduced stock trading but redirected and amplified speculative activity in the untaxed warrant market, creating a regulatory “whack-a-mole” effect."
