@@ -1,3 +1,7 @@
+- title: "Froot, Scharfstein & Stein (JF, 1993) - Risk Management: Coordinating Corporate Investment and Financing Policies"
+  file: "Froot_Scharfstein_Stein_JF_1993.pdf"
+  desc: "This note summarizes the paper, which develops a corporate risk-management theory with costly external finance, investment-financing coordination, concavity of firm value in internal wealth, costly-state-verification foundations, state-contingent hedge ratios, multinational currency hedging, and options-based nonlinear hedging to study why firms hedge, showing that hedging creates value not by eliminating all risk but by transferring cash into states where internal funds are most valuable for funding positive-NPV investment."
+
 - title: "Brogaard, Denes & Duchin (RFS, 2021) - Political Influence and the Renegotiation of Government Contracts"
   file: "Brogaard_Denes_Duchin_RFS_2021.pdf"
   desc: "This note summarizes the paper, which uses U.S. federal procurement contracts, contract-renegotiation outcomes, firm PAC-based local political connections, sudden deaths and unexpected resignations of connected politicians, difference-in-differences event studies, underbidding tests, ARRA stimulus contracts, and firm-value reactions to study political influence, showing that connected firms use political access to obtain favorable ex post renegotiations in award amounts, deadlines, and monitoring terms, and that losing such access sharply reduces these benefits."
