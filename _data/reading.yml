@@ -1,3 +1,7 @@
+- title: "Geczy, Minton, and Schrand (JF, 1997) - Why Firms Use Currency Derivatives"
+  file: "Geczy_Minton_Schrand_JF_1997.pdf"
+  desc: "This note summarizes the paper, which uses Fortune 500 nonfinancial firms with foreign exchange exposure, annual-report currency derivative disclosures, hedging-incentive proxies, foreign income/sales/debt and import-competition exposure measures, binary logit models, robustness checks, and multinomial instrument-choice tests to study corporate currency hedging, showing that firms use currency derivatives mainly when hedging protects valuable investment opportunities, reduces financing frictions, manages real FX exposure, and benefits from scale economies in risk management."
+
 - title: "Abaluck & Adams-Prassl (QJE, 2021) - What Do Consumers Consider Before They Choose? Identification from Asymmetric Demand Responses"
   file: "Abaluck_AdamsPrassl_QJE_2021.pdf"
   desc: "This note summarizes the paper, which uses asymmetric cross-price demand responses, limited-consideration theory, lab-choice validation with known consideration sets, Medicare Part D plan-choice data, hybrid default-specific and alternative-specific consideration models, switching-cost estimates, and smart-default welfare simulations to study consumer attention, showing that hidden consideration sets can be identified from choice data and that much Medicare Part D inertia reflects limited attention rather than only utility-relevant switching costs."
