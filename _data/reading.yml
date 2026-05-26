@@ -1,3 +1,7 @@
+- title: "Li, Massa, Zhang, and Zhang (JFE, 2021) - Air Pollution, Behavioral Bias, and the Disposition Effect in China"
+  file: "Li_Massa_Zhang_Zhang_JFE_2021.pdf"
+  desc: "This note summarizes the paper, which uses proprietary Chinese mutual fund account trading data, city-day AQI pollution measures, disposition-effect measures, portfolio performance tests, strong-wind pollution-dissipation DID, Huai River RD/IV designs, account-level robustness, and realization-gain mechanism tests to study behavioral bias, showing that air pollution causally intensifies investors’ disposition effect and leads to costly premature selling of winners, consistent with pollution-induced mood or cognitive impairment."
+
 - title: "Dong, Fisman, Wang & Xu (JFE, 2021) - Air pollution, affect, and forecasting bias: Evidence from Chinese financial analysts"
   file: "Dong_Fisman_Wang_Xu_JFE_2021.pdf"
   desc: "This note summarizes the paper, which uses Chinese corporate site-visit disclosures, city-day air-quality data, sell-side analyst EPS forecasts, forecast optimism measures, weather and firm controls, analyst/city fixed effects, AQI category and timing tests, forecast-delay analysis, and group-visit heterogeneity to study expert judgment, showing that worse air pollution during site visits reduces analysts’ subsequent forecast optimism through a temporary affect channel rather than firm-fundamental information."
