@@ -1,3 +1,7 @@
+- title: "Chen, An, Wang & Yu (JF, 2023) - Attention Spillover in Asset Pricing"
+  file: "Chen_An_Wang_Yu_JF_2023.pdf"
+  desc: "This note summarizes the paper, which uses Chinese trading-software listing-code display proximity, retail brokerage account data, survey-linked behavioral measures, LOCAL/RLOCAL neighbor-return signals, portfolio sorts, Fama-MacBeth regressions, turnover tests, SME Board display-distance shocks, and arbitrage-cost heterogeneity to study attention spillover, showing that investors who experience gains trade more and buy nearby screen-neighbor stocks, creating temporary return, turnover, and comovement effects that later reverse."
+
 - title: "Bordalo, Gennaioli & Shleifer (JPE, 2013) - Salience and Consumer Choice"
   file: "Bordalo_Gennaioli_Shleifer_JPE_2013.pdf"
   desc: "This note summarizes the paper, which uses a salience-based consumer-choice model, quality and price attributes, reference-good comparisons, salience rankings, quality-to-price ratios, expected price contexts, decoy and compromise effects, and misleading-sale applications to study context-dependent demand, showing that consumers overweight whichever attribute stands out in the choice environment, so choices, willingness to pay, and price sensitivity can shift with comparison sets, expected prices, and advertised discounts."
