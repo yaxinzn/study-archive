@@ -1,3 +1,7 @@
+- title: "Deng, Liu & Wei (JFE, 2018) - One Fundamental and Two Taxes: When Does a Tobin Tax Reduce Financial Price Volatility?"
+  file: "Deng_Liu_Wei_JFE_2018.pdf"
+  desc: "This note summarizes the paper, which uses Chinese A/H cross-listed firms, Mainland stamp-duty changes, H-shares as same-firm fundamental controls, relative A-share versus H-share volatility and turnover, institutional ownership/trading measures, placebo tests, and IV heterogeneity estimates to study Tobin taxes, showing that transaction taxes reduce volatility in retail/noise-trader-dominated markets but can increase volatility when institutional investors are important by discouraging informed trading and price discovery."
+
 - title: "Ketcham, Lucarelli & Powers (AER, 2015) - Paying Attention or Paying Too Much in Medicare Part D"
   file: "Ketcham_Lucarelli_Powers_AER_2015.pdf"
   desc: "This note summarizes the paper, which uses Medicare Part D administrative data, person-specific counterfactual plan costs, PDP switching histories, above-minimum spending, plan-cost-bin choice sets, individual fixed effects, and ex post, ex ante, and rational-expectations cost models to study consumer inertia and choice overload, showing that beneficiaries are more likely to switch when their status quo plan becomes costly and when low-cost alternatives are available, with little evidence that larger menus mechanically increase inertia."
