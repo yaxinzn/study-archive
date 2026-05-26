@@ -1,3 +1,7 @@
+- title: "Liu, Shu & Wei (JFE, 2017) - The Impacts of Political Uncertainty on Asset Prices: Evidence from the Bo Scandal in China"
+  file: "Liu_Shu_Wei_JFE_2017.pdf"
+  desc: "This note summarizes the paper, which uses the Bo Xilai scandal as an unexpected political uncertainty shock, Chinese A-share event-window returns, Google/Baidu attention measures, policy-sensitivity proxies, analyst forecast revisions, realized cash-flow tests, volatility changes, ownership splits, and Bo-connectedness controls to study political risk, showing that policy-sensitive firms suffer larger stock price declines and volatility increases, consistent with discount-rate/political-risk effects rather than near-term cash-flow news."
+
 - title: "Campello, Lin, Ma & Zou (JF, 2011) - The Real and Financial Implications of Corporate Hedging"
   file: "Campello_Lin_Ma_Zou_JF_2011.pdf"
   desc: "This note summarizes the paper, which uses hand-collected IR/FX derivatives data, syndicated loan contracts, loan spreads, capital-expenditure covenants, investment outcomes, true cost of debt estimates, tax-convexity instruments, and robustness tests to study corporate hedging, showing that hedging improves financial contracting by lowering borrowing costs and investment restrictions, which in turn supports higher real investment."
