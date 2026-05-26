@@ -1,3 +1,7 @@
+- title: "Gul, Kim & Qiu (JFE, 2010) - Ownership Concentration, Foreign Shareholding, Audit Quality, and Stock Price Synchronicity: Evidence from China"
+  file: "Gul_Kim_Qiu_JFE_2010.pdf"
+  desc: "This note summarizes the paper, which uses Chinese listed firms, stock price synchronicity measures from market-model R^2, largest-shareholder ownership concentration, government-related ownership, H-share and B-share foreign participation, Big 4 audit indicators, auditor-choice robustness checks, and earnings-informativeness tests to study price informativeness, showing that firm-level governance shapes how much firm-specific information enters stock prices: state control and entrenchment-range ownership raise synchronicity, while foreign shareholding and high-quality auditing reduce it."
+
 - title: "Faccio (AER, 2006) - Politically Connected Firm"
   file: "Faccio_AER_2006.pdf"
   desc: "This note summarizes the paper, which uses a cross-country database of listed firms, direct shareholder/officer political-connection measures, country-level corruption and conflict-of-interest regulation, two-boundary Tobit incidence regressions, and event studies of newly formed connections to study politically connected firms, showing that connections are more common in weak-governance environments and create positive firm value especially when corporate insiders enter politics rather than when politicians join corporate boards."
