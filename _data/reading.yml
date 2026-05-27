@@ -1,3 +1,7 @@
+- title: "Ho (AER, 2009) - Insurer-Provider Networks in the Medical Care Market"
+  file: "Ho_AER_2009.pdf"
+  desc: "This note summarizes the paper, which uses managed-care plan networks, hospital-choice and plan-demand estimates, hospital cost data, observed insurer-provider contracts, revealed-preference inequalities, producer-surplus calculations, and set-identified bargaining parameters to study healthcare network formation, showing that star hospitals, capacity-constrained hospitals, and hospital systems capture higher markups and bargaining power, so positive surplus alone does not guarantee hospital inclusion in insurer network."
+
 - title: "Eizenberg (RES, 2014) - Upstream Innovation and Product Variety in the U.S. Home PC Marke"
   file: "Eizenberg_RES_2014.pdf"
   desc: "This note summarizes the paper, which uses U.S. home PC market data, CPU technology adoption, random-coefficients demand, Nash-Bertrand pricing, endogenous downstream product-portfolio choice, partially identified fixed costs, potential-equilibrium counterfactuals, and Pentium M innovation simulations to study upstream innovation and product variety, showing that Intel’s Pentium M raised aggregate welfare and notebook demand but crowded out older affordable configurations, concentrating benefits among less price-sensitive consumers."
