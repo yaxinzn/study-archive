@@ -1,3 +1,7 @@
+- title: "Fisman & Wang (RES, 2015) - The Mortality Cost of Political Connections"
+  file: "Fisman_Wang_RES_2015.pdf"
+  desc: "This note summarizes the paper, which uses Chinese listed firms, executive political-connection measures, worker-fatality records, safety and environmental violation reports, firm fixed-effects death regressions, market reactions to fatal accidents, connected-executive departures, and provincial NSNP regulator-incentive reforms to study the social cost of political ties, showing that connected firms face weaker safety scrutiny, have substantially higher worker death rates, and lose connection value after visible fatal accidents, while stronger regulator incentives reduce the excess mortality."
+
 - title: "Chetty, Looney & Kroft (AER, 2009) - Salience and Taxation: Theory and Evidence"
   file: "Chetty_Looney_Kroft_AER_2009.pdf"
   desc: "This note summarizes the paper, which uses a grocery-store field experiment with tax-inclusive price tags, survey evidence on tax salience, state beer-consumption panels, excise-versus-sales-tax comparisons, triple-difference estimates, salience-parameter estimation, and incidence/welfare theory to study taxation, showing that consumers underreact to taxes not included in posted prices and that tax visibility changes demand responses, tax incidence, and excess-burden calculations."
