@@ -1,3 +1,7 @@
+- title: "Berry (Econometrica, 1992) - Estimation of a Model of Entry in the Airline Industry"
+  file: "Berry_Econometrica_1992.pdf"
+  desc: "This note summarizes the paper, which uses U.S. airline city-pair entry data, airport-presence measures, market-size and distance variables, entry and exit between 1980 quarters, oligopoly entry equilibrium restrictions, firm heterogeneity, strategic competition effects, special-case probit/ordered-probit models, and simulation estimation to study airline route entry, showing that airport presence raises route profitability, but strategic interaction sharply limits how many firms can profitably enter when many airlines become well positioned."
+
 - title: "Bernard, Redding & Schott (QJE, 2011) - Multiproduct Firms and Trade Liberalization"
   file: "Bernard_Redding_Schott_QJE_2011.pdf"
   desc: "This note summarizes the paper, which uses a multiproduct, multidestination heterogeneous-firm model, U.S. Census transaction-level trade data, CUSFTA tariff reductions, firm-product-country export margins, gravity regressions, product-rank distributions, and fixed-effect decompositions to study trade liberalization, showing that globalization reallocates activity not only across firms but also within firms, as surviving firms drop weaker products and concentrate production and exports on their strongest products."
