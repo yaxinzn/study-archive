@@ -1,3 +1,7 @@
+- title: "Ho and Lee (Econometrica, 2017) - Insurer Competition in Health Care Markets"
+  file: "Ho_Lee_Econometrica_2017.pdf"
+  desc: "This note summarizes the paper, which uses CalPERS insurance enrollment and claims data, hospital demand, plan demand, negotiated hospital prices, insurer-hospital Nash bargaining, employer-insurer premium bargaining, counterfactual insurer removal, and hospital-price decomposition to study insurer competition, showing that insurer exit can raise premiums but also change remaining insurers’ bargaining leverage over hospitals, so the net effect on hospital prices and surplus depends on insurer identity, enrollment shifts, and premium-setting institutions."
+
 - title: "Ho (AER, 2009) - Insurer-Provider Networks in the Medical Care Market"
   file: "Ho_AER_2009.pdf"
   desc: "This note summarizes the paper, which uses managed-care plan networks, hospital-choice and plan-demand estimates, hospital cost data, observed insurer-provider contracts, revealed-preference inequalities, producer-surplus calculations, and set-identified bargaining parameters to study healthcare network formation, showing that star hospitals, capacity-constrained hospitals, and hospital systems capture higher markups and bargaining power, so positive surplus alone does not guarantee hospital inclusion in insurer network."
