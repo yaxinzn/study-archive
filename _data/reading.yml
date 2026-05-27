@@ -1,3 +1,7 @@
+- title: "Chetty, Looney & Kroft (AER, 2009) - Salience and Taxation: Theory and Evidence"
+  file: "Chetty_Looney_Kroft_AER_2009.pdf"
+  desc: "This note summarizes the paper, which uses a grocery-store field experiment with tax-inclusive price tags, survey evidence on tax salience, state beer-consumption panels, excise-versus-sales-tax comparisons, triple-difference estimates, salience-parameter estimation, and incidence/welfare theory to study taxation, showing that consumers underreact to taxes not included in posted prices and that tax visibility changes demand responses, tax incidence, and excess-burden calculations."
+
 - title: "Panousi & Papanikolaou (JF, 2012) - Investment, Idiosyncratic Risk, and Ownership"
   file: "Panousi_Papanikolaou_JF_2012.pdf"
   desc: "This note summarizes the paper, which uses firm-level investment, idiosyncratic volatility from stock-return residuals, insider ownership, executive option convexity, institutional ownership, measurement-error corrections, customer-concentration instruments, and crisis-period tests to study managerial risk aversion, showing that idiosyncratic risk reduces investment especially when managers hold more insider equity, while options and institutional monitoring mitigate this underinvestment channel."
