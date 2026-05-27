@@ -1,3 +1,7 @@
+- title: "Bresnahan & Reiss (JPE, 1991) - Entry and Competition in Concentrated Markets"
+  file: "Bresnahan_Reiss_JPE_1991.pdf"
+  desc: "This note summarizes the paper, which uses isolated local markets, firm-count data for doctors, dentists, druggists, plumbers, and tire dealers, market-size entry thresholds, ordered-probit market-structure likelihoods, threshold-ratio conduct measures, fixed-cost and market-definition tests, and tire-price validation to study entry and competition, showing that most competitive discipline in concentrated local markets comes from the second and third entrants, while additional entry beyond roughly three to five firms has much smaller incremental effects."
+
 - title: "Gulen & Ion (RFS, 2016) - Policy Uncertainty and Corporate Investment"
   file: "Gulen_Ion_RFS_2016.pdf"
   desc: "This note summarizes the paper, which uses firm-quarter capital investment, the Baker–Bloom–Davis policy uncertainty index, Tobin’s q and cash-flow controls, macro uncertainty measures, out-of-sample forecasting tests, irreversibility and government-spending exposure interactions, Canadian residual policy uncertainty, and political-polarization IV tests to study corporate investment, showing that policy uncertainty depresses investment especially for firms with more irreversible assets and greater exposure to government demand, consistent with real-options delay."
