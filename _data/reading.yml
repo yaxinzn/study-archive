@@ -1,3 +1,7 @@
+- title: "Ryan (Econometrica, 2012) - The Costs of Environmental Regulation in a Concentrated Industry"
+  file: "Ryan_Econometrica_2012.pdf"
+  desc: "This note summarizes the paper, which uses U.S. Portland cement industry data, Clean Air Act Amendment timing, regional demand and plant-capacity data, dynamic oligopoly modeling, entry/exit and capacity-investment policies, Bajari–Benkard–Levin two-step estimation, and counterfactual regulatory-cost simulations to study environmental regulation, showing that regulation raises sunk entry costs, reduces future competition, increases prices, lowers consumer surplus, and can benefit incumbents by protecting them from entry."
+
 - title: "Kalouptsidi (AER, 2014) - Time to Build and Fluctuations in Bulk Shipping"
   file: "Kalouptsidi_AER_2014.pdf"
   desc: ";This note summarizes the paper, which uses Handysize bulk-shipping data, secondhand ship prices as value-function observations, freight-demand state estimation, endogenous time-to-build delivery lags, entry and exit dynamics, scrap values, shipbuilding prices, and counterfactual models with constant or no construction delays to study capacity adjustment, showing that time to build delays supply responses to demand shocks, raises freight prices, protects incumbent shipowners, and generates persistent investment cycles and welfare losses for shipping consumers."
