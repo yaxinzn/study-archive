@@ -1,3 +1,7 @@
+- title: "Panousi & Papanikolaou (JF, 2012) - Investment, Idiosyncratic Risk, and Ownership"
+  file: "Panousi_Papanikolaou_JF_2012.pdf"
+  desc: "This note summarizes the paper, which uses firm-level investment, idiosyncratic volatility from stock-return residuals, insider ownership, executive option convexity, institutional ownership, measurement-error corrections, customer-concentration instruments, and crisis-period tests to study managerial risk aversion, showing that idiosyncratic risk reduces investment especially when managers hold more insider equity, while options and institutional monitoring mitigate this underinvestment channel."
+
 - title: "Brown & Huang (JFE, 2020) - All the President’s Friends: Political Access and Firm Value"
   file: "Brown_Huang_JFE_2020.pdf"
   desc: "This note summarizes the paper, which uses Obama White House visitor logs, corporate executive visit events, political spending and lobbying controls, event-study abnormal returns, visitor-log release reactions, the 2016 presidential election shock, matched procurement tests, and regulatory-news outcomes to study political access, showing that direct access to high-level officials is a scarce and valuable corporate asset that increases firm value, procurement opportunities, and favorable regulatory outcomes, but loses value when political control changes."
