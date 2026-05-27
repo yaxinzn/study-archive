@@ -1,3 +1,7 @@
+- title: "Gulen & Ion (RFS, 2016) - Policy Uncertainty and Corporate Investment"
+  file: "Gulen_Ion_RFS_2016.pdf"
+  desc: "This note summarizes the paper, which uses firm-quarter capital investment, the Baker–Bloom–Davis policy uncertainty index, Tobin’s q and cash-flow controls, macro uncertainty measures, out-of-sample forecasting tests, irreversibility and government-spending exposure interactions, Canadian residual policy uncertainty, and political-polarization IV tests to study corporate investment, showing that policy uncertainty depresses investment especially for firms with more irreversible assets and greater exposure to government demand, consistent with real-options delay."
+
 - title: "Ryan (Econometrica, 2012) - The Costs of Environmental Regulation in a Concentrated Industry"
   file: "Ryan_Econometrica_2012.pdf"
   desc: "This note summarizes the paper, which uses U.S. Portland cement industry data, Clean Air Act Amendment timing, regional demand and plant-capacity data, dynamic oligopoly modeling, entry/exit and capacity-investment policies, Bajari–Benkard–Levin two-step estimation, and counterfactual regulatory-cost simulations to study environmental regulation, showing that regulation raises sunk entry costs, reduces future competition, increases prices, lowers consumer surplus, and can benefit incumbents by protecting them from entry."
