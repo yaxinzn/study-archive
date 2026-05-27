@@ -1,3 +1,7 @@
+- title: "Collard-Wexler (Econometrica, 2013) - Demand Fluctuations in the Ready-Mix Concrete Industry"
+  file: "CollardWexler_Econometrica_2013.pdf"
+  desc: "This note summarizes the paper, which uses U.S. Census ready-mix concrete plant histories, county-level construction employment demand, local oligopoly market structure, dynamic entry/exit and plant-size investment, CCP indirect-inference estimation, transition costs, market unobservables, and demand-smoothing counterfactuals to study demand volatility, showing that smoothing short-run demand reduces turnover but expands the number and size of plants, increases competition and consumer surplus, and redistributes surplus away from incumbent producers."
+
 - title: "Bresnahan & Reiss (JPE, 1991) - Entry and Competition in Concentrated Markets"
   file: "Bresnahan_Reiss_JPE_1991.pdf"
   desc: "This note summarizes the paper, which uses isolated local markets, firm-count data for doctors, dentists, druggists, plumbers, and tire dealers, market-size entry thresholds, ordered-probit market-structure likelihoods, threshold-ratio conduct measures, fixed-cost and market-definition tests, and tire-price validation to study entry and competition, showing that most competitive discipline in concentrated local markets comes from the second and third entrants, while additional entry beyond roughly three to five firms has much smaller incremental effects."
