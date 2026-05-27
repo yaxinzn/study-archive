@@ -1,3 +1,7 @@
+- title: "Eizenberg (RES, 2014) - Upstream Innovation and Product Variety in the U.S. Home PC Marke"
+  file: "Eizenberg_RES_2014.pdf"
+  desc: "This note summarizes the paper, which uses U.S. home PC market data, CPU technology adoption, random-coefficients demand, Nash-Bertrand pricing, endogenous downstream product-portfolio choice, partially identified fixed costs, potential-equilibrium counterfactuals, and Pentium M innovation simulations to study upstream innovation and product variety, showing that Intel’s Pentium M raised aggregate welfare and notebook demand but crowded out older affordable configurations, concentrating benefits among less price-sensitive consumers."
+
 - title: "Kim & Kung (RFS, 2017) - The Asset Redeployability Channel: How Uncertainty Affects Corporate Investment"
   file: "Kim_Kung_RFS_2017.pdf"
   desc: "This note summarizes the paper, which uses BEA capital-flow-based asset redeployability measures, Compustat quarterly investment data, Gulf War I and 9/11 uncertainty shocks, VIX and EPU long-panel tests, dynamic event specifications, Tobin’s q measurement-error corrections, and recovery-rate, asset-sale, leverage, and debt-maturity validation tests to study investment under uncertainty, showing that firms with less redeployable assets cut investment more when uncertainty rises because irreversible capital makes waiting more valuable."
