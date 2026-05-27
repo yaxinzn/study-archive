@@ -1,3 +1,7 @@
+- title: "Kalouptsidi (AER, 2014) - Time to Build and Fluctuations in Bulk Shipping"
+  file: "Kalouptsidi_AER_2014.pdf"
+  desc: ";This note summarizes the paper, which uses Handysize bulk-shipping data, secondhand ship prices as value-function observations, freight-demand state estimation, endogenous time-to-build delivery lags, entry and exit dynamics, scrap values, shipbuilding prices, and counterfactual models with constant or no construction delays to study capacity adjustment, showing that time to build delays supply responses to demand shocks, raises freight prices, protects incumbent shipowners, and generates persistent investment cycles and welfare losses for shipping consumers."
+
 - title: "Jones & Romer (AEJ: Macroeconomics, 2010) - The New Kaldor Facts: Ideas, Institutions, Population, and Human Capita"
   file: "Jones_Romer_AEJMacro_2010.pdf"
   desc: "This note summarizes the paper, which uses six updated Kaldor-style growth facts, globalization measures, long-run population and GDP data, frontier-distance growth variation, cross-country income and TFP gaps, U.S. schooling and wage-premium evidence, and nonrival-ideas growth logic to study modern economic growth, showing that growth theory must move beyond physical capital toward a unified framework centered on ideas, institutions, population, human capital, market size, and technology diffusion."
