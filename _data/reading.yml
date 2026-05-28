@@ -1,3 +1,7 @@
+- title: "Bohren, Imas & Rosenberg (AER, 2019) - The Dynamics of Discrimination: Theory and Evidence"
+  file: "Bohren_Imas_Rosenberg_AER_2019.pdf"
+  desc: "This note summarizes the paper, which uses a dynamic theory of discrimination, subjective versus objective evaluation tasks, gendered usernames, novice and high-reputation account histories, randomized mathematics Q&A posts, reputation changes, net votes, and dynamic reversal tests to study discrimination mechanisms, showing that subjective novice evaluations penalize female accounts but high-reputation female accounts are favored, implying biased belief-based discrimination rather than simple taste-based or correctly specified statistical discrimination."
+
 - title: "Stroebel (JF, 2016) - Asymmetric Information about Collateral Values"
   file: "Stroebel_JF_2016.pdf"
   desc: "This note summarizes the paper, which uses Arizona new-home mortgage data, developer-integrated lender relationships, repeat-sale returns, tax assessments, foreclosure outcomes, HMDA rejection records, second-owner performance, building-permit and property-listing evidence, expansive-soil heterogeneity, and mortgage-rate regressions to study collateral information, showing that integrated lenders use private information about construction quality to select better collateral, leaving nonintegrated lenders adversely selected and charging higher rates, especially for high-LTV loans."
