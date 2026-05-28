@@ -1,3 +1,7 @@
+- title: "Biasi & Sarsons (QJE, 2022) - Flexible Wages, Bargaining, and the Gender Gap"
+  file: "Biasi_Sarsons_QJE_2022.pdf"
+  desc: "This note summarizes the paper, which uses Wisconsin teacher administrative data, Act 10’s staggered CBA expiration/extension timing, flexible-pay exposure, event-study and OLS/2SLS wage-gap estimates, teacher value-added controls, leadership-gender heterogeneity, bargaining survey evidence, and mobility tests to study pay flexibility, showing that moving from rigid salary schedules to flexible bargaining widened the gender wage gap because women negotiated less often or less successfully, especially under male leaders and in less schedule-bound districts."
+
 - title: "Murfin (JF, 2012) - The Supply-Side Determinants of Loan Contract Strictness"
   file: "Murfin_JF_2012.pdf"
   desc: "This note summarizes the paper, which uses DealScan-Compustat loan packages, a multivariate covenant-violation probability measure of contract strictness, lender portfolio default histories, borrower fixed effects, unrelated industry/geography default tests, lender capitalization controls, legacy-default timing, and borrower outside-option heterogeneity to study loan contracting, showing that lenders write stricter covenants after recent defaults in their own portfolios, especially when borrowers have weak alternative financing options."
