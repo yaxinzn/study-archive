@@ -1,3 +1,7 @@
+- title: "Greenwood & Vayanos (RFS, 2014) - Bond Supply and Excess Bond Returns"
+  file: "Greenwood_Vayanos_RFS_2014.pdf"
+  desc: "This note summarizes the paper, which uses Treasury cash-flow maturity profiles, maturity-weighted debt-to-GDP, long-term debt supply, bond yield and excess-return regressions, maturity-gradient tests, debt-to-GDP instruments, prewar historical validation, arbitrageur-wealth interactions, and model calibration to study portfolio-balance effects, showing that higher duration-weighted government bond supply raises long yields and predicts higher future bond returns because risk-averse arbitrageurs require compensation for absorbing more duration risk."
+
 - title: "Basten & Juelsrud (RFS, 2026) - Cross-Selling in Bank-Household Relationships: Mechanisms and Implications for Pricing"
   file: "Basten_Juelsrud_RFS_2026.pdf"
   desc: "This note summarizes the paper, which uses Norwegian household-bank relationship data, actual and hypothetical deposit relationships, deposit stickiness, depositor-borrower conversion, loan pricing and default-screening tests, mover and tenure evidence, account-type pricing, predicted loan propensity, and deposit-spread pass-through regressions to study cross-selling, showing that deposits serve as sticky onboarding products for future loans, with banks pricing deposits according to expected future lending value rather than only current funding costs."
