@@ -1,3 +1,7 @@
+- title: "Kisgen & Strahan (RFS, 2010) - Do Regulations Based on Credit Ratings Affect a Firm’s Cost of Capital?"
+  file: "Kisgen_Strahan_RFS_2010.pdf"
+  desc: "This note summarizes the paper, which uses the SEC’s 2003 recognition of DBRS as an NRSRO, pre-existing DBRS versus Moody’s/S&P rating differences, corporate bond yield changes, investment-grade boundary tests, false-event falsifications, insurance-company holdings, liquidity measures, and DBRS rating-behavior regressions to study ratings-based regulation, showing that regulatory recognition of a rating agency lowers firms’ debt cost of capital when its ratings improve regulatory eligibility, especially near the investment-grade cutoff."
+
 - title: "Sufi (JF, 2007) - Information Asymmetry and Financing Arrangements: Evidence from Syndicated Loans"
   file: "Sufi_JF_2007.pdf"
   desc: "This note summarizes the paper, which uses U.S. syndicated loan deals, borrower opacity categories, lead arranger loan shares, syndicate concentration, participant-lender relationships, borrower and lead-bank reputation, collateral tests, and participant choice probits to study information asymmetry, showing that opaque borrowers receive loans with higher lead retention and more concentrated syndicates because participant lenders require stronger monitoring incentives and informed relationships when borrower information is limited."
