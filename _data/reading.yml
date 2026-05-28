@@ -1,3 +1,7 @@
+- title: "Bongaerts, Cremers, and Goetzmann (JF, 2012) - Tiebreaker: Certification and Multiple Credit Ratings"
+  file: "Bongaerts_Cremers_Goetzmann_JF_2012.pdf"
+  desc: "This note summarizes the paper, which uses corporate bond ratings from Moody’s, S&P, and Fitch, HY–IG boundary rules, credit spread reactions, Fitch addition timing, Cox hazard models, default-prediction tests, rating-transition evidence, and bond turnover regressions to study multiple credit ratings, showing that Fitch’s marginal value comes mainly from regulatory certification as a tiebreaker that can move bonds into investment grade, rather than from broad additional default-risk information."
+
 - title: "Kisgen & Strahan (RFS, 2010) - Do Regulations Based on Credit Ratings Affect a Firm’s Cost of Capital?"
   file: "Kisgen_Strahan_RFS_2010.pdf"
   desc: "This note summarizes the paper, which uses the SEC’s 2003 recognition of DBRS as an NRSRO, pre-existing DBRS versus Moody’s/S&P rating differences, corporate bond yield changes, investment-grade boundary tests, false-event falsifications, insurance-company holdings, liquidity measures, and DBRS rating-behavior regressions to study ratings-based regulation, showing that regulatory recognition of a rating agency lowers firms’ debt cost of capital when its ratings improve regulatory eligibility, especially near the investment-grade cutoff."
