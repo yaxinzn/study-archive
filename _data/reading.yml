@@ -1,3 +1,7 @@
+- title: "Cook, Marx & Yimfor (JF, 2026) - Funding Black High-Growth Startups"
+  file: "Cook_Marx_Yimfor_JF_2026.pdf"
+  desc: "This note summarizes the paper, which uses PitchBook high-growth startup data, perceived-race classification from images/names/manual review, VC funding outcomes, funding-round transition tests, Gelbach decompositions, founder success markers, VC partner race, exit outcomes, and founder–investor network scores to study racial gaps in venture finance, showing that Black-owned startups raise substantially less VC funding, especially at the early-stage transition, partly because of weaker traditional success markers and network access, while Black VC partners appear better able to screen and fund successful Black founders."
+
 - title: "Greenwood & Vayanos (RFS, 2014) - Bond Supply and Excess Bond Returns"
   file: "Greenwood_Vayanos_RFS_2014.pdf"
   desc: "This note summarizes the paper, which uses Treasury cash-flow maturity profiles, maturity-weighted debt-to-GDP, long-term debt supply, bond yield and excess-return regressions, maturity-gradient tests, debt-to-GDP instruments, prewar historical validation, arbitrageur-wealth interactions, and model calibration to study portfolio-balance effects, showing that higher duration-weighted government bond supply raises long yields and predicts higher future bond returns because risk-averse arbitrageurs require compensation for absorbing more duration risk."
