@@ -1,3 +1,7 @@
+- title: "Stroebel (JF, 2016) - Asymmetric Information about Collateral Values"
+  file: "Stroebel_JF_2016.pdf"
+  desc: "This note summarizes the paper, which uses Arizona new-home mortgage data, developer-integrated lender relationships, repeat-sale returns, tax assessments, foreclosure outcomes, HMDA rejection records, second-owner performance, building-permit and property-listing evidence, expansive-soil heterogeneity, and mortgage-rate regressions to study collateral information, showing that integrated lenders use private information about construction quality to select better collateral, leaving nonintegrated lenders adversely selected and charging higher rates, especially for high-LTV loans."
+
 - title: "Cullen & Perez-Truglia (AER, 2023) - The Old Boys’ Club: Schmoozing and the Gender Gap"
   file: "Cullen_PerezTruglia_AER_2023.pdf"
   desc: "This note summarizes the paper, which uses a large commercial bank’s employee–manager panel, manager rotations, pay-grade outcomes, smoking-based social-interaction opportunities, break-taking survey measures, effort/performance/retention controls, manager-gender transitions, and proximity heterogeneity to study workplace networking, showing that informal access to managers increases career advancement and that male-to-male social interaction advantages contribute substantially to gender gaps in internal promotions."
