@@ -1,3 +1,7 @@
+- title: "Cohen, Diether, and Malloy (JF, 2007) - Supply and Demand Shifts in the Shorting Marke"
+  file: "Cohen_Diether_Malloy_JF_2007.pdf"
+  desc: "This note summarizes the paper, which uses proprietary stock-lending data, loan fees, quantities on loan, supply-and-demand shift classifications, abnormal return regressions, portfolio tests, information-environment interactions, and shorting-risk controls to study the shorting market, showing that outward shorting-demand shifts—simultaneous increases in borrowing fees and loan quantities—strongly predict negative future returns because informed short sellers reveal private negative information through the stock-loan market."
+
 - title: "Loualiche, Pecora, Somogyi & Ward (JFE, 2026) - Monetary Policy Transmission through the Exchange Rate Factor Structure"
   file: "Loualiche_Pecora_Somogyi_Ward_JFE_2026.pdf"
   desc: "This note summarizes the paper, which uses high-frequency FOMC monetary policy shocks, currency carry and dollar betas, CLS institutional currency-flow data, DealScan foreign syndicated loan origination, Compustat firm outcomes, bank-currency lending regressions, and firm-level borrowing and investment tests to study international monetary transmission, showing that US monetary easing reallocates capital toward high-risk/high-carry currencies through investment funds and global US banks, increasing borrowing, leverage, assets, and tangible investment for firms exposed to those currencies."
