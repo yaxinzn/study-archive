@@ -1,3 +1,7 @@
+- title: "Kugler & Verhoogen (RES, 2012) - Prices, Plant Size, and Product Quality"
+  file: "Kugler_Verhoogen_RES_2012.pdf"
+  desc: "This note summarizes the paper, which uses Colombian manufacturing census plant-product data, output and input unit values, plant size and export measures, product-year fixed effects, employment-based 2SLS, quality-augmented Melitz models, R&D/advertising quality-differentiation proxies, and market-power tests to study prices and quality, showing that larger plants and exporters charge higher output prices and pay higher input prices because more capable firms upgrade both product quality and input quality, especially in sectors with greater scope for quality differentiation."
+
 - title: "Mian, Sufi, and Trebbi (AER, 2010) - The Political Economy of the US Mortgage Default Crisis"
   file: "Mian_Sufi_Trebbi_AER_2010.pdf"
   desc: "This note summarizes the paper, which uses House roll-call votes on AHRFPA and EESA, district-level mortgage defaults, financial-sector campaign contributions, DW-Nominate ideology scores, electoral competitiveness, party-registration-weighted default exposure, and switch-vote analysis to study crisis politics, showing that mortgage distress, financial-sector special interests, and ideology jointly shaped congressional support for housing and bank rescue legislation, with conservatives responding less to both constituent distress and donor pressure."
