@@ -1,3 +1,7 @@
+- title: "Lou (RFS, 2014) - Attracting Investor Attention through Advertising"
+  file: "Lou_RFS_2014.pdf"
+  desc: "This note summarizes the paper, which uses Compustat advertising data, CRSP returns, retail order imbalance, short interest, insider trading, restricted-share vesting, equity issuance, and stock-financed acquisition events to study investor attention, showing that advertising growth attracts retail buying and temporarily raises stock prices before reversals, and that managers appear to increase advertising opportunistically before insider sales and equity-sensitive corporate events."
+
 - title: "Vayanos & Vila (Econometrica, 2021) - A Preferred-Habitat Model of the Term Structure of Interest Rates"
   file: "Vayanos_Vila_Econometrica_2021.pdf"
   desc: "This note summarizes the paper, which uses a preferred-habitat no-arbitrage term-structure model, maturity-specific investor demand, risk-averse arbitrageurs, affine bond pricing, U.S. yield-curve moments, Treasury trading-volume shares, demand-elasticity calibration, and forward-guidance/QE counterfactuals to study interest-rate transmission, showing that limited arbitrage makes long yields underreact to expected short-rate changes while maturity-targeted asset purchases can move long rates by shifting the duration risk arbitrageurs must absorb."
