@@ -1,3 +1,7 @@
+- title: "Ioannidou, Pavanini & Peng (JFE, 2022) - Collateral and Asymmetric Information in Lending Markets"
+  file: "Ioannidou_Pavanini_Peng_JFE_2022.pdf"
+  desc: "This note summarizes the paper, which uses Bolivian credit registry data, secured and unsecured commercial loans, collateral values and recovery assumptions, predicted contract menus and interest rates, borrower demand, default equations, adverse-selection correlations, moral-hazard effects, bank pricing, and collateral-shock/rationing counterfactuals to study lending markets, showing that collateral screens safer borrowers and disciplines repayment, but its effectiveness depends on collateral values and banks’ ability to ration contracts when collateral shocks weaken screening."
+
 - title: "Kugler & Verhoogen (RES, 2012) - Prices, Plant Size, and Product Quality"
   file: "Kugler_Verhoogen_RES_2012.pdf"
   desc: "This note summarizes the paper, which uses Colombian manufacturing census plant-product data, output and input unit values, plant size and export measures, product-year fixed effects, employment-based 2SLS, quality-augmented Melitz models, R&D/advertising quality-differentiation proxies, and market-power tests to study prices and quality, showing that larger plants and exporters charge higher output prices and pay higher input prices because more capable firms upgrade both product quality and input quality, especially in sectors with greater scope for quality differentiation."
