@@ -1,3 +1,7 @@
+- title: "Murfin (JF, 2012) - The Supply-Side Determinants of Loan Contract Strictness"
+  file: "Murfin_JF_2012.pdf"
+  desc: "This note summarizes the paper, which uses DealScan-Compustat loan packages, a multivariate covenant-violation probability measure of contract strictness, lender portfolio default histories, borrower fixed effects, unrelated industry/geography default tests, lender capitalization controls, legacy-default timing, and borrower outside-option heterogeneity to study loan contracting, showing that lenders write stricter covenants after recent defaults in their own portfolios, especially when borrowers have weak alternative financing options."
+
 - title: "Glover, Pallais & Pariente (QJE, 2017) - Discrimination as a Self-Fulfilling Prophecy: Evidence from French Grocery Stores"
   file: "Glover_Pallais_Pariente_QJE_2017.pdf"
   desc: "This note summarizes the paper, which uses French grocery-store worker-day data, quasi-random cashier-manager scheduling, manager IAT bias toward North African names, worker fixed effects, attendance and scanning-speed outcomes, worker survey mechanisms, interaction measures, and minority-versus-majority performance comparisons to study discrimination, showing that biased managers lower minority worker performance through reduced interaction, making discriminatory beliefs self-fulfilling in real workplace productivity."
