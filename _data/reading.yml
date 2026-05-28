@@ -1,3 +1,7 @@
+- title: "Kaniel, Liu, Saar & Titman (JF, 2012) - Individual Investor Trading and Return Patterns around Earnings Announcements"
+  file: "Kaniel_Liu_Saar_Titman_JF_2012.pdf"
+  desc: "This note summarizes the paper, which uses direct NYSE individual-investor trading data, earnings announcement events, normalized retail order imbalances, earnings-surprise controls, abnormal-return windows, liquidity-versus-information decompositions, dividend-announcement checks, and post-event trading regressions to study retail trading, showing that pre-announcement individual buying predicts positive abnormal returns partly through information, while post-announcement retail trading is contrarian to both returns and earnings news and may slow price adjustment."
+
 - title: "Cohen, Diether, and Malloy (JF, 2007) - Supply and Demand Shifts in the Shorting Marke"
   file: "Cohen_Diether_Malloy_JF_2007.pdf"
   desc: "This note summarizes the paper, which uses proprietary stock-lending data, loan fees, quantities on loan, supply-and-demand shift classifications, abnormal return regressions, portfolio tests, information-environment interactions, and shorting-risk controls to study the shorting market, showing that outward shorting-demand shifts—simultaneous increases in borrowing fees and loan quantities—strongly predict negative future returns because informed short sellers reveal private negative information through the stock-loan market."
