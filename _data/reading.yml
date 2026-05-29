@@ -1,3 +1,7 @@
+- title: "Greenwood, Hanson, and Stein (JF, 2010) - A Gap-Filling Theory of Corporate Debt Maturity Choice"
+  file: "Greenwood_Hanson_Stein_JF_2010_notes.pdf"
+  desc: "This note summarizes the paper, which uses a preferred-habitat model of government and corporate debt supply, Flow of Funds corporate maturity measures, Compustat firm-level maturity data, CRSP Treasury maturity measures, interest-rate and macro controls, scale interactions, cross-sectional flexibility tests, and bond-return predictability regressions to study aggregate corporate debt maturity choice, showing that firms fill maturity gaps created by Treasury issuance by issuing less long-term debt when the government supplies more long-term debt, especially when government debt supply is large and when firms are financially flexible."
+
 - title: "Maksimovic, Phillips, and Prabhala (JFE, 2011) - Post-merger Restructuring and the Boundaries of the Firm"
   file: "Maksimovic_Phillips_Prabhala_JFE_2011.pdf"
   desc: "This note summarizes the paper, which links SDC merger data to Census/LRD plant-level manufacturing data, plant disposition outcomes, relatedness measures, target-main-division indicators, acquirer skill, productivity, margins, financing variables, and multinomial logit and post-merger performance regressions to study how mergers reshape firm boundaries, showing that acquirers sell or close nearly half of target plants within three years and retain assets that fit their comparative advantage, with retained plants improving more in productivity and margins than sold plants."
