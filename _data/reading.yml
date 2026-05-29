@@ -1,3 +1,7 @@
+- title: "Donaldson (AER, 2018) - Railroads of the Raj: Estimating the Impact of Transportation Infrastructure"
+  file: "Donaldson_AER_2018.pdf"
+  desc: "This note summarizes the paper, which uses colonial Indian district-level data on agricultural income, prices, rainfall, internal and external trade flows, salt price gaps, and a digitized railroad network with opening dates, combined with a Ricardian trade model, trade-cost estimation, gravity regressions, placebo railroad lines, and a model-based own-trade-share sufficient statistic to study transportation infrastructure, showing that railroads lowered trade costs, expanded trade, raised real agricultural income by about 16 percent, and that the gains-from-trade channel explains slightly more than half of the reduced-form income effect."
+
 - title: "Caliendo and Parro (RES, 2015) - Estimates of the Trade and Welfare Effects of NAFTA"
   file: "Caliendo_Parro_RES_2015.pdf"
   desc: "This note summarizes the paper, which uses bilateral trade flows, sectoral tariffs, production and input-output data for 31 economies and 40 sectors, sector-specific trade elasticities estimated through a gravity triple-ratio method, and multi-country multi-sector Eaton-Kortum counterfactuals to study NAFTA's trade and welfare effects, showing that tariff reductions substantially increased intra-NAFTA trade and raised welfare especially in Mexico, with intermediate inputs, sectoral heterogeneity, and input-output linkages greatly amplifying the effects relative to simpler trade models."
