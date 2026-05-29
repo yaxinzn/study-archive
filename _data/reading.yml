@@ -1,3 +1,7 @@
+- title: "Schmidt, Timmermann, and Wermers (AER, 2016) - Runs on Money Market Mutual Funds"
+  file: "Schmidt_Timmermann_Wermers_AER_2016.pdf"
+  desc: "This note summarizes the paper, which uses daily iMoneyNet share-class data, expense-ratio-based investor sophistication measures, within-fund comparisons, Lehman-week flow dynamics, ultra-short bond fund comparisons, investor-interaction regressions, and dynamic quantile regressions to study runs on money market mutual funds, showing that sophisticated low-expense-ratio institutional investors redeemed more aggressively, especially in funds with many other sophisticated investors, and that fixed NAV structures and strategic complementarities amplified run risk beyond observable portfolio fundamentals."
+
 - title: "Di Maggio and Kacperczyk (JFE, 2017) - The Unintended Consequences of the Zero Lower Bound Policy"
   file: "DiMaggio_Kacperczyk_JFE_2017.pdf"
   desc: "This note summarizes the paper, which uses iMoneyNet prime money market fund data, ZIRP and forward-guidance event windows, fund exits, spreads, risky holdings, fee waivers, sponsor-type heterogeneity, N-MFP security holdings, issuer debt outcomes, and fund-family product reallocations to study how zero lower bound policy affects shadow-banking intermediaries, showing that near-zero rates squeezed money fund margins and induced funds to reach for yield, waive fees, or exit, with independent sponsors more likely to take risk and affiliated sponsors more likely to close funds, generating temporary credit-supply and industry-reallocation effects."
