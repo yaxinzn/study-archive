@@ -1,3 +1,7 @@
+- title: "Bordalo, Coffman, Gennaioli, and Shleifer (AER, 2019) - Beliefs about Gender"
+  file: "Bordalo_Coffman_Gennaioli_Shleifer_AER_2019.pdf"
+  desc: "This note summarizes the paper, which uses laboratory experiments across gender-typed trivia categories, own-performance beliefs, beliefs about partners, partner-gender randomization, difficulty-induced misestimation, stereotype measures based on true gender performance gaps, and a place-in-line group decision game to study how gender stereotypes shape confidence and evaluation, showing that beliefs about self and others reflect both exaggerated category-level gender stereotypes and generic overestimation on difficult tasks, with stereotypes especially affecting beliefs about women and distorting group contribution decisions when gender is salient."
+
 - title: "Schmidt, Timmermann, and Wermers (AER, 2016) - Runs on Money Market Mutual Funds"
   file: "Schmidt_Timmermann_Wermers_AER_2016.pdf"
   desc: "This note summarizes the paper, which uses daily iMoneyNet share-class data, expense-ratio-based investor sophistication measures, within-fund comparisons, Lehman-week flow dynamics, ultra-short bond fund comparisons, investor-interaction regressions, and dynamic quantile regressions to study runs on money market mutual funds, showing that sophisticated low-expense-ratio institutional investors redeemed more aggressively, especially in funds with many other sophisticated investors, and that fixed NAV structures and strategic complementarities amplified run risk beyond observable portfolio fundamentals."
