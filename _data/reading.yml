@@ -1,3 +1,7 @@
+- title: "Caliendo and Parro (RES, 2015) - Estimates of the Trade and Welfare Effects of NAFTA"
+  file: "Caliendo_Parro_RES_2015.pdf"
+  desc: "This note summarizes the paper, which uses bilateral trade flows, sectoral tariffs, production and input-output data for 31 economies and 40 sectors, sector-specific trade elasticities estimated through a gravity triple-ratio method, and multi-country multi-sector Eaton-Kortum counterfactuals to study NAFTA's trade and welfare effects, showing that tariff reductions substantially increased intra-NAFTA trade and raised welfare especially in Mexico, with intermediate inputs, sectoral heterogeneity, and input-output linkages greatly amplifying the effects relative to simpler trade models."
+
 - title: "Pavcnik (RES, 2002) - Trade Liberalization, Exit, and Productivity Improvements: Evidence from Chilean Plants"
   file: "Pavcnik_RES_2002.pdf"
   desc: "This note summarizes the paper, which uses Chilean plant-level manufacturing census data, trade-orientation classifications, import-competing versus nontraded sector comparisons, Olley-Pakes semiparametric production-function estimation, plant exit corrections, aggregate productivity decompositions, and tariff, import-output, and exchange-rate robustness checks to study how trade liberalization affects productivity, showing that import-competing plants became substantially more productive relative to nontraded plants, while selective exit and reallocation toward more productive plants also contributed meaningfully to aggregate productivity growth."
