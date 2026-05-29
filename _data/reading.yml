@@ -1,3 +1,7 @@
+- title: "Chernenko and Sunderam (RFS, 2014) - Frictions in Shadow Banking: Evidence from the Lending Behavior of Money Market Mutual Funds"
+  file: "Chernenko_Sunderam_RFS_2014.pdf"
+  desc: "This note summarizes the paper, which uses SEC Form N-MFP fund-issuer holdings, U.S. prime money market fund exposure to Eurozone banks, issuer-level and fund-issuer-level financing changes, relationship measures, issuer fixed effects, and substitution tests during the 2011 Eurozone bank shock to study lending frictions in shadow banking, showing that funds exposed to Eurozone banks cut lending not only to European banks but also to non-European issuers, and that replacement funding was limited because money-market lending relationships and preapproval frictions constrained substitution across funds."
+
 - title: "Coval, Jurek, and Stafford (AER, 2009) - Economic Catastrophe Bonds"
   file: "Coval_Jurek_Stafford_AER_2009.pdf"
   desc: "This note summarizes the paper, which uses CDX index and tranche spreads, corporate bond benchmarks, five-year S&P 500 option-implied state prices, a modified Merton-CAPM credit model, tranche payoff simulations, put-spread benchmarks, and credit risk premium comparisons to study whether highly rated structured-credit tranches are correctly priced, showing that senior and mezzanine CDX tranches offered too little compensation for losses concentrated in bad aggregate states, so ratings based on expected loss failed to capture their economic-catastrophe-bond exposure."
