@@ -1,3 +1,7 @@
+- title: "Kacperczyk and Schnabl (QJE, 2013) - How Safe Are Money Market Funds?"
+  file: "Kacperczyk_Schnabl_QJE_2013.pdf"
+  desc: "This note summarizes the paper, which uses weekly iMoneyNet money market fund data, fund yields and flows, holdings by instrument type, sponsor business-spillover measures, institutional versus retail fund comparisons, post-Lehman redemptions, sponsor support, exits, and risk-taking regressions around the 2007-2010 crisis to study the safety of money market funds, showing that institutional prime funds had incentives to chase yield when risky money-market spreads widened, with specialized sponsors taking more risk and higher-risk funds suffering larger run-like outflows after Lehman."
+
 - title: "Greenwood, Hanson, and Stein (JF, 2010) - A Gap-Filling Theory of Corporate Debt Maturity Choice"
   file: "Greenwood_Hanson_Stein_JF_2010_notes.pdf"
   desc: "This note summarizes the paper, which uses a preferred-habitat model of government and corporate debt supply, Flow of Funds corporate maturity measures, Compustat firm-level maturity data, CRSP Treasury maturity measures, interest-rate and macro controls, scale interactions, cross-sectional flexibility tests, and bond-return predictability regressions to study aggregate corporate debt maturity choice, showing that firms fill maturity gaps created by Treasury issuance by issuing less long-term debt when the government supplies more long-term debt, especially when government debt supply is large and when firms are financially flexible."
