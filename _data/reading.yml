@@ -1,3 +1,7 @@
+- title: "Coval, Jurek, and Stafford (AER, 2009) - Economic Catastrophe Bonds"
+  file: "Coval_Jurek_Stafford_AER_2009.pdf"
+  desc: "This note summarizes the paper, which uses CDX index and tranche spreads, corporate bond benchmarks, five-year S&P 500 option-implied state prices, a modified Merton-CAPM credit model, tranche payoff simulations, put-spread benchmarks, and credit risk premium comparisons to study whether highly rated structured-credit tranches are correctly priced, showing that senior and mezzanine CDX tranches offered too little compensation for losses concentrated in bad aggregate states, so ratings based on expected loss failed to capture their economic-catastrophe-bond exposure."
+
 - title: "Kacperczyk and Schnabl (QJE, 2013) - How Safe Are Money Market Funds?"
   file: "Kacperczyk_Schnabl_QJE_2013.pdf"
   desc: "This note summarizes the paper, which uses weekly iMoneyNet money market fund data, fund yields and flows, holdings by instrument type, sponsor business-spillover measures, institutional versus retail fund comparisons, post-Lehman redemptions, sponsor support, exits, and risk-taking regressions around the 2007-2010 crisis to study the safety of money market funds, showing that institutional prime funds had incentives to chase yield when risky money-market spreads widened, with specialized sponsors taking more risk and higher-risk funds suffering larger run-like outflows after Lehman."
