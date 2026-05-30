@@ -1,3 +1,7 @@
+- title: "Einav, Finkelstein, and Cullen (QJE, 2010) - Estimating Welfare in Insurance Markets Using Variation in Prices"
+  file: "Einav_Finkelstein_Cullen_QJE_2010.pdf"
+  desc: "This note summarizes the paper, which uses Alcoa health-insurance price variation across business units, employee choices between high- and low-coverage PPO options, realized claims, incremental insurer-cost calculations, demand and cost-curve estimation, and welfare-triangle counterfactuals to study welfare in insurance markets with selection, showing that the market exhibits adverse selection but that the estimated welfare loss from inefficient pricing is small in this setting, highlighting that detecting selection is not the same as finding a large policy-relevant inefficiency."
+
 - title: "Einav, Jenkins, and Levin (Econometrica, 2012) - Contract Pricing in Consumer Credit Markets"
   file: "Einav_Jenkins_Levin_Econometrica_2012.pdf"
   desc: "This note summarizes the paper, which uses transaction-level subprime auto-lending data on applications, purchases, negotiated prices, down payments, loan balances, repayment, default, recovery, credit categories, down-payment schedule changes, and list-price markup variation to study consumer-credit contract pricing, showing that minimum down payments strongly affect sales, screen borrowers, and reduce leverage, while financed price increases mainly raise loan balances and repayment risk, making risk-based financing and proprietary credit information valuable for lender profits."
