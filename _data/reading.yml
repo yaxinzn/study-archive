@@ -1,3 +1,7 @@
+- title: "Bordalo, Gennaioli, and Shleifer (JF, 2018) - Diagnostic Expectations and Credit Cycles"
+  file: "Bordalo_Gennaioli_Shleifer_JF_2018.pdf"
+  desc: "This note summarizes the paper, which uses Blue Chip forecasts of Baa-Treasury credit spreads, predictable forecast errors and revisions, a diagnostic-expectations model based on representativeness, credit-spread dynamics, risky debt issuance, investment responses, and a safe-debt extension to study belief-driven credit cycles, showing that good news can generate excessive optimism, compressed spreads, neglected downside risk, expanded risky credit, and later reversals when diagnostic overreaction unwinds."
+
 - title: "Barberis, Greenwood, Jin, and Shleifer (JFE, 2018) - Extrapolation and Bubbles"
   file: "Barberis_Greenwood_Jin_Shleifer_JFE_2018.pdf"
   desc: "This note summarizes the paper, which develops a behavioral asset-pricing model with fundamental traders, extrapolators, past-return growth signals, valuation signals, wavering attention, short-sale constraints, trading-volume predictions, historical bubble evidence, and investor-level technology-bubble holdings to study bubbles and trading volume, showing that good fundamental news can trigger extrapolative overpricing and that high bubble volume arises because investors waver between conflicting growth and value signals, with volume closely tracking past returns across major bubble episodes."
