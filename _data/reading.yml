@@ -1,3 +1,7 @@
+- title: "Ferraz and Finan (AER, 2011) - Electoral Accountability and Corruption: Evidence from the Audits of Local Governments"
+  file: "Ferraz_Finan_AER_2011.pdf"
+  desc: "This note summarizes the paper, which uses Brazil's randomized municipal audit program, manually coded corruption from CGU audit reports, first-term versus term-limited mayor comparisons, close-election regression discontinuity, mayor and municipal controls, mismanagement measures, matching-grant outcomes, and accountability heterogeneity by media, judiciary, and competition to study electoral discipline, showing that mayors eligible for reelection steal substantially fewer audited resources than lame-duck mayors, especially where other accountability institutions are weak."
+
 - title: "Bandiera, Prat, and Valletti (AER, 2009) - Active and Passive Waste in Government Spending: Evidence from a Policy Experiment"
   file: "Bandiera_Prat_Valletti_AER_2009.pdf"
   desc: "This note summarizes the paper, which uses Italian public-body purchase-level data for standardized goods, Consip centralized procurement availability, unit prices, quantity and product controls, public-body fixed effects, Consip take-up choices, governance categories, and a structural active-versus-passive waste model to study government procurement waste, showing that high-price public bodies are more likely to use Consip when available, implying that most measured procurement waste is passive inefficiency rather than active rent extraction or corruption."
