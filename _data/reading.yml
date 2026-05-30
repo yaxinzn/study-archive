@@ -1,3 +1,7 @@
+- title: "Hoffman, Kahn, and Li (QJE, 2018) - Discretion in Hiring"
+  file: "Hoffman_Kahn_Li_QJE_2018.pdf"
+  desc: "This note summarizes the paper, which uses applicant-level and worker-level data from 15 firms adopting a green/yellow/red job test, staggered testing adoption, manager-location applicant pools, exception-rate measures, censored-normal tenure regressions, passed-over applicant comparisons, and productivity checks to study discretion in hiring, showing that job testing increases worker tenure, while managers who more often override test recommendations hire workers with shorter job durations, with little evidence that exceptions reflect superior private information or higher output per hour."
+
 - title: "Goldman, Rocholl, and So (RFS, 2009) - Do Politically Connected Boards Affect Firm Value?"
   file: "Goldman_Rocholl_So_RFS_2009.pdf"
   desc: "This note summarizes the paper, which uses hand-collected S&P 500 board biographies, Republican and Democratic political-connection classifications, donation data, the 2000 presidential election shock, market- and industry-adjusted abnormal returns, politically connected director nomination events, and matched nonpolitical director nomination tests to study whether political board connections affect firm value, showing that Republican-connected firms gained and Democratic-connected firms lost value after the Republican victory, while announcements of politically connected board nominations generated positive returns beyond ordinary independent-director appointments."
