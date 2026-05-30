@@ -1,3 +1,7 @@
+- title: "Adams, Einav, and Levin (AER, 2009) - Liquidity Constraints and Imperfect Information in Subprime Lending"
+  file: "Adams_Einav_Levin_AER_2009.pdf"
+  desc: "This note summarizes the paper, which uses subprime auto-loan applications, sales, prices, down payments, loan terms, defaults, recoveries, tax-season/EITC liquidity shocks, list-price instruments, down-payment policy variation, and default-hazard models with control functions to study liquidity constraints and imperfect information, showing that borrowers are highly sensitive to immediate cash requirements, larger loans causally raise default risk, riskier borrowers prefer larger loans, and lenders use risk-based pricing and down-payment requirements to mitigate but not eliminate moral hazard and adverse selection."
+
 - title: "Cohen and Einav (AER, 2007) - Estimating Risk Preferences from Deductible Choice"
   file: "Cohen_Einav_AER_2007.pdf"
   desc: "This note summarizes the paper, which uses Israeli auto-insurance deductible menus, individual-specific premiums, deductible-cap variation, policyholder characteristics, realized claims, structural expected-utility estimation, Poisson claim-risk models, and joint latent distributions of risk and risk aversion to estimate risk preferences from deductible choice, showing that risk aversion is highly heterogeneous and skewed, that low-deductible choices reflect both higher risk and higher risk aversion, and that unobserved heterogeneity in risk preferences is more important for pricing than unobserved claim-risk heterogeneity."
