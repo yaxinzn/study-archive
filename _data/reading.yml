@@ -1,3 +1,7 @@
+- title: "Baugh, Ben-David, and Park (JF, 2018) - Can Taxes Shape an Industry? Evidence from the Implementation of the Amazon Tax"
+  file: "Baugh_BenDavid_Park_JF_2018.pdf"
+  desc: "This note summarizes the paper, which uses household transaction data from an online financial account aggregator, staggered state Amazon sales-tax collection laws, tax-exclusive Amazon spending, local sales-tax rates, household fixed effects, event-time tests, purchase-size heterogeneity, income heterogeneity, and substitution to competing retailers to study the Amazon Tax, showing that sales-tax collection reduces Amazon spending by about 9.4%, with much larger effects for high-dollar purchases and some substitution toward online competitors such as Newegg."
+
 - title: "Cohen, Coval, and Malloy (JPE, 2011) - Do Powerful Politicians Cause Corporate Downsizing?"
   file: "Cohen_Coval_Malloy_JPE_2011.pdf"
   desc: "This note summarizes the paper, which uses congressional committee chairmanship shocks, earmarks, federal transfers, procurement contracts, Compustat firm outcomes, headquarters-state exposure, firm fixed effects, IV logic, and heterogeneity by geographic concentration, capacity utilization, unemployment, and GDP growth to study fiscal crowding out, showing that states gaining powerful committee chairs receive more federal spending but local public firms reduce capital expenditures, R&D, employment growth, and sales growth while increasing payouts, consistent with local factor-market crowding out."
