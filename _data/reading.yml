@@ -1,3 +1,7 @@
+- title: "Bloom, Sadun, and Van Reenen (QJE, 2012) - The Organization of Firms Across Countries"
+  file: "Bloom_Sadun_VanReenen_QJE_2012.pdf"
+  desc: "This note summarizes the paper, which uses a cross-country survey of nearly 4,000 manufacturing firms, plant-manager decentralization measures, World Values Survey trust data, bilateral trust for multinational subsidiaries, religious-similarity instruments, management-quality controls, and firm-size regressions to study how social capital shapes firm organization, showing that higher trust leads headquarters to delegate more authority to plant managers and is associated with larger firms, consistent with trust relaxing delegation constraints and expanding managerial span of control."
+
 - title: "Caliendo, Monte, and Rossi-Hansberg (JPE, 2015) - The Anatomy of French Production Hierarchies"
   file: "Caliendo_Monte_RossiHansberg_JPE_2015.pdf"
   desc: "This note summarizes the paper, which uses French administrative balance-sheet and employee-level occupation, wage, and hours data, a production-hierarchy model, layer construction from occupational categories, firm-level and layer-level transition evidence, and wage, hours, education, and experience decompositions to study the internal organization of firms, showing that firms with more layers are larger and pay higher wages, while firms that grow without changing layers raise wages in existing layers but firms that add layers expand hours and lower average wages in preexisting layers through compositional reorganization."
