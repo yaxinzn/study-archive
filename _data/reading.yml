@@ -1,3 +1,7 @@
+- title: "Einav, Jenkins, and Levin (Econometrica, 2012) - Contract Pricing in Consumer Credit Markets"
+  file: "Einav_Jenkins_Levin_Econometrica_2012.pdf"
+  desc: "This note summarizes the paper, which uses transaction-level subprime auto-lending data on applications, purchases, negotiated prices, down payments, loan balances, repayment, default, recovery, credit categories, down-payment schedule changes, and list-price markup variation to study consumer-credit contract pricing, showing that minimum down payments strongly affect sales, screen borrowers, and reduce leverage, while financed price increases mainly raise loan balances and repayment risk, making risk-based financing and proprietary credit information valuable for lender profits."
+
 - title: "Einav, Finkelstein, Ryan, Schrimpf, and Cullen (AER, 2013) - Selection on Moral Hazard in Health Insurance"
   file: "Einav_Finkelstein_Ryan_Schrimpf_Cullen_AER_2013.pdf"
   desc: "This note summarizes the paper, which uses Alcoa employee health-insurance choices, plan menus, staggered union benefit changes, claims, health-risk scores, difference-in-differences estimates, and a structural model of health risk, risk aversion, and heterogeneous moral hazard to study selection on moral hazard, showing that people differ substantially in how spending responds to insurance generosity and that individuals with larger moral-hazard responses are more likely to choose generous coverage, so voluntary high-deductible plan take-up can generate smaller spending reductions than average moral-hazard estimates imply."
