@@ -1,3 +1,7 @@
+- title: "Ashcraft (AER, 2005) - Are Banks Really Special? New Evidence from the FDIC-Induced Failure of Healthy Banks"
+  file: "Ashcraft_AER_2005.pdf"
+  desc: "This note summarizes the paper, which uses FDIC bank-failure records, Summary of Deposits branch data, Call Reports, county real income, and the quasi-experimental failures of healthy subsidiaries in First City Bancorporation and First RepublicBank to study whether banks remain special, showing that forced failures of relatively healthy banks caused persistent declines in local income and commercial lending, consistent with the destruction of hard-to-replace lending relationships rather than depositor losses or ordinary local economic distress."
+
 - title: "Iyer, Peydro, da-Rocha-Lopes, and Schoar (RFS, 2014) - Interbank Liquidity Crunch and the Firm Credit Crunch: Evidence from the 2007-2009 Crisis"
   file: "Iyer_Lopes_Peydro_Schoar_RFS_2014.pdf"
   desc: "This note summarizes the paper, which uses Portuguese credit-register data, firm-bank lending relationships, precrisis interbank-borrowing exposure, bank balance-sheet controls, firm fixed effects, firm-size and age heterogeneity, extensive-margin relationship tests, central-bank borrowing, and firm-level substitution regressions to study the 2007-2009 interbank liquidity shock, showing that banks more dependent on interbank funding cut credit supply more during the crisis, with the strongest effects on smaller, younger, and weak-relationship firms, while central-bank liquidity did not fully offset the binding credit contraction."
