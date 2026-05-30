@@ -1,3 +1,7 @@
+- title: "Acemoglu, Aghion, Lelarge, Van Reenen, and Zilibotti (QJE, 2007) - Technology, Information, and the Decentralization of the Firm"
+  file: "Acemoglu_Aghion_Lelarge_VanReenen_Zilibotti_QJE_2007.pdf"
+  desc: "This note summarizes the paper, which uses French COI-FUTE firm data, Enquete Reponse and British WERS validation samples, profit-center, investment-autonomy, delayering, and employment-autonomy measures, productivity-frontier distance, industry heterogeneity, firm age, high-tech interactions, and probit/IV robustness checks to study decentralization, showing that firms closer to the technological frontier, firms in more heterogeneous environments, and younger firms are more likely to delegate authority, especially in technology-intensive sectors where local information is more valuable."
+
 - title: "Bloom, Sadun, and Van Reenen (QJE, 2012) - The Organization of Firms Across Countries"
   file: "Bloom_Sadun_VanReenen_QJE_2012.pdf"
   desc: "This note summarizes the paper, which uses a cross-country survey of nearly 4,000 manufacturing firms, plant-manager decentralization measures, World Values Survey trust data, bilateral trust for multinational subsidiaries, religious-similarity instruments, management-quality controls, and firm-size regressions to study how social capital shapes firm organization, showing that higher trust leads headquarters to delegate more authority to plant managers and is associated with larger firms, consistent with trust relaxing delegation constraints and expanding managerial span of control."
