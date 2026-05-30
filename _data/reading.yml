@@ -1,3 +1,7 @@
+- title: "Cohen and Einav (AER, 2007) - Estimating Risk Preferences from Deductible Choice"
+  file: "Cohen_Einav_AER_2007.pdf"
+  desc: "This note summarizes the paper, which uses Israeli auto-insurance deductible menus, individual-specific premiums, deductible-cap variation, policyholder characteristics, realized claims, structural expected-utility estimation, Poisson claim-risk models, and joint latent distributions of risk and risk aversion to estimate risk preferences from deductible choice, showing that risk aversion is highly heterogeneous and skewed, that low-deductible choices reflect both higher risk and higher risk aversion, and that unobserved heterogeneity in risk preferences is more important for pricing than unobserved claim-risk heterogeneity."
+
 - title: "Einav, Finkelstein, and Cullen (QJE, 2010) - Estimating Welfare in Insurance Markets Using Variation in Prices"
   file: "Einav_Finkelstein_Cullen_QJE_2010.pdf"
   desc: "This note summarizes the paper, which uses Alcoa health-insurance price variation across business units, employee choices between high- and low-coverage PPO options, realized claims, incremental insurer-cost calculations, demand and cost-curve estimation, and welfare-triangle counterfactuals to study welfare in insurance markets with selection, showing that the market exhibits adverse selection but that the estimated welfare loss from inefficient pricing is small in this setting, highlighting that detecting selection is not the same as finding a large policy-relevant inefficiency."
