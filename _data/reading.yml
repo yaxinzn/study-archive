@@ -1,3 +1,7 @@
+- title: "Paravisini (JF, 2008) - Local Bank Financial Constraints and Firm Access to External Finance"
+  file: "Paravisini_JF_2008.pdf"
+  desc: "This note summarizes the paper, which uses Argentina's MYPES bank-financing program, bank balance sheets, loan-level credit registry data, formula-based expected external-financing instruments, bank and month fixed effects, 2SLS lending regressions, loan-default tests, interest-revenue measures, and borrower-level debt outcomes to study local bank financial constraints, showing that externally induced bank funding substantially expands lending without worsening loan quality, and that borrower total debt rises, implying that financially constrained local banks ration profitable credit that other lenders do not fully replace."
+
 - title: "Adams, Einav, and Levin (AER, 2009) - Liquidity Constraints and Imperfect Information in Subprime Lending"
   file: "Adams_Einav_Levin_AER_2009.pdf"
   desc: "This note summarizes the paper, which uses subprime auto-loan applications, sales, prices, down payments, loan terms, defaults, recoveries, tax-season/EITC liquidity shocks, list-price instruments, down-payment policy variation, and default-hazard models with control functions to study liquidity constraints and imperfect information, showing that borrowers are highly sensitive to immediate cash requirements, larger loans causally raise default risk, riskier borrowers prefer larger loans, and lenders use risk-based pricing and down-payment requirements to mitigate but not eliminate moral hazard and adverse selection."
