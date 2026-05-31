@@ -1,3 +1,7 @@
+- title: "Benmelech and Bergman (JFE, 2009) - Collateral Pricing"
+  file: "Benmelech_Bergman_JFE_2009.pdf"
+  desc: "This note summarizes the paper, which uses U.S. airline secured debt tranches, aircraft prospectus collateral lists, aircraft serial-number matches, redeployability measures based on worldwide aircraft operators and fleet sizes, credit spreads, ratings, loan-to-value ratios, maturity, and airline controls to study collateral pricing, showing that debt backed by more redeployable aircraft has lower spreads, better ratings, and higher debt capacity, especially when industry conditions make liquidation values more important."
+
 - title: "Dix-Carneiro (Econometrica, 2014) - Trade Liberalization and Labor Market Dynamics"
   file: "DixCarneiro_Econometrica_2014.pdf"
   desc: "This note summarizes the paper, which uses Brazilian RAIS matched employer-employee data, sectoral wage and transition histories, a dynamic Roy-style model with sector-specific human capital, worker heterogeneity, mobility costs, capital-mobility scenarios, indirect inference, and counterfactual trade-liberalization simulations to study labor-market adjustment, showing that intersectoral mobility costs are large and heterogeneous, adjustment to trade shocks is slow, and moving subsidies compensate displaced workers more effectively than retraining in the estimated model."
