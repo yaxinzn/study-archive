@@ -1,3 +1,7 @@
+- title: "Dube, Kaplan, and Naidu (QJE, 2011) - Coups, Corporations, and Classified Information"
+  file: "Dube_Kaplan_Naidu_QJE_2011.pdf"
+  desc: "This note summarizes the paper, which uses declassified covert coup authorization dates, daily stock returns of firms with expropriated assets in target countries, exposure measures based on expropriated asset value, Fama-French controls, public-news controls, small-sample inference, placebo timing tests, and coup-versus-authorization gain decompositions to study classified information and corporate value, showing that exposed firms' stock prices rose after secret coup authorizations, suggesting that covert regime-change plans created private corporate gains and that classified information leaked into financial markets before public political outcomes."
+
 - title: "Almeida and Campello (RFS, 2007) - Financial Constraints, Asset Tangibility, and Corporate Investment"
   file: "Almeida_Campello_RFS_2007.pdf"
   desc: "This note summarizes the paper, which uses Compustat manufacturing firms, asset-tangibility measures, investment-cash-flow regressions, endogenous switching models of financial constraints, ex ante constraint classifications, robustness estimators for noisy Q, and R&D falsification tests to study how collateral affects corporate investment, showing that tangibility amplifies investment-cash-flow sensitivity only for financially constrained firms and lowers the probability of being constrained, consistent with a collateral-based credit multiplier rather than a simple monotonic sensitivity test."
