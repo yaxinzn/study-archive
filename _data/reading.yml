@@ -1,3 +1,7 @@
+- title: "Amiti and Weinstein (QJE, 2011) - Exports and Financial Shocks"
+  file: "Amiti_Weinstein_QJE_2011.pdf"
+  desc: "This note summarizes the paper, which uses Japanese listed manufacturing exporters, main-bank relationships, bank market-to-book shocks, foreign bills bought as trade-finance measures, firm export and domestic-sales growth, industry-year and bank fixed effects, crisis-period interactions, shipping-mode heterogeneity, and foreign-affiliate tests to study exports and financial shocks, showing that deteriorating bank health reduces client-firm export growth much more than domestic sales, with stronger effects during banking crises and for exporters more dependent on arm's-length trade finance."
+
 - title: "Kovak (AER, 2013) - Regional Effects of Trade Reform: What Is the Correct Measure of Liberalization?"
   file: "Kovak_AER_2013.pdf"
   desc: "This note summarizes the paper, which uses Brazil's 1990-1995 tariff reductions, regional industry employment shares, theory-based labor-demand weights, nontraded-sector adjustments, 1991 and 2000 Census wage data, and regional wage regressions from a specific-factors model to study local labor-market exposure to trade reform, showing that regions concentrated in industries with larger liberalization-induced price declines experienced larger wage declines, and that correctly omitting and rescaling nontraded sectors is crucial for measuring regional trade shocks."
