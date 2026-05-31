@@ -1,3 +1,7 @@
+- title: "Khandelwal (RES, 2010) - The Long and Short (of) Quality Ladders"
+  file: "Khandelwal_RES_2010.pdf"
+  desc: "This note summarizes the paper, which uses U.S. ten-digit HS import data, country-product unit values, duties and transport costs, low-wage import penetration, nested-logit demand estimates of product quality, quality-ladder dispersion measures, exporter income and factor-endowment controls, and industry employment and output regressions to study how quality differentiation shapes exposure to trade, showing that low-wage import competition reduces U.S. employment and output more strongly in short-quality-ladder industries, where firms have less scope to escape competition by upgrading quality."
+
 - title: "Dube, Kaplan, and Naidu (QJE, 2011) - Coups, Corporations, and Classified Information"
   file: "Dube_Kaplan_Naidu_QJE_2011.pdf"
   desc: "This note summarizes the paper, which uses declassified covert coup authorization dates, daily stock returns of firms with expropriated assets in target countries, exposure measures based on expropriated asset value, Fama-French controls, public-news controls, small-sample inference, placebo timing tests, and coup-versus-authorization gain decompositions to study classified information and corporate value, showing that exposed firms' stock prices rose after secret coup authorizations, suggesting that covert regime-change plans created private corporate gains and that classified information leaked into financial markets before public political outcomes."
