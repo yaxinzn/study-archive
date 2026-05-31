@@ -1,3 +1,7 @@
+- title: "Fisman, Schulz, and Vig (JPE, 2014) - The Private Returns to Public Office"
+  file: "Fisman_Schulz_Vig_JPE_2014.pdf"
+  desc: "This note summarizes the paper, which uses Indian state-election candidate affidavits, disclosed assets and liabilities, winners versus runners-up within constituencies, close-election and regression-discontinuity specifications, corruption-state heterogeneity, ruling-party and ministerial-office variation, incumbency tests, and the Bihar hung-assembly episode to study private returns to public office, showing that election winners accumulate wealth substantially faster than comparable losers, especially in corrupt states and positions with greater access to rents."
+
 - title: "Grossman and Helpman (QJE, 2002) - Integration versus Outsourcing in Industry Equilibrium"
   file: "Grossman_Helpman_QJE_2002.pdf"
   desc: "This note summarizes the paper, which develops an industry-equilibrium model of vertical integration versus outsourcing with differentiated final goods, specialized input suppliers, incomplete contracts, holdup, search and matching frictions, fixed and variable organizational costs, demand-threshold zero-profit conditions, bargaining power, market thickness, and input-specialization extensions to study firm boundaries, showing that industries tend toward pervasive integration or pervasive outsourcing depending on search efficiency, supplier specialization advantages, fixed costs, substitution elasticities, bargaining power, and matching externalities."
