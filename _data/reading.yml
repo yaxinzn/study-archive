@@ -1,3 +1,7 @@
+- title: "Snowberg, Wolfers, and Zitzewitz (QJE, 2007) - Partisan Impacts on the Economy: Evidence from Prediction Markets and Close Elections"
+  file: "Snowberg_Wolfers_Zitzewitz_QJE_2007.pdf"
+  desc: "This note summarizes the paper, which uses prediction-market probabilities, high-frequency election-night futures prices, 2000 and 2004 close presidential-election shocks, historical betting-market surprises since 1880, and intraday regressions linking changes in Republican victory probabilities to equities, bond yields, oil, and exchange rates to study partisan impacts on financial markets, showing that markets expected Republican victories to raise equity prices, interest rates, oil prices, and the dollar relative to Democratic victories."
+
 - title: "Fisman, Schulz, and Vig (JPE, 2014) - The Private Returns to Public Office"
   file: "Fisman_Schulz_Vig_JPE_2014.pdf"
   desc: "This note summarizes the paper, which uses Indian state-election candidate affidavits, disclosed assets and liabilities, winners versus runners-up within constituencies, close-election and regression-discontinuity specifications, corruption-state heterogeneity, ruling-party and ministerial-office variation, incumbency tests, and the Bihar hung-assembly episode to study private returns to public office, showing that election winners accumulate wealth substantially faster than comparable losers, especially in corrupt states and positions with greater access to rents."
