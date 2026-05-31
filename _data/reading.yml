@@ -1,3 +1,7 @@
+- title: "Kovak (AER, 2013) - Regional Effects of Trade Reform: What Is the Correct Measure of Liberalization?"
+  file: "Kovak_AER_2013.pdf"
+  desc: "This note summarizes the paper, which uses Brazil's 1990-1995 tariff reductions, regional industry employment shares, theory-based labor-demand weights, nontraded-sector adjustments, 1991 and 2000 Census wage data, and regional wage regressions from a specific-factors model to study local labor-market exposure to trade reform, showing that regions concentrated in industries with larger liberalization-induced price declines experienced larger wage declines, and that correctly omitting and rescaling nontraded sectors is crucial for measuring regional trade shocks."
+
 - title: "Benmelech and Bergman (JFE, 2009) - Collateral Pricing"
   file: "Benmelech_Bergman_JFE_2009.pdf"
   desc: "This note summarizes the paper, which uses U.S. airline secured debt tranches, aircraft prospectus collateral lists, aircraft serial-number matches, redeployability measures based on worldwide aircraft operators and fleet sizes, credit spreads, ratings, loan-to-value ratios, maturity, and airline controls to study collateral pricing, showing that debt backed by more redeployable aircraft has lower spreads, better ratings, and higher debt capacity, especially when industry conditions make liquidation values more important."
