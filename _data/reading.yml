@@ -1,3 +1,7 @@
+- title: "Dix-Carneiro (Econometrica, 2014) - Trade Liberalization and Labor Market Dynamics"
+  file: "DixCarneiro_Econometrica_2014.pdf"
+  desc: "This note summarizes the paper, which uses Brazilian RAIS matched employer-employee data, sectoral wage and transition histories, a dynamic Roy-style model with sector-specific human capital, worker heterogeneity, mobility costs, capital-mobility scenarios, indirect inference, and counterfactual trade-liberalization simulations to study labor-market adjustment, showing that intersectoral mobility costs are large and heterogeneous, adjustment to trade shocks is slow, and moving subsidies compensate displaced workers more effectively than retraining in the estimated model."
+
 - title: "Rampini and Viswanathan (JF, 2010) - Collateral, Risk Management, and the Distribution of Debt Capacity"
   file: "Rampini_Viswanathan_JF_2010.pdf"
   desc: "This note summarizes the paper, which develops a dynamic collateral-constrained model with limited enforcement, state-contingent collateral constraints, debt capacity, financial slack, loan commitments, and risk-management choices to study how financing and hedging compete for scarce pledgeable resources, showing that the most productive or least-capitalized firms optimally exhaust debt capacity and hedge less, while better-capitalized firms can preserve slack, manage risk, and exploit downturn investment opportunities."
