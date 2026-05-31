@@ -1,3 +1,7 @@
+- title: "Gentzkow and Shapiro (QJE, 2011) - Ideological Segregation Online and Offline"
+  file: "Gentzkow_Shapiro_QJE_2011.pdf"
+  desc: "This note summarizes the paper, which uses comScore online news consumption, MRI offline media data, GSS and CNES face-to-face interaction data, ideology imputation, conservative-exposure measures, isolation indices, cross-visiting patterns, and comparisons across online news, offline media, workplaces, neighborhoods, families, and friends to study ideological segregation, showing that online news consumption is ideologically segregated but only modestly, more than most offline news sources yet far less than many face-to-face social networks."
+
 - title: "Chiang and Knight (RES, 2011) - Media Bias and Influence: Evidence from Newspaper Endorsements"
   file: "Chiang_Knight_RES_2011.pdf"
   desc: "This note summarizes the paper, which uses daily voter survey data, exact timing of newspaper presidential endorsements, newspaper ideology and credibility measures, readership exposure, first-stage endorsement equations, voting-intention regressions, timing checks, and heterogeneity by voter moderation and readership frequency to study media bias and influence, showing that newspaper endorsements shift readers toward the endorsed candidate, especially when the endorsement is surprising relative to the newspaper's ideology and therefore more credible."
