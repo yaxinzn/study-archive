@@ -1,3 +1,7 @@
+- title: "Almeida and Campello (RFS, 2007) - Financial Constraints, Asset Tangibility, and Corporate Investment"
+  file: "Almeida_Campello_RFS_2007.pdf"
+  desc: "This note summarizes the paper, which uses Compustat manufacturing firms, asset-tangibility measures, investment-cash-flow regressions, endogenous switching models of financial constraints, ex ante constraint classifications, robustness estimators for noisy Q, and R&D falsification tests to study how collateral affects corporate investment, showing that tangibility amplifies investment-cash-flow sensitivity only for financially constrained firms and lowers the probability of being constrained, consistent with a collateral-based credit multiplier rather than a simple monotonic sensitivity test."
+
 - title: "Graham, Harvey, and Puri (JFE, 2015) - Capital Allocation and Delegation of Decision-Making Authority within Firms"
   file: "Graham_Harvey_Puri_JFE_2015.pdf"
   desc: "This note summarizes the paper, which uses a large survey of CEOs and CFOs, policy-specific delegation measures, ordered-logit delegation regressions, CEO tenure, finance background, MBA status, firm size, segment complexity, acquisition activity, and capital-allocation criteria to study decision-making authority inside firms, showing that CEOs delegate more when decisions require lower-level information or when firms are complex, delegate less when they are more knowledgeable, and rely on both NPV and informal criteria such as manager reputation, confidence, politics, and gut feel when allocating capital."
