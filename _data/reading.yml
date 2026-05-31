@@ -1,3 +1,7 @@
+- title: "Koudijs (JF, 2016) - The Boats That Did Not Sail: Asset Price Volatility in a Natural Experiment"
+  file: "Koudijs_JF_2016.pdf"
+  desc: "This note summarizes the paper, which uses 18th-century Amsterdam prices of English securities, London price data, packet-boat arrival records, boat versus no-boat news-flow variation, return timing, variance decompositions, private-information tests, and trading-cost or liquidity-reversal evidence to study short-run asset-price volatility, showing that public London news explains a large share of volatility on boat-arrival days, while substantial no-news volatility remains due to private information, liquidity shocks, and trading itself."
+
 - title: "Caliendo, Dvorkin, and Parro (Econometrica, 2019) - Trade and Labor Market Dynamics: General Equilibrium Analysis of the China Trade Shock"
   file: "Caliendo_Dvorkin_Parro_Econometrica_2019.pdf"
   desc: "This note summarizes the paper, which builds a dynamic general-equilibrium model with 38 countries, 50 U.S. states, 22 sectors, input-output linkages, Eaton-Kortum trade, costly worker mobility across state-sector labor markets, dynamic hat algebra, and China productivity shocks disciplined by import growth from other high-income countries to study the China trade shock, showing that Chinese import growth reduced U.S. manufacturing employment, generated heterogeneous short-run losses and long-run gains across labor markets, and raised aggregate welfare while imposing meaningful adjustment costs through slow worker reallocation."
