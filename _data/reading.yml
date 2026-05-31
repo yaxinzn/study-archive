@@ -1,3 +1,7 @@
+- title: "Busse and Green (JFE, 2002) - Market Efficiency in Real Time"
+  file: "Busse_Green_JFE_2002.pdf"
+  desc: "This note summarizes the paper, which uses hand-timestamped CNBC Morning Call and Midday Call analyst reports, TAQ intraday trades and quotes, event-time midquote returns, bootstrap inference, order-imbalance measures, and trading-profit calculations to study market efficiency in real time, showing that prices react to televised analyst information within seconds to minutes, with positive reports incorporated especially quickly, negative reports adjusting more slowly, trading intensity jumping immediately, and only very fast traders earning short-lived profits."
+
 - title: "Tetlock (RFS, 2011) - All the News That's Fit to Reprint: Do Investors React to Stale Information?"
   file: "Tetlock_RFS_2011.pdf"
   desc: "This note summarizes the paper, which uses Dow Jones firm-level newswire stories, textual similarity measures based on prior stories, CRSP returns and volume, return-reversal regressions, calendar-time stale-news portfolios, and individual versus institutional trading data to study whether investors react to stale information, showing that stale news generates smaller immediate price responses than fresh news but still causes temporary overreaction, especially through individual-investor trading, with subsequent return reversals."
