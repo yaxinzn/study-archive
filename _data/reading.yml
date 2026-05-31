@@ -1,3 +1,7 @@
+- title: "Bloom, Schankerman, and Van Reenen (Econometrica, 2013) - Identifying Technology Spillovers and Product Market Rivalry"
+  file: "Bloom_Schankerman_VanReenen_Econometrica_2013.pdf"
+  desc: "This note summarizes the paper, which uses publicly traded U.S. firms, patent and accounting data, technology-space proximity, product-market proximity, SPILLTECH and SPILLSIC measures, Mahalanobis-distance checks, market-value, patenting, productivity, and R&D regressions, and instrumental-variable strategies to separate technology spillovers from product-market rivalry, showing that technologically close firms generate positive knowledge spillovers while product-market rivals reduce firm value through business stealing, implying large gaps between private and social returns to R&D."
+
 - title: "Gentzkow and Shapiro (QJE, 2011) - Ideological Segregation Online and Offline"
   file: "Gentzkow_Shapiro_QJE_2011.pdf"
   desc: "This note summarizes the paper, which uses comScore online news consumption, MRI offline media data, GSS and CNES face-to-face interaction data, ideology imputation, conservative-exposure measures, isolation indices, cross-visiting patterns, and comparisons across online news, offline media, workplaces, neighborhoods, families, and friends to study ideological segregation, showing that online news consumption is ideologically segregated but only modestly, more than most offline news sources yet far less than many face-to-face social networks."
