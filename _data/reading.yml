@@ -1,3 +1,7 @@
+- title: "Rampini and Viswanathan (JF, 2010) - Collateral, Risk Management, and the Distribution of Debt Capacity"
+  file: "Rampini_Viswanathan_JF_2010.pdf"
+  desc: "This note summarizes the paper, which develops a dynamic collateral-constrained model with limited enforcement, state-contingent collateral constraints, debt capacity, financial slack, loan commitments, and risk-management choices to study how financing and hedging compete for scarce pledgeable resources, showing that the most productive or least-capitalized firms optimally exhaust debt capacity and hedge less, while better-capitalized firms can preserve slack, manage risk, and exploit downturn investment opportunities."
+
 - title: "Baugh, Ben-David, and Park (JF, 2018) - Can Taxes Shape an Industry? Evidence from the Implementation of the Amazon Tax"
   file: "Baugh_BenDavid_Park_JF_2018.pdf"
   desc: "This note summarizes the paper, which uses household transaction data from an online financial account aggregator, staggered state Amazon sales-tax collection laws, tax-exclusive Amazon spending, local sales-tax rates, household fixed effects, event-time tests, purchase-size heterogeneity, income heterogeneity, and substitution to competing retailers to study the Amazon Tax, showing that sales-tax collection reduces Amazon spending by about 9.4%, with much larger effects for high-dollar purchases and some substitution toward online competitors such as Newegg."
