@@ -1,3 +1,7 @@
+- title: "Bloom (Econometrica, 2009) - The Impact of Uncertainty Shocks"
+  file: "Bloom_Econometrica_2009.pdf"
+  desc: "This note summarizes the paper, which uses stock-market volatility shocks, U.S. macro VAR evidence, Compustat firm-level data, a structural model with time-varying uncertainty, nonconvex labor and capital adjustment costs, simulated method of moments, and uncertainty-shock simulations to study real effects of uncertainty, showing that uncertainty spikes raise the option value of waiting, causing a sharp but temporary drop in investment, hiring, and output followed by rebound and overshooting once uncertainty subsides."
+
 - title: "Caballero and Engel (Econometrica, 1999) - Explaining Investment Dynamics in U.S. Manufacturing: A Generalized (S, s) Approach"
   file: "Caballero_Engel_Econometrica_1999.pdf"
   desc: "This note summarizes the paper, which uses U.S. manufacturing investment data, capital imbalances, stochastic fixed adjustment costs, generalized S,s adjustment hazards, cross-sectional aggregation, equipment and structures comparisons, and nonlinear aggregate investment specifications to study investment dynamics, showing that adjustment hazards rise smoothly with capital imbalances and that nonlinear aggregation of lumpy micro adjustment explains aggregate investment movements better than standard linear models."
