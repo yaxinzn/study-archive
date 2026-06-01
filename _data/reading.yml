@@ -1,3 +1,7 @@
+- title: "Cooper and Haltiwanger (RES, 2006) - On the Nature of Capital Adjustment Costs"
+  file: "Cooper_Haltiwanger_RES_2006.pdf"
+  desc: "This note summarizes the paper, which uses LRD plant-level investment and profitability moments, a dynamic plant investment model, convex costs, fixed and nonconvex costs, irreversibility-like frictions, disruption costs, sectoral estimates, and indirect inference to study capital adjustment, showing that plant investment dynamics are best explained by a mixture of convex and nonconvex adjustment frictions rather than by a pure quadratic or pure fixed-cost model."
+
 - title: "Foster, Haltiwanger, and Syverson (AER, 2008) - Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability?"
   file: "Foster_Haltiwanger_Syverson_AER_2008.pdf"
   desc: "This note summarizes the paper, which uses U.S. Census of Manufactures plant-level data for homogeneous products, physical output quantities, plant prices, revenue productivity, physical productivity, demand-shock estimates, exit regressions, and aggregate productivity decompositions to study market selection, showing that reallocation and exit are better understood as selection on profitability, which combines technical efficiency and demand, rather than selection on physical productivity alone."
