@@ -1,3 +1,7 @@
+- title: "Jovanovic (Econometrica, 1982) - Selection and the Evolution of Industry"
+  file: "Jovanovic_Econometrica_1982.pdf"
+  desc: "This note summarizes the paper, which develops a competitive learning-and-selection model with unknown firm efficiency, noisy cost signals, Bayesian updating, output choices, endogenous exit, sunk entry, equilibrium entry sequences, and survival dynamics to study industry evolution, showing that small and young firms grow faster, grow more variably, and fail more often because firms gradually learn whether they are efficient and markets select toward successful survivors."
+
 - title: "Fisman and Wei (JPE, 2004) - Tax Rates and Tax Evasion: Evidence from \"Missing Imports\" in China"
   file: "Fisman_Wei_JPE_2004.pdf"
   desc: "This note summarizes the paper, which uses Hong Kong-reported exports to China, China-reported imports from Hong Kong, six-digit HS product-level tax rates, tariff-plus-VAT measures, missing-import gaps, similar-product tax rates, exemption controls, first-difference tests, and quantity-versus-value gap regressions to study tax evasion, showing that higher tax rates substantially increase missing imports, with evasion operating through value underreporting and misclassification into lower-tax similar products."
