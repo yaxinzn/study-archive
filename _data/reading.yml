@@ -1,3 +1,7 @@
+- title: "Fisman and Wei (JPE, 2004) - Tax Rates and Tax Evasion: Evidence from \"Missing Imports\" in China"
+  file: "Fisman_Wei_JPE_2004.pdf"
+  desc: "This note summarizes the paper, which uses Hong Kong-reported exports to China, China-reported imports from Hong Kong, six-digit HS product-level tax rates, tariff-plus-VAT measures, missing-import gaps, similar-product tax rates, exemption controls, first-difference tests, and quantity-versus-value gap regressions to study tax evasion, showing that higher tax rates substantially increase missing imports, with evasion operating through value underreporting and misclassification into lower-tax similar products."
+
 - title: "Cooper and Haltiwanger (RES, 2006) - On the Nature of Capital Adjustment Costs"
   file: "Cooper_Haltiwanger_RES_2006.pdf"
   desc: "This note summarizes the paper, which uses LRD plant-level investment and profitability moments, a dynamic plant investment model, convex costs, fixed and nonconvex costs, irreversibility-like frictions, disruption costs, sectoral estimates, and indirect inference to study capital adjustment, showing that plant investment dynamics are best explained by a mixture of convex and nonconvex adjustment frictions rather than by a pure quadratic or pure fixed-cost model."
