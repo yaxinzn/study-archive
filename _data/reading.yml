@@ -1,3 +1,7 @@
+- title: "Bagwell and Staiger (AER, 1999) - An Economic Theory of GATT"
+  file: "Bagwell_Staiger_AER_1999.pdf"
+  desc: "This note summarizes the paper, which develops a general-equilibrium theory of GATT with Nash tariffs, politically optimal tariffs, reciprocal tariff concessions, MFN nondiscrimination, renegotiation under reciprocity, and preferential-agreement comparisons to study why trade agreements need reciprocity and nondiscrimination, showing that unilateral tariffs are inefficient because governments shift costs through world prices, while reciprocity neutralizes terms-of-trade externalities and MFN is required for efficient multilateral implementation in multicountry settings."
+
 - title: "Jovanovic (Econometrica, 1982) - Selection and the Evolution of Industry"
   file: "Jovanovic_Econometrica_1982.pdf"
   desc: "This note summarizes the paper, which develops a competitive learning-and-selection model with unknown firm efficiency, noisy cost signals, Bayesian updating, output choices, endogenous exit, sunk entry, equilibrium entry sequences, and survival dynamics to study industry evolution, showing that small and young firms grow faster, grow more variably, and fail more often because firms gradually learn whether they are efficient and markets select toward successful survivors."
