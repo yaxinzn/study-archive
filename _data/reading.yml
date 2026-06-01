@@ -1,3 +1,7 @@
+- title: "Caballero and Engel (Econometrica, 1999) - Explaining Investment Dynamics in U.S. Manufacturing: A Generalized (S, s) Approach"
+  file: "Caballero_Engel_Econometrica_1999.pdf"
+  desc: "This note summarizes the paper, which uses U.S. manufacturing investment data, capital imbalances, stochastic fixed adjustment costs, generalized S,s adjustment hazards, cross-sectional aggregation, equipment and structures comparisons, and nonlinear aggregate investment specifications to study investment dynamics, showing that adjustment hazards rise smoothly with capital imbalances and that nonlinear aggregation of lumpy micro adjustment explains aggregate investment movements better than standard linear models."
+
 - title: "Trefler (AER, 2004) - The Long and Short of the Canada-U.S. Free Trade Agreement"
   file: "Trefler_AER_2004.pdf"
   desc: "This note summarizes the paper, which uses Canadian industry and plant-level manufacturing data, Canada-U.S. Free Trade Agreement tariff cuts, import-competing and export-access exposure measures, long-difference industry regressions, plant-level controls, secular-growth adjustments, and trade, productivity, employment, wage, and price outcomes to study the effects of the Canada-U.S. FTA, showing that import-competing industries experienced short-run employment losses but substantial productivity gains, while trade liberalization produced both adjustment costs and longer-run efficiency gains."
