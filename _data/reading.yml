@@ -1,3 +1,7 @@
+- title: "Foster, Haltiwanger, and Syverson (AER, 2008) - Reallocation, Firm Turnover, and Efficiency: Selection on Productivity or Profitability?"
+  file: "Foster_Haltiwanger_Syverson_AER_2008.pdf"
+  desc: "This note summarizes the paper, which uses U.S. Census of Manufactures plant-level data for homogeneous products, physical output quantities, plant prices, revenue productivity, physical productivity, demand-shock estimates, exit regressions, and aggregate productivity decompositions to study market selection, showing that reallocation and exit are better understood as selection on profitability, which combines technical efficiency and demand, rather than selection on physical productivity alone."
+
 - title: "Hopenhayn (Econometrica, 1992) - Entry, Exit, and Firm Dynamics in Long Run Equilibrium"
   file: "Hopenhayn_Econometrica_1992.pdf"
   desc: "This note summarizes the paper, which develops a stationary competitive industry-equilibrium model with idiosyncratic firm productivity shocks, sunk entry costs, entrant productivity draws, endogenous exit cutoffs, invariant firm distributions, and free-entry conditions to study entry, exit, and long-run firm dynamics, showing that persistent firm turnover, size dispersion, and productivity selection can coexist with aggregate stationarity as low-productivity firms exit and new entrants replace them."
