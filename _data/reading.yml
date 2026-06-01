@@ -1,3 +1,7 @@
+- title: "House and Shapiro (AER, 2008) - Temporary Investment Tax Incentives: Theory with Evidence from Bonus Depreciation"
+  file: "House_Shapiro_AER_2008.pdf"
+  desc: "This note summarizes the paper, which uses bonus depreciation policy variation, MACRS tax lives, capital-type treatment intensity, real investment and price forecast errors, structural investment and price equations, and cross-capital comparisons of qualifying versus nonqualifying assets to study temporary investment tax incentives, showing that bonus depreciation generated strong short-run investment responses concentrated in long-lived qualifying capital, consistent with intertemporal substitution and a high investment supply elasticity, while price evidence is noisier."
+
 - title: "Best, Brockmeyer, Kleven, Spinnewijn, and Waseem (JPE, 2015) - Production versus Revenue Efficiency with Limited Tax Capacity: Theory and Evidence from Pakistan"
   file: "Best_Brockmeyer_Kleven_Spinnewijn_Waseem_JPE_2015.pdf"
   desc: "This note summarizes the paper, which uses Pakistani corporate tax-return data, the minimum-tax kink between profit taxation and turnover taxation, firm bunching around profit-rate thresholds, policy variation across tax rates and years, counterfactual density estimation, and a model of production efficiency versus tax evasion to study tax design under limited enforcement, showing that turnover taxation can raise revenue and welfare despite distorting production because it sharply reduces evasion when profit taxes are easy to manipulate."
