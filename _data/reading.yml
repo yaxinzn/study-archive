@@ -1,3 +1,7 @@
+- title: "Khan and Thomas (Econometrica, 2008) - Idiosyncratic Shocks and the Role of Nonconvexities in Plant and Aggregate Investment Dynamics"
+  file: "Khan_Thomas_Econometrica_2008.pdf"
+  desc: "This note summarizes the paper, which builds a quantitative general-equilibrium model of plant-level investment with persistent idiosyncratic productivity shocks, fixed nonconvex adjustment costs, calibrated plant investment-rate distributions, partial-equilibrium and general-equilibrium experiments, and endogenous wage and interest-rate responses to study lumpy investment, showing that nonconvexities generate strong aggregate nonlinearities in partial equilibrium but become much less important once general-equilibrium price adjustments smooth plants' investment incentives."
+
 - title: "Bloom (Econometrica, 2009) - The Impact of Uncertainty Shocks"
   file: "Bloom_Econometrica_2009.pdf"
   desc: "This note summarizes the paper, which uses stock-market volatility shocks, U.S. macro VAR evidence, Compustat firm-level data, a structural model with time-varying uncertainty, nonconvex labor and capital adjustment costs, simulated method of moments, and uncertainty-shock simulations to study real effects of uncertainty, showing that uncertainty spikes raise the option value of waiting, causing a sharp but temporary drop in investment, hiring, and output followed by rebound and overshooting once uncertainty subsides."
