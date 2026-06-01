@@ -1,3 +1,7 @@
+- title: "Sequeira (AER, 2016) - Corruption, Trade Costs, and Gains from Tariff Liberalization: Evidence from Southern Africa"
+  file: "Sequeira_AER_2016.pdf"
+  desc: "This note summarizes the paper, which uses the SADC tariff phaseout between South Africa and Mozambique, COMTRADE import flows, firm survey data, product-level treatment and control groups, trade-gap measures, and shipment-level audit data on bribe payments to study how corruption changes the gains from tariff liberalization, showing that large statutory tariff cuts generated very small import responses because customs corruption had already lowered effective trade costs, while the reform still reduced bribes and improved trade-reporting accuracy."
+
 - title: "Seru (JFE, 2014) - Firm Boundaries Matter: Evidence from Conglomerates and R&D Activity"
   file: "Seru_JFE_2014.pdf"
   desc: "This note summarizes the paper, which uses Compustat segment data, NBER/USPTO patent and citation data, SDC successful and failed friendly mergers, internal-capital-market intensity measures, difference-in-differences designs, inventor-level outcomes, alliance activity, and R&D budget decentralization to study firm boundaries and innovation, showing that entering diversified conglomerates reduces targets' R&D productivity and novelty, especially when acquirers operate active internal capital markets, while inventor mobility, alliances, and decentralized R&D budgets partly mitigate the decline."
