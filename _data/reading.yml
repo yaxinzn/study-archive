@@ -1,3 +1,7 @@
+- title: "Hopenhayn (Econometrica, 1992) - Entry, Exit, and Firm Dynamics in Long Run Equilibrium"
+  file: "Hopenhayn_Econometrica_1992.pdf"
+  desc: "This note summarizes the paper, which develops a stationary competitive industry-equilibrium model with idiosyncratic firm productivity shocks, sunk entry costs, entrant productivity draws, endogenous exit cutoffs, invariant firm distributions, and free-entry conditions to study entry, exit, and long-run firm dynamics, showing that persistent firm turnover, size dispersion, and productivity selection can coexist with aggregate stationarity as low-productivity firms exit and new entrants replace them."
+
 - title: "Sequeira (AER, 2016) - Corruption, Trade Costs, and Gains from Tariff Liberalization: Evidence from Southern Africa"
   file: "Sequeira_AER_2016.pdf"
   desc: "This note summarizes the paper, which uses the SADC tariff phaseout between South Africa and Mozambique, COMTRADE import flows, firm survey data, product-level treatment and control groups, trade-gap measures, and shipment-level audit data on bribe payments to study how corruption changes the gains from tariff liberalization, showing that large statutory tariff cuts generated very small import responses because customs corruption had already lowered effective trade costs, while the reform still reduced bribes and improved trade-reporting accuracy."
