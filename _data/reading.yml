@@ -1,3 +1,7 @@
+- title: "Kline and Moretti (QJE, 2014) - Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority"
+  file: "Kline_Moretti_QJE_2014.pdf"
+  desc: "This note summarizes the paper, which uses county-level data from 1900 to 2000, TVA treatment counties, proposed-but-unapproved regional authorities, Oaxaca-Blinder counterfactual growth regressions, placebo pretrend tests, manufacturing and agricultural employment outcomes, spatial equilibrium modeling, agglomeration estimates, and cost-benefit analysis to study place-based development policy, showing that TVA generated persistent local manufacturing gains and positive national returns mainly through direct infrastructure productivity rather than aggregate agglomeration gains."
+
 - title: "Syverson (JPE, 2004) - Market Structure and Productivity: A Concrete Example"
   file: "Syverson_JPE_2004.pdf"
   desc: "This note summarizes the paper, which uses U.S. ready-mixed concrete plant data, physical output in cubic yards, local CEA markets, demand density, TFP dispersion, median and output-weighted TFP, tenth-percentile TFP, producer-demand ratios, and spatial competition regressions to study market structure and productivity, showing that denser markets intensify substitutability and select out low-productivity plants, raising the productivity floor and reducing dispersion."
