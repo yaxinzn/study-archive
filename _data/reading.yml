@@ -1,3 +1,7 @@
+- title: "Hendershott, Li, Livdan, Schurhoff, and Venkataraman (JF, 2026) - Quote Competition in Corporate Bonds"
+  file: "Hendershott_Li_Livdan_Schurhoff_Venkataraman_JF_2026.pdf"
+  desc: "This note summarizes the paper, which uses BondCliQ dealer quotes, TRACE corporate bond trades, insurance-company relationship data, dealer-bond-day quote measures, execution-quality benchmarks, quote-quality measures, saturated fixed effects, shift-share bond-level quote supply, and relationship-dealer tests to study quote competition in OTC corporate bonds, showing that even nonbinding indicative quotes increase trading, improve client execution, and allow nonrelationship dealers to compete for order flow."
+
 - title: "Acikalin, Caskurlu, Hoberg, and Phillips (JFE, 2026) - Intellectual Property Protection Lost and Competition: An Examination Using Large Language Models"
   file: "Acikalin_Caskurlu_Hoberg_Phillips_JFE_2026.pdf"
   desc: "This note summarizes the paper, which uses the 2014 Alice Supreme Court patent shock, USPTO patent text, Alice-rejected applications, ModernBERT patent classification, firm-level Alice exposure, continuous-treatment difference-in-differences, entropy balancing, VC entry, product-market encroachment, patenting, lawsuits, NDAs, and performance outcomes to study weakened IP protection, showing that Alice reduces patenting and hurts small exposed firms while large exposed firms often gain because they rely more on non-patent barriers to entry."
