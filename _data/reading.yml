@@ -1,3 +1,7 @@
+- title: "Tirole (RES, 1996) - A Theory of Collective Reputations with Applications to the Persistence of Corruption and to Firm Quality"
+  file: "Tirole_RES_1996.pdf"
+  desc: "This note summarizes the paper, which develops a theory of collective reputation using overlapping generations, noisy individual track records, honest/dishonest/opportunistic types, trust-sensitive task assignment, low- and high-corruption steady states, original-sin dynamics, anti-corruption campaigns, amnesty, and firm-quality applications to study reputational persistence, showing that bad collective reputations can survive after original wrongdoers exit because distrust lowers the private return to good behavior for new members."
+
 - title: "Shin and Stulz (QJE, 1998) - Are Internal Capital Markets Efficient?"
   file: "Shin_Stulz_QJE_1998.pdf"
   desc: "This note summarizes the paper, which uses Compustat segment data, largest and smallest business segments, segment capital expenditures, own cash flow, other-segment cash flow, industry Tobin's q, diversification intensity, stand-alone firm benchmarks, and robustness specifications to study whether internal capital markets allocate capital efficiently, showing that internal capital markets are active but weakly selective because segment investment responds much more to own cash flow than to other segments' opportunities."
