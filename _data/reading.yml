@@ -1,3 +1,7 @@
+- title: "Hebert (RFS, 2025) - Gender Stereotypes and Entrepreneur Financing"
+  file: "Hebert_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which uses French SINE startup survey data, firm registry records, tax and payroll files, SME financing evidence, founder gender, sector gender composition, external equity and VC use, Oaxaca-Blinder decompositions, bank-debt substitution tests, and post-financing performance outcomes to study gender stereotypes in entrepreneurial finance, showing that female founders receive less equity financing especially in male-dominated sectors and that funded women outperform comparable men, consistent with a higher funding bar."
+
 - title: "Goldsmith-Pinkham and Shue (JF, 2023) - The Gender Gap in Housing Returns"
   file: "GoldsmithPinkham_Shue_JF_2023.pdf"
   desc: "This note summarizes the paper, which uses CoreLogic deeds and listings data, name-based gender classification, realized housing returns, property fixed effects, purchase and sale timing controls, list-price and discount regressions, AHS validation, listing-agent fixed effects, and market-tightness tests to study gender gaps in housing returns, showing that single women earn lower housing returns than single men because of both worse market timing and less favorable transaction execution at purchase and sale."
