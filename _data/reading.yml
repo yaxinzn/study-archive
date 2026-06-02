@@ -1,3 +1,7 @@
+- title: "Gabaix (Econometrica, 2011) - The Granular Origins of Aggregate Fluctuations"
+  file: "Gabaix_Econometrica_2011.pdf"
+  desc: "This note summarizes the paper, which uses Compustat top-firm sales and employment data, sales-per-worker productivity shocks, sales-share-weighted granular residuals, industry demeaning, GDP and Solow residual regressions, traditional macro controls, and fat-tailed firm-size theory to study the granular origins of aggregate fluctuations, showing that idiosyncratic shocks to very large firms explain a substantial share of aggregate volatility because firm sizes are sufficiently fat-tailed that shocks do not diversify away."
+
 - title: "Albanesi and Armenter (RES, 2012) - Intertemporal Distortions in the Second Best"
   file: "Albanesi_Armenter_RES_2012.pdf"
   desc: "This note summarizes the paper, which develops a general second-best dynamic framework with feasibility constraints, admissibility constraints, auxiliary state variables, intertemporal wedges, Ramsey taxation, self-enforcement, private information, limited commitment, and firm-dynamics applications to study when intertemporal distortions persist, showing that permanent one-sided intertemporal wedges are ruled out whenever distortions can be front-loaded and an admissible path converges to the limiting first best."
