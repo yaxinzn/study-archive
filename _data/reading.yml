@@ -1,3 +1,7 @@
+- title: "Pomeranz (AER, 2015) - No Taxation without Information: Deterrence and Self-Enforcement in the Value Added Tax"
+  file: "Pomeranz_AER_2015.pdf"
+  desc: "This note summarizes the paper, which uses Chilean VAT administrative records, randomized deterrence letters, a spillover experiment, firm-level VAT payments, transaction line items, treatment-control comparisons, and trading-partner responses to study third-party information and tax enforcement, showing that audit-threat letters raise reported VAT payments and that the VAT paper trail creates self-enforcement, especially for firm-to-firm transactions where buyers and sellers leave reciprocal records."
+
 - title: "Kleven and Waseem (QJE, 2013) - Using Notches to Uncover Optimization Frictions and Structural Elasticities: Theory and Evidence from Pakistan"
   file: "Kleven_Waseem_QJE_2013.pdf"
   desc: "This note summarizes the paper, which uses Pakistani administrative income-tax records, sharp tax notches, dominated ranges, bunching around tax thresholds, round-number reporting, self-employed versus wage-earner comparisons, and structural bunching formulas to study optimization frictions and taxable-income elasticities, showing that taxpayers respond strongly to notches but with large frictions, so observed bunching identifies both behavioral elasticities and optimization constraints rather than a frictionless tax response alone."
