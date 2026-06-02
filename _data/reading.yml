@@ -1,3 +1,7 @@
+- title: "Goldsmith-Pinkham and Shue (JF, 2023) - The Gender Gap in Housing Returns"
+  file: "GoldsmithPinkham_Shue_JF_2023.pdf"
+  desc: "This note summarizes the paper, which uses CoreLogic deeds and listings data, name-based gender classification, realized housing returns, property fixed effects, purchase and sale timing controls, list-price and discount regressions, AHS validation, listing-agent fixed effects, and market-tightness tests to study gender gaps in housing returns, showing that single women earn lower housing returns than single men because of both worse market timing and less favorable transaction execution at purchase and sale."
+
 - title: "Bucher-Koenen, Hackethal, Koenen, and Laudenbach (AER, 2025) - Gender Differences in Financial Advice"
   file: "BucherKoenen_Hackethal_Koenen_Laudenbach_AER_2025.pdf"
   desc: "This note summarizes the paper, which uses German bank advisory-meeting records, fund rebates, product recommendations, annual expense ratios, client financial-literacy surveys, advisor beliefs, and a randomized advisor experiment to study gender differences in financial advice, showing that women receive fewer rebates and more expensive in-house product recommendations because advisors use gender as a signal of lower financial sophistication and price sensitivity."
