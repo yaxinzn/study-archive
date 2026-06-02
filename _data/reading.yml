@@ -1,3 +1,7 @@
+- title: "Topel and Ward (QJE, 1992) - Job Mobility and the Careers of Young Men"
+  file: "Topel_Ward_QJE_1992.pdf"
+  desc: "This note summarizes the paper, which uses LEED quarterly employer-linked Social Security earnings records, young white male career histories, job tenure, actual and potential experience, job transitions, within-job wage growth, between-job wage gains, and fixed-effect proportional hazard models to study early-career job mobility, showing that young workers hold many jobs early in their careers, that job changes generate a large share of wage growth, and that high current wages strongly reduce job-exit probabilities by signaling better match quality."
+
 - title: "Farber and Gibbons (QJE, 1996) - Learning and Wage Dynamics"
   file: "Farber_Gibbons_QJE_1996.pdf"
   desc: "This note summarizes the paper, which uses NLSY young-worker wage data, labor-market experience measures, schooling, residualized AFQT and library-card ability proxies, wage-level earnings regressions, education-by-experience interactions, and residual covariance tests to study employer learning and wage dynamics, showing that schooling's wage coefficient is stable with experience while market-unobserved ability proxies become increasingly predictive of wages, consistent with employers gradually learning worker ability."
