@@ -1,3 +1,7 @@
+- title: "Acikalin, Caskurlu, Hoberg, and Phillips (JFE, 2026) - Intellectual Property Protection Lost and Competition: An Examination Using Large Language Models"
+  file: "Acikalin_Caskurlu_Hoberg_Phillips_JFE_2026.pdf"
+  desc: "This note summarizes the paper, which uses the 2014 Alice Supreme Court patent shock, USPTO patent text, Alice-rejected applications, ModernBERT patent classification, firm-level Alice exposure, continuous-treatment difference-in-differences, entropy balancing, VC entry, product-market encroachment, patenting, lawsuits, NDAs, and performance outcomes to study weakened IP protection, showing that Alice reduces patenting and hurts small exposed firms while large exposed firms often gain because they rely more on non-patent barriers to entry."
+
 - title: "Bianchi, Ludvigson, and Ma (AER, 2022) - Belief Distortions and Macroeconomic Fluctuations"
   file: "Bianchi_Ludvigson_Ma_AER_2022.pdf"
   desc: "This note summarizes the paper, which uses SPF, Michigan Survey of Consumers, and Blue Chip forecasts, real-time macro and financial information sets, dynamic elastic-net machine learning, forecast-error comparisons, bias decompositions, and forecast-revision tests to study belief distortions in macroeconomic expectations, showing that human forecasters systematically overweight judgmental/private forecast components and that machine benchmarks improve inflation and GDP-growth forecasts out of sample."
