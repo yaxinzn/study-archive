@@ -44,7 +44,7 @@
 
 - title: "Chen, Goldstein, and Jiang (RFS, 2007) - Price Informativeness and Investment Sensitivity to Stock Price"
   file: "Chen_Goldstein_Jiang_RFS_2007.pdf"
-  desc: "This note summarizes the paper, which uses U.S. firm-level investment data, stock-price measures, cash-flow controls, private-information proxies such as 1 minus R-squared and PIN, analyst coverage, managerial information proxies, financial-constraint splits, and future-performance regressions to study whether managers learn from stock prices, showing that investment is more sensitive to stock prices when prices contain more private information, consistent with market prices guiding corporate investment decisions."
+  desc: "This note summarizes the paper, which uses Compustat investment data, Tobin's Q, cash flow, price nonsynchronicity, PIN, insider trading, earnings surprises, analyst coverage, financing-constraint measures, future-performance regressions, and panel investment specifications to study whether managers learn from stock prices, showing that investment is more sensitive to stock prices when prices contain more private information, consistent with a feedback channel from financial markets to real decisions."
 
 - title: "Baker, Stein, and Wurgler (QJE, 2003) - When Does the Market Matter? Stock Prices and the Investment of Equity-Dependent Firms"
   file: "Baker_Stein_Wurgler_QJE_2003.pdf"
