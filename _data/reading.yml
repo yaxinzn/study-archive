@@ -1,3 +1,7 @@
+- title: "Gan (JFE, 2007) - Collateral, Debt Capacity, and Corporate Investment: Evidence from a Natural Experiment"
+  file: "Gan_JFE_2007.pdf"
+  desc: "This note summarizes the paper, which uses Japan's land-price collapse, pre-shock firm landholdings, Japanese manufacturing firm investment, Tobin's q, cash flow, land-to-capital ratios, LAD investment regressions, matched bank-firm lending data, relationship survival, loan growth, and bank fixed effects to study collateral and debt capacity, showing that firms with larger collateral losses received less bank credit and reduced investment more, even after controlling for bank health."
+
 - title: "Kline and Moretti (QJE, 2014) - Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority"
   file: "Kline_Moretti_QJE_2014.pdf"
   desc: "This note summarizes the paper, which uses county-level data from 1900 to 2000, TVA treatment counties, proposed-but-unapproved regional authorities, Oaxaca-Blinder counterfactual growth regressions, placebo pretrend tests, manufacturing and agricultural employment outcomes, spatial equilibrium modeling, agglomeration estimates, and cost-benefit analysis to study place-based development policy, showing that TVA generated persistent local manufacturing gains and positive national returns mainly through direct infrastructure productivity rather than aggregate agglomeration gains."
