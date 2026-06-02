@@ -1,3 +1,7 @@
+- title: "Bertrand, Mehta, and Mullainathan (QJE, 2002) - Ferreting Out Tunneling: An Application to Indian Business Groups"
+  file: "Bertrand_Mehta_Mullainathan_QJE_2002.pdf"
+  desc: "This note summarizes the paper, which uses CMIE Prowess data on Indian business groups, firm-level accounting profits, group affiliation, director equity, outside ownership, industry-predicted profit shocks, group-shock propagation, ownership-gradient tests, and operating versus nonoperating profit decompositions to study tunneling, showing that group firms underrespond to their own shocks and that profits appear to move from low-cash-flow-right firms toward firms more valuable to controlling shareholders."
+
 - title: "Gan (JFE, 2007) - Collateral, Debt Capacity, and Corporate Investment: Evidence from a Natural Experiment"
   file: "Gan_JFE_2007.pdf"
   desc: "This note summarizes the paper, which uses Japan's land-price collapse, pre-shock firm landholdings, Japanese manufacturing firm investment, Tobin's q, cash flow, land-to-capital ratios, LAD investment regressions, matched bank-firm lending data, relationship survival, loan growth, and bank fixed effects to study collateral and debt capacity, showing that firms with larger collateral losses received less bank credit and reduced investment more, even after controlling for bank health."
