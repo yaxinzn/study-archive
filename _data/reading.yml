@@ -1,3 +1,7 @@
+- title: "Bianchi, Ludvigson, and Ma (AER, 2022) - Belief Distortions and Macroeconomic Fluctuations"
+  file: "Bianchi_Ludvigson_Ma_AER_2022.pdf"
+  desc: "This note summarizes the paper, which uses SPF, Michigan Survey of Consumers, and Blue Chip forecasts, real-time macro and financial information sets, dynamic elastic-net machine learning, forecast-error comparisons, bias decompositions, and forecast-revision tests to study belief distortions in macroeconomic expectations, showing that human forecasters systematically overweight judgmental/private forecast components and that machine benchmarks improve inflation and GDP-growth forecasts out of sample."
+
 - title: "Hebert (RFS, 2025) - Gender Stereotypes and Entrepreneur Financing"
   file: "Hebert_RFS_2025.pdf"
   desc: "This note summarizes the paper, which uses French SINE startup survey data, firm registry records, tax and payroll files, SME financing evidence, founder gender, sector gender composition, external equity and VC use, Oaxaca-Blinder decompositions, bank-debt substitution tests, and post-financing performance outcomes to study gender stereotypes in entrepreneurial finance, showing that female founders receive less equity financing especially in male-dominated sectors and that funded women outperform comparable men, consistent with a higher funding bar."
