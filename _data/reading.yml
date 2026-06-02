@@ -1,3 +1,7 @@
+- title: "Bacher (RFS, 2025) - The Gender Investment Gap over the Life Cycle"
+  file: "Bacher_RFS_2025.pdf"
+  desc: "This note summarizes the paper, which uses SCF portfolio data, PSID income and demographic dynamics, SCE expectations, life-cycle equity shares, stock-market participation, net worth, deterministic and stochastic income processes, household-size expectations, and a structural life-cycle portfolio-choice model to study the gender investment gap, showing that single women invest less in risky assets mainly because of lower deterministic income, larger household sizes, lower initial wealth, and future background risks rather than because the model requires gender-specific risk preferences."
+
 - title: "Topel and Ward (QJE, 1992) - Job Mobility and the Careers of Young Men"
   file: "Topel_Ward_QJE_1992.pdf"
   desc: "This note summarizes the paper, which uses LEED quarterly employer-linked Social Security earnings records, young white male career histories, job tenure, actual and potential experience, job transitions, within-job wage growth, between-job wage gains, and fixed-effect proportional hazard models to study early-career job mobility, showing that young workers hold many jobs early in their careers, that job changes generate a large share of wage growth, and that high current wages strongly reduce job-exit probabilities by signaling better match quality."
