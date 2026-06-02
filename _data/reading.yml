@@ -1,3 +1,7 @@
+- title: "Shin and Stulz (QJE, 1998) - Are Internal Capital Markets Efficient?"
+  file: "Shin_Stulz_QJE_1998.pdf"
+  desc: "This note summarizes the paper, which uses Compustat segment data, largest and smallest business segments, segment capital expenditures, own cash flow, other-segment cash flow, industry Tobin's q, diversification intensity, stand-alone firm benchmarks, and robustness specifications to study whether internal capital markets allocate capital efficiently, showing that internal capital markets are active but weakly selective because segment investment responds much more to own cash flow than to other segments' opportunities."
+
 - title: "Lamont (JF, 1997) - Cash Flow and Investment: Evidence from Internal Capital Markets"
   file: "Lamont_JF_1997.pdf"
   desc: "This note summarizes the paper, which uses the 1986 oil-price collapse, Compustat segment data, oil-dependent diversified parent firms, nonoil segment investment, segment cash flow, industry-adjusted investment changes, subsidization indicators, oil cash-flow exposure, and control-group comparisons to study internal capital markets, showing that negative cash-flow and collateral shocks to oil divisions reduce investment in unrelated nonoil segments, especially those previously subsidized by the parent."
