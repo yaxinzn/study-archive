@@ -1,3 +1,7 @@
+- title: "Milgrom (JPE, 1988) - Employment Contracts, Influence Activities, and Efficient Organization Design"
+  file: "Milgrom_JPE_1988.pdf"
+  desc: "This note summarizes the paper, which develops a theory of influence costs using incomplete employment contracts, post-hiring job attributes, compensating-differential failures, redistributive stakes, managerial discretion, influence activities, organizational importance, and rule-based restrictions to study efficient organization design, showing that firms should restrict discretion when decisions have large private redistributive consequences but limited value for firm output."
+
 - title: "Tirole (RES, 1996) - A Theory of Collective Reputations with Applications to the Persistence of Corruption and to Firm Quality"
   file: "Tirole_RES_1996.pdf"
   desc: "This note summarizes the paper, which develops a theory of collective reputation using overlapping generations, noisy individual track records, honest/dishonest/opportunistic types, trust-sensitive task assignment, low- and high-corruption steady states, original-sin dynamics, anti-corruption campaigns, amnesty, and firm-quality applications to study reputational persistence, showing that bad collective reputations can survive after original wrongdoers exit because distrust lowers the private return to good behavior for new members."
