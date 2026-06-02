@@ -1,3 +1,7 @@
+- title: "Coate and Loury (AER, 1993) - Will Affirmative-Action Policies Eliminate Negative Stereotypes?"
+  file: "Coate_Loury_AER_1993.pdf"
+  desc: "This note summarizes the paper, which develops a statistical-discrimination model with two worker groups, noisy productivity signals, employer assignment standards, endogenous worker skill investment, equal-assignment affirmative-action constraints, patronizing equilibria, and worker versus employer subsidy comparisons to study whether affirmative action eliminates negative stereotypes, showing that affirmative action can sometimes break discriminatory beliefs but can also preserve or worsen stereotypes when employers lower standards for the disadvantaged group and weaken its incentives to invest."
+
 - title: "Gabaix (Econometrica, 2011) - The Granular Origins of Aggregate Fluctuations"
   file: "Gabaix_Econometrica_2011.pdf"
   desc: "This note summarizes the paper, which uses Compustat top-firm sales and employment data, sales-per-worker productivity shocks, sales-share-weighted granular residuals, industry demeaning, GDP and Solow residual regressions, traditional macro controls, and fat-tailed firm-size theory to study the granular origins of aggregate fluctuations, showing that idiosyncratic shocks to very large firms explain a substantial share of aggregate volatility because firm sizes are sufficiently fat-tailed that shocks do not diversify away."
