@@ -1,3 +1,7 @@
+- title: "Farber and Gibbons (QJE, 1996) - Learning and Wage Dynamics"
+  file: "Farber_Gibbons_QJE_1996.pdf"
+  desc: "This note summarizes the paper, which uses NLSY young-worker wage data, labor-market experience measures, schooling, residualized AFQT and library-card ability proxies, wage-level earnings regressions, education-by-experience interactions, and residual covariance tests to study employer learning and wage dynamics, showing that schooling's wage coefficient is stable with experience while market-unobserved ability proxies become increasingly predictive of wages, consistent with employers gradually learning worker ability."
+
 - title: "Coate and Loury (AER, 1993) - Will Affirmative-Action Policies Eliminate Negative Stereotypes?"
   file: "Coate_Loury_AER_1993.pdf"
   desc: "This note summarizes the paper, which develops a statistical-discrimination model with two worker groups, noisy productivity signals, employer assignment standards, endogenous worker skill investment, equal-assignment affirmative-action constraints, patronizing equilibria, and worker versus employer subsidy comparisons to study whether affirmative action eliminates negative stereotypes, showing that affirmative action can sometimes break discriminatory beliefs but can also preserve or worsen stereotypes when employers lower standards for the disadvantaged group and weaken its incentives to invest."
