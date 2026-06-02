@@ -36,7 +36,7 @@
 
 - title: "Atkeson and Burstein (AER, 2008) - Pricing-to-Market, Trade Costs, and International Relative Prices"
   file: "Atkeson_Burstein_AER_2008.pdf"
-  desc: "This note summarizes the paper, which uses international relative-price facts, a two-country model with nested CES demand, firm heterogeneity, Cournot competition, iceberg trade costs, fixed export costs, market-share-dependent markups, and calibration to trade volumes, exporter shares, concentration, and markups to study pricing-to-market and real exchange-rate movements, showing that variable markups and trade costs can generate incomplete pass-through and aggregate deviations from relative PPP without nominal rigidities, with large firms and market-share dispersion driving much of the aggregate effect."
+  desc: "This note summarizes the paper, which uses international relative-price facts, CPI and PPI real exchange rates, disaggregated trade and price evidence, a two-country model with nested CES demand, firm heterogeneity, Cournot competition, trade costs, fixed export costs, and market-share-dependent markups to study pricing-to-market, showing that variable markups and trade costs generate incomplete pass-through and aggregate deviations from relative PPP even without nominal rigidities."
 
 - title: "Goldberg and Hellerstein (RES, 2013) - A Structural Approach to Identifying the Sources of Local Currency Price Stability"
   file: "Goldberg_Hellerstein_RES_2013.pdf"
