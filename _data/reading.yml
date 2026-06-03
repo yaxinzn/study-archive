@@ -1,3 +1,7 @@
+- title: "Strebulaev (JF, 2007) - Do Tests of Capital Structure Theory Mean What They Say?"
+  file: "Strebulaev_JF_2007.pdf"
+  desc: "This note summarizes the paper, which uses a calibrated dynamic trade-off model with taxes, bankruptcy costs, refinancing costs, equity issuance costs, stochastic cash flows, refinancing boundaries, simulated firm panels, leverage-profitability regressions, Welch-style stock-return tests, and active-versus-passive refinancing subsamples to study whether standard capital-structure tests are valid, showing that common empirical patterns often viewed as evidence against trade-off theory can arise from optimal but infrequent adjustment."
+
 - title: "Leary and Roberts (JF, 2005) - Do Firms Rebalance Their Capital Structures?"
   file: "Leary_Roberts_JF_2005.pdf"
   desc: "This note summarizes the paper, which uses quarterly Compustat and CRSP data, financing-event thresholds, debt and equity issuance or retirement, leverage-increase and leverage-decrease spells, adjustment-cost proxies, market-to-book timing variables, stock-return shocks, and semiparametric duration models to study whether firms rebalance capital structure, showing that firms adjust intermittently because adjustment is costly, but their debt issuance and retirement decisions actively offset leverage deviations and prior leverage shocks."
