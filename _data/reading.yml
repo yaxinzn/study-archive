@@ -1,3 +1,7 @@
+- title: "Bloom, Floetotto, Jaimovich, Saporta-Eksten, and Terry (Econometrica, 2018) - Really Uncertain Business Cycles"
+  file: "Bloom_Floetotto_Jaimovich_SaportaEksten_Terry_Econometrica_2018.pdf"
+  desc: "This note summarizes the paper, which uses U.S. Census plant-level manufacturing data, establishment TFP-shock dispersion, sales and output growth dispersion, stock-return volatility links, recession regressions, industry-year evidence, and a heterogeneous-firm DSGE model with capital and labor adjustment costs to study uncertainty shocks, showing that recessions combine negative first-moment shocks with higher microeconomic uncertainty, which lowers output, labor, and investment through real-options inaction and misallocation while also reducing policy effectiveness."
+
 - title: "Helpman, Melitz, and Rubinstein (QJE, 2008) - Estimating Trade Flows: Trading Partners and Trading Volumes"
   file: "Helpman_Melitz_Rubinstein_QJE_2008.pdf"
   desc: "This note summarizes the paper, which uses bilateral trade flows for 158 countries, zero and one-way trade observations, country-pair gravity variables, fixed export-cost proxies, first-stage Probit selection equations, inverse-Mills and extensive-margin corrections, and parametric or semiparametric second-stage gravity estimates to study trade flows with heterogeneous firms, showing that standard positive-flow gravity regressions overstate direct trade-cost effects because they omit exporter selection and the extensive margin of how many firms export."
