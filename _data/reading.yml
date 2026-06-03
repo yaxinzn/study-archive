@@ -1,3 +1,7 @@
+- title: "Hornbeck (AER, 2012) - The Enduring Impact of the American Dust Bowl: Short- and Long-Run Adjustments to Environmental Catastrophe"
+  file: "Hornbeck_AER_2012.pdf"
+  desc: "This note summarizes the paper, which uses a balanced panel of Plains counties, Dust Bowl erosion severity, farmland values, agricultural revenues, land-use choices, population, manufacturing, banking, government-payment data, state-by-year fixed effects, pre-1930 controls, and weather-based robustness checks to study environmental catastrophe and adaptation, showing that heavily eroded counties suffered persistent agricultural losses and adjusted mainly through population decline rather than rapid local land-use or industrial adjustment."
+
 - title: "Buera and Shin (JPE, 2013) - Financial Frictions and the Persistence of History: A Quantitative Exploration"
   file: "Buera_Shin_JPE_2013.pdf"
   desc: "This note summarizes the paper, which uses economic-miracle transition facts, output, investment, TFP, private-credit data, micro evidence on labor reallocation and establishment size, and a calibrated heterogeneous-entrepreneur model with collateral constraints and prereform distortions to study development dynamics, showing that financial frictions make history persistent because productive but initially poor entrepreneurs must accumulate collateral before reallocating resources efficiently after reform."
