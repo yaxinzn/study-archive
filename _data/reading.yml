@@ -1,3 +1,7 @@
+- title: "Benabou and Laroque (QJE, 1992) - Using Privileged Information to Manipulate Markets: Insiders, Gurus, and Credibility"
+  file: "Benabou_Laroque_QJE_1992.pdf"
+  desc: "This note summarizes the paper, which develops a model of market manipulation by informed insiders, gurus, or journalists using noisy private signals, public messages, trading after announcements, reputation updating, honest versus opportunistic sender types, static and repeated-game credibility, and changing-type dynamics to study whether reputation prevents manipulation, showing that credibility can enable manipulation because noisy signals create plausible deniability and allow opportunistic forecasters to distort prices repeatedly before reputation fully disciplines them."
+
 - title: "Rock (JFE, 1986) - Why New Issues Are Underpriced"
   file: "Rock_JFE_1986.pdf"
   desc: "This note summarizes the paper, which develops a winner's-curse theory of IPO underpricing using firm-commitment offerings, informed and uninformed investor demand, fixed offer prices, rationing probabilities, allocation-biased returns, uninformed participation constraints, and issuer risk-sharing motives to study why new issues are underpriced, showing that IPO discounts compensate uninformed investors for receiving disproportionately fewer good issues and more bad issues when informed investors selectively enter attractive offerings."
