@@ -1,3 +1,7 @@
+- title: "Edmans, Goldstein, and Jiang (JF, 2012) - The Real Effects of Financial Markets: The Impact of Prices on Takeovers"
+  file: "Edmans_Goldstein_Jiang_JF_2012.pdf"
+  desc: "This note summarizes the paper, which uses SDC takeover bids, CRSP-Compustat firm-year data, valuation discount measures relative to industry and firm-specific frontiers, mutual-fund-flow-induced price pressure, takeover probability equations, feedback-adjusted simultaneous specifications, and financially driven takeover subsamples to study whether stock prices affect corporate control, showing that nonfundamental valuation declines substantially increase takeover likelihood once the anticipation effect from expected takeovers back into prices is accounted for."
+
 - title: "Goldstein, Ozdenoren, and Yuan (JFE, 2013) - Trading Frenzies and Their Impact on Real Investment"
   file: "Goldstein_Ozdenoren_Yuan_JFE_2013.pdf"
   desc: "This note summarizes the paper, which develops a feedback model with speculator signals, common information, noisy asset supply, endogenous prices, a capital provider learning from prices, real investment, and security payoffs depending on investment to study trading frenzies, showing that price feedback creates strategic complementarities among speculators, leading them to overweight common signals and generate coordinated trading that can distort both prices and real investment."
