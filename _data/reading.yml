@@ -1,3 +1,7 @@
+- title: "Baqaee and Farhi (Econometrica, 2019) - The Macroeconomic Impact of Microeconomic Shocks: Beyond Hulten's Theorem"
+  file: "Baqaee_Farhi_Econometrica_2019.pdf"
+  desc: "This note summarizes the paper, which develops a nonlinear production-network framework using Domar weights, input-output linkages, general-equilibrium substitution elasticities, second-order approximations, U.S. KLEMS sectoral data, calibrated sectoral TFP shocks, oil-shock applications, and long-run productivity decompositions to study the macro impact of micro shocks beyond Hulten's theorem, showing that sales shares are sufficient only locally and that large shocks, bottleneck inputs, low substitutability, and limited factor reallocation create nonlinear amplification, tail risk, and productivity drag."
+
 - title: "Edmans, Goldstein, and Jiang (JF, 2012) - The Real Effects of Financial Markets: The Impact of Prices on Takeovers"
   file: "Edmans_Goldstein_Jiang_JF_2012.pdf"
   desc: "This note summarizes the paper, which uses SDC takeover bids, CRSP-Compustat firm-year data, valuation discount measures relative to industry and firm-specific frontiers, mutual-fund-flow-induced price pressure, takeover probability equations, feedback-adjusted simultaneous specifications, and financially driven takeover subsamples to study whether stock prices affect corporate control, showing that nonfundamental valuation declines substantially increase takeover likelihood once the anticipation effect from expected takeovers back into prices is accounted for."
