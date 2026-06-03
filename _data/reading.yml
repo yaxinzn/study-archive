@@ -1,3 +1,7 @@
+- title: "Leary and Roberts (JF, 2005) - Do Firms Rebalance Their Capital Structures?"
+  file: "Leary_Roberts_JF_2005.pdf"
+  desc: "This note summarizes the paper, which uses quarterly Compustat and CRSP data, financing-event thresholds, debt and equity issuance or retirement, leverage-increase and leverage-decrease spells, adjustment-cost proxies, market-to-book timing variables, stock-return shocks, and semiparametric duration models to study whether firms rebalance capital structure, showing that firms adjust intermittently because adjustment is costly, but their debt issuance and retirement decisions actively offset leverage deviations and prior leverage shocks."
+
 - title: "Gibbons and Waldman (QJE, 1999) - A Theory of Wage and Promotion Dynamics Inside Firms"
   file: "Gibbons_Waldman_QJE_1999.pdf"
   desc: "This note summarizes the paper, which develops a dynamic internal-labor-market model with worker innate ability, experience-based human capital, noisy learning, job-assignment thresholds, wage dynamics, promotion rules, and prior personnel evidence from Baker, Gibbs, and Holmstrom to study wage and promotion dynamics inside firms, showing that job assignment, human-capital accumulation, and symmetric learning jointly explain wage decreases without frequent demotions, fast-track careers, promotion wage jumps, and serially correlated wage growth."
