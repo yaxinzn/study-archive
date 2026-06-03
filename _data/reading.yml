@@ -1,3 +1,7 @@
+- title: "Greenstone, Hornbeck, and Moretti (JPE, 2010) - Identifying Agglomeration Spillovers: Evidence from Winners and Losers of Large Plant Openings"
+  file: "Greenstone_Hornbeck_Moretti_JPE_2010.pdf"
+  desc: "This note summarizes the paper, which uses Million Dollar Plant opening contests, winning versus runner-up counties, Census and ASM plant-level production data, incumbent-plant TFP, plant fixed effects, industry-year fixed effects, event-study and difference-in-differences specifications, and economic-distance measures for labor, technology, and input-output linkages to study agglomeration spillovers, showing that large plant openings raise nearby incumbent productivity, especially for economically related industries, while part of the gain is capitalized into local wages."
+
 - title: "Luo (JF, 2005) - Do Insiders Learn from Outsiders? Evidence from Mergers and Acquisitions"
   file: "Luo_JF_2005.pdf"
   desc: "This note summarizes the paper, which uses SDC friendly U.S. public M&A deals, CRSP bidder-target announcement returns, deal completion outcomes, market-estimated synergy, pre-agreement versus agreement status, high-tech opacity, bidder size, probit completion regressions, and renegotiation tests to study whether managers learn from stock-market reactions, showing that favorable market-estimated synergy predicts deal completion especially when cancellation is cheaper and market feedback is more informative."
