@@ -1,3 +1,7 @@
+- title: "Autor and Scarborough (QJE, 2008) - Does Job Testing Harm Minority Workers? Evidence from Retail Establishments"
+  file: "Autor_Scarborough_QJE_2008.pdf"
+  desc: "This note summarizes the paper, which uses a national retail firm's staggered rollout of computerized job testing, applicant test scores, race and gender information, hiring outcomes, job spell duration, site fixed effects, IV estimates based on site adoption, minority-hiring regressions, and simulation exercises to study whether employment testing creates an equality-efficiency trade-off, showing that testing improved worker retention without measurably reducing minority hiring because the test mainly increased screening precision relative to the prior informal process."
+
 - title: "Mas and Moretti (AER, 2009) - Peers at Work"
   file: "Mas_Moretti_AER_2009.pdf"
   desc: "This note summarizes the paper, which uses high-frequency supermarket cashier scanner data, ten-minute productivity measures, worker fixed-effect permanent productivity, coworker composition changes, line-of-sight register orientation, previous schedule overlap, dynamic response tests, and sales-volume falsification checks to study workplace peer effects, showing that productive coworkers raise focal-worker effort mainly through social pressure, especially for low-productivity workers who are observed by high-productivity coworkers with repeated prior interaction."
