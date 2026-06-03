@@ -1,3 +1,7 @@
+- title: "Manso (JF, 2011) - Motivating Innovation"
+  file: "Manso_JF_2011.pdf"
+  desc: "This note summarizes the paper, which develops a dynamic principal-agent model with a two-armed bandit experimentation problem, conventional versus new methods, success and failure histories, limited liability, path-dependent compensation, long-term commitment, termination rules, and feedback to study how firms should motivate innovation, showing that innovation incentives require tolerance or even rewards for early failure, rewards for long-run success, commitment to long-term contracts, job security in some cases, and timely feedback rather than standard short-run pay-for-performance."
+
 - title: "Clerides, Lach, and Tybout (QJE, 1998) - Is Learning by Exporting Important? Micro-Dynamic Evidence from Colombia, Mexico, and Morocco"
   file: "Clerides_Lach_Tybout_QJE_1998.pdf"
   desc: "This note summarizes the paper, which uses plant-level panels from Colombia, Mexico, and Morocco, exporter/nonexporter/entrant/quitter classifications, average variable cost, labor productivity, dynamic export-participation equations, FIML and GMM cost regressions, and regional or industry export-spillover measures to study learning by exporting, showing that exporter productivity premia mostly reflect self-selection of efficient firms into exporting rather than broad post-entry private learning effects, while spillover evidence is mixed."
