@@ -1,3 +1,7 @@
+- title: "Buera and Shin (JPE, 2013) - Financial Frictions and the Persistence of History: A Quantitative Exploration"
+  file: "Buera_Shin_JPE_2013.pdf"
+  desc: "This note summarizes the paper, which uses economic-miracle transition facts, output, investment, TFP, private-credit data, micro evidence on labor reallocation and establishment size, and a calibrated heterogeneous-entrepreneur model with collateral constraints and prereform distortions to study development dynamics, showing that financial frictions make history persistent because productive but initially poor entrepreneurs must accumulate collateral before reallocating resources efficiently after reform."
+
 - title: "Autor, Dorn, Katz, Patterson, and Van Reenen (QJE, 2020) - The Fall of the Labor Share and the Rise of Superstar Firms"
   file: "Autor_Dorn_Katz_Patterson_VanReenen_QJE_2020.pdf"
   desc: "This note summarizes the paper, which uses U.S. Economic Census microdata, industry concentration measures, payroll-to-sales and payroll-to-value-added labor shares, Melitz-Polanec decompositions, markup estimates, productivity measures, and international firm-level evidence to study the fall of the labor share, showing that rising concentration and reallocation toward large, productive, high-markup, low-labor-share superstar firms explain an important part of the aggregate labor-share decline."
