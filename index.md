@@ -8,7 +8,7 @@ hero_desc: Weekly loops across micro, macro, econometrics, empirical IO, asset p
 hide_name: true
 ---
 
-## Notes and Public Resources (Assisted by Large Language Models)
+## Notes and Public Resources (Assisted by LLMs)
 
 ### Reading Notes and Live Variable Tables
 
@@ -34,17 +34,9 @@ hide_name: true
 
 
 ### Fields - incomplete
-- **[Microeconomics](materials/micro/)**
-- **[Macroeconomics](materials/Macroeconomics/)** 
 - **[Econometrics](materials/econometrics/)** 
-- **[Mathematics for Economics](materials/math-foundations/)**
 - **[TFP Measurement](materials/tfp-measurement/)** 
 - **[Empirical Industrial Organization](materials/eio/)**
-- **[Asset Pricing (Theory)](materials/ap-theory/)** 
-- **[Asset Pricing (Empirical)](materials/ap-empirical/)** 
-- **[Corporate Finance (Theory)](materials/cf-theory/)** 
-- **[Corporate Finance (Empirical)](materials/cf-empirical/)**
-- **[Macro-Finance](materials/macro-finance/)**
 
 
 <div class="sc-sep"></div>
