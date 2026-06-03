@@ -1,3 +1,7 @@
+- title: "Roberts and Tybout (AER, 1997) - The Decision to Export in Colombia: An Empirical Model of Entry with Sunk Costs"
+  file: "Roberts_Tybout_AER_1997.pdf"
+  desc: "This note summarizes the paper, which uses Colombian manufacturing plant panel data, export participation histories, exchange-rate and export-policy variables, dynamic probit models, lagged export-status indicators, plant heterogeneity, initial-condition corrections, and simulated-moment or ML estimation to study export entry with sunk costs, showing that past exporting strongly raises current export probability, export-market experience depreciates quickly, and aggregate export responses depend on the distribution of plants near entry thresholds."
+
 - title: "Dell (Econometrica, 2010) - The Persistent Effects of Peru's Mining Mita"
   file: "Dell_Econometrica_2010.pdf"
   desc: "This note summarizes the paper, which uses Peru's colonial mining mita boundary, modern household consumption, child stunting, historical tribute data, hacienda and land-tenure measures, education, road density, market participation, and geographic regression discontinuity designs to study institutional persistence, showing that the forced-labor mita lowered modern living standards through long-run effects on land tenure, public goods, roads, education, and market integration."
