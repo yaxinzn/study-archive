@@ -1,3 +1,7 @@
+- title: "Luo (JF, 2005) - Do Insiders Learn from Outsiders? Evidence from Mergers and Acquisitions"
+  file: "Luo_JF_2005.pdf"
+  desc: "This note summarizes the paper, which uses SDC friendly U.S. public M&A deals, CRSP bidder-target announcement returns, deal completion outcomes, market-estimated synergy, pre-agreement versus agreement status, high-tech opacity, bidder size, probit completion regressions, and renegotiation tests to study whether managers learn from stock-market reactions, showing that favorable market-estimated synergy predicts deal completion especially when cancellation is cheaper and market feedback is more informative."
+
 - title: "Benabou and Laroque (QJE, 1992) - Using Privileged Information to Manipulate Markets: Insiders, Gurus, and Credibility"
   file: "Benabou_Laroque_QJE_1992.pdf"
   desc: "This note summarizes the paper, which develops a model of market manipulation by informed insiders, gurus, or journalists using noisy private signals, public messages, trading after announcements, reputation updating, honest versus opportunistic sender types, static and repeated-game credibility, and changing-type dynamics to study whether reputation prevents manipulation, showing that credibility can enable manipulation because noisy signals create plausible deniability and allow opportunistic forecasters to distort prices repeatedly before reputation fully disciplines them."
