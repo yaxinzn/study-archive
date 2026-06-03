@@ -1,3 +1,7 @@
+- title: "Goldstein, Ozdenoren, and Yuan (JFE, 2013) - Trading Frenzies and Their Impact on Real Investment"
+  file: "Goldstein_Ozdenoren_Yuan_JFE_2013.pdf"
+  desc: "This note summarizes the paper, which develops a feedback model with speculator signals, common information, noisy asset supply, endogenous prices, a capital provider learning from prices, real investment, and security payoffs depending on investment to study trading frenzies, showing that price feedback creates strategic complementarities among speculators, leading them to overweight common signals and generate coordinated trading that can distort both prices and real investment."
+
 - title: "Greenstone, Hornbeck, and Moretti (JPE, 2010) - Identifying Agglomeration Spillovers: Evidence from Winners and Losers of Large Plant Openings"
   file: "Greenstone_Hornbeck_Moretti_JPE_2010.pdf"
   desc: "This note summarizes the paper, which uses Million Dollar Plant opening contests, winning versus runner-up counties, Census and ASM plant-level production data, incumbent-plant TFP, plant fixed effects, industry-year fixed effects, event-study and difference-in-differences specifications, and economic-distance measures for labor, technology, and input-output linkages to study agglomeration spillovers, showing that large plant openings raise nearby incumbent productivity, especially for economically related industries, while part of the gain is capitalized into local wages."
