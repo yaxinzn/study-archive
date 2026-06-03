@@ -1,3 +1,7 @@
+- title: "Acharya, Almeida, and Campello (JF, 2013) - Aggregate Risk and the Choice between Cash and Lines of Credit"
+  file: "Acharya_Almeida_Campello_JF_2013.pdf"
+  desc: "This note summarizes the paper, which uses LPC-DealScan credit-line data, Sufi's credit-line sample, Compustat controls, market and cash-flow beta measures, VIX and Bank VIX, credit-line spreads and fees, bank Call Report commitments, covenant violations, and revocation tests to study firms' choice between cash and lines of credit, showing that firms exposed to aggregate liquidity risk rely less on bank credit lines and more on cash because banks can diversify idiosyncratic liquidity shocks but not correlated drawdown risk."
+
 - title: "Strebulaev (JF, 2007) - Do Tests of Capital Structure Theory Mean What They Say?"
   file: "Strebulaev_JF_2007.pdf"
   desc: "This note summarizes the paper, which uses a calibrated dynamic trade-off model with taxes, bankruptcy costs, refinancing costs, equity issuance costs, stochastic cash flows, refinancing boundaries, simulated firm panels, leverage-profitability regressions, Welch-style stock-return tests, and active-versus-passive refinancing subsamples to study whether standard capital-structure tests are valid, showing that common empirical patterns often viewed as evidence against trade-off theory can arise from optimal but infrequent adjustment."
