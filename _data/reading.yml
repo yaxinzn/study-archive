@@ -1,3 +1,7 @@
+- title: "Kleven, Knudsen, Kreiner, Pedersen, and Saez (Econometrica, 2011) - Unwilling or Unable to Cheat? Evidence from a Tax Audit Experiment in Denmark"
+  file: "Kleven_Knudsen_Kreiner_Pedersen_Saez_Econometrica_2011.pdf"
+  desc: "This note summarizes the paper, which uses Danish administrative tax records, randomized audits, randomized audit-threat letters, third-party-reported versus self-reported income components, audit adjustments, bunching around tax kinks, and enforcement-response regressions to study why tax compliance is high, showing that evasion is nearly zero for third-party-reported income but substantial for self-reported income, so modern tax capacity depends primarily on information reporting rather than statutory audit rates alone."
+
 - title: "Brogaard, Nguyen, Putnins, and Wu (RFS, 2022) - What Moves Stock Prices? The Roles of News, Noise, and Information"
   file: "Brogaard_Nguyen_Putnins_Wu_RFS_2022.pdf"
   desc: "This note summarizes the paper, which uses CRSP daily returns, signed dollar volume, market returns, firm-year VARs, Beveridge-Nelson permanent-transitory decompositions, variance-share measures, tick-size pilot shocks, analyst-coverage shocks, and mutual-fund trading shocks to study what moves stock prices, showing that return variance reflects market-wide information, private firm-specific information, public firm-specific information, and noise, with U.S. prices becoming less noisy and more information-driven after the mid-1990s."
