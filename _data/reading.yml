@@ -1,3 +1,7 @@
+- title: "Alonso, Dessein, and Matouschek (AER, 2008) - When Does Coordination Require Centralization?"
+  file: "Alonso_Dessein_Matouschek_AER_2008.pdf"
+  desc: "This note summarizes the paper, which develops a two-division organizational model with local states, adaptation losses, coordination losses, biased division managers, uninformed headquarters, cheap-talk communication, residual-variance communication quality, and centralization versus decentralization comparisons to study when coordination requires centralization, showing that higher coordination needs can improve horizontal communication and worsen vertical communication, so decentralization can dominate even when coordination is important if managerial incentives are sufficiently aligned."
+
 - title: "Kleven, Knudsen, Kreiner, Pedersen, and Saez (Econometrica, 2011) - Unwilling or Unable to Cheat? Evidence from a Tax Audit Experiment in Denmark"
   file: "Kleven_Knudsen_Kreiner_Pedersen_Saez_Econometrica_2011.pdf"
   desc: "This note summarizes the paper, which uses Danish administrative tax records, randomized audits, randomized audit-threat letters, third-party-reported versus self-reported income components, audit adjustments, bunching around tax kinks, and enforcement-response regressions to study why tax compliance is high, showing that evasion is nearly zero for third-party-reported income but substantial for self-reported income, so modern tax capacity depends primarily on information reporting rather than statutory audit rates alone."
