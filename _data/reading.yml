@@ -1,3 +1,7 @@
+- title: "Morellec, Nikolov, and Schurhoff (JF, 2012) - Corporate Governance and Capital Structure Dynamics"
+  file: "Morellec_Nikolov_Schurhoff_JF_2012.pdf"
+  desc: "This note summarizes the paper, which uses a dynamic tradeoff model with managerial private benefits, taxes, refinancing costs, liquidation and renegotiation costs, default boundaries, leverage moments, Compustat-CRSP-ExecuComp-IRRC governance data, simulated likelihood estimation, and governance regressions to study capital-structure dynamics, showing that modest manager-shareholder agency conflicts can explain low leverage and leverage inertia better than implausibly high refinancing costs, with estimated agency costs lower under stronger governance and higher under managerial entrenchment."
+
 - title: "Cornett, McNutt, Strahan, and Tehranian (JFE, 2011) - Liquidity Risk Management and Credit Supply in the Financial Crisis"
   file: "Cornett_McNutt_Strahan_Tehranian_JFE_2011.pdf"
   desc: "This note summarizes the paper, which uses quarterly Call Report bank-panel data, TED-spread and crisis-period shocks, liquid assets, loans, credit supply, illiquid assets, core deposits, equity capital, unused commitments, bank fixed effects, quarter fixed effects, and loan-demand robustness tests to study liquidity risk management during the financial crisis, showing that banks with stable funding and capital maintained credit supply, while banks with illiquid assets and large off-balance-sheet commitments hoarded liquidity and curtailed lending."
