@@ -1,3 +1,7 @@
+- title: "Rabin and Schrag (QJE, 1999) - First Impressions Matter: A Model of Confirmatory Bias"
+  file: "Rabin_Schrag_QJE_1999.pdf"
+  desc: "This note summarizes the paper, which develops a two-state learning model with informative signals, Bayesian updating from perceived evidence, confirmatory misperception of disconfirming signals, bias and signal-precision parameters, outside-observer posteriors, infinite-signal learning results, and a principal-agent illustration to study confirmatory bias, showing that first impressions can generate overconfidence, wrong beliefs, and even asymptotic convergence to false hypotheses when later evidence is interpreted through current beliefs."
+
 - title: "Ferraz and Finan (QJE, 2008) - Exposing Corrupt Politicians: The Effects of Brazil's Publicly Released Audits on Electoral Outcomes"
   file: "Ferraz_Finan_QJE_2008.pdf"
   desc: "This note summarizes the paper, which uses Brazil's randomized municipal audit program, publicly released corruption reports, pre-election versus post-election audit timing, coded corruption violations, mayoral reelection outcomes, vote shares, win margins, state fixed effects, and local radio interactions to study political accountability, showing that voters punish corrupt incumbents when credible audit information is released before elections, especially when local radio disseminates the information."
