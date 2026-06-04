@@ -1,3 +1,7 @@
+- title: "Finkelstein (QJE, 2009) - E-ZTax: Tax Salience and Tax Rates"
+  file: "Finkelstein_QJE_2009.pdf"
+  desc: "This note summarizes the paper, which uses a panel of U.S. toll facilities, electronic toll collection adoption dates, ETC penetration, passenger-car tolls, traffic and revenue data, driver salience surveys, facility and year controls, pretrend checks, elasticity regressions, and political-election interactions to study tax salience, showing that electronic tolling reduces toll salience, makes driving less responsive to toll changes, weakens election-year discipline, and leads toll rates to be roughly 20-40 percent higher after ETC diffusion."
+
 - title: "Faulkender and Petersen (RFS, 2006) - Does the Source of Capital Affect Capital Structure?"
   file: "Faulkender_Petersen_RFS_2006.pdf"
   desc: "This note summarizes the paper, which uses Compustat public-firm data, market and book leverage, bond and commercial-paper ratings, firm characteristics, debt maturity, interest coverage, firm fixed effects, and IV estimates based on S&P 500 membership, NYSE listing, industry rating prevalence, firm age, and bond-issue-size proxies to study whether capital-market access affects leverage, showing that firms with public debt market access are substantially more levered because debt supply constraints matter beyond firms' demand for debt."
