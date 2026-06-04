@@ -1,3 +1,7 @@
+- title: "Glosten and Milgrom (JFE, 1985) - Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders"
+  file: "Glosten_Milgrom_JFE_1985.pdf"
+  desc: "This note summarizes the paper, which develops a sequential specialist-market model with informed and uninformed traders, bid and ask quotes, trader reservation values, Bayesian updating from order flow, zero-profit market making, martingale transaction prices, spread-volume bounds, learning, and market-breakdown conditions to study bid-ask spreads, showing that asymmetric information alone generates positive spreads because buy orders are good news and sell orders are bad news about asset value."
+
 - title: "Naritomi (AER, 2019) - Consumers as Tax Auditors"
   file: "Naritomi_AER_2019.pdf"
   desc: "This note summarizes the paper, which uses Sao Paulo administrative tax data, Nota Fiscal Paulista consumer receipt incentives, retail-versus-wholesale difference-in-differences, firm-level DD, receipt microdata, complaint event studies, lottery event studies, and tax-liability accounting to study consumer monitoring in VAT enforcement, showing that rewarding consumers for receipts raises reported retail revenue and net tax revenue by creating third-party information, whistle-blower threats, and salient lottery incentives."
