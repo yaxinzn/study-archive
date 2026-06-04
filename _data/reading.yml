@@ -1,3 +1,7 @@
+- title: "Djankov, La Porta, Lopez-de-Silanes, and Shleifer (QJE, 2002) - The Regulation of Entry"
+  file: "Djankov_LaPorta_LopezDeSilanes_Shleifer_QJE_2002.pdf"
+  desc: "This note summarizes the paper, which constructs a cross-country dataset on official procedures, time, and cost required to start a legal business in 85 countries, and uses public-good outcomes, corruption, informal economy measures, legal origins, and political-institution regressions to test public-interest versus public-choice theories of regulation, showing that heavier entry regulation is associated with corruption and informality rather than better social outcomes, supporting the tollbooth view of entry barriers."
+
 - title: "Eisensee and Stromberg (QJE, 2007) - News Droughts, News Floods, and U.S. Disaster Relief"
   file: "Eisensee_Stromberg_QJE_2007.pdf"
   desc: "This note summarizes the paper, which uses CRED foreign natural disaster data, Vanderbilt television news coverage, USAID OFDA relief records, Olympics timing, general news-pressure instruments, disaster severity controls, and IV regressions to study whether media coverage affects U.S. disaster relief, showing that unrelated news crowds out disaster coverage and reduces relief, implying that humanitarian aid responds partly to media scarcity rather than need alone."
