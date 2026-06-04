@@ -1,3 +1,7 @@
+- title: "Naritomi (AER, 2019) - Consumers as Tax Auditors"
+  file: "Naritomi_AER_2019.pdf"
+  desc: "This note summarizes the paper, which uses Sao Paulo administrative tax data, Nota Fiscal Paulista consumer receipt incentives, retail-versus-wholesale difference-in-differences, firm-level DD, receipt microdata, complaint event studies, lottery event studies, and tax-liability accounting to study consumer monitoring in VAT enforcement, showing that rewarding consumers for receipts raises reported retail revenue and net tax revenue by creating third-party information, whistle-blower threats, and salient lottery incentives."
+
 - title: "Bond, Goldstein, and Prescott (RFS, 2010) - Market-Based Corrective Actions"
   file: "Bond_Goldstein_Prescott_RFS_2010.pdf"
   desc: "This note summarizes the paper, which develops a rational-expectations model with market prices, corrective intervention, agent private signals, security payoff curvature, intervention cutoffs, nonmonotone price functions, multiple securities, disclosure, prediction markets, and equilibrium multiplicity to study market-based corrective actions, showing that market prices can become self-defeating signals when expected intervention changes security values, so market information and private monitoring are complements rather than substitutes."
