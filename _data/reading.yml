@@ -1,3 +1,7 @@
+- title: "Cornett, McNutt, Strahan, and Tehranian (JFE, 2011) - Liquidity Risk Management and Credit Supply in the Financial Crisis"
+  file: "Cornett_McNutt_Strahan_Tehranian_JFE_2011.pdf"
+  desc: "This note summarizes the paper, which uses quarterly Call Report bank-panel data, TED-spread and crisis-period shocks, liquid assets, loans, credit supply, illiquid assets, core deposits, equity capital, unused commitments, bank fixed effects, quarter fixed effects, and loan-demand robustness tests to study liquidity risk management during the financial crisis, showing that banks with stable funding and capital maintained credit supply, while banks with illiquid assets and large off-balance-sheet commitments hoarded liquidity and curtailed lending."
+
 - title: "Ivashina, Scharfstein, and Stein (QJE, 2015) - Dollar Funding and the Lending Behavior of Global Banks"
   file: "Ivashina_Scharfstein_Stein_QJE_2015.pdf"
   desc: "This note summarizes the paper, which uses DealScan syndicated loans, Eurozone-bank lender shares, U.S. money market fund exposures, covered-interest-parity basis measures, loan currency, borrower fixed effects, pre-shock Eurozone-bank relationship exposure, and MMF-reliance heterogeneity to study dollar funding shocks, showing that Eurozone banks cut dollar lending relative to euro lending during the sovereign crisis, especially when reliant on U.S. MMF funding, and that exposed borrowers faced lower dollar-loan access and higher spreads."
