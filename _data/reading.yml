@@ -1,3 +1,7 @@
+- title: "French and Roll (JFE, 1986) - Stock Return Variances: The Arrival of Information and the Reaction of Traders"
+  file: "French_Roll_JFE_1986.pdf"
+  desc: "This note summarizes the paper, which uses NYSE and AMEX daily stock returns, weekends, holidays, the 1968 Wednesday exchange closures, variance ratios, daily autocorrelations, and long-horizon actual-to-implied variance comparisons to study why stock returns are more volatile during trading hours, showing that volatility is concentrated when markets are open mainly because private information is incorporated through trading, while bid-ask noise and temporary mispricing explain only a smaller share of daily variance."
+
 - title: "Mitchell and Mulherin (JF, 1994) - The Impact of Public Information on the Stock Market"
   file: "Mitchell_Mulherin_JF_1994.pdf"
   desc: "This note summarizes the paper, which uses Dow Jones Headlines Tape announcements, CRSP aggregate trading volume, absolute market returns, summed firm-specific absolute returns, day-of-week controls, New York Times headline indicators, macro-announcement days, dividend-capture trading, and triple-witching controls to study public information and market activity, showing that public news is positively related to volume and volatility, but observed news explains only a modest share of market activity, especially returns."
