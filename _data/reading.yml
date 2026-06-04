@@ -1,3 +1,7 @@
+- title: "Phelps (AER, 1972) - The Statistical Theory of Racism and Sexism"
+  file: "Phelps_AER_1972.pdf"
+  desc: "This note summarizes the paper, which develops a statistical-discrimination model with noisy test scores, true worker qualification, group identity, group-specific priors, perceived group means, latent variance, and signal reliability to study discrimination without taste-based prejudice, showing that employers may assign different predicted productivity to applicants with the same test score when group membership is treated as informative, generating discriminatory outcomes through Bayesian inference under imperfect information."
+
 - title: "Ramondo and Rodriguez-Clare (JPE, 2013) - Trade, Multinational Production, and the Gains from Openness"
   file: "Ramondo_RodriguezClare_JPE_2013.pdf"
   desc: "This note summarizes the paper, which uses a quantitative multicountry Ricardian model with trade, multinational production, bridge multinational production, tradable intermediates, bilateral trade shares, bilateral MP shares, BMP moments, calibrated trade and MP costs, and openness counterfactuals to study gains from globalization, showing that gains from openness exceed gains from trade or MP alone because trade and multinational production can be substitutes in serving markets but complements through intrafirm inputs and export-platform production."
