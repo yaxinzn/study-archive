@@ -1,3 +1,7 @@
+- title: "Ivashina, Scharfstein, and Stein (QJE, 2015) - Dollar Funding and the Lending Behavior of Global Banks"
+  file: "Ivashina_Scharfstein_Stein_QJE_2015.pdf"
+  desc: "This note summarizes the paper, which uses DealScan syndicated loans, Eurozone-bank lender shares, U.S. money market fund exposures, covered-interest-parity basis measures, loan currency, borrower fixed effects, pre-shock Eurozone-bank relationship exposure, and MMF-reliance heterogeneity to study dollar funding shocks, showing that Eurozone banks cut dollar lending relative to euro lending during the sovereign crisis, especially when reliant on U.S. MMF funding, and that exposed borrowers faced lower dollar-loan access and higher spreads."
+
 - title: "Bloom, Floetotto, Jaimovich, Saporta-Eksten, and Terry (Econometrica, 2018) - Really Uncertain Business Cycles"
   file: "Bloom_Floetotto_Jaimovich_SaportaEksten_Terry_Econometrica_2018.pdf"
   desc: "This note summarizes the paper, which uses U.S. Census plant-level manufacturing data, establishment TFP-shock dispersion, sales and output growth dispersion, stock-return volatility links, recession regressions, industry-year evidence, and a heterogeneous-firm DSGE model with capital and labor adjustment costs to study uncertainty shocks, showing that recessions combine negative first-moment shocks with higher microeconomic uncertainty, which lowers output, labor, and investment through real-options inaction and misallocation while also reducing policy effectiveness."
