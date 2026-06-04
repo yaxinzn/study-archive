@@ -1,3 +1,7 @@
+- title: "Eisensee and Stromberg (QJE, 2007) - News Droughts, News Floods, and U.S. Disaster Relief"
+  file: "Eisensee_Stromberg_QJE_2007.pdf"
+  desc: "This note summarizes the paper, which uses CRED foreign natural disaster data, Vanderbilt television news coverage, USAID OFDA relief records, Olympics timing, general news-pressure instruments, disaster severity controls, and IV regressions to study whether media coverage affects U.S. disaster relief, showing that unrelated news crowds out disaster coverage and reduces relief, implying that humanitarian aid responds partly to media scarcity rather than need alone."
+
 - title: "Durante and Zhuravskaya (JPE, 2018) - Attack When the World Is Not Watching? US News and the Israeli-Palestinian Conflict"
   file: "Durante_Zhuravskaya_JPE_2018.pdf"
   desc: "This note summarizes the paper, which uses daily Israeli-Palestinian conflict data, U.S. television news coverage, corrected news-pressure measures, Google search volume, predictable U.S. political and sports events, attack timing regressions, and attack-type heterogeneity to study strategic media avoidance, showing that Israeli attacks are more likely before high U.S. news-pressure days, especially for politically costly attack types, while Palestinian attacks do not display the same timing pattern."
