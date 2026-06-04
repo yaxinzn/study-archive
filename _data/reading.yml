@@ -1,3 +1,7 @@
+- title: "Faulkender and Petersen (RFS, 2006) - Does the Source of Capital Affect Capital Structure?"
+  file: "Faulkender_Petersen_RFS_2006.pdf"
+  desc: "This note summarizes the paper, which uses Compustat public-firm data, market and book leverage, bond and commercial-paper ratings, firm characteristics, debt maturity, interest coverage, firm fixed effects, and IV estimates based on S&P 500 membership, NYSE listing, industry rating prevalence, firm age, and bond-issue-size proxies to study whether capital-market access affects leverage, showing that firms with public debt market access are substantially more levered because debt supply constraints matter beyond firms' demand for debt."
+
 - title: "Morellec, Nikolov, and Schurhoff (JF, 2012) - Corporate Governance and Capital Structure Dynamics"
   file: "Morellec_Nikolov_Schurhoff_JF_2012.pdf"
   desc: "This note summarizes the paper, which uses a dynamic tradeoff model with managerial private benefits, taxes, refinancing costs, liquidation and renegotiation costs, default boundaries, leverage moments, Compustat-CRSP-ExecuComp-IRRC governance data, simulated likelihood estimation, and governance regressions to study capital-structure dynamics, showing that modest manager-shareholder agency conflicts can explain low leverage and leverage inertia better than implausibly high refinancing costs, with estimated agency costs lower under stronger governance and higher under managerial entrenchment."
