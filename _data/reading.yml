@@ -1,3 +1,7 @@
+- title: "Carrillo, Pomeranz, and Singhal (AEJ Applied, 2017) - Dodging the Taxman: Firm Misreporting and Limits to Tax Enforcement"
+  file: "Carrillo_Pomeranz_Singhal_AEJApplied_2017.pdf"
+  desc: "This note summarizes the paper, which uses Ecuadorian corporate income tax records, third-party revenue and cost reports, discrepancy notifications, pre-post amendment designs, revenue-matching regressions, cost-offset regressions, placebo tests, and tax-liability calculations to study firm misreporting and enforcement limits, showing that notified firms raise reported revenue when third-party discrepancies are disclosed but almost fully offset the change by increasing reported costs, so weak enforcement and unverified margins sharply limit tax collection."
+
 - title: "Gorton and Pennacchi (JF, 1990) - Financial Intermediaries and Liquidity Creation"
   file: "Gorton_Pennacchi_JF_1990.pdf"
   desc: "This note summarizes the paper, which develops a theoretical model with liquidity traders, informed agents, risky capital, asymmetric information, insider trading coalitions, bank debt and equity, riskless debt conditions, corporate debt, deposit insurance, and government debt to study financial intermediaries and liquidity creation, showing that banks and other institutions create liquidity by splitting risky cash flows into information-insensitive safe debt and information-sensitive residual equity."
