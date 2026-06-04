@@ -1,3 +1,7 @@
+- title: "Ferraz and Finan (QJE, 2008) - Exposing Corrupt Politicians: The Effects of Brazil's Publicly Released Audits on Electoral Outcomes"
+  file: "Ferraz_Finan_QJE_2008.pdf"
+  desc: "This note summarizes the paper, which uses Brazil's randomized municipal audit program, publicly released corruption reports, pre-election versus post-election audit timing, coded corruption violations, mayoral reelection outcomes, vote shares, win margins, state fixed effects, and local radio interactions to study political accountability, showing that voters punish corrupt incumbents when credible audit information is released before elections, especially when local radio disseminates the information."
+
 - title: "Mayer, Melitz, and Ottaviano (AER, 2014) - Market Size, Competition, and the Product Mix of Exporters"
   file: "Mayer_Melitz_Ottaviano_AER_2014.pdf"
   desc: "This note summarizes the paper, which uses French firm-product-destination customs data, global and local product rankings, destination GDP, supply potential, trade-freeness controls, core-to-noncore product sales ratios, and full product-distribution skewness measures to study how market size and competition affect multi-product exporters, showing that tougher export destinations make firms concentrate sales on their best products and drop or weaken marginal products, creating a within-firm product-mix channel of trade-induced productivity gains."
