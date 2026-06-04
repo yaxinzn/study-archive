@@ -1,3 +1,7 @@
+- title: "Brogaard, Nguyen, Putnins, and Wu (RFS, 2022) - What Moves Stock Prices? The Roles of News, Noise, and Information"
+  file: "Brogaard_Nguyen_Putnins_Wu_RFS_2022.pdf"
+  desc: "This note summarizes the paper, which uses CRSP daily returns, signed dollar volume, market returns, firm-year VARs, Beveridge-Nelson permanent-transitory decompositions, variance-share measures, tick-size pilot shocks, analyst-coverage shocks, and mutual-fund trading shocks to study what moves stock prices, showing that return variance reflects market-wide information, private firm-specific information, public firm-specific information, and noise, with U.S. prices becoming less noisy and more information-driven after the mid-1990s."
+
 - title: "French and Roll (JFE, 1986) - Stock Return Variances: The Arrival of Information and the Reaction of Traders"
   file: "French_Roll_JFE_1986.pdf"
   desc: "This note summarizes the paper, which uses NYSE and AMEX daily stock returns, weekends, holidays, the 1968 Wednesday exchange closures, variance ratios, daily autocorrelations, and long-horizon actual-to-implied variance comparisons to study why stock returns are more volatile during trading hours, showing that volatility is concentrated when markets are open mainly because private information is incorporated through trading, while bid-ask noise and temporary mispricing explain only a smaller share of daily variance."
