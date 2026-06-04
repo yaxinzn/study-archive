@@ -1,3 +1,7 @@
+- title: "Milgrom and Roberts (AER, 1990) - The Economics of Modern Manufacturing: Technology, Strategy, and Organization"
+  file: "Milgrom_Roberts_AER_1990.pdf"
+  desc: "This note summarizes the paper, which uses qualitative manufacturing evidence and a supermodular theoretical framework with flexible equipment, setup frequency, product improvement, order processing, delivery speed, quality, inventories, redesign costs, supplier coordination, and technology-cost shifts to study modern manufacturing, showing that modern practices are complementary and therefore tend to be adopted as a coordinated system rather than as isolated best practices."
+
 - title: "Rantakari (RES, 2008) - Governing Adaptation"
   file: "Rantakari_RES_2008.pdf"
   desc: "This note summarizes the paper, which develops a governance model with local adaptation, cross-division coordination, soft information, biased division managers, headquarters authority, centralized, decentralized, partially decentralized, and directional authority structures, and endogenous cheap-talk communication quality to study organizational adaptation, showing that the centralization-decentralization trade-off is non-monotone in coordination needs and that asymmetric authority structures can dominate symmetric structures when divisions differ in size, dependency, or information."
