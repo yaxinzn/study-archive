@@ -1,3 +1,7 @@
+- title: "Bond, Goldstein, and Prescott (RFS, 2010) - Market-Based Corrective Actions"
+  file: "Bond_Goldstein_Prescott_RFS_2010.pdf"
+  desc: "This note summarizes the paper, which develops a rational-expectations model with market prices, corrective intervention, agent private signals, security payoff curvature, intervention cutoffs, nonmonotone price functions, multiple securities, disclosure, prediction markets, and equilibrium multiplicity to study market-based corrective actions, showing that market prices can become self-defeating signals when expected intervention changes security values, so market information and private monitoring are complements rather than substitutes."
+
 - title: "Phelps (AER, 1972) - The Statistical Theory of Racism and Sexism"
   file: "Phelps_AER_1972.pdf"
   desc: "This note summarizes the paper, which develops a statistical-discrimination model with noisy test scores, true worker qualification, group identity, group-specific priors, perceived group means, latent variance, and signal reliability to study discrimination without taste-based prejudice, showing that employers may assign different predicted productivity to applicants with the same test score when group membership is treated as informative, generating discriminatory outcomes through Bayesian inference under imperfect information."
