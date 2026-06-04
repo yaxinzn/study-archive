@@ -1,3 +1,7 @@
+- title: "Gorton and Pennacchi (JF, 1990) - Financial Intermediaries and Liquidity Creation"
+  file: "Gorton_Pennacchi_JF_1990.pdf"
+  desc: "This note summarizes the paper, which develops a theoretical model with liquidity traders, informed agents, risky capital, asymmetric information, insider trading coalitions, bank debt and equity, riskless debt conditions, corporate debt, deposit insurance, and government debt to study financial intermediaries and liquidity creation, showing that banks and other institutions create liquidity by splitting risky cash flows into information-insensitive safe debt and information-sensitive residual equity."
+
 - title: "Kashyap and Stein (AER, 2000) - What Do a Million Observations on Banks Say About the Transmission of Monetary Policy?"
   file: "Kashyap_Stein_AER_2000.pdf"
   desc: "This note summarizes the paper, which uses nearly one million U.S. commercial-bank Call Report observations, bank-size classes, liquid-asset ratios, C&I and total loan growth, Boschen-Mills, federal-funds-rate, and Bernanke-Mihov monetary-policy measures, two-step liquidity-sensitivity regressions, GDP controls, and one-step robustness tests to study the bank lending channel, showing that monetary tightening reduces lending more at less-liquid small banks, consistent with balance-sheet liquidity transmitting monetary policy to credit supply."
