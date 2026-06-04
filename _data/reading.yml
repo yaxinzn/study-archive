@@ -1,3 +1,7 @@
+- title: "Ramondo and Rodriguez-Clare (JPE, 2013) - Trade, Multinational Production, and the Gains from Openness"
+  file: "Ramondo_RodriguezClare_JPE_2013.pdf"
+  desc: "This note summarizes the paper, which uses a quantitative multicountry Ricardian model with trade, multinational production, bridge multinational production, tradable intermediates, bilateral trade shares, bilateral MP shares, BMP moments, calibrated trade and MP costs, and openness counterfactuals to study gains from globalization, showing that gains from openness exceed gains from trade or MP alone because trade and multinational production can be substitutes in serving markets but complements through intrafirm inputs and export-platform production."
+
 - title: "Easley and O'Hara (JF, 2004) - Information and the Cost of Capital"
   file: "Easley_OHara_JF_2004.pdf"
   desc: "This note summarizes the paper, which develops a multi-asset rational-expectations model with public and private signals, informed and uninformed investors, noisy supply, Bayesian updating, heterogeneous portfolio demands, and equilibrium required returns to study information and the cost of capital, showing that shifting information from public to private raises expected returns because uninformed investors bear adverse portfolio-selection risk, while better public disclosure, more precise signals, and wider information dissemination lower the cost of capital."
