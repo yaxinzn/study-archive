@@ -1,3 +1,7 @@
+- title: "Easley and O'Hara (JF, 2004) - Information and the Cost of Capital"
+  file: "Easley_OHara_JF_2004.pdf"
+  desc: "This note summarizes the paper, which develops a multi-asset rational-expectations model with public and private signals, informed and uninformed investors, noisy supply, Bayesian updating, heterogeneous portfolio demands, and equilibrium required returns to study information and the cost of capital, showing that shifting information from public to private raises expected returns because uninformed investors bear adverse portfolio-selection risk, while better public disclosure, more precise signals, and wider information dissemination lower the cost of capital."
+
 - title: "Finkelstein (QJE, 2009) - E-ZTax: Tax Salience and Tax Rates"
   file: "Finkelstein_QJE_2009.pdf"
   desc: "This note summarizes the paper, which uses a panel of U.S. toll facilities, electronic toll collection adoption dates, ETC penetration, passenger-car tolls, traffic and revenue data, driver salience surveys, facility and year controls, pretrend checks, elasticity regressions, and political-election interactions to study tax salience, showing that electronic tolling reduces toll salience, makes driving less responsive to toll changes, weakens election-year discipline, and leads toll rates to be roughly 20-40 percent higher after ETC diffusion."
