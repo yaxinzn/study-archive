@@ -1,3 +1,7 @@
+- title: "Bertrand and Kramarz (QJE, 2002) - Does Entry Regulation Hinder Job Creation? Evidence from the French Retail Industry"
+  file: "Bertrand_Kramarz_QJE_2002.pdf"
+  desc: "This note summarizes the paper, which uses French DECAS zoning-application data, department-level retail employment from the Labor Force Survey, approval stocks and approval rates, department and year fixed effects, political representation instruments, concentration and price measures, and placebo sector tests to study whether retail entry regulation hinders job creation, showing that stricter approval boards reduced retail employment, increased concentration and prices, and protected small retailers at the cost of fewer jobs."
+
 - title: "Djankov, La Porta, Lopez-de-Silanes, and Shleifer (QJE, 2002) - The Regulation of Entry"
   file: "Djankov_LaPorta_LopezDeSilanes_Shleifer_QJE_2002.pdf"
   desc: "This note summarizes the paper, which constructs a cross-country dataset on official procedures, time, and cost required to start a legal business in 85 countries, and uses public-good outcomes, corruption, informal economy measures, legal origins, and political-institution regressions to test public-interest versus public-choice theories of regulation, showing that heavier entry regulation is associated with corruption and informality rather than better social outcomes, supporting the tollbooth view of entry barriers."
