@@ -1,3 +1,7 @@
+- title: "Acharya and Mora (JF, 2015) - A Crisis of Banks as Liquidity Providers"
+  file: "Acharya_Mora_JF_2015.pdf"
+  desc: "This note summarizes the paper, which uses Federal Reserve H8 aggregate bank data, Call Report bank panels, Bank Rate Monitor deposit rates, iMoneyNet money-market fund data, unused commitment ratios, crisis-period interactions, loan-to-deposit shortfalls, liquidity-buffer changes, and previous-crisis comparisons to study banks as liquidity providers during systemic stress, showing that banks honored credit-line drawdowns in 2007-2009 but could not privately fund them through deposits, relying instead on liquid buffers and government-related support."
+
 - title: "Rabin and Schrag (QJE, 1999) - First Impressions Matter: A Model of Confirmatory Bias"
   file: "Rabin_Schrag_QJE_1999.pdf"
   desc: "This note summarizes the paper, which develops a two-state learning model with informative signals, Bayesian updating from perceived evidence, confirmatory misperception of disconfirming signals, bias and signal-precision parameters, outside-observer posteriors, infinite-signal learning results, and a principal-agent illustration to study confirmatory bias, showing that first impressions can generate overconfidence, wrong beliefs, and even asymptotic convergence to false hypotheses when later evidence is interpreted through current beliefs."
