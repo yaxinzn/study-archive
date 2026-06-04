@@ -1,3 +1,7 @@
+- title: "Kashyap and Stein (AER, 2000) - What Do a Million Observations on Banks Say About the Transmission of Monetary Policy?"
+  file: "Kashyap_Stein_AER_2000.pdf"
+  desc: "This note summarizes the paper, which uses nearly one million U.S. commercial-bank Call Report observations, bank-size classes, liquid-asset ratios, C&I and total loan growth, Boschen-Mills, federal-funds-rate, and Bernanke-Mihov monetary-policy measures, two-step liquidity-sensitivity regressions, GDP controls, and one-step robustness tests to study the bank lending channel, showing that monetary tightening reduces lending more at less-liquid small banks, consistent with balance-sheet liquidity transmitting monetary policy to credit supply."
+
 - title: "Glosten and Milgrom (JFE, 1985) - Bid, Ask and Transaction Prices in a Specialist Market with Heterogeneously Informed Traders"
   file: "Glosten_Milgrom_JFE_1985.pdf"
   desc: "This note summarizes the paper, which develops a sequential specialist-market model with informed and uninformed traders, bid and ask quotes, trader reservation values, Bayesian updating from order flow, zero-profit market making, martingale transaction prices, spread-volume bounds, learning, and market-breakdown conditions to study bid-ask spreads, showing that asymmetric information alone generates positive spreads because buy orders are good news and sell orders are bad news about asset value."
