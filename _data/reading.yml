@@ -1,3 +1,7 @@
+- title: "Harford, Klasa, and Maxwell (JF, 2014) - Refinancing Risk and Cash Holdings"
+  file: "Harford_Klasa_Maxwell_JF_2014.pdf"
+  desc: "This note summarizes the paper, which uses Compustat industrial firms from 1980 to 2008, debt-maturity structure, the fraction of long-term debt due within three years, cash-to-assets, credit-market conditions, credit-line data, simultaneous cash and maturity equations, cash-flow saving tests, investment regressions, and valuation tests to study refinancing risk and liquidity policy, showing that firms with more debt maturing soon hold more cash, save more cash from cash flow, invest more when cash-rich, and have a higher market value of cash."
+
 - title: "Caballero and Krishnamurthy (JF, 2008) - Collective Risk Management in a Flight to Quality Episode"
   file: "Caballero_Krishnamurthy_JF_2008.pdf"
   desc: "This note summarizes the paper, which develops a Knightian-uncertainty model of flight-to-quality episodes using liquidity shocks, scarce aggregate liquidity, robust max-min preferences, first- versus second-wave shock timing, private worst-case beliefs, collective risk-management bias, and lender-of-last-resort policy to study crisis liquidity hoarding, showing that agents overprotect against privately feared tail states and that credible last-resort public insurance can unlock more efficient private liquidity allocation."
