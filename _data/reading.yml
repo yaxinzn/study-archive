@@ -1,3 +1,7 @@
+- title: "Mitchell, Pulvino, and Stafford (JF, 2002) - Limited Arbitrage in Equity Markets"
+  file: "Mitchell_Pulvino_Stafford_JF_2002.pdf"
+  desc: "This note summarizes the paper, which uses 82 negative-stub-value parent-subsidiary situations from 1985 to 2000, parent and subsidiary market values, trading-rule thresholds, convergence and termination events, leverage and margin assumptions, calendar-time factor regressions, and short-rebate data to study limits to arbitrage, showing that even transparent law-of-one-price violations can persist because arbitrage is capital-intensive, path-risky, short-sale constrained, and exposed to adverse corporate-event timing."
+
 - title: "Gentzkow and Shapiro (JPE, 2006) - Media Bias and Reputation"
   file: "Gentzkow_Shapiro_JPE_2006.pdf"
   desc: "This note summarizes the paper, which develops a reputational model of media bias with Bayesian consumers, uncertain source quality, audience priors, feedback probabilities, independent versus joint ownership, and supportive evidence from Pew believability data, newspaper endorsements, sports forecasts, and local TV competition to study media slant, showing that profit-maximizing outlets may bias reports toward audience priors to appear accurate, while feedback and independent competition reduce bias."
