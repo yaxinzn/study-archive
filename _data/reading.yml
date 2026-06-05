@@ -1,3 +1,7 @@
+- title: "Baker, Gibbons, and Murphy (QJE, 1994) - Subjective Performance Measures in Optimal Incentive Contracts"
+  file: "Baker_Gibbons_Murphy_QJE_1994.pdf"
+  desc: "This note summarizes the paper, which develops a theory of incentive contracting using distorted objective performance measures, subjective assessments, explicit piece rates, implicit bonuses, repeated-game self-enforcement constraints, fallback contracts, and subjective weighting of objective measures to study optimal compensation design, showing that objective and subjective incentives can be substitutes or complements depending on measurement distortion and relational credibility."
+
 - title: "Goldstein and Pauzner (JF, 2005) - Demand-Deposit Contracts and the Probability of Bank Runs"
   file: "Goldstein_Pauzner_JF_2005.pdf"
   desc: "This note summarizes the paper, which extends the Diamond-Dybvig demand-deposit framework using stochastic fundamentals, noisy private signals, dominance regions, threshold equilibria, short-term promised payments, run-probability thresholds, and welfare-maximizing contract design to study bank runs, showing that demand deposits remain welfare-improving but higher liquidity insurance raises endogenous run probability, so the optimal short-term payment is above autarky but below first-best risk sharing."
