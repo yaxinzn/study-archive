@@ -1,3 +1,7 @@
+- title: "Benabou and Tirole (QJE, 2002) - Self-Confidence and Personal Motivation"
+  file: "Benabou_Tirole_QJE_2002.pdf"
+  desc: "This note summarizes the paper, which develops a behavioral theory of self-confidence using uncertain ability, costly effort, quasi-hyperbolic preferences, time-inconsistent selves, information avoidance, self-handicapping, endogenous memory, recall probabilities, and Bayesian intrapersonal signaling to study personal motivation, showing that optimistic beliefs can be instrumentally valuable for effort provision but can also generate costly self-deception, overconfidence, and welfare losses."
+
 - title: "Prat (JPE, 2018) - Media Power"
   file: "Prat_JPE_2018.pdf"
   desc: "This note summarizes the paper, which uses a voter-level media-consumption matrix, reach, attention shares, candidate-quality signals, limited voter bandwidth, U.S. Pew 2012 media-consumption data, worst-case media power bounds, calibrated Fox News persuasion estimates, and merger simulations to study media power, showing that political influence depends on how much voter attention a media owner controls rather than simple platform reach, with U.S. media power concentrated among television-centered organizations."
