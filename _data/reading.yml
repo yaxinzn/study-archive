@@ -1,3 +1,7 @@
+- title: "Sufi (RFS, 2009) - Bank Lines of Credit in Corporate Finance: An Empirical Analysis"
+  file: "Sufi_RFS_2009.pdf"
+  desc: "This note summarizes the paper, which uses Compustat firms, 10-K text searches, a hand-collected random sample of credit-line balances, cash holdings, EBITDA, covenant violations, Dealscan covenant data, fixed effects, and cash-flow sensitivity of cash regressions to study corporate liquidity management, showing that bank lines of credit are conditional liquidity available mainly to firms with strong cash flow and covenant compliance, while weaker firms rely more on cash."
+
 - title: "Gatev, Schuermann, and Strahan (RFS, 2009) - Managing Bank Liquidity Risk: How Deposit-Loan Synergies Vary with Market Conditions"
   file: "Gatev_Schuermann_Strahan_RFS_2009.pdf"
   desc: "This note summarizes the paper, which uses large publicly traded U.S. bank data from 1990 to 2002, unused loan commitments, transaction-deposit ratios, GARCH and realized stock-return volatility, bank balance-sheet controls, commercial-paper spreads, and 1998 liquidity-crisis tests to study bank liquidity-risk management, showing that transaction deposits hedge commitment drawdown risk, especially when market liquidity is tight."
