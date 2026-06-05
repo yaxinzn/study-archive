@@ -1,3 +1,7 @@
+- title: "Harris and Raviv (JF, 1996) - The Capital Budgeting Process: Incentives and Information"
+  file: "Harris_Raviv_JF_1996.pdf"
+  desc: "This note summarizes the paper, which develops a capital-budgeting model with headquarters, a privately informed division manager, managerial preference for capital, costly audits, initial spending limits, capital-increase requests, audit probabilities, compromise allocations, and comparative statics in audit costs, scale, and prior productivity beliefs to study internal capital allocation, showing that optimal budgeting procedures can rationally generate both overinvestment and underinvestment as incentive-compatible responses to information and empire-building frictions."
+
 - title: "Sufi (RFS, 2009) - Bank Lines of Credit in Corporate Finance: An Empirical Analysis"
   file: "Sufi_RFS_2009.pdf"
   desc: "This note summarizes the paper, which uses Compustat firms, 10-K text searches, a hand-collected random sample of credit-line balances, cash holdings, EBITDA, covenant violations, Dealscan covenant data, fixed effects, and cash-flow sensitivity of cash regressions to study corporate liquidity management, showing that bank lines of credit are conditional liquidity available mainly to firms with strong cash flow and covenant compliance, while weaker firms rely more on cash."
