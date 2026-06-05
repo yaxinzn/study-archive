@@ -1,3 +1,7 @@
+- title: "Prat (JPE, 2018) - Media Power"
+  file: "Prat_JPE_2018.pdf"
+  desc: "This note summarizes the paper, which uses a voter-level media-consumption matrix, reach, attention shares, candidate-quality signals, limited voter bandwidth, U.S. Pew 2012 media-consumption data, worst-case media power bounds, calibrated Fox News persuasion estimates, and merger simulations to study media power, showing that political influence depends on how much voter attention a media owner controls rather than simple platform reach, with U.S. media power concentrated among television-centered organizations."
+
 - title: "Bertrand and Kramarz (QJE, 2002) - Does Entry Regulation Hinder Job Creation? Evidence from the French Retail Industry"
   file: "Bertrand_Kramarz_QJE_2002.pdf"
   desc: "This note summarizes the paper, which uses French DECAS zoning-application data, department-level retail employment from the Labor Force Survey, approval stocks and approval rates, department and year fixed effects, political representation instruments, concentration and price measures, and placebo sector tests to study whether retail entry regulation hinders job creation, showing that stricter approval boards reduced retail employment, increased concentration and prices, and protected small retailers at the cost of fewer jobs."
