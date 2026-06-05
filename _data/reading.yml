@@ -1,3 +1,7 @@
+- title: "Morck, Shleifer, and Vishny (JFE, 1988) - Management Ownership and Market Valuation: An Empirical Analysis"
+  file: "Morck_Shleifer_Vishny_JFE_1988.pdf"
+  desc: "This note summarizes the paper, which uses a 1980 cross-section of 371 Fortune 500 firms, board ownership, officer and outside-director ownership, Tobin's Q, profit rates, R&D, advertising, debt, firm size, industry controls, founder-family variables, and piecewise ownership regressions to study managerial ownership and valuation, showing a nonmonotonic relation in which Q rises at low board ownership, falls at intermediate ownership, and rises slightly at high ownership, consistent with both incentive alignment and managerial entrenchment."
+
 - title: "Caliendo and Rossi-Hansberg (QJE, 2012) - The Impact of Trade on Organization and Productivity"
   file: "Caliendo_RossiHansberg_QJE_2012.pdf"
   desc: "This note summarizes the paper, which embeds a Garicano-style knowledge hierarchy into a Melitz-style trade model using CES demand, knowledge costs, communication costs, management layers, span of control, firm scale, export fixed costs, and a U.S. manufacturing calibration to study trade, organization, and productivity, showing that trade makes exporters expand and add layers while nonexporters shrink and drop layers, raising gains from trade through within-firm reorganization."
