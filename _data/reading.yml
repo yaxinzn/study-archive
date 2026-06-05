@@ -1,3 +1,7 @@
+- title: "Feenstra and Hanson (QJE, 1999) - The Impact of Outsourcing and High-Technology Capital on Wages: Estimates for the United States, 1979-1990"
+  file: "Feenstra_Hanson_QJE_1999.pdf"
+  desc: "This note summarizes the paper, which uses U.S. manufacturing industry data from 1979 to 1990, production and nonproduction wages, imported intermediate-input outsourcing measures, high-technology and computer capital, value-added prices, effective TFP, and a two-stage price-regression decomposition to study rising wage inequality, showing that both foreign outsourcing and computerization increased the relative wage of nonproduction workers, with computers usually explaining a larger share but magnitudes depending on capital measurement."
+
 - title: "Antras (AER P&P, 2005) - Property Rights and the International Organization of Production"
   file: "Antras_AER_2005.pdf"
   desc: "This note summarizes the paper, which uses a property-rights model of incomplete contracts, headquarter and manufacturing inputs, vertical integration versus outsourcing, location choice, headquarter intensity, factor intensity, firm heterogeneity, fixed organizational costs, and product-cycle logic to study the international organization of production, showing that intrafirm trade is more likely in headquarter- or capital-intensive industries, among more productive firms, and from more capital-abundant countries."
