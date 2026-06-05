@@ -1,3 +1,7 @@
+- title: "Holmstrom and Milgrom (AER, 1994) - The Firm as an Incentive System"
+  file: "Holmstrom_Milgrom_AER_1994.pdf"
+  desc: "This note summarizes the paper, which develops a system-level theory of the firm using multitask effort, noisy performance measures, commissions, asset ownership, job restrictions, monitoring precision, supermodularity, association, affiliation, and sales-force evidence to study employment versus independent contracting, showing that compensation, asset ownership, monitoring, and restrictions are complementary incentive instruments that cluster into low-powered employment systems or high-powered contractor systems depending on task measurability and multitasking distortions."
+
 - title: "Rotemberg and Saloner (AER, 1994) - Benefits of Narrow Business Strategies"
   file: "Rotemberg_Saloner_AER_1994.pdf"
   desc: "This note summarizes the paper, which develops an incomplete-contract theory of narrow business strategy using employee innovation effort, implementation-contingent compensation, substitute projects, synergies, internal capital competition, ex ante and ex post inefficiency regions, and financial-constraint cases to study firm scope, showing that narrowness can be profitable because it commits the firm not to displace core employees' innovations with noncore opportunities, preserving ex ante innovation incentives."
