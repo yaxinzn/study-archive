@@ -1,3 +1,7 @@
+- title: "Goldstein and Pauzner (JF, 2005) - Demand-Deposit Contracts and the Probability of Bank Runs"
+  file: "Goldstein_Pauzner_JF_2005.pdf"
+  desc: "This note summarizes the paper, which extends the Diamond-Dybvig demand-deposit framework using stochastic fundamentals, noisy private signals, dominance regions, threshold equilibria, short-term promised payments, run-probability thresholds, and welfare-maximizing contract design to study bank runs, showing that demand deposits remain welfare-improving but higher liquidity insurance raises endogenous run probability, so the optimal short-term payment is above autarky but below first-best risk sharing."
+
 - title: "Allen and Gale (JPE, 2000) - Financial Contagion"
   file: "Allen_Gale_JPE_2000.pdf"
   desc: "This note summarizes the paper, which develops a financial-contagion model with regional liquidity shocks, short and long assets, interbank deposit claims, complete, connected incomplete, and disconnected networks, liquidity buffers, perturbation states, bankruptcy conditions, and contagion thresholds to study systemic fragility, showing that interbank claims provide useful liquidity insurance in normal times but can transmit shocks in incomplete connected networks, while complete networks diversify losses and disconnected networks can contain contagion."
