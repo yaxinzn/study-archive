@@ -1,3 +1,7 @@
+- title: "Lazear (JPE, 2009) - Firm-Specific Human Capital: A Skill-Weights Approach"
+  file: "Lazear_JPE_2009.pdf"
+  desc: "This note summarizes the paper, which develops a skill-weights model of firm-specific human capital using general skill vectors, firm-specific weights, Nash bargaining, outside offers, quits, layoffs, market thickness, training cost sharing, and social-efficiency benchmarks to study specificity, showing that general skills can become firm-specific in combination, displacement losses are larger in thin markets and idiosyncratic firms, and firms may finance apparently general training when skill bundles are not fully portable."
+
 - title: "Harris and Raviv (JF, 1996) - The Capital Budgeting Process: Incentives and Information"
   file: "Harris_Raviv_JF_1996.pdf"
   desc: "This note summarizes the paper, which develops a capital-budgeting model with headquarters, a privately informed division manager, managerial preference for capital, costly audits, initial spending limits, capital-increase requests, audit probabilities, compromise allocations, and comparative statics in audit costs, scale, and prior productivity beliefs to study internal capital allocation, showing that optimal budgeting procedures can rationally generate both overinvestment and underinvestment as incentive-compatible responses to information and empire-building frictions."
