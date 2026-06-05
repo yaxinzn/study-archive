@@ -1,3 +1,7 @@
+- title: "Hsieh, Hurst, Jones, and Klenow (Econometrica, 2019) - The Allocation of Talent and U.S. Economic Growth"
+  file: "Hsieh_Hurst_Jones_Klenow_Econometrica_2019.pdf"
+  desc: "This note summarizes the paper, which uses U.S. Census and ACS data from 1960 to 2010, occupational shares, wage gaps, group-by-occupation barriers, human-capital wedges, labor-market wedges, home-sector participation, life-cycle cohort structure, and a general-equilibrium Roy model to study talent allocation and U.S. growth, showing that declining occupational barriers for women and black men explain roughly two-fifths of market GDP per person growth, mainly through lower human-capital barriers."
+
 - title: "Nunn (QJE, 2007) - Relationship-Specificity, Incomplete Contracts, and the Pattern of Trade"
   file: "Nunn_QJE_2007.pdf"
   desc: "This note summarizes the paper, which uses world trade flows, U.S. input-output tables, Rauch input-market classifications, country judicial-quality measures, contract-intensity indices, factor-endowment controls, country and industry fixed effects, legal-origin instruments, and matched common-law versus civil-law comparisons to study contract enforcement and comparative advantage, showing that countries with better legal institutions export relatively more in industries that rely heavily on relationship-specific inputs."
