@@ -1,3 +1,7 @@
+- title: "Gompers, Ishii, and Metrick (QJE, 2003) - Corporate Governance and Equity Prices"
+  file: "Gompers_Ishii_Metrick_QJE_2003.pdf"
+  desc: "This note summarizes the paper, which uses IRRC governance provisions from 1990 to 1998, a 24-provision Governance Index, Democracy and Dictatorship portfolios, CRSP returns, Compustat accounting variables, Carhart four-factor regressions, Tobin's Q regressions, operating-performance tests, capital-expenditure and acquisition outcomes, and insider-trading evidence to study shareholder rights, showing that firms with stronger shareholder rights earned higher abnormal returns and had higher valuation and operating performance, though the design cannot fully establish causality."
+
 - title: "Morck, Shleifer, and Vishny (JFE, 1988) - Management Ownership and Market Valuation: An Empirical Analysis"
   file: "Morck_Shleifer_Vishny_JFE_1988.pdf"
   desc: "This note summarizes the paper, which uses a 1980 cross-section of 371 Fortune 500 firms, board ownership, officer and outside-director ownership, Tobin's Q, profit rates, R&D, advertising, debt, firm size, industry controls, founder-family variables, and piecewise ownership regressions to study managerial ownership and valuation, showing a nonmonotonic relation in which Q rises at low board ownership, falls at intermediate ownership, and rises slightly at high ownership, consistent with both incentive alignment and managerial entrenchment."
