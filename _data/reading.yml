@@ -1,3 +1,7 @@
+- title: "Gatev, Schuermann, and Strahan (RFS, 2009) - Managing Bank Liquidity Risk: How Deposit-Loan Synergies Vary with Market Conditions"
+  file: "Gatev_Schuermann_Strahan_RFS_2009.pdf"
+  desc: "This note summarizes the paper, which uses large publicly traded U.S. bank data from 1990 to 2002, unused loan commitments, transaction-deposit ratios, GARCH and realized stock-return volatility, bank balance-sheet controls, commercial-paper spreads, and 1998 liquidity-crisis tests to study bank liquidity-risk management, showing that transaction deposits hedge commitment drawdown risk, especially when market liquidity is tight."
+
 - title: "Baker, Gibbons, and Murphy (QJE, 1994) - Subjective Performance Measures in Optimal Incentive Contracts"
   file: "Baker_Gibbons_Murphy_QJE_1994.pdf"
   desc: "This note summarizes the paper, which develops a theory of incentive contracting using distorted objective performance measures, subjective assessments, explicit piece rates, implicit bonuses, repeated-game self-enforcement constraints, fallback contracts, and subjective weighting of objective measures to study optimal compensation design, showing that objective and subjective incentives can be substitutes or complements depending on measurement distortion and relational credibility."
