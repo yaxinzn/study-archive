@@ -1,3 +1,7 @@
+- title: "Allen and Gale (JPE, 2000) - Financial Contagion"
+  file: "Allen_Gale_JPE_2000.pdf"
+  desc: "This note summarizes the paper, which develops a financial-contagion model with regional liquidity shocks, short and long assets, interbank deposit claims, complete, connected incomplete, and disconnected networks, liquidity buffers, perturbation states, bankruptcy conditions, and contagion thresholds to study systemic fragility, showing that interbank claims provide useful liquidity insurance in normal times but can transmit shocks in incomplete connected networks, while complete networks diversify losses and disconnected networks can contain contagion."
+
 - title: "Levchenko (RES, 2007) - Institutional Quality and International Trade"
   file: "Levchenko_RES_2007.pdf"
   desc: "This note summarizes the paper, which uses U.S. import shares by source country and four-digit SIC industry, country rule-of-law measures, industry institutional dependence based on intermediate-input dispersion, capital and skill controls, country and industry fixed effects, and institution-by-industry interaction regressions to study institutional comparative advantage, showing that countries with better institutions export relatively more in institutionally dependent industries, while the theory implies that trade can reallocate rent-paying sectors and may hurt the South."
