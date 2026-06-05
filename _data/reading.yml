@@ -1,3 +1,7 @@
+- title: "Caliendo and Rossi-Hansberg (QJE, 2012) - The Impact of Trade on Organization and Productivity"
+  file: "Caliendo_RossiHansberg_QJE_2012.pdf"
+  desc: "This note summarizes the paper, which embeds a Garicano-style knowledge hierarchy into a Melitz-style trade model using CES demand, knowledge costs, communication costs, management layers, span of control, firm scale, export fixed costs, and a U.S. manufacturing calibration to study trade, organization, and productivity, showing that trade makes exporters expand and add layers while nonexporters shrink and drop layers, raising gains from trade through within-firm reorganization."
+
 - title: "Antras and Costinot (QJE, 2011) - Intermediated Trade"
   file: "Antras_Costinot_QJE_2011.pdf"
   desc: "This note summarizes the paper, which develops a Ricardian trade model with farmers, traders, search frictions, matching markets, Nash bargaining, trader margins, Walrasian-market integration, matching-market integration, and welfare comparisons to study intermediated trade, showing that goods-market integration magnifies gains from trade through greater intermediation, while foreign intermediary entry can raise output but reduce welfare when bargaining power and search externalities worsen local producers' surplus."
