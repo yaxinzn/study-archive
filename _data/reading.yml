@@ -1,3 +1,7 @@
+- title: "Levchenko (RES, 2007) - Institutional Quality and International Trade"
+  file: "Levchenko_RES_2007.pdf"
+  desc: "This note summarizes the paper, which uses U.S. import shares by source country and four-digit SIC industry, country rule-of-law measures, industry institutional dependence based on intermediate-input dispersion, capital and skill controls, country and industry fixed effects, and institution-by-industry interaction regressions to study institutional comparative advantage, showing that countries with better institutions export relatively more in institutionally dependent industries, while the theory implies that trade can reallocate rent-paying sectors and may hurt the South."
+
 - title: "Gompers, Ishii, and Metrick (QJE, 2003) - Corporate Governance and Equity Prices"
   file: "Gompers_Ishii_Metrick_QJE_2003.pdf"
   desc: "This note summarizes the paper, which uses IRRC governance provisions from 1990 to 1998, a 24-provision Governance Index, Democracy and Dictatorship portfolios, CRSP returns, Compustat accounting variables, Carhart four-factor regressions, Tobin's Q regressions, operating-performance tests, capital-expenditure and acquisition outcomes, and insider-trading evidence to study shareholder rights, showing that firms with stronger shareholder rights earned higher abnormal returns and had higher valuation and operating performance, though the design cannot fully establish causality."
