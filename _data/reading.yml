@@ -1,3 +1,7 @@
+- title: "Angeletos and Pavan (Econometrica, 2007) - Efficient Use of Information and Social Value of Information"
+  file: "Angeletos_Pavan_Econometrica_2007.pdf"
+  desc: "This note summarizes the paper, which develops a quadratic-Gaussian coordination framework with private and public signals, strategic complementarities or substitutabilities, equilibrium and socially optimal coordination parameters, accuracy, commonality, volatility, dispersion, and welfare decompositions to study the social value of information, showing that public or private information can help or hurt depending on whether equilibrium uses decentralized information efficiently."
+
 - title: "Diether, Malloy, and Scherbina (JF, 2002) - Differences of Opinion and the Cross Section of Stock Returns"
   file: "Diether_Malloy_Scherbina_JF_2002.pdf"
   desc: "This note summarizes the paper, which uses CRSP returns, Compustat accounting data, I/B/E/S analyst earnings forecasts, forecast-dispersion measures, size/book-to-market/momentum portfolio sorts, Fama-French and Carhart risk adjustments, and Fama-MacBeth regressions to study disagreement and stock returns, showing that high analyst forecast dispersion predicts lower future returns, especially among small stocks and past losers."
