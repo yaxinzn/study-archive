@@ -1,3 +1,7 @@
+- title: "Whited and Wu (RFS, 2006) - Financial Constraints Risk"
+  file: "Whited_Wu_RFS_2006.pdf"
+  desc: "This note summarizes the paper, which uses quarterly Compustat industrial data, a GMM-estimated investment Euler equation, a structural financial-constraints index based on the shadow value of external finance, KZ-index comparisons, size-by-constraint portfolio sorts, covariance tests, and Fama-MacBeth return regressions to study financial constraints risk, showing that structurally constrained firms share common return variation and earn higher cross-sectional returns, with the constraints index absorbing much of the size effect."
+
 - title: "Lamont, Polk, and Saa-Requejo (RFS, 2001) - Financial Constraints and Stock Returns"
   file: "Lamont_Polk_SaaRequejo_RFS_2001.pdf"
   desc: "This note summarizes the paper, which uses CRSP/Compustat manufacturing firms, a Kaplan-Zingales financial-constraints index, size-by-KZ portfolio sorts, a long-constrained short-unconstrained constraints factor, industry and characteristic-adjusted factors, switching tests, asset-pricing regressions, and macro-variable regressions to study whether financial constraints are a common return factor, showing that constrained firms' returns comove but that the constraints factor earns a negative average return and does not map cleanly into standard credit or monetary-policy indicators."
