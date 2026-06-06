@@ -1,3 +1,7 @@
+- title: "Livdan, Sapriza, and Zhang (JF, 2009) - Financially Constrained Stock Returns"
+  file: "Livdan_Sapriza_Zhang_JF_2009.pdf"
+  desc: "This note summarizes the paper, which uses a quantitative investment-based asset-pricing model with retained earnings, debt, costly external equity, collateral constraints, the shadow price of new debt, simulated portfolio sorts, Fama-MacBeth regressions, KZ and WW index comparisons, and leverage tests to study financially constrained stock returns, showing that constrained firms should earn higher expected returns because collateral constraints reduce their ability to smooth payouts through investment after aggregate shocks."
+
 - title: "Qian, Roland, and Xu (JPE, 2006) - Coordination and Experimentation in M-Form and U-Form Organizations"
   file: "Qian_Roland_Xu_QJE_2006.pdf"
   desc: "This note summarizes the paper, which develops a theoretical model of M-form and U-form organizations using complementary tasks, similar tasks, blueprint success probability, communication quality, setup costs, compatibility losses, full-scale versus small-scale experimentation, and China-Soviet reform applications to study coordination and experimentation, showing that M-form organizations are better under uncertainty and poor communication because self-contained divisions allow local experimentation, while U-form organizations perform better when communication is reliable and specialization gains dominate."
