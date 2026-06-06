@@ -1,3 +1,7 @@
+- title: "Chen, Hong, and Stein (JFE, 2002) - Breadth of Ownership and Stock Returns"
+  file: "Chen_Hong_Stein_JFE_2002.pdf"
+  desc: "This note summarizes the paper, which uses CDA/Spectrum mutual-fund holdings, breadth of ownership, changes in breadth, fund entry and exit measures, aggregate fund holdings, CRSP/Compustat controls, portfolio sorts, and Fama-MacBeth return regressions to study differences of opinion and short-sale constraints, showing that stocks with falling ownership breadth subsequently underperform because constrained pessimistic investors exit rather than short, leaving prices too optimistic."
+
 - title: "Whited and Wu (RFS, 2006) - Financial Constraints Risk"
   file: "Whited_Wu_RFS_2006.pdf"
   desc: "This note summarizes the paper, which uses quarterly Compustat industrial data, a GMM-estimated investment Euler equation, a structural financial-constraints index based on the shadow value of external finance, KZ-index comparisons, size-by-constraint portfolio sorts, covariance tests, and Fama-MacBeth return regressions to study financial constraints risk, showing that structurally constrained firms share common return variation and earn higher cross-sectional returns, with the constraints index absorbing much of the size effect."
