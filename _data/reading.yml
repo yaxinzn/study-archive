@@ -1,3 +1,7 @@
+- title: "Edmans (JFE, 2011) - Does the Stock Market Fully Value Intangibles? Employee Satisfaction and Equity Prices"
+  file: "Edmans_JFE_2011.pdf"
+  desc: "This note summarizes the paper, which uses the 100 Best Companies to Work For in America list, CRSP stock returns, Carhart four-factor portfolio regressions, industry and characteristic benchmarks, Fama-MacBeth regressions, earnings-surprise tests, announcement returns, and longevity analysis to study employee satisfaction and equity prices, showing that employee satisfaction predicts positive abnormal returns because the market underprices valuable human-capital intangibles."
+
 - title: "Belo, Lin, and Bazdresch (JPE, 2014) - Labor Hiring, Investment, and Stock Return Predictability in the Cross Section"
   file: "Belo_Lin_Bazdresch_JPE_2014.pdf"
   desc: "This note summarizes the paper, which uses CRSP/Compustat employment, investment, accounting, and return data, hiring-rate and investment-rate measures, portfolio sorts, Fama-MacBeth regressions, factor-model tests, and a calibrated production-based asset-pricing model with labor and capital adjustment costs to study hiring and stock returns, showing that high-hiring firms earn lower future returns because they hedge aggregate adjustment-cost shocks."
