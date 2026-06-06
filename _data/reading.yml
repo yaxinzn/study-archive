@@ -1,3 +1,7 @@
+- title: "Bown and Crowley (AER, 2013) - Self-Enforcing Trade Agreements: Evidence from Time-Varying Trade Policy"
+  file: "Bown_Crowley_AER_2013.pdf"
+  desc: "This note summarizes the paper, which uses U.S. antidumping and safeguard tariff data, bilateral imports, import-growth shocks, import-demand and export-supply elasticities, import-growth volatility, political-economy controls, probit/logit tariff-incidence models, and Tobit tariff-size tests to study self-enforcing trade agreements, showing that temporary tariffs are more likely after import surges when terms-of-trade incentives are strong and import surges are unusual."
+
 - title: "Rotemberg and Woodford (JPE, 1992) - Oligopolistic Pricing and the Effects of Aggregate Demand on Economic Activity"
   file: "Rotemberg_Woodford_JPE_1992.pdf"
   desc: "This note summarizes the paper, which uses military-purchase shocks, calibrated dynamic general-equilibrium models, competitive and oligopolistic pricing benchmarks, collusive markup constraints, impulse-response comparisons, and real-wage evidence to study aggregate demand effects, showing that countercyclical markups from oligopolistic pricing can make demand shocks raise private output, hours, and real wages."
