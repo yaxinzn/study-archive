@@ -1,3 +1,7 @@
+- title: "Sah and Stiglitz (AER, 1986) - The Architecture of Economic Systems: Hierarchies and Polyarchies"
+  file: "Sah_Stiglitz_AER_1986.pdf"
+  desc: "This note summarizes the paper, which develops a theoretical model of organizational architecture using project-quality distributions, imperfect screening, Type-I and Type-II errors, polyarchies, hierarchies, acceptance probabilities, endogenous reservation rules, and communication limits to study decision systems, showing that polyarchies give good projects more chances but admit more bad projects, while hierarchies filter bad projects more strongly but reject more good ones."
+
 - title: "Eisfeldt and Papanikolaou (JF, 2013) - Organization Capital and the Cross-Section of Expected Returns"
   file: "Eisfeldt_Papanikolaou_JF_2013.pdf"
   desc: "This note summarizes the paper, which uses Compustat/CRSP firms, capitalized SG&A-based organization capital, within-industry O/K portfolio sorts, 10-K key-person risk disclosures, management quality, IT spending, productivity validation, factor regressions, OMK portfolio tests, executive compensation, and reallocation measures to study organization capital and expected returns, showing that high-organization-capital firms earn higher returns because shareholders are exposed to key-talent outside-option risk."
