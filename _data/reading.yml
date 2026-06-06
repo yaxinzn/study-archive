@@ -1,3 +1,7 @@
+- title: "Harrison and Kreps (QJE, 1978) - Speculative Investor Behavior in a Stock Market with Heterogeneous Expectations"
+  file: "Harrison_Kreps_QJE_1978.pdf"
+  desc: "This note summarizes the paper, which develops a dynamic asset-pricing model with heterogeneous expectations, subjective probability beliefs, no short sales, resale opportunities, legitimate selling strategies, consistent price schemes, recursive minimal prices, and a two-state numerical example to study speculative investor behavior, showing that stock prices can exceed every investor's buy-and-hold dividend valuation because ownership includes a valuable resale option."
+
 - title: "Yi (JPE, 2003) - Can Vertical Specialization Explain the Growth of World Trade?"
   file: "Yi_JPE_2003.pdf"
   desc: "This note summarizes the paper, which uses U.S. and world manufacturing export shares, tariff data, input-output measures of vertical specialization, VS and VS1 measures, revealed-comparative-advantage calibration, and a two-country dynamic Ricardian model with sequential production stages to study why world trade grew so much from modest tariff reductions, showing that vertical specialization magnifies tariff cuts through repeated border crossings and explains a large share of U.S. manufacturing export growth and the nonlinear rise of trade."
