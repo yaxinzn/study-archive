@@ -1,3 +1,7 @@
+- title: "Scheinkman and Xiong (JPE, 2003) - Overconfidence and Speculative Bubbles"
+  file: "Scheinkman_Xiong_JPE_2003.pdf"
+  desc: "This note summarizes the paper, which develops a continuous-time asset-pricing model with overconfident investors, noisy signals, heterogeneous beliefs, short-sale constraints, resale-option value, trading thresholds, bubble components, turnover, volatility, and transaction-cost comparative statics to study speculative bubbles, showing that overconfidence and short-sale limits jointly generate high prices, high trading volume, and excess volatility."
+
 - title: "Klibanoff, Lamont, and Wizman (JF, 1998) - Investor Reaction to Salient News in Closed-End Country Funds"
   file: "Klibanoff_Lamont_Wizman_JF_1998.pdf"
   desc: "This note summarizes the paper, which uses U.S.-listed closed-end country funds, weekly prices and NAVs, front-page New York Times country news, price-NAV return regressions, news-salience interactions, volume tests, market-segmentation splits, and foreign-index robustness checks to study investor reaction to salient news, showing that salient public news increases the speed with which prices incorporate observable fundamentals."
