@@ -1,3 +1,7 @@
+- title: "Bolton, Chen, and Wang (JF, 2011) - A Unified Theory of Tobin's q, Corporate Investment, Financing, and Risk Management"
+  file: "Bolton_Chen_Wang_JF_2011.pdf"
+  desc: "This note summarizes the paper, which develops a continuous-time dynamic corporate-finance model with costly external equity, cash accumulation, payout and refinancing boundaries, investment adjustment costs, derivatives hedging, credit lines, marginal q, and the marginal value of liquidity to study investment, financing, and risk management, showing that financially constrained firms invest according to liquidity-adjusted marginal q and jointly manage cash, hedging, payout, and external finance through an endogenous liquidity state."
+
 - title: "Easley, Hvidkjaer, and O'Hara (JF, 2002) - Is Information Risk a Determinant of Asset Returns?"
   file: "Easley_Hvidkjaer_OHara_JF_2002.pdf"
   desc: "This note summarizes the paper, which uses NYSE transaction data, Lee-Ready classified buy/sell order flow, ISSM/TAQ trades and quotes, CRSP/Compustat returns and accounting variables, a structural sequential-trade model, PIN estimates, portfolio sorts, and Fama-MacBeth asset-pricing regressions to study information risk, showing that stocks with higher probabilities of informed trading earn higher expected returns even after controlling for beta, size, book-to-market, spreads, volatility, and turnover."
