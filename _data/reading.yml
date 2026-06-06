@@ -1,3 +1,7 @@
+- title: "Kandel and Pearson (JPE, 1995) - Differential Interpretation of Public Signals and Trade in Speculative Markets"
+  file: "Kandel_Pearson_JPE_1995.pdf"
+  desc: "This note summarizes the paper, which uses CRSP and Compustat earnings-announcement windows, abnormal trading volume by return cells, a different-likelihoods speculative-trade model, I/B/E/S analyst forecast revisions, flips, divergences, and control-window comparisons to study public information and speculative trade, showing that public signals can generate substantial trading volume even when prices barely move because agents interpret the same news differently."
+
 - title: "Antras and Staiger (AER, 2012) - Offshoring and the Role of Trade Agreements"
   file: "Antras_Staiger_AER_2012.pdf"
   desc: "This note summarizes the paper, which develops a model of offshoring with customized intermediate inputs, incomplete contracts, relationship-specific investment, ex post bargaining, final-good and input trade policies, constrained-efficient policy, Nash policy, political-economy extensions, and WTO tariff-concession evidence by input customization to study trade agreements, showing that global value chains require deeper policy coordination than traditional market-access commitments."
