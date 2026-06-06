@@ -1,3 +1,7 @@
+- title: "Diether, Malloy, and Scherbina (JF, 2002) - Differences of Opinion and the Cross Section of Stock Returns"
+  file: "Diether_Malloy_Scherbina_JF_2002.pdf"
+  desc: "This note summarizes the paper, which uses CRSP returns, Compustat accounting data, I/B/E/S analyst earnings forecasts, forecast-dispersion measures, size/book-to-market/momentum portfolio sorts, Fama-French and Carhart risk adjustments, and Fama-MacBeth regressions to study disagreement and stock returns, showing that high analyst forecast dispersion predicts lower future returns, especially among small stocks and past losers."
+
 - title: "Scheinkman and Xiong (JPE, 2003) - Overconfidence and Speculative Bubbles"
   file: "Scheinkman_Xiong_JPE_2003.pdf"
   desc: "This note summarizes the paper, which develops a continuous-time asset-pricing model with overconfident investors, noisy signals, heterogeneous beliefs, short-sale constraints, resale-option value, trading thresholds, bubble components, turnover, volatility, and transaction-cost comparative statics to study speculative bubbles, showing that overconfidence and short-sale limits jointly generate high prices, high trading volume, and excess volatility."
