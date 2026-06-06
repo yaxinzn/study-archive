@@ -1,3 +1,7 @@
+- title: "Prescott and Visscher (JPE, 1980) - Organization Capital"
+  file: "Prescott_Visscher_JPE_1980.pdf"
+  desc: "This note summarizes the paper, which develops a theoretical model of organization capital using personnel information, Bayesian learning about worker-task match quality, team information, firm-specific human capital, screening time, growth rates, and transfer costs to study firm growth and adjustment costs, showing that firms grow gradually because rapid expansion dilutes internal information and raises production costs, making organization capital a firm-specific stock of productive knowledge."
+
 - title: "Chen, Hong, and Stein (JFE, 2002) - Breadth of Ownership and Stock Returns"
   file: "Chen_Hong_Stein_JFE_2002.pdf"
   desc: "This note summarizes the paper, which uses CDA/Spectrum mutual-fund holdings, breadth of ownership, changes in breadth, fund entry and exit measures, aggregate fund holdings, CRSP/Compustat controls, portfolio sorts, and Fama-MacBeth return regressions to study differences of opinion and short-sale constraints, showing that stocks with falling ownership breadth subsequently underperform because constrained pessimistic investors exit rather than short, leaving prices too optimistic."
