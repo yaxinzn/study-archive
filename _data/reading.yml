@@ -1,3 +1,7 @@
+- title: "Cooper and John (QJE, 1988) - Coordinating Coordination Failures in Keynesian Models"
+  file: "Cooper_John_QJE_1988.pdf"
+  desc: "This note summarizes the paper, which develops an abstract game-theoretic framework with spillovers, strategic complementarities, reaction functions, multiple symmetric Nash equilibria, Pareto-ranked equilibria, continuum equilibria, and multiplier effects to study Keynesian coordination failures, showing that complementarities generate multiplicity and multipliers while spillovers generate inefficiency."
+
 - title: "Angeletos and Pavan (Econometrica, 2007) - Efficient Use of Information and Social Value of Information"
   file: "Angeletos_Pavan_Econometrica_2007.pdf"
   desc: "This note summarizes the paper, which develops a quadratic-Gaussian coordination framework with private and public signals, strategic complementarities or substitutabilities, equilibrium and socially optimal coordination parameters, accuracy, commonality, volatility, dispersion, and welfare decompositions to study the social value of information, showing that public or private information can help or hurt depending on whether equilibrium uses decentralized information efficiently."
