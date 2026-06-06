@@ -1,3 +1,7 @@
+- title: "Davis and Haltiwanger (QJE, 1992) - Gross Job Creation, Gross Job Destruction, and Employment Reallocation"
+  file: "Davis_Haltiwanger_QJE_1992.pdf"
+  desc: "This note summarizes the paper, which uses the Longitudinal Research Datafile on U.S. manufacturing establishments, symmetric plant growth rates, gross job creation, gross job destruction, net growth, job reallocation, persistence measures, passive-learning decompositions, sectoral-shift decompositions, and cyclical regressions to study labor-market reallocation, showing that large simultaneous job creation and destruction underlie small net employment changes and that reallocation is countercyclical mainly because plant-level idiosyncratic dispersion rises in downturns."
+
 - title: "Prescott and Visscher (JPE, 1980) - Organization Capital"
   file: "Prescott_Visscher_JPE_1980.pdf"
   desc: "This note summarizes the paper, which develops a theoretical model of organization capital using personnel information, Bayesian learning about worker-task match quality, team information, firm-specific human capital, screening time, growth rates, and transfer costs to study firm growth and adjustment costs, showing that firms grow gradually because rapid expansion dilutes internal information and raises production costs, making organization capital a firm-specific stock of productive knowledge."
