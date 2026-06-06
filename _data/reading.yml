@@ -1,3 +1,7 @@
+- title: "Mortensen and Pissarides (RES, 1994) - Job Creation and Job Destruction in the Theory of Unemployment"
+  file: "Mortensen_Pissarides_RES_1994.pdf"
+  desc: "This note summarizes the paper, which embeds job-specific productivity shocks into a search-and-matching model with vacancy free entry, Nash wage bargaining, endogenous destruction thresholds, market tightness, Beveridge-curve equilibrium, aggregate and dispersion shocks, and calibrated job-flow simulations to study unemployment dynamics, showing that aggregate productivity shocks generate rising job creation, falling job destruction, and more volatile destruction, matching key U.S. manufacturing job-flow facts."
+
 - title: "Zingales (JF, 1998) - Survival of the Fittest or the Fattest? Exit and Financing in the Trucking Industry"
   file: "Zingales_JF_1998.pdf"
   desc: "This note summarizes the paper, which uses U.S. trucking deregulation, ICC/ATA carrier data, prederegulation leverage, survival through 1985, operating efficiency controls, Altman Z-score, truckload versus less-than-truckload segment heterogeneity, investment regressions, and pricing regressions to study exit and financing, showing that highly levered carriers were less likely to survive deregulation, especially in network-intensive LTL trucking, because debt constrained investment and affected competitive pricing."
