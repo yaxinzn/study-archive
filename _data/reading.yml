@@ -1,3 +1,7 @@
+- title: "Lamont, Polk, and Saa-Requejo (RFS, 2001) - Financial Constraints and Stock Returns"
+  file: "Lamont_Polk_SaaRequejo_RFS_2001.pdf"
+  desc: "This note summarizes the paper, which uses CRSP/Compustat manufacturing firms, a Kaplan-Zingales financial-constraints index, size-by-KZ portfolio sorts, a long-constrained short-unconstrained constraints factor, industry and characteristic-adjusted factors, switching tests, asset-pricing regressions, and macro-variable regressions to study whether financial constraints are a common return factor, showing that constrained firms' returns comove but that the constraints factor earns a negative average return and does not map cleanly into standard credit or monetary-policy indicators."
+
 - title: "Livdan, Sapriza, and Zhang (JF, 2009) - Financially Constrained Stock Returns"
   file: "Livdan_Sapriza_Zhang_JF_2009.pdf"
   desc: "This note summarizes the paper, which uses a quantitative investment-based asset-pricing model with retained earnings, debt, costly external equity, collateral constraints, the shadow price of new debt, simulated portfolio sorts, Fama-MacBeth regressions, KZ and WW index comparisons, and leverage tests to study financially constrained stock returns, showing that constrained firms should earn higher expected returns because collateral constraints reduce their ability to smooth payouts through investment after aggregate shocks."
