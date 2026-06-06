@@ -1,3 +1,7 @@
+- title: "Hart and Holmstrom (QJE, 2010) - A Theory of Firm Scope"
+  file: "Hart_Holmstrom_QJE_2010.pdf"
+  desc: "This note summarizes the paper, which develops a reference-point theory of firm scope using two units, coordination decisions, profit and private-benefit payoffs, aggrievement, shading, nonintegration, integration, delegation, and the Cisco-StrataCom case to study firm boundaries, showing that nonintegration protects local private benefits but may undercoordinate, while integration centralizes authority but may overcoordinate by underweighting employee private benefits."
+
 - title: "Bolton, Chen, and Wang (JF, 2011) - A Unified Theory of Tobin's q, Corporate Investment, Financing, and Risk Management"
   file: "Bolton_Chen_Wang_JF_2011.pdf"
   desc: "This note summarizes the paper, which develops a continuous-time dynamic corporate-finance model with costly external equity, cash accumulation, payout and refinancing boundaries, investment adjustment costs, derivatives hedging, credit lines, marginal q, and the marginal value of liquidity to study investment, financing, and risk management, showing that financially constrained firms invest according to liquidity-adjusted marginal q and jointly manage cash, hedging, payout, and external finance through an endogenous liquidity state."
