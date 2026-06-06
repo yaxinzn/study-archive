@@ -1,3 +1,7 @@
+- title: "Admati (Econometrica, 1985) - A Noisy Rational Expectations Equilibrium for Multi-Asset Securities Markets"
+  file: "Admati_Econometrica_1985.pdf"
+  desc: "This note summarizes the paper, which develops a closed-form noisy rational expectations equilibrium for multi-asset markets using CARA-normal investors, heterogeneous private signals, random supply noise, continuum-agent aggregation, linear price functions, posterior belief updating, and cross-asset covariance structures to study information aggregation, showing that multi-asset price signals can overturn single-asset intuition because prices reveal information jointly across correlated securities."
+
 - title: "Peters and Taylor (JFE, 2017) - Intangible Capital and the Investment-q Relation"
   file: "Peters_Taylor_JFE_2017.pdf"
   desc: "This note summarizes the paper, which uses Compustat public-firm data, intangible capital constructed from R&D, SG&A, and balance-sheet intangibles, total q, physical and intangible investment rates, OLS and measurement-error-corrected investment-q regressions, cash-flow tests, subsample comparisons, and macro time-series evidence to study the investment-q relation, showing that q theory works better once intangible capital is treated as capital and that intangible investment appears to have higher adjustment costs than physical investment."
