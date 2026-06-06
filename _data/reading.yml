@@ -1,3 +1,7 @@
+- title: "Peters and Taylor (JFE, 2017) - Intangible Capital and the Investment-q Relation"
+  file: "Peters_Taylor_JFE_2017.pdf"
+  desc: "This note summarizes the paper, which uses Compustat public-firm data, intangible capital constructed from R&D, SG&A, and balance-sheet intangibles, total q, physical and intangible investment rates, OLS and measurement-error-corrected investment-q regressions, cash-flow tests, subsample comparisons, and macro time-series evidence to study the investment-q relation, showing that q theory works better once intangible capital is treated as capital and that intangible investment appears to have higher adjustment costs than physical investment."
+
 - title: "Mortensen and Pissarides (RES, 1994) - Job Creation and Job Destruction in the Theory of Unemployment"
   file: "Mortensen_Pissarides_RES_1994.pdf"
   desc: "This note summarizes the paper, which embeds job-specific productivity shocks into a search-and-matching model with vacancy free entry, Nash wage bargaining, endogenous destruction thresholds, market tightness, Beveridge-curve equilibrium, aggregate and dispersion shocks, and calibrated job-flow simulations to study unemployment dynamics, showing that aggregate productivity shocks generate rising job creation, falling job destruction, and more volatile destruction, matching key U.S. manufacturing job-flow facts."
