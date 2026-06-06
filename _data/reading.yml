@@ -1,3 +1,7 @@
+- title: "Jovanovic (JPE, 1979) - Job Matching and the Theory of Turnover"
+  file: "Jovanovic_JPE_1979.pdf"
+  desc: "This note summarizes the paper, which develops a continuous-time equilibrium model of job turnover using unknown match-specific productivity, noisy output signals, Bayesian posterior updating, wages equal to conditional expected productivity, optimal stopping, reservation wages, and renewal equations to study job matching, showing that separations decline with tenure and wages rise among surviving matches because workers and firms learn which matches are good."
+
 - title: "Davis and Haltiwanger (QJE, 1992) - Gross Job Creation, Gross Job Destruction, and Employment Reallocation"
   file: "Davis_Haltiwanger_QJE_1992.pdf"
   desc: "This note summarizes the paper, which uses the Longitudinal Research Datafile on U.S. manufacturing establishments, symmetric plant growth rates, gross job creation, gross job destruction, net growth, job reallocation, persistence measures, passive-learning decompositions, sectoral-shift decompositions, and cyclical regressions to study labor-market reallocation, showing that large simultaneous job creation and destruction underlie small net employment changes and that reallocation is countercyclical mainly because plant-level idiosyncratic dispersion rises in downturns."
