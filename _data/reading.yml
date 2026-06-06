@@ -1,3 +1,7 @@
+- title: "Eisfeldt and Papanikolaou (JF, 2013) - Organization Capital and the Cross-Section of Expected Returns"
+  file: "Eisfeldt_Papanikolaou_JF_2013.pdf"
+  desc: "This note summarizes the paper, which uses Compustat/CRSP firms, capitalized SG&A-based organization capital, within-industry O/K portfolio sorts, 10-K key-person risk disclosures, management quality, IT spending, productivity validation, factor regressions, OMK portfolio tests, executive compensation, and reallocation measures to study organization capital and expected returns, showing that high-organization-capital firms earn higher returns because shareholders are exposed to key-talent outside-option risk."
+
 - title: "Falato, Kadyrzhanova, Sim, and Steri (JF, 2022) - Rising Intangible Capital, Shrinking Debt Capacity, and the U.S. Corporate Savings Glut"
   file: "Falato_Kadyrzhanova_Sim_Steri_JF_2022.pdf"
   desc: "This note summarizes the paper, which uses Compustat public-firm data, firm-level intangible-capital measures, cash and leverage ratios, a calibrated dynamic model with tangible and intangible capital, collateral constraints, lumpy investment, costly equity issuance, panel regressions, alternative-channel controls, and patent-pledgeability evidence to study the corporate savings glut, showing that rising intangible capital shrinks debt capacity and explains most of the long-run increase in U.S. corporate cash holdings."
