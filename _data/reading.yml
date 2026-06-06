@@ -1,3 +1,7 @@
+- title: "Belo, Lin, and Bazdresch (JPE, 2014) - Labor Hiring, Investment, and Stock Return Predictability in the Cross Section"
+  file: "Belo_Lin_Bazdresch_JPE_2014.pdf"
+  desc: "This note summarizes the paper, which uses CRSP/Compustat employment, investment, accounting, and return data, hiring-rate and investment-rate measures, portfolio sorts, Fama-MacBeth regressions, factor-model tests, and a calibrated production-based asset-pricing model with labor and capital adjustment costs to study hiring and stock returns, showing that high-hiring firms earn lower future returns because they hedge aggregate adjustment-cost shocks."
+
 - title: "Chevalier and Scharfstein (AER, 1996) - Capital-Market Imperfections and Countercyclical Markups: Theory and Evidence"
   file: "Chevalier_Scharfstein_AER_1996.pdf"
   desc: "This note summarizes the paper, which uses a customer-market pricing model, financial-constraint mechanisms, supermarket pricing data, the 1986 oil shock, LBO supermarket exposure during the 1990-1991 recession, city-level price indices, firm-level scanner prices, and rival financial-constraint measures to study countercyclical markups, showing that financially constrained firms raise prices in downturns because they value current cash flow more than future market-share investment."
