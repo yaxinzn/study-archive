@@ -1,3 +1,7 @@
+- title: "Easley, Hvidkjaer, and O'Hara (JF, 2002) - Is Information Risk a Determinant of Asset Returns?"
+  file: "Easley_Hvidkjaer_OHara_JF_2002.pdf"
+  desc: "This note summarizes the paper, which uses NYSE transaction data, Lee-Ready classified buy/sell order flow, ISSM/TAQ trades and quotes, CRSP/Compustat returns and accounting variables, a structural sequential-trade model, PIN estimates, portfolio sorts, and Fama-MacBeth asset-pricing regressions to study information risk, showing that stocks with higher probabilities of informed trading earn higher expected returns even after controlling for beta, size, book-to-market, spreads, volatility, and turnover."
+
 - title: "Kandel and Pearson (JPE, 1995) - Differential Interpretation of Public Signals and Trade in Speculative Markets"
   file: "Kandel_Pearson_JPE_1995.pdf"
   desc: "This note summarizes the paper, which uses CRSP and Compustat earnings-announcement windows, abnormal trading volume by return cells, a different-likelihoods speculative-trade model, I/B/E/S analyst forecast revisions, flips, divergences, and control-window comparisons to study public information and speculative trade, showing that public signals can generate substantial trading volume even when prices barely move because agents interpret the same news differently."
