@@ -1,3 +1,7 @@
+- title: "Fisman and Love (JF, 2003) - Trade Credit, Financial Intermediary Development, and Industry Growth"
+  file: "Fisman_Love_JF_2003.pdf"
+  desc: "This note summarizes the paper, which uses country-industry growth data, U.S. Compustat industry trade-credit intensity, private credit to GDP, external-finance dependence, country and industry fixed effects, trade-credit-by-financial-development interactions, establishment-size and entry decompositions, and robustness with legal-origin instruments to study informal finance, showing that trade-credit-intensive industries grow relatively faster where formal financial intermediation is weak, mainly through expansion of existing firms."
+
 - title: "Tang (JFE, 2009) - Information Asymmetry and Firms' Credit Market Access: Evidence from Moody's Credit Rating Format Refinement"
   file: "Tang_JFE_2009.pdf"
   desc: "This note summarizes the paper, which uses Moody's 1982 credit-rating format refinement, bond yield spreads, Compustat firm outcomes, upgraded/no-change/downgraded refinement groups, S&P rating controls, within-rating-class tests, first-difference financing regressions, and investment/cash/asset-growth outcomes to study credit-market information asymmetry, showing that more precise public credit information lowers borrowing costs and increases debt issuance, investment, and firm growth for favorably refined firms."
