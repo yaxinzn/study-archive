@@ -1,3 +1,7 @@
+- title: "Brav and Lehavy (JF, 2003) - An Empirical Analysis of Analysts' Target Prices: Short-Term Informativeness and Long-Term Dynamics"
+  file: "Brav_Lehavy_JF_2003.pdf"
+  desc: "This note summarizes the paper, which uses First Call analyst target prices, recommendations, earnings forecast revisions, target-price-to-price ratios, target price revisions, event-window abnormal returns, post-event CARs, calendar-time four-factor regressions, and cointegration models of target and market prices to study analyst target prices, showing that target price revisions contain short-run and long-run information beyond recommendations and earnings forecasts."
+
 - title: "Dichev and Piotroski (JF, 2001) - The Long-Run Stock Returns Following Bond Ratings Changes"
   file: "Dichev_Piotroski_JF_2001.pdf"
   desc: "This note summarizes the paper, which uses Moody's bond rating changes from 1970 to 1997, CRSP and book-to-market matched equity returns, parent versus subsidiary issue classifications, CAR and BHAR long-run event studies, Fama-MacBeth regressions, size and credit-quality splits, future rating changes, profitability changes, and earnings-announcement returns to study market reaction to rating changes, showing that equity markets underreact strongly to downgrades, especially for small noninvestment-grade parent firms."
