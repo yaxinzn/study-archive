@@ -1,3 +1,7 @@
+- title: "Duflo, Greenstone, Pande, and Ryan (QJE, 2013) - Truth-Telling by Third-Party Auditors and the Response of Polluting Firms: Experimental Evidence from India"
+  file: "Duflo_Greenstone_Pande_Ryan_QJE_2013.pdf"
+  desc: "This note summarizes the paper, which uses a randomized reform of Gujarat's third-party environmental audit market, random auditor assignment, central payment, independent backchecks, accuracy incentives, audit-report compliance gaps, auditor fixed effects, endline pollution readings, and regulatory-action data to study auditor truth-telling, showing that changing auditor incentives sharply reduced false compliance reporting and lowered pollution among the dirtiest plants."
+
 - title: "Duflo, Greenstone, Pande, and Ryan (Econometrica, 2018) - The Value of Regulatory Discretion: Estimates from Environmental Inspections in India"
   file: "Duflo_Greenstone_Pande_Ryan_Econometrica_2018.pdf"
   desc: "This note summarizes the paper, which uses a randomized inspection experiment in Gujarat, GPCB administrative records, independent end-line pollution measures, plant compliance outcomes, regulator-plant action chains, penalty-stage estimates, targeting-stage structural estimation, and counterfactual inspection rules to study regulatory discretion, showing that random extra inspections increased detection but had weak pollution effects because regulator discretion was already valuable for targeting extreme polluters."
