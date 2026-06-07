@@ -1,3 +1,7 @@
+- title: "Wurgler (JFE, 2000) - Financial Markets and the Allocation of Capital"
+  file: "Wurgler_JFE_2000.pdf"
+  desc: "This note summarizes the paper, which uses a 65-country manufacturing industry panel, investment growth, value-added growth, country-specific allocation elasticities, stock- and credit-market development, legal-origin IV, growing-versus-declining industry splits, within-year and between-year decompositions, stock-price synchronicity, state ownership, and investor-rights measures to study capital allocation, showing that financially developed countries allocate investment more strongly toward growing industries and away from declining industries."
+
 - title: "Chari and Henry (JF, 2004) - Risk Sharing and Asset Prices: Evidence from a Natural Experiment"
   file: "Chari_Henry_JF_2004.pdf"
   desc: "This note summarizes the paper, which uses emerging-market stock liberalizations, IFC investible and noninvestible firm classifications, firm-level abnormal returns, local-market versus world-market covariance differences, country fixed effects, earnings and liquidity controls, and robustness using world-market abnormal returns to study international risk sharing, showing that investible firms revalue more when liberalization reduces their systematic risk, with risk sharing explaining a substantial part of the price response."
