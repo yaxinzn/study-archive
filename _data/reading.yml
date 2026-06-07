@@ -1,3 +1,7 @@
+- title: "Hendel and Nevo (Econometrica, 2006) - Measuring the Implications of Sales and Consumer Inventory Behavior"
+  file: "Hendel_Nevo_Econometrica_2006.pdf"
+  desc: "This note summarizes the paper, which uses IRI household- and store-level scanner data on laundry detergent, temporary sales, nonlinear package-size pricing, purchase timing, household inventories, a dynamic quantity-choice model, inclusive-value likelihood decomposition, and long-run elasticity simulations to study consumer stockpiling, showing that static demand models overstate own-price elasticities, understate cross-product substitution, and overstate substitution to no purchase for storable goods."
+
 - title: "Love (RFS, 2003) - Financial Development and Financing Constraints: International Evidence from the Structural Investment Model"
   file: "Love_RFS_2003.pdf"
   desc: "This note summarizes the paper, which uses Worldscope firm-level panels across 36 countries, investment Euler equations, cash holdings, sales-to-capital, financial development indices, GMM estimation, cash-by-financial-development interactions, size heterogeneity, business-cycle controls, and legal-institutional variables to study financing constraints, showing that financial development reduces the dependence of investment timing on internal liquidity."
