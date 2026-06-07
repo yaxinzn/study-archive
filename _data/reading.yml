@@ -1,3 +1,7 @@
+- title: "Hochberg, Kakhbod, Li, and Sachdeva (JFE, 2026) - Are Patents with Female Inventors Under-Cited? Evidence from Text Estimation"
+  file: "Hochberg_Kakhbod_Li_Sachdeva_JFE_2026.pdf"
+  desc: "This note summarizes the paper, which uses USPTO utility patents from 1976 to 2015, lead-inventor gender, forward citations, patent text embeddings, novelty and impact measures, I-TEXT counterfactual citation models, art-unit/year/examiner/attorney/assignee fixed effects, citation-source decompositions, and market-based patent values to study gender-based recognition in innovation, showing that female lead-inventor patents receive about 2.5 fewer citations than comparable male-benchmark patents despite no comparable market-value discount."
+
 - title: "Amiti and Davis (RES, 2012) - Trade, Firms, and Wages: Theory and Evidence"
   file: "Amiti_Davis_RES_2012.pdf"
   desc: "This note summarizes the paper, which uses Indonesian manufacturing census data from 1991 to 2000, firm-level wages, export shares, imported-input shares, output tariffs, constructed input tariffs, firm fixed effects, location-year effects, five-period differences, tariff-change instruments, and exporter/importer interaction terms to study how trade liberalization affects wages across firms, showing that output-tariff cuts reduce wages at domestic-oriented firms but can raise wages at exporters, while input-tariff cuts raise wages at firms using imported intermediates."
