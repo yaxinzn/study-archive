@@ -1,3 +1,7 @@
+- title: "Amiti and Davis (RES, 2012) - Trade, Firms, and Wages: Theory and Evidence"
+  file: "Amiti_Davis_RES_2012.pdf"
+  desc: "This note summarizes the paper, which uses Indonesian manufacturing census data from 1991 to 2000, firm-level wages, export shares, imported-input shares, output tariffs, constructed input tariffs, firm fixed effects, location-year effects, five-period differences, tariff-change instruments, and exporter/importer interaction terms to study how trade liberalization affects wages across firms, showing that output-tariff cuts reduce wages at domestic-oriented firms but can raise wages at exporters, while input-tariff cuts raise wages at firms using imported intermediates."
+
 - title: "Niehaus and Sukhtankar (AEJ: EP, 2013) - Corruption Dynamics: The Golden Goose Effect"
   file: "Niehaus_Sukhtankar_AEJEP_2013.pdf"
   desc: "This note summarizes the paper, which uses India NREGS official records matched to household surveys, Orissa's 2007 daily-wage increase, daily-wage versus piece-rate project variation, future daily-wage project shares, Andhra Pradesh difference-in-differences controls, monitoring tests, and a dynamic corruption model to study forward-looking rent extraction, showing that expected future illicit rents can discipline current corruption through a golden goose effect."
