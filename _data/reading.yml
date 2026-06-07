@@ -1,3 +1,7 @@
+- title: "Tang (JFE, 2009) - Information Asymmetry and Firms' Credit Market Access: Evidence from Moody's Credit Rating Format Refinement"
+  file: "Tang_JFE_2009.pdf"
+  desc: "This note summarizes the paper, which uses Moody's 1982 credit-rating format refinement, bond yield spreads, Compustat firm outcomes, upgraded/no-change/downgraded refinement groups, S&P rating controls, within-rating-class tests, first-difference financing regressions, and investment/cash/asset-growth outcomes to study credit-market information asymmetry, showing that more precise public credit information lowers borrowing costs and increases debt issuance, investment, and firm growth for favorably refined firms."
+
 - title: "Hendel and Nevo (Econometrica, 2006) - Measuring the Implications of Sales and Consumer Inventory Behavior"
   file: "Hendel_Nevo_Econometrica_2006.pdf"
   desc: "This note summarizes the paper, which uses IRI household- and store-level scanner data on laundry detergent, temporary sales, nonlinear package-size pricing, purchase timing, household inventories, a dynamic quantity-choice model, inclusive-value likelihood decomposition, and long-run elasticity simulations to study consumer stockpiling, showing that static demand models overstate own-price elasticities, understate cross-product substitution, and overstate substitution to no purchase for storable goods."
