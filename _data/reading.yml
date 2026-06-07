@@ -1,3 +1,7 @@
+- title: "Asker, Collard-Wexler, and De Loecker (AER, 2019) - (Mis)Allocation, Market Power, and Global Oil Extraction"
+  file: "Asker_CollardWexler_DeLoecker_AER_2019.pdf"
+  desc: "This note summarizes the paper, which uses Rystad field-level global oil data, production, reserves, extraction costs, OPEC status, dynamic cost-minimizing counterfactuals, sorting algorithms, static and dynamic decompositions, and market-power bounds to study misallocation in global oil extraction, showing that low-cost OPEC production restraint shifts output toward higher-cost fields and creates large productive inefficiency, only part of which is attributable to OPEC market power."
+
 - title: "Opler and Titman (JF, 1994) - Financial Distress and Corporate Performance"
   file: "Opler_Titman_JF_1994.pdf"
   desc: "This note summarizes the paper, which uses COMPUSTAT industrial firms, industry downturn classifications, pre-shock book leverage, industry-adjusted sales growth, stock returns, operating income, R&D intensity, industry concentration, firm size, asset sales, employment, investment, bankruptcy, and merger outcomes to study financial distress and corporate performance, showing that highly leveraged firms lose market share and value during industry downturns, especially when customer and competitor channels make distress costly."
