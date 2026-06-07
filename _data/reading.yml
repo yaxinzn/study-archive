@@ -1,3 +1,7 @@
+- title: "Duflo, Greenstone, Pande, and Ryan (Econometrica, 2018) - The Value of Regulatory Discretion: Estimates from Environmental Inspections in India"
+  file: "Duflo_Greenstone_Pande_Ryan_Econometrica_2018.pdf"
+  desc: "This note summarizes the paper, which uses a randomized inspection experiment in Gujarat, GPCB administrative records, independent end-line pollution measures, plant compliance outcomes, regulator-plant action chains, penalty-stage estimates, targeting-stage structural estimation, and counterfactual inspection rules to study regulatory discretion, showing that random extra inspections increased detection but had weak pollution effects because regulator discretion was already valuable for targeting extreme polluters."
+
 - title: "Besley and Prat (AER, 2006) - Handcuffs for the Grabbing Hand? Media Capture and Government Accountability"
   file: "Besley_Prat_AER_2006.pdf"
   desc: "This note summarizes the paper, which develops a political-agency model with incumbents, voters, media outlets, verifiable bad news, commercial media rents, government transfers, transaction costs of influence, office rents, endogenous entry, monitoring quality, and access-based capture to study media capture and accountability, showing that media pluralism, commercialization, and independence make capture harder and improve voter welfare by increasing the cost of suppressing bad news."
