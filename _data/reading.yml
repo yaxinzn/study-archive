@@ -1,3 +1,7 @@
+- title: "Dichev and Piotroski (JF, 2001) - The Long-Run Stock Returns Following Bond Ratings Changes"
+  file: "Dichev_Piotroski_JF_2001.pdf"
+  desc: "This note summarizes the paper, which uses Moody's bond rating changes from 1970 to 1997, CRSP and book-to-market matched equity returns, parent versus subsidiary issue classifications, CAR and BHAR long-run event studies, Fama-MacBeth regressions, size and credit-quality splits, future rating changes, profitability changes, and earnings-announcement returns to study market reaction to rating changes, showing that equity markets underreact strongly to downgrades, especially for small noninvestment-grade parent firms."
+
 - title: "Jorion, Liu, and Shi (JFE, 2005) - Informational Effects of Regulation FD: Evidence from Rating Agencies"
   file: "Jorion_Liu_Shi_JFE_2005.pdf"
   desc: "This note summarizes the paper, which uses Mergent FISD rating changes, pre/post Regulation FD event windows, downgrade and upgrade CARs, rating-change magnitude, investment-grade boundary indicators, contaminated-news screens, business-cycle checks, firm size, and analyst-following heterogeneity to study the information role of rating agencies, showing that rating changes became more informative after Reg FD because rating agencies remained exempt from selective-disclosure restrictions."
