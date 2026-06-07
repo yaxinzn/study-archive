@@ -1,3 +1,7 @@
+- title: "Brennan and Subrahmanyam (JFE, 1995) - Investment Analysis and Price Formation in Securities Markets"
+  file: "Brennan_Subrahmanyam_JFE_1995.pdf"
+  desc: "This note summarizes the paper, which uses 1988 intraday NYSE trades and quotes, I/B/E/S analyst following, Glosten-Harris, Madhavan-Smidt, and Foster-Viswanathan adverse-selection cost estimates, simultaneous-equation regressions, trading volume, price, volatility, size, and institutional ownership to study information production and market depth, showing that greater analyst coverage is associated with lower price impact and deeper markets."
+
 - title: "Wurgler (JFE, 2000) - Financial Markets and the Allocation of Capital"
   file: "Wurgler_JFE_2000.pdf"
   desc: "This note summarizes the paper, which uses a 65-country manufacturing industry panel, investment growth, value-added growth, country-specific allocation elasticities, stock- and credit-market development, legal-origin IV, growing-versus-declining industry splits, within-year and between-year decompositions, stock-price synchronicity, state ownership, and investor-rights measures to study capital allocation, showing that financially developed countries allocate investment more strongly toward growing industries and away from declining industries."
