@@ -1,3 +1,7 @@
+- title: "Abreu and Brunnermeier (Econometrica, 2003) - Bubbles and Crashes"
+  file: "Abreu_Brunnermeier_Econometrica_2003.pdf"
+  desc: "This note summarizes the paper, which develops a dynamic theory of bubbles using a rising bubble price path, sequential arbitrageur awareness, posterior beliefs over bubble start dates, position limits, critical-mass selling, exogenous crash hazards, endogenous sellout conditions, and synchronization risk to study why rational traders ride bubbles, showing that bubbles can persist because informed arbitrageurs cannot coordinate the timing of attack."
+
 - title: "Brennan and Subrahmanyam (JFE, 1995) - Investment Analysis and Price Formation in Securities Markets"
   file: "Brennan_Subrahmanyam_JFE_1995.pdf"
   desc: "This note summarizes the paper, which uses 1988 intraday NYSE trades and quotes, I/B/E/S analyst following, Glosten-Harris, Madhavan-Smidt, and Foster-Viswanathan adverse-selection cost estimates, simultaneous-equation regressions, trading volume, price, volatility, size, and institutional ownership to study information production and market depth, showing that greater analyst coverage is associated with lower price impact and deeper markets."
