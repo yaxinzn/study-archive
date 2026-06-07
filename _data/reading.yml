@@ -1,3 +1,7 @@
+- title: "Jorion, Liu, and Shi (JFE, 2005) - Informational Effects of Regulation FD: Evidence from Rating Agencies"
+  file: "Jorion_Liu_Shi_JFE_2005.pdf"
+  desc: "This note summarizes the paper, which uses Mergent FISD rating changes, pre/post Regulation FD event windows, downgrade and upgrade CARs, rating-change magnitude, investment-grade boundary indicators, contaminated-news screens, business-cycle checks, firm size, and analyst-following heterogeneity to study the information role of rating agencies, showing that rating changes became more informative after Reg FD because rating agencies remained exempt from selective-disclosure restrictions."
+
 - title: "Asker, Collard-Wexler, and De Loecker (AER, 2019) - (Mis)Allocation, Market Power, and Global Oil Extraction"
   file: "Asker_CollardWexler_DeLoecker_AER_2019.pdf"
   desc: "This note summarizes the paper, which uses Rystad field-level global oil data, production, reserves, extraction costs, OPEC status, dynamic cost-minimizing counterfactuals, sorting algorithms, static and dynamic decompositions, and market-power bounds to study misallocation in global oil extraction, showing that low-cost OPEC production restraint shifts output toward higher-cost fields and creates large productive inefficiency, only part of which is attributable to OPEC market power."
