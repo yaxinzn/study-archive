@@ -1,3 +1,7 @@
+- title: "Opler and Titman (JF, 1994) - Financial Distress and Corporate Performance"
+  file: "Opler_Titman_JF_1994.pdf"
+  desc: "This note summarizes the paper, which uses COMPUSTAT industrial firms, industry downturn classifications, pre-shock book leverage, industry-adjusted sales growth, stock returns, operating income, R&D intensity, industry concentration, firm size, asset sales, employment, investment, bankruptcy, and merger outcomes to study financial distress and corporate performance, showing that highly leveraged firms lose market share and value during industry downturns, especially when customer and competitor channels make distress costly."
+
 - title: "Abreu and Brunnermeier (Econometrica, 2003) - Bubbles and Crashes"
   file: "Abreu_Brunnermeier_Econometrica_2003.pdf"
   desc: "This note summarizes the paper, which develops a dynamic theory of bubbles using a rising bubble price path, sequential arbitrageur awareness, posterior beliefs over bubble start dates, position limits, critical-mass selling, exogenous crash hazards, endogenous sellout conditions, and synchronization risk to study why rational traders ride bubbles, showing that bubbles can persist because informed arbitrageurs cannot coordinate the timing of attack."
