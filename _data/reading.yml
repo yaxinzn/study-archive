@@ -1,3 +1,7 @@
+- title: "Amihud and Noh (RFS, 2021) - Illiquidity and Stock Returns II: Cross-section and Time-series Effects"
+  file: "Amihud_Noh_RFS_2021.pdf"
+  desc: "This note summarizes the paper, which uses CRSP NYSE/AMEX common stocks from 1955 to 2016, Amihud ILLIQ, inverse dollar volume, absolute returns, the omitted DIF component, residual ILLIQ, Fama-MacBeth regressions, mispricing and sentiment controls, aggregate market illiquidity shocks, and crisis comparisons to study whether ILLIQ is only inverse volume, showing that ILLIQ contains priced illiquidity information beyond inverse dollar volume in both cross-sectional expected returns and time-series market-return responses."
+
 - title: "Kogan (JFE, 2004) - Asset Prices and Real Investment"
   file: "Kogan_JFE_2004.pdf"
   desc: "This note summarizes the paper, which develops a two-sector production economy with irreversible investment, bounded investment rates, Tobin's q, endogenous capital-supply elasticity, and industry-level market-to-book proxies, and tests monthly U.S. industry portfolios from 1963 to 2001 using quadratic and piecewise conditional-volatility regressions, showing that market-to-book predicts return volatility in a nonmonotonic way because both low-q disinvestment constraints and high-q expansion constraints make prices absorb real shocks."
