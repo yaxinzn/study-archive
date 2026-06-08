@@ -1,3 +1,7 @@
+- title: "Kogan (JFE, 2004) - Asset Prices and Real Investment"
+  file: "Kogan_JFE_2004.pdf"
+  desc: "This note summarizes the paper, which develops a two-sector production economy with irreversible investment, bounded investment rates, Tobin's q, endogenous capital-supply elasticity, and industry-level market-to-book proxies, and tests monthly U.S. industry portfolios from 1963 to 2001 using quadratic and piecewise conditional-volatility regressions, showing that market-to-book predicts return volatility in a nonmonotonic way because both low-q disinvestment constraints and high-q expansion constraints make prices absorb real shocks."
+
 - title: "Bernanke and Kuttner (JF, 2005) - What Explains the Stock Market's Reaction to Federal Reserve Policy?"
   file: "Bernanke_Kuttner_JF_2005.pdf"
   desc: "This note summarizes the paper, which uses Federal funds futures, daily FOMC and target-change event windows from 1989 to 2002, expected versus surprise policy components, CRSP value-weighted returns, employment-news controls, timing-versus-level surprises, industry portfolio regressions, and Campbell-Ammer VAR decompositions to study equity-market reactions to monetary policy, showing that stock prices respond strongly to unexpected policy changes and mainly through expected excess-return and dividend-news channels rather than a mechanical real-rate channel."
