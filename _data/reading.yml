@@ -1,3 +1,7 @@
+- title: "Staiger and Tabellini (AER, 1987) - Discretionary Trade Policy and Excessive Protection"
+  file: "Staiger_Tabellini_AER_1987.pdf"
+  desc: "This note summarizes the paper, which develops a small-open-economy trade-policy model with costly labor mobility, adverse terms-of-trade shocks, expected versus surprise tariffs, commitment versus discretionary policy, time-consistent equilibrium tariffs, and tariff-versus-subsidy comparisons to study excessive protection, showing that free trade can be optimal under commitment but not credible under discretion because governments have an ex post incentive to surprise workers with protection after labor reallocation."
+
 - title: "Bernard, Redding, and Schott (AER, 2010) - Multiple-Product Firms and Product Switching"
   file: "Bernard_Redding_Schott_AER_2010.pdf"
   desc: "This note summarizes the paper, which uses U.S. Census of Manufactures firm-product data from 1987, 1992, and 1997, five-digit SIC product definitions, multiple-product firm measures, product adding and dropping indicators, firm-product shipment shares, product tenure, productivity measures, firm and product fixed effects, and output-decomposition exercises to study product switching inside firms, showing that within-firm product reallocation is frequent, economically large, and systematically related to firm productivity and product-level selection."
