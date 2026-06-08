@@ -1,3 +1,7 @@
+- title: "Lou (RFS, 2012) - A Flow-Based Explanation for Return Predictability"
+  file: "Lou_RFS_2012.pdf"
+  desc: "This note summarizes the paper, which uses CDA/Spectrum mutual fund holdings, CRSP mutual fund data, MFLinks, CRSP stock returns, fund flows, flow-induced trading measures, expected stock-level and fund-level flow pressure, portfolio sorts, Fama-MacBeth regressions, and reversal tests to study return predictability from delegated-investment flows, showing that predictable mutual fund flows create temporary price pressure that explains short-run fund performance persistence, the smart-money effect, and part of stock momentum."
+
 - title: "Gopinath and Neiman (AER, 2014) - Trade Adjustment and Productivity in Large Crises"
   file: "Gopinath_Neiman_AER_2014.pdf"
   desc: "This note summarizes the paper, which uses Argentine customs transaction data from 1996 to 2008, Capital IQ firm matches, the 2001-2002 crisis, firm-product-country import margins, sub-extensive input-variety adjustment, Feenstra price-index corrections, and a calibrated heterogeneous-firm production model with imported-input fixed costs and roundabout production to study trade adjustment and productivity in crises, showing that within-firm imported-input churning explains a large share of the import collapse and generates meaningful productivity losses."
