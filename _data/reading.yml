@@ -1,3 +1,7 @@
+- title: "Edelen, Ince, and Kadlec (JFE, 2016) - Institutional Investors and Stock Return Anomalies"
+  file: "Edelen_Ince_Kadlec_JFE_2016.pdf"
+  desc: "This note summarizes the paper, which uses CRSP, Compustat, Thomson-Reuters 13F holdings, mutual fund holdings, SDC issuance data, seven stock-return anomaly signals, changes in the number of institutional owners, anomaly-leg portfolio sorts, Fama-MacBeth regressions, and mutual-fund-flow controls to study whether institutions exploit anomalies, showing that aggregate institutional demand often increases in anomaly short-leg stocks and that these institutionally bought overvalued stocks subsequently earn especially negative abnormal returns."
+
 - title: "Gompers and Metrick (QJE, 2001) - Institutional Investors and Equity Prices"
   file: "Gompers_Metrick_QJE_2001.pdf"
   desc: "This note summarizes the paper, which uses quarterly 13F institutional holdings from 1980 to 1996, CRSP stock characteristics, institutional ownership regressions, manager-type data, institutional inflow measures, return-forecasting regressions, and a demand-shift calibration to study institutional investors and equity prices, showing that the rapid growth of institutions increased demand for large, liquid stocks and can help explain the post-1980 reversal of the small-stock premium through price pressure rather than superior institutional stock-picking."
