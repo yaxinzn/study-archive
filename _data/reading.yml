@@ -1,3 +1,7 @@
+- title: "Nakamura and Steinsson (QJE, 2018) - High-Frequency Identification of Monetary Non-Neutrality: The Information Effect"
+  file: "Nakamura_Steinsson_QJE_2018.pdf"
+  desc: "This note summarizes the paper, which uses 30-minute FOMC announcement windows from 2000 to 2014, policy-news shocks, Treasury and TIPS yield responses, breakeven inflation, Blue Chip expected output-growth revisions, stock-price reactions, Rigobon-style robustness checks, and a New Keynesian model with Fed information effects to study monetary non-neutrality, showing that high-frequency monetary surprises are clean announcement shocks but not pure policy shocks because they also reveal Fed information about economic fundamentals."
+
 - title: "Grossman and Helpman (JPE, 1995) - Trade Wars and Trade Talks"
   file: "Grossman_Helpman_JPE_1995.pdf"
   desc: "This note summarizes the paper, which develops a two-country political-economy model with organized industry lobbies, campaign-contribution schedules, government welfare weights, specific-factor rents, trade taxes, world-price effects, noncooperative trade-war equilibria, efficient trade talks, no-transfer equivalence, and bargaining surplus division to study trade wars and trade negotiations, showing that trade-war policies combine special-interest and terms-of-trade motives, while trade talks remove pure market-power externalities but preserve relative domestic lobbying pressures."
