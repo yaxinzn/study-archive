@@ -1,3 +1,7 @@
+- title: "Bennett, Sias, and Starks (RFS, 2003) - Greener Pastures and the Impact of Dynamic Institutional Preferences"
+  file: "Bennett_Sias_Starks_RFS_2003.pdf"
+  desc: "This note summarizes the paper, which uses quarterly 13F institutional ownership from 1983 to 1997, CRSP firm characteristics, standardized institutional-preference regressions, institutional-class decompositions, turnover and firm-specific-risk regressions, valuation tests, and signed herding returns to study dynamic institutional preferences, showing that institutions moved toward smaller and riskier stocks mainly because preferences changed within investor classes, and that institutionalization is linked to higher turnover, firm-specific volatility, and informed trading opportunities in small stocks."
+
 - title: "Bagwell and Staiger (AER, 1990) - A Theory of Managed Trade"
   file: "Bagwell_Staiger_AER_1990.pdf"
   desc: "This note summarizes the paper, which develops a repeated-game model of managed trade with free-trade volume shocks, cooperative tariffs, quotas, defection incentives, punishment equilibria, no-defection constraints, and state-contingent policy rules to study why special protection arises inside trade agreements, showing that cooperative agreements may optimally allow higher protection during trade-volume surges because high volume raises the temptation to defect from liberal trade rules."
