@@ -1,3 +1,7 @@
+- title: "Bagwell and Staiger (AER, 1990) - A Theory of Managed Trade"
+  file: "Bagwell_Staiger_AER_1990.pdf"
+  desc: "This note summarizes the paper, which develops a repeated-game model of managed trade with free-trade volume shocks, cooperative tariffs, quotas, defection incentives, punishment equilibria, no-defection constraints, and state-contingent policy rules to study why special protection arises inside trade agreements, showing that cooperative agreements may optimally allow higher protection during trade-volume surges because high volume raises the temptation to defect from liberal trade rules."
+
 - title: "Handley and Limao (AEJ: EP, 2015) - Trade and Investment under Policy Uncertainty: Theory and Firm Evidence"
   file: "Handley_Limao_AEJ_2015.pdf"
   desc: "This note summarizes the paper, which uses Portuguese firm-level export data around Portugal's 1986 EC accession, preferential and nonpreferential tariff schedules, product-destination policy-uncertainty measures, firm-variety export entry, destination and industry fixed effects, reversal-probability estimates, and entry/export counterfactuals to study trade-policy uncertainty and sunk export investment, showing that credible trade agreements raise entry and exports mainly by reducing uncertainty about future market-access reversal, not only by lowering current tariffs."
