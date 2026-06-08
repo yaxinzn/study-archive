@@ -1,3 +1,7 @@
+- title: "Bernanke and Kuttner (JF, 2005) - What Explains the Stock Market's Reaction to Federal Reserve Policy?"
+  file: "Bernanke_Kuttner_JF_2005.pdf"
+  desc: "This note summarizes the paper, which uses Federal funds futures, daily FOMC and target-change event windows from 1989 to 2002, expected versus surprise policy components, CRSP value-weighted returns, employment-news controls, timing-versus-level surprises, industry portfolio regressions, and Campbell-Ammer VAR decompositions to study equity-market reactions to monetary policy, showing that stock prices respond strongly to unexpected policy changes and mainly through expected excess-return and dividend-news channels rather than a mechanical real-rate channel."
+
 - title: "Bennett, Sias, and Starks (RFS, 2003) - Greener Pastures and the Impact of Dynamic Institutional Preferences"
   file: "Bennett_Sias_Starks_RFS_2003.pdf"
   desc: "This note summarizes the paper, which uses quarterly 13F institutional ownership from 1983 to 1997, CRSP firm characteristics, standardized institutional-preference regressions, institutional-class decompositions, turnover and firm-specific-risk regressions, valuation tests, and signed herding returns to study dynamic institutional preferences, showing that institutions moved toward smaller and riskier stocks mainly because preferences changed within investor classes, and that institutionalization is linked to higher turnover, firm-specific volatility, and informed trading opportunities in small stocks."
