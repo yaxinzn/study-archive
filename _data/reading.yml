@@ -1,3 +1,7 @@
+- title: "Dickerson, Julliard, and Mueller (JFE, 2026) - The Co-Pricing Factor Zoo"
+  file: "Dickerson_Julliard_Mueller_JFE_2026.pdf"
+  desc: "This note summarizes the paper, which uses corporate bond returns from ICE/BAML, Lehman, and Mergent FISD, stock and bond factor portfolios, nontradable macro-finance factors, 54 candidate factors, 123 in-sample test assets, broad out-of-sample bond and stock portfolios, Bayesian spike-and-slab model averaging, and duration-adjusted bond returns to study joint bond-stock co-pricing, showing that the pricing kernel is dense in factor space and that Bayesian model averaging prices better than sparse factor models, with bond factors mainly pricing the Treasury component of corporate bond returns."
+
 - title: "Maenhout, Xing, and Balter (JF, 2026) - Model Ambiguity versus Model Misspecification in Dynamic Portfolio Choice"
   file: "Maenhout_Xing_Balter_JF_2026.pdf"
   desc: "This note summarizes the paper, which develops a robust dynamic portfolio-choice framework with CRRA preferences, entropy constraints, continuation entropy, structured model ambiguity, unstructured model misspecification, binomial-tree examples, continuous-time Merton models, and mean-reverting Sharpe-ratio extensions to study uncertainty about return dynamics, showing that model misspecification reduces risky investment and consumption more than ambiguity by letting worst-case beliefs distort future return dynamics, generating belief scarring and possible market nonparticipation."
