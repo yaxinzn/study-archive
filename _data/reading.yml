@@ -1,3 +1,7 @@
+- title: "Gompers and Metrick (QJE, 2001) - Institutional Investors and Equity Prices"
+  file: "Gompers_Metrick_QJE_2001.pdf"
+  desc: "This note summarizes the paper, which uses quarterly 13F institutional holdings from 1980 to 1996, CRSP stock characteristics, institutional ownership regressions, manager-type data, institutional inflow measures, return-forecasting regressions, and a demand-shift calibration to study institutional investors and equity prices, showing that the rapid growth of institutions increased demand for large, liquid stocks and can help explain the post-1980 reversal of the small-stock premium through price pressure rather than superior institutional stock-picking."
+
 - title: "Sias (RFS, 2004) - Institutional Herding"
   file: "Sias_RFS_2004.pdf"
   desc: "This note summarizes the paper, which uses quarterly 13F institutional holdings from 1983 to 1997, CRSP returns, standardized fractions of institutional buyers, return-adjusted portfolio-weight changes, lag institutional demand, lag returns, own-trade versus other-institution trade decompositions, and size/time/investor-type splits to study institutional herding, showing that institutions persistently follow both their own trades and other institutions' trades, with evidence more consistent with information-based herding than destabilizing fad-driven trading."
