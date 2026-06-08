@@ -1,3 +1,7 @@
+- title: "Barkai (JF, 2020) - Declining Labor and Capital Shares"
+  file: "Barkai_JF_2020.pdf"
+  desc: "This note summarizes the paper, which uses U.S. nonfinancial corporate-sector data from NIPA and BEA, market-based debt and equity costs of capital, asset-level user-cost calculations, capital-share and pure-profit-share accounting, missing-intangible-capital scenarios, equity-risk-premium robustness, and Economic Census industry concentration regressions to study what replaced the declining labor share, showing that both labor and capital shares fell while pure profits rose sharply, consistent with rising market power rather than simple labor-to-capital substitution."
+
 - title: "Nakamura and Steinsson (QJE, 2018) - High-Frequency Identification of Monetary Non-Neutrality: The Information Effect"
   file: "Nakamura_Steinsson_QJE_2018.pdf"
   desc: "This note summarizes the paper, which uses 30-minute FOMC announcement windows from 2000 to 2014, policy-news shocks, Treasury and TIPS yield responses, breakeven inflation, Blue Chip expected output-growth revisions, stock-price reactions, Rigobon-style robustness checks, and a New Keynesian model with Fed information effects to study monetary non-neutrality, showing that high-frequency monetary surprises are clean announcement shocks but not pure policy shocks because they also reveal Fed information about economic fundamentals."
