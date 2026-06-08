@@ -1,3 +1,7 @@
+- title: "Greenwood and Thesmar (JFE, 2011) - Stock Price Fragility"
+  file: "Greenwood_Thesmar_JFE_2011.pdf"
+  desc: "This note summarizes the paper, which uses Thomson mutual fund holdings from 1989 to 2007, CRSP mutual fund flows, stock returns, ownership weights, flow covariance matrices, stock-level fragility, pairwise co-fragility, fragility betas, volatility regressions, comovement tests, and arbitrage-interaction regressions to study ownership-based nonfundamental risk, showing that stocks held by investors with volatile and correlated liquidity shocks have higher future volatility and comovement, so ownership structure itself creates stock price fragility."
+
 - title: "Nofsinger and Sias (JF, 1999) - Herding and Feedback Trading by Institutional and Individual Investors"
   file: "Nofsinger_Sias_JF_1999.pdf"
   desc: "This note summarizes the paper, which uses NYSE firms from 1977 to 1996, Standard & Poor's institutional ownership data, CRSP abnormal returns, institutional-ownership-change portfolios, momentum controls, post-herding return tests, and TORQ transaction-level evidence to study herding and feedback trading, showing that institutional ownership changes are strongly positively related to contemporaneous returns, do not quickly reverse, and are consistent with both positive-feedback trading and institutional price pressure or informed trading."
