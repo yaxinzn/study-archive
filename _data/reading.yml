@@ -1,3 +1,7 @@
+- title: "Haddad, Huebner, and Loualiche (AER, 2025) - How Competitive Is the Stock Market? Theory, Evidence from Portfolios, and Implications for the Rise of Passive Investing"
+  file: "Haddad_Huebner_Loualiche_AER_2025.pdf"
+  desc: "This note summarizes the paper, which uses 13F institutional holdings from 2001 to 2020, stock-level active and passive ownership, institutional demand systems, aggregate elasticity measures, lagged AUM and investment-universe instruments, strategic-response estimation, and passive-investing counterfactuals to study stock-market competition, showing that active investors respond strongly but incompletely to lower trading aggressiveness by others, so the rise of passive investing made individual-stock demand curves about 11 percent more inelastic."
+
 - title: "Lou (RFS, 2012) - A Flow-Based Explanation for Return Predictability"
   file: "Lou_RFS_2012.pdf"
   desc: "This note summarizes the paper, which uses CDA/Spectrum mutual fund holdings, CRSP mutual fund data, MFLinks, CRSP stock returns, fund flows, flow-induced trading measures, expected stock-level and fund-level flow pressure, portfolio sorts, Fama-MacBeth regressions, and reversal tests to study return predictability from delegated-investment flows, showing that predictable mutual fund flows create temporary price pressure that explains short-run fund performance persistence, the smart-money effect, and part of stock momentum."
