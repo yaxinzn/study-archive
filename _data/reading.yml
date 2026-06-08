@@ -1,3 +1,7 @@
+- title: "Bernard, Redding, and Schott (AER, 2010) - Multiple-Product Firms and Product Switching"
+  file: "Bernard_Redding_Schott_AER_2010.pdf"
+  desc: "This note summarizes the paper, which uses U.S. Census of Manufactures firm-product data from 1987, 1992, and 1997, five-digit SIC product definitions, multiple-product firm measures, product adding and dropping indicators, firm-product shipment shares, product tenure, productivity measures, firm and product fixed effects, and output-decomposition exercises to study product switching inside firms, showing that within-firm product reallocation is frequent, economically large, and systematically related to firm productivity and product-level selection."
+
 - title: "Greenwood and Thesmar (JFE, 2011) - Stock Price Fragility"
   file: "Greenwood_Thesmar_JFE_2011.pdf"
   desc: "This note summarizes the paper, which uses Thomson mutual fund holdings from 1989 to 2007, CRSP mutual fund flows, stock returns, ownership weights, flow covariance matrices, stock-level fragility, pairwise co-fragility, fragility betas, volatility regressions, comovement tests, and arbitrage-interaction regressions to study ownership-based nonfundamental risk, showing that stocks held by investors with volatile and correlated liquidity shocks have higher future volatility and comovement, so ownership structure itself creates stock price fragility."
