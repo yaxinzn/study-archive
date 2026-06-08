@@ -1,3 +1,7 @@
+- title: "Sias (RFS, 2004) - Institutional Herding"
+  file: "Sias_RFS_2004.pdf"
+  desc: "This note summarizes the paper, which uses quarterly 13F institutional holdings from 1983 to 1997, CRSP returns, standardized fractions of institutional buyers, return-adjusted portfolio-weight changes, lag institutional demand, lag returns, own-trade versus other-institution trade decompositions, and size/time/investor-type splits to study institutional herding, showing that institutions persistently follow both their own trades and other institutions' trades, with evidence more consistent with information-based herding than destabilizing fad-driven trading."
+
 - title: "Amihud and Noh (RFS, 2021) - Illiquidity and Stock Returns II: Cross-section and Time-series Effects"
   file: "Amihud_Noh_RFS_2021.pdf"
   desc: "This note summarizes the paper, which uses CRSP NYSE/AMEX common stocks from 1955 to 2016, Amihud ILLIQ, inverse dollar volume, absolute returns, the omitted DIF component, residual ILLIQ, Fama-MacBeth regressions, mispricing and sentiment controls, aggregate market illiquidity shocks, and crisis comparisons to study whether ILLIQ is only inverse volume, showing that ILLIQ contains priced illiquidity information beyond inverse dollar volume in both cross-sectional expected returns and time-series market-return responses."
