@@ -1,3 +1,7 @@
+- title: "Nofsinger and Sias (JF, 1999) - Herding and Feedback Trading by Institutional and Individual Investors"
+  file: "Nofsinger_Sias_JF_1999.pdf"
+  desc: "This note summarizes the paper, which uses NYSE firms from 1977 to 1996, Standard & Poor's institutional ownership data, CRSP abnormal returns, institutional-ownership-change portfolios, momentum controls, post-herding return tests, and TORQ transaction-level evidence to study herding and feedback trading, showing that institutional ownership changes are strongly positively related to contemporaneous returns, do not quickly reverse, and are consistent with both positive-feedback trading and institutional price pressure or informed trading."
+
 - title: "Edelen, Ince, and Kadlec (JFE, 2016) - Institutional Investors and Stock Return Anomalies"
   file: "Edelen_Ince_Kadlec_JFE_2016.pdf"
   desc: "This note summarizes the paper, which uses CRSP, Compustat, Thomson-Reuters 13F holdings, mutual fund holdings, SDC issuance data, seven stock-return anomaly signals, changes in the number of institutional owners, anomaly-leg portfolio sorts, Fama-MacBeth regressions, and mutual-fund-flow controls to study whether institutions exploit anomalies, showing that aggregate institutional demand often increases in anomaly short-leg stocks and that these institutionally bought overvalued stocks subsequently earn especially negative abnormal returns."
