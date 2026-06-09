@@ -1,3 +1,7 @@
+- title: "Peek and Rosengren (AER, 2005) - Unnatural Selection: Perverse Incentives and the Misallocation of Credit in Japan"
+  file: "Peek_Rosengren_AER_2005.pdf"
+  desc: "This note summarizes the paper, which uses Japanese firm-lender-year loan data from 1994 to 1999, firm profitability and working-capital measures, bank capital-ratio pressure, lender exposure, main-bank and keiretsu affiliation variables, random-effects probit models of loan increases, lender-type splits, and subsequent stock-return tests to study credit misallocation in Japan, showing that weak and affiliated banks were especially likely to increase loans to distressed firms, consistent with evergreening and balance-sheet cosmetics rather than efficient credit allocation."
+
 - title: "Banerjee and Duflo (RES, 2014) - Do Firms Want to Borrow More? Testing Credit Constraints Using a Directed Lending Program"
   file: "Banerjee_Duflo_RES_2014.pdf"
   desc: "This note summarizes the paper, which uses loan-folder data from an Indian public-sector bank, priority-sector lending eligibility changes in 1998 and 2000, working-capital credit limits, interest rates, sales, costs, profits, firm-size treatment groups, first-stage credit regressions, reduced-form real-outcome regressions, overidentification tests, and IV estimates to test whether medium-sized firms are credit constrained, showing that policy-induced credit expansions raise production and profits rather than merely substituting for other borrowing, implying very high marginal returns to working-capital credit."
