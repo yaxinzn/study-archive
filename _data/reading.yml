@@ -1,3 +1,7 @@
+- title: "Davis, Haltiwanger, Handley, Jarmin, Lerner, and Miranda (AER, 2014) - Private Equity, Jobs, and Productivity"
+  file: "Davis_Haltiwanger_Handley_Jarmin_Lerner_Miranda_AER_2014.pdf"
+  desc: "This note summarizes the paper, which uses U.S. private equity buyout transactions from Capital IQ, Census Bureau Longitudinal Business Database establishments, manufacturing TFP data from the Census of Manufactures and ASM, matched controls, establishment and firm employment-growth measures, job-flow decompositions, productivity decompositions, and earnings-per-worker tests to study private equity's real effects, showing that buyouts modestly reduce net employment but sharply increase job reallocation and raise manufacturing productivity mainly through establishment selection and reallocation."
+
 - title: "Peek and Rosengren (AER, 2005) - Unnatural Selection: Perverse Incentives and the Misallocation of Credit in Japan"
   file: "Peek_Rosengren_AER_2005.pdf"
   desc: "This note summarizes the paper, which uses Japanese firm-lender-year loan data from 1994 to 1999, firm profitability and working-capital measures, bank capital-ratio pressure, lender exposure, main-bank and keiretsu affiliation variables, random-effects probit models of loan increases, lender-type splits, and subsequent stock-return tests to study credit misallocation in Japan, showing that weak and affiliated banks were especially likely to increase loans to distressed firms, consistent with evergreening and balance-sheet cosmetics rather than efficient credit allocation."
