@@ -1,3 +1,7 @@
+- title: "Ofek (JFE, 1993) - Capital Structure and Firm Response to Poor Performance"
+  file: "Ofek_JFE_1993.pdf"
+  desc: "This note summarizes the paper, which uses 358 public firms from 1983-1987 that move from strong base-year stock performance to bottom-decile distress-year returns, predistress leverage, liquidity, managerial and outside ownership, debt maturity and ownership, operational and financial response indicators, logit regressions, and market-versus-industry distress comparisons to study how capital structure shapes responses to poor performance, showing that higher predistress leverage predicts faster restructuring, layoffs, debt renegotiation, bankruptcy, and dividend cuts, but not immediate management turnover."
+
 - title: "Chen, Harford, and Lin (JFE, 2015) - Do Analysts Matter for Governance? Evidence from Natural Experiments"
   file: "Chen_Harford_Lin_JFE_2015.pdf"
   desc: "This note summarizes the paper, which uses brokerage closures and mergers as natural experiments for exogenous analyst-coverage losses, I/B/E/S analyst data, Compustat/CRSP returns, ExecuComp CEO pay, SDC acquisitions, 13F institutional ownership, marginal-value-of-cash regressions, matched difference-in-differences designs, acquisition CARs, forecast-bias tests, and earnings-management measures to study whether analysts matter for governance, showing that losing analyst coverage lowers the value of cash, raises CEO pay, worsens acquisitions, and increases earnings management, especially when initial coverage and product-market discipline are weak."
