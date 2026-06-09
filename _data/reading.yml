@@ -1,3 +1,7 @@
+- title: "Custodio and Metzger (JFE, 2014) - Financial Expert CEOs: CEO's Work Experience and Firm's Financial Policies"
+  file: "Custodio_Metzger_JFE_2014.pdf"
+  desc: "This note summarizes the paper, which uses ExecuComp CEO panels, BoardEx career histories, Compustat financial policies, CRSP returns, I/B/E/S forecast dispersion, Dealscan loans, CEO financial-expertise classifications, firm fixed effects, investment-cash-flow sensitivity tests, credit-market and tax-shock interactions, retirement-turnover tests, and matching estimators to study whether CEO financial expertise affects corporate policy, showing that financial expert CEOs hold less cash, use more leverage, repurchase more shares, reduce reliance on internal funds, and respond more actively to financial shocks, while also being matched to more mature firms."
+
 - title: "Yu (JFE, 2008) - Analyst Coverage and Earnings Management"
   file: "Yu_JFE_2008.pdf"
   desc: "This note summarizes the paper, which uses I/B/E/S analyst coverage data, Compustat accounting data, discretionary accruals from a modified Jones model, residual analyst coverage, broker-size-based expected coverage instruments, S&P 500 inclusion instruments, coverage-change tests, covered-versus-uncovered comparisons, analyst forecast-target discontinuities, and analyst-quality measures to study whether analysts affect earnings management, showing that greater analyst coverage is associated with less discretionary accrual manipulation and less earnings bunching around forecast targets."
