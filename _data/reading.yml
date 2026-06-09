@@ -1,3 +1,7 @@
+- title: "Murfin and Njoroge (RFS, 2015) - The Implicit Costs of Trade Credit Borrowing by Large Firms"
+  file: "Murfin_Njoroge_RFS_2015.pdf"
+  desc: "This note summarizes the paper, which uses hand-matched buyer-supplier links between large investment-grade retailers and smaller suppliers, buyer payable days, supplier receivable days, supplier capex and SG&A, buyer-supplier fixed effects, Home Depot versus Lowe's payment-policy changes, bank-credit-tightening interactions, CIT distress shocks, and long-run profitability tests to study the implicit costs of trade credit borrowing by large firms, showing that slower buyer payment shifts financing burdens to constrained suppliers, causing them to cut investment and later experience weaker profitability."
+
 - title: "Garcia-Appendini and Montoriol-Garriga (JFE, 2013) - Firms as Liquidity Providers: Evidence from the 2007-2008 Financial Crisis"
   file: "GarciaAppendini_MontoriolGarriga_JFE_2013.pdf"
   desc: "This note summarizes the paper, which uses Compustat quarterly data, matched supplier-customer relationships from customer segment disclosures, precrisis cash and credit-line liquidity, accounts receivable, accounts payable, financial-constraint measures, external-finance-dependence splits, client-quarter fixed effects, 2007-2008 crisis interactions, and 9/11 placebo tests to study whether firms provide liquidity through trade credit during credit contractions, showing that liquid suppliers increased trade credit during the early financial crisis, especially to constrained clients."
