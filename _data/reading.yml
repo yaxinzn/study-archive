@@ -1,3 +1,7 @@
+- title: "Sloan (TAR, 1996) - Do Stock Prices Fully Reflect Information in Accruals and Cash Flows About Future Earnings?"
+  file: "Sloan_TAR_1996.pdf"
+  desc: "This note summarizes the paper, which uses Compustat-CRSP firm-year data from 1962-1991, earnings decomposed into accrual and cash-flow components, accrual decile portfolios, earnings-persistence regressions, Mishkin market-efficiency tests, abnormal-return tests, Fama-MacBeth regressions, and earnings-announcement-window returns to study whether stock prices fully reflect the future-earnings information in accruals and cash flows, showing that accrual-based earnings are less persistent than cash-flow earnings but investors overprice accrual persistence, generating the classic accrual anomaly."
+
 - title: "Hoberg, Phillips, and Prabhala (JF, 2014) - Product Market Threats, Payouts, and Financial Flexibility"
   file: "Hoberg_Phillips_Prabhala_JF_2014.pdf"
   desc: "This note summarizes the paper, which uses annual 10-K product descriptions, text-based product-market fluidity, rival product-change vectors, TNIC competition measures, Compustat-CRSP firm-year data, dividend and repurchase outcomes, cash holdings, logit and OLS payout regressions, IPO/VC validation tests, propensity-matched comparisons, and financing-access heterogeneity to study whether product-market threats shape financial flexibility, showing that firms facing more fluid rival product markets pay fewer dividends, repurchase less, and hold more cash, especially when external financing access is limited."
