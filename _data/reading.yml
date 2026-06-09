@@ -1,3 +1,7 @@
+- title: "Olken and Barron (JPE, 2009) - The Simple Economics of Extortion: Evidence from Trucking in Aceh"
+  file: "Olken_Barron_JPE_2009.pdf"
+  desc: "This note summarizes the paper, which uses directly observed trucking bribe payments in Aceh, checkpoint counts, troop-withdrawal variation, route-level and district-level regressions, bargaining variables, sequential holdup tests, truck and cargo characteristics, and weigh-station coupon contracts to study corruption pricing, showing that corrupt officials set bribes in ways consistent with market structure, bargaining power, route position, price discrimination, and nonlinear pricing."
+
 - title: "Begley and Purnanandam (JFE, 2021) - Color and Credit: Race, Regulation, and the Quality of Financial Services"
   file: "Begley_Purnanandam_JFE_2021.pdf"
   desc: "This note summarizes the paper, which uses CFPB mortgage complaint data, zip-code income, education, minority-share, mortgage-volume and CRA target-status measures, propensity-score matching within MSAs, complaint-ratio and complaint-resolution robustness checks, bank enforcement-fine evidence, and two-stage lending-quantity regressions to study consumer financial-service quality, showing that CRA-targeted credit expansion is associated with more complaints, especially in high-minority areas, consistent with a quantity-quality trade-off in access-oriented financial regulation."
