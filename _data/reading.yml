@@ -1,3 +1,7 @@
+- title: "Villalonga (JF, 2004) - Diversification Discount or Premium? New Evidence from the Business Information Tracking Series"
+  file: "Villalonga_JF_2004.pdf"
+  desc: "This note summarizes the paper, which uses the Census Business Information Tracking Series, COMPUSTAT segment data, a BITS-COMPUSTAT common sample, establishment-level business-unit definitions, Tobin's q, imputed industry q, excess-value measures, diversification dummies, entropy and Herfindahl measures, industry-q validation tests, and robustness regressions to study whether the diversification discount is a real valuation effect or a segment-data artifact, showing that COMPUSTAT segments reproduce the conventional discount while BITS business-unit data imply a diversification premium."
+
 - title: "Murfin and Njoroge (RFS, 2015) - The Implicit Costs of Trade Credit Borrowing by Large Firms"
   file: "Murfin_Njoroge_RFS_2015.pdf"
   desc: "This note summarizes the paper, which uses hand-matched buyer-supplier links between large investment-grade retailers and smaller suppliers, buyer payable days, supplier receivable days, supplier capex and SG&A, buyer-supplier fixed effects, Home Depot versus Lowe's payment-policy changes, bank-credit-tightening interactions, CIT distress shocks, and long-run profitability tests to study the implicit costs of trade credit borrowing by large firms, showing that slower buyer payment shifts financing burdens to constrained suppliers, causing them to cut investment and later experience weaker profitability."
