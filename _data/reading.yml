@@ -1,3 +1,7 @@
+- title: "Ben-Rephael, Kandel, and Wohl (JFE, 2012) - Measuring Investor Sentiment with Mutual Fund Flows"
+  file: "BenRephael_Kandel_Wohl_JFE_2012.pdf"
+  desc: "This note summarizes the paper, which uses ICI monthly mutual-fund flow data from 1984-2008, normalized net exchanges into equity funds, CRSP excess market returns, VIX and sentiment controls, VAR impulse responses, predictive return regressions, trading-strategy tests, and size/value-growth portfolio splits to study whether mutual fund reallocations measure aggregate investor sentiment, showing that exchanges from bond-like funds into equity funds create temporary price pressure that raises contemporaneous market returns but largely reverses within several months, especially for small and growth stocks."
+
 - title: "Manconi, Massa, and Yasuda (JFE, 2012) - The Role of Institutional Investors in Propagating the Crisis of 2007-2008"
   file: "Manconi_Massa_Yasuda_JF_2012.pdf"
   desc: "This note summarizes the paper, which uses Lipper eMAXX institutional bond holdings, CRSP mutual fund data, Mergent FISD bond characteristics, TRACE trading data, mutual-fund flows, securitized-bond exposure, issuer fixed effects, yield-spread changes, selling-pressure measures, trading-volume tests, and insurance-company comparisons to study whether institutional investors propagated the 2007-2008 crisis across asset classes, showing that mutual funds exposed to illiquid securitized bonds sold corporate bonds instead, causing larger spread increases and trading pressure especially among lower-rated bonds."
