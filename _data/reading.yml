@@ -1,3 +1,7 @@
+- title: "Maksimovic and Phillips (JF, 1998) - Asset Efficiency and Reallocation Decisions of Bankrupt Firms"
+  file: "Maksimovic_Phillips_JF_1998.pdf"
+  desc: "This note summarizes the paper, which uses 302 Chapter 11 manufacturing firms matched to Census LRD plant data, plant-level TFP and operating cash flow, industry shipment-growth quartiles, plant sales and closures, composition-corrected productivity tracking, logit sale and closure regressions, and Chapter 7 transfer outcomes to study real bankruptcy costs and asset reallocation, showing that industry conditions and plant productivity explain most reallocation decisions, with limited evidence that Chapter 11 itself destroys efficiency."
+
 - title: "Ofek (JFE, 1993) - Capital Structure and Firm Response to Poor Performance"
   file: "Ofek_JFE_1993.pdf"
   desc: "This note summarizes the paper, which uses 358 public firms from 1983-1987 that move from strong base-year stock performance to bottom-decile distress-year returns, predistress leverage, liquidity, managerial and outside ownership, debt maturity and ownership, operational and financial response indicators, logit regressions, and market-versus-industry distress comparisons to study how capital structure shapes responses to poor performance, showing that higher predistress leverage predicts faster restructuring, layoffs, debt renegotiation, bankruptcy, and dividend cuts, but not immediate management turnover."
