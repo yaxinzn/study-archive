@@ -1,3 +1,7 @@
+- title: "Huang, Mayer, and Miller (RFS, 2024) - Gender Bias in Promotions: Evidence from Financial Institutions"
+  file: "Huang_Mayer_Miller_RFS_2024.pdf"
+  desc: "This note summarizes the paper, which uses NMLS mortgage-worker licensing records, CoreLogic loan-level production data, Zillow foreclosure outcomes, inferred gender and race measures, promotion indicators, manager value-added estimates, leave-out firm-year promotion-rate instruments, marginal outcome tests, in-group manager-gender tests, and firm-level performance regressions to study gender bias in financial promotions, showing that women face lower promotion rates and marginally promoted female managers outperform marginally promoted male managers, consistent with a higher promotion bar for women."
+
 - title: "Yagan (AER, 2015) - Capital Tax Reform and the Real Economy: The Effects of the 2003 Dividend Tax Cut"
   file: "Yagan_AER_2015.pdf"
   desc: "This note summarizes the paper, which uses IRS corporate tax-return data from 1998 to 2008, private C- and S-corporation comparisons, the 2003 dividend tax cut, investment, net investment, employee compensation, payouts, industry-size reweighting, difference-in-differences regressions, event-study payout tests, and heterogeneity checks to study whether dividend tax cuts stimulate real activity, showing that the tax cut sharply increased payouts but produced no detectable increase in investment or employee compensation."
