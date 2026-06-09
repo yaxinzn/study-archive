@@ -1,3 +1,7 @@
+- title: "Schoar (JF, 2002) - Effects of Corporate Diversification on Productivity"
+  file: "Schoar_JF_2002.pdf"
+  desc: "This note summarizes the paper, which uses Census LRD plant-level manufacturing data, Compustat public-firm links, plant-level TFP estimates, diversification measures, plant fixed effects, acquired-plant and incumbent-plant event studies, overhead-cost checks, excess-value regressions, and wage regressions to study corporate diversification and productivity, showing that diversified firms own more productive plants in levels, but diversifying moves reduce incumbent-plant productivity and can dissipate surplus through attention costs and higher worker compensation."
+
 - title: "Chetty, Friedman, Olsen, and Pistaferri (QJE, 2011) - Adjustment Costs, Firm Responses, and Micro vs. Macro Labor Supply Elasticities: Evidence from Danish Tax Records"
   file: "Chetty_Friedman_Olsen_Pistaferri_QJE_2011.pdf"
   desc: "This note summarizes the paper, which uses Danish administrative tax records from 1994 to 2001, taxable income, wage earnings, deductions, pension contributions, large and small tax kinks, bunching estimators, small tax-reform regressions, occupation-level wage modes, teacher wage distributions, pension-kink tests, and self-employed placebo evidence to study labor-supply elasticities, showing that observed elasticities depend on adjustment costs, tax-change size, policy scope, and firm or union responses, so small micro reforms can understate broad steady-state responses."
