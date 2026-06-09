@@ -1,3 +1,7 @@
+- title: "Donangelo (JF, 2014) - Labor Mobility: Implications for Asset Pricing"
+  file: "Donangelo_JF_2014.pdf"
+  desc: "This note summarizes the paper, which uses BLS occupation-by-industry employment dispersion, industry-level labor mobility measures, CRSP and Compustat stock returns and firm characteristics, BLS/KLEMS wage and employment data, industry productivity-shock regressions, labor-mobility portfolio sorts, panel return regressions, implied cost-of-capital tests, and CAPM beta tests to study labor-market risk in asset pricing, showing that firms in high-mobility labor industries have more procyclical cash flows and earn higher expected returns because mobile workers shift more risk onto shareholders."
+
 - title: "Aghion, Burgess, Redding, and Zilibotti (AER, 2008) - The Unequal Effects of Liberalization: Evidence from Dismantling the License Raj in India"
   file: "Aghion_Burgess_Redding_Zilibotti_AER_2008.pdf"
   desc: "This note summarizes the paper, which uses Indian Annual Survey of Industries state-industry panels from 1980 to 1997, industry-level delicensing dates, state labor-regulation indices, trade and FDI reform controls, state-industry fixed effects, state-year fixed effects, industry-year fixed effects, and labor-regulation interaction designs to study the dismantling of the License Raj, showing that product-market liberalization raised manufacturing output mainly in pro-employer states, implying strong complementarity between product-market reform and labor-market flexibility."
