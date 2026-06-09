@@ -1,3 +1,7 @@
+- title: "Pulvino (JF, 1998) - Do Asset Fire Sales Exist? An Empirical Investigation of Commercial Aircraft Transactions"
+  file: "Pulvino_JF_1998.pdf"
+  desc: "This note summarizes the paper, which uses used narrow-body commercial aircraft transaction prices from 1978-1991, airline leverage and liquidity, spare debt capacity measures, hedonic aircraft price residuals, market-price-index states, buyer identity, financial-institution sale probits, used-aircraft purchase models, and sale/leaseback robustness tests to study asset fire sales, showing that financially constrained airlines sell aircraft at large discounts during depressed markets while financially flexible airlines buy more when prices are low."
+
 - title: "Maksimovic and Phillips (JF, 1998) - Asset Efficiency and Reallocation Decisions of Bankrupt Firms"
   file: "Maksimovic_Phillips_JF_1998.pdf"
   desc: "This note summarizes the paper, which uses 302 Chapter 11 manufacturing firms matched to Census LRD plant data, plant-level TFP and operating cash flow, industry shipment-growth quartiles, plant sales and closures, composition-corrected productivity tracking, logit sale and closure regressions, and Chapter 7 transfer outcomes to study real bankruptcy costs and asset reallocation, showing that industry conditions and plant productivity explain most reallocation decisions, with limited evidence that Chapter 11 itself destroys efficiency."
