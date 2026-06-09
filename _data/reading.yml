@@ -1,3 +1,7 @@
+- title: "Campa and Kedia (JF, 2002) - Explaining the Diversification Discount"
+  file: "Campa_Kedia_JF_2002.pdf"
+  desc: "This note summarizes the paper, which uses Compustat segment data from 1978 to 1996, excess value based on imputed stand-alone industry multiples, diversification and refocusing profiles, firm fixed effects, probit-predicted diversification instruments, Heckman self-selection corrections, industry exit and entry measures, and refocusing regressions to study the diversification discount, showing that much of the observed discount reflects endogenous selection into diversification or refocusing rather than a clean causal effect of diversification destroying value."
+
 - title: "Bates, Kahle, and Stulz (JF, 2009) - Why Do U.S. Firms Hold So Much More Cash than They Used To?"
   file: "Bates_Kahle_Stulz_JF_2009.pdf"
   desc: "This note summarizes the paper, which uses U.S. Compustat industrial firms from 1980 to 2006, cash-to-assets, gross and net leverage, firm size, cash-flow volatility, working capital, R&D, capital expenditures, dividend status, IPO cohorts, cash-demand regressions, out-of-sample prediction, decomposition tests, and governance/value-of-cash checks to study why firms hold more cash, showing that rising cash mainly reflects precautionary demand from riskier, more intangible, lower-working-capital firms rather than agency-driven hoarding."
