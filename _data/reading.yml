@@ -1,3 +1,7 @@
+- title: "Yu (JFE, 2008) - Analyst Coverage and Earnings Management"
+  file: "Yu_JFE_2008.pdf"
+  desc: "This note summarizes the paper, which uses I/B/E/S analyst coverage data, Compustat accounting data, discretionary accruals from a modified Jones model, residual analyst coverage, broker-size-based expected coverage instruments, S&P 500 inclusion instruments, coverage-change tests, covered-versus-uncovered comparisons, analyst forecast-target discontinuities, and analyst-quality measures to study whether analysts affect earnings management, showing that greater analyst coverage is associated with less discretionary accrual manipulation and less earnings bunching around forecast targets."
+
 - title: "Giroud and Rauh (JPE, 2019) - State Taxation and the Reallocation of Business Activity: Evidence from Establishment-Level Data"
   file: "Giroud_Rauh_JPE_2019.pdf"
   desc: "This note summarizes the paper, which uses Census LBD, ASM, and CMF establishment-level data for large multistate firms from 1977-2011, legal-form distinctions between C corporations and pass-through entities, state corporate and personal income tax rates, firm-state and establishment fixed effects, tax-code placebo interactions, other-state tax measures, large-tax-change event studies, and employment, establishment, and capital outcomes to study state taxation and business reallocation, showing that firms reduce activity in states that raise the relevant tax rate and reallocate roughly half of the response to other states."
