@@ -1,3 +1,7 @@
+- title: "Iliev (JF, 2010) - The Effect of SOX Section 404: Costs, Earnings Quality, and Stock Prices"
+  file: "Iliev_JF_2010.pdf"
+  desc: "This note summarizes the paper, which uses SOX Section 404 implementation rules, U.S. public-float cutoffs around $75 million, hand-collected compliance status, audit fees, accruals, discretionary accruals, stock-return event studies, foreign-firm auditor-attestation cutoffs, regression-discontinuity tests, and IV estimates using pre-rule 2002 public float to study the costs and benefits of internal-control regulation, showing that Section 404 increased audit fees and improved reporting quality but reduced small-firm market value on net."
+
 - title: "Fresard (JF, 2010) - Financial Strength and Product Market Behavior: The Real Effects of Corporate Cash Holdings"
   file: "Fresard_JF_2010.pdf"
   desc: "This note summarizes the paper, which uses Compustat manufacturing firms from 1973 to 2006, industry-adjusted sales growth, within-industry relative cash holdings, asset-tangibility and lagged-cash instruments, tariff-cut competition shocks, debt-capacity splits, rival financial-constraint heterogeneity, product-market interaction measures, and valuation and ROA regressions to study the real effects of corporate cash, showing that firms with more cash than rivals gain future market share, especially when competition intensifies and rivals are financially weak."
