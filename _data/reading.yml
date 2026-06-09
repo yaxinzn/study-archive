@@ -1,3 +1,7 @@
+- title: "Benmelech and Bergman (JF, 2011) - Bankruptcy and the Collateral Channel"
+  file: "Benmelech_Bergman_JF_2011.pdf"
+  desc: "This note summarizes the paper, which uses U.S. airline secured debt tranches, aircraft-collateral pools, EETC and ETC prospectus data, Mergent FISD transaction spreads, airline bankruptcy dates, aircraft-model overlap with bankrupt operators, bankrupt-buyer and bankrupt-aircraft measures, redeployability controls, tranche seniority, LTV, and fixed-effect spread regressions to study bankruptcy externalities, showing that bankrupt firms raise solvent competitors' secured borrowing costs by reducing the value and redeployability of shared collateral."
+
 - title: "Hadlock and Pierce (RFS, 2010) - New Evidence on Measuring Financial Constraints: Moving Beyond the KZ Index"
   file: "Hadlock_Pierce_RFS_2010.pdf"
   desc: "This note summarizes the paper, which uses hand-coded qualitative financial-constraint disclosures from annual reports and 10-K filings for a random Compustat sample from 1995 to 2004, ordered logit models, KZ and WW index components, bond and commercial-paper rating proxies, size and age variables, cash-flow sensitivity of cash, and investment-cash-flow sensitivity tests to study financial-constraint measurement, showing that the KZ index performs poorly and that a simple size-age index better captures stable cross-sectional variation in constraints."
