@@ -1,3 +1,7 @@
+- title: "Lang, Ofek, and Stulz (JFE, 1996) - Leverage, Investment, and Firm Growth"
+  file: "Lang_Ofek_Stulz_JFE_1996.pdf"
+  desc: "This note summarizes the paper, which uses Compustat industrial firms from 1970 to 1989, book leverage, Tobin's q, cash flow gross of interest, investment, employment growth, capital-expenditure growth, segment-level Compustat data, industry-adjusted regressions, debt-service tests, and low-q versus high-q splits to study whether leverage affects real corporate growth, showing that leverage predicts lower future growth mainly among low-q firms, consistent with debt overhang, liquidity constraints, or disciplinary debt."
+
 - title: "Olken and Barron (JPE, 2009) - The Simple Economics of Extortion: Evidence from Trucking in Aceh"
   file: "Olken_Barron_JPE_2009.pdf"
   desc: "This note summarizes the paper, which uses directly observed trucking bribe payments in Aceh, checkpoint counts, troop-withdrawal variation, route-level and district-level regressions, bargaining variables, sequential holdup tests, truck and cargo characteristics, and weigh-station coupon contracts to study corruption pricing, showing that corrupt officials set bribes in ways consistent with market structure, bargaining power, route position, price discrimination, and nonlinear pricing."
