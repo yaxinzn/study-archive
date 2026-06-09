@@ -1,3 +1,7 @@
+- title: "Hadlock and Pierce (RFS, 2010) - New Evidence on Measuring Financial Constraints: Moving Beyond the KZ Index"
+  file: "Hadlock_Pierce_RFS_2010.pdf"
+  desc: "This note summarizes the paper, which uses hand-coded qualitative financial-constraint disclosures from annual reports and 10-K filings for a random Compustat sample from 1995 to 2004, ordered logit models, KZ and WW index components, bond and commercial-paper rating proxies, size and age variables, cash-flow sensitivity of cash, and investment-cash-flow sensitivity tests to study financial-constraint measurement, showing that the KZ index performs poorly and that a simple size-age index better captures stable cross-sectional variation in constraints."
+
 - title: "Denis and Sibilkov (RFS, 2010) - Financial Constraints, Investment, and the Value of Cash Holdings"
   file: "Denis_Sibilkov_RFS_2010.pdf"
   desc: "This note summarizes the paper, which uses U.S. Compustat firms from 1985 to 2006, cash holdings, financial-constraint classifications based on payout, size, bond ratings, and commercial-paper ratings, net investment, excess stock returns, hedging-needs measures, 3SLS cash-investment systems, and low-cash constrained-firm comparisons to study the value of cash, showing that cash is especially valuable for constrained firms because it supports value-increasing investment when external finance is costly and cash flows are poorly matched with investment opportunities."
