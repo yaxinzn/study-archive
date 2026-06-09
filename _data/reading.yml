@@ -1,3 +1,7 @@
+- title: "Roberts (AJPS, 1990) - Political Institutions, Policy Expectations, and the 1980 Election: A Financial Market Perspective"
+  file: "Roberts_AJPS_1990.pdf"
+  desc: "This note summarizes the paper, which uses a defense-industry stock portfolio weighted by Department of Defense sales exposure, CRSP daily returns, Ladbrokes betting-implied Reagan victory probabilities, a post-election Republican Senate-control indicator, market-model regressions, and cross-sectional validation by defense-sales intensity to study policy expectations around the 1980 election, showing that markets valued both a Reagan presidency and Republican Senate control as positive shocks to defense-related firms, with Senate control carrying a large marginal policy value."
+
 - title: "Benmelech and Bergman (JF, 2011) - Bankruptcy and the Collateral Channel"
   file: "Benmelech_Bergman_JF_2011.pdf"
   desc: "This note summarizes the paper, which uses U.S. airline secured debt tranches, aircraft-collateral pools, EETC and ETC prospectus data, Mergent FISD transaction spreads, airline bankruptcy dates, aircraft-model overlap with bankrupt operators, bankrupt-buyer and bankrupt-aircraft measures, redeployability controls, tranche seniority, LTV, and fixed-effect spread regressions to study bankruptcy externalities, showing that bankrupt firms raise solvent competitors' secured borrowing costs by reducing the value and redeployability of shared collateral."
