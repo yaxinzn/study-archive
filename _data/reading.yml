@@ -1,3 +1,7 @@
+- title: "Klapper, Laeven, and Rajan (RFS, 2012) - Trade Credit Contracts"
+  file: "Klapper_Laeven_Rajan_RFS_2012.pdf"
+  desc: "This note summarizes the paper, which uses PrimeRevenue bilateral trade-credit contract data, buyer and supplier size and creditworthiness, net days, discount dummies, discount rates, implied effective interest rates, buyer and supplier fixed effects, interaction regressions, and variance decompositions to study what determines trade credit contract terms, showing that large and creditworthy buyers receive longer maturities while early-payment discounts are directed more toward smaller and riskier buyers, consistent with buyer power, warranty motives, and supplier risk management rather than a simple financing story."
+
 - title: "Villalonga (JF, 2004) - Diversification Discount or Premium? New Evidence from the Business Information Tracking Series"
   file: "Villalonga_JF_2004.pdf"
   desc: "This note summarizes the paper, which uses the Census Business Information Tracking Series, COMPUSTAT segment data, a BITS-COMPUSTAT common sample, establishment-level business-unit definitions, Tobin's q, imputed industry q, excess-value measures, diversification dummies, entropy and Herfindahl measures, industry-q validation tests, and robustness regressions to study whether the diversification discount is a real valuation effect or a segment-data artifact, showing that COMPUSTAT segments reproduce the conventional discount while BITS business-unit data imply a diversification premium."
