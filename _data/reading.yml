@@ -1,3 +1,7 @@
+- title: "Bates, Kahle, and Stulz (JF, 2009) - Why Do U.S. Firms Hold So Much More Cash than They Used To?"
+  file: "Bates_Kahle_Stulz_JF_2009.pdf"
+  desc: "This note summarizes the paper, which uses U.S. Compustat industrial firms from 1980 to 2006, cash-to-assets, gross and net leverage, firm size, cash-flow volatility, working capital, R&D, capital expenditures, dividend status, IPO cohorts, cash-demand regressions, out-of-sample prediction, decomposition tests, and governance/value-of-cash checks to study why firms hold more cash, showing that rising cash mainly reflects precautionary demand from riskier, more intangible, lower-working-capital firms rather than agency-driven hoarding."
+
 - title: "Lang, Ofek, and Stulz (JFE, 1996) - Leverage, Investment, and Firm Growth"
   file: "Lang_Ofek_Stulz_JFE_1996.pdf"
   desc: "This note summarizes the paper, which uses Compustat industrial firms from 1970 to 1989, book leverage, Tobin's q, cash flow gross of interest, investment, employment growth, capital-expenditure growth, segment-level Compustat data, industry-adjusted regressions, debt-service tests, and low-q versus high-q splits to study whether leverage affects real corporate growth, showing that leverage predicts lower future growth mainly among low-q firms, consistent with debt overhang, liquidity constraints, or disciplinary debt."
