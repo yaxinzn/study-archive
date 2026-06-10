@@ -1,3 +1,7 @@
+- title: "Ellul, Jotikasthira, and Lundblad (JFE, 2011) - Regulatory Pressure and Fire Sales in the Corporate Bond Market"
+  file: "Ellul_Jotikasthira_Lundblad_JFE_2011.pdf"
+  desc: "This note summarizes the paper, which uses NAIC insurer transactions and holdings, FISD bond characteristics, insurer risk-based capital ratios, fallen-angel downgrades from 2001-2005, predicted selling probabilities, median cumulative abnormal bond returns, price-reversal regressions, and outside buyer-capital measures to study regulatory fire sales, showing that constrained insurers sell downgraded bonds and generate temporary price discounts that reverse when slow-moving capital arrives."
+
 - title: "Borusyak, Hull, and Jaravel (RES, 2022) - Quasi-Experimental Shift-Share Research Designs"
   file: "Borusyak_Hull_Jaravel_RES_2022.pdf"
   desc: "This note summarizes the paper, which develops a quasi-experimental framework for shift-share IV designs using exposure shares, shocks, equivalent shock-level regressions, effective shock sample-size diagnostics, shock-balance tests, exposure-robust inference, and an Autor-Dorn-Hanson China-shock application to study how Bartik-style instruments can be justified, showing that identification can come from quasi-random shocks even when shares are endogenous."
