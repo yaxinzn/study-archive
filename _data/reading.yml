@@ -1,3 +1,7 @@
+- title: "Almazan, Brown, Carlson, and Chapman (JFE, 2004) - Why Constrain Your Mutual Fund Manager?"
+  file: "Almazan_Brown_Carlson_Chapman_JFE_2004.pdf"
+  desc: "This note summarizes the paper, which uses U.S. domestic equity mutual fund data from 1994-2000, Form N-SAR investment restrictions, six constraint categories, an aggregate constraint score, board independence, team management, manager experience, fund-family size, load-fee structure, pooled regressions, individual constraint probits, and Fama-French performance tests to study why mutual fund managers are constrained, showing that constraints are systematic governance tools rather than performance-destroying limits on skill."
+
 - title: "Parrino, Sias, and Starks (JFE, 2003) - Voting with Their Feet: Institutional Ownership Changes around Forced CEO Turnover"
   file: "Parrino_Sias_Starks_JFE_2003.pdf"
   desc: "This note summarizes the paper, which uses large NYSE CEO turnover events from 1982-1993, forced-versus-voluntary turnover classifications, matched poor-performing control firms, CDA/Spectrum 13F institutional ownership, abnormal ownership-change measures, institutional-type splits, dividend-cut and volatility tests, governance controls, and multinomial logit board-response models to study institutional exit around CEO turnover, showing that institutions sell before forced CEO turnover and that this exit is associated with CEO firing and outside succession decisions."
