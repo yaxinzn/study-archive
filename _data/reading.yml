@@ -1,3 +1,7 @@
+- title: "Kroszner and Strahan (QJE, 1999) - What Drives Deregulation? Economics and Politics of the Relaxation of Bank Branching Restrictions"
+  file: "Kroszner_Strahan_QJE_1999.pdf"
+  desc: "This note summarizes the paper, which uses state-level bank branching deregulation timing from 1970-1992, small-bank asset shares, small-bank capital strength, insurance-sector size, bank insurance powers, small-firm shares, political controls, Weibull hazard models, robustness checks, and House roll-call votes on interstate branching to study deregulation, showing that branching reform occurred when protected small-bank and insurance interests weakened and pro-deregulation borrower interests became stronger."
+
 - title: "Snyder (JPE, 1990) - Campaign Contributions as Investments: The U.S. House of Representatives, 1980-1986"
   file: "Snyder_JPE_1990.pdf"
   desc: "This note summarizes the paper, which uses open-seat U.S. House races from 1980-1986, FEC campaign contribution data, investor PAC categories, ideological and individual contribution splits, Democratic contribution shares, election outcomes, party-strength and coattail controls, corrected linear probability tests, and total-contribution regressions to study campaign contributions as investments, showing that economic-interest PAC contribution shares behave like market-implied win probabilities, unlike ideological or total contributions."
