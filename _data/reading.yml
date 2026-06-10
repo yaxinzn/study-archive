@@ -1,3 +1,7 @@
+- title: "Puckett and Yan (JF, 2011) - The Interim Trading Skills of Institutional Investors"
+  file: "Puckett_Yan_JF_2011.pdf"
+  desc: "This note summarizes the paper, which uses proprietary ANcerno institutional transaction-level data from 1999-2005, actual execution dates and prices, intraquarter round-trip trades, DGTW-adjusted buy-minus-sell interim performance, equal- and principal-weighted trade returns, persistence quintile sorts, implied quarterly-trade reconstructions, stock-characteristic splits, and implicit trading-cost tests to study institutional trading skill, showing that institutions have persistent short-horizon trading skill that is visible in trade-level data but largely missed by quarterly holdings data."
+
 - title: "Petersen and Rajan (RFS, 1997) - Trade Credit: Theories and Evidence"
   file: "Petersen_Rajan_RFS_1997.pdf"
   desc: "This note summarizes the paper, which uses National Survey of Small Business Finances data, Compustat large-firm comparisons, accounts receivable, accounts payable, purchases made on account, bank credit availability, loan denials, profitability, sales growth, gross margins, inventory composition, and supply-versus-demand regressions to study trade credit, showing that firms with better access to finance extend more credit while firms with weaker access to institutional finance rely more on supplier credit."
