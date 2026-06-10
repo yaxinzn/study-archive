@@ -1,3 +1,7 @@
+- title: "Greenstone (JPE, 2002) - The Impacts of Environmental Regulations on Industrial Activity"
+  file: "Greenstone_JPE_2002.pdf"
+  desc: "This note summarizes the paper, which uses Census of Manufactures plant data, pollutant-specific county nonattainment designations, industry pollutant-emission classifications, plant fixed effects, county-by-period and industry-by-period controls, employment, capital, and shipment growth outcomes, and aggregate magnitude calculations to study the production-side costs of the Clean Air Act, showing that regulated plants in nonattainment counties experienced slower growth in employment, capital, and output."
+
 - title: "Becker and Henderson (JPE, 2000) - Effects of Air Quality Regulations on Polluting Industries"
   file: "Becker_Henderson_JPE_2000.pdf"
   desc: "This note summarizes the paper, which uses Census LRD plant-level data from 1963-1992, county ozone nonattainment status, VOC- and NOx-intensive industries, conditional Poisson birth models, corporate versus nonaffiliate plant distinctions, survival models, plant-size regressions, and grandfathering tests to study polluting-industry responses to regulation, showing that nonattainment reduces births of polluting plants, shifts activity toward cleaner counties and smaller firms, prolongs older plants, and changes investment timing."
