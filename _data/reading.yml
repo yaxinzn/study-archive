@@ -1,3 +1,7 @@
+- title: "Hutton, Marcus, and Tehranian (JFE, 2009) - Opaque Financial Reports, R2, and Crash Risk"
+  file: "Hutton_Marcus_Tehranian_JFE_2009.pdf"
+  desc: "This note summarizes the paper, which uses CRSP weekly returns, Compustat accounting data from 1991-2005, discretionary-accrual-based opacity measures, market-and-industry return-model R2, idiosyncratic return variation, crash and positive-jump indicators, restatement validation, logit crash-risk regressions, and SOX interaction tests to study opaque reporting and tail risk, showing that opaque firms have more synchronous returns and higher firm-specific crash risk but not higher positive-jump risk."
+
 - title: "Cooper, Gulen, and Ovtchinnikov (JF, 2010) - Corporate Political Contributions and Stock Returns"
   file: "Cooper_Gulen_Ovtchinnikov_JF_2010.pdf"
   desc: "This note summarizes the paper, which uses FEC corporate PAC contribution data from 1979-2004, CRSP and Compustat returns and accounting data, rolling five-year political indexes based on supported candidates, relationship strength, home-state ability, committee power, selection corrections, annual abnormal-return regressions, political-index-weighted portfolios, party and chamber decompositions, and future ROE tests to study whether corporate political contributions predict firm performance, showing that firms supporting more political candidates earn higher future abnormal returns and later profitability improvements."
