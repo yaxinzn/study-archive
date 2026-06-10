@@ -1,3 +1,7 @@
+- title: "Snyder (JPE, 1990) - Campaign Contributions as Investments: The U.S. House of Representatives, 1980-1986"
+  file: "Snyder_JPE_1990.pdf"
+  desc: "This note summarizes the paper, which uses open-seat U.S. House races from 1980-1986, FEC campaign contribution data, investor PAC categories, ideological and individual contribution splits, Democratic contribution shares, election outcomes, party-strength and coattail controls, corrected linear probability tests, and total-contribution regressions to study campaign contributions as investments, showing that economic-interest PAC contribution shares behave like market-implied win probabilities, unlike ideological or total contributions."
+
 - title: "Kroszner and Stratmann (AER, 1998) - Interest-Group Competition and the Organization of Congress: Theory and Evidence from Financial Services' Political Action Committees"
   file: "Kroszner_Stratmann_AER_1998.pdf"
   desc: "This note summarizes the paper, which uses FEC financial-services PAC contributions to U.S. House members from 1983-1992, House Banking Committee membership, rival bank/securities/insurance PAC groups, constituency and ideology controls, two-stage contribution regressions, PAC-source concentration measures, committee seniority, and committee-switching models to study congressional organization, showing that standing committees help sustain repeated reputational relationships between legislators and competing interest groups."
