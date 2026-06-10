@@ -1,3 +1,7 @@
+- title: "Ng, Smith, and Smith (JF, 1999) - Evidence on the Determinants of Credit Terms Used in Interfirm Trade"
+  file: "Ng_Smith_Smith_JF_1999.pdf"
+  desc: "This note summarizes the paper, which uses an original survey of 950 credit managers, cash/net/two-part payment-term classifications, industry credit-term maps, customer-type variables, product-quality and product-turnover measures, logit models of credit-policy choice, and two-part-term regressions to study interfirm credit terms, showing that trade-credit contracts mainly reflect information, buyer reputation, seller reputation, and relationship problems rather than seller liquidity or demand-smoothing motives."
+
 - title: "Dixit (JPE, 1989) - Entry and Exit Decisions under Uncertainty"
   file: "Dixit_JPE_1989.pdf"
   desc: "This note summarizes the paper, which develops a real-options model of entry and exit with geometric Brownian prices, sunk entry costs, exit costs or resale values, idle and active value functions, value matching, smooth pasting, entry and exit trigger prices, and comparative statics for volatility, sunk costs, and drift to study hysteresis, showing that uncertainty widens the inaction band so firms delay entry above full cost and delay exit below variable cost."
