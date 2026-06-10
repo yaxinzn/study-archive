@@ -1,3 +1,7 @@
+- title: "Pande (AER, 2003) - Can Mandated Political Representation Increase Policy Influence for Disadvantaged Minorities? Theory and Evidence from India"
+  file: "Pande_AER_2003.pdf"
+  desc: "This note summarizes the paper, which uses Indian state legislative reservation rules, SC and ST reserved-seat shares, census and current population controls, state-year panel policy data from 1960-1992, targeted welfare spending, job quotas, education spending, land reform measures, state and year fixed effects, and robustness checks around institutional reservation changes to study mandated representation, showing that political reservation changes policy influence by increasing redistribution toward the represented disadvantaged group."
+
 - title: "Del Guercio (JFE, 1996) - The Distorting Effect of the Prudent-Man Laws on Institutional Equity Investments"
   file: "DelGuercio_JFE_1996.pdf"
   desc: "This note summarizes the paper, which uses CDA Spectrum 13F institutional holdings, S&P earnings-and-dividend rankings, bank trust and mutual fund manager classifications, stock-level ownership regressions, size and book-to-market portfolio sorts, aggregate institutional ownership tests, and long-run bank-versus-mutual-fund return comparisons to study prudent-man laws, showing that legally constrained bank managers tilt toward large, high-quality, court-defensible stocks while mutual funds do not."
