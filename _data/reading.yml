@@ -1,3 +1,7 @@
+- title: "Abel and Eberly (AER, 1994) - A Unified Model of Investment Under Uncertainty"
+  file: "Abel_Eberly_AER_1994.pdf"
+  desc: "This note summarizes the paper, which develops a unified q-theory investment model with stochastic profitability, convex adjustment costs, fixed costs, purchase-sale price wedges, negative investment, marginal q, Bellman equations, investment thresholds, and inaction regions to study investment under uncertainty, showing that investment remains monotone in marginal q but realistic frictions create bands of inaction, lumpy adjustment, and endogenous irreversibility."
+
 - title: "Caballero and Hammour (AER, 1994) - The Cleansing Effect of Recessions"
   file: "Caballero_Hammour_AER_1994.pdf"
   desc: "This note summarizes the paper, which develops a vintage production-unit model with embodied technology, costly creation, endogenous destruction, demand fluctuations, job creation and destruction rates, Davis-Haltiwanger manufacturing job-flow evidence, and calibration exercises to study the cleansing effect of recessions, showing that job destruction is much more cyclical than job creation because old low-profit units absorb downturns when creation is costly to adjust."
