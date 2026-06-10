@@ -1,3 +1,7 @@
+- title: "Jaimovich and Rebelo (AER, 2009) - Can News about the Future Drive the Business Cycle?"
+  file: "Jaimovich_Rebelo_AER_2009.pdf"
+  desc: "This note summarizes the paper, which develops a news-driven business-cycle model with variable capital utilization, investment adjustment costs, investment-specific technology, two-sector production, and preferences that nest KPR and GHH cases to study whether news about future fundamentals can generate current booms, showing that weak short-run wealth effects allow output, consumption, investment, hours, and sectoral activity to comove after good news shocks."
+
 - title: "Puckett and Yan (JF, 2011) - The Interim Trading Skills of Institutional Investors"
   file: "Puckett_Yan_JF_2011.pdf"
   desc: "This note summarizes the paper, which uses proprietary ANcerno institutional transaction-level data from 1999-2005, actual execution dates and prices, intraquarter round-trip trades, DGTW-adjusted buy-minus-sell interim performance, equal- and principal-weighted trade returns, persistence quintile sorts, implied quarterly-trade reconstructions, stock-characteristic splits, and implicit trading-cost tests to study institutional trading skill, showing that institutions have persistent short-horizon trading skill that is visible in trade-level data but largely missed by quarterly holdings data."
