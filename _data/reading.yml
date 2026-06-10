@@ -1,3 +1,7 @@
+- title: "Dixit (JPE, 1989) - Entry and Exit Decisions under Uncertainty"
+  file: "Dixit_JPE_1989.pdf"
+  desc: "This note summarizes the paper, which develops a real-options model of entry and exit with geometric Brownian prices, sunk entry costs, exit costs or resale values, idle and active value functions, value matching, smooth pasting, entry and exit trigger prices, and comparative statics for volatility, sunk costs, and drift to study hysteresis, showing that uncertainty widens the inaction band so firms delay entry above full cost and delay exit below variable cost."
+
 - title: "Abel and Eberly (AER, 1994) - A Unified Model of Investment Under Uncertainty"
   file: "Abel_Eberly_AER_1994.pdf"
   desc: "This note summarizes the paper, which develops a unified q-theory investment model with stochastic profitability, convex adjustment costs, fixed costs, purchase-sale price wedges, negative investment, marginal q, Bellman equations, investment thresholds, and inaction regions to study investment under uncertainty, showing that investment remains monotone in marginal q but realistic frictions create bands of inaction, lumpy adjustment, and endogenous irreversibility."
