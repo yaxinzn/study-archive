@@ -1,3 +1,7 @@
+- title: "Holmes (JPE, 1998) - The Effect of State Policies on the Location of Manufacturing: Evidence from State Borders"
+  file: "Holmes_JPE_1998.pdf"
+  desc: "This note summarizes the paper, which uses right-to-work status as a proxy for probusiness policy, county manufacturing employment shares, 1947-1992 manufacturing growth, state-border discontinuities, distance-to-border spatial regressions, simulated-border placebo tests, and Fantus business-climate rankings to study manufacturing location, showing that manufacturing activity rises sharply on the probusiness side of state borders."
+
 - title: "Adao, Kolesar, and Morales (QJE, 2019) - Shift-Share Designs: Theory and Inference"
   file: "Adao_Kolesar_Morales_QJE_2019.pdf"
   desc: "This note summarizes the paper, which develops inference theory for shift-share designs using random sectoral shifters, actual commuting-zone exposure shares, placebo simulations, arbitrary cross-region residual correlation, AKM and AKM0 standard errors, shifter clustering, and applications to China-shock and Bartik labor-supply designs to study shift-share uncertainty, showing that conventional robust or geographic-clustered standard errors can severely overreject unless inference is built around the shifter-level variation."
