@@ -1,3 +1,7 @@
+- title: "Auffhammer and Kellogg (AER, 2011) - Clearing the Air? The Effects of Gasoline Content Regulation on Air Quality"
+  file: "Auffhammer_Kellogg_AER_2011.pdf"
+  desc: "This note summarizes the paper, which uses EPA ozone-monitor data, weather controls, county-level gasoline regulation timing, federal RVP rules, federal RFG rules, California CARB gasoline, difference-in-differences, monitor-level regression discontinuities, refinery butane-production evidence, and ambient VOC measurements to study gasoline content regulation, showing that flexible federal standards did not measurably reduce ozone because refiners abated cheap but weakly reactive VOCs, while targeted CARB standards substantially improved air quality."
+
 - title: "Holmes (JPE, 1998) - The Effect of State Policies on the Location of Manufacturing: Evidence from State Borders"
   file: "Holmes_JPE_1998.pdf"
   desc: "This note summarizes the paper, which uses right-to-work status as a proxy for probusiness policy, county manufacturing employment shares, 1947-1992 manufacturing growth, state-border discontinuities, distance-to-border spatial regressions, simulated-border placebo tests, and Fantus business-climate rankings to study manufacturing location, showing that manufacturing activity rises sharply on the probusiness side of state borders."
