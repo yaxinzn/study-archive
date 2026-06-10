@@ -1,3 +1,7 @@
+- title: "Kroszner and Stratmann (AER, 1998) - Interest-Group Competition and the Organization of Congress: Theory and Evidence from Financial Services' Political Action Committees"
+  file: "Kroszner_Stratmann_AER_1998.pdf"
+  desc: "This note summarizes the paper, which uses FEC financial-services PAC contributions to U.S. House members from 1983-1992, House Banking Committee membership, rival bank/securities/insurance PAC groups, constituency and ideology controls, two-stage contribution regressions, PAC-source concentration measures, committee seniority, and committee-switching models to study congressional organization, showing that standing committees help sustain repeated reputational relationships between legislators and competing interest groups."
+
 - title: "Pande (AER, 2003) - Can Mandated Political Representation Increase Policy Influence for Disadvantaged Minorities? Theory and Evidence from India"
   file: "Pande_AER_2003.pdf"
   desc: "This note summarizes the paper, which uses Indian state legislative reservation rules, SC and ST reserved-seat shares, census and current population controls, state-year panel policy data from 1960-1992, targeted welfare spending, job quotas, education spending, land reform measures, state and year fixed effects, and robustness checks around institutional reservation changes to study mandated representation, showing that political reservation changes policy influence by increasing redistribution toward the represented disadvantaged group."
