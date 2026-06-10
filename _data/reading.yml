@@ -1,3 +1,7 @@
+- title: "Borusyak, Hull, and Jaravel (RES, 2022) - Quasi-Experimental Shift-Share Research Designs"
+  file: "Borusyak_Hull_Jaravel_RES_2022.pdf"
+  desc: "This note summarizes the paper, which develops a quasi-experimental framework for shift-share IV designs using exposure shares, shocks, equivalent shock-level regressions, effective shock sample-size diagnostics, shock-balance tests, exposure-robust inference, and an Autor-Dorn-Hanson China-shock application to study how Bartik-style instruments can be justified, showing that identification can come from quasi-random shocks even when shares are endogenous."
+
 - title: "Ben-Rephael, Kandel, and Wohl (JFE, 2012) - Measuring Investor Sentiment with Mutual Fund Flows"
   file: "BenRephael_Kandel_Wohl_JFE_2012.pdf"
   desc: "This note summarizes the paper, which uses ICI monthly mutual-fund flow data from 1984-2008, normalized net exchanges into equity funds, CRSP excess market returns, VIX and sentiment controls, VAR impulse responses, predictive return regressions, trading-strategy tests, and size/value-growth portfolio splits to study whether mutual fund reallocations measure aggregate investor sentiment, showing that exchanges from bond-like funds into equity funds create temporary price pressure that raises contemporaneous market returns but largely reverses within several months, especially for small and growth stocks."
