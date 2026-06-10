@@ -1,3 +1,7 @@
+- title: "Cooper, Gulen, and Ovtchinnikov (JF, 2010) - Corporate Political Contributions and Stock Returns"
+  file: "Cooper_Gulen_Ovtchinnikov_JF_2010.pdf"
+  desc: "This note summarizes the paper, which uses FEC corporate PAC contribution data from 1979-2004, CRSP and Compustat returns and accounting data, rolling five-year political indexes based on supported candidates, relationship strength, home-state ability, committee power, selection corrections, annual abnormal-return regressions, political-index-weighted portfolios, party and chamber decompositions, and future ROE tests to study whether corporate political contributions predict firm performance, showing that firms supporting more political candidates earn higher future abnormal returns and later profitability improvements."
+
 - title: "Duffie (JF, 2010) - Asset Price Dynamics with Slow-Moving Capital"
   file: "Duffie_JF_2010.pdf"
   desc: "This note summarizes the paper, which develops a slow-moving-capital framework with frequent and infrequent investors, delayed capital arrival, OTC search frictions, dealer balance-sheet limits, supply-shock price paths, index-deletion evidence, catastrophe-insurance examples, CDS-basis dislocations, issuance effects, and mutual-fund redemption pressure to study why asset prices overreact to demand or supply shocks and later reverse, showing that short-run asset demand curves can be steep because the relevant arbitrage capital is temporarily unavailable."
