@@ -1,3 +1,7 @@
+- title: "Aw, Roberts, and Xu (AER, 2011) - R&D Investment, Exporting, and Productivity Dynamics"
+  file: "Aw_Roberts_Xu_AER_2011.pdf"
+  desc: "This note summarizes the paper, which uses Taiwanese electronics plant-level data, export and R&D participation, domestic and export revenue equations, endogenous productivity transitions, dynamic fixed and sunk cost estimates, Bayesian MCMC estimation, and export-market-expansion counterfactuals to study how exporting and R&D jointly shape productivity dynamics, showing that both activities raise future productivity and that export-market expansion induces gradual productivity growth through more exporting and more R&D."
+
 - title: "Greenstone, Oyer, and Vissing-Jorgensen (QJE, 2006) - Mandated Disclosure, Stock Returns, and the 1964 Securities Acts Amendments"
   file: "Greenstone_Oyer_Vissingjorgensen_QJE_2006.pdf"
   desc: "This note summarizes the paper, which uses hand-collected OTC stock returns, NYSE/AMEX comparison portfolios, 1964 Securities Acts Amendments treatment groups, 0-4 and 2-4 disclosure-intensity classifications, SEC registration event studies, four-factor abnormal-return models, Period 1 and Period 2 validation windows, and operating-performance regressions to study mandated disclosure, showing that newly covered OTC firms gained shareholder value and improved performance when disclosure requirements were imposed."
