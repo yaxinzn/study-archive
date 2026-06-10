@@ -1,3 +1,7 @@
+- title: "Goldsmith-Pinkham, Sorkin, and Swift (AER, 2020) - Bartik Instruments: What, When, Why, and How"
+  file: "GoldsmithPinkham_Sorkin_Swift_AER_2020.pdf"
+  desc: "This note summarizes the paper, which analyzes Bartik instruments through baseline shares, national shocks, shares-as-instruments GMM equivalence, Rotemberg weights, negative-weight and heterogeneity diagnostics, canonical labor-supply applications, and immigrant-enclave applications to study what identifies shift-share estimates, showing that researchers must unpack which exposure shares drive the estimate and defend the credibility of those high-weight shares."
+
 - title: "Hahn, Todd, and Van der Klaauw (Econometrica, 2001) - Identification and Estimation of Treatment Effects with a Regression-Discontinuity Design"
   file: "Hahn_Todd_VanDerKlaauw_Econometrica_2001.pdf"
   desc: "This note summarizes the paper, which develops a nonparametric potential-outcomes framework for sharp and fuzzy regression-discontinuity designs using one-sided limits, continuity assumptions, local Wald ratios, treatment-effect heterogeneity, LATE interpretation, and local linear estimation to study what RD identifies, showing that RD identifies a cutoff-local treatment effect rather than a population-wide effect and that continuity at the threshold is the key identifying assumption."
