@@ -1,3 +1,7 @@
+- title: "Zheng (JF, 1999) - Is Money Smart? A Study of Mutual Fund Investors' Fund Selection Ability"
+  file: "Zheng_JF_1999.pdf"
+  desc: "This note summarizes the paper, which uses diversified U.S. equity mutual fund data from 1970-1993, new-money flow measures, Grinblatt-Titman aggregate performance tests, positive-versus-negative flow portfolios, unconditional and conditional risk-adjusted returns, fund-size splits, load/no-load comparisons, and lagged-flow strategies to study whether mutual fund investors have selection ability, showing that fund flows predict short-run relative performance, especially among small funds, but do not generally imply broad market-beating ability."
+
 - title: "Gruber (JF, 1996) - Another Puzzle: The Growth in Actively Managed Mutual Funds"
   file: "Gruber_JF_1996.pdf"
   desc: "This note summarizes the paper, which uses open-end equity mutual fund returns from 1985-1994, survivorship-aware fund tracking, raw returns, single-index and four-index alphas, expense ratios, investor cash flows, closed-end fund NAV comparisons, performance-persistence sorts, and cash-flow-weighted return tests to study why active mutual funds grew despite average underperformance, showing that active funds underperform on average but investors direct new money toward predictably better funds."
