@@ -1,3 +1,7 @@
+- title: "Herskovic, Kelly, Lustig, and Van Nieuwerburgh (JPE, 2020) - Firm Volatility in Granular Networks"
+  file: "Herskovic_Kelly_Lustig_VanNieuwerburgh_JPE_2020.pdf"
+  desc: "This note summarizes the paper, which uses CRSP market values and return variances, Compustat sales and sales-growth variance, Compustat customer-supplier links, out-degree and out-Herfindahl network measures, reduced-form network propagation equations, SMM estimation, volatility-factor regressions, and truncation and composition robustness checks to study firm volatility in granular networks, showing that firm size dispersion and concentrated customer networks generate both firm-level volatility heterogeneity and common movements in volatility."
+
 - title: "Kroszner and Strahan (QJE, 1999) - What Drives Deregulation? Economics and Politics of the Relaxation of Bank Branching Restrictions"
   file: "Kroszner_Strahan_QJE_1999.pdf"
   desc: "This note summarizes the paper, which uses state-level bank branching deregulation timing from 1970-1992, small-bank asset shares, small-bank capital strength, insurance-sector size, bank insurance powers, small-firm shares, political controls, Weibull hazard models, robustness checks, and House roll-call votes on interstate branching to study deregulation, showing that branching reform occurred when protected small-bank and insurance interests weakened and pro-deregulation borrower interests became stronger."
