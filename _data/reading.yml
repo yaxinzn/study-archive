@@ -1,3 +1,7 @@
+- title: "Duflo and Pande (QJE, 2007) - Dams"
+  file: "Duflo_Pande_QJE_2007.pdf"
+  desc: "This note summarizes the paper, which uses Indian district-level dam construction, upstream dam exposure, river-gradient instruments, agricultural production and irrigation outcomes, rainfall shocks, poverty and expenditure measures, district fixed effects, state-year fixed effects, and institutional heterogeneity tests to study large infrastructure, showing that dams raise downstream agricultural productivity and reduce rainfall vulnerability but increase poverty in dam-site districts because costs and benefits are spatially separated."
+
 - title: "Herskovic, Kelly, Lustig, and Van Nieuwerburgh (JPE, 2020) - Firm Volatility in Granular Networks"
   file: "Herskovic_Kelly_Lustig_VanNieuwerburgh_JPE_2020.pdf"
   desc: "This note summarizes the paper, which uses CRSP market values and return variances, Compustat sales and sales-growth variance, Compustat customer-supplier links, out-degree and out-Herfindahl network measures, reduced-form network propagation equations, SMM estimation, volatility-factor regressions, and truncation and composition robustness checks to study firm volatility in granular networks, showing that firm size dispersion and concentrated customer networks generate both firm-level volatility heterogeneity and common movements in volatility."
