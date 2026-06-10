@@ -1,3 +1,7 @@
+- title: "Becker and Henderson (JPE, 2000) - Effects of Air Quality Regulations on Polluting Industries"
+  file: "Becker_Henderson_JPE_2000.pdf"
+  desc: "This note summarizes the paper, which uses Census LRD plant-level data from 1963-1992, county ozone nonattainment status, VOC- and NOx-intensive industries, conditional Poisson birth models, corporate versus nonaffiliate plant distinctions, survival models, plant-size regressions, and grandfathering tests to study polluting-industry responses to regulation, showing that nonattainment reduces births of polluting plants, shifts activity toward cleaner counties and smaller firms, prolongs older plants, and changes investment timing."
+
 - title: "Henderson (AER, 1996) - Effects of Air Quality Regulation"
   file: "Henderson_AER_1996.pdf"
   desc: "This note summarizes the paper, which uses EPA hourly ozone-monitor data, county ozone nonattainment status, station fixed effects, state regulatory-attitude measures, high-VOC industry location data, fixed-effects plant-location models, and hourly ozone timing regressions to study air-quality regulation, showing that nonattainment regulation improves official peak ozone measures, induces polluting industries to move toward cleaner counties, and encourages activity timing that reduces ozone peaks more than average ozone exposure."
