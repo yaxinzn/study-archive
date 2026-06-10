@@ -1,3 +1,7 @@
+- title: "Henderson (AER, 1996) - Effects of Air Quality Regulation"
+  file: "Henderson_AER_1996.pdf"
+  desc: "This note summarizes the paper, which uses EPA hourly ozone-monitor data, county ozone nonattainment status, station fixed effects, state regulatory-attitude measures, high-VOC industry location data, fixed-effects plant-location models, and hourly ozone timing regressions to study air-quality regulation, showing that nonattainment regulation improves official peak ozone measures, induces polluting industries to move toward cleaner counties, and encourages activity timing that reduces ozone peaks more than average ozone exposure."
+
 - title: "Walker (QJE, 2013) - The Transitional Costs of Sectoral Reallocation: Evidence from the Clean Air Act and the Workforce"
   file: "Walker_QJE_2013.pdf"
   desc: "This note summarizes the paper, which uses the 1990 Clean Air Act Amendments, LEHD linked worker-firm data, LBD plant data, EPA plant-polluter matches, county-pollutant nonattainment variation, triple-difference event studies, fixed worker cohorts, stayers-versus-leavers decompositions, and destination-sector analysis to study reallocation costs, showing that workers in newly regulated plants lose about 20% of one preregulatory year's earnings, mainly through costly separations and industry switching."
