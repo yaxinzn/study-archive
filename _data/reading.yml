@@ -1,3 +1,7 @@
+- title: "Beaudry and Portier (AER, 2006) - Stock Prices, News, and Economic Fluctuations"
+  file: "Beaudry_Portier_AER_2006.pdf"
+  desc: "This note summarizes the paper, which uses postwar U.S. TFP and real stock-price data, VECM short-run and long-run orthogonalizations, utilization-adjusted TFP measures, consumption, investment, output, and hours systems, impulse responses, and variance decompositions to study news shocks, showing that stock-price innovations orthogonal to current TFP are nearly identical to shocks that drive long-run TFP and generate business-cycle comovement."
+
 - title: "Barlevy (RES, 2002) - The Sullying Effect of Recessions"
   file: "Barlevy_RES_2002.pdf"
   desc: "This note summarizes the paper, which develops a search-and-matching model with on-the-job search, heterogeneous match quality, endogenous vacancy creation, procyclical quits, mismatch dynamics, and calibrated unemployment paths to study whether recessions cleanse or sully labor allocation, showing that downturns may destroy bad matches but also reduce job-to-job mobility, trapping workers in mediocre jobs and lowering average match productivity."
