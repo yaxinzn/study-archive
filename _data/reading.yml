@@ -1,3 +1,7 @@
+- title: "Gruber (JF, 1996) - Another Puzzle: The Growth in Actively Managed Mutual Funds"
+  file: "Gruber_JF_1996.pdf"
+  desc: "This note summarizes the paper, which uses open-end equity mutual fund returns from 1985-1994, survivorship-aware fund tracking, raw returns, single-index and four-index alphas, expense ratios, investor cash flows, closed-end fund NAV comparisons, performance-persistence sorts, and cash-flow-weighted return tests to study why active mutual funds grew despite average underperformance, showing that active funds underperform on average but investors direct new money toward predictably better funds."
+
 - title: "Greenstone (JPE, 2002) - The Impacts of Environmental Regulations on Industrial Activity"
   file: "Greenstone_JPE_2002.pdf"
   desc: "This note summarizes the paper, which uses Census of Manufactures plant data, pollutant-specific county nonattainment designations, industry pollutant-emission classifications, plant fixed effects, county-by-period and industry-by-period controls, employment, capital, and shipment growth outcomes, and aggregate magnitude calculations to study the production-side costs of the Clean Air Act, showing that regulated plants in nonattainment counties experienced slower growth in employment, capital, and output."
