@@ -1,3 +1,7 @@
+- title: "Walker (QJE, 2013) - The Transitional Costs of Sectoral Reallocation: Evidence from the Clean Air Act and the Workforce"
+  file: "Walker_QJE_2013.pdf"
+  desc: "This note summarizes the paper, which uses the 1990 Clean Air Act Amendments, LEHD linked worker-firm data, LBD plant data, EPA plant-polluter matches, county-pollutant nonattainment variation, triple-difference event studies, fixed worker cohorts, stayers-versus-leavers decompositions, and destination-sector analysis to study reallocation costs, showing that workers in newly regulated plants lose about 20% of one preregulatory year's earnings, mainly through costly separations and industry switching."
+
 - title: "Ito (AER, 2014) - Do Consumers Respond to Marginal or Average Price? Evidence from Nonlinear Electricity Pricing"
   file: "Ito_AER_2014.pdf"
   desc: "This note summarizes the paper, which uses household-level electricity billing data near the SCE-SDGE service-area border in Orange County, nonlinear electricity tariffs, balance tests, kink-bunching tests, simulated instruments, encompassing regressions, expected marginal price calculations, perceived-price weighting functions, and welfare counterfactuals to study nonlinear pricing, showing that consumers respond to average price rather than marginal or expected marginal price."
