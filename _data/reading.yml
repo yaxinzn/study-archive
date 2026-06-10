@@ -1,3 +1,7 @@
+- title: "Ito (AER, 2014) - Do Consumers Respond to Marginal or Average Price? Evidence from Nonlinear Electricity Pricing"
+  file: "Ito_AER_2014.pdf"
+  desc: "This note summarizes the paper, which uses household-level electricity billing data near the SCE-SDGE service-area border in Orange County, nonlinear electricity tariffs, balance tests, kink-bunching tests, simulated instruments, encompassing regressions, expected marginal price calculations, perceived-price weighting functions, and welfare counterfactuals to study nonlinear pricing, showing that consumers respond to average price rather than marginal or expected marginal price."
+
 - title: "Deschenes, Greenstone, and Shapiro (AER, 2017) - Defensive Investments and the Demand for Air Quality: Evidence from the NOx Budget Program"
   file: "Deschenes_Greenstone_Shapiro_AER_2017.pdf"
   desc: "This note summarizes the paper, which uses the NOx Budget Program, emissions and ozone monitors, MarketScan medication claims, mortality records, weather controls, triple-difference designs, event studies, IV estimates, and welfare accounting to study defensive investments and demand for clean air, showing that the NBP reduced pollution, medication purchases, and mortality, with avoided medication spending forming a large share of willingness to pay for cleaner air."
