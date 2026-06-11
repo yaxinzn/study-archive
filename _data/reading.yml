@@ -1,3 +1,7 @@
+- title: "Morck, Yeung, and Yu (JFE, 2000) - The Information Content of Stock Markets: Why Do Emerging Markets Have Synchronous Stock Price Movements?"
+  file: "Morck_Yeung_Yu_JFE_2000.pdf"
+  desc: "This note summarizes the paper, which uses Datastream weekly stock returns for 40 countries in 1995, stock-price synchronicity measures based on the fraction of stocks moving together and market-model R2, structural controls, good-government and investor-rights indexes, U.S. historical CRSP evidence, and variance decompositions to study market informativeness, showing that emerging-market stock prices move more synchronously because weak property rights reduce firm-specific information in prices and increase market-wide variation."
+
 - title: "Campello (JF, 2002) - Internal Capital Markets in Financial Conglomerates: Evidence from Small Bank Responses to Monetary Policy"
   file: "Campello_JF_2002.pdf"
   desc: "This note summarizes the paper, which uses quarterly U.S. Call Report data from 1981-1997, small-bank loan growth, operating-income sensitivity, bank holding company affiliation, monetary-policy tightening measures, parent capitalization, premerger comparisons, VAR responses, and affiliate-quality rankings to study internal capital markets in financial conglomerates, showing that large BHCs insulate small affiliates from external funding shocks but internal allocation is efficient mainly when headquarters is unconstrained and well monitored."
