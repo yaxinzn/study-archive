@@ -1,3 +1,7 @@
+- title: "La Porta, Lopez-de-Silanes, Shleifer, and Vishny (JF, 2002) - Investor Protection and Corporate Valuation"
+  file: "LaPorta_LopezDeSilanes_Shleifer_Vishny_JF_2002.pdf"
+  desc: "This note summarizes the paper, which uses 539 controlled nonfinancial firms across 27 countries, legal-origin and anti-director-rights investor-protection measures, controlling-shareholder cash-flow rights, voting control rights, Tobin's q, industry-adjusted q, sales-growth controls, random-effects regressions, ownership-law interactions, and robustness checks to study corporate valuation, showing that stronger investor protection and higher controller cash-flow ownership raise firm value by reducing expected diversion by controlling shareholders."
+
 - title: "Barber, Lehavy, McNichols, and Trueman (JF, 2001) - Can Investors Profit from the Prophets? Security Analyst Recommendations and Stock Returns"
   file: "Barber_Lehavy_McNichols_Trueman_JF_2001.pdf"
   desc: "This note summarizes the paper, which uses Zacks analyst recommendations from 1985-1996, CRSP returns, daily consensus-rating portfolios, CAPM, Fama-French and momentum-adjusted abnormal returns, turnover measures, transaction-cost estimates, delayed-reaction tests, rebalancing-frequency tests, and size partitions to study whether investors can profit from analyst recommendations, showing that recommendations predict gross returns but high turnover and trading costs largely eliminate reliable abnormal net profits."
