@@ -1,3 +1,7 @@
+- title: "Cremers and Nair (JF, 2005) - Governance Mechanisms and Equity Prices"
+  file: "Cremers_Nair_JF_2005.pdf"
+  desc: "This note summarizes the paper, which uses U.S. public firms from 1990-2001, IRRC takeover-defense data, GIM-based external-governance measures, an alternative takeover index, institutional blockholder ownership, public pension fund ownership, Carhart abnormal-return portfolios, two-step WLS interaction tests, profitability, valuation, and cash-flow-risk outcomes to study governance mechanisms, showing that internal shareholder monitoring and external takeover vulnerability act as complements rather than substitutes."
+
 - title: "Carhart (JF, 1997) - On Persistence in Mutual Fund Performance"
   file: "Carhart_JF_1997.pdf"
   desc: "This note summarizes the paper, which uses a survivor-bias-free U.S. equity mutual fund database from 1962-1993, past-return decile portfolios, the four-factor model with a one-year momentum factor, Fama-MacBeth cost regressions, expense ratios, turnover, loads, and three-year alpha sorts to study mutual fund performance persistence, showing that apparent persistence is mostly explained by momentum exposure and persistent costs rather than repeated managerial stock-picking skill."
