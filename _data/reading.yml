@@ -1,3 +1,7 @@
+- title: "Houston and James (JF, 1996) - Bank Information Monopolies and the Mix of Private and Public Debt Claims"
+  file: "Houston_James_JF_1996.pdf"
+  desc: "This note summarizes the paper, which uses hand-collected debt-structure data from annual reports and 10-K filings for large public firms in 1980, 1985, and 1990, separating bank debt, public debt, commercial paper, other private debt, single versus multiple bank relationships, market-to-book, R&D intensity, leverage, and coverage to study bank information monopolies, showing that growth firms avoid dependence on a single informed bank but use more bank debt when multiple banks or public debt limit hold-up."
+
 - title: "Detragiache, Garella, and Guiso (JF, 2000) - Multiple versus Single Banking Relationships: Theory and Evidence"
   file: "Detragiache_Garella_Guiso_JF_2000.pdf"
   desc: "This note summarizes the paper, which develops a model of single versus multiple bank relationships and tests it using Italian firm-bank matched data, credit-register relationship counts, bank fragility, loan-recovery efficiency, profitability, firm size, leverage, and two-stage selection-corrected regressions to study why firms borrow from multiple banks, showing that multiple banking insures firms against relationship-bank liquidity risk when outside refinancing is impaired by asymmetric information."
