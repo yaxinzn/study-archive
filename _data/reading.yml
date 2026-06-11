@@ -1,3 +1,7 @@
+- title: "Ivkovic and Weisbenner (JF, 2005) - Local Does as Local Is: Information Content of the Geography of Individual Investors' Common Stock Investments"
+  file: "Ivkovic_Weisbenner_JF_2005.pdf"
+  desc: "This note summarizes the paper, which uses household discount-broker portfolios from 1991-1996, household zip codes, firm headquarters, local-stock definitions within 250 miles, S&P 500 information-asymmetry splits, relative local ownership, raw and four-factor returns, zero-cost local-minus-nonlocal portfolios, and robustness tests for geography, industry, employer stock, and California to study local investing, showing that individual investors' local holdings contain value-relevant information, especially for nearby non-S&P 500 firms."
+
 - title: "Bolton and Harris (Econometrica, 1999) - Strategic Experimentation"
   file: "Bolton_Harris_Econometrica_1999.pdf"
   desc: "This note summarizes the paper, which develops a continuous-time multi-agent two-armed bandit model with common unknown payoffs, public observation, Bayesian filtering, safe and risky actions, symmetric Markov equilibrium cutoffs, team-learning benchmarks, free-riding, and encouragement effects to study strategic experimentation, showing that decentralized agents underprovide experimentation because information is a public good, even though future learning by others can partially encourage current experimentation."
