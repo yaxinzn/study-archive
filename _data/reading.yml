@@ -1,3 +1,7 @@
+- title: "Bebchuk and Cohen (JFE, 2005) - The Costs of Entrenched Boards"
+  file: "Bebchuk_Cohen_JFE_2005.pdf"
+  desc: "This note summarizes the paper, which uses IRRC governance data from 1995-2002, staggered-board indicators, charter-based versus bylaws-based board classifications, industry-adjusted Tobin's Q, other GIM provisions, firm controls, annual regressions, pre-1990 staggered-board status, and legal-strength comparisons to study board entrenchment, showing that staggered boards are associated with lower firm value, especially when they are charter-based and difficult for shareholders to remove."
+
 - title: "Cremers and Nair (JF, 2005) - Governance Mechanisms and Equity Prices"
   file: "Cremers_Nair_JF_2005.pdf"
   desc: "This note summarizes the paper, which uses U.S. public firms from 1990-2001, IRRC takeover-defense data, GIM-based external-governance measures, an alternative takeover index, institutional blockholder ownership, public pension fund ownership, Carhart abnormal-return portfolios, two-step WLS interaction tests, profitability, valuation, and cash-flow-risk outcomes to study governance mechanisms, showing that internal shareholder monitoring and external takeover vulnerability act as complements rather than substitutes."
