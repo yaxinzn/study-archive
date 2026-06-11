@@ -1,3 +1,7 @@
+- title: "Santos and Winton (JF, 2008) - Bank Loans, Bonds, and Information Monopolies across the Business Cycle"
+  file: "Santos_Winton_JF_2008.pdf"
+  desc: "This note summarizes the paper, which uses Dealscan bank loans matched to Compustat and bond histories from 1987-2002, loan spreads over LIBOR, public bond access measures, bank-dependence indicators, recession interactions, firm and loan controls, risk interactions, and IV specifications to study bank information monopolies, showing that bank-dependent borrowers pay higher loan spreads, especially in recessions, while public bond access limits banks' hold-up power."
+
 - title: "Houston, James, and Marcus (JFE, 1997) - Capital Market Frictions and the Role of Internal Capital Markets in Banking"
   file: "Houston_James_Marcus_JFE_1997.pdf"
   desc: "This note summarizes the paper, which uses publicly traded bank holding companies, subsidiary-bank Call Reports, Federal Reserve Y-9 data, internal additions to capital, surplus capital, binding capital requirements, subsidiary loan growth, related-subsidiary loan growth, and predicted underwriting-cost measures to study capital-market frictions inside banking organizations, showing that bank lending depends on internally generated capital and that holding companies allocate scarce internal capital across subsidiaries."
