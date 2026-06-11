@@ -1,3 +1,7 @@
+- title: "Claessens, Djankov, Fan, and Lang (JF, 2002) - Disentangling the Incentive and Entrenchment Effects of Large Shareholdings"
+  file: "Claessens_Djankov_Fan_Lang_JF_2002.pdf"
+  desc: "This note summarizes the paper, which uses ultimate ownership data for 1,301 East Asian corporations, cash-flow rights, voting control rights, control-ownership wedges, owner-type classifications, market-to-book valuation regressions, business-group robustness, country splits, and pyramid/cross-holding/dual-class mechanisms to study large shareholders, showing that cash-flow ownership raises firm value through incentive alignment while excess control lowers value through entrenchment."
+
 - title: "Cunat (RFS, 2007) - Trade Credit: Suppliers as Debt Collectors and Insurance Providers"
   file: "Cunat_RFS_2007.pdf"
   desc: "This note summarizes the paper, which develops a relationship-based trade-credit model and uses UK FAME firm-panel data, trade-credit-to-assets and trade-credit-to-debt measures, collateral, liquid assets, liquidity-shock indicators, asset-growth splines, firm-age splines, fixed effects, GMM checks, and nonparametric patterns to study supplier finance, showing that suppliers act as debt collectors and liquidity insurers, especially for low-collateral, liquidity-shocked, fast-growing, poorly performing, and relationship-building firms."
