@@ -1,3 +1,7 @@
+- title: "Rice and Strahan (JF, 2010) - Does Credit Competition Affect Small-Firm Finance?"
+  file: "Rice_Strahan_JF_2010.pdf"
+  desc: "This note summarizes the paper, which uses IBBEA interstate branching restrictions, a state-year entry-barrier index, 1993, 1998, and 2003 Survey of Small Business Finance data, small-firm loan rates, bank debt, total debt, denial, collateral, guarantees, maturity, state fixed effects, political-economy controls, and pre-treatment falsification tests to study credit competition, showing that branching openness lowers small-firm loan rates and increases bank borrowing but has weak effects on total debt and nonprice terms."
+
 - title: "Houston and James (JF, 1996) - Bank Information Monopolies and the Mix of Private and Public Debt Claims"
   file: "Houston_James_JF_1996.pdf"
   desc: "This note summarizes the paper, which uses hand-collected debt-structure data from annual reports and 10-K filings for large public firms in 1980, 1985, and 1990, separating bank debt, public debt, commercial paper, other private debt, single versus multiple bank relationships, market-to-book, R&D intensity, leverage, and coverage to study bank information monopolies, showing that growth firms avoid dependence on a single informed bank but use more bank debt when multiple banks or public debt limit hold-up."
