@@ -1,3 +1,7 @@
+- title: "Yermack (JFE, 1996) - Higher Market Valuation of Companies with a Small Board of Directors"
+  file: "Yermack_JFE_1996.pdf"
+  desc: "This note summarizes the paper, which uses 452 large U.S. industrial firms from 1984-1991, board-size and board-composition data, Tobin's Q, firm fixed effects, operating ratios, board-change tests, CEO dismissal sensitivity, CEO pay-performance sensitivity, and board-size-change announcement returns to study board structure, showing that smaller boards are associated with higher valuation, stronger monitoring, and better CEO incentive alignment."
+
 - title: "Bebchuk and Cohen (JFE, 2005) - The Costs of Entrenched Boards"
   file: "Bebchuk_Cohen_JFE_2005.pdf"
   desc: "This note summarizes the paper, which uses IRRC governance data from 1995-2002, staggered-board indicators, charter-based versus bylaws-based board classifications, industry-adjusted Tobin's Q, other GIM provisions, firm controls, annual regressions, pre-1990 staggered-board status, and legal-strength comparisons to study board entrenchment, showing that staggered boards are associated with lower firm value, especially when they are charter-based and difficult for shareholders to remove."
