@@ -1,3 +1,7 @@
+- title: "Carhart (JF, 1997) - On Persistence in Mutual Fund Performance"
+  file: "Carhart_JF_1997.pdf"
+  desc: "This note summarizes the paper, which uses a survivor-bias-free U.S. equity mutual fund database from 1962-1993, past-return decile portfolios, the four-factor model with a one-year momentum factor, Fama-MacBeth cost regressions, expense ratios, turnover, loads, and three-year alpha sorts to study mutual fund performance persistence, showing that apparent persistence is mostly explained by momentum exposure and persistent costs rather than repeated managerial stock-picking skill."
+
 - title: "Morck, Yeung, and Yu (JFE, 2000) - The Information Content of Stock Markets: Why Do Emerging Markets Have Synchronous Stock Price Movements?"
   file: "Morck_Yeung_Yu_JFE_2000.pdf"
   desc: "This note summarizes the paper, which uses Datastream weekly stock returns for 40 countries in 1995, stock-price synchronicity measures based on the fraction of stocks moving together and market-model R2, structural controls, good-government and investor-rights indexes, U.S. historical CRSP evidence, and variance decompositions to study market informativeness, showing that emerging-market stock prices move more synchronously because weak property rights reduce firm-specific information in prices and increase market-wide variation."
