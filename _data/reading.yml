@@ -1,3 +1,7 @@
+- title: "Barber, Lehavy, McNichols, and Trueman (JF, 2001) - Can Investors Profit from the Prophets? Security Analyst Recommendations and Stock Returns"
+  file: "Barber_Lehavy_McNichols_Trueman_JF_2001.pdf"
+  desc: "This note summarizes the paper, which uses Zacks analyst recommendations from 1985-1996, CRSP returns, daily consensus-rating portfolios, CAPM, Fama-French and momentum-adjusted abnormal returns, turnover measures, transaction-cost estimates, delayed-reaction tests, rebalancing-frequency tests, and size partitions to study whether investors can profit from analyst recommendations, showing that recommendations predict gross returns but high turnover and trading costs largely eliminate reliable abnormal net profits."
+
 - title: "Pirinsky and Wang (JF, 2006) - Does Corporate Headquarters Location Matter for Stock Returns?"
   file: "Pirinsky_Wang_JF_2006.pdf"
   desc: "This note summarizes the paper, which uses U.S. common-stock headquarters locations from 1988-2002, MSA-level local stock indices, local beta regressions, market and industry controls, headquarters relocation events, earnings-comovement tests, state economic fundamentals, and cross-sectional firm and regional characteristics to study whether headquarters location matters for returns, showing that stocks comove with nearby-headquartered firms mainly through local investor trading and geographic segmentation rather than local fundamentals."
