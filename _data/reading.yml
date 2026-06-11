@@ -1,3 +1,7 @@
+- title: "Pirinsky and Wang (JF, 2006) - Does Corporate Headquarters Location Matter for Stock Returns?"
+  file: "Pirinsky_Wang_JF_2006.pdf"
+  desc: "This note summarizes the paper, which uses U.S. common-stock headquarters locations from 1988-2002, MSA-level local stock indices, local beta regressions, market and industry controls, headquarters relocation events, earnings-comovement tests, state economic fundamentals, and cross-sectional firm and regional characteristics to study whether headquarters location matters for returns, showing that stocks comove with nearby-headquartered firms mainly through local investor trading and geographic segmentation rather than local fundamentals."
+
 - title: "Ivkovic and Weisbenner (JF, 2005) - Local Does as Local Is: Information Content of the Geography of Individual Investors' Common Stock Investments"
   file: "Ivkovic_Weisbenner_JF_2005.pdf"
   desc: "This note summarizes the paper, which uses household discount-broker portfolios from 1991-1996, household zip codes, firm headquarters, local-stock definitions within 250 miles, S&P 500 information-asymmetry splits, relative local ownership, raw and four-factor returns, zero-cost local-minus-nonlocal portfolios, and robustness tests for geography, industry, employer stock, and California to study local investing, showing that individual investors' local holdings contain value-relevant information, especially for nearby non-S&P 500 firms."
