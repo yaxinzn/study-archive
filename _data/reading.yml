@@ -1,3 +1,7 @@
+- title: "Bharath, Dahiya, Saunders, and Srinivasan (RFS, 2011) - Lending Relationships and Loan Contract Terms"
+  file: "Bharath_Dahiya_Saunders_Srinivasan_RFS_2011.pdf"
+  desc: "This note summarizes the paper, which uses Dealscan syndicated loans to U.S. public firms from 1986-2003, prior lead-lender relationship measures, all-in-drawn spreads, collateral, maturity, loan size, borrower opacity proxies, syndicate moral-hazard measures, matching, IV, treatment-effects models, and joint contract-term estimation to study lending relationships, showing that relationship lenders offer lower spreads, lower collateral requirements, and larger loan availability, especially for opaque borrowers."
+
 - title: "Santos and Winton (JF, 2008) - Bank Loans, Bonds, and Information Monopolies across the Business Cycle"
   file: "Santos_Winton_JF_2008.pdf"
   desc: "This note summarizes the paper, which uses Dealscan bank loans matched to Compustat and bond histories from 1987-2002, loan spreads over LIBOR, public bond access measures, bank-dependence indicators, recession interactions, firm and loan controls, risk interactions, and IV specifications to study bank information monopolies, showing that bank-dependent borrowers pay higher loan spreads, especially in recessions, while public bond access limits banks' hold-up power."
