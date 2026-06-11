@@ -1,3 +1,7 @@
+- title: "Denis, Denis, and Yost (JF, 2002) - Global Diversification, Industrial Diversification, and Firm Value"
+  file: "Denis_Denis_Yost_JF_2002.pdf"
+  desc: "This note summarizes the paper, which uses Compustat industrial and geographic segment data for U.S. firms from 1984-1997, global and industrial diversification measures, foreign-sales shares, segment Herfindahl indexes, Berger-Ofek excess-value methods, multivariate valuation regressions, fixed effects, robustness checks, and diversification-change tests to study multinational expansion, showing that global diversification is associated with a valuation discount similar to the industrial diversification discount."
+
 - title: "Adams, Almeida, and Ferreira (RFS, 2005) - Powerful CEOs and Their Impact on Corporate Performance"
   file: "Adams_Almeida_Ferreira_RFS_2005.pdf"
   desc: "This note summarizes the paper, which uses Fortune 500 nonregulated firms from 1992-1999, CEO founder status, sole-insider status, concentration of titles, stock returns, ROA, Tobin's Q, Glejser heteroskedasticity tests, standard-deviation regressions, managerial-discretion interactions, director-selection tests, and endogeneity checks to study CEO power, showing that powerful CEOs make firm outcomes more variable rather than simply better or worse on average."
