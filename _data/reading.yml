@@ -1,3 +1,7 @@
+- title: "Grinblatt and Keloharju (JF, 2001) - How Distance, Language, and Culture Influence Stockholdings and Trades"
+  file: "Grinblatt_Keloharju_JF_2001.pdf"
+  desc: "This note summarizes the paper, which uses comprehensive Finnish investor-level ownership and trading records, investor municipality, firm headquarters, geographic distance, annual-report language, CEO cultural origin, household and institutional investor types, firm-municipality regressions, portfolio-diversification splits, and buy/sell tests to study familiarity bias, showing that investors overweight geographically close, linguistically familiar, and culturally familiar firms even within one integrated national market."
+
 - title: "Denis, Denis, and Yost (JF, 2002) - Global Diversification, Industrial Diversification, and Firm Value"
   file: "Denis_Denis_Yost_JF_2002.pdf"
   desc: "This note summarizes the paper, which uses Compustat industrial and geographic segment data for U.S. firms from 1984-1997, global and industrial diversification measures, foreign-sales shares, segment Herfindahl indexes, Berger-Ofek excess-value methods, multivariate valuation regressions, fixed effects, robustness checks, and diversification-change tests to study multinational expansion, showing that global diversification is associated with a valuation discount similar to the industrial diversification discount."
