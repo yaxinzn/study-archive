@@ -1,3 +1,7 @@
+- title: "Agarwal and Somaini (Econometrica, 2018) - Demand Analysis Using Strategic Reports: An Application to a School Choice Mechanism"
+  file: "Agarwal_Somaini_Econometrica_2018.pdf"
+  desc: "This note summarizes the paper, which uses Cambridge kindergarten assignment data, Immediate Acceptance rules, proximity-priority discontinuities, assignment-lottery simulations, revealed-preference inequalities from strategic reports, distance preference shifters, random-utility estimation, and counterfactual Deferred Acceptance comparisons to study school-choice demand, showing that strategic rank lists can identify preferences when reports are treated as choices over lotteries rather than truthful rankings."
+
 - title: "Berry and Haile (Econometrica, 2014) - Identification in Differentiated Products Markets Using Market Level Data"
   file: "Berry_Haile_Econometrica_2014.pdf"
   desc: "This note summarizes the paper, which develops nonparametric identification results for differentiated-products markets using market-level prices, shares, product characteristics, demand shocks, index restrictions, connected-substitutes inversion, nonparametric IV completeness, cost shifters, supply first-order conditions, welfare support conditions, and conduct-testing restrictions, showing that BLP-style demand, costs, welfare, and some conduct restrictions can be identified from market-level data given sufficiently rich instruments."
