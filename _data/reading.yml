@@ -1,3 +1,7 @@
+- title: "Azevedo and Leshno (JPE, 2016) - A Supply and Demand Framework for Two-Sided Matching Markets"
+  file: "Azevedo_Leshno_JPE_2016.pdf"
+  desc: "This note summarizes the paper, which develops a continuum model of two-sided matching with student types, college capacities, score cutoffs, market-clearing demand, stable-match equivalence, uniqueness theorems, finite-market convergence results, school-quality comparative statics, and random-serial-dictatorship limits, showing that stable matching markets can be analyzed through supply-and-demand cutoffs that play the role of prices."
+
 - title: "Agarwal and Somaini (Econometrica, 2018) - Demand Analysis Using Strategic Reports: An Application to a School Choice Mechanism"
   file: "Agarwal_Somaini_Econometrica_2018.pdf"
   desc: "This note summarizes the paper, which uses Cambridge kindergarten assignment data, Immediate Acceptance rules, proximity-priority discontinuities, assignment-lottery simulations, revealed-preference inequalities from strategic reports, distance preference shifters, random-utility estimation, and counterfactual Deferred Acceptance comparisons to study school-choice demand, showing that strategic rank lists can identify preferences when reports are treated as choices over lotteries rather than truthful rankings."
