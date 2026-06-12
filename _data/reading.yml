@@ -1,3 +1,7 @@
+- title: "Acemoglu (Economic Policy, 2025) - The Simple Macroeconomics of AI"
+  file: "Acemoglu_EconPolicy_2025.pdf"
+  desc: "This note summarizes the paper, which uses a task-based macro framework, AI task-exposure estimates, feasibility adjustments, experimental cost-saving estimates, Hulten-style aggregation, easy-versus-hard task classifications, capital-accumulation multipliers, and wage-distribution calculations to study AI's medium-run macro effects, showing that recent AI is likely to raise TFP and GDP positively but modestly over 10 years unless it creates many valuable new worker-complementary tasks."
+
 - title: "Maksimovic and Phillips (JF, 2001) - The Market for Corporate Assets: Who Engages in Mergers and Asset Sales and Are There Efficiency Gains?"
   file: "Maksimovic_Phillips_JF_2001.pdf"
   desc: "This note summarizes the paper, which uses Census LRD and ASM plant-level data, plant ownership changes, mergers, full- and partial-segment asset sales, plant TFP, segment rank, industry demand, buyer and seller productivity, and post-transaction productivity changes to study the corporate asset market, showing that assets tend to move from less productive sellers to more productive buyers and often improve after reallocation."
