@@ -1,3 +1,7 @@
+- title: "Bollen and Busse (RFS, 2005) - Short-Term Persistence in Mutual Fund Performance"
+  file: "Bollen_Busse_RFS_2005.pdf"
+  desc: "This note summarizes the paper, which uses daily returns for 230 domestic equity mutual funds from 1985-1995, quarterly ranking windows, four-factor stock-selection alphas, Treynor-Mazuy and Henriksson-Merton timing models, mixed-strategy rankings, persistence regressions, and robustness tests with alternative momentum factors to study short-term fund performance persistence, showing that top abnormal-performance funds continue to earn positive abnormal returns in the next quarter, but the effect is short-lived."
+
 - title: "Busse (RFS, 1999) - Volatility Timing in Mutual Funds: Evidence from Daily Returns"
   file: "Busse_RFS_1999.pdf"
   desc: "This note summarizes the paper, which uses daily returns for 230 domestic equity mutual funds from 1985-1995, EGARCH conditional market volatility, daily and monthly beta-volatility regressions, style-matched random control portfolios, conditional alpha tests, and market-timing controls to study volatility timing, showing that active funds reduce market exposure in high-volatility states and earn better conditional risk-adjusted performance."
