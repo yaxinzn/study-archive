@@ -1,3 +1,7 @@
+- title: "Easley, Kiefer, O'Hara, and Paperman (JF, 1996) - Liquidity, Information, and Infrequently Traded Stocks"
+  file: "Easley_Kiefer_OHara_Paperman_JF_1996.pdf"
+  desc: "This note summarizes the paper, which estimates a structural market-microstructure model using NYSE buy and sell order counts, latent information-event probabilities, informed and uninformed arrival rates, price-matched volume deciles, PIN measures, quoted spreads, and spread regressions to study infrequently traded stocks, showing that low-volume stocks face higher information-based trading risk and that PIN explains spreads better than volume alone."
+
 - title: "Rangan (JFE, 1998) - Earnings Management and the Performance of Seasoned Equity Offerings"
   file: "Rangan_JFE_1998.pdf"
   desc: "This note summarizes the paper, which uses registered firm-commitment SEOs from 1987 to 1990, quarterly event-time earnings announcements, discretionary current accruals, joint issue-accrual models, post-offering ROA changes, and year-one market-adjusted returns to study earnings management around SEOs, showing that issuing firms raise accruals near the offering and that these accruals predict later earnings declines and stock underperformance."
