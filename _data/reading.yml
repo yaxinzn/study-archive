@@ -1,3 +1,7 @@
+- title: "Berry and Haile (Econometrica, 2014) - Identification in Differentiated Products Markets Using Market Level Data"
+  file: "Berry_Haile_Econometrica_2014.pdf"
+  desc: "This note summarizes the paper, which develops nonparametric identification results for differentiated-products markets using market-level prices, shares, product characteristics, demand shocks, index restrictions, connected-substitutes inversion, nonparametric IV completeness, cost shifters, supply first-order conditions, welfare support conditions, and conduct-testing restrictions, showing that BLP-style demand, costs, welfare, and some conduct restrictions can be identified from market-level data given sufficiently rich instruments."
+
 - title: "Pesendorfer and Schmidt-Dengler (RES, 2008) - Asymptotic Least Squares Estimators for Dynamic Games"
   file: "Pesendorfer_SchmidtDengler_RES_2008.pdf"
   desc: "This note summarizes the paper, which develops asymptotic least-squares estimators for dynamic games with finite actions using first-stage conditional choice probabilities, transition probabilities, Markov-perfect-equilibrium equations, payoff restrictions, rank conditions, efficient weight matrices, PML comparisons, and Monte Carlo evidence, showing that dynamic-game estimation can be organized as fitting equilibrium choice-probability equations rather than repeatedly solving the game."
