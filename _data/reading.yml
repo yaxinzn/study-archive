@@ -1,3 +1,7 @@
+- title: "Rajan and Zingales (JF, 1995) - What Do We Know about Capital Structure? Some Evidence from International Data"
+  file: "Rajan_Zingales_JF_1995.pdf"
+  desc: "This note summarizes the paper, which uses Global Vantage data on nonfinancial public firms in the G-7 countries, multiple book and market leverage measures, accounting adjustments, external-financing-flow comparisons, tax and bankruptcy-code descriptions, financial-system indicators, and within-country leverage regressions on tangibility, market-to-book, size, and profitability to study international capital structure, showing that major U.S. leverage regularities are broadly robust across developed countries but still lack a single clear theoretical explanation."
+
 - title: "De Meza and Webb (QJE, 1987) - Too Much Investment: A Problem of Asymmetric Information"
   file: "DeMeza_Webb_QJE_1987.pdf"
   desc: "This note summarizes the paper, which develops a theoretical credit-market model with asymmetric information, expected-return heterogeneity, pooling debt contracts, entrepreneur participation conditions, bank zero-profit conditions, comparisons with the Stiglitz-Weiss risk-heterogeneity model, and debt-versus-equity contract-selection results to study whether asymmetric information always causes underinvestment, showing that it can instead generate excessive investment when low-quality projects are cross-subsidized by high-quality borrowers."
