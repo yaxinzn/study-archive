@@ -1,3 +1,7 @@
+- title: "Gale and Hellwig (RES, 1985) - Incentive-Compatible Debt Contracts: The One-Period Problem"
+  file: "Gale_Hellwig_RES_1985.pdf"
+  desc: "This note summarizes the paper, which develops a costly-state-verification credit-contract model with privately observed project outcomes, lender observation costs, incentive compatibility, maximum equity participation, standard debt contracts, bankruptcy cutoffs, reduced investment problems, interest-rate-taking comparisons, risk-aversion extensions, and liquidity comparative statics to study optimal debt, showing that debt economizes on verification but costly bankruptcy creates underinvestment relative to first best."
+
 - title: "Dewatripont and Tirole (QJE, 1994) - A Theory of Debt and Equity: Diversity of Securities and Manager-Shareholder Congruence"
   file: "Dewatripont_Tirole_QJE_1994.pdf"
   desc: "This note summarizes the paper, which develops a theory of debt and equity with managerial moral hazard, noncontractible outsider intervention, stopping versus continuation actions, payoff curvature, debt-holder and equity-holder control regions, recapitalization mechanisms, and manager-shareholder incentive alignment to study security design, showing that debt provides tough control in bad states while equity provides softer control in good states."
