@@ -1,3 +1,7 @@
+- title: "Goldin and Rouse (AER, 2000) - Orchestrating Impartiality: The Impact of Blind Auditions on Female Musicians"
+  file: "Goldin_Rouse_AER_2000.pdf"
+  desc: "This note summarizes the paper, which uses orchestra roster data, internal audition records, blind-screen adoption across orchestras and rounds, candidate sex classification, individual fixed effects, hiring regressions, and roster probit models to study gender bias in elite musician selection, showing that blind auditions improved women's advancement and hiring outcomes and contributed meaningfully to the rise of women in major orchestras."
+
 - title: "Card, Heining, and Kline (QJE, 2013) - Workplace Heterogeneity and the Rise of West German Wage Inequality"
   file: "Card_Heining_Kline_QJE_2013.pdf"
   desc: "This note summarizes the paper, which uses German matched employer-employee administrative data, AKM worker and establishment fixed effects, mover event studies, connected-set estimation, variance decompositions, education/occupation/industry decompositions, and collective-bargaining evidence to study West German wage inequality, showing that rising worker heterogeneity, widening establishment wage premiums, and stronger positive worker-firm sorting explain most of the inequality increase."
