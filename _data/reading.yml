@@ -1,3 +1,7 @@
+- title: "Pesendorfer and Schmidt-Dengler (RES, 2008) - Asymptotic Least Squares Estimators for Dynamic Games"
+  file: "Pesendorfer_SchmidtDengler_RES_2008.pdf"
+  desc: "This note summarizes the paper, which develops asymptotic least-squares estimators for dynamic games with finite actions using first-stage conditional choice probabilities, transition probabilities, Markov-perfect-equilibrium equations, payoff restrictions, rank conditions, efficient weight matrices, PML comparisons, and Monte Carlo evidence, showing that dynamic-game estimation can be organized as fitting equilibrium choice-probability equations rather than repeatedly solving the game."
+
 - title: "Bajari, Hong, and Ryan (Econometrica, 2010) - Identification and Estimation of a Discrete Game of Complete Information"
   file: "Bajari_Hong_Ryan_Econometrica_2010.pdf"
   desc: "This note summarizes the paper, which develops simulation-based estimation for complete-information discrete games with multiple pure and mixed equilibria, equilibrium-selection mechanisms, importance sampling, MSM moments, identification-at-infinity and exclusion restrictions, and an application to CalTrans highway procurement auction entry, showing that payoff primitives and equilibrium selection can be jointly estimated when selection is modeled explicitly."
