@@ -1,3 +1,7 @@
+- title: "Card, Heining, and Kline (QJE, 2013) - Workplace Heterogeneity and the Rise of West German Wage Inequality"
+  file: "Card_Heining_Kline_QJE_2013.pdf"
+  desc: "This note summarizes the paper, which uses German matched employer-employee administrative data, AKM worker and establishment fixed effects, mover event studies, connected-set estimation, variance decompositions, education/occupation/industry decompositions, and collective-bargaining evidence to study West German wage inequality, showing that rising worker heterogeneity, widening establishment wage premiums, and stronger positive worker-firm sorting explain most of the inequality increase."
+
 - title: "Jovanovic and Nyarko (Econometrica, 1996) - Learning by Doing and the Choice of Technology"
   file: "Jovanovic_Nyarko_Econometrica_1996.pdf"
   desc: "This note summarizes the paper, which develops a Bayesian learning-by-doing model with technology grades, posterior variance as expertise, imperfect knowledge transfer, upgrade thresholds, no-recall constraints, and two dynamic cases to study technology choice, showing that accumulated expertise can either support upgrading when knowledge is transferable or trap incumbents in old technologies when knowledge is highly specific."
