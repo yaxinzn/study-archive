@@ -1,3 +1,7 @@
+- title: "Grossman and Helpman (QJE, 2005) - A Protectionist Bias in Majoritarian Politics"
+  file: "Grossman_Helpman_QJE_2005.pdf"
+  desc: "This note summarizes the paper, which develops a formal political-economy model with three districts, industry-specific capital ownership, campaign platforms, majority delegations, imperfect party discipline, and tariff/subsidy choices to study trade-policy bias under majoritarian politics, showing that protection can arise even without lobbying because locally minded legislators overweight majority-district interests while party commitment is imperfect."
+
 - title: "Gale and Hellwig (RES, 1985) - Incentive-Compatible Debt Contracts: The One-Period Problem"
   file: "Gale_Hellwig_RES_1985.pdf"
   desc: "This note summarizes the paper, which develops a costly-state-verification credit-contract model with privately observed project outcomes, lender observation costs, incentive compatibility, maximum equity participation, standard debt contracts, bankruptcy cutoffs, reduced investment problems, interest-rate-taking comparisons, risk-aversion extensions, and liquidity comparative statics to study optimal debt, showing that debt economizes on verification but costly bankruptcy creates underinvestment relative to first best."
