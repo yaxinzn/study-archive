@@ -1,3 +1,7 @@
+- title: "Admati and Pfleiderer (RFS, 2000) - Forcing Firms to Talk: Financial Disclosure Regulation and Externalities"
+  file: "Admati_Pfleiderer_RFS_2000.pdf"
+  desc: "This note summarizes the paper, which develops a costly truthful-disclosure model with signal precision choice, adverse-selection-driven transactions, correlated firm values, disclosure spillovers, discontinuous reaction functions, Nash disclosure equilibria, minimum precision mandates, and disclosure subsidies to study disclosure regulation, showing that regulation can improve welfare when firms underinternalize spillovers but can also reduce welfare when uniform rules force the wrong disclosure."
+
 - title: "Fishman and Hagerty (JF, 1989) - Disclosure Decisions by Firms and the Competition for Price Efficiency"
   file: "Fishman_Hagerty_JF_1989.pdf"
   desc: "This note summarizes the paper, which develops a disclosure model with managerial investment incentives, costly disclosure precision, limited trader attention, Kyle-style informed trading, price efficiency, and cross-firm competition for informed investors to study voluntary disclosure, showing that firms may overdisclose because they privately benefit from attracting traders away from other firms even when the social value of disclosure is lower."
