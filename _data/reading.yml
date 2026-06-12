@@ -1,3 +1,7 @@
+- title: "Gross and Souleles (QJE, 2002) - Do Liquidity Constraints and Interest Rates Matter for Consumer Behavior? Evidence from Credit Card Data"
+  file: "Gross_Souleles_QJE_2002.pdf"
+  desc: "This note summarizes the paper, which uses account-level U.S. credit card data from 1995-1998, credit limits, balances, account-specific interest rates, credit scores, utilization rates, distributed-lag event studies, issuer timing instruments, and other-card balance checks to study consumer borrowing, showing that credit-limit increases and interest-rate changes strongly affect debt, especially for borrowers near their limits."
+
 - title: "Ameriks, Caplin, and Leahy (QJE, 2003) - Wealth Accumulation and the Propensity to Plan"
   file: "Ameriks_Caplin_Leahy_QJE_2003.pdf"
   desc: "This note summarizes the paper, which uses custom TIAA-CREF household surveys, self-reported and administrative wealth data, financial-planning measures, vacation-planning and math-confidence instruments, OLS and IV wealth regressions, preference controls, and budgeting tests to study wealth accumulation, showing that households with a stronger propensity to plan accumulate substantially more wealth through planning, budgeting, and spending control."
