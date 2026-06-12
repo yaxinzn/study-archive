@@ -1,3 +1,7 @@
+- title: "Busse (RFS, 1999) - Volatility Timing in Mutual Funds: Evidence from Daily Returns"
+  file: "Busse_RFS_1999.pdf"
+  desc: "This note summarizes the paper, which uses daily returns for 230 domestic equity mutual funds from 1985-1995, EGARCH conditional market volatility, daily and monthly beta-volatility regressions, style-matched random control portfolios, conditional alpha tests, and market-timing controls to study volatility timing, showing that active funds reduce market exposure in high-volatility states and earn better conditional risk-adjusted performance."
+
 - title: "Gross and Souleles (QJE, 2002) - Do Liquidity Constraints and Interest Rates Matter for Consumer Behavior? Evidence from Credit Card Data"
   file: "Gross_Souleles_QJE_2002.pdf"
   desc: "This note summarizes the paper, which uses account-level U.S. credit card data from 1995-1998, credit limits, balances, account-specific interest rates, credit scores, utilization rates, distributed-lag event studies, issuer timing instruments, and other-card balance checks to study consumer borrowing, showing that credit-limit increases and interest-rate changes strongly affect debt, especially for borrowers near their limits."
