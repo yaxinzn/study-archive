@@ -1,3 +1,7 @@
+- title: "Jovanovic and Rousseau (AER P&P, 2002) - The Q-Theory of Mergers"
+  file: "Jovanovic_Rousseau_AER_2002.pdf"
+  desc: "This note summarizes the paper, which extends Q-theory to mergers using CRSP-Compustat investment data, direct capital expenditures, acquisition spending, market-to-book Q, disappearing-firm capital prices, cash measures, fixed acquisition costs, investment regressions, and historical merger-wave evidence to study M&A as capital reallocation, showing that acquisitions are more Q-sensitive than direct investment and that merger waves often occur when Q dispersion is high."
+
 - title: "Subrahmanyam and Titman (JF, 1999) - The Going-Public Decision and the Development of Financial Markets"
   file: "Subrahmanyam_Titman_JF_1999.pdf"
   desc: "This note summarizes the paper, which develops a going-public model with public versus private financing, dispersed costly and serendipitous information, stock-price feedback to investment, liquidity costs from informed trading, costly information crowding out, and market-size externalities to study financial-market development, showing that public markets are valuable as information-aggregation systems and can exhibit multiple equilibria driven by listing and liquidity externalities."
