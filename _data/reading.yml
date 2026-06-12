@@ -1,3 +1,7 @@
+- title: "Welch (JPE, 2004) - Capital Structure and Stock Returns"
+  file: "Welch_JPE_2004.pdf"
+  desc: "This note summarizes the paper, which uses Compustat-CRSP data on large U.S. public firms from 1962-2000, actual and implied debt ratios, stock-return-induced equity-value changes, net debt and equity issuance components, readjustment regressions, and standard capital-structure controls to study leverage dynamics, showing that firms do little systematic rebalancing after stock-return shocks and that market leverage is highly path-dependent."
+
 - title: "Kosowski, Timmermann, Wermers, and White (JF, 2006) - Can Mutual Fund Stars Really Pick Stocks? New Evidence from a Bootstrap Analysis"
   file: "Kosowski_Timmermann_Wermers_White_JF_2006.pdf"
   desc: "This note summarizes the paper, which uses CRSP and CDA/Thomson U.S. domestic equity mutual fund data from 1975-2002, Carhart four-factor alphas, alpha t-statistics, residual-resampling bootstraps, subperiod and objective-group tests, stockholdings-based DGTW characteristic selectivity, value-added calculations, and persistence tests to study whether mutual fund stars reflect skill or luck, showing that a nontrivial right tail of managers, especially growth-oriented funds, has stock-picking skill that exceeds bootstrap-implied luck and covers costs."
