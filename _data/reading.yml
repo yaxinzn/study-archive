@@ -1,3 +1,7 @@
+- title: "Laibson (QJE, 1997) - Golden Eggs and Hyperbolic Discounting"
+  file: "Laibson_QJE_1997.pdf"
+  desc: "This note summarizes the paper, which develops a quasi-hyperbolic consumption-saving model with liquid and illiquid assets, sophisticated present-biased selves, intrapersonal subgame-perfect equilibrium, self-imposed liquidity constraints, asset-specific marginal propensities to consume, Ricardian-equivalence failures, financial-innovation comparisons, and welfare calculations, showing that illiquid golden eggs can be valuable commitment devices that restrain future overconsumption."
+
 - title: "Azevedo and Leshno (JPE, 2016) - A Supply and Demand Framework for Two-Sided Matching Markets"
   file: "Azevedo_Leshno_JPE_2016.pdf"
   desc: "This note summarizes the paper, which develops a continuum model of two-sided matching with student types, college capacities, score cutoffs, market-clearing demand, stable-match equivalence, uniqueness theorems, finite-market convergence results, school-quality comparative statics, and random-serial-dictatorship limits, showing that stable matching markets can be analyzed through supply-and-demand cutoffs that play the role of prices."
