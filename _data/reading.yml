@@ -1,3 +1,7 @@
+- title: "Maksimovic and Phillips (JF, 2001) - The Market for Corporate Assets: Who Engages in Mergers and Asset Sales and Are There Efficiency Gains?"
+  file: "Maksimovic_Phillips_JF_2001.pdf"
+  desc: "This note summarizes the paper, which uses Census LRD and ASM plant-level data, plant ownership changes, mergers, full- and partial-segment asset sales, plant TFP, segment rank, industry demand, buyer and seller productivity, and post-transaction productivity changes to study the corporate asset market, showing that assets tend to move from less productive sellers to more productive buyers and often improve after reallocation."
+
 - title: "Jovanovic and Rousseau (AER P&P, 2002) - The Q-Theory of Mergers"
   file: "Jovanovic_Rousseau_AER_2002.pdf"
   desc: "This note summarizes the paper, which extends Q-theory to mergers using CRSP-Compustat investment data, direct capital expenditures, acquisition spending, market-to-book Q, disappearing-firm capital prices, cash measures, fixed acquisition costs, investment regressions, and historical merger-wave evidence to study M&A as capital reallocation, showing that acquisitions are more Q-sensitive than direct investment and that merger waves often occur when Q dispersion is high."
