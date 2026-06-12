@@ -1,3 +1,7 @@
+- title: "Teoh, Welch, and Wong (JF, 1998) - Earnings Management and the Long-Run Market Performance of Initial Public Offerings"
+  file: "Teoh_Welch_Wong_JF_1998.pdf"
+  desc: "This note summarizes the paper, which uses U.S. IPOs from 1980 to 1992, discretionary current accruals from a modified Jones model, event-time financial statements, DCA quartile portfolios, long-run abnormal returns, Fama-French regressions, Fama-MacBeth tests, and subsequent SEO outcomes to study IPO earnings management, showing that aggressive IPO-year accruals predict later underperformance as accrual-supported earnings reverse."
+
 - title: "Goldin and Rouse (AER, 2000) - Orchestrating Impartiality: The Impact of Blind Auditions on Female Musicians"
   file: "Goldin_Rouse_AER_2000.pdf"
   desc: "This note summarizes the paper, which uses orchestra roster data, internal audition records, blind-screen adoption across orchestras and rounds, candidate sex classification, individual fixed effects, hiring regressions, and roster probit models to study gender bias in elite musician selection, showing that blind auditions improved women's advancement and hiring outcomes and contributed meaningfully to the rise of women in major orchestras."
