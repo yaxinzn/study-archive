@@ -1,3 +1,7 @@
+- title: "Brander and Lewis (AER, 1986) - Oligopoly and Financial Structure: The Limited Liability Effect"
+  file: "Brander_Lewis_AER_1986.pdf"
+  desc: "This note summarizes the paper, which develops a two-stage Cournot duopoly model with first-stage debt choice, limited liability, uncertain operating profits, bankruptcy cutoffs, equityholder and debtholder residual-claim regions, reaction-function shifts, and strategic debt-choice equilibria to study product-market effects of leverage, showing that debt can commit firms to more aggressive output behavior when marginal profits are higher in good states."
+
 - title: "Titman (JFE, 1984) - The Effect of Capital Structure on a Firm's Liquidation Decision"
   file: "Titman_JFE_1984.pdf"
   desc: "This note summarizes the paper, which develops a two-period model with durable-good customers, operating and liquidation values, customer liquidation costs, ex ante versus ex post liquidation rules, debt and preferred-stock control rights, and state-contingent implementation conditions to study capital structure and liquidation decisions, showing that financial structure can bond firms to more efficient liquidation policies when liquidation harms customers, workers, or suppliers."
