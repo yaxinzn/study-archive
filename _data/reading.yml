@@ -1,3 +1,7 @@
+- title: "Baker and Wurgler (JF, 2002) - Market Timing and Capital Structure"
+  file: "Baker_Wurgler_JF_2002.pdf"
+  desc: "This note summarizes the paper, which uses Compustat firms from 1968-1999, IPO-year panels, book and market leverage, financing-component decompositions, current market-to-book, external-finance-weighted historical market-to-book, cumulative leverage-change regressions, and persistence tests to study market timing in capital structure, showing that equity issuance during high-valuation periods leaves a long-lasting negative imprint on leverage."
+
 - title: "Welch (JPE, 2004) - Capital Structure and Stock Returns"
   file: "Welch_JPE_2004.pdf"
   desc: "This note summarizes the paper, which uses Compustat-CRSP data on large U.S. public firms from 1962-2000, actual and implied debt ratios, stock-return-induced equity-value changes, net debt and equity issuance components, readjustment regressions, and standard capital-structure controls to study leverage dynamics, showing that firms do little systematic rebalancing after stock-return shocks and that market leverage is highly path-dependent."
