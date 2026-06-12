@@ -1,3 +1,7 @@
+- title: "Harford (JFE, 2005) - What Drives Merger Waves?"
+  file: "Harford_JFE_2005.pdf"
+  desc: "This note summarizes the paper, which uses SDC merger bids from 1981 to 2000, simulation-defined industry merger waves, Fama-French industries, real industry shock measures, deregulation events, market-to-book and return variables, C&I loan-rate spreads, partial-firm acquisitions, return tests, and operating-performance regressions to study merger waves, showing that waves are driven mainly by industry shocks interacting with capital liquidity rather than pure market-timing misvaluation."
+
 - title: "Acemoglu (Economic Policy, 2025) - The Simple Macroeconomics of AI"
   file: "Acemoglu_EconPolicy_2025.pdf"
   desc: "This note summarizes the paper, which uses a task-based macro framework, AI task-exposure estimates, feasibility adjustments, experimental cost-saving estimates, Hulten-style aggregation, easy-versus-hard task classifications, capital-accumulation multipliers, and wage-distribution calculations to study AI's medium-run macro effects, showing that recent AI is likely to raise TFP and GDP positively but modestly over 10 years unless it creates many valuable new worker-complementary tasks."
