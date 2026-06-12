@@ -1,3 +1,7 @@
+- title: "Fishman and Hagerty (JF, 1989) - Disclosure Decisions by Firms and the Competition for Price Efficiency"
+  file: "Fishman_Hagerty_JF_1989.pdf"
+  desc: "This note summarizes the paper, which develops a disclosure model with managerial investment incentives, costly disclosure precision, limited trader attention, Kyle-style informed trading, price efficiency, and cross-firm competition for informed investors to study voluntary disclosure, showing that firms may overdisclose because they privately benefit from attracting traders away from other firms even when the social value of disclosure is lower."
+
 - title: "Easley, Kiefer, O'Hara, and Paperman (JF, 1996) - Liquidity, Information, and Infrequently Traded Stocks"
   file: "Easley_Kiefer_OHara_Paperman_JF_1996.pdf"
   desc: "This note summarizes the paper, which estimates a structural market-microstructure model using NYSE buy and sell order counts, latent information-event probabilities, informed and uninformed arrival rates, price-matched volume deciles, PIN measures, quoted spreads, and spread regressions to study infrequently traded stocks, showing that low-volume stocks face higher information-based trading risk and that PIN explains spreads better than volume alone."
