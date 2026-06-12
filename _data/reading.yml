@@ -1,3 +1,7 @@
+- title: "Jovanovic and Nyarko (Econometrica, 1996) - Learning by Doing and the Choice of Technology"
+  file: "Jovanovic_Nyarko_Econometrica_1996.pdf"
+  desc: "This note summarizes the paper, which develops a Bayesian learning-by-doing model with technology grades, posterior variance as expertise, imperfect knowledge transfer, upgrade thresholds, no-recall constraints, and two dynamic cases to study technology choice, showing that accumulated expertise can either support upgrading when knowledge is transferable or trap incumbents in old technologies when knowledge is highly specific."
+
 - title: "Kovenock and Phillips (RFS, 1997) - Capital Structure and Product Market Behavior: An Examination of Plant Exit and Investment Decisions"
   file: "Kovenock_Phillips_RFS_1997.pdf"
   desc: "This note summarizes the paper, which uses Census LRD plant-level data for manufacturing industries with recapitalization and LBO activity, plant TFP, plant closures, investment thresholds, industry concentration, capacity utilization, predicted capital-structure changes, and rival high-debt market share to study leverage and product-market behavior, showing that debt affects plant exit and investment mainly when interacted with market concentration and strategic product-market conditions."
