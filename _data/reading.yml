@@ -1,3 +1,7 @@
+- title: "Loughran and Schultz (JFE, 2005) - Liquidity: Urban versus Rural Firms"
+  file: "Loughran_Schultz_JFE_2005.pdf"
+  desc: "This note summarizes the paper, which uses U.S. firm headquarters locations, CRSP trading data, I/B/E/S analyst coverage, institutional ownership, TAQ spreads, market-maker data, rural-urban classifications, turnover regressions, systematic-turnover decompositions, and Nasdaq-to-NYSE/Amex listing events to study liquidity, showing that rural firms are less visible, trade less, and face higher Nasdaq trading costs than comparable urban firms."
+
 - title: "Laibson (QJE, 1997) - Golden Eggs and Hyperbolic Discounting"
   file: "Laibson_QJE_1997.pdf"
   desc: "This note summarizes the paper, which develops a quasi-hyperbolic consumption-saving model with liquid and illiquid assets, sophisticated present-biased selves, intrapersonal subgame-perfect equilibrium, self-imposed liquidity constraints, asset-specific marginal propensities to consume, Ricardian-equivalence failures, financial-innovation comparisons, and welfare calculations, showing that illiquid golden eggs can be valuable commitment devices that restrain future overconsumption."
