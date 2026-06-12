@@ -1,3 +1,7 @@
+- title: "Kovenock and Phillips (RFS, 1997) - Capital Structure and Product Market Behavior: An Examination of Plant Exit and Investment Decisions"
+  file: "Kovenock_Phillips_RFS_1997.pdf"
+  desc: "This note summarizes the paper, which uses Census LRD plant-level data for manufacturing industries with recapitalization and LBO activity, plant TFP, plant closures, investment thresholds, industry concentration, capacity utilization, predicted capital-structure changes, and rival high-debt market share to study leverage and product-market behavior, showing that debt affects plant exit and investment mainly when interacted with market concentration and strategic product-market conditions."
+
 - title: "Grossman and Helpman (QJE, 2005) - A Protectionist Bias in Majoritarian Politics"
   file: "Grossman_Helpman_QJE_2005.pdf"
   desc: "This note summarizes the paper, which develops a formal political-economy model with three districts, industry-specific capital ownership, campaign platforms, majority delegations, imperfect party discipline, and tariff/subsidy choices to study trade-policy bias under majoritarian politics, showing that protection can arise even without lobbying because locally minded legislators overweight majority-district interests while party commitment is imperfect."
