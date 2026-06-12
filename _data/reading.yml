@@ -1,3 +1,7 @@
+- title: "Stiglitz and Weiss (AER, 1981) - Credit Rationing in Markets with Imperfect Information"
+  file: "Stiglitz_Weiss_AER_1981.pdf"
+  desc: "This note summarizes the paper, which develops a theoretical credit-rationing model with limited liability, borrower risk heterogeneity, interest-rate screening, adverse selection, borrower risk-shifting incentives, collateral screening, redlining across observable groups, and principal-agent contract analogies to study imperfect-information loan markets, showing that banks may rationally ration credit rather than raise interest rates because higher rates or collateral can worsen borrower quality and behavior."
+
 - title: "Rajan and Zingales (JF, 1995) - What Do We Know about Capital Structure? Some Evidence from International Data"
   file: "Rajan_Zingales_JF_1995.pdf"
   desc: "This note summarizes the paper, which uses Global Vantage data on nonfinancial public firms in the G-7 countries, multiple book and market leverage measures, accounting adjustments, external-financing-flow comparisons, tax and bankruptcy-code descriptions, financial-system indicators, and within-country leverage regressions on tangibility, market-to-book, size, and profitability to study international capital structure, showing that major U.S. leverage regularities are broadly robust across developed countries but still lack a single clear theoretical explanation."
