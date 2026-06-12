@@ -1,3 +1,7 @@
+- title: "Edelen (JFE, 1999) - Investor Flows and the Assessed Performance of Open-End Mutual Funds"
+  file: "Edelen_JFE_1999.pdf"
+  desc: "This note summarizes the paper, which uses N-SAR inflow, outflow, purchase, and sale data for 166 open-end mutual funds, Morningstar and Barron's returns, flow-induced trading measures, lagged-return controls, lagged-flow instruments, abnormal-return regressions, and market-timing tests to study mutual fund performance, showing that much apparent underperformance and negative timing reflects the cost of providing liquidity to investors rather than pure managerial underperformance."
+
 - title: "Bollen and Busse (RFS, 2005) - Short-Term Persistence in Mutual Fund Performance"
   file: "Bollen_Busse_RFS_2005.pdf"
   desc: "This note summarizes the paper, which uses daily returns for 230 domestic equity mutual funds from 1985-1995, quarterly ranking windows, four-factor stock-selection alphas, Treynor-Mazuy and Henriksson-Merton timing models, mixed-strategy rankings, persistence regressions, and robustness tests with alternative momentum factors to study short-term fund performance persistence, showing that top abnormal-performance funds continue to earn positive abnormal returns in the next quarter, but the effect is short-lived."
