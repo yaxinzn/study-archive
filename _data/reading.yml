@@ -1,3 +1,7 @@
+- title: "Dewatripont and Tirole (QJE, 1994) - A Theory of Debt and Equity: Diversity of Securities and Manager-Shareholder Congruence"
+  file: "Dewatripont_Tirole_QJE_1994.pdf"
+  desc: "This note summarizes the paper, which develops a theory of debt and equity with managerial moral hazard, noncontractible outsider intervention, stopping versus continuation actions, payoff curvature, debt-holder and equity-holder control regions, recapitalization mechanisms, and manager-shareholder incentive alignment to study security design, showing that debt provides tough control in bad states while equity provides softer control in good states."
+
 - title: "Hart and Moore (QJE, 1994) - A Theory of Debt Based on the Inalienability of Human Capital"
   file: "Hart_Moore_QJE_1994.pdf"
   desc: "This note summarizes the paper, which develops an incomplete-contracting model with alienable physical assets, inalienable entrepreneurial human capital, project cash-flow paths, liquidation values, feasibility and credibility constraints on repayments, debt capacity, fastest and slowest repayment paths, reinvestment-opportunity extensions, and maturity comparative statics to study debt, showing that debt capacity and maturity are governed by what the borrower can credibly pledge without repudiating."
