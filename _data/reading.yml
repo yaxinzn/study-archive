@@ -1,3 +1,7 @@
+- title: "Subrahmanyam and Titman (JF, 1999) - The Going-Public Decision and the Development of Financial Markets"
+  file: "Subrahmanyam_Titman_JF_1999.pdf"
+  desc: "This note summarizes the paper, which develops a going-public model with public versus private financing, dispersed costly and serendipitous information, stock-price feedback to investment, liquidity costs from informed trading, costly information crowding out, and market-size externalities to study financial-market development, showing that public markets are valuable as information-aggregation systems and can exhibit multiple equilibria driven by listing and liquidity externalities."
+
 - title: "Admati and Pfleiderer (RFS, 2000) - Forcing Firms to Talk: Financial Disclosure Regulation and Externalities"
   file: "Admati_Pfleiderer_RFS_2000.pdf"
   desc: "This note summarizes the paper, which develops a costly truthful-disclosure model with signal precision choice, adverse-selection-driven transactions, correlated firm values, disclosure spillovers, discontinuous reaction functions, Nash disclosure equilibria, minimum precision mandates, and disclosure subsidies to study disclosure regulation, showing that regulation can improve welfare when firms underinternalize spillovers but can also reduce welfare when uniform rules force the wrong disclosure."
