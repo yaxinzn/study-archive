@@ -1,3 +1,7 @@
+- title: "Bajari, Hong, and Ryan (Econometrica, 2010) - Identification and Estimation of a Discrete Game of Complete Information"
+  file: "Bajari_Hong_Ryan_Econometrica_2010.pdf"
+  desc: "This note summarizes the paper, which develops simulation-based estimation for complete-information discrete games with multiple pure and mixed equilibria, equilibrium-selection mechanisms, importance sampling, MSM moments, identification-at-infinity and exclusion restrictions, and an application to CalTrans highway procurement auction entry, showing that payoff primitives and equilibrium selection can be jointly estimated when selection is modeled explicitly."
+
 - title: "Bajari, Benkard, and Levin (Econometrica, 2007) - Estimating Dynamic Models of Imperfect Competition"
   file: "Bajari_Benkard_Levin_Econometrica_2007.pdf"
   desc: "This note summarizes the paper, which develops a two-step estimator for dynamic games using first-stage policy-function and transition estimates, forward simulation of value functions, equilibrium optimality inequalities, simulated minimum distance, deviation strategies, partial-identification bounds, and Monte Carlo dynamic discrete-choice and oligopoly exercises, showing how dynamic games can be estimated without repeatedly solving Markov perfect equilibria."
