@@ -1,3 +1,7 @@
+- title: "McDonald and Siegel (QJE, 1986) - The Value of Waiting to Invest"
+  file: "McDonald_Siegel_QJE_1986.pdf"
+  desc: "This note summarizes the paper, which develops a continuous-time real-options model with stochastic project value, stochastic investment cost, risk-adjusted discounting, geometric Brownian motion, jump-to-zero risk, investment thresholds, scrapping analogies, and numerical option-value tables to study irreversible investment timing, showing that firms should wait until project value exceeds cost by a substantial hurdle because investing destroys the valuable option to wait."
+
 - title: "Harford (JFE, 2005) - What Drives Merger Waves?"
   file: "Harford_JFE_2005.pdf"
   desc: "This note summarizes the paper, which uses SDC merger bids from 1981 to 2000, simulation-defined industry merger waves, Fama-French industries, real industry shock measures, deregulation events, market-to-book and return variables, C&I loan-rate spreads, partial-firm acquisitions, return tests, and operating-performance regressions to study merger waves, showing that waves are driven mainly by industry shocks interacting with capital liquidity rather than pure market-timing misvaluation."
