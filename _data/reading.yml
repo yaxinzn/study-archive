@@ -1,3 +1,7 @@
+- title: "Hoshi, Kashyap, and Scharfstein (QJE, 1991) - Corporate Structure, Liquidity, and Investment: Evidence from Japanese Industrial Groups"
+  file: "Hoshi_Kashyap_Scharfstein_QJE_1991.pdf"
+  desc: "This note summarizes the paper, which uses Japanese manufacturing firms, keiretsu group affiliation, main-bank relationships, Tobin's q, cash flow, short-term securities, production controls, firm and year fixed effects, and group-versus-independent investment regressions to study financing constraints, showing that close bank ties sharply reduce investment sensitivity to internal liquidity."
+
 - title: "McDonald and Siegel (QJE, 1986) - The Value of Waiting to Invest"
   file: "McDonald_Siegel_QJE_1986.pdf"
   desc: "This note summarizes the paper, which develops a continuous-time real-options model with stochastic project value, stochastic investment cost, risk-adjusted discounting, geometric Brownian motion, jump-to-zero risk, investment thresholds, scrapping analogies, and numerical option-value tables to study irreversible investment timing, showing that firms should wait until project value exceeds cost by a substantial hurdle because investing destroys the valuable option to wait."
