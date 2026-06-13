@@ -1,3 +1,7 @@
+- title: "Barberis, Huang, and Santos (QJE, 2001) - Prospect Theory and Asset Prices"
+  file: "Barberis_Huang_Santos_QJE_2001.pdf"
+  desc: "This note summarizes the paper, which develops an equilibrium asset-pricing model with consumption utility, prospect-theory utility over financial gains and losses, loss aversion, prior gains and losses, state-dependent risk aversion, price-dividend dynamics, and separate consumption and dividend processes to study aggregate stock-market puzzles, showing that dynamic loss aversion can help explain the equity premium, excess volatility, return predictability, and low stock-return consumption-growth correlation."
+
 - title: "Grossman and Helpman (RES, 1996) - Electoral Competition and Special Interest Politics"
   file: "Grossman_Helpman_RES_1996.pdf"
   desc: "This note summarizes the paper, which develops an electoral competition model with informed and uninformed voters, two parties, pliable policies, policy-contingent contribution schedules, one-lobby and multiple-lobby equilibria, local truthfulness, weighted-welfare platform conditions, and electoral-versus-influence motives to study special-interest politics, showing that campaign finance can make parties behave as weighted-welfare maximizers that trade informed-voter welfare against organized-interest support."
