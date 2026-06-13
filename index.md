@@ -10,9 +10,6 @@ hide_name: true
 
 ## Notes and Public Resources (Assisted by LLMs)
 
-### Reading Notes and Live Variable Tables
-
-
 
 <div style="margin-top:14px; padding:14px 16px; border:1px solid rgba(0,0,0,.12); border-left:4px solid #0f3d2e; border-radius:10px; background:#fff;">
   <div style="font-weight:750;">
@@ -32,8 +29,6 @@ hide_name: true
   </div>
 </div>
 
-
-### Fields - incomplete
 - **[Econometrics](materials/econometrics/)** 
 - **[TFP Measurement](materials/tfp-measurement/)** 
 - **[Empirical Industrial Organization](materials/eio/)**
