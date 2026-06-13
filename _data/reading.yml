@@ -1,3 +1,7 @@
+- title: "Schularick and Taylor (AER, 2012) - Credit Booms Gone Bust: Monetary Policy, Leverage Cycles, and Financial Crises, 1870-2008"
+  file: "Schularick_Taylor_AER_2012.pdf"
+  desc: "This note summarizes the paper, which builds a long historical panel for 14 advanced economies from 1870 to 2008 using bank loans, bank assets, broad and narrow money, macro variables, stock prices, and banking-crisis dates, and estimates event studies and crisis-prediction models to compare money and credit views of instability, showing that credit growth is a robust early-warning indicator of financial crises and that modern credit booms are not well captured by monetary aggregates alone."
+
 - title: "Krishnamurthy and Muir (JF, 2025) - How Credit Cycles across a Financial Crisis"
   file: "Krishnamurthy_Muir_JF_2025.pdf"
   desc: "This note summarizes the paper, which constructs long-run international credit-spread data, combines crisis chronologies with GDP and credit aggregates, studies spread changes, precrisis credit growth, low-spread froth, crisis interactions, quantile regressions, logit forecasts, out-of-sample checks, and alternative crisis dates to study credit cycles around financial crises, showing that crises are most severe when large spread shocks hit economies with high precrisis credit growth and that low spreads plus high credit growth predict future crises."
