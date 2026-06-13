@@ -1,3 +1,7 @@
+- title: "Pindyck (AER, 1988) - Irreversible Investment, Capacity Choice, and the Value of the Firm"
+  file: "Pindyck_AER_1988.pdf"
+  desc: "This note summarizes the paper, which develops a real-options capacity-choice model with stochastic demand, irreversible capital installation, operating options, investment options, marginal capacity value, optimal capacity thresholds, firm-value decomposition, and long-run marginal-cost implications to study capacity investment, showing that uncertainty raises the value of waiting more than the value of installed capacity and therefore reduces optimal capacity."
+
 - title: "Gomes (AER, 2001) - Financing Investment"
   file: "Gomes_AER_2001.pdf"
   desc: "This note summarizes the paper, which builds a heterogeneous-firm structural model with entry, exit, productivity shocks, costly external finance, fixed and variable flotation costs, simulated investment regressions, q-based specifications, cash-flow-augmented equations, subsample tests, and measurement-error experiments to study investment-cash-flow sensitivity, showing that cash-flow coefficients are not reliable evidence of financing constraints because q misspecification and productivity correlation can generate similar patterns."
