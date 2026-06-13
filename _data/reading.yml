@@ -1,3 +1,7 @@
+- title: "Gomes (AER, 2001) - Financing Investment"
+  file: "Gomes_AER_2001.pdf"
+  desc: "This note summarizes the paper, which builds a heterogeneous-firm structural model with entry, exit, productivity shocks, costly external finance, fixed and variable flotation costs, simulated investment regressions, q-based specifications, cash-flow-augmented equations, subsample tests, and measurement-error experiments to study investment-cash-flow sensitivity, showing that cash-flow coefficients are not reliable evidence of financing constraints because q misspecification and productivity correlation can generate similar patterns."
+
 - title: "Hoshi, Kashyap, and Scharfstein (QJE, 1991) - Corporate Structure, Liquidity, and Investment: Evidence from Japanese Industrial Groups"
   file: "Hoshi_Kashyap_Scharfstein_QJE_1991.pdf"
   desc: "This note summarizes the paper, which uses Japanese manufacturing firms, keiretsu group affiliation, main-bank relationships, Tobin's q, cash flow, short-term securities, production controls, firm and year fixed effects, and group-versus-independent investment regressions to study financing constraints, showing that close bank ties sharply reduce investment sensitivity to internal liquidity."
