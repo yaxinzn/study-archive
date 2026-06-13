@@ -1,3 +1,7 @@
+- title: "Puri, Rocholl, and Steffen (JFE, 2011) - Global Retail Lending in the Aftermath of the US Financial Crisis: Distinguishing between Supply and Demand Effects"
+  file: "Puri_Rocholl_Steffen_JFE_2011.pdf"
+  desc: "This note summarizes the paper, which uses the universe of German savings-bank retail loan applications from 2006 to 2008, Landesbank exposure to US subprime losses, affected and nonaffected bank comparisons, borrower risk ratings, loan approval outcomes, application counts, mortgage loan amounts, bank fixed effects, difference-in-differences, and relationship-lending tests to study crisis transmission, showing that exposed banks cut retail credit supply while existing borrower relationships partly shielded applicants."
+
 - title: "Mian and Sufi (Econometrica, 2014) - What Explains the 2007-2009 Drop in Employment?"
   file: "Mian_Sufi_Econometrica_2014.pdf"
   desc: "This note summarizes the paper, which uses county-level housing net worth shocks, Census County Business Patterns employment data, tradable versus non-tradable industry classifications, Saiz housing supply elasticity instruments, construction controls, credit-supply tests, wage and mobility outcomes, and local labor-market adjustment tests to study the Great Recession employment collapse, showing that household balance-sheet deterioration reduced local demand and caused large non-tradable job losses where labor-market adjustment was weak."
