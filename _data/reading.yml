@@ -1,3 +1,7 @@
+- title: "Jones (AEJ: Macroeconomics, 2011) - Intermediate Goods and Weak Links in the Theory of Economic Development"
+  file: "Jones_AEJMacro_2011.pdf"
+  desc: "This note summarizes the paper, which develops a development-accounting model with intermediate-goods linkages, weak-link complementarities, sectoral wedges, input-output multipliers, Hsieh-Klenow micro distortion statistics, OECD intermediate-share data, and robustness exercises on substitution elasticities to study cross-country income gaps, showing that production networks can strongly amplify micro distortions into large aggregate productivity differences."
+
 - title: "Pindyck (AER, 1988) - Irreversible Investment, Capacity Choice, and the Value of the Firm"
   file: "Pindyck_AER_1988.pdf"
   desc: "This note summarizes the paper, which develops a real-options capacity-choice model with stochastic demand, irreversible capital installation, operating options, investment options, marginal capacity value, optimal capacity thresholds, firm-value decomposition, and long-run marginal-cost implications to study capacity investment, showing that uncertainty raises the value of waiting more than the value of installed capacity and therefore reduces optimal capacity."
