@@ -1,3 +1,7 @@
+- title: "Krishnamurthy and Muir (JF, 2025) - How Credit Cycles across a Financial Crisis"
+  file: "Krishnamurthy_Muir_JF_2025.pdf"
+  desc: "This note summarizes the paper, which constructs long-run international credit-spread data, combines crisis chronologies with GDP and credit aggregates, studies spread changes, precrisis credit growth, low-spread froth, crisis interactions, quantile regressions, logit forecasts, out-of-sample checks, and alternative crisis dates to study credit cycles around financial crises, showing that crises are most severe when large spread shocks hit economies with high precrisis credit growth and that low spreads plus high credit growth predict future crises."
+
 - title: "Puri, Rocholl, and Steffen (JFE, 2011) - Global Retail Lending in the Aftermath of the US Financial Crisis: Distinguishing between Supply and Demand Effects"
   file: "Puri_Rocholl_Steffen_JFE_2011.pdf"
   desc: "This note summarizes the paper, which uses the universe of German savings-bank retail loan applications from 2006 to 2008, Landesbank exposure to US subprime losses, affected and nonaffected bank comparisons, borrower risk ratings, loan approval outcomes, application counts, mortgage loan amounts, bank fixed effects, difference-in-differences, and relationship-lending tests to study crisis transmission, showing that exposed banks cut retail credit supply while existing borrower relationships partly shielded applicants."
