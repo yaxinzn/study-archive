@@ -236,3 +236,58 @@ with OUT.open("w", encoding="utf-8") as f:
         f.write(f"  title: {yaml_quote(title)}\n")
 
 print(f"Wrote {OUT.relative_to(REPO)} with {len(items)} entries.")
+
+
+# DEDUPE_NEWS_BY_TITLE_BLOCK
+def _dedupe_news_by_title():
+    import re
+
+    if not OUT.exists():
+        return
+
+    txt = OUT.read_text(encoding="utf-8", errors="replace")
+    lines = txt.splitlines()
+
+    header = []
+    blocks = []
+    current = []
+    in_items = False
+
+    for line in lines:
+        if line.startswith("- date:"):
+            in_items = True
+            if current:
+                blocks.append(current)
+            current = [line]
+        else:
+            if in_items:
+                current.append(line)
+            else:
+                header.append(line)
+
+    if current:
+        blocks.append(current)
+
+    seen_titles = set()
+    kept = []
+
+    for b in blocks:
+        block_text = "\n".join(b)
+        m = re.search(r'(?m)^\s*title:\s*"?([^"\n]+)"?\s*$', block_text)
+        title = m.group(1).strip() if m else block_text.strip()
+
+        if title in seen_titles:
+            continue
+
+        seen_titles.add(title)
+        kept.append(b)
+
+    out_lines = header[:]
+    for b in kept:
+        out_lines.extend(b)
+
+    OUT.write_text("\n".join(out_lines).rstrip() + "\n", encoding="utf-8")
+    print(f"Deduped news.yml by title: kept {len(kept)} unique entries.")
+
+_dedupe_news_by_title()
+
