@@ -8,5 +8,6 @@
 {%- elsif first_char == "/" -%}
 {{ raw_pdf | relative_url }}
 {%- else -%}
-{{ "/reading/library/" | append: raw_pdf | relative_url }}
+{%- assign escaped_pdf = raw_pdf | uri_escape -%}
+{{ "/reading/library/" | append: escaped_pdf | relative_url }}
 {%- endif -%}
