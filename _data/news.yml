@@ -1,4 +1,7 @@
 # Auto-generated update history (sorted newest -> oldest). Do not edit manually.
+- ts: "1781397628"
+  date: "2026-06-14"
+  title: "Fix external Dropbox PDF links"
 - ts: "1781397127"
   date: "2026-06-14"
   title: "Move most reading PDFs to Dropbox links"
