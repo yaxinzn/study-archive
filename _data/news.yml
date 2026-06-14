@@ -1,5 +1,5 @@
 # Auto-generated from git commit history by scripts/generate_news.py
-# Manual backfills are read from _data/news_manual.yml.
+# Manual reading entries are preserved from _data/news_manual.yml.
 - date: "2026-06-14"
   title: "Reading: add/update Coate_Morris_JPE_1995.pdf"
 - date: "2026-06-14"
@@ -63,6 +63,8 @@
 - date: "2026-06-14"
   title: "Reading: add/update Crawford_Knoer_Econometrica_1981.pdf"
 - date: "2026-06-14"
+  title: "Deduplicate automatic reading news"
+- date: "2026-06-14"
   title: "chore: update NEWS feed"
 - date: "2026-06-14"
   title: "Reading: add/update 11 paper summaries"
@@ -91,7 +93,7 @@
 - date: "2026-06-14"
   title: "Clean up index.md by removing empty sections"
 - date: "2026-06-13"
-  title: "Reading: add/update LaPorta_LopezDeSilanes_Shleifer_Vishny_JF_1997.pdf"
+  title: "Add six reading entries without real PDFs"
 - date: "2026-06-13"
   title: "Reading: add/update Bernanke_Gertler_AER_1989.pdf"
 - date: "2026-06-13"
@@ -900,5 +902,3 @@
   title: "Reading: add/update Philipson_Becker_JPE_1998.pdf"
 - date: "2026-06-01"
   title: "Reading: add/update Blundell_Borella_Commault_DeNardi_AER_2024.pdf"
-- date: "2026-06-01"
-  title: "Reading: add/update Bloom_Schankerman_VanReenen_Econometrica_2013.pdf"
