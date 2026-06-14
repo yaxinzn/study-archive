@@ -1172,6 +1172,27 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       .trim();
   }
 
+
+  function pdfLabelFromValue(value){
+    let raw = (value || '').toString().trim();
+    if (!raw) return '';
+
+    const noQuery = raw.split('?')[0].split('#')[0];
+    const lastPart = noQuery.split('/').filter(Boolean).pop() || raw;
+
+    let decoded = lastPart;
+    try {
+      decoded = decodeURIComponent(lastPart);
+    } catch (err) {
+      decoded = lastPart;
+    }
+
+    return decoded
+      .replace(/\.pdf$/i, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+
   function uniqueSorted(values){
     return Array.from(new Set(values.filter(Boolean))).sort((a, b) => a.localeCompare(b));
   }
@@ -1292,7 +1313,17 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     const descNode = el.querySelector('.reading-desc');
     const author = (el.getAttribute('data-author') || '').trim();
     const title = (el.getAttribute('data-title') || (titleNode ? titleNode.textContent : '') || '').trim();
-    const file = (el.getAttribute('data-file') || (link ? link.textContent : '') || '').trim();
+
+    // rawFile may be a Dropbox URL after migration.
+    // linkLabel is the visible short label rendered by pdf_label.html.
+    // item.file is intentionally kept as the short display name so that
+    // Matching PDFs, Pick PDFs, Copy names, Download names, and Paper Practice
+    // all show Bernanke_Gertler_AER_1989 instead of the long Dropbox URL.
+    const rawFile = (el.getAttribute('data-file') || '').trim();
+    const linkLabel = (link ? link.textContent : '').trim();
+    const file = pdfLabelFromValue(linkLabel || rawFile);
+    const fileRaw = rawFile || file;
+
     const desc = (el.getAttribute('data-desc') || (descNode ? descNode.textContent : '') || '').trim();
     const href = link ? link.getAttribute('href') : '';
     const meta = parseFileMeta(file);
@@ -1315,6 +1346,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       fileAuthorLabel,
       title,
       file,
+      fileRaw,
       meta.journal,
       meta.year,
       desc,
@@ -1328,6 +1360,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       title,
       shortTitle: practiceTitle(title),
       file,
+      fileRaw,
       desc,
       href,
       initials,
