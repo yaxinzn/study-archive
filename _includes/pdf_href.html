@@ -1,0 +1,12 @@
+{%- assign raw_pdf = include.pdf | default: "" -%}
+{%- assign raw_pdf = raw_pdf | strip -%}
+{%- assign first_char = raw_pdf | slice: 0, 1 -%}
+{%- if raw_pdf == "" -%}
+#
+{%- elsif raw_pdf contains "://" -%}
+{{ raw_pdf }}
+{%- elsif first_char == "/" -%}
+{{ raw_pdf | relative_url }}
+{%- else -%}
+{{ "/reading/library/" | append: raw_pdf | relative_url }}
+{%- endif -%}

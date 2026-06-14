@@ -953,7 +953,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
                   {% endif %}
                   <p class="reading-file">
                     <strong>File:</strong>
-                    <a href="{{ site.baseurl }}/reading/library/{{ p.file | uri_escape }}">{{ p.file }}</a>
+                    <a href="{% include pdf_href.html pdf=p.file | uri_escape %}">{{ p.file }}</a>
                   </p>
                 </div>
                 <div class="reading-card-meta" data-card-meta></div>
