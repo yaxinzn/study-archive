@@ -1,0 +1,10 @@
+{%- assign raw_pdf = include.pdf | default: "" -%}
+{%- assign raw_pdf = raw_pdf | strip -%}
+{%- if raw_pdf contains "://" -%}
+{%- assign no_query = raw_pdf | split: "?" | first -%}
+{%- assign parts = no_query | split: "/" -%}
+{{ parts | last | replace: ".pdf", "" | replace: ".PDF", "" }}
+{%- else -%}
+{%- assign parts = raw_pdf | split: "/" -%}
+{{ parts | last | replace: ".pdf", "" | replace: ".PDF", "" }}
+{%- endif -%}
