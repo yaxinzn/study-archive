@@ -6121,3 +6121,58 @@
     cost type, hidden cost-reduction effort, observed realized cost, transfers, and costly public funds,
     showing that the optimal regulatory contract can be implemented by a linear cost-sharing scheme that
     balances information rents, effort incentives, and cost reimbursement.
+- title: "Hulten (RES, 1978) - Growth Accounting with Intermediate Inputs"
+  file: "https://www.dropbox.com/scl/fi/8pmzss42g5y14lj9r2zgr/Hulten_RES_1978.pdf?rlkey=f59jiug7dijhexz1xt3s17g9e&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a theoretical growth-accounting framework with
+    intermediate inputs, sectoral gross-output productivity residuals, the social production possibility
+    frontier, Domar aggregation, and effective productivity rates, showing that aggregate productivity
+    growth equals a Domar-weighted sum of sectoral productivity shocks because intermediate-input
+    linkages transmit and amplify sectoral technology changes through production networks.
+- title: "Campbell and Kyle (RES, 1993) - Smart Money, Noise Trading and Stock Price Behaviour"
+  file: "https://www.dropbox.com/scl/fi/uy9owh8i7is0rbqsdj5hw/Campbell_Kyle_RES_1993.pdf?rlkey=tr1wjeyahdwfibabh6ki83bh8&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a continuous-time equilibrium model with risk-averse
+    smart-money investors, exogenous noise traders, de-trended stock prices and dividends,
+    state-space/Kalman-filter estimation, and price decompositions into fundamentals and noise, showing
+    that U.S. stock-price volatility and return predictability can be rationalized either by low
+    discount rates or by persistent noise-trader-driven overreaction when discount rates are higher.
+- title: "Hottman, Redding, and Weinstein (QJE, 2016) - Quantifying the Sources of Firm Heterogeneity"
+  file: "https://www.dropbox.com/scl/fi/flylr26ew1c3jsenpscok/Hottman_Redding_Weinstein_QJE_2016.pdf?rlkey=xjci04yjh9gb1hho5q5ccpa4b&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Nielsen HomeScan barcode data, a nested-CES
+    multiproduct-firm demand system, recovered appeal, marginal cost, markup, and product-scope
+    components to decompose firm sales, showing that demand-side appeal and product scope explain most
+    firm-size dispersion and firm growth, while marginal cost differences alone explain much less than
+    standard productivity interpretations imply.
+- title: "Luttmer (QJE, 2007) - Selection, Growth, and the Size Distribution of Firms"
+  file: "https://www.dropbox.com/scl/fi/dtllwqtd8hugofj5rtyuu/Luttmer_QJE_2007.pdf?rlkey=82u8wydwdi4wwvzi6b6ax7gwy&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a balanced-growth model with idiosyncratic firm
+    productivity shocks, exit barriers, costly entry, imperfect imitation by entrants, and a stationary
+    firm-size distribution to explain Zipf-like firm-size tails, showing that selection among surviving
+    firms can be a quantitatively important source of aggregate productivity growth.
+- title: "DellaVigna and Pollet (AER, 2007) - Demographics and Industry Returns"
+  file: "https://www.dropbox.com/scl/fi/d6d6fvnla5g1eciuqcnt0/DellaVigna_Pollet_AER_2007.pdf?rlkey=u2vfvu58swst6jzl1sshmkye3&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines demographic cohort forecasts, age-consumption
+    profiles, industry-level profitability, CRSP returns, concentration measures, Fama-MacBeth
+    regressions, and trading portfolios to test whether investors price predictable future demand
+    shifts, showing that long-term demographic demand growth predicts future profitability and stock
+    returns, consistent with investor inattention to distant cash-flow news.
+- title: "Antweiler and Frank (JF, 2004) - Is All That Talk Just Noise? The Information Content of Internet Stock Message Boards"
+  file: "https://www.dropbox.com/scl/fi/2fqrmding4b254kow7y5u/Antweiler_Frank_JF_2004.pdf?rlkey=hrdf4gvgkdb7yg86spbiijfk8&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses more than 1.5 million Yahoo! Finance and Raging Bull
+    messages, Naive Bayes text classification, TAQ market data, Wall Street Journal news indicators, and
+    high-frequency regressions to study online investor discussion, showing that message-board activity
+    has little economically useful return predictability but contains meaningful information about
+    volatility, trading volume, disagreement, attention, and early news diffusion.
+- title: "De Long, Shleifer, Summers, and Waldmann (JPE, 1990) - Noise Trader Risk in Financial Markets"
+  file: "https://www.dropbox.com/scl/fi/c48dc6w0gt9pc8ew10f3i/DeLong_Shleifer_Summers_Waldmann_JPE_1990.pdf?rlkey=bh99si28aih1rmaf4lkl2i17w&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an overlapping-generations asset-pricing model with
+    stochastic noise-trader beliefs, risk-averse finite-horizon arbitrageurs, sentiment-driven prices,
+    and imitation dynamics, showing that irrational traders can affect prices, create priced
+    noise-trader risk, survive in equilibrium, and sometimes earn higher expected returns because
+    arbitrage against sentiment is risky.
