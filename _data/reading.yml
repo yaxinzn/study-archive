@@ -6067,3 +6067,57 @@
     limits-to-arbitrage portfolios, VIX futures, and mutual fund flows, showing that spikes in negative
     search sentiment coincide with same-day equity price pressure, short-term return reversals,
     temporary volatility increases, and flight-to-safety flows from equity funds to bond funds.
+- title: "Gatev and Strahan (JF, 2006) - Banks’ Advantage in Hedging Liquidity Risk: Theory and Evidence from the Commercial Paper Market"
+  file: "https://www.dropbox.com/scl/fi/q2ci4qapia84xd62m8zmt/Gatev_Strahan_JF_2006.pdf?rlkey=0ibsw50e4fwdslk9k6v7b405e&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses weekly U.S. bank balance-sheet data, the paper-bill
+    spread, bank funding-cost comparisons, VAR impulse responses, and bank-level commitment exposure to
+    study why banks provide backup liquidity to commercial paper issuers, showing that banks have a
+    comparative advantage because borrower credit-line drawdowns during CP market stress are partly
+    financed by safe-haven deposit inflows.
+- title: "James (JFE, 1987) - Some Evidence on the Uniqueness of Bank Loans"
+  file: "https://www.dropbox.com/scl/fi/51cjie0sw3cgpn7idzzwz/James_JFE_1987.pdf?rlkey=2opuwcxplbp5y6ia3hrf0bqbl&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines CD reserve-requirement incidence tests with
+    event-study evidence on bank loan, private placement, and public debt announcements to study whether
+    bank loans provide unique value, showing that bank credit agreements generate positive abnormal
+    stock returns while private placements and public straight debt do not, consistent with banks
+    providing certification, monitoring, or information-production services.
+- title: "Acharya, Davydenko, and Strebulaev (RFS, 2012) - Cash Holdings and Credit Risk"
+  file: "https://www.dropbox.com/scl/fi/5r0qepdhx9cdbizf0v93b/Acharya_Davydenko_Strebulaev_RFS_2012.pdf?rlkey=m89s4k4b67o3qbjh99yg2sski&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines a financing-frictions model, corporate bond spreads,
+    default data, liquidity ratios, credit-risk controls, and instrumental-variable regressions to study
+    how cash holdings relate to credit risk, showing that high cash can be positively associated with
+    spreads because risky firms endogenously hoard cash, while instrumented liquidity has the intuitive
+    negative effect on spreads and near-term default risk.
+- title: "Rampini, Sufi, and Viswanathan (JFE, 2014) - Dynamic Risk Management"
+  file: "https://www.dropbox.com/scl/fi/g73ij9qqkadg1lxykdans/Rampini_Sufi_Viswanathan_JFE_2014.pdf?rlkey=2pu6u3mq7xdhkv0rqfigsy49i&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic collateral-constrained model of financing
+    and risk management and tests it using hand-collected U.S. airline fuel-hedging data, showing that
+    financially stronger airlines hedge more while distressed airlines sharply reduce hedging because
+    collateral used for derivatives competes with collateral needed to finance operations and
+    investment.
+- title: "Drechsler, Savov, and Schnabl (JF, 2021) - Banking on Deposits: Maturity Transformation without Interest Rate Risk"
+  file: "https://www.dropbox.com/scl/fi/kotc18u1js9lnp541fqn8/Drechsler_Savov_Schnabl_JF_2021.pdf?rlkey=akjq8r694t47npndvtszsgaju&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses aggregate bank cash-flow data, bank-level interest-income
+    and interest-expense betas, FOMC shock evidence, asset repricing maturity, securities composition,
+    and deposit-market-power measures to study bank maturity transformation, showing that banks hedge
+    deposit-franchise exposure by matching low deposit-rate sensitivity with long-duration fixed-rate
+    assets, leaving NIM, ROA, and equity values largely insulated from interest-rate shocks.
+- title: "Parlour and Winton (JFE, 2013) - Laying off Credit Risk: Loan Sales versus Credit Default Swaps"
+  file: "https://www.dropbox.com/scl/fi/13pbia5l31ce1y18e22vg/Parlour_Winton_JFE_2013.pdf?rlkey=arnromqy26uektgorr4wkwcd1&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a theoretical model comparing loan sales and CDS
+    protection when banks privately learn borrowers’ monitoring needs and face capital costs, showing
+    that credit-risk transfer can improve risk sharing but distort monitoring because loan sales
+    transfer control rights while CDSs transfer default risk without transferring loan control.
+- title: "Laffont and Tirole (JPE, 1986) - Using Cost Observation to Regulate Firms"
+  file: "https://www.dropbox.com/scl/fi/dfuvuajc1mkv1ks9nrk75/Laffont_Tirole_JPE_1986.pdf?rlkey=clf3q34tt27snqrappdyn4git&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a mechanism-design model of regulation with hidden
+    cost type, hidden cost-reduction effort, observed realized cost, transfers, and costly public funds,
+    showing that the optimal regulatory contract can be implemented by a linear cost-sharing scheme that
+    balances information rents, effort incentives, and cost reimbursement.
