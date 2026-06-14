@@ -5979,3 +5979,91 @@
     with endogenous salaries, core stability, and a deferred-acceptance-like salary-adjustment process,
     showing that the process converges to a core allocation and, under no ties, selects the offer-making
     side’s preferred point in the stable set.
+- title: "Coate and Morris (JPE, 1995) - On the Form of Transfers to Special Interests"
+  file: "https://www.dropbox.com/scl/fi/1sphx6tve8wmyis1ovpw4/Coate_Morris_JPE_1995.pdf?rlkey=vsr3a18uh7bam7q6q6v7klnn8&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a two-period political-agency model with rational
+    voters, politician reputation, policy uncertainty, politician-type uncertainty, direct cash
+    transfers, and disguised public projects to explain why special-interest redistribution may take
+    inefficient forms, showing that politicians can prefer opaque projects over transparent transfers
+    because projects conceal whether the action is socially justified or politically motivated.
+- title: "Baks, Metrick, and Wachter (JF, 2001) - Should Investors Avoid All Actively Managed Mutual Funds? A Study in Bayesian Performance Evaluation"
+  file: "https://www.dropbox.com/scl/fi/c4d4vghqemd305r5qmqw8/Baks_Metrick_Wachter_JF_2001.pdf?rlkey=yeu96x5q8pyo3zw726rjxzrcy&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Bayesian priors over managerial skill, CRSP mutual fund
+    returns, factor-model alphas, posterior expected alpha, optimal portfolio weights, and
+    certainty-equivalent losses to evaluate active management, showing that even extremely skeptical
+    investors may rationally allocate to a small number of active managers despite frequentist tests
+    failing to reject the no-skill null.
+- title: "Berk, Green, and Naik (JF, 1999) - Optimal Investment, Growth Options, and Security Returns"
+  file: "https://www.dropbox.com/scl/fi/oh7zp3au72jh03k133pa2/Berk_Green_Naik_JF_1999.pdf?rlkey=pwajinuwngbx54sbyn4xd6kf3&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds and simulates a dynamic real-options model in which
+    firms optimally accept and lose projects with different systematic risks, showing that endogenous
+    changes in assets in place and growth options can generate predictable variation in expected
+    returns, book-to-market effects, size effects, short-horizon reversal, longer-horizon momentum, and
+    interest-rate-related risk premia.
+- title: "Acemoglu and Robinson (AER P&P, 2000) - Political Losers as a Barrier to Economic Development"
+  file: "https://www.dropbox.com/scl/fi/cjk7faft6ot8ak03lg8nd/Acemoglu_Robinson_AER_2000.pdf?rlkey=capl83ivmd9rrmlebu71u7wiz&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a simple incumbent-rival model and uses historical
+    evidence from nineteenth-century industrialization to distinguish economic losers from political
+    losers, showing that powerful groups may block socially beneficial technologies not merely because
+    they lose rents, but because technological change threatens their future political power and cannot
+    be credibly compensated.
+- title: "Brown and Goetzmann (JF, 1995) - Performance Persistence"
+  file: "https://www.dropbox.com/scl/fi/mr6g7llddwx1awh48x6pb/Brown_Goetzmann_JF_1995.pdf?rlkey=o29prpppdfufpljrcl0cvhjqz&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a survivorship-bias-aware mutual fund sample,
+    disappearance probits, winner-loser contingency tables, bootstrap corrections, risk adjustment, and
+    rank portfolios to study fund performance persistence, showing that relative performance persists
+    but is driven largely by persistent losers, fund attrition, common strategies, and the distinction
+    between peer-relative performance and absolute benchmark outperformance.
+- title: "Cochrane (JPE, 1996) - A Cross-Sectional Test of an Investment-Based Asset Pricing Model"
+  file: "https://www.dropbox.com/scl/fi/trdapw9qvt58btg56u5zc/Cochrane_JPE_1996.pdf?rlkey=3ax46jyjsg5flybih2gbm83s1&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs physical-investment return factors from
+    nonresidential and residential investment data and tests them on size portfolios using GMM and
+    scaled conditional moments, showing that investment-based factors explain cross-sectional and
+    conditional expected-return variation about as well as standard finance and macro factors and much
+    better than simple consumption-based models.
+- title: "Murphy, Shleifer, and Vishny (QJE, 1991) - The Allocation of Talent: Implications for Growth"
+  file: "https://www.dropbox.com/scl/fi/emu216weqwaxuq9kkil7i/Murphy_Shleifer_Vishny_QJE_1991.pdf?rlkey=bjpkbwxbbxe3d6v5lnx14qftf&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a model in which highly talented individuals choose
+    between entrepreneurship and rent seeking and tests the mechanism using cross-country college major
+    shares, showing that institutions that reward scalable rent extraction can divert top talent away
+    from productive innovation, with engineering shares positively and law shares negatively associated
+    with subsequent growth.
+- title: "Ferson and Schadt (JF, 1996) - Measuring Fund Strategy and Performance in Changing Economic Conditions"
+  file: "https://www.dropbox.com/scl/fi/a9h8hy1qizidnttsd6mmf/Ferson_Schadt_JF_1996.pdf?rlkey=6awyphyo0wdrw1o8nm31okxy9&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops conditional mutual fund performance measures using
+    public instruments, time-varying betas, conditional Jensen alphas, and conditional timing models,
+    showing that traditional unconditional alphas and market-timing tests can falsely indicate poor
+    performance or perverse timing when funds’ systematic exposures vary predictably with economic
+    conditions.
+- title: "Allen (Econometrica, 2014) - Information Frictions in Trade"
+  file: "https://www.dropbox.com/scl/fi/i296zkprr2rp9gqxrg2q2/Allen_Econometrica_2014.pdf?rlkey=yacfbvrpg3cjd7nx5xyyp9zm8&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Philippine agricultural trade flows, regional prices,
+    farmer sales data, mobile phone rollout, rainfall instruments, and a structural search model to
+    study information frictions in trade, showing that costly information about destination prices
+    explains price dispersion, two-way trade, incomplete pass-through, size-dependent market access, and
+    overestimation of physical transportation costs under complete-information no-arbitrage models.
+- title: "Murphy, Shleifer, and Vishny (AER P&P, 1993) - Why Is Rent-Seeking So Costly to Growth?"
+  file: "https://www.dropbox.com/scl/fi/e66gf3rfchhsqkx9nfb4f/Murphy_Shleifer_Vishny_AER_1993.pdf?rlkey=puy42dvjb3h1wul02heliu218&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a static occupational-choice model with market
+    production, subsistence production, and rent seeking to explain why weak property rights can
+    generate multiple equilibria, showing that rent seeking becomes self-reinforcing when predation
+    lowers returns to production and that public rent seeking is especially damaging because it taxes
+    innovation and can trap economies in low-growth equilibria.
+- title: "Da, Engelberg, and Gao (RFS, 2015) - The Sum of All FEARS: Investor Sentiment and Asset Prices"
+  file: "https://www.dropbox.com/scl/fi/8krnrunsson4r54bbtx2u/Da_Engelberg_Gao_RFS_2015.pdf?rlkey=zjne6e9x3fkcvmhcrx4dsz2ji&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds the daily FEARS index from Google search volume for
+    financial and economic anxiety terms and tests its relation to returns, volatility,
+    limits-to-arbitrage portfolios, VIX futures, and mutual fund flows, showing that spikes in negative
+    search sentiment coincide with same-day equity price pressure, short-term return reversals,
+    temporary volatility increases, and flight-to-safety flows from equity funds to bond funds.
