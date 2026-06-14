@@ -4,3 +4,6 @@ materials/eio/EIO_Intro/
 .DS_Store
 materials/.DS_Store
 _data/*.bak
+reading/**/*.pdf
+*.zip
+.dropbox_token
