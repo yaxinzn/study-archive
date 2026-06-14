@@ -5894,3 +5894,88 @@
     first-difference, and 3SLS specifications to study R&D spillovers, showing that technologically
     nearby R&D raises the productivity of a firm’s own R&D while also creating competitive pressure that
     mainly hurts firms with low absorptive capacity.
+- title: "Chaney (AER, 2014) - The Network Structure of International Trade"
+  file: "https://www.dropbox.com/scl/fi/4zp9vy0o19g07v8pqdiho/Chaney_AER_2014.pdf?rlkey=uybai4j3s5n78m9d5jf7t23u2&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses French firm-level exporter data, destination-entry
+    regressions, and a structural search model with direct and remote contact formation to study how
+    firms expand across foreign markets, showing that existing export contacts create path-dependent
+    remote search opportunities that explain the fat-tailed distribution and geographic spreading of
+    export networks.
+- title: "Persson, Roland, and Tabellini (QJE, 1997) - Separation of Powers and Political Accountability"
+  file: "https://www.dropbox.com/scl/fi/w8tgwpbny3s3d6o5u25zb/Persson_Roland_Tabellini_QJE_1997.pdf?rlkey=7bosm719whrpqazaqhdfzw2d9&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a political-agency model of executives, legislatures,
+    voters, budget diversion, agenda control, and incomplete information to study constitutional checks
+    and balances, showing that separation of powers improves accountability only when political bodies
+    have conflicting interests and policy requires joint agreement rather than independent access to a
+    common resource pool.
+- title: "Greenwood and Shleifer (RFS, 2014) - Expectations of Returns and Expected Returns"
+  file: "https://www.dropbox.com/scl/fi/145qi79szthnctsc0mw5d/Greenwood_Shleifer_RFS_2014.pdf?rlkey=ddi73m1pq8lp7nvh4j0t6jfj5&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines multiple investor expectation surveys, mutual fund
+    flows, valuation-based expected-return predictors, and return-forecasting regressions to compare
+    reported expectations with model-implied expected returns, showing that investor expectations are
+    extrapolative, rise after high past returns and high valuations, and predict future returns with the
+    opposite sign from standard expected-return measures.
+- title: "Bernard, Redding, and Schott (RES, 2007) - Comparative Advantage and Heterogeneous Firms"
+  file: "https://www.dropbox.com/scl/fi/p0rodpm7gm3bh8c7dygea/Bernard_Redding_Schott_RES_2007.pdf?rlkey=ojgil3tkulylpjxic0419vk7l&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds Melitz-style heterogeneous firms into a two-country,
+    two-factor, two-industry comparative-advantage model to study trade liberalization, showing that
+    falling trade costs generate within-industry selection, raise productivity most in
+    comparative-advantage sectors, magnify comparative advantage, and create substantial job turnover
+    even in expanding sectors.
+- title: "Maskin and Tirole (AER, 2004) - The Politician and the Judge: Accountability in Government"
+  file: "https://www.dropbox.com/scl/fi/4n1dsxydy3r49cu5btjks/Maskin_Tirole_AER_2004.pdf?rlkey=vks3axxo2daim376grkci2ljv&dl=0"
+  desc: >-
+    This note summarizes the paper, which compares direct democracy, representative democracy, and
+    judicial power in a theoretical model of voter information, official congruence, reelection
+    incentives, feedback, and minority-rights conflicts, showing that accountability can screen and
+    discipline officials but can also induce pandering, making nonaccountable judges preferable for
+    technical decisions, slow-feedback environments, or minority-protection cases.
+- title: "Kumar and Lee (JF, 2006) - Retail Investor Sentiment and Return Comovements"
+  file: "https://www.dropbox.com/scl/fi/9yub76z9ymgx9lvdthgoq/Kumar_Lee_JF_2006.pdf?rlkey=qlugo837qh5psm4wua9zcvauc&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses proprietary discount-brokerage transactions, retail
+    buy-sell imbalances, portfolio factor regressions, firm-characteristic sorts, and arbitrage-cost
+    proxies to study sentiment-driven comovement, showing that retail investors trade in a common
+    direction and that their sentiment explains return comovement especially among small, value,
+    low-institutional-ownership, low-price, and high-arbitrage-cost stocks.
+- title: "Manova and Zhang (QJE, 2012) - Export Prices across Firms and Destinations"
+  file: "https://www.dropbox.com/scl/fi/cl70n3scbf19az1fkfliv/Manova_Zhang_QJE_2012.pdf?rlkey=7rtki0fvyopbo3gm17tb2nbjh&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Chinese customs data on firm-product-destination exports
+    and matched imported-input transactions to study export price variation, showing that successful
+    exporters charge higher prices, use more expensive imported inputs, and adjust product quality
+    within firm-product pairs across richer, larger, more distant, and less remote destination markets.
+- title: "Alesina and Tabellini (AER, 2007) - Bureaucrats or Politicians? Part I: A Single Policy Task"
+  file: "https://www.dropbox.com/scl/fi/ysv4plpeq2yabab9rc37w/Alesina_Tabellini_AER_2007.pdf?rlkey=1sbd4qvdsju5sk5c574rwsu75&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a task-based delegation model comparing politicians
+    disciplined by reelection with bureaucrats disciplined by career concerns, showing that bureaucrats
+    are better suited to technical tasks where ability and expertise matter, while redistributive tasks
+    tend to remain political because politicians use redistribution to build majorities and incumbency
+    advantage.
+- title: "Hanson, Mataloni, and Slaughter (REStat, 2005) - Vertical Production Networks in Multinational Firms"
+  file: "https://www.dropbox.com/scl/fi/fbrs9jlspbhmgvd2a5u45/Hanson_Mataloni_Slaughter_REStat_2005.pdf?rlkey=5xrbjy5qvfifmquyupk3zd9zs&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses confidential BEA data on U.S. multinational affiliates,
+    imported intermediate-input shares, trade costs, wages, taxes, and parent-by-industry fixed effects
+    to study vertical production networks, showing that foreign affiliates import more U.S. inputs for
+    further processing when trade costs, less-skilled wages, and corporate taxes are lower.
+- title: "Besley and Coate (QJE, 1997) - An Economic Model of Representative Democracy"
+  file: "https://www.dropbox.com/scl/fi/cu0s4p9y48huxh95tmyd7/Besley_Coate_QJE_1997.pdf?rlkey=jy7se392z43u8jxe7fm37ev90&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a citizen-candidate model with endogenous entry,
+    strategic voting, costly candidacy, no policy commitment, and heterogeneous policy-making ability to
+    study representative democracy, showing that voters choose policy-makers rather than platforms, that
+    two-candidate divergence and spoiler entry can arise, and that efficiency depends on entry costs,
+    strategic voting, and competence heterogeneity.
+- title: "Crawford and Knoer (Econometrica, 1981) - Job Matching with Heterogeneous Firms and Workers"
+  file: "https://www.dropbox.com/scl/fi/ls3mrqwbmzbio61jert5c/Crawford_Knoer_Econometrica_1981.pdf?rlkey=7sdod9sbrgbkm2t0hs9zksx5f&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends matching theory to heterogeneous firms and workers
+    with endogenous salaries, core stability, and a deferred-acceptance-like salary-adjustment process,
+    showing that the process converges to a core allocation and, under no ties, selects the offer-making
+    side’s preferred point in the stable set.
