@@ -37,18 +37,22 @@ def clean_subject(s):
 def load_items(path):
     if not path.exists():
         return []
+
     txt = path.read_text(encoding="utf-8", errors="replace")
     items = []
-    current_date = None
+    cur_date = None
+
     for line in txt.splitlines():
         m_date = re.match(r'^\s*-\s*date:\s*"?([^"\n]+)"?\s*$', line)
         if m_date:
-            current_date = m_date.group(1).strip()
+            cur_date = m_date.group(1).strip()
             continue
+
         m_title = re.match(r'^\s*title:\s*"?([^"\n]+)"?\s*$', line)
-        if m_title and current_date:
-            items.append((current_date, m_title.group(1).strip()))
-            current_date = None
+        if m_title and cur_date:
+            items.append((cur_date, m_title.group(1).strip()))
+            cur_date = None
+
     return items
 
 items = []
@@ -70,15 +74,20 @@ raw = run_git([
 for line in raw.splitlines():
     if "\x1f" not in line:
         continue
+
     d, subject = line.split("\x1f", 1)
     subject = clean_subject(subject)
+
     if not subject:
         continue
+
     lower = subject.lower()
     if lower.startswith("merge branch") or lower.startswith("merge pull request"):
         continue
+
     if subject in seen_titles:
         continue
+
     items.append((d, subject))
     seen_titles.add(subject)
 
