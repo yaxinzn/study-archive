@@ -8,7 +8,6 @@ hero_desc: Commit-based update history for Study Cycles (newest → oldest).
 hide_name: true
 
 ---
-
 <style>
 .news-box{
   border: 1px solid rgba(0,0,0,.12);
@@ -16,8 +15,6 @@ hide_name: true
   padding: 18px 18px 10px 18px;
   margin: 18px 0 26px 0;
   background: #fff;
-
-  /* scrollable history */
   max-height: 70vh;
   overflow-y: auto;
 }
@@ -39,7 +36,6 @@ hide_name: true
 }
 .news-title:before{ left: 0; }
 .news-title:after{ right: 0; }
-
 .news-item{
   padding: 12px 0;
   border-top: 1px solid rgba(0,0,0,.10);
@@ -55,15 +51,36 @@ hide_name: true
 <div class="news-box">
   <div class="news-title">NEWS</div>
 
-  {% if site.data.news and site.data.news.size > 0 %}
-    {% for n in site.data.news %}
-      <div class="news-item">
-        <div><span class="news-date">{{ n.date }}</span>: {{ n.title }}</div>
-        {% if n.note %}
-          <div class="news-note">{{ n.note }}</div>
-        {% endif %}
-      </div>
-    {% endfor %}
+  {% assign news_count = 0 %}
+  {% if site.data.news_manual %}
+    {% assign news_count = news_count | plus: site.data.news_manual.size %}
+  {% endif %}
+  {% if site.data.news %}
+    {% assign news_count = news_count | plus: site.data.news.size %}
+  {% endif %}
+
+  {% if news_count > 0 %}
+    {% if site.data.news_manual %}
+      {% for n in site.data.news_manual %}
+        <div class="news-item">
+          <div><span class="news-date">{{ n.date }}</span>: {{ n.title }}</div>
+          {% if n.note %}
+            <div class="news-note">{{ n.note }}</div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
+
+    {% if site.data.news %}
+      {% for n in site.data.news %}
+        <div class="news-item">
+          <div><span class="news-date">{{ n.date }}</span>: {{ n.title }}</div>
+          {% if n.note %}
+            <div class="news-note">{{ n.note }}</div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    {% endif %}
   {% else %}
     <div class="news-item">
       <div><span class="news-date">—</span> No updates yet.</div>
