@@ -6176,3 +6176,133 @@
     and imitation dynamics, showing that irrational traders can affect prices, create priced
     noise-trader risk, survive in equilibrium, and sometimes earn higher expected returns because
     arbitrage against sentiment is risky.
+- title: "Feenstra, Markusen, and Zeile (AER, 1992) - Accounting for Growth with New Inputs: Theory and Evidence"
+  file: "https://www.dropbox.com/scl/fi/a21f3zq6cf7xtox2e1iap/Feenstra_Markusen_Zeile_AER_1992.pdf?rlkey=iskfhzg99nzcyc7jcvlxdwx2l&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a CES growth-accounting framework with a changing set
+    of intermediate inputs, exact quantity and cost-index corrections, and Korean chaebol evidence,
+    showing that new intermediate-input varieties raise measured productivity and that cross-industry
+    TFP growth is positively related to the entry of new input-producing firms.
+- title: "Carlson, Fisher, and Giammarino (JF, 2004) - Corporate Investment and Asset Price Dynamics: Implications for the Cross-section of Returns"
+  file: "https://www.dropbox.com/scl/fi/qo756qe3n635qpc05fwcv/Carlson_Fisher_Giammarino_JF_2004.pdf?rlkey=omomyvomjx06q85cmf43fpokn&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops analytic and structural real-options models of firms’
+    investment, operating leverage, adjustment costs, and finite growth opportunities, showing that
+    book-to-market and size return patterns can arise endogenously because firms’ asset mix and equity
+    risk change with investment history and demand states.
+- title: "Zhang (JF, 2005) - The Value Premium"
+  file: "https://www.dropbox.com/scl/fi/377xew3lkhwjb5lyshjts/Zhang_JF_2005.pdf?rlkey=qalgevkesxnxu2qido8hr9xdz&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a production-based asset-pricing model with asymmetric
+    capital adjustment costs, costly reversibility, firm heterogeneity, and a countercyclical price of
+    risk, showing that value firms earn higher expected returns because they are burdened with
+    hard-to-shrink assets in place precisely when bad states make risk most expensive.
+- title: "Krugman (AER, 1980) - Scale Economies, Product Differentiation, and the Pattern of Trade"
+  file: "https://www.dropbox.com/scl/fi/ui5xdmwqgaiafcocfg4p6/Krugman_AER_1980.pdf?rlkey=pmy5snck4xuverrxp44foah20&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a monopolistic-competition trade model with
+    increasing returns, fixed costs, differentiated varieties, iceberg transport costs, and love of
+    variety, showing that trade can arise between otherwise identical countries and that countries tend
+    to export goods for which they have relatively large home markets.
+- title: "Hardy, Saffie, and Simonovska (JFE, 2026) - Firm-to-Firm Financial Linkages and Dollar Risk Transmission"
+  file: "https://www.dropbox.com/scl/fi/jxip07vnjrppxkln0bdgp/Hardy_Saffie_Simonovska_JFE_2026.pdf?rlkey=khhuaw0itic1yp3pmodmpesqj&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Capital IQ firm-quarter data, foreign-currency debt
+    information, trade-credit balances, exporter splits, interest-rate differentials, and exchange-rate
+    shocks to study dollar-risk transmission, showing that large emerging-market firms borrow in foreign
+    currency and partly transmit or absorb currency shocks through domestic trade-credit relationships.
+- title: "Akcigit and Kerr (JPE, 2018) - Growth through Heterogeneous Innovations"
+  file: "https://www.dropbox.com/scl/fi/zsyk060ky51o4pny15dlr/Akcigit_Kerr_JPE_2018.pdf?rlkey=wgt2ebwzyj30mhi5nnpw3ahd5&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines U.S. Census firm data, matched patent records,
+    internal versus external patent classifications, citation distributions, and a multiproduct-firm
+    growth model to study innovation heterogeneity, showing that external innovation scales imperfectly
+    with firm size and that incumbent external innovation is the largest source of aggregate
+    productivity growth.
+- title: "Klette and Kortum (JPE, 2004) - Innovating Firms and Aggregate Innovation"
+  file: "https://www.dropbox.com/scl/fi/ilnh3j25dyhuwm76b3taa/Klette_Kortum_JPE_2004.pdf?rlkey=xh8r2b80pz66okeh6vmaokw7z&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a multiproduct-firm model where firms grow by
+    innovating into new product lines and shrink through creative destruction, showing that knowledge
+    capital makes R&D scale with firm size, generates a skewed firm-size distribution, and links firm
+    dynamics to aggregate innovation.
+- title: "Pazarbaşı (JF, 2026) - Cash Heterogeneity and the Payout Channel of Monetary Policy"
+  file: "https://www.dropbox.com/scl/fi/p7knhx17pf3yk8ow3103e/Pazarbasi_JF_2026.pdf?rlkey=e6pcfyn5mlp6zqa3e1w743bbr&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses high-frequency monetary policy shocks, quarterly
+    Compustat firm data, cash-holding sorts, payout regressions, portfolio return tests, and a
+    heterogeneous-firm New Keynesian model to show that expansionary monetary policy raises payouts and
+    stock prices mainly for profitable cash-rich firms through a payout channel rather than through
+    investment or debt issuance.
+- title: "Akerlof (QJE, 1970) - The Market for “Lemons”: Quality Uncertainty and the Market Mechanism"
+  file: "https://www.dropbox.com/scl/fi/anvx4lyvmmxvsxbjz2lpp/Akerlof_QJE_1970.pdf?rlkey=ymscn90oyeotja3zjrnzwnfg6&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a canonical adverse-selection model of quality
+    uncertainty using the used-car market and applies the same logic to insurance, labor markets,
+    dishonesty, credit, brands, guarantees, and certification, showing that hidden quality can drive
+    high-quality sellers out and cause markets with potential gains from trade to shrink or disappear.
+- title: "Lentz and Mortensen (Econometrica, 2008) - An Empirical Model of Growth Through Product Innovation"
+  file: "https://www.dropbox.com/scl/fi/mh7ssgqit512zv2j2a2v7/Lentz_Mortensen_Econometrica_2008.pdf?rlkey=dfu38rfzdc9r3rs6cldghaxih&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a structural Schumpeterian model using Danish
+    firm-panel data, value added, employment, productivity moments, firm growth, survival, and indirect
+    inference, showing that creative-destruction-driven selection toward more innovative firms accounts
+    for about half of steady-state productivity growth.
+- title: "Berry and Waldfogel (QJE, 2001) - Do Mergers Increase Product Variety? Evidence from Radio Broadcasting"
+  file: "https://www.dropbox.com/scl/fi/pq7cvdi3mob162za137rq/Berry_Waldfogel_QJE_2001.pdf?rlkey=ty4d720153yaig29ag8m8tyc5&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the 1996 Telecommunications Act, U.S. radio-market panel
+    data, ownership concentration instruments, station counts, programming formats, and format-overlap
+    tests to study merger effects on variety, showing that radio consolidation reduced station growth
+    but increased format variety per station and sometimes total programming variety.
+- title: "Rothschild and Stiglitz (QJE, 1976) - Equilibrium in Competitive Insurance Markets: An Essay on the Economics of Imperfect Information"
+  file: "https://www.dropbox.com/scl/fi/c1isq029y7j47hhmuqyo9/Rothschild_Stiglitz_QJE_1976.pdf?rlkey=1ob7n3nsf1qzxm1lcixi3rl4r&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a competitive insurance model with hidden risk types,
+    state-contingent contracts, free entry, pooling and separating contracts, and self-selection
+    constraints, showing that pooling cannot be an equilibrium, separating contracts distort low-risk
+    coverage, and competitive equilibrium may fail to exist under adverse selection.
+- title: "Roth and Peranson (AER, 1999) - The Redesign of the Matching Market for American Physicians: Some Engineering Aspects of Economic Design"
+  file: "https://www.dropbox.com/scl/fi/vos45h6m26k2bdbhrweed/Roth_Peranson_AER_1999.pdf?rlkey=5a45rdr6quo87uk80hqbib0xl&dl=0"
+  desc: >-
+    This note summarizes the paper, which compares old and new NRMP matching algorithms using historical
+    rank-order lists, computational experiments, truncation tests, capacity experiments, and core-size
+    simulations, showing that an applicant-proposing redesign changes few matches because real medical
+    matching markets have very small stable sets under limited interviews.
+- title: "Acemoglu and Johnson (JPE, 2005) - Unbundling Institutions"
+  file: "https://www.dropbox.com/scl/fi/ykedmgyk2icjr9dng6duz/Acemoglu_Johnson_JPE_2005.pdf?rlkey=n4qufes5myyerdkozgathch0y&dl=0"
+  desc: >-
+    This note summarizes the paper, which separates contracting institutions from property-rights
+    institutions using legal origin, settler mortality, population density, cross-country outcomes, and
+    two-stage least squares, showing that property-rights institutions have large effects on income,
+    investment, and finance, while contracting institutions mainly affect the form rather than the scale
+    of financial intermediation.
+- title: "Bajari, Houghton, and Tadelis (AER, 2014) - Bidding for Incomplete Contracts: An Empirical Analysis of Adaptation Costs"
+  file: "https://www.dropbox.com/scl/fi/dqkejgpjyueqsna9c88ls/Bajari_Houghton_Tadelis_AER_2014.pdf?rlkey=yct8dqrquk5hbc8zt3qxppf1i&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Caltrans asphalt procurement auctions, itemized bids,
+    engineer estimates, ex post quantity changes, adjustments, extra work, deductions, and structural
+    auction estimation to measure incomplete-contract costs, showing that anticipated adaptation costs
+    are large and are priced into initial bids.
+- title: "La Porta, Lopez-de-Silanes, Shleifer, and Vishny (JPE, 1998) - Law and Finance"
+  file: "https://www.dropbox.com/scl/fi/g505872jy6ovagnxseitb/LaPorta_LopezdDeSilanes_Shleifer_Vishny_JPE_1998.pdf?rlkey=g52zvx251niutdpjgos8db7bx&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs cross-country measures of shareholder rights,
+    creditor rights, legal enforcement, accounting standards, legal origin, and ownership concentration,
+    showing that common-law systems protect outside investors more strongly and that weak investor
+    protection is associated with more concentrated corporate ownership.
+- title: "Deming (JEP, 2022) - Four Facts about Human Capital"
+  file: "https://www.dropbox.com/scl/fi/mtzyrqihy0s6foa24632r/Deming_JEP_2022.pdf?rlkey=s2elttmf4mvoxh2hxcjd1nntq&dl=0"
+  desc: >-
+    This note summarizes the paper, which synthesizes evidence from Mincer regressions,
+    quasi-experimental returns to schooling, cross-country development accounting, public-investment
+    MVPF estimates, and skill-production studies to argue that human capital explains large earnings
+    differences, investments have high returns through young adulthood, foundational skills are well
+    understood, and higher-order skills are valuable but harder to produce.
+- title: "Abraham and Mallatt (JEP, 2022) - Measuring Human Capital"
+  file: "https://www.dropbox.com/scl/fi/r6lgjyvu40dpri7yo3j75/Abraham_Mallatt_JEP_2022.pdf?rlkey=cmf5hi3nqjdy0gtg0ig26omvm&dl=0"
+  desc: >-
+    This note summarizes the paper, which reviews indicator, cost-based, and income-based approaches to
+    human-capital measurement, compares international measures, and constructs U.S. education-investment
+    estimates, showing that human-capital accounting depends heavily on assumptions about time costs,
+    future earnings, discounting, depreciation, and the boundary between consumption and investment.
