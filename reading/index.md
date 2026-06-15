@@ -23,9 +23,20 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   --reading-radius:14px;
 }
 
+html{
+  scroll-behavior:smooth;
+}
+body{
+  background:
+    radial-gradient(circle at 18% 0%, rgba(15,61,46,.055), transparent 34%),
+    linear-gradient(180deg, #fbfcfb 0%, #fff 260px);
+}
 .reading-page{
-  max-width:1080px;
+  max-width:1180px;
   margin:0 auto;
+}
+.reading-page *{
+  box-sizing:border-box;
 }
 
 .reading-library-view[hidden],
@@ -100,22 +111,135 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   transform:translateY(-1px);
 }
 
+/* Dashboard stats and utility toolbar */
+.reading-stats{
+  display:grid;
+  grid-template-columns:repeat(4, minmax(0,1fr));
+  gap:10px;
+  margin:0 0 16px 0;
+}
+.reading-stat-card{
+  border:1px solid var(--reading-border);
+  border-radius:13px;
+  background:rgba(255,255,255,.86);
+  padding:12px 13px;
+  box-shadow:0 8px 22px rgba(0,0,0,.035);
+}
+.reading-stat-label{
+  color:var(--reading-muted);
+  font-size:11px;
+  font-weight:850;
+  letter-spacing:.055em;
+  text-transform:uppercase;
+}
+.reading-stat-value{
+  margin-top:4px;
+  color:var(--reading-text);
+  font-size:20px;
+  font-weight:920;
+  line-height:1.1;
+}
+.reading-stat-sub{
+  margin-top:3px;
+  color:var(--reading-muted);
+  font-size:12px;
+  line-height:1.3;
+}
+.reading-library-toolbar{
+  position:sticky;
+  top:0;
+  z-index:20;
+  display:flex;
+  gap:10px;
+  align-items:center;
+  justify-content:space-between;
+  margin:0 0 14px 0;
+  padding:10px;
+  border:1px solid var(--reading-border);
+  border-radius:14px;
+  background:rgba(255,255,255,.92);
+  backdrop-filter:blur(12px);
+  box-shadow:0 10px 30px rgba(0,0,0,.055);
+}
+.reading-toolbar-left,
+.reading-toolbar-right{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  min-width:0;
+  flex-wrap:wrap;
+}
+.reading-toolbar-label{
+  color:var(--reading-muted);
+  font-size:12px;
+  font-weight:850;
+}
+.reading-sort-select{
+  min-height:36px;
+  max-width:210px;
+  padding:7px 34px 7px 10px;
+  border:1px solid rgba(0,0,0,.16);
+  border-radius:10px;
+  background:#fff;
+  color:var(--reading-text);
+  font-weight:720;
+}
+.reading-toolbar-btn{
+  min-height:36px;
+  padding:7px 10px;
+  border:1px solid var(--reading-border-strong);
+  border-radius:10px;
+  background:#fff;
+  color:var(--reading-text);
+  cursor:pointer;
+  font-size:13px;
+  font-weight:780;
+}
+.reading-toolbar-btn:hover{
+  transform:translateY(-1px);
+}
+.reading-toolbar-btn.is-active{
+  border-color:var(--reading-green);
+  background:var(--reading-green-soft);
+  color:var(--reading-green);
+}
+.reading-page.is-compact .reading-entry{
+  margin:8px 0;
+  padding:10px 12px;
+}
+.reading-page.is-compact .reading-title{
+  font-size:14px;
+}
+.reading-page.is-compact .reading-author,
+.reading-page.is-compact .reading-file{
+  margin-top:5px;
+  font-size:13px;
+}
+.reading-page.is-compact .reading-note{
+  margin-top:6px;
+}
+
 /* Hero */
 .reading-hero{
   display:flex;
   gap:18px;
   justify-content:space-between;
   align-items:center;
-  margin:16px 0 18px 0;
-  padding:16px 18px;
-  border-left:4px solid var(--reading-green);
+  margin:18px 0 14px 0;
+  padding:20px 22px;
+  border-left:5px solid var(--reading-green);
+  background:
+    linear-gradient(135deg, rgba(15,61,46,.065), rgba(255,255,255,.96) 42%),
+    #fff;
+  box-shadow:0 14px 34px rgba(0,0,0,.055);
 }
 .reading-hero-title{
   margin:0;
   color:var(--reading-text);
-  font-size:20px;
-  font-weight:900;
-  line-height:1.25;
+  font-size:24px;
+  font-weight:950;
+  line-height:1.18;
+  letter-spacing:-.015em;
 }
 .reading-hero-copy{
   margin:6px 0 0 0;
@@ -133,8 +257,10 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 
 /* Filters */
 .reading-panel{
-  margin:0 0 20px 0;
+  margin:0 0 18px 0;
   padding:16px;
+  background:rgba(255,255,255,.94);
+  box-shadow:0 10px 28px rgba(0,0,0,.04);
 }
 .reading-panel-head{
   display:flex;
@@ -357,7 +483,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 /* Main content + side directory */
 .reading-content-grid{
   display:grid;
-  grid-template-columns:minmax(0,1fr) 292px;
+  grid-template-columns:minmax(0,1fr) 320px;
   gap:22px;
   align-items:start;
 }
@@ -426,8 +552,15 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 }
 .reading-entry{
   margin:12px 0;
-  padding:14px 16px;
+  padding:15px 17px;
   border-left:4px solid var(--reading-green);
+  box-shadow:0 10px 24px rgba(0,0,0,.035);
+  transition:transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+}
+.reading-entry:hover{
+  transform:translateY(-1px);
+  box-shadow:0 14px 32px rgba(0,0,0,.065);
+  border-left-color:var(--reading-green-dark);
 }
 .reading-entry[hidden]{
   display:none !important;
@@ -440,8 +573,10 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
 }
 .reading-title{
   color:var(--reading-text);
-  font-weight:850;
+  font-weight:900;
   line-height:1.35;
+  font-size:15.5px;
+  letter-spacing:-.01em;
 }
 .reading-card-meta{
   display:flex;
@@ -468,7 +603,19 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   line-height:1.45;
 }
 .reading-file a{
+  display:inline-flex;
+  align-items:center;
+  max-width:100%;
+  padding:2px 7px;
+  border-radius:8px;
+  background:rgba(37,99,235,.06);
   overflow-wrap:anywhere;
+  text-decoration:none;
+  font-weight:720;
+}
+.reading-file a:hover{
+  background:rgba(37,99,235,.11);
+  text-decoration:underline;
 }
 .reading-note{
   margin-top:9px;
@@ -492,7 +639,9 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   top:18px;
   max-height:calc(100vh - 36px);
   overflow:auto;
-  padding:15px;
+  padding:16px;
+  background:rgba(255,255,255,.94);
+  box-shadow:0 10px 28px rgba(0,0,0,.04);
 }
 .reading-side-title{
   margin-bottom:5px;
@@ -782,6 +931,12 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   .reading-content-grid{
     grid-template-columns:1fr;
   }
+  .reading-stats{
+    grid-template-columns:repeat(2, minmax(0,1fr));
+  }
+  .reading-library-toolbar{
+    position:static;
+  }
   .reading-side{
     position:static;
     max-height:none;
@@ -791,6 +946,22 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   }
 }
 @media (max-width:720px){
+  .reading-stats{
+    grid-template-columns:1fr;
+  }
+  .reading-library-toolbar,
+  .reading-toolbar-left,
+  .reading-toolbar-right{
+    display:block;
+  }
+  .reading-toolbar-right{
+    margin-top:8px;
+  }
+  .reading-toolbar-btn,
+  .reading-sort-select{
+    width:100%;
+    margin-top:6px;
+  }
   .reading-hero,
   .reading-panel-head,
   .reading-entry-top,
@@ -847,18 +1018,42 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     <section class="reading-hero">
       <div>
         <h1 class="reading-hero-title">Paper Reading &amp; Quick Notes</h1>
-        <p class="reading-hero-copy">A compact paper library for fast review. Filter by author, title, PDF name, author initials, year, or journal; then practice the filtered deck.</p>
+        <p class="reading-hero-copy">Search the library, narrow by journal/year/author initials, open PDFs quickly, and turn the current results into a practice deck.</p>
       </div>
       <div class="reading-hero-actions">
+        <a class="reading-soft-btn" href="#readingFilters">Find papers</a>
         <a class="reading-primary-btn" id="readingOpenGames" href="#study-games">Practice papers</a>
       </div>
     </section>
 
-    <section class="reading-panel" aria-label="Paper search and filters">
+    <section class="reading-stats" aria-label="Reading library statistics">
+      <div class="reading-stat-card">
+        <div class="reading-stat-label">Library</div>
+        <div class="reading-stat-value" id="readingStatTotal">—</div>
+        <div class="reading-stat-sub">total papers</div>
+      </div>
+      <div class="reading-stat-card">
+        <div class="reading-stat-label">Current view</div>
+        <div class="reading-stat-value" id="readingStatShown">—</div>
+        <div class="reading-stat-sub">matching results</div>
+      </div>
+      <div class="reading-stat-card">
+        <div class="reading-stat-label">Journals</div>
+        <div class="reading-stat-value" id="readingStatJournals">—</div>
+        <div class="reading-stat-sub">detected codes</div>
+      </div>
+      <div class="reading-stat-card">
+        <div class="reading-stat-label">Years</div>
+        <div class="reading-stat-value" id="readingStatYears">—</div>
+        <div class="reading-stat-sub">publication range</div>
+      </div>
+    </section>
+
+    <section class="reading-panel" id="readingFilters" aria-label="Paper search and filters">
       <div class="reading-panel-head">
         <div>
           <h2 class="reading-panel-title">Find papers</h2>
-          <p class="reading-panel-note">Journal and year are parsed from PDF names such as <code>Author_RES_2023.pdf</code>. Combine filters for a focused review deck.</p>
+          <p class="reading-panel-note">Use search for broad keywords; use initials, year, and journal for precise review sets. The practice mode uses exactly the filtered results.</p>
         </div>
         <button id="readingResetFilters" class="reading-secondary-btn" type="button">Clear all</button>
       </div>
@@ -927,6 +1122,23 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
             <ol id="readingRandomList"></ol>
           </div>
         </details>
+
+        <div class="reading-library-toolbar" aria-label="Library controls">
+          <div class="reading-toolbar-left">
+            <span class="reading-toolbar-label">Sort</span>
+            <select class="reading-sort-select" id="readingSortSelect" aria-label="Sort papers">
+              <option value="title">Title A–Z</option>
+              <option value="year_desc">Year newest</option>
+              <option value="year_asc">Year oldest</option>
+              <option value="journal">Journal</option>
+              <option value="file">PDF name</option>
+            </select>
+          </div>
+          <div class="reading-toolbar-right">
+            <button class="reading-toolbar-btn" id="readingCompactToggle" type="button" aria-pressed="false">Compact cards</button>
+            <button class="reading-toolbar-btn" id="readingCopyVisibleBtn" type="button">Copy current PDF names</button>
+          </div>
+        </div>
 
         <h2 class="reading-section-title" id="library">Library</h2>
 
@@ -1096,6 +1308,14 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   const randomList = document.getElementById('readingRandomList');
   const randomStatus = document.getElementById('readingRandomStatus');
 
+  const statTotal = document.getElementById('readingStatTotal');
+  const statShown = document.getElementById('readingStatShown');
+  const statJournals = document.getElementById('readingStatJournals');
+  const statYears = document.getElementById('readingStatYears');
+  const sortSelect = document.getElementById('readingSortSelect');
+  const compactToggle = document.getElementById('readingCompactToggle');
+  const copyVisibleBtn = document.getElementById('readingCopyVisibleBtn');
+
   const gameDeckStatus = document.getElementById('readingGameDeckStatus');
   const gameModeSelect = document.getElementById('readingGameMode');
   const gameRoundCount = document.getElementById('readingGameRoundCount');
@@ -1135,6 +1355,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
   let selectedPDFs = [];
   let selectedDate = '';
   let selectedFilterSummary = '';
+  let compactMode = false;
   let selectedInitials = new Set();
   let selectedJournals = new Set();
   let letterButtons = [];
@@ -1500,11 +1721,33 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       yearMatches(item.year, filters.yearFilter);
   }
 
+  function compareBySortMode(a, b){
+    const mode = sortSelect ? sortSelect.value : 'title';
+
+    if (mode === 'year_desc' || mode === 'year_asc') {
+      const ay = Number(a.year || 0);
+      const by = Number(b.year || 0);
+      const diff = mode === 'year_desc' ? by - ay : ay - by;
+      if (diff !== 0) return diff;
+      return a.sortKey.localeCompare(b.sortKey);
+    }
+
+    if (mode === 'journal') {
+      return `${a.journal || 'ZZZ'} ${a.year || ''} ${a.sortKey}`.localeCompare(`${b.journal || 'ZZZ'} ${b.year || ''} ${b.sortKey}`);
+    }
+
+    if (mode === 'file') {
+      return norm(a.file).localeCompare(norm(b.file));
+    }
+
+    return a.sortKey.localeCompare(b.sortKey);
+  }
+
   function getFilteredItems(){
     const filters = getFilters();
     return paperData
       .filter(item => itemMatches(item, filters))
-      .sort((a, b) => a.sortKey.localeCompare(b.sortKey));
+      .sort(compareBySortMode);
   }
 
   function getAvailableInitialCounts(filters){
@@ -1742,6 +1985,29 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     return parts.join(' · ');
   }
 
+  function updateStats(visibleItems){
+    if (statTotal) statTotal.textContent = fmtCount(paperData.length);
+    if (statShown) statShown.textContent = fmtCount(visibleItems.length);
+
+    if (statJournals) {
+      statJournals.textContent = fmtCount(uniqueSorted(paperData.map(item => item.journal)).length);
+    }
+
+    if (statYears) {
+      const years = paperData
+        .map(item => Number(item.year))
+        .filter(year => Number.isFinite(year) && year > 0);
+
+      if (years.length) {
+        const minYear = Math.min.apply(null, years);
+        const maxYear = Math.max.apply(null, years);
+        statYears.textContent = minYear === maxYear ? String(maxYear) : `${minYear}–${maxYear}`;
+      } else {
+        statYears.textContent = '—';
+      }
+    }
+  }
+
   function renderGuide(visibleItems, filters){
     if (!guideList || !guideCount) return;
 
@@ -1809,6 +2075,7 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
     const visibleSet = new Set(visibleItems);
 
     lastVisibleItems = visibleItems;
+    updateStats(visibleItems);
 
     for (const el of entries) {
       const item = dataByElement.get(el);
@@ -1938,6 +2205,22 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       temp.select();
       document.execCommand('copy');
       document.body.removeChild(temp);
+    }
+  }
+
+  async function copyVisiblePDFNames(){
+    const items = lastVisibleItems.length ? lastVisibleItems : getFilteredItems();
+
+    if (!items.length) {
+      if (randomStatus) randomStatus.textContent = 'No current PDF names to copy.';
+      return;
+    }
+
+    const text = items.map((item, index) => `${index + 1}. ${item.file}`).join('\n');
+    await copyText(text);
+
+    if (randomStatus) {
+      randomStatus.textContent = `Copied ${items.length} current PDF name${items.length === 1 ? '' : 's'} to clipboard.`;
     }
   }
 
@@ -2474,6 +2757,19 @@ hero_desc: Short, structured notes that prioritize identification logic, variabl
       input.focus();
     });
   }
+
+  if (sortSelect) sortSelect.addEventListener('change', update);
+  if (compactToggle) {
+    compactToggle.addEventListener('click', () => {
+      compactMode = !compactMode;
+      const page = document.getElementById('readingPage');
+      if (page) page.classList.toggle('is-compact', compactMode);
+      compactToggle.classList.toggle('is-active', compactMode);
+      compactToggle.setAttribute('aria-pressed', compactMode ? 'true' : 'false');
+      compactToggle.textContent = compactMode ? 'Comfortable cards' : 'Compact cards';
+    });
+  }
+  if (copyVisibleBtn) copyVisibleBtn.addEventListener('click', copyVisiblePDFNames);
 
   if (randomBtn) randomBtn.addEventListener('click', pickRandomPDFs);
   if (copyBtn) copyBtn.addEventListener('click', () => copySelectedNames(true));
