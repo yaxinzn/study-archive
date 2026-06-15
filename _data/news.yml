@@ -4035,3 +4035,7 @@
   title: "Deduplicate automatic reading news"
 - date: "2026-06-14"
   title: "Repair automatic reading news generation"
+- date: "2026-06-15"
+  title: "Keep natural news generator"
+- date: "2026-06-15"
+  title: "Regenerate reading news"
