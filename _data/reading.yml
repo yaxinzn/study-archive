@@ -6306,3 +6306,73 @@
     human-capital measurement, compares international measures, and constructs U.S. education-investment
     estimates, showing that human-capital accounting depends heavily on assumptions about time costs,
     future earnings, discounting, depreciation, and the boundary between consumption and investment.
+- title: "Shleifer and Vishny (QJE, 1993) - Corruption"
+  file: "https://www.dropbox.com/scl/fi/0wfl1hn0gvxtomjd9dwg9/Shleifer_Vishny_QJE_1993.pdf?rlkey=x7o1x53sshta5mtc6lhzkapxy&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an industrial-organization theory of corruption using
+    government goods, monopoly bribe setting, corruption with and without theft, complementary
+    bureaucratic approvals, and secrecy constraints to show that fragmented weak states generate
+    especially damaging bribe burdens and that corruption is more distortionary than taxation because it
+    must be hidden.
+- title: "Feenstra and Hanson (AER, 1996) - Globalization, Outsourcing, and Wage Inequality"
+  file: "https://www.dropbox.com/scl/fi/jamlz2kjln19nu1gee18r/Feenstra_Hanson_AER_1996.pdf?rlkey=sst6padu6e00sgasrfpsvzpuu&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses U.S. manufacturing import data, input-output information,
+    imported intermediate input shares, and nonproduction wage-bill shares to study globalization and
+    skill demand, showing that outsourcing grew sharply and can explain a substantial part of the 1980s
+    rise in the relative wage share of skilled or nonproduction workers.
+- title: "Cochrane (JF, 1991) - Production-Based Asset Pricing and the Link Between Stock Returns and Economic Fluctuations"
+  file: "https://www.dropbox.com/scl/fi/1mi4bjlip9pwaqjjogpyh/Cochrane_JF_1991.pdf?rlkey=q8mqgtajki0xlb64f7sn0uer9&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs investment returns from aggregate investment data
+    and an adjustment-cost production technology to test producer-side asset-pricing restrictions,
+    showing that investment returns and stock returns share important business-cycle forecasting
+    patterns and jointly help explain why stock returns forecast real activity.
+- title: "Besley and Persson (AER, 2009) - The Origins of State Capacity: Property Rights, Taxation, and Politics"
+  file: "https://www.dropbox.com/scl/fi/p39h7fi37vxlvbgzhvuz1/Besley_Persson_AER_2009.pdf?rlkey=5klvb2jghvvvfuo3mldzuwhqo&dl=0"
+  desc: >-
+    This note summarizes the paper, which models legal capacity and fiscal capacity as endogenous state
+    investments and relates them to external conflict, political stability, representative institutions,
+    wealth, and legal origins, showing that market-supporting legal institutions and tax capacity are
+    strategic complements with common economic and political origins.
+- title: "Groseclose and Milyo (QJE, 2005) - A Measure of Media Bias"
+  file: "https://www.dropbox.com/scl/fi/ho1mn080bkof3027dzp9e/Groseclose_Milyo_QJE_2005.pdf?rlkey=eyjwm1ygvgbrcwtc9k1s89tjj&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates media slant by comparing news outlets’ citations to
+    think tanks and policy groups with congressional citation patterns on an adjusted ADA ideological
+    scale, showing that source choice can be used to place media outlets and politicians on a common
+    political metric.
+- title: "Mirrlees (RES, 1971) - An Exploration in the Theory of Optimum Income Taxation"
+  file: "https://www.dropbox.com/scl/fi/rcsg856k1hig9eocijq1s/Mirrlees_RES_1971.pdf?rlkey=bj4c6xq1egrmkgtg7j3i84qzh&dl=0"
+  desc: >-
+    This note summarizes the paper, which formulates the modern nonlinear optimal income-tax problem
+    with unobserved earning ability, labor-supply choice, self-selection constraints, and social welfare
+    weights, showing that redistribution must trade off equality against incentive compatibility and
+    that benchmark optimal schedules can look close to a linear tax with transfers at the bottom.
+- title: "Fama and French (JFE, 1993) - Common Risk Factors in the Returns on Stocks and Bonds"
+  file: "https://www.dropbox.com/scl/fi/3co66r5uomkq3ura90hzj/Fama_French_JFE_1993.pdf?rlkey=o6gz0h4x8opwf53bxb3stoiwo&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds time-series factor regressions for stock and bond
+    portfolios using market, SMB, HML, term, and default factors, showing that size and book-to-market
+    behave like common equity return factors while term and default factors dominate bond returns.
+- title: "Williamson (JF, 1988) - Corporate Finance and Corporate Governance"
+  file: "https://www.dropbox.com/scl/fi/g6r3906permbwoo7axy8p/Williamson_JF_1988.pdf?rlkey=pim84bh8gnvqo5ewqat6qien7&dl=0"
+  desc: >-
+    This note summarizes the paper, which treats debt and equity as alternative governance structures
+    rather than merely cash-flow claims, using transaction-cost economics, asset specificity,
+    redeployability, and the dequity puzzle to argue that debt fits redeployable assets while equity
+    fits highly specific assets requiring discretionary governance.
+- title: "Daniel and Titman (JF, 1997) - Evidence on the Characteristics of Cross Sectional Variation in Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/52z8ze7nqwgmcopjyqjka/Daniel_Titman_JF_1997.pdf?rlkey=nwkkqjb0xb8hcdtmfulxu4xft&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses characteristic-balanced portfolios sorted within size and
+    book-to-market cells on predicted factor loadings to distinguish factor pricing from characteristic
+    pricing, showing that size and book-to-market characteristics explain average returns better than
+    covariance with the Fama-French factor-mimicking portfolios.
+- title: "Ethier (AER, 1982) - National and International Returns to Scale in the Modern Theory of International Trade"
+  file: "https://www.dropbox.com/scl/fi/ao11t1jklbs6hrzalf8wk/Ethier_AER_1982.pdf?rlkey=9us7v7qgzwpbf2egch0n7o1iw&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds differentiated intermediate inputs, fixed costs,
+    national and international returns to scale, and intraindustry component trade into a
+    factor-endowments framework, showing that increasing returns and two-way trade in producer inputs
+    can coexist with core Heckscher-Ohlin logic.
