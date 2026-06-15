@@ -1127,6 +1127,8 @@ body{
           <div class="reading-toolbar-left">
             <span class="reading-toolbar-label">Sort</span>
             <select class="reading-sort-select" id="readingSortSelect" aria-label="Sort papers">
+              <option value="added_desc" selected>Recently added</option>
+              <option value="added_asc">Oldest added</option>
               <option value="title">Title A–Z</option>
               <option value="year_desc">Year newest</option>
               <option value="year_asc">Year oldest</option>
@@ -1313,6 +1315,7 @@ body{
   const statJournals = document.getElementById('readingStatJournals');
   const statYears = document.getElementById('readingStatYears');
   const sortSelect = document.getElementById('readingSortSelect');
+  const libraryTitle = document.getElementById('library');
   const compactToggle = document.getElementById('readingCompactToggle');
   const copyVisibleBtn = document.getElementById('readingCopyVisibleBtn');
 
@@ -1596,6 +1599,10 @@ body{
     .map(getEntryData)
     .filter(item => item.href && item.file);
 
+  paperData.forEach((item, index) => {
+    item.originalIndex = index;
+  });
+
   const dataByElement = new Map(paperData.map(item => [item.el, item]));
 
   function addCardPill(wrap, text){
@@ -1722,7 +1729,15 @@ body{
   }
 
   function compareBySortMode(a, b){
-    const mode = sortSelect ? sortSelect.value : 'title';
+    const mode = sortSelect ? sortSelect.value : 'added_desc';
+
+    if (mode === 'added_desc' || mode === 'added_asc') {
+      const ai = Number.isFinite(a.originalIndex) ? a.originalIndex : 0;
+      const bi = Number.isFinite(b.originalIndex) ? b.originalIndex : 0;
+      const diff = mode === 'added_desc' ? bi - ai : ai - bi;
+      if (diff !== 0) return diff;
+      return a.sortKey.localeCompare(b.sortKey);
+    }
 
     if (mode === 'year_desc' || mode === 'year_asc') {
       const ay = Number(a.year || 0);
@@ -2069,6 +2084,18 @@ body{
     }
   }
 
+  function renderLibraryOrder(visibleItems){
+    if (!libraryTitle || !libraryTitle.parentNode) return;
+
+    let anchor = libraryTitle;
+
+    for (const item of visibleItems) {
+      if (!item || !item.el) continue;
+      libraryTitle.parentNode.insertBefore(item.el, anchor.nextSibling);
+      anchor = item.el;
+    }
+  }
+
   function update(){
     const filters = getFilters();
     const visibleItems = getFilteredItems();
@@ -2076,6 +2103,7 @@ body{
 
     lastVisibleItems = visibleItems;
     updateStats(visibleItems);
+    renderLibraryOrder(visibleItems);
 
     for (const el of entries) {
       const item = dataByElement.get(el);
