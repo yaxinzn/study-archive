@@ -6457,3 +6457,117 @@
     a technology schedule, trade-balance schedule, relative wage determination, nontraded goods, trade
     costs, tariffs, and monetary extensions, showing that specialization and payments can be summarized
     by a single marginal-good cutoff.
+- title: "Anderson and van Wincoop (AER, 2003) - Gravity with Gravitas: A Solution to the Border Puzzle"
+  file: "https://www.dropbox.com/scl/fi/mzntb3n3zqrda5272t0g3/Anderson_VanWincoop_AER_2003.pdf?rlkey=9mm0o0kv3l67x5qx4repcfkcj&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a structural gravity model with CES preferences,
+    bilateral trade costs, output shares, and endogenous multilateral-resistance terms, using
+    U.S.-Canada and multicountry trade data to show that the large McCallum border coefficient mostly
+    reflects omitted general-equilibrium resistance rather than an enormous direct border barrier.
+- title: "Elliott, Golub, and Jackson (AER, 2014) - Financial Networks and Contagion"
+  file: "https://www.dropbox.com/scl/fi/amx1glqxxgts02ex7jd6r/Elliott_Golub_Jackson_AER_2014.pdf?rlkey=k8yzgsspp931mewpdfqirdr70&dl=0"
+  desc: >-
+    This note summarizes the paper, which models organizations with primitive assets, cross-holdings,
+    dependency matrices, failure thresholds, and discontinuous failure costs to study financial
+    contagion, showing that diversification and integration have nonmonotonic effects because networks
+    are most fragile when they are connected enough to transmit shocks but not diversified enough to
+    dilute exposures.
+- title: "Polk and Sapienza (RFS, 2009) - The Stock Market and Corporate Investment: A Test of Catering Theory"
+  file: "https://www.dropbox.com/scl/fi/e7yei6lbpafwljrq72bnr/Polk_Sapienza_RFS_2009.pdf?rlkey=63c08069cl5kaapxhk005tlkk&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses CRSP-Compustat investment data, discretionary accruals as
+    a firm-level mispricing proxy, Tobin's Q, cash-flow controls, equity-issuance controls,
+    cross-sectional opacity and shareholder-horizon tests, and future-return regressions to show that
+    stock-market mispricing can directly affect real investment through managerial catering.
+- title: "Holden and Subrahmanyam (JF, 1992) - Long-Lived Private Information and Imperfect Competition"
+  file: "https://www.dropbox.com/scl/fi/p4dfxqjuak17f83507xpp/Holden_Subrahmanyam_JF_1992.pdf?rlkey=44kdrjvicckvrr90fj86nh2lm&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends Kyle's sequential-auction model to multiple informed
+    traders with the same long-lived private information, linear strategies, Gaussian learning, and
+    competitive market makers, showing that even a small amount of competition among informed traders
+    causes rapid information revelation, low early market depth, and near strong-form efficiency in the
+    continuous-auction limit.
+- title: "Lyandres, Sun, and Zhang (RFS, 2008) - The New Issues Puzzle: Testing the Investment-Based Explanation"
+  file: "https://www.dropbox.com/scl/fi/u3bzgojeodhlhr5ihaor8/Lyandres_Sun_Zhang_RFS_2008.pdf?rlkey=eqwdmlmxf1yuund7q3bf84eg7&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies SEOs, IPOs, convertible debt, straight debt,
+    investment-to-assets, calendar-time issuer portfolios, buy-and-hold abnormal returns, composite
+    issuance, and a low-minus-high investment factor, showing that issuer underperformance is largely
+    explained by issuers being high-investment firms with low expected returns.
+- title: "Miller and Rock (JF, 1985) - Dividend Policy under Asymmetric Information"
+  file: "https://www.dropbox.com/scl/fi/9cqlug9ousjbe10a2lccs/Miller_Rock_JF_1985.pdf?rlkey=a5m7a5g2t25e2tydrsr1dhl45&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a two-period asymmetric-information model linking
+    earnings, investment, dividends, external financing, sources-and-uses identities, and shareholder
+    trading, showing that dividends reveal current earnings but also create a time-consistency problem
+    that can force costly signalling through underinvestment and higher payouts.
+- title: "Cooper, Gulen, and Schill (JF, 2008) - Asset Growth and the Cross-Section of Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/ebwp9xkfmme2rkbb8n5h7/Cooper_Gulen_Schill_JF_2008.pdf?rlkey=bwotxyipd4j0mkr9r1f7km5oj&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses CRSP-Compustat nonfinancial firms, total asset growth,
+    portfolio sorts, Fama-French alphas, Fama-MacBeth regressions, asset-growth decompositions, issuance
+    controls, and operating-margin event-time evidence to show that firms with high asset growth
+    subsequently earn low returns and that total asset growth summarizes a broad investment and
+    financing anomaly.
+- title: "Lemmon, Roberts, and Zender (JF, 2008) - Back to the Beginning: Persistence and the Cross-Section of Corporate Capital Structure"
+  file: "https://www.dropbox.com/scl/fi/jw85dj8w8od695hvrhquv/Lemmon_Roberts_Zender_JF_2008.pdf?rlkey=c7zas62vib68ysvrh9inqkp69&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Compustat leverage panels, event-time leverage
+    portfolios, unexpected-leverage residuals, initial-leverage regressions, variance decompositions,
+    distributed-lag models, partial-adjustment estimates, IPO evidence, and private-firm evidence to
+    show that capital structure contains a large persistent firm component not explained by standard
+    observable determinants.
+- title: "Glaeser, Laibson, Scheinkman, and Soutter (QJE, 2000) - Measuring Trust"
+  file: "https://www.dropbox.com/scl/fi/jzls38zhecojfn31xb6na/Glaeser_Laibson_Scheinkman_Soutter_QJE_2000.pdf?rlkey=ddfmm74oj9ru8vf29ben8kj52&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Harvard undergraduate surveys, GSS-style trust
+    questions, an incentivized trust game, an envelope-drop task, promise treatments, pair-level social
+    connection measures, and return-ratio regressions to show that broad survey trust predicts
+    trustworthiness more than trusting behavior and that social connection and social distance shape
+    cooperative behavior.
+- title: "Graham and Harvey (JFE, 2001) - The Theory and Practice of Corporate Finance: Evidence from the Field"
+  file: "https://www.dropbox.com/scl/fi/tjgz0z2o08zw1v62njd9a/Graham_Harvey_JFE_2001.pdf?rlkey=szyqt363sl1db4u7kj7rxrfgj&dl=0"
+  desc: >-
+    This note summarizes the paper, which surveys 392 CFOs about capital budgeting, cost of capital,
+    debt policy, equity issuance, convertibles, foreign debt, and maturity choices, showing that NPV,
+    IRR, and CAPM are widely used while capital-structure decisions are driven heavily by practical
+    concerns such as financial flexibility, credit ratings, EPS dilution, and recent stock price
+    appreciation.
+- title: "Caselli and Michaels (AEJ Applied, 2013) - Do Oil Windfalls Improve Living Standards? Evidence from Brazil"
+  file: "https://www.dropbox.com/scl/fi/lb4yj8h6d1p63uajhbpml/Caselli_Michaels_AEJApplied_2013.pdf?rlkey=7ddb4jy9hqvvjfpedupdlo2td&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Brazilian coastal AMCs, offshore oil output,
+    royalty-induced municipal revenue, geography controls, IV specifications, reported expenditure data,
+    public-good outcomes, and household income measures to show that oil windfalls raise municipal
+    budgets and reported spending but generate little improvement in real services or living standards,
+    consistent with missing money.
+- title: "He and Xiong (RFS, 2012) - Dynamic Debt Runs"
+  file: "https://www.dropbox.com/scl/fi/m36jusu2n4hmdnznmzz5x/He_Xiong_RFS_2012.pdf?rlkey=q8bfvxt5on3ut95bq1qepkq7g&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a continuous-time model of staggered short-term debt,
+    public fundamentals, liquidation values, credit lines, creditor rollover thresholds, and dynamic
+    coordination, showing that future rollover risk creates a unique debt-run threshold and that
+    volatility, credit lines, and longer maturity can become destabilizing during crises.
+- title: "Acemoglu, Johnson, and Robinson (AER, 2001) - The Colonial Origins of Comparative Development: An Empirical Investigation"
+  file: "https://www.dropbox.com/scl/fi/b0caasypdzy0yw07vg8uw/Acemoglu_Johnson_Robinson_AER_2001.pdf?rlkey=4fqdinforez6yy0frz9qj20yz&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses potential European settler mortality as an instrument for
+    current institutions in former colonies, tracing the mechanism from mortality to settlement, early
+    institutions, current expropriation protection, and modern income, showing that historically induced
+    institutional differences explain a large share of cross-country development differences.
+- title: "Basak and Pavlova (AER, 2013) - Asset Prices and Institutional Investors"
+  file: "https://www.dropbox.com/scl/fi/3d2r68ivpydqttt3q1fm6/Basak_Pavlova_AER_2013.pdf?rlkey=vn0gwen6yir6bsex2x8yyhsnz&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic general-equilibrium asset-pricing model
+    with retail investors, benchmark-concerned institutional investors, fixed risky asset supply,
+    leverage, wealth effects, and multi-stock index membership, showing that institutional benchmarking
+    raises index-stock prices, volatility, leverage, and excess comovement while lowering and making
+    Sharpe ratios countercyclical.
+- title: "Kondor (JF, 2009) - Risk in Dynamic Arbitrage: The Price Effects of Convergence Trading"
+  file: "https://www.dropbox.com/scl/fi/fh5sj0n38d491trq60t4n/Kondor_JF_2009.pdf?rlkey=p8qsale5a8kwecevnfsrumlun&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic convergence-trading model with identical
+    assets, local demand imbalances, limited arbitrage capital, endogenous price gaps, random
+    convergence timing, and robust-equilibrium selection, showing that fundamentally riskless arbitrage
+    can involve endogenous interim losses, widening price gaps, slow-moving capital, and negatively
+    skewed arbitrageur returns.
