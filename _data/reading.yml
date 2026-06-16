@@ -6571,3 +6571,86 @@
     convergence timing, and robust-equilibrium selection, showing that fundamentally riskless arbitrage
     can involve endogenous interim losses, widening price gaps, slow-moving capital, and negatively
     skewed arbitrageur returns.
+- title: "Romer (JPE, 1990) - Endogenous Technological Change"
+  file: "https://www.dropbox.com/scl/fi/gb8fmtplhxprjxikaf2fp/Romer_JPE_1990.pdf?rlkey=74rkgvz5hrcz721uiykxmvk2n&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a canonical endogenous-growth model with nonrival
+    designs, human capital allocation, monopolistic intermediate-good producers, research spillovers,
+    and differentiated producer durables to show that long-run growth is driven by profit-motivated idea
+    creation, that human capital rather than population is the key scale variable, and that
+    decentralized equilibrium devotes too little effort to research.
+- title: "Aghion and Howitt (Econometrica, 1992) - A Model of Growth Through Creative Destruction"
+  file: "https://www.dropbox.com/scl/fi/pm9rt4n9oj5cugfr8evc8/Aghion_Howitt_Econometrica_1992.pdf?rlkey=haxw7t9vo2m7xq321fm4oa3ou&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a Schumpeterian endogenous-growth model with vertical
+    innovations, patent races, monopoly rents, skilled labor allocation, and creative destruction to
+    show that current research depends negatively on expected future research, that log output follows a
+    random walk with drift, and that laissez-faire innovation can be either too low or too high because
+    appropriability, intertemporal spillovers, business stealing, and monopoly distortions push in
+    different directions.
+- title: "Grossman and Helpman (AER, 1990) - Comparative Advantage and Long-Run Growth"
+  file: "https://www.dropbox.com/scl/fi/o1ny1pnoboslvm9ra827l/Grossman_Helpman_AER_1990.pdf?rlkey=3tmn0aoiw0drv5hf3vl73odla&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a two-country endogenous-growth trade model with
+    differentiated intermediate inputs, profit-driven R&D, country-specific labor requirements,
+    comparative advantage in innovation versus manufacturing, and knowledge diffusion to show that trade
+    patterns and trade policy can permanently affect world growth by reallocating resources toward or
+    away from R&D-advantaged activities.
+- title: "Grossman and Helpman (RES, 1991) - Quality Ladders in the Theory of Growth"
+  file: "https://www.dropbox.com/scl/fi/tghvy5pakod5wyihileh9/Grossman_Helpman_RES_1991.pdf?rlkey=khgelezt7ckoapru6h5robwwx&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a quality-ladder growth model with a continuum of
+    products, repeated vertical product improvements, temporary monopoly leadership, free-entry R&D
+    races, factor endowments, and trade extensions to show that aggregate growth can arise from
+    stochastic product-level creative destruction and that market innovation can be either excessive or
+    insufficient depending on the balance between consumer-surplus effects, intertemporal spillovers,
+    and business stealing.
+- title: "Acemoglu, Aghion, Bursztyn, and Hémous (AER, 2012) - The Environment and Directed Technical Change"
+  file: "https://www.dropbox.com/scl/fi/j0r35eqw4bsfpfrei3sng/Acemoglu_Aghion_Bursztyn_Hemous_AER_2012.pdf?rlkey=ddmpzvh4gxgu11xonlju99hlr&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a directed-technical-change model with clean and
+    dirty inputs, endogenous scientist allocation, environmental degradation, sectoral machine quality,
+    carbon taxes, and clean research subsidies to show that dirty technologies can become
+    self-reinforcing under laissez-faire, while optimal climate policy combines emissions pricing with
+    temporary clean-R&D support to redirect innovation and reduce the cost of transition.
+- title: "Acemoglu, Akcigit, Hanley, and Kerr (JPE, 2016) - Transition to Clean Technology"
+  file: "https://www.dropbox.com/scl/fi/uxnjuczru7oyy9hmdhr0m/Acemoglu_Akcigit_Hanley_Kerr_JPE_2016.pdf?rlkey=zwm1k5uux42voi0xj02bw256k&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a quantitative directed-innovation model using U.S.
+    energy-sector patent, R&D, firm-dynamics, employment, sales, and emissions data, then embeds
+    clean-dirty technology gaps in a climate-policy framework to show that optimal policy uses large
+    front-loaded clean research subsidies and a hump-shaped carbon tax because subsidies redirect
+    innovation when clean technology is initially behind and taxes gradually shift production.
+- title: "Bloom, Jones, Van Reenen, and Webb (AER, 2020) - Are Ideas Getting Harder to Find?"
+  file: "https://www.dropbox.com/scl/fi/uldgy8m6nh4fw2tszj8oc/Bloom_Jones_VanReenen_Webb_AER_2020.pdf?rlkey=cmq5vs59bthqoani8m0rvke3q&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures research productivity across aggregate TFP, Moore's
+    Law, agriculture, medicine, Compustat firms, and Census manufacturing by comparing idea-output
+    growth rates with effective researchers, showing that research effort has risen sharply while
+    research productivity has fallen across many domains, so stable growth is increasingly sustained by
+    expanding research input rather than constant ideas per researcher.
+- title: "Akcigit and Ates (JPE, 2023) - What Happened to US Business Dynamism?"
+  file: "https://www.dropbox.com/scl/fi/6z1l3fcsvrsizlzs7di1i/Akcigit_Ates_JPE_2023.pdf?rlkey=5pr9b6o4j6z9u5l0tvdgc0ev0&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds and calibrates a general-equilibrium firm-dynamics
+    model with leaders, followers, entrants, endogenous markups, innovation, entry costs, and knowledge
+    diffusion to explain rising U.S. concentration, markups, profit shares, productivity gaps, and
+    declining entry, young-firm activity, job reallocation, and growth dispersion, showing that weaker
+    diffusion from frontier firms to laggards is the dominant common force behind the decline in
+    business dynamism.
+- title: "Cornelissen, Dustmann, and Schönberg (AER, 2017) - Peer Effects in the Workplace"
+  file: "https://www.dropbox.com/scl/fi/peu20koaooy6gdckyqby7/Cornelissen_Dustmann_Schonberg_AER_2017.pdf?rlkey=w2pl4074siweg15vgw4qklxob&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses German social-security records, occupation-firm-year peer
+    groups, coworker fixed effects as predetermined peer quality, worker fixed effects, firm-year fixed
+    effects, occupation-year fixed effects, and timing and outside-peer tests to show that workplace
+    peer effects in wages are precisely estimated but small on average, larger in repetitive low-skilled
+    jobs, and more consistent with contemporaneous social pressure than broad knowledge spillovers.
+- title: "Ichino and Maggi (QJE, 2000) - Work Environment and Individual Background: Explaining Regional Shirking Differentials in a Large Italian Firm"
+  file: "https://www.dropbox.com/scl/fi/0qh405qbxfajs9vrt6mpp/Ichino_Maggi_QJE_2000.pdf?rlkey=0k5fmhv3x1f8untk9kdr0od8m&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses personnel records from a large Italian bank, absenteeism
+    and misconduct measures, birthplace and workplace region indicators, local controls, mover
+    regressions, coworker shirking measures, sorting comparisons, and decomposition exercises to show
+    that southern branches have higher shirking mainly because of individual background, with sorting
+    and workplace group interactions also playing important roles.
