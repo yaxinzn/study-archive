@@ -6764,3 +6764,58 @@
     covenants, and optimal leverage to show that debt value, yield spreads, and capital structure depend
     critically on the default boundary and that protective covenants can reduce asset-substitution
     incentives while lowering optimal leverage.
+- title: "Jensen and Murphy (JPE, 1990) - Performance Pay and Top-Management Incentives"
+  file: "https://www.dropbox.com/scl/fi/podf2eaf4vnbplexb4f2k/Jensen_Murphy_JPE_1990.pdf?rlkey=z56htvz0oyrnjo3hajoe8t4mr&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Forbes CEO compensation data, CRSP and Compustat
+    shareholder-wealth measures, option and inside-ownership samples, turnover regressions, and
+    historical comparisons to measure CEO pay-performance sensitivity, showing that top-management
+    incentives were positive but economically weak, with CEO wealth rising by only about $3.25 per
+    $1,000 of shareholder wealth and most alignment coming from stock ownership.
+- title: "Shapiro and Stiglitz (AER, 1984) - Equilibrium Unemployment as a Worker Discipline Device"
+  file: "https://www.dropbox.com/scl/fi/n3647j2jiesuewpza8bk9/Shapiro_Stiglitz_AER_1984.pdf?rlkey=janmqik0j4xtcxkpkyavka1vy&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops the canonical efficiency-wage model with costly
+    effort, imperfect monitoring, shirking, unemployment benefits, separation risk, worker value
+    functions, and an aggregate no-shirking constraint to show that involuntary unemployment can arise
+    in equilibrium because job loss must be costly enough to discipline workers.
+- title: "Hart and Moore (QJE, 2008) - Contracts as Reference Points"
+  file: "https://www.dropbox.com/scl/fi/t0uc7v1gba9bjon6umkd8/Hart_Moore_QJE_2008.pdf?rlkey=byc9t7h3o5vjcfo7e6ppod5p2&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a behavioral contracting model where contracts shape
+    parties’ reference points, entitlements, aggrievement, and shading, showing that flexible contracts
+    improve adaptation but create costly disagreement, while rigid contracts, fixed wages, authority,
+    employment, independent contracting, and sometimes no contract can be optimal because they
+    discipline expectations of fair treatment.
+- title: "MacLeod and Malcomson (Econometrica, 1989) - Implicit Contracts, Incentive Compatibility, and Involuntary Unemployment"
+  file: "https://www.dropbox.com/scl/fi/6dc04kasxz1pjt5svxktk/Macleod_Malcomson_Econometrica_1989.pdf?rlkey=pzsfb8gbuphhlyvoklsuwvha7&dl=0"
+  desc: >-
+    This note summarizes the paper, which characterizes self-enforcing employment contracts when
+    performance is observable but not legally verifiable, embeds those implicit contracts in
+    labor-market equilibrium, and shows that bonuses, piece rates, and termination contracts can all be
+    sustained by continuation surplus, while involuntary unemployment depends on beliefs and
+    renegotiation constraints rather than following mechanically from nonverifiability.
+- title: "Friebel and Raith (AEJ Micro, 2010) - Resource Allocation and Organizational Form"
+  file: "https://www.dropbox.com/scl/fi/wg4qqpq0fkrclmy9av943/Friebel_Raith_AEJMicro_2010.pdf?rlkey=f3zzu3vmmzyymj2wr4gbaovcg&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a theory of firm scope and internal hierarchy with
+    scarce firm-specific resources, division-manager effort, private project-quality information,
+    truthful-reporting constraints, and centralized resource allocation to show that integration
+    improves allocation only by creating an incentive cost of eliciting information, making CEO
+    hierarchies preferable to skewed hierarchies when communication is strategic.
+- title: "Rajan and Zingales (QJE, 2001) - The Firm as a Dedicated Hierarchy: A Theory of the Origins and Growth of Firms"
+  file: "https://www.dropbox.com/scl/fi/vu5qr5tse8g8wqeqi352j/Rajan_Zingales_QJE_2001.pdf?rlkey=h48mpf4xf32szk3a35vz85gso&dl=0"
+  desc: >-
+    This note summarizes the paper, which models firms as hierarchies built around a critical resource
+    whose access enables specialization but creates expropriation risk, showing that vertical
+    hierarchies, seniority promotion, organizational capital, horizontal partnerships, up-or-out
+    systems, culture, and ownership transfer arise as alternative ways to induce employees to specialize
+    without stealing the resource.
+- title: "Prendergast (QJE, 1993) - The Role of Promotion in Inducing Specific Human Capital Acquisition"
+  file: "https://www.dropbox.com/scl/fi/onrau1tnh4k4jt0sclfz1/Prendergast_QJE_1993.pdf?rlkey=ddj7rgij8isast01s9vqwt90z&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a promotion-based incentive model with nonverifiable
+    firm-specific human capital, two jobs, job-contingent wages, worker and firm incentive constraints,
+    and promotion cutoffs to show that promotion can credibly reward skill acquisition only when
+    training raises productivity especially in the promoted task, though the promotion wage premium
+    generally causes inefficient underpromotion.
