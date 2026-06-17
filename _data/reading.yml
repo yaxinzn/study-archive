@@ -6654,3 +6654,113 @@
     regressions, coworker shirking measures, sorting comparisons, and decomposition exercises to show
     that southern branches have higher shirking mainly because of individual background, with sorting
     and workplace group interactions also playing important roles.
+- title: "de Chaisemartin and D’Haultfœuille (AER, 2020) - Two-Way Fixed Effects Estimators with Heterogeneous Treatment Effects"
+  file: "https://www.dropbox.com/scl/fi/178zvoiycaauguma1381w/deChaisemartin_DHaultfoeuille_AER_2020.pdf?rlkey=otteoakrioqn1onggwcig0a3l&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes two-way fixed-effects and first-difference
+    treatment regressions with heterogeneous effects, documents negative-weight pathologies, surveys AER
+    applications, and proposes the DIDM switcher estimator and placebo tests to show that standard TWFE
+    coefficients need not be convex averages of causal effects and can even have the wrong sign.
+- title: "Meyer, Viscusi, and Durbin (AER, 1995) - Workers’ Compensation and Injury Duration: Evidence from a Natural Experiment"
+  file: "https://www.dropbox.com/scl/fi/q4isvbrvtnchfhksnws47/Meyer_Viskusi_Durbin_AER_1995.pdf?rlkey=2wtvx74ohjnst1743gdv7p7xq&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits large increases in maximum weekly workers’
+    compensation benefits in Kentucky and Michigan, comparing high-earnings workers affected by the cap
+    increase with lower-earnings workers on the unchanged replacement-rate schedule, to show that higher
+    benefits lengthen temporary-total-disability spells, with duration elasticities mostly around 0.3 to
+    0.4.
+- title: "Gruber and Poterba (QJE, 1994) - Tax Incentives and the Decision to Purchase Health Insurance: Evidence from the Self-Employed"
+  file: "https://www.dropbox.com/scl/fi/jea6s3bty9mk03tk5wjco/Gruber_Poterba_QJE_1994.pdf?rlkey=z46be6iwc1w8ijnmf5tgiijj5&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the Tax Reform Act of 1986 self-employed health-insurance
+    deduction, CPS data, TAXSIM-based after-tax prices, difference-in-differences, and triple-difference
+    comparisons to show that lowering the after-tax price of private health insurance substantially
+    increased coverage among self-employed workers, especially single self-employed individuals.
+- title: "Eissa and Liebman (QJE, 1996) - Labor Supply Response to the Earned Income Tax Credit"
+  file: "https://www.dropbox.com/scl/fi/w869hxlx29867c70ziru9/Eissa_Liebman_QJE_1996.pdf?rlkey=c29wu8clnpj4zer2b38fh8m8j&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the 1987 EITC expansion in TRA86, March CPS data, single
+    women with children as the treated group, single women without children as controls, participation
+    probits, and hours regressions to show that the EITC increased labor-force participation among
+    single mothers by roughly two to three percentage points while producing no detectable reduction in
+    hours among workers.
+- title: "Diamond (QJE, 1991) - Debt Maturity Structure and Liquidity Risk"
+  file: "https://www.dropbox.com/scl/fi/neexlqlc5rwflw4y9gk75/Diamond_QJE_1991.pdf?rlkey=ehhuj4bthrt46vxhndbi8ejmo&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a debt-maturity model with private borrower
+    information, interim rating updates, short-term refinancing, nonpledgeable control rents, and
+    inefficient liquidation risk to show that debt maturity is nonmonotonic in credit quality:
+    high-rated borrowers voluntarily use short debt, intermediate borrowers prefer long debt to avoid
+    liquidity risk, and very low-rated borrowers may be forced into short debt.
+- title: "Kandel and Lazear (JPE, 1992) - Peer Pressure and Partnerships"
+  file: "https://www.dropbox.com/scl/fi/3opnw8uabza491v360ail/Kandel_Lazear_JPE_1992.pdf?rlkey=afzm4drhwb1l8urrjgmxvpo22&dl=0"
+  desc: >-
+    This note summarizes the paper, which formalizes peer pressure, shame, guilt, norms, mutual
+    monitoring, and empathy inside profit-sharing partnerships to show that social incentives can partly
+    offset the standard free-rider problem when coworkers are residual claimants and can impose utility
+    costs on shirkers, while also emphasizing that pressure itself is costly and welfare effects are
+    ambiguous.
+- title: "Berlin and Mester (RFS, 1999) - Deposits and Relationship Lending"
+  file: "https://www.dropbox.com/scl/fi/8sbbpx6d4ikgp608dszgx/Berlin_Mester_RFS_1999.pdf?rlkey=9mtcoxy78ogydcw5hfgbujab9&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines a relationship-lending model with loan-level STBL
+    data and Call Report bank balance sheets to test whether core deposits support loan-rate smoothing,
+    showing that banks funded more heavily with rate-inelastic core deposits pass through less aggregate
+    credit-risk shocks into loan markups, consistent with deposits enabling relationship-based credit
+    insurance.
+- title: "Boot, Greenbaum, and Thakor (AER, 1993) - Reputation and Discretion in Financial Contracting"
+  file: "https://www.dropbox.com/scl/fi/ofs3bzs6xfvp3k39rykm8/Boot_Greenbaum_Thakor_AER_1993.pdf?rlkey=ae09lqc4l81ug2hek5x00om82&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a reputation model of discretionary financial
+    contracts, unenforceable guarantees, reusable information assets, and high- versus low-type
+    intermediaries to show that legally unenforceable promises can have economic value because honoring
+    them voluntarily builds reputation while discretion preserves financial and informational capital in
+    costly states.
+- title: "Sharpe (JF, 1990) - Asymmetric Information, Bank Lending, and Implicit Contracts: A Stylized Model of Customer Relationships"
+  file: "https://www.dropbox.com/scl/fi/tehbfjq95u8j76ou96wn8/Sharpe_JF_1990.pdf?rlkey=x4idkxvftuy0zmkeq35tlnh2k&dl=0"
+  desc: >-
+    This note summarizes the paper, which models relationship lending as an incumbent bank’s private
+    information advantage over outside banks, comparing complete contingent contracts, no-commitment
+    pricing, and reputation-backed implicit contracts to show that banks underprice new loans and later
+    extract rents from successful old borrowers unless reputation or enforceable commitments discipline
+    informational monopoly power.
+- title: "Boot and Thakor (JF, 2000) - Can Relationship Banking Survive Competition?"
+  file: "https://www.dropbox.com/scl/fi/x8k94ffaciwoe3j8dcjtg/Boot_Thakor_JF_2000.pdf?rlkey=xv2080qq63zm9spxpleq46iq3&dl=0"
+  desc: >-
+    This note summarizes the paper, which models banks choosing sector specialization and allocating
+    capacity between relationship and transaction lending under interbank and capital-market
+    competition, showing that interbank competition can increase the share of relationship lending by
+    making differentiation more valuable, while capital-market competition shrinks bank lending but
+    raises specialization among surviving relationship loans.
+- title: "Titman and Wessels (JF, 1988) - The Determinants of Capital Structure Choice"
+  file: "https://www.dropbox.com/scl/fi/29yeuvlhjvdcbka8nspmt/Titman_Wessels_JF_1988.pdf?rlkey=11rgkd7ks6mfgs9ayh3ztbbq1&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses U.S. manufacturing firms, multiple debt-ratio measures,
+    observable accounting indicators, and a latent-variable linear structural model to study
+    capital-structure determinants, showing that unique-product firms use less debt, small firms rely
+    more on short-term debt, profitable firms have lower market-value leverage, and simple tax,
+    collateral, volatility, and growth proxies have weak explanatory power.
+- title: "Flannery (JF, 1986) - Asymmetric Information and Risky Debt Maturity Choice"
+  file: "https://www.dropbox.com/scl/fi/xxzxwegb6z9av1evv4ssl/Flannery_JF_1986.pdf?rlkey=289bk1l9i22i8rehb2tr7auyt&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a risky-debt maturity signaling model with good and
+    bad firms, private project-quality information, public interim signals, pooling default premia, and
+    transaction costs to show that high-quality firms may issue costly short-term debt to signal credit
+    quality, while costless debt issuance leads to pooling because low-quality firms can mimic the
+    short-maturity signal.
+- title: "Barclay and Smith (JF, 1995) - The Maturity Structure of Corporate Debt"
+  file: "https://www.dropbox.com/scl/fi/hfp4mlqpq9enfmn0sb827/Barclay_Smith_JF_1995.pdf?rlkey=035rv4b2irgarxbcg2d8z35hh&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a large CRSP-Compustat industrial firm panel and measures
+    the share of total debt maturing beyond three years to test contracting-cost, signaling, and tax
+    theories of debt maturity, showing that high-growth firms use shorter debt, regulated and large
+    firms use longer debt, and the evidence supports agency-contracting explanations more strongly than
+    signaling or term-structure tax hypotheses.
+- title: "Leland (JF, 1994) - Corporate Debt Value, Bond Covenants, and Optimal Capital Structure"
+  file: "https://www.dropbox.com/scl/fi/72lq6tcbnlzi88xvemj0r/Leland_JF_1994.pdf?rlkey=k70eblvbqmr6cqyyqkym9aj4l&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a continuous-time contingent-claims model of
+    perpetual risky debt, tax shields, bankruptcy costs, endogenous default, positive net-worth
+    covenants, and optimal leverage to show that debt value, yield spreads, and capital structure depend
+    critically on the default boundary and that protective covenants can reduce asset-substitution
+    incentives while lowering optimal leverage.
