@@ -6819,3 +6819,59 @@
     and promotion cutoffs to show that promotion can credibly reward skill acquisition only when
     training raises productivity especially in the promoted task, though the promotion wage premium
     generally causes inefficient underpromotion.
+- title: "Arkolakis, Costinot, Donaldson, and Rodríguez-Clare (RES, 2019) - The Elusive Pro-Competitive Effects of Trade"
+  file: "https://www.dropbox.com/scl/fi/pdutjeh5tlbme8pprwncu/Arkolakis_Costinot_Donaldson_RodriguezClare_RES_2019.pdf?rlkey=3vtycyzz0gcmoypx73f13n3fc&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a variable-markup gravity model with monopolistic
+    competition, heterogeneous firms, non-CES demand, Pareto productivity, sufficient-statistic welfare
+    formulas, micro trade data, pass-through evidence, and robustness simulations to show that
+    pro-competitive gains from trade are empirically elusive and often no larger than the
+    constant-markup ACR benchmark.
+- title: "Feenstra and Weinstein (JPE, 2017) - Globalization, Markups, and US Welfare"
+  file: "https://www.dropbox.com/scl/fi/266ig6fen9aj42p426718/Feenstra_Weinstein_JPE_2017.pdf?rlkey=wqiiobxhzszg7uiowk6h4mqx6&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a symmetric translog monopolistic-competition model, U.S.
+    apparent-consumption data, country-sector shares, Herfindahl indexes, estimated demand curvature,
+    and a markup-variety welfare decomposition to show that globalization raised U.S. welfare by about
+    0.85 percent of GDP from 1992 to 2005, split roughly evenly between lower markups and net
+    product-variety gains.
+- title: "Topalova (AEJ Applied, 2010) - Factor Immobility and Regional Impacts of Trade Liberalization: Evidence on Poverty from India"
+  file: "https://www.dropbox.com/scl/fi/jhj4b481omj2csxza97hf/Topalova_AEJAppliedEcon_2010.pdf?rlkey=n6ol0z3v3fd54jy2remcmuot3&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses India’s 1991 trade liberalization, district
+    employment-based tariff exposure, NSS household data, traded-sector tariff instruments, poverty and
+    consumption regressions, migration evidence, reallocation measures, prices, wages, and labor-law
+    interactions to show that more exposed rural districts experienced slower poverty reduction and
+    consumption growth, especially among poorer households and in less flexible labor-law states.
+- title: "Artuç, Chaudhuri, and McLaren (AER, 2010) - Trade Shocks and Labor Adjustment: A Structural Empirical Approach"
+  file: "https://www.dropbox.com/scl/fi/6uac5aq3p9sbil0wq0rgc/Artuc_Chaudhuri_McLaren_AER_2010.pdf?rlkey=bwvqidhdmqfbqwwc4zilpkpjr&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a dynamic structural model of intersectoral labor
+    mobility using CPS gross flows, sectoral wages, extreme-value moving shocks, Euler-equation moments,
+    GMM, and trade-liberalization simulations to show that moving costs and idiosyncratic mobility
+    shocks are large, adjustment to trade shocks is slow, and worker welfare depends on future sectoral
+    option value rather than current wage changes alone.
+- title: "Arkolakis, Demidova, Klenow, and Rodríguez-Clare (AER P&P, 2008) - Endogenous Variety and the Gains from Trade"
+  file: "https://www.dropbox.com/scl/fi/ymbh37sgmz2gbhy1zfuk6/Arkolakis_Demidova_Klenow_RodriguezClare_AERPP_2008.pdf?rlkey=5ex46nkrduwpi2i2gtp59tgdr&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Costa Rica’s 1986–1992 import liberalization,
+    country-product variety counts, tariffs, Feenstra exact price-index corrections, Pareto curvature,
+    Melitz-style export cutoffs, free entry, and domestic expenditure-share formulas to show that new
+    import varieties generated tiny measured welfare gains because marginal varieties carry small
+    expenditure weights and aggregate gains are pinned down by trade shares and elasticities.
+- title: "Aggarwal and Samwick (JPE, 1999) - The Other Side of the Trade-off: The Impact of Risk on Executive Compensation"
+  file: "https://www.dropbox.com/scl/fi/pwwxod06ji3bm22gni42p/Aggarwal_Samwick_JPE_1999.pdf?rlkey=5qf4ijt9ba0g4ndzeqbqy4766&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines ExecuComp executive compensation data, CRSP
+    return-risk measures, firm-specific wealth changes, flow compensation, return-variance interactions,
+    median and OLS regressions, and relative-performance-evaluation tests to show that pay-performance
+    sensitivity declines sharply with firm risk, consistent with the principal-agent incentive-insurance
+    trade-off, while evidence for industry-based relative performance evaluation is weak.
+- title: "Hall and Liebman (QJE, 1998) - Are CEOs Really Paid Like Bureaucrats?"
+  file: "https://www.dropbox.com/scl/fi/fy3txotr5wl0a4phif1h6/Hall_Liebman_QJE_1998.pdf?rlkey=v9cd86r2jl9c1il9l4bagn6sp&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs a detailed 1980–1994 panel of large-firm CEOs with
+    salary, bonus, stock grants, option grants, stockholdings, option holdings, and portfolio
+    revaluation to show that CEOs are not paid like bureaucrats once equity and option wealth are
+    measured properly, because total CEO wealth is highly sensitive to firm stock performance and this
+    sensitivity rose sharply with option grants.
