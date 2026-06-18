@@ -7072,3 +7072,130 @@
     fiscal-year timing, and compensation decomposition to show that high-income taxable income responses
     are large in the short run but mostly reflect stock-option exercise timing rather than permanent
     behavioral change.
+- title: "Bernstein (JF, 2015) - Does Going Public Affect Innovation?"
+  file: "https://www.dropbox.com/scl/fi/vaabxzzbvy2fjecl3cx9h/Bernstein_JF_2015.pdf?rlkey=6lxg2jhluidbrnlnnrfn4lkwg&dl=0"
+  desc: >-
+    This note summarizes the paper, which compares completed IPO filers with withdrawn IPO filers,
+    instruments IPO completion using two-month NASDAQ returns during the book-building window, and
+    measures patent citations, patent counts, originality, inventor mobility, and acquired patents to
+    show that going public lowers internal innovation novelty while increasing inventor turnover and
+    external technology acquisition.
+- title: "Tian and Wang (RFS, 2014) - Tolerance for Failure and Corporate Innovation"
+  file: "https://www.dropbox.com/scl/fi/bhxbyj5x8926j8bsxsd20/Tian_Wang_RFS_2014.pdf?rlkey=46prnkmsibwwsprnatoj90634&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures venture capitalists' tolerance for failure by their
+    investment duration in failed ventures and links that predetermined tolerance to post-IPO patenting
+    and citations, showing that more failure-tolerant VCs finance firms with more and higher-impact
+    innovation, especially in recession-born, early-stage, and high-failure-risk industries.
+- title: "Acharya, Baghai, and Subramanian (RFS, 2014) - Wrongful Discharge Laws and Innovation"
+  file: "https://www.dropbox.com/scl/fi/uab40d3hfrb2slb42rl1z/Acharya_Baghai_Subramanian_RFS_2014.pdf?rlkey=y09pbpzrm8yn39lv9wknn4twj&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses staggered U.S. state adoption of wrongful discharge laws,
+    firm-level patent and citation data, difference-in-differences specifications, dynamic tests,
+    governance interactions, and entrepreneurship outcomes to show that good-faith dismissal protections
+    increase innovation and new firm creation by reducing employee holdup after successful innovative
+    effort.
+- title: "Chemmanur, Loutskina, and Tian (RFS, 2014) - Corporate Venture Capital, Value Creation, and Innovation"
+  file: "https://www.dropbox.com/scl/fi/im89sfv8mzncam29xn89j/Chemmanur_Loutskina_Tian_RFS_2014.pdf?rlkey=ej550awaqakd8ke2u1p3hl8cl&dl=0"
+  desc: >-
+    This note summarizes the paper, which compares corporate venture capital and independent venture
+    capital using VC-backed IPO firms, patents, citations, propensity score matching, all-VC-backed firm
+    difference-in-differences, technological-fit tests, and failure-tolerance measures to show that
+    CVC-backed firms produce more and broader innovation, especially when corporate parents provide
+    relevant expertise and patience.
+- title: "Malmendier and Tate (JFE, 2008) - Who Makes Acquisitions? CEO Overconfidence and the Market's Reaction"
+  file: "https://www.dropbox.com/scl/fi/smyqgyc0kemr82lbj9q34/Malmendier_Tate_JFE_2008.pdf?rlkey=gk55a6ohjk7uinaq4pb2lzcjq&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures CEO overconfidence using late exercise of
+    deep-in-the-money options and press portrayals, then links these CEO-level beliefs to SDC merger
+    activity and announcement returns, showing that overconfident CEOs make more acquisitions,
+    especially diversifying deals financed with internal resources, and that the market reacts more
+    negatively to their bids.
+- title: "Moeller, Schlingemann, and Stulz (JFE, 2004) - Firm Size and the Gains from Acquisitions"
+  file: "https://www.dropbox.com/scl/fi/st19pauws9ei8m3ftqcbj/Moeller_Schlingemann_Stulz_JFE_2004.pdf?rlkey=kj2rft49m9ga1nmfcpoidlnn2&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses 12,023 completed U.S. acquisitions from SDC, event-study
+    bidder CARs, dollar abnormal returns, target organizational form, payment method, deal controls,
+    premium regressions, synergy measures, and long-run returns to show that small acquirers earn higher
+    announcement returns while large acquirers destroy most aggregate bidder wealth through large
+    value-destroying deals.
+- title: "Moeller, Schlingemann, and Stulz (JF, 2005) - Wealth Destruction on a Massive Scale? A Study of Acquiring-Firm Returns in the Recent Merger Wave"
+  file: "https://www.dropbox.com/scl/fi/2o0dwyb8hdw206vk11aqu/Moeller_Schlingemann_Stulz_JF_2005.pdf?rlkey=7y2hwyctiwdedxvmpqe6ee1n2&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies acquisition dollar returns during the 1980-2001 merger
+    waves, isolates large-loss deals that destroy more than $1 billion of acquirer wealth, and compares
+    deal characteristics, predicted returns, synergy gains, and post-event performance to show that
+    late-1990s acquirer losses were driven by a small left tail of very large overvalued bidders making
+    equity-financed public-target acquisitions.
+- title: "Shleifer and Vishny (JFE, 2003) - Stock Market Driven Acquisitions"
+  file: "https://www.dropbox.com/scl/fi/84n487jan7onlkv3yjova/Shleifer_Vishny_JFE_2003.pdf?rlkey=bjenkbzpm93pgqbx8n6m96r6d&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a behavioral theory of mergers with rational managers
+    and mispriced markets, modeling cash and stock acquisitions, perceived synergies, bidder and target
+    valuations, and merger waves to show that overvalued firms can rationally use inflated stock to buy
+    less-overvalued firms and that stock-driven merger waves can arise from valuation errors rather than
+    real synergies alone.
+- title: "Rhodes-Kropf, Robinson, and Viswanathan (JFE, 2005) - Valuation Waves and Merger Activity: The Empirical Evidence"
+  file: "https://www.dropbox.com/scl/fi/j5czav7dzpv5nzxfvga1f/Rhodes_Kropf_Robinson_Viswanathan_JFE_2005.pdf?rlkey=eo0xytboliuswe11920562adk&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes market-to-book ratios into firm-specific pricing
+    error, sector-level valuation error, and long-run value-to-book using sector-year valuation
+    regressions, then links these components to merger participation, bidder-target matching, payment
+    method, sector merger intensity, failed deals, and merger waves to show that misvaluation helps
+    explain who buys whom and when stock-financed merger waves occur.
+- title: "Guo, Hotchkiss, and Song (JF, 2011) - Do Buyouts (Still) Create Value?"
+  file: "https://www.dropbox.com/scl/fi/ysqu3tw7leiqfl7lh3ce8/Guo_Hotchkiss_Song_JF_2011.pdf?rlkey=leeh2x6q0aqf14lalerpq80gj&dl=0"
+  desc: >-
+    This note summarizes the paper, which follows U.S. public-to-private leveraged buyouts from 1990 to
+    2006, measuring realized returns, operating performance changes, valuation multiple changes, tax
+    benefits, leverage, debt structure, and exit outcomes to show that modern buyouts create large
+    returns through a mix of operating gains, multiple expansion, and tax shields rather than
+    operational improvements alone.
+- title: "Axelson, Jenkinson, Strömberg, and Weisbach (JF, 2013) - Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts"
+  file: "https://www.dropbox.com/scl/fi/s2whu9zfry3wu103j9548/Axelson_Jenkinson_Stromberg_Weisbach_JF_2013.pdf?rlkey=vtfu8mc76vw5snt3ft9d8vb8p&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses detailed international buyout financing data, matched
+    public-company leverage, high-yield spreads, LBO pricing regressions, and private equity fund PME
+    returns to show that buyout leverage and purchase prices are driven mainly by credit-market
+    conditions rather than public-firm leverage determinants, and that higher credit-driven leverage
+    predicts lower fund returns.
+- title: "Feenstra and Romalis (QJE, 2014) - International Prices and Endogenous Quality"
+  file: "https://www.dropbox.com/scl/fi/tutqkx9q1jirylklidv5e/Feenstra_Romalis_QJE_2014.pdf?rlkey=x7m19w4nqmvz7t6ax6ucp2i9g&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines UN Comtrade f.o.b. and c.i.f. unit values, tariffs,
+    nonhomothetic demand, endogenous quality choice, Melitz-style exporter heterogeneity,
+    zero-cutoff-profit conditions, and GMM estimation to decompose trade unit values into quality and
+    quality-adjusted prices, showing that rich countries' high export unit values mostly reflect quality
+    and that quality-adjusted terms of trade can fall with income.
+- title: "Atanassov (JF, 2013) - Do Hostile Takeovers Stifle Innovation? Evidence from Antitakeover Legislation and Corporate Patenting"
+  file: "https://www.dropbox.com/scl/fi/2xtu80858qb88ejjr6b3i/Atanassov_JF_2013.pdf?rlkey=bxas5dji08qegu32332ou8sph&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses staggered state antitakeover laws, especially Business
+    Combination statutes, firm-level patents and citations, incorporation-state treatment,
+    difference-in-differences, dynamic pretrend tests, and governance interactions to show that
+    weakening hostile-takeover threats reduces both innovation quantity and citation quality, with
+    alternative governance mechanisms partly mitigating the decline.
+- title: "Gertler and Gilchrist (QJE, 1994) - Monetary Policy, Business Cycles, and the Behavior of Small Manufacturing Firms"
+  file: "https://www.dropbox.com/scl/fi/osbg2efotz0encg4jrfcj/Gertler_Gilchrist_QJE_1994.pdf?rlkey=ejrl6txmcat8i06ampdvi9tce&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Quarterly Financial Report manufacturing data by firm
+    size, Romer monetary-tightening episodes, federal-funds-rate VARs, inventory and short-term debt
+    dynamics, coverage ratios, and asymmetric state-dependent responses to show that small firms
+    contract sales, inventories, and borrowing much more after tight money, providing evidence for a
+    credit channel and financial accelerator.
+- title: "Greif (AER, 1993) - Contract Enforceability and Economic Institutions in Early Trade: The Maghribi Traders' Coalition"
+  file: "https://www.dropbox.com/scl/fi/rdeu2qj240a6nsbd8mq9y/Greif_AER_1993.pdf?rlkey=yo7fm27b7yh29fmvwi8dc5ctv&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Cairo geniza evidence with a repeated-game model of
+    merchants and overseas agents to study contract enforcement in eleventh-century Mediterranean trade,
+    showing that the Maghribi traders' coalition used information transmission, implicit contracts,
+    multilateral punishment, and Merchants' Law to make agency relations self-enforcing despite weak
+    formal courts.
+- title: "Erel, Jang, and Weisbach (JF, 2015) - Do Acquisitions Relieve Target Firms' Financial Constraints?"
+  file: "https://www.dropbox.com/scl/fi/cjo253skwkisft743jvzg/Erel_Jang_Weisbach_JF_2015.pdf?rlkey=idj5437ub2qzklv0ryvezaujq&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses European acquisition data and subsidiary-level financial
+    statements from Zephyr and Amadeus to follow targets before and after acquisition, measuring cash
+    holdings, cash-cash flow sensitivity, investment-cash flow sensitivity, investment levels, subsample
+    heterogeneity, and placebo matched firms to show that acquisitions reduce target financial
+    constraints and raise investment.
