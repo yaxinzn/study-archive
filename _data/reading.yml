@@ -6975,3 +6975,100 @@
     high-dimensional fixed effects, placebo competition tests, and a 2014 receivables-securitization
     reform to show that suppliers use cheap trade credit as a strategic substitute for discounts to
     reward powerful customers while limiting downstream cannibalization.
+- title: "Kashyap, Lamont, and Stein (QJE, 1994) - Credit Conditions and the Cyclical Behavior of Inventories"
+  file: "https://www.dropbox.com/scl/fi/rd9j5etz1r9gq5kq2zg38/Kashyap_Lamont_Stein_QJE_1994.pdf?rlkey=afco5s2gjkfaym1bk2ei819hr&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Compustat manufacturing firms, bond-rating status,
+    beginning-of-period liquidity, inventory investment, IV specifications, industry checks, and
+    comparisons across the 1982, 1974, and 1985-1986 episodes to study the bank-lending channel, showing
+    that liquidity matters most for firms without public debt-market access during tight-money
+    recessions.
+- title: "Abel and Blanchard (Econometrica, 1986) - The Present Value of Profits and Cyclical Movements in Investment"
+  file: "https://www.dropbox.com/scl/fi/ypwfqz8kw7j8oo7556suo/Abel_Blanchard_Econometrica_1986.pdf?rlkey=frnf1ipomm1w953cgvpy2wx9z&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses quarterly U.S. manufacturing data, VAR forecasts of
+    marginal profits and discount factors, constructed marginal q, linear and quadratic present-value
+    approximations, and investment regressions to study q theory, showing that cost-of-capital variation
+    explains much of cyclical marginal q but constructed q still leaves substantial investment dynamics
+    unexplained.
+- title: "Greif, Milgrom, and Weingast (JPE, 1994) - Coordination, Commitment, and Enforcement: The Case of the Merchant Guild"
+  file: "https://www.dropbox.com/scl/fi/5dxq870abb5sadnuh1rqt/Greif_Milgrom_Weingast_JPE_1994.pdf?rlkey=og7zhcea4h3enbr751vhwnpir&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines repeated-game theory, medieval evidence on merchant
+    guilds, German Kontore, the Hansa, embargoes, ruler abuse, and internal guild enforcement to study
+    commitment in long-distance trade, showing that guilds supported efficient exchange by coordinating
+    collective punishment and enforcing merchant participation in boycotts.
+- title: "Blanchard, Rhee, and Summers (QJE, 1993) - The Stock Market, Profit, and Investment"
+  file: "https://www.dropbox.com/scl/fi/q0gufd4pcdfrdd3vq4fmo/Blanchard_Rhee_Summers_QJE_1993.pdf?rlkey=g2jd323zlqnihk1yi430ecb13&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses long-run U.S. aggregate investment, Tobin's q,
+    profitability, constructed fundamental q, instrumental-variable specifications, and the 1929 and
+    1987 crash episodes to study whether firms follow stock-market signals, showing that market
+    valuation has limited independent explanatory power once profit and fundamentals are controlled for.
+- title: "Banerjee and Iyer (AER, 2005) - History, Institutions, and Economic Performance: The Legacy of Colonial Land Tenure Systems in India"
+  file: "https://www.dropbox.com/scl/fi/rddemnkrowckzhw9458yf/Banerjee_Iyer_AER_2005.pdf?rlkey=ilxfhgdbpcqq4tayf145lj891&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses district-level variation in colonial Indian land revenue
+    systems, agricultural investments, yields, public goods, human-development outcomes,
+    neighboring-district comparisons, and an IV based on British revenue-control timing to show that
+    former non-landlord districts achieved higher post-independence investment, productivity, schools,
+    health facilities, literacy, and lower infant mortality.
+- title: "Hornbeck and Naidu (AER, 2014) - When the Levee Breaks: Black Migration and Economic Development in the American South"
+  file: "https://www.dropbox.com/scl/fi/134fn3htdc672odvgjdkh/Hornbeck_Naidu_AER_2014.pdf?rlkey=mlgrtlcjy9mlxflwyw1vitcuk&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the 1927 Mississippi flood, county-level census and
+    agricultural data, matched individual migration records, flood-share exposure, dynamic difference
+    specifications, and falsification tests near other rivers to study black out-migration and Southern
+    development, showing that labor scarcity induced persistent mechanization, larger farms, and more
+    capital-intensive agriculture.
+- title: "Graham and Tucker (JFE, 2006) - Tax Shelters and Corporate Debt Policy"
+  file: "https://www.dropbox.com/scl/fi/4itjq1c38xep0ul3dfrbp/Graham_Tucker_JFE_2006.pdf?rlkey=g2dt7ksvqjiqkkurd6ckgb5fx&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses 44 publicly visible corporate tax shelter cases, matched
+    nonshelter firms, shelter deduction estimates, leverage regressions, debt-issuance logits, and
+    event-time debt-ratio patterns to study tax shields and capital structure, showing that tax shelters
+    are economically large nondebt tax shields and that shelter firms use less debt and issue less debt.
+- title: "Acemoglu, Cantoni, Johnson, and Robinson (AER, 2011) - The Consequences of Radical Reform: The French Revolution"
+  file: "https://www.dropbox.com/scl/fi/hlf4660prcx4wjem10t37/Acemoglu_Cantoni_Johnson_Robinson_AER_2011.pdf?rlkey=jrklfj825jb2zcedvvhnozook&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses French occupation of German polities, reform timing,
+    urbanization, occupational shares, reduced-form treatment interactions, and IV estimates using
+    French presence as an instrument for institutional reforms to show that externally imposed reforms
+    weakened ancien-regime barriers and raised long-run urbanization and industrialization.
+- title: "Desai and Dharmapala (JFE, 2006) - Corporate Tax Avoidance and High-Powered Incentives"
+  file: "https://www.dropbox.com/scl/fi/tz81reojccx0gk18w5as8/Desai_Dharmapala_JFE_2006.pdf?rlkey=rbvjioz2i8inamncym5dw0lya&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses book-tax gap residuals, executive option-grant
+    incentives, firm fixed effects, governance indices, institutional ownership, and robustness checks
+    for option deductions to study corporate tax avoidance as an agency problem, showing that
+    high-powered incentives are associated with lower measured sheltering mainly in poorly governed
+    firms.
+- title: "Besley and Burgess (QJE, 2004) - Can Labor Regulation Hinder Economic Performance? Evidence from India"
+  file: "https://www.dropbox.com/scl/fi/2ul6nv8f4ay2tiyths55g/Besley_Burgess_QJE_2004.pdf?rlkey=107mucm13z08r8j7j1kxdis27&dl=0"
+  desc: >-
+    This note summarizes the paper, which codes Indian state amendments to the Industrial Disputes Act,
+    builds a cumulative pro-worker regulation index, and links it to registered and unregistered
+    manufacturing, state-industry outcomes, labor disputes, IV checks, and poverty data, showing that
+    pro-worker regulation is associated with weaker formal manufacturing and higher urban poverty.
+- title: "Shiller (AER, 1981) - Do Stock Prices Move Too Much to Be Justified by Subsequent Changes in Dividends?"
+  file: "https://www.dropbox.com/scl/fi/oakythpuz8a7j8mcj857z/Shiller_AER_1981.pdf?rlkey=d5m5yhes9h3xm7nd9628w42sy&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses long U.S. stock-price and dividend series, ex post
+    rational prices, constant-discount-rate present-value restrictions, variance bounds, terminal-value
+    robustness, and first-difference tests to show that aggregate stock prices are far more volatile
+    than subsequent dividends can justify under the simple efficient-markets present-value model.
+- title: "Hall and Jorgenson (AER, 1967) - Tax Policy and Investment Behavior"
+  file: "https://www.dropbox.com/scl/fi/qu9tt1u9n353mgcpmh9c3/Hall_Jorgenson_AER_1967.pdf?rlkey=d13dc1gmi1c4f8bq61bn4kl3d&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops the user cost of capital under corporate taxation,
+    constructs sector-asset-specific rental prices, estimates distributed-lag investment equations, and
+    simulates the 1954 depreciation reform, 1962 depreciation guidelines, investment tax credit, and
+    hypothetical expensing to show that tax policy can strongly affect investment dynamics.
+- title: "Goolsbee (JPE, 2000) - What Happens When You Tax the Rich? Evidence from Executive Compensation"
+  file: "https://www.dropbox.com/scl/fi/fgbtopyoajcrv5eekpcu1/Goolsbee_JPE_2000.pdf?rlkey=s2p84hrtn6zebg8xc8e5m709o&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Execucomp executive compensation data around the 1993 top
+    tax increase, tax-bracket exposure, executive fixed effects, future and current net-of-tax shares,
+    fiscal-year timing, and compensation decomposition to show that high-income taxable income responses
+    are large in the short run but mostly reflect stock-option exercise timing rather than permanent
+    behavioral change.
