@@ -6875,3 +6875,103 @@
     revaluation to show that CEOs are not paid like bureaucrats once equity and option wealth are
     measured properly, because total CEO wealth is highly sensitive to firm stock performance and this
     sensitivity rose sharply with option grants.
+- title: "Somerville (JPE, 2017) - Do Stock Prices Move Too Much to Be Justified by Subsequent Changes in Dividends?"
+  file: "https://www.dropbox.com/scl/fi/go2m5q068fzd4buy9t0l1/Somerville_JPE_2017.pdf?rlkey=4xqmuzjmmmnwaqqydghavsr83&dl=0"
+  desc: >-
+    This note summarizes the item, which is a short JSTOR source framing the excess-volatility question
+    rather than a full empirical article, using the present-value relation between stock prices and
+    subsequent dividends to motivate why short-run price movements may require explanations through
+    time-varying discount rates, risk premia, expectations, or mispricing.
+- title: "Goolsbee (QJE, 1998) - Investment Tax Incentives, Prices, and the Supply of Capital Goods"
+  file: "https://www.dropbox.com/scl/fi/nb748hxbdbuki439o336h/Goolsbee_QJE_1998.pdf?rlkey=f8xvnamuc31cblbcswjnd1bi8&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses annual capital-goods price data, asset-specific
+    investment tax credits, depreciation allowances, corporate tax terms, import competition, backlog
+    measures, and IV supply-curve estimates to show that investment subsidies partly raise pretax
+    equipment prices, implying that capital-goods suppliers capture a large share of the short-run
+    incidence.
+- title: "Faccio, Masulis, and McConnell (JF, 2006) - Political Connections and Corporate Bailouts"
+  file: "https://www.dropbox.com/scl/fi/0yeqzzx4ih0wq80smuw1p/Faccio_Masulis_McConnell_JF_2006.pdf?rlkey=aw9j6x35b4o6vy9r6dzd8b864&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses 450 politically connected firms from 35 countries,
+    matched nonconnected peers, hand-collected bailout events, IMF and World Bank assistance indicators,
+    logit bailout regressions, and post-bailout performance comparisons to show that politically
+    connected firms are more likely to receive bailouts, especially when their countries receive
+    international assistance, despite weaker operating performance and higher leverage.
+- title: "Campbell and Shiller (RFS, 1988) - The Dividend-Price Ratio and Expectations of Future Dividends and Discount Factors"
+  file: "https://www.dropbox.com/scl/fi/dp6q0hw86sk7tcp2gpx91/Campbell_Shiller_RFS_1988.pdf?rlkey=kme80c4r7e8jgk1eoxskpqxk3&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a log-linear dividend-price present-value framework,
+    applies VAR forecasts to long U.S. stock market data, and tests constant-return, interest-rate,
+    consumption-growth, and volatility-based discount-rate models, showing that dividend-price ratio
+    movements cannot be explained by future dividend growth alone and instead contain a large
+    time-varying expected-return component.
+- title: "Campello and Gao (JFE, 2017) - Customer Concentration and Loan Contract Terms"
+  file: "https://www.dropbox.com/scl/fi/8orzmjvdpisg7oobwo70h/Campello_Gao_JFE_2017.pdf?rlkey=p14v2c303v1h23mtpicszcydu&dl=0"
+  desc: >-
+    This note summarizes the paper, which links Dealscan loan contracts to Compustat customer-segment
+    data, customer concentration measures, downstream M&A instruments, regulatory-event validation,
+    loan-failure tests, and customer-risk mechanisms to show that suppliers dependent on concentrated
+    customer bases face higher loan spreads, more covenants, shorter maturity, weaker future bank
+    relationships, and greater loan-failure risk.
+- title: "Diamond (JF, 1985) - Optimal Release of Information by Firms"
+  file: "https://www.dropbox.com/scl/fi/sk07n9myu9guzbnukavbw/Diamond_JF_1985.pdf?rlkey=ivs174kevcyrajvl5v8ctjlz6&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a noisy rational-expectations disclosure model with
+    costly private information acquisition, public signals, risky-asset supply noise, CARA-normal
+    traders, and endogenous informed-trader shares to show that firms may optimally release just enough
+    public information to eliminate wasteful private information acquisition and improve risk sharing.
+- title: "Bernard, Moxnes, and Saito (JPE, 2019) - Production Networks, Geography, and Firm Performance"
+  file: "https://www.dropbox.com/scl/fi/zjvqj8gc3r2209nzvy20r/Bernard_Moxnes_Saito_JPE_2019.pdf?rlkey=62djch4atwkwqnkxexw1d8r4c&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Japanese firm-to-firm production-network data,
+    Kikatsu firm-performance data, supplier-distance measures, a search-based outsourcing model, and the
+    Kyushu Shinkansen passenger-rail shock in a triple-difference design to show that lower interaction
+    costs improve input-intensive firms’ sales, productivity, TFP, and supplier-network geography.
+- title: "Hertzel, Li, Officer, and Rodgers (JFE, 2008) - Inter-Firm Linkages and the Wealth Effects of Financial Distress along the Supply Chain"
+  file: "https://www.dropbox.com/scl/fi/7vvx9nrsnwmu4wty8zagf/Hertzel_Li_Officer_Rodgers_JFE_2008.pdf?rlkey=t96yhke4kkvqjrx5z5soyq1l1&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses bankruptcy filings, pre-filing distress dates, Compustat
+    segment customer-supplier links, rival portfolios, supplier and customer abnormal returns, and
+    supplier-industry portfolios to show that financial distress propagates vertically through the
+    supply chain, with suppliers suffering significant wealth losses especially when the filing firm’s
+    industry rivals also experience contagion.
+- title: "Burkart and Ellingsen (AER, 2004) - In-Kind Finance: A Theory of Trade Credit"
+  file: "https://www.dropbox.com/scl/fi/x0dx3w1pqdgfs7s4a7pt8/Burkart_Ellingsen_AER_2004.pdf?rlkey=qjs7rblwzqpg018n4naukl8g7&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a moral-hazard theory of trade credit with bank cash
+    loans, supplier input credit, borrower wealth, creditor vulnerability, input illiquidity, diversion
+    incentives, and credit-limit comparative statics to show that suppliers lend because inputs are
+    harder to divert than cash, making bank credit and trade credit complementary for constrained firms.
+- title: "Bhattacharya and Ritter (RES, 1983) - Innovation and Communication: Signalling with Partial Disclosure"
+  file: "https://www.dropbox.com/scl/fi/tm6xzppan1680xak7gfo8/Bhattacharya_Ritter_RES_1983.pdf?rlkey=x7jha1htznxy94rra7ujowiyz&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a feedback-effect signaling model of R&D disclosure,
+    outside equity financing, innovation races, endogenous rival entry, and separating disclosure
+    schedules to show that informed firms disclose technological information partially: stronger firms
+    reveal more in absolute terms but less as a fraction of their private knowledge because disclosure
+    helps competitors.
+- title: "Hansen and Jagannathan (JPE, 1991) - Implications of Security Market Data for Models of Dynamic Economies"
+  file: "https://www.dropbox.com/scl/fi/1avrjkyb5k5l2zr58ep1i/Hansen_Jagannathan_JPE_1991.pdf?rlkey=xq4olj1mr6wmxqk98tfdcz6wx&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives model-free mean-standard-deviation bounds on
+    stochastic discount factors from observed asset payoffs, prices, return frontiers, positivity
+    restrictions, managed portfolios, stock-bond data, monthly returns, and Treasury bill term-structure
+    data to show that any successful dynamic asset-pricing model must generate an IMRS volatile enough
+    to satisfy the Hansen-Jagannathan admissible region.
+- title: "Kogan and Papanikolaou (JF, 2014) - Growth Opportunities, Technology Shocks, and Asset Prices"
+  file: "https://www.dropbox.com/scl/fi/8alazwlxkdw5lhtyhwwqa/Kogan_Papanikolaou_JF_2014.pdf?rlkey=ygb9hngj6fzhb0lvdadtes33n&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines a two-sector model of investment-specific technology
+    shocks, assets in place, growth opportunities, the IMC mimicking portfolio, firm-level IMC betas,
+    investment-response tests, and asset-pricing estimates to show that IST shocks affect growth firms
+    more than value firms and help explain value-growth comovement, CAPM failures, and lower expected
+    returns for high-growth-opportunity firms.
+- title: "Giannetti, Serrano-Velarde, and Tarantino (JPE, 2021) - Cheap Trade Credit and Competition in Downstream Markets"
+  file: "https://www.dropbox.com/scl/fi/k9445n094wruew5a7x6ai/Giannetti_SerranoVelarde_Tarantino_JPE_2021.pdf?rlkey=8raygehrn5ohf8rfaryvx4zng&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Italian customer-supplier transaction data, trade-credit
+    shares and maturities, customer bargaining-power proxies, supplier customer-base measures,
+    high-dimensional fixed effects, placebo competition tests, and a 2014 receivables-securitization
+    reform to show that suppliers use cheap trade credit as a strategic substitute for discounts to
+    reward powerful customers while limiting downstream cannibalization.
