@@ -7199,3 +7199,95 @@
     holdings, cash-cash flow sensitivity, investment-cash flow sensitivity, investment levels, subsample
     heterogeneity, and placebo matched firms to show that acquisitions reduce target financial
     constraints and raise investment.
+- title: "McMillan and Woodruff (QJE, 1999) - Interfirm Relationships and Informal Credit in Vietnam"
+  file: "https://www.dropbox.com/scl/fi/dsb8rnbisr0huaxqdk9c6/McMillan_Woodruff_QJE_1999.pdf?rlkey=6jbvzl7pkro4rinsxnyd6n5or&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses relationship-level survey data from Vietnamese private
+    manufacturers to study how firms contract without reliable courts, showing that trade credit is
+    sustained by customer lock-in, information accumulated through experience and visits, and especially
+    business networks that can reveal and sanction unreliable trading partners.
+- title: "Ellison and Glaeser (JPE, 1997) - Geographic Concentration in U.S. Manufacturing Industries: A Dartboard Approach"
+  file: "https://www.dropbox.com/scl/fi/quonac54gsh6dlw908ziu/Ellison_Glaeser_JPE_1997.pdf?rlkey=sibcklymg8d79m3bd5zk9umjn&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a model-based dartboard benchmark for plant location
+    choices, derives geographic concentration and coagglomeration indices that control for plant-size
+    lumpiness and area-size differences, and applies them to 1987 U.S. manufacturing data to show that
+    most industries are geographically localized, though often only slightly, with meaningful
+    heterogeneity across sectors, spatial scales, and upstream-downstream relationships.
+- title: "Kranton and Minehart (AER, 2001) - A Theory of Buyer-Seller Networks"
+  file: "https://www.dropbox.com/scl/fi/loy8uh1gbsu3qija4teyl/Kranton_Minehart_AER_2001.pdf?rlkey=4u8d9hszbw1wa37ro8k9amqws&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a theory of buyer-seller networks in which costly
+    bilateral links are required for exchange, buyers have uncertain private valuations, sellers have
+    limited capacity, and competition occurs through an auction-like mechanism, showing that
+    strategically formed networks can be efficient because buyers' equilibrium payoffs equal the social
+    marginal value of their links, while efficiency can fail when sellers must also make costly capacity
+    investments.
+- title: "Conley and Udry (AER, 2010) - Learning about a New Technology: Pineapple in Ghana"
+  file: "https://www.dropbox.com/scl/fi/mrbltpybtyp3wio1v8cha/Conley_Udry_AER_2010.pdf?rlkey=mu4srxp0k3uv7ruzxuude8rfe&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses unusually detailed Ghanaian pineapple-farming data on
+    plot-level inputs, profits, GIS locations, soil characteristics, and direct communication links to
+    show that farmers adjust fertilizer and labor use toward input levels that generated unexpectedly
+    high profits for information neighbors, especially when the farmer is inexperienced, while a
+    maize-cassava placebo shows no comparable learning through communication links.
+- title: "Moretti (AER, 2004) - Workers' Education, Spillovers, and Productivity: Evidence from Plant-Level Production Functions"
+  file: "https://www.dropbox.com/scl/fi/arhaxlvc0wsd17lsvzs2q/Moretti_AER_2004.pdf?rlkey=z8n9yuevynw3bwgek3ey0zb4j&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a matched Census of Manufacturers and Census of
+    Population panel to estimate plant-level production functions and test whether city-level college
+    share outside the plant raises productivity, showing that human capital spillovers appear positive,
+    economically meaningful, and stronger among economically close industries, while wage differences
+    across cities roughly offset the productivity gains.
+- title: "Galeotti and Goyal (AER, 2010) - The Law of the Few"
+  file: "https://www.dropbox.com/scl/fi/8c4iu45s3w0qg2556tyjs/Galeotti_Goyal_AER_2010.pdf?rlkey=mv2azz1p6p65q7cotnwy2lbxv&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a model in which individuals choose both personal
+    information acquisition and links to others, showing that strict equilibria generate a
+    core-periphery law of the few in which a small core acquires information while most agents rely on
+    them, and that small heterogeneity can select a unique hub or connector.
+- title: "Ellison, Glaeser, and Kerr (AER, 2010) - What Causes Industry Agglomeration? Evidence from Coagglomeration Patterns"
+  file: "https://www.dropbox.com/scl/fi/rispof71d08mfgfs59u3j/Ellison_Glaeser_Kerr_AER_2010.pdf?rlkey=2in7but94z9rpiutixxkv3svl&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs pairwise coagglomeration indices for U.S.
+    manufacturing industries and relates them to input-output links, occupational similarity, technology
+    flows, and natural advantages, showing that all three Marshallian forces matter for agglomeration,
+    with input-output linkages the most robust channel and labor pooling close behind.
+- title: "Jackson and Rogers (AER, 2007) - Meeting Strangers and Friends of Friends: How Random Are Social Networks?"
+  file: "https://www.dropbox.com/scl/fi/79sq4up0g6gslvhng97rv/Jackson_Rogers_AER_2007.pdf?rlkey=c4qvmk587m3zp3bv88cumi7qq&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops and calibrates a dynamic network-formation model
+    combining random meetings with friends-of-friends search, showing that this simple mixture can
+    explain fat-tailed degree distributions, clustering, short paths, assortativity, and a negative
+    clustering-degree relationship, while linking the random-versus-network-based meeting ratio to
+    welfare through stochastic dominance.
+- title: "Bramoullé, Kranton, and D'Amours (AER, 2014) - Strategic Interaction and Networks"
+  file: "https://www.dropbox.com/scl/fi/1g8heiwpswgl9r14it2bn/Bramoulle_Kranton_DAmours_AER_2014.pdf?rlkey=2667ygfqkw0f9md3wsenj3cyw&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies games on networks with linear best replies and
+    nonnegative actions, showing that equilibrium uniqueness, stability, and amplification in
+    strategic-substitute environments are governed by the network's lowest eigenvalue, with applications
+    to R&D spillovers, crime, and peer-effect econometrics.
+- title: "Bell, Chetty, Jaravel, Petkova, and Van Reenen (QJE, 2019) - Who Becomes an Inventor in America? The Importance of Exposure to Innovation"
+  file: "https://www.dropbox.com/scl/fi/5b5x514ehjccks696wxdw/Bell_Chetty_Jaravel_Petkova_VanReenen_QJE_2019.pdf?rlkey=61mh9ldiq0004pr5n86u29odj&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses linked U.S. patent, tax, college, and NYC school records
+    to study who becomes an inventor, showing that early math achievement explains only part of
+    innovation gaps by parental income, race, and gender, while childhood exposure to inventors through
+    families, parents' coworkers, neighborhoods, technology classes, and gender-specific role models
+    powerfully affects both the field and likelihood of innovation.
+- title: "Waldinger (RES, 2012) - Peer Effects in Science: Evidence from the Dismissal of Scientists in Nazi Germany"
+  file: "https://www.dropbox.com/scl/fi/odkxs5b1uz1vxxpt7kup2/Waldinger_RES_2012.pdf?rlkey=d33dsf4gc1grp4nkevjr9zw41&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the Nazi dismissal of Jewish and politically unreliable
+    scientists in 1933 as an exogenous shock to peer groups in German universities, showing no evidence
+    that losing local peers, even high-quality peers, reduced the productivity of scientists who
+    remained in physics, chemistry, or mathematics departments.
+- title: "Bastos, Silva, and Verhoogen (AER, 2018) - Export Destinations and Input Prices"
+  file: "https://www.dropbox.com/scl/fi/tibizhzm8zt12zgxqw0qx/Bastos_Silva_Verhoogen_AER_2018.pdf?rlkey=wfjwqi0q4jzcblipvjc74516m&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Portuguese customs transactions, firm-product input and
+    output unit values, a model of destination-specific quality choice with variable markups, and
+    exchange-rate-by-initial-destination instruments to show that exporting to richer destinations
+    raises firm-average input prices, especially in quality-differentiated industries, consistent with
+    income-based quality upgrading.
