@@ -7479,3 +7479,11 @@
     validation, event-window exclusions, and pre-1970 out-of-sample tests to show that post-1970 firms
     issuing more shares subsequently earn lower returns while firms reducing shares earn higher returns,
     though the effect is historically unstable before 1970.
+- title: "Ikenberry, Lakonishok, and Vermaelen (JFE, 1995) - Market Underreaction to Open Market Share Repurchases"
+  file: "https://www.dropbox.com/scl/fi/t92i416agfbc4btflcj9y/Ikenberry_Lakonishok_Vermaelen_JFE_1995.pdf?rlkey=gpxvm8gpjle03wzs67j8gct7h&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies 1,239 open-market share repurchase announcements from
+    1980 to 1990 using short-window event returns, long-run buy-and-hold abnormal returns, size and
+    book-to-market matched benchmarks, bootstrap inference, and Fama-French robustness, showing that the
+    market responds positively but incompletely to repurchase news and that long-run abnormal
+    performance is concentrated among value firms.
