@@ -7397,3 +7397,12 @@
     dollar of corporate cash, showing that the marginal value of cash is lower when firms already hold
     more cash or carry more debt, higher when firms are financially constrained and likely to need
     external capital, and higher when distributions occur through repurchases rather than dividends.
+- title: "Opler, Pinkowitz, Stulz, and Williamson (JFE, 1999) - The Determinants and Implications of Corporate Cash Holdings"
+  file: "https://www.dropbox.com/scl/fi/f79hzqmjejm78ywo5t52z/Opler_Pinkowitz_Stulz_Williamson_JFE_1999.pdf?rlkey=ga41pwuvnvdy8sdyx24bdq5hd&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Compustat data on U.S. nonfinancial firms from 1971 to
+    1994, target-adjustment regressions, Fama-MacBeth and fixed-effects liquidity regressions,
+    derivative-use tests, and excess-cash transition analyses to study why firms hold cash, showing that
+    cash holdings are broadly consistent with a static tradeoff view but that successful firms also
+    accumulate persistent excess cash that only weakly translates into higher investment or acquisition
+    spending.
