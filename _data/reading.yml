@@ -7463,3 +7463,11 @@
     bank-firm lending, and firm outcomes, showing that domestically owned banks dependent on
     international funding cut credit more, foreign-owned banks were partly protected by parent-bank
     support, and firms connected to less exposed banks borrowed more, defaulted less, and survived more.
+- title: "Hallak and Schott (QJE, 2011) - Estimating Cross-Country Differences in Product Quality"
+  file: "https://www.dropbox.com/scl/fi/k47ci4cxpdb44h6ieate2/Hallak_Schott_QJE_2011.pdf?rlkey=acbsefzay7rdmpplp403rahoi&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a method to estimate cross-country product quality by
+    decomposing observed export unit values into quality and quality-adjusted prices using
+    Paasche-Laspeyres bounds and net trade balances, showing that unit values are poor proxies for
+    quality, quality gaps narrow over time, and countries follow different export strategies based on
+    low prices, quality upgrading, or mixed channels.
