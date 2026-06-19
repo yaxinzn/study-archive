@@ -7209,11 +7209,11 @@
 - title: "Ellison and Glaeser (JPE, 1997) - Geographic Concentration in U.S. Manufacturing Industries: A Dartboard Approach"
   file: "https://www.dropbox.com/scl/fi/quonac54gsh6dlw908ziu/Ellison_Glaeser_JPE_1997.pdf?rlkey=sibcklymg8d79m3bd5zk9umjn&dl=0"
   desc: >-
-    This note summarizes the paper, which builds a model-based dartboard benchmark for plant location
-    choices, derives geographic concentration and coagglomeration indices that control for plant-size
-    lumpiness and area-size differences, and applies them to 1987 U.S. manufacturing data to show that
-    most industries are geographically localized, though often only slightly, with meaningful
-    heterogeneity across sectors, spatial scales, and upstream-downstream relationships.
+    This note summarizes the paper, which develops a dartboard benchmark for plant location choices and
+    a geographic concentration index that adjusts for plant-size lumpiness and aggregate manufacturing
+    geography, applying it to 1987 U.S. manufacturing data to show that localization is widespread but
+    often modest, that related and upstream-downstream industries coagglomerate, and that high
+    concentration cannot by itself distinguish natural advantage from spillovers.
 - title: "Kranton and Minehart (AER, 2001) - A Theory of Buyer-Seller Networks"
   file: "https://www.dropbox.com/scl/fi/loy8uh1gbsu3qija4teyl/Kranton_Minehart_AER_2001.pdf?rlkey=4u8d9hszbw1wa37ro8k9amqws&dl=0"
   desc: >-
@@ -7264,10 +7264,10 @@
 - title: "Bramoullé, Kranton, and D'Amours (AER, 2014) - Strategic Interaction and Networks"
   file: "https://www.dropbox.com/scl/fi/1g8heiwpswgl9r14it2bn/Bramoulle_Kranton_DAmours_AER_2014.pdf?rlkey=2667ygfqkw0f9md3wsenj3cyw&dl=0"
   desc: >-
-    This note summarizes the paper, which studies games on networks with linear best replies and
-    nonnegative actions, showing that equilibrium uniqueness, stability, and amplification in
-    strategic-substitute environments are governed by the network's lowest eigenvalue, with applications
-    to R&D spillovers, crime, and peer-effect econometrics.
+    This note summarizes the paper, which studies network games with linear best replies and nonnegative
+    actions, showing that equilibrium uniqueness, multiplicity, stability, inactive-agent outcomes, and
+    amplification in strategic-substitute environments are governed by the network's lowest eigenvalue,
+    with applications to R&D spillovers, crime concentration, and peer-effect econometrics.
 - title: "Bell, Chetty, Jaravel, Petkova, and Van Reenen (QJE, 2019) - Who Becomes an Inventor in America? The Importance of Exposure to Innovation"
   file: "https://www.dropbox.com/scl/fi/5b5x514ehjccks696wxdw/Bell_Chetty_Jaravel_Petkova_VanReenen_QJE_2019.pdf?rlkey=61mh9ldiq0004pr5n86u29odj&dl=0"
   desc: >-
@@ -7343,9 +7343,9 @@
 - title: "Brunnermeier and Pedersen (RFS, 2009) - Market Liquidity and Funding Liquidity"
   file: "https://www.dropbox.com/scl/fi/he76q94f45a4h8azc5flp/Brunnermeier_Pedersen_RFS_2009.pdf?rlkey=7qqzefbubptytajmbo4j9g1j5&dl=0"
   desc: >-
-    This note summarizes the paper, which develops an equilibrium model linking market liquidity to
+    This note summarizes the paper, which develops an equilibrium model linking market liquidity and
     funding liquidity through speculator capital, margins, haircuts, and financier value-at-risk
-    constraints, showing that funding shocks can create margin and loss spirals, commonality in
+    constraints, showing that funding shocks can generate margin spirals, loss spirals, commonality in
     liquidity, flight to quality, sudden liquidity dry-ups, liquidity risk premia, and negatively skewed
     liquidity-provider returns.
 - title: "Gilchrist and Zakrajšek (AER, 2012) - Credit Spreads and Business Cycle Fluctuations"
