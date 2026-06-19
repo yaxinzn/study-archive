@@ -7388,3 +7388,12 @@
     large service firms, showing that scalable fixed-cost-intensive operating technologies let top firms
     replicate production across many local markets, raising national concentration while often lowering
     local concentration and generating missing growth from new local varieties.
+- title: "Faulkender and Wang (JF, 2006) - Corporate Financial Policy and the Value of Cash"
+  file: "https://www.dropbox.com/scl/fi/f8ch8yadbgmtx6ru3lplr/Faulkender_Wang_JF_2006.pdf?rlkey=a504hs7orhnw4rxycm434qfj5&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses U.S. Compustat and CRSP firm-year data from 1972 to 2001,
+    a return-based valuation regression, cash-regime logic, interactions with cash balances, leverage,
+    repurchase policy, and financial-constraint partitions to study how shareholders value an additional
+    dollar of corporate cash, showing that the marginal value of cash is lower when firms already hold
+    more cash or carry more debt, higher when firms are financially constrained and likely to need
+    external capital, and higher when distributions occur through repurchases rather than dividends.
