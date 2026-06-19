@@ -7471,3 +7471,11 @@
     Paasche-Laspeyres bounds and net trade balances, showing that unit values are poor proxies for
     quality, quality gaps narrow over time, and countries follow different export strategies based on
     low prices, quality upgrading, or mixed channels.
+- title: "Pontiff and Woodgate (JF, 2008) - Share Issuance and Cross-sectional Returns"
+  file: "https://www.dropbox.com/scl/fi/iveb3ryeq2cb7a51o4i0g/Pontiff_Woodgate_JF_2008.pdf?rlkey=su4bk54cuwxwyo1rpajl2uzw3&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs broad net share issuance measures from CRSP
+    split-adjusted shares outstanding and uses Fama-MacBeth return-forecasting regressions, SDC event
+    validation, event-window exclusions, and pre-1970 out-of-sample tests to show that post-1970 firms
+    issuing more shares subsequently earn lower returns while firms reducing shares earn higher returns,
+    though the effect is historically unstable before 1970.
