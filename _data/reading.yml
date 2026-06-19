@@ -7291,3 +7291,100 @@
     exchange-rate-by-initial-destination instruments to show that exporting to richer destinations
     raises firm-average input prices, especially in quality-differentiated industries, consistent with
     income-based quality upgrading.
+- title: "Lamont and Thaler (JPE, 2003) - Can the Market Add and Subtract? Mispricing in Tech Stock Carve-outs"
+  file: "https://www.dropbox.com/scl/fi/c4wt9b5caesomgywhiwam/Lamont_Thaler_JPE_2003.pdf?rlkey=h7mgy7ycqa7g22qt54ibuhtg9&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses technology-stock equity carve-outs with announced future
+    distributions, stub-value arithmetic, long-short return evidence, short-interest data,
+    option-implied synthetic short prices, volume and liquidity measures, and IPO-day return patterns to
+    study whether financial markets obey the law of one price, showing that several carve-outs generated
+    large and persistent negative stub values because subsidiary shares were overpriced and costly or
+    impossible to short.
+- title: "Jermann and Quadrini (AER, 2012) - Macroeconomic Effects of Financial Shocks"
+  file: "https://www.dropbox.com/scl/fi/x09vfbbkwyp8yzx25m79p/Jermann_Quadrini_AER_2012.pdf?rlkey=o8qo4a6l5thkqpxbq5udnlu2i&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Flow of Funds financial-flow evidence, a
+    business-cycle model with debt and equity financing, a binding enforcement constraint, constructed
+    productivity and financial shocks, simulation exercises, sensitivity checks, and Bayesian structural
+    estimation to show that shocks to firms' financing conditions are quantitatively important for
+    output, hours, debt flows, equity payouts, and recession dynamics.
+- title: "Papanikolaou (JPE, 2011) - Investment Shocks and Asset Prices"
+  file: "https://www.dropbox.com/scl/fi/ot1qe795mubuw1nvqyf23/Papanikolaou_JPE_2011.pdf?rlkey=iki90cvj9y836x8zfarpskt5q&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops and tests a two-sector general-equilibrium
+    asset-pricing model in which investment-specific shocks lower the resource cost of producing new
+    capital, showing that investment-good producers and growth firms appreciate after positive
+    investment shocks, earn lower average returns, and help explain value-growth return differences
+    because investment-shock exposure carries a negative price of risk.
+- title: "Larrain and Stumpner (JF, 2017) - Capital Account Liberalization and Aggregate Productivity: The Role of Firm Capital Allocation"
+  file: "https://www.dropbox.com/scl/fi/fmw4p11crpvlnf0mqlslk/Larrain_Stumpner_JF_2017.pdf?rlkey=rjqrazhee1vs6px2lobkabamn&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies capital account liberalization in 10 Eastern European
+    countries using aggregate data, a firm-level panel, sectoral external-finance-dependence variation,
+    and a misallocation model, showing that financial openness raises aggregate productivity partly by
+    relaxing financing constraints, reducing within-sector MRPK dispersion, and reallocating capital
+    toward constrained high-marginal-product firms.
+- title: "Amore, Schneider, and Zaldokas (JFE, 2013) - Credit Supply and Corporate Innovation"
+  file: "https://www.dropbox.com/scl/fi/k6wt1rq39sfaubqj495wv/Amore_Schneider_Zaldokas_JFE_2013.pdf?rlkey=x04rkydx1zzaj1qlf90mc8zwo&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses staggered U.S. interstate banking deregulation, Compustat
+    manufacturing firms, and NBER patent data to study whether bank credit supply affects corporate
+    innovation, showing that deregulation increases patent quantity, citation-weighted quality,
+    originality, generality, and innovation risk especially for firms and industries more dependent on
+    bank and external finance.
+- title: "Christiano, Motto, and Rostagno (AER, 2014) - Risk Shocks"
+  file: "https://www.dropbox.com/scl/fi/q95991a3poe031ws98260/Christiano_Motto_Rostagno_AER_2014.pdf?rlkey=9t7yytminbijz3tjmzxfm7ou1&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a medium-scale monetary DSGE model with a
+    Bernanke-Gertler-Gilchrist financial accelerator and time-varying dispersion of entrepreneurial
+    outcomes, showing that risk shocks raise default probabilities and credit spreads, contract credit
+    and investment, and explain a large share of business-cycle fluctuations, especially when financial
+    observables and news about future risk are included.
+- title: "Brunnermeier and Pedersen (RFS, 2009) - Market Liquidity and Funding Liquidity"
+  file: "https://www.dropbox.com/scl/fi/he76q94f45a4h8azc5flp/Brunnermeier_Pedersen_RFS_2009.pdf?rlkey=7qqzefbubptytajmbo4j9g1j5&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an equilibrium model linking market liquidity to
+    funding liquidity through speculator capital, margins, haircuts, and financier value-at-risk
+    constraints, showing that funding shocks can create margin and loss spirals, commonality in
+    liquidity, flight to quality, sudden liquidity dry-ups, liquidity risk premia, and negatively skewed
+    liquidity-provider returns.
+- title: "Gilchrist and Zakrajšek (AER, 2012) - Credit Spreads and Business Cycle Fluctuations"
+  file: "https://www.dropbox.com/scl/fi/a8ic71qr8elblgsvzsz4k/Gilchrist_Zakrajsek_AER_2012.pdf?rlkey=n4tom7354knb5z9oufu3fxxrv&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs a micro-data-based corporate bond spread index from
+    cash-flow-matched Treasury spreads, decomposes it into expected-default and excess-bond-premium
+    components, and uses forecasting regressions and VAR evidence to show that the excess bond premium
+    is the main source of credit spreads' predictive power for future economic activity and reflects
+    credit-supply disruptions tied to intermediary risk-bearing capacity.
+- title: "Brunnermeier and Sannikov (AER, 2014) - A Macroeconomic Model with a Financial Sector"
+  file: "https://www.dropbox.com/scl/fi/i6i1whzk6veji6er8svpl/Brunnermeier_Sannikov_AER_2014.pdf?rlkey=d1eb158b4r80zhl78g3kmoib9&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a continuous-time general-equilibrium macro-finance
+    model with productive but financially constrained experts, less productive households, endogenous
+    asset prices, and expert net worth as the key state variable, showing that the economy is locally
+    stable near a stochastic steady state but can enter nonlinear crisis regimes with endogenous risk,
+    fire-sale price drops, misallocation, slow recovery, and a volatility paradox.
+- title: "He and Krishnamurthy (AER, 2013) - Intermediary Asset Pricing"
+  file: "https://www.dropbox.com/scl/fi/3twl7xaein9gehcae8b1f/He_Krishnamurthy_AER_2013.pdf?rlkey=137kaytevuiaits1b9d161npb&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a dynamic asset-pricing model in which specialist
+    financial intermediaries are the marginal investors in segmented risky asset markets and face
+    equity-capital constraints, showing that intermediary capital is a nonlinear state variable for risk
+    premia, crisis spreads, recovery dynamics, and the effectiveness of equity injections, borrowing
+    subsidies, and asset purchases.
+- title: "Ghent, Torous, and Valkanov (RES, 2019) - Complexity in Structured Finance"
+  file: "https://www.dropbox.com/scl/fi/3q8l4rzwk5dnrg70gl8o0/Ghent_Torous_Valkanov_RES_2019.pdf?rlkey=54jaalzinxn7re17q14oxpzgx&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs deal-level measures of private-label MBS complexity
+    from tranche structure, collateral descriptions, waterfall descriptions, glossary terms, and
+    prospectus file size to study whether complexity is incidental or obfuscatory, showing that more
+    complex securities default more, earn lower realized returns, and do not offer higher ex ante
+    spreads, especially among AAA tranches.
+- title: "Hsieh and Rossi-Hansberg (JPE Macro, 2023) - The Industrial Revolution in Services"
+  file: "https://www.dropbox.com/scl/fi/be2ge6p3o544ihf15qhle/Hsieh_RossiHansberg_JPEMacro_2023.pdf?rlkey=h5wcn4js2mj3vfd0vzpwqokyk&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Census microdata on establishments, firms, industries,
+    local markets, headquarters and R&D employment, concentration, and local entry to study the rise of
+    large service firms, showing that scalable fixed-cost-intensive operating technologies let top firms
+    replicate production across many local markets, raising national concentration while often lowering
+    local concentration and generating missing growth from new local varieties.
