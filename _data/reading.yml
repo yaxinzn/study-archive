@@ -7503,3 +7503,12 @@
     financial-market proxies, and first-moment shock tests to show that survey-based uncertainty shocks
     reduce production and employment, with Germany displaying a shorter wait-and-see cycle and the
     United States a more persistent decline.
+- title: "Woeppel and Yavuz (JFE, 2026) - Measuring Firms’ Capability to Absorb External Knowledge"
+  file: "https://www.dropbox.com/scl/fi/x3jcuarmqz7llws9lap71/Woeppel_Yavuz_JFE_2026.pdf?rlkey=lnecs1ud7f7maaikdpoy4woas&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a patent-citation-based measure of firm absorption
+    intensity and validates it using the American Inventors Protection Act of 1999,
+    difference-in-differences, grant-lag exposure, citation-source tests, placebo windows, and
+    external-validity regressions to show that high-absorption firms benefit more when external patent
+    information becomes available earlier, producing more valuable, exploratory, and breakthrough
+    innovation.
