@@ -7735,3 +7735,11 @@
     the CEA-Berkshire case to study catastrophe-risk transfer, showing that insurers underinsure the
     largest tail losses and pay premiums far above expected losses because reinsurance capital is
     costly, slow-moving, and possibly protected by incumbent market power.
+- title: "Cummins, Lalonde, and Phillips (JFE, 2004) - The Basis Risk of Catastrophic-Loss Index Securities"
+  file: "https://www.dropbox.com/scl/fi/dv7me2nuda9ouekj8i2ik/Cummins_Lalonde_Phillips_JFE_2004.pdf?rlkey=vsth6h2xkci7mg0w35yw9hte1&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Florida insurer-county exposure data, AIR hurricane
+    simulations, own-loss, statewide, and regional industry-loss indices, nonlinear call-spread hedges,
+    variance, VaR, expected exceedence value, and basis-risk metrics to show that regional
+    catastrophe-loss index securities can hedge most large insurers almost as effectively as own-loss
+    contracts while reducing moral hazard and improving standardization.
