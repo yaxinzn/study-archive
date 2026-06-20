@@ -7553,3 +7553,11 @@
     regressions, connected-stock return portfolios, news-event return decompositions, manager-change
     tests, and robustness checks to show that managers overweight connected firms and earn higher
     returns on connected holdings, especially around public news releases.
+- title: "Hong, Kubik, and Stein (JF, 2005) - Thy Neighbor’s Portfolio: Word-of-Mouth Effects in the Holdings and Trades of Money Managers"
+  file: "https://www.dropbox.com/scl/fi/rteyqqlhhws8lnqmzunbr/Hong_Kubik_Stein_JF_2005.pdf?rlkey=fzmus7ytfi38k9aal0t1x7ckm&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses CDA Spectrum mutual fund holdings, fund-family locations,
+    city peer groups, inferred quarterly trades, own-city versus other-city trade regressions,
+    Fama-MacBeth checks, and holdings robustness tests to show that professional money managers trade
+    more like other managers in the same city, consistent with local word-of-mouth information diffusion
+    rather than only local stock preference.
