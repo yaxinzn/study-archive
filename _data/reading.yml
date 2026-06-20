@@ -7577,3 +7577,11 @@
     upstreamness rankings, and spectral decomposition to show that temporary sectoral shocks matter
     through size times upstreamness rather than Domar weights alone and that three network eigenvectors
     explain most variation in dynamic welfare impact.
+- title: "Altinoglu (JME, 2021) - The Origins of Aggregate Fluctuations in a Credit Network Economy"
+  file: "https://www.dropbox.com/scl/fi/hw2qzk8wwwo95wjtbleeg/Altinoglu_JME_2021.pdf?rlkey=bzh4tnggx4xmsvvxz1neldkrq&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a multisector production-network model with trade
+    credit, cash-in-advance constraints, accounts-receivable and accounts-payable data, BEA input-output
+    flows, financial-influence centrality, counterfactuals, and Great Recession decompositions to show
+    that inter-firm credit linkages amplify financial shocks by about 30–40 percent and make financial
+    shocks central to aggregate industrial production fluctuations.
