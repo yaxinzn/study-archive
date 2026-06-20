@@ -7487,3 +7487,11 @@
     book-to-market matched benchmarks, bootstrap inference, and Fama-French robustness, showing that the
     market responds positively but incompletely to repurchase news and that long-run abnormal
     performance is concentrated among value firms.
+- title: "Jurado, Ludvigson, and Ng (AER, 2015) - Measuring Uncertainty"
+  file: "https://www.dropbox.com/scl/fi/1cdznhan26x41pniezb60/Jurado_Ludvigson_Ng_AER_2015.pdf?rlkey=src89gmk2lrxdk0xkkknfrcvj&dl=0"
+  desc: >-
+    This note summarizes the paper, which defines uncertainty as conditional forecast-error volatility,
+    uses a large macro-financial panel, factor-augmented forecasts, stochastic volatility, VAR evidence,
+    proxy comparisons, and firm-level uncertainty tests to show that true macro uncertainty episodes are
+    rare, persistent, recession-centered, and more closely related to real activity than stock-market
+    volatility or dispersion proxies.
