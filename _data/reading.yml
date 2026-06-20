@@ -7633,3 +7633,11 @@
     short-term and long-term debt, and covenants on future senior claims to show that when both
     maturities are used, short-term debt is optimally senior and long-term debt is junior while allowing
     future senior debt to preserve information sensitivity and control protection.
+- title: "Gârleanu and Zwiebel (RFS, 2009) - Design and Renegotiation of Debt Covenants"
+  file: "https://www.dropbox.com/scl/fi/szdderijanmjpzame1mss/Garleanu_Zwiebel_RFS_2009.pdf?rlkey=2xqjkna1dan9zj6pznx53ksyh&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an incomplete-contracting model of covenant design
+    with asymmetric information about future transfers from creditors to shareholders, costly
+    information acquisition, lender control rights, and renegotiation costs to show that covenants are
+    optimally written too strictly ex ante and then frequently waived or loosened because strong initial
+    creditor rights screen borrowers and protect lenders from hidden transfers.
