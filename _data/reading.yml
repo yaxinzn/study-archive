@@ -7569,3 +7569,11 @@
     value-function approximation, and counterfactuals around China’s 2006 shipbuilding plan to infer
     hidden subsidies, showing that China-specific costs fell sharply, market share shifted from Japan to
     China, and shipper surplus gains were small relative to subsidy costs.
+- title: "Liu and Tsyvinski (RES, 2024) - A Dynamic Model of Input–Output Networks"
+  file: "https://www.dropbox.com/scl/fi/dkxvabyac9nah1r48co1o/Liu_Tsyvinski_RES_2024.pdf?rlkey=ygefwptkb5vg049lv2asfb0qf&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a closed-form dynamic production-network model with
+    adjustment costs in input-output links, U.S. input-output calibration, backlog-based delay measures,
+    upstreamness rankings, and spectral decomposition to show that temporary sectoral shocks matter
+    through size times upstreamness rather than Domar weights alone and that three network eigenvectors
+    explain most variation in dynamic welfare impact.
