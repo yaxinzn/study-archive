@@ -7743,3 +7743,11 @@
     variance, VaR, expected exceedence value, and basis-risk metrics to show that regional
     catastrophe-loss index securities can hedge most large insurers almost as effectively as own-loss
     contracts while reducing moral hazard and improving standardization.
+- title: "Ibragimov, Jaffee, and Walden (RFS, 2009) - Nondiversification Traps in Catastrophe Insurance Markets"
+  file: "https://www.dropbox.com/scl/fi/clisr6xh54j0dlmn8y3j2/Ibragimov_Jaffee_Walden_RFS_2009.pdf?rlkey=zybhg37pcpmppdez95s6211o2&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a theory of catastrophe insurance with heavy-tailed
+    losses, limited liability, primary-insurance entry, reinsurance-pool participation, multiple
+    equilibria, and a California earthquake calibration to show that markets can get stuck in a
+    nondiversification trap where no insurer writes coverage even though full risk sharing would be
+    privately and socially valuable.
