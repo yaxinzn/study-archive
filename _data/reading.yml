@@ -7696,3 +7696,11 @@
     disasters during ages 5 to 15, then studies leverage, cash, financing deficits, acquisitions, credit
     risk, debt costs, and stock volatility, showing that moderate early-life disaster exposure makes
     CEOs more risk-taking while extreme exposure makes them more conservative.
+- title: "Backus, Chernov, and Martin (JF, 2011) - Disasters Implied by Equity Index Options"
+  file: "https://www.dropbox.com/scl/fi/pe5vjjpm6j40zuqjv3hl3/Backus_Chernov_Martin_JF_2011.pdf?rlkey=hwqfeo2vo24aneulj57pb6j2r&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines U.S. consumption and equity-return data, S&P 500
+    option prices, Poisson-normal disaster models, pricing-kernel entropy, cumulant decompositions, and
+    option-implied volatility smiles to study disaster risk, showing that options price meaningful
+    left-tail risk but imply much smaller extreme consumption-disaster probabilities than standard macro
+    disaster calibrations.
