@@ -7657,3 +7657,11 @@
     and contingent liquidation incentives to show that covenants and collateral are not redundant
     control rights but mechanisms that make lender power conditional on acquiring information and
     thereby restore incentives to monitor.
+- title: "Gofman, Segal, and Wu (RFS, 2020) - Production Networks and Stock Returns: The Role of Vertical Creative Destruction"
+  file: "https://www.dropbox.com/scl/fi/g70swztmn8a95vaau7qmq/Gofman_Segal_Wu_RFS_2020.pdf?rlkey=kxqw20ykyygurt2o3lo2kpyri&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses firm-level supplier-customer links, dynamic
+    vertical-position measures, layer-sorted portfolios, productivity-beta tests, a calibrated
+    multilayer DSGE model, and competition and assets-in-place mechanism tests to show that upstream
+    firms earn higher expected returns because downstream firms are partially hedged by supplier-side
+    productivity improvements that lower replacement costs through vertical creative destruction.
