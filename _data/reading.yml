@@ -7641,3 +7641,11 @@
     information acquisition, lender control rights, and renegotiation costs to show that covenants are
     optimally written too strictly ex ante and then frequently waived or loosened because strong initial
     creditor rights screen borrowers and protect lenders from hidden transfers.
+- title: "Hart and Moore (QJE, 1998) - Default and Renegotiation: A Dynamic Model of Debt"
+  file: "https://www.dropbox.com/scl/fi/tb8cb1mz9qwo72opwfkh0/Hart_Moore_QJE_1998.pdf?rlkey=lqtwytihw20fz2aa370nm52co&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic debt model with divertible cash flows,
+    creditor foreclosure rights, asset liquidation, renegotiation, promised repayment, initial liquidity
+    transfers, and broad message-game contracts to show that debt is valuable because foreclosure
+    disciplines repayment while capping creditor payoff in good states, and fastest debt can be optimal
+    when high pledgeability and high reinvestment returns are positively associated.
