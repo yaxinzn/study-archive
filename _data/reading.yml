@@ -7704,3 +7704,11 @@
     option-implied volatility smiles to study disaster risk, showing that options price meaningful
     left-tail risk but imply much smaller extreme consumption-disaster probabilities than standard macro
     disaster calibrations.
+- title: "Dessaint and Matray (JFE, 2017) - Do Managers Overreact to Salient Risks? Evidence from Hurricane Strikes"
+  file: "https://www.dropbox.com/scl/fi/38on7z7x065zj4ne59ooo/Dessaint_Matray_JFE_2017.pdf?rlkey=ffypcvdxkjxo3g3wigu9lulqs&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses nearby but unaffected firms around major U.S. hurricane
+    landfalls, dynamic difference-in-differences, SEC filing text, cash-source tests, value-of-cash
+    regressions, and earthquake salience placebo evidence to show that managers overreact to salient
+    disaster risk by temporarily increasing cash holdings even when objective risk and fundamentals do
+    not change.
