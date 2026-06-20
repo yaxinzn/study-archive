@@ -7727,3 +7727,11 @@
     pre-disclosure comparisons, and expected-utility calculations to show that disclosed earthquake risk
     is capitalized into house prices and that the estimated safety premium is broadly consistent with
     expected utility under reasonable probability and damage assumptions.
+- title: "Froot (JFE, 2001) - The Market for Catastrophe Risk: A Clinical Examination"
+  file: "https://www.dropbox.com/scl/fi/k8fxvhkf0lophr0qpm2x1/Froot_JFE_2001.pdf?rlkey=apps4jvmgwey4ia5i9k41t2gv&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines optimal corporate hedging theory, Guy Carpenter
+    catastrophe reinsurance transactions, expected-loss estimates, USAA Residential Re cat bonds, and
+    the CEA-Berkshire case to study catastrophe-risk transfer, showing that insurers underinsure the
+    largest tail losses and pay premiums far above expected losses because reinsurance capital is
+    costly, slow-moving, and possibly protected by incumbent market power.
