@@ -7520,3 +7520,11 @@
     retail-chain and mass-layoff samples, and migration and transfer outcomes to show that workers
     initially exposed to worse local shocks had persistently lower employment and earnings years later,
     especially older and lower-earning workers.
+- title: "Lorenzoni (AER, 2009) - A Theory of Demand Shocks"
+  file: "https://www.dropbox.com/scl/fi/h1t8q4z7jlm9qerrip5su/Lorenzoni_AER_2009.pdf?rlkey=pu0dmt185h1jfmapbxytauiz8&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a New Keynesian model with noisy public signals,
+    dispersed private information, sticky prices, higher-order beliefs, VAR-motivated comovement
+    restrictions, and survey-expectation tests to show that nonfundamental optimism about long-run
+    productivity can generate temporary demand-like booms in output, hours, and inflation even when
+    fundamentals have not changed.
