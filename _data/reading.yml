@@ -7751,3 +7751,11 @@
     equilibria, and a California earthquake calibration to show that markets can get stuck in a
     nondiversification trap where no insurer writes coverage even though full risk sharing would be
     privately and socially valuable.
+- title: "Calvó-Armengol and Jackson (AER, 2004) - The Effects of Social Networks on Employment and Inequality"
+  file: "https://www.dropbox.com/scl/fi/8004tpc2qn9b29i2zuy4v/CalvoArmengol_Jackson_AER_2004.pdf?rlkey=aibfg9o8q42im3ns0zyscc2b2&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a stochastic network model of job-information
+    transmission, employment persistence, duration dependence, dropout decisions, and policy spillovers
+    to show that social contacts generate positively correlated employment outcomes, make unemployment
+    spells informative about network conditions, and can turn small initial disadvantages into
+    persistent labor-market inequality.
