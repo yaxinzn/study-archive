@@ -7495,3 +7495,11 @@
     proxy comparisons, and firm-level uncertainty tests to show that true macro uncertainty episodes are
     rare, persistent, recession-centered, and more closely related to real activity than stock-market
     volatility or dispersion proxies.
+- title: "Bachmann, Elstner, and Sims (AEJ Macro, 2013) - Uncertainty and Economic Activity: Evidence from Business Survey Data"
+  file: "https://www.dropbox.com/scl/fi/he1du8fzawn8lj10tbykz/Bachmann_Elstner_Sims_AEJMacro_2013.pdf?rlkey=jm56ayi126sisfkjuav3u1wzi&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses German IFO micro business survey data, Philadelphia Fed
+    Business Outlook Survey data, forecast-disagreement and forecast-error-dispersion measures, SVARs,
+    financial-market proxies, and first-moment shock tests to show that survey-based uncertainty shocks
+    reduce production and employment, with Germany displaying a shorter wait-and-see cycle and the
+    United States a more persistent decline.
