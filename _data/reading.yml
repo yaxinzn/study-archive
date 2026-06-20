@@ -7617,3 +7617,11 @@
     risk-neutral default pricing, and partial-anticipation adjustments to estimate default costs,
     showing that realized default costs average about 22 percent of market asset value, are much larger
     in bankruptcy than workouts, and rise with industry distress.
+- title: "Almeida and Philippon (JF, 2007) - The Risk-Adjusted Cost of Financial Distress"
+  file: "https://www.dropbox.com/scl/fi/f2qqzrcoypna5dcop9cfz/Almeida_Philippon_JF_2007.pdf?rlkey=aceh3118azc56m1u9mqr9vs5k&dl=0"
+  desc: >-
+    This note summarizes the paper, which values financial distress costs using corporate bond spreads,
+    default components of spreads, recovery assumptions, risk-neutral default probabilities, historical
+    default comparisons, and Graham-style tax-benefit benchmarks to show that distress costs are much
+    larger after risk adjustment because they occur in bad aggregate states, making debt conservatism
+    less puzzling.
