@@ -7561,3 +7561,11 @@
     Fama-MacBeth checks, and holdings robustness tests to show that professional money managers trade
     more like other managers in the same city, consistent with local word-of-mouth information diffusion
     rather than only local stock preference.
+- title: "Kalouptsidi (RES, 2018) - Detection and Impact of Industrial Subsidies: The Case of Chinese Shipbuilding"
+  file: "https://www.dropbox.com/scl/fi/t2w3wmy9oc62qqb80qb20/Kalouptsidi_RES_2018.pdf?rlkey=0y0sa7ipwhcvku3jtnq654e0t&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Clarksons shipbuilding data, new-ship and second-hand
+    prices, dynamic shipowner demand, dynamic shipyard supply, ordered-choice cost recovery, LASSO-based
+    value-function approximation, and counterfactuals around China’s 2006 shipbuilding plan to infer
+    hidden subsidies, showing that China-specific costs fell sharply, market share shifted from Japan to
+    China, and shipper surplus gains were small relative to subsidy costs.
