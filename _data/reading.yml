@@ -7625,3 +7625,11 @@
     default comparisons, and Graham-style tax-benefit benchmarks to show that distress costs are much
     larger after risk adjustment because they occur in bad aggregate states, making debt conservatism
     less puzzling.
+- title: "Diamond (JFE, 1993) - Seniority and Maturity of Debt Contracts"
+  file: "https://www.dropbox.com/scl/fi/dqtahf5z3t4uwmz6jfdv2/Diamond_JFE_1993.pdf?rlkey=mz51e0u0jja9h4xaso70vidns&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a three-date debt-contracting model with private
+    borrower type, date-1 credit information, refinancing risk, liquidation value, control rents,
+    short-term and long-term debt, and covenants on future senior claims to show that when both
+    maturities are used, short-term debt is optimally senior and long-term debt is junior while allowing
+    future senior debt to preserve information sensitivity and control protection.
