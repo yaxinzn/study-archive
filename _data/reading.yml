@@ -8022,3 +8022,12 @@
     revision-error tests, and forecast-improvement regressions to show that analysts with stronger
     ability and resource proxies issue bold forecasts more often, and that bold forecasts are more
     accurate and more complete than herding forecasts.
+- title: "Coles, Daniel, and Naveen (JFE, 2006) - Managerial Incentives and Risk-Taking"
+  file: "https://www.dropbox.com/scl/fi/bsp78bscw4zkp6i3gxo3y/Coles_Daniel_Naveen_JFE_2006.pdf?rlkey=e20xby6psaz9p7lfg6g4u394v&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses ExecuComp, Compustat, CRSP, option-portfolio delta and
+    vega measures, investment, focus, leverage, and firm-risk regressions, predicted and residual
+    incentives, fixed effects, management-team controls, and simultaneous-equation systems to study
+    executive incentives and corporate policy, showing that higher CEO vega is associated with riskier
+    policies such as more R&D, less CAPEX, greater focus, higher leverage, and higher stock-return
+    volatility, while risky policies also feed back into compensation design.
