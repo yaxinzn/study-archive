@@ -7897,3 +7897,11 @@
     cash-flow news decompositions to study return anomalies, showing that market-to-book, disagreement,
     turnover, and volatility anomalies are strongest among low-institutional-ownership stocks and
     especially on the short side, consistent with constrained arbitrage allowing overpricing to persist.
+- title: "Frankel and Romer (AER, 1999) - Does Trade Cause Growth?"
+  file: "https://www.dropbox.com/scl/fi/gbfsh8sb7in5gupd8ee3b/Frankel_Romer_AER_1999.pdf?rlkey=u6hy1cclv2zrt533fqy2nm8y1&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses bilateral trade flows, gravity-predicted geography-based
+    trade shares, country size controls, Penn World Table income data, and instrumental-variable income
+    regressions to study whether trade causes higher income, showing that geography-induced trade is
+    positively related to income per worker and that the trade-income relationship is not easily
+    explained away by reverse causality from income to trade.
