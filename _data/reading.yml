@@ -7953,3 +7953,11 @@
     firm-level sector volatility, factor-intensity interactions, zero-export robustness, and
     export-weighted volatility regressions, showing that flexible labor-market countries specialize in
     high-volatility sectors where ex-post labor reallocation is most valuable.
+- title: "Bøler, Moxnes, and Ulltveit-Moe (AER, 2015) - R&D, International Sourcing, and the Joint Impact on Firm Performance"
+  file: "https://www.dropbox.com/scl/fi/pec1ay9eaonrydbzoh9ae/Boler_Moxnes_UlltveitMoe_AER_2015.pdf?rlkey=wo8y1jrxz2r5qpgjo1i3jdj49&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Norwegian manufacturing data linked to customs imports
+    and R&D surveys, the 2002 Skattefunn R&D tax credit, difference-in-differences around an R&D cap,
+    imported-product counts, placebo thresholds, and a structural model of R&D and sourcing to show that
+    R&D and imported intermediates are complementary and that cheaper R&D increases foreign input
+    sourcing and firm performance.
