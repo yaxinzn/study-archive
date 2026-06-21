@@ -7833,3 +7833,11 @@
     borrower balance sheets, and a structural home-attachment model to show that households forgo
     substantial subsidized borrowing to avoid pledging their homes, while collateral significantly
     reduces default through repayment incentives.
+- title: "Collier and Ellis (Econometrica, 2024) - A Demand Curve for Disaster Recovery Loans"
+  file: "https://www.dropbox.com/scl/fi/6zxerjyxepboxxo57ytga/Collier_Ellis_Econometrica_2024.pdf?rlkey=1wnkqbef1ris0lwja2lc38zcr&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Federal Disaster Loan administrative data, 24 quarterly
+    interest-rate-change natural experiments, approved-applicant take-up decisions, credit-score
+    discontinuity checks, demand-curve estimation, household heterogeneity, and program-cost records to
+    show that post-disaster household recovery-credit demand is meaningfully downward sloping and
+    especially elastic near private credit substitutes.
