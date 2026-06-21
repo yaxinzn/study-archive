@@ -7905,3 +7905,11 @@
     regressions to study whether trade causes higher income, showing that geography-induced trade is
     positively related to income per worker and that the trade-income relationship is not easily
     explained away by reverse causality from income to trade.
+- title: "Alcalá and Ciccone (QJE, 2004) - Trade and Productivity"
+  file: "https://www.dropbox.com/scl/fi/txjid839yq9m9jkjhzdmy/Alcala_Ciccone_QJE_2004.pdf?rlkey=t7qu8ghxz4i108vxvr2aqn6yd&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops the real-openness measure to correct nominal openness
+    for nontradable-price distortions, uses Penn World Table productivity data, geography-based trade
+    instruments, institutional-quality controls, weak-instrument diagnostics, and TFP decompositions to
+    study trade and productivity, showing that real openness has a large positive effect on GDP per
+    worker mainly through factor efficiency rather than capital or human-capital accumulation.
