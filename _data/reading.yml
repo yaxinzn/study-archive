@@ -7889,3 +7889,11 @@
     weakness, collateral, bank loans, profits, and ordered-probit reinvestment regressions to study
     whether property rights or external finance bind investment, showing that insecure property rights
     sharply reduce profit reinvestment even when firms have profits, collateral, or past bank access.
+- title: "Nagel (JFE, 2005) - Short Sales, Institutional Investors and the Cross-Section of Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/6esntlk1b9vhun8oenfxm/Nagel_JFE_2005.pdf?rlkey=1rqd0u3eynjlxrse4sdqgdf32&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses residual institutional ownership as a proxy for
+    short-sale constraints, portfolio sorts, Fama-MacBeth regressions, large stock-lender ownership, and
+    cash-flow news decompositions to study return anomalies, showing that market-to-book, disagreement,
+    turnover, and volatility anomalies are strongest among low-institutional-ownership stocks and
+    especially on the short side, consistent with constrained arbitrage allowing overpricing to persist.
