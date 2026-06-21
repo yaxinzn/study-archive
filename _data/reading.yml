@@ -7865,3 +7865,11 @@
     experience shocks, life insurance holdings, and stock allocations to show that unexpectedly severe
     disasters raise perceived risk while unexpectedly mild disaster experiences can lower perceived risk
     and reduce insurance demand.
+- title: "Jenter and Kanaan (JF, 2015) - CEO Turnover and Relative Performance Evaluation"
+  file: "https://www.dropbox.com/scl/fi/cpvo7o2diqj28dag648cv/Jenter_Kanaan_JF_2015.pdf?rlkey=xw6ive1wq6hrajxy1vj0jsvcv&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses ExecuComp firms, hand-collected forced CEO turnover
+    classifications from Factiva, industry and market stock-return benchmarks, two-stage performance
+    decompositions, Cox hazard models, and logit robustness tests to study whether boards filter out
+    luck when firing CEOs, showing that CEOs are more likely to be dismissed after poor industry-induced
+    performance, so boards practice only incomplete relative performance evaluation.
