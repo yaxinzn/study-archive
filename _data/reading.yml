@@ -7978,3 +7978,12 @@
     designs, nonlinear spending specifications, and campaign-finance policy simulations to show that
     once fixed candidate quality and district partisanship are controlled for, campaign spending has
     much smaller effects on election outcomes than cross-sectional estimates imply.
+- title: "Ferguson and Voth (QJE, 2008) - Betting on Hitler: The Value of Political Connections in Nazi Germany"
+  file: "https://www.dropbox.com/scl/fi/pfa7iw0fjr1d0lt2s4qi6/Ferguson_Voth_QJE_2008.pdf?rlkey=eghr1urtg6oii9vl3522363jz&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs firm-level Berlin stock-exchange data, Nazi
+    affiliation measures based on managers and supervisory-board links, market capitalization and
+    dividend controls, pre-period placebo returns, matching, IV, errors-in-variables, sector, armaments,
+    Jewish-ownership, and extreme-bounds robustness checks to show that firms connected to Nazi
+    supporters earned large abnormal returns after Hitler became Chancellor, indicating that investors
+    capitalized expected political rents from access to the new regime.
