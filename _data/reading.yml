@@ -7784,3 +7784,11 @@
     heterogeneous beliefs combined with short-sale constraints allowed optimistic investors to set
     prices until lockup expirations and new share supply brought less optimistic beliefs into the
     market.
+- title: "Brunnermeier and Nagel (JF, 2004) - Hedge Funds and the Technology Bubble"
+  file: "https://www.dropbox.com/scl/fi/p0ar8e5kv4jlub66slstr/Brunnermeier_Nagel_JF_2004.pdf?rlkey=125nb8sq494esli1wsslq1l3r&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses SEC 13F hedge fund holdings, high price-to-sales Nasdaq
+    portfolios, hedge fund return regressions, Kalman-filter exposure estimates, individual manager
+    flows, stock-level price peaks, and copycat portfolios to study the technology bubble, showing that
+    hedge funds generally rode rather than corrected the bubble while timing exits from individual
+    technology stocks before many crashes.
