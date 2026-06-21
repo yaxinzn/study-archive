@@ -7825,3 +7825,11 @@
     county-by-month fixed effects, loan-sale indicators, and deposit-rate data to show that small
     multi-market banks reallocate scarce capital toward disaster-hit markets and cut lending in
     connected non-core or low-share markets.
+- title: "Collier, Ellis, and Keys (Econometrica, 2025) - The Cost of Consumer Collateral: Evidence from Bunching"
+  file: "https://www.dropbox.com/scl/fi/vuxm1abvm03exgi8wxyhx/Collier_Ellis_Keys_Econometrica_2025.pdf?rlkey=0cufxengnw331y0x0f9gc2xe2&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses U.S. Federal Disaster Loan administrative data,
+    collateral-threshold notches, bunching estimators, threshold-regime variation, default instruments,
+    borrower balance sheets, and a structural home-attachment model to show that households forgo
+    substantial subsidized borrowing to avoid pledging their homes, while collateral significantly
+    reduces default through repayment incentives.
