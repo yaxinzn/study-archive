@@ -7817,3 +7817,11 @@
     evacuee shares, lagged achievement, attendance, discipline, and evacuee achievement quartiles to
     show that average achievement effects are small but nonlinear peer effects are important:
     low-achieving evacuees hurt incumbents while high-achieving evacuees help them.
+- title: "Cortés and Strahan (JFE, 2017) - Tracing out Capital Flows: How Financially Integrated Banks Respond to Natural Disasters"
+  file: "https://www.dropbox.com/scl/fi/kdg8wcei9279ws24b5ehm/Cortes_Strahan_JFE_2017.pdf?rlkey=dzle02tdu2u4mij5t7t8e7fpy&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses SHELDUS natural disasters, confidential monthly HMDA
+    mortgage originations, bank branch exposure, property-damage instruments, bank-by-county and
+    county-by-month fixed effects, loan-sale indicators, and deposit-rate data to show that small
+    multi-market banks reallocate scarce capital toward disaster-hit markets and cut lending in
+    connected non-core or low-share markets.
