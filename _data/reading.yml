@@ -7841,3 +7841,11 @@
     discontinuity checks, demand-curve estimation, household heterogeneity, and program-cost records to
     show that post-disaster household recovery-credit demand is meaningfully downward sloping and
     especially elastic near private credit substitutes.
+- title: "Fu and Gregory (Econometrica, 2019) - Estimation of an Equilibrium Model with Externalities: Post-Disaster Neighborhood Rebuilding"
+  file: "https://www.dropbox.com/scl/fi/buha9879k0jlr2mnzz1xi/Fu_Gregory_Econometrica_2019.pdf?rlkey=pe1fms76zbz1x15ciwhxrmyli&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines the Road Home grant discontinuity after Hurricane
+    Katrina, reduced-form RDD estimates, spatial rebuilding spillovers, a dynamic equilibrium model with
+    nonlinear neighborhood amenities, indirect inference, and policy counterfactuals to show that
+    conditional rebuilding grants can raise welfare by internalizing positive neighborhood externalities
+    and tipping blocks toward higher rebuilding equilibria.
