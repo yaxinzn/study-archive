@@ -7873,3 +7873,11 @@
     decompositions, Cox hazard models, and logit robustness tests to study whether boards filter out
     luck when firing CEOs, showing that CEOs are more likely to be dismissed after poor industry-induced
     performance, so boards practice only incomplete relative performance evaluation.
+- title: "Keller (AER, 2002) - Geographic Localization of International Technology Diffusion"
+  file: "https://www.dropbox.com/scl/fi/qtbtgdesb72m8izrwtqcs/Keller_AER_2002.pdf?rlkey=iv96iqg5cuj1g7z8iyb67hbre&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses manufacturing-industry TFP data for OECD countries,
+    domestic and G-5 R&D stocks, bilateral distance, language variables, nonlinear distance-weighted R&D
+    regressions, and time-varying localization specifications to study international technology
+    diffusion, showing that foreign R&D spillovers raise productivity but decline with geographic
+    distance, while language similarity and globalization over time reduce diffusion frictions.
