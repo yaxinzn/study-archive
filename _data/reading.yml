@@ -8031,3 +8031,12 @@
     executive incentives and corporate policy, showing that higher CEO vega is associated with riskier
     policies such as more R&D, less CAPEX, greater focus, higher leverage, and higher stock-return
     volatility, while risky policies also feed back into compensation design.
+- title: "Oyer and Schaefer (JFE, 2005) - Why Do Some Firms Give Stock Options to All Employees?"
+  file: "https://www.dropbox.com/scl/fi/b25aao1wofom0gvqeg0fu/Oyer_Schaefer_JFE_2005.pdf?rlkey=yab46aa0jg4anmsso3dk7i5or&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines BLS establishment data, a random SEC public-firm
+    sample, NCEO broad-plan data, Black-Scholes option valuation, incentive, sorting, and retention
+    calibrations, and logit regressions for broad-plan adoption to study broad-based employee stock
+    options, showing that non-executive option grants are difficult to justify by individual incentives
+    but fit sorting and retention stories for smaller, volatile, new-economy, and cash-constrained
+    firms.
