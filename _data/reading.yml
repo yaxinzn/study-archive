@@ -8013,3 +8013,12 @@
     percent-percent, dollar-dollar, and dollar-percent pay-performance measures, and tests them using
     ExecuComp and Compustat CEO portfolios to show that low and declining fractional ownership can be
     optimal because the relevant wealth-performance sensitivity is approximately size-invariant.
+- title: "Clement and Tse (JF, 2005) - Financial Analyst Characteristics and Herding Behavior in Forecasting"
+  file: "https://www.dropbox.com/scl/fi/fg5fkanui6dhay7oq6dfl/Clement_Tse_JF_2005.pdf?rlkey=8vea9rut4lsp22wwpopsnpdo0&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses I/B/E/S annual earnings forecast revisions, CRSP price
+    scaling, within-firm-year standardized analyst characteristics, bold versus herding forecast
+    classifications, logit boldness models, retention tests, forecast-accuracy regressions,
+    revision-error tests, and forecast-improvement regressions to show that analysts with stronger
+    ability and resource proxies issue bold forecasts more often, and that bold forecasts are more
+    accurate and more complete than herding forecasts.
