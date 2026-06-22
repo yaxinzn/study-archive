@@ -8168,3 +8168,11 @@
     real-estate returns, and a recursive-preference rare-disaster climate model to infer long-run risky
     discount rates, showing that housing discount rates are downward sloping and that climate-hedging
     investments can warrant discount rates below risk-free rates when they pay off in bad states.
+- title: "Painter (JFE, 2020) - An Inconvenient Cost: The Effects of Climate Change on Municipal Bonds"
+  file: "https://www.dropbox.com/scl/fi/r8hpd4nfkbzryvts8zswi/Painter_JFE_2020.pdf?rlkey=7jyva6ogrrv29lh735i2eaui7&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Bloomberg new-issue municipal bonds, county-level
+    sea-level-rise loss exposure, total annualized issuance costs, initial yields, gross spreads,
+    maturity splits, credit-rating heterogeneity, placebo counties, robustness exclusions, and the Stern
+    Review attention shock to show that municipal bond investors price physical climate risk mainly in
+    long-maturity and lower-rated bonds.
