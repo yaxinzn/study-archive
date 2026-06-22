@@ -8201,3 +8201,12 @@
     quarter-of-birth evidence, state maternal-mortality exposure, and geographic-intensity regressions
     to show that in utero pandemic exposure reduced schooling, income, socioeconomic status, and health
     while increasing disability and public transfer receipt decades later.
+- title: "Maccini and Yang (AER, 2009) - Under the Weather: Health, Schooling, and Economic Consequences of Early-Life Rainfall"
+  file: "https://www.dropbox.com/scl/fi/6mna4gyoze5sdhtx88ktc/Maccini_Yang_AER_2009.pdf?rlkey=i2k9b070igoisxtd3wkhlmwai&dl=0"
+  desc: >-
+    This note summarizes the paper, which links Indonesian Family Life Survey adults to birth-district
+    rainfall deviations, rural agricultural exposure, birth-year seasonal rainfall, district-season
+    fixed effects, birth-year-season fixed effects, local trends, and instrumental variables using
+    nearby rainfall stations to show that higher rainfall in the birth year improves adult women's
+    health, height, schooling, and household assets, with weaker effects for men and little evidence for
+    pre- or post-birth rainfall timing.
