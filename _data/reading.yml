@@ -8185,3 +8185,11 @@
     stock, bond, and option moments to show that time-varying compensation for disaster exposure can
     unify the equity premium, excess volatility, return predictability, bond premia, corporate spreads,
     and put-option puzzles.
+- title: "Gourio (AER, 2012) - Disaster Risk and Business Cycles"
+  file: "https://www.dropbox.com/scl/fi/mc5hjiup6jmo99ktapulr/Gourio_AER_2012.pdf?rlkey=ywmz12p4ls8oka8gagrbqxber&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds time-varying disaster probability in a production
+    economy with recursive preferences, capital-quality shocks, investment adjustment costs, government
+    bill recovery risk, and levered equity to show that higher disaster risk can generate ordinary
+    recessions by raising required returns on risky capital, lowering investment, employment, output,
+    and stock prices, and matching macro and financial moments better than a standard RBC model.
