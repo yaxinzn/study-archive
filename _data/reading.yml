@@ -8056,3 +8056,11 @@
     relative to value added have smoother wage bills, more cyclical profit sensitivity, higher
     systematic risk loadings, and higher expected returns because labor costs amplify residual cash-flow
     exposure to aggregate shocks.
+- title: "Kuehn, Simutin, and Wang (JF, 2017) - A Labor Capital Asset Pricing Model"
+  file: "https://www.dropbox.com/scl/fi/c08akss0xfer2jxa2isgd/Kuehn_Simutin_Wang_JF_2017.pdf?rlkey=2t7ey9cyfrjwmrin99eduoeyy&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs firm-level rolling betas on changes in aggregate
+    labor-market tightness, tests labor-tightness-loading portfolios and Fama-MacBeth regressions, and
+    builds a search-and-matching asset-pricing model to show that stocks with low labor-market-tightness
+    loadings earn high future returns because matching-efficiency shocks create priced labor-market risk
+    not captured by standard factors.
