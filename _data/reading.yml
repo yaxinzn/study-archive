@@ -8143,3 +8143,11 @@
     then compares the model's comparative statics to historical cooperative constitutions, showing how
     liability and internal borrowing rules can be understood as incentive devices that induce members to
     monitor borrower risk.
+- title: "Agrawal, Hacamo, and Hu (RFS, 2021) - Information Dispersion across Employees and Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/rl9t7nds46juz4p5auzsi/Agrawal_Hacamo_Hu_RFS_2021.pdf?rlkey=revo0hgo4c3n1okm5nzb3py52&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses LinkedIn worker histories, monthly labor inflows and
+    outflows, CRSP returns, Compustat accounting data, I/B/E/S analyst forecasts, earnings-announcement
+    event studies, and transparency heterogeneity tests to show that rank-and-file employee outflows
+    aggregate dispersed information about future earnings and predict subsequent abnormal stock returns
+    because investors and analysts underreact to labor-flow signals.
