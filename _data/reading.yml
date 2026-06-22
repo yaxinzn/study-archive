@@ -8127,3 +8127,11 @@
     firm fixed effects, dynamic GMM, listing controls, competition controls, private-ownership shares,
     and CEO-turnover evidence to show that minority equity sales can improve profitability,
     productivity, investment, and managerial discipline even when the government retains control.
+- title: "di Giovanni and Hale (JF, 2022) - Stock Market Spillovers via the Global Production Network: Transmission of U.S. Monetary Policy"
+  file: "https://www.dropbox.com/scl/fi/u48qka0uguyv6xgm4cb94/diGiovanni_Hale_JF_2022.pdf?rlkey=zdn2ybxeus1mvi24gajgv96j1&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines WIOD global input-output linkages, country-sector
+    stock returns, and high-frequency U.S. monetary policy surprises in a heterogeneous spatial
+    autoregression model, showing that U.S. monetary shocks transmit internationally through production
+    networks, with upstream network effects accounting for roughly two-thirds to 70 percent of total
+    stock-market spillovers.
