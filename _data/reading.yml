@@ -8151,3 +8151,12 @@
     event studies, and transparency heterogeneity tests to show that rank-and-file employee outflows
     aggregate dispersed information about future earnings and predict subsequent abnormal stock returns
     because investors and analysts underreact to labor-flow signals.
+- title: "Wachter (JF, 2013) - Can Time-Varying Risk of Rare Disasters Explain Aggregate Stock Market Volatility?"
+  file: "https://www.dropbox.com/scl/fi/m0alksolxa48vtoisonmx/Wachter_JF_2013.pdf?rlkey=1oov2haeuf3vn6u94wdk8j0ut&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a rare-disaster asset-pricing model with time-varying
+    disaster probability, recursive preferences, levered dividends, government bill default risk,
+    calibrated historical disaster sizes, simulated conditional moments, and price-dividend-ratio
+    inversion to show that fluctuations in perceived disaster risk can jointly generate high equity
+    premia, high stock-market volatility, low stable bill returns, and long-horizon return
+    predictability.
