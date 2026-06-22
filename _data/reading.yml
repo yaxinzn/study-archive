@@ -8176,3 +8176,12 @@
     maturity splits, credit-rating heterogeneity, placebo counties, robustness exclusions, and the Stern
     Review attention shock to show that municipal bond investors price physical climate risk mainly in
     long-maturity and lower-rated bonds.
+- title: "Gabaix (QJE, 2012) - Variable Rare Disasters: An Exactly Solved Framework for Ten Puzzles in Macro-Finance"
+  file: "https://www.dropbox.com/scl/fi/9ukr5axwzgl1qzj35t9jj/Gabaix_QJE_2012.pdf?rlkey=ajs2igfgj10dtu4gne2wvyi0e&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an exactly solved rare-disaster framework with
+    time-varying asset resilience, stock disaster recovery, nominal-bond inflation jumps,
+    linearity-generating processes, option pricing, corporate-spread implications, and calibration to
+    stock, bond, and option moments to show that time-varying compensation for disaster exposure can
+    unify the equity premium, excess volatility, return predictability, bond premia, corporate spreads,
+    and put-option puzzles.
