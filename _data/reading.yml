@@ -8048,3 +8048,11 @@
     production-based model with labor adjustment costs to show that the negative hiring-return relation
     is concentrated in high-skill industries, where costly-to-adjust skilled labor creates stronger
     exposure to aggregate adjustment-cost shocks.
+- title: "Donangelo, Gourio, Kehrig, and Palacios (JFE, 2019) - The Cross-Section of Labor Leverage and Equity Returns"
+  file: "https://www.dropbox.com/scl/fi/sxvczjfchosmajvhokz8k/Donangelo_Gourio_Kehrig_Palacios_JFE_2019.pdf?rlkey=aljlgurzku4j0xi3olmtmi7bm&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a labor-leverage model and tests it using Compustat,
+    CRSP, and confidential Census labor-share measures, showing that firms with high labor costs
+    relative to value added have smoother wage bills, more cyclical profit sensitivity, higher
+    systematic risk loadings, and higher expected returns because labor costs amplify residual cash-flow
+    exposure to aggregate shocks.
