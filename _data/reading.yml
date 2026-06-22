@@ -8064,3 +8064,10 @@
     builds a search-and-matching asset-pricing model to show that stocks with low labor-market-tightness
     loadings earn high future returns because matching-efficiency shocks create priced labor-market risk
     not captured by standard factors.
+- title: "Eiling (JF, 2013) - Industry-Specific Human Capital, Idiosyncratic Risk, and the Cross-Section of Expected Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/tkvvmw955bs8i1dbgwjr2/Eiling_JF_2013.pdf?rlkey=myh3mbpiqunuvjn10gc2s49sd&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds industry-specific labor-income growth factors from NIPA
+    and CES data and tests them on size-book-to-market, size-beta, and idiosyncratic-risk portfolios,
+    showing that aggregate labor income has weak pricing power while industry-level human-capital risks
+    improve cross-sectional fit and explain part of the apparent idiosyncratic-risk premium.
