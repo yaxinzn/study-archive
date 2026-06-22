@@ -8071,3 +8071,12 @@
     and CES data and tests them on size-book-to-market, size-beta, and idiosyncratic-risk portfolios,
     showing that aggregate labor income has weak pricing power while industry-level human-capital risks
     improve cross-sectional fit and explain part of the apparent idiosyncratic-risk premium.
+- title: "Palacios (RFS, 2015) - Human Capital as an Asset Class: Implications from a General Equilibrium Model"
+  file: "https://www.dropbox.com/scl/fi/0tqe33j22v0f3i4qd8p8a/Palacios_RFS_2015.pdf?rlkey=dihpg1yv263etn4wzfgud7xmn&dl=0"
+  desc: >-
+    This note summarizes the paper, which treats human capital as a claim to aggregate wages in a
+    recursive-preference production economy with CES production, physical and human capital
+    accumulation, adjustment costs, and two aggregate shocks, showing that human capital is the dominant
+    share of aggregate wealth, has a relatively low risk premium, remains highly correlated with equity,
+    and implies a conditional three-factor CAPM with market, capital-share, and human-capital-investment
+    factors.
