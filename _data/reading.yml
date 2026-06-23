@@ -8299,3 +8299,11 @@
     transferable-asset proxies, junk-bond-market liquidity shocks, and credit-line data to show that
     asset redeployability increases both liquidity-motivated acquisitions and reliance on credit lines
     rather than cash.
+- title: "Gropp, Gruendl, and Guettler (RF, 2014) - The Impact of Public Guarantees on Bank Risk-Taking: Evidence from a Natural Experiment"
+  file: "https://www.dropbox.com/scl/fi/p7juuoyy3eghugohwwavf/Gropp_Gruendl_Guettler_RF_2014.pdf?rlkey=wb29mzw898czwwdf67q6f43bw&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the 2001 announcement that explicit public guarantees for
+    German savings banks would be removed, comparing savings banks to non-savings banks and exploiting
+    matched bank-borrower data, bond-spread reactions, liability-structure changes, and borrower-risk
+    measures to show that removing guarantees strengthened market discipline and reduced bank
+    risk-taking, supporting a moral-hazard view of public guarantees.
