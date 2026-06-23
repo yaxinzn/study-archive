@@ -8457,3 +8457,11 @@
     arbitrage-portfolio tests to document the size effect: small firms earn higher beta-adjusted returns
     than large firms, with the premium concentrated among the very smallest firms rather than forming a
     smooth market-value gradient.
+- title: "Breeden (JFE, 1979) - An Intertemporal Asset Pricing Model with Stochastic Consumption and Investment Opportunities"
+  file: "https://www.dropbox.com/scl/fi/owyt4ogbkhzw5yt897vqx/Breeden_JFE_1979.pdf?rlkey=48m4wtbtn4zo97lh74w87phan&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives a continuous-time intertemporal asset-pricing model
+    with stochastic investment opportunities, marginal utility tied to consumption, aggregation,
+    multi-good real-consumption extensions, and zero-beta versions to show that expected excess returns
+    can be summarized by a single consumption-beta relation rather than by market beta alone or multiple
+    state-variable hedge portfolios.
