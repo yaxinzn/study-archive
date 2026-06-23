@@ -8375,3 +8375,11 @@
     conditional choice probabilities and transition probabilities identify utility differences only
     after the discount factor, preference-shock distribution, and reference-alternative current and
     future utilities are fixed or restricted.
+- title: "Arcidiacono and Miller (Econometrica, 2011) - Conditional Choice Probability Estimation of Dynamic Discrete Choice Models with Unobserved Heterogeneity"
+  file: "https://www.dropbox.com/scl/fi/yfg7rv5a0nq7at49c2rnz/Arcidiacono_Miller_Econometrica_2011.pdf?rlkey=5pc6c1g7hkw7zguyksy273hwh&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends conditional choice probability estimation to dynamic
+    discrete-choice models with finite unobserved heterogeneity, combining Hotz-Miller logic, arbitrary
+    choice-path value representations, finite dependence, generalized extreme-value errors, and EM
+    algorithms to estimate models such as bus replacement and entry-exit games without repeatedly
+    solving the full dynamic programming problem.
