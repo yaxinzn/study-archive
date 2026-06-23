@@ -8399,3 +8399,11 @@
     that greenfield FDI and cross-border acquisitions can coexist, that greenfield flows are one-way
     while acquisitions can be two-way, and that firm efficiency, corporate-asset supply, fixed costs,
     production-cost differences, and gravity frictions determine FDI mode choice.
+- title: "Lakonishok, Shleifer, and Vishny (JF, 1994) - Contrarian Investment, Extrapolation, and Risk"
+  file: "https://www.dropbox.com/scl/fi/exau836mg7i7qptt0105j/Lakonishok_Shleifer_Vishny_JF_1994.pdf?rlkey=qztmp5lfce847t5qvolm42mjx&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Compustat and CRSP data, one-dimensional and
+    two-dimensional value-glamour sorts, cash-flow-to-price, earnings-to-price, book-to-market,
+    sales-growth measures, future growth tests, recession and market-downturn performance, and
+    traditional risk measures to show that value strategies outperform glamour strategies because
+    investors over-extrapolate past growth rather than because value stocks are fundamentally riskier.
