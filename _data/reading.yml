@@ -8366,3 +8366,12 @@
     burden, showing that distributional conflict, private information about costs, political
     polarization, and low costs of continued instability can make rational groups postpone stabilization
     until one side concedes or political consolidation resolves the stalemate.
+- title: "Magnac and Thesmar (Econometrica, 2002) - Identifying Dynamic Discrete Decision Processes"
+  file: "https://www.dropbox.com/scl/fi/s8u8iz3ce5t5ip5showw6/Magnac_Thesmar_Econometrica_2002.pdf?rlkey=j0j6fzjas2vx1nou3mmmmwyeu&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies nonparametric identification in dynamic
+    discrete-choice models using Hotz-Miller inversion, Bellman identifying equations, current-value
+    functions, reference-alternative normalizations, and correlated fixed effects to show that observed
+    conditional choice probabilities and transition probabilities identify utility differences only
+    after the discount factor, preference-shock distribution, and reference-alternative current and
+    future utilities are fixed or restricted.
