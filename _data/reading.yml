@@ -8593,3 +8593,11 @@
     recursive optimal contracts, showing that financing constraints generate slow growth,
     investment-cash-flow sensitivity, size and age effects, survival patterns, and debt forgiveness or
     repayment schedules that depend on accumulated borrower equity.
+- title: "Fostel and Geanakoplos (AER, 2008) - Leverage Cycles and the Anxious Economy"
+  file: "https://www.dropbox.com/scl/fi/qt3t1bivm0pkk8pt9v2ll/Fostel_Geanakoplos_AER_2008.pdf?rlkey=du94cmkl3kjozu6ws1qi9rfbz&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines emerging-market spread facts with collateral general
+    equilibrium and adverse-selection models to show how incomplete markets, heterogeneous beliefs,
+    collateral constraints, margin changes, and anxiety about future bad states can generate leverage
+    cycles, flight to collateral, contagion across assets, spread volatility, and a disproportionate
+    collapse in high-quality issuance during anxious times.
