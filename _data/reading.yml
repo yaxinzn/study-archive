@@ -8441,3 +8441,11 @@
     returns, leverage and ownership heterogeneity, and manager-characteristic tests to show that
     insulated managers reduce firm risk by increasing diversifying acquisitions and undertaking
     value-destroying equity-financed deals, consistent with a playing-it-safe agency conflict.
+- title: "Fama and MacBeth (JPE, 1973) - Risk, Return, and Equilibrium: Empirical Tests"
+  file: "https://www.dropbox.com/scl/fi/krsn8y6q30e39zwennt06/Fama_MacBeth_JPE_1973.pdf?rlkey=q3m92oneehfnuyvrua049idip&dl=0"
+  desc: >-
+    This note summarizes the paper, which tests the two-parameter portfolio model using NYSE common
+    stocks, beta-sorted portfolios, rolling beta estimation, monthly cross-sectional regressions,
+    beta-squared and non-beta-risk terms, and time-series averages of pricing coefficients to show that
+    average returns are broadly linear in beta and not separately related to residual risk, while the
+    strict Sharpe-Lintner zero-beta return equals the risk-free rate hypothesis is rejected.
