@@ -8609,3 +8609,11 @@
     private agents overborrow because they do not internalize how their borrowing depresses crisis asset
     prices and worsens aggregate resources, creating a macroprudential rationale for preventive
     regulation even without a simple collateral-price externality alone.
+- title: "Bianchi (AER, 2011) - Overborrowing and Systemic Externalities in the Business Cycle"
+  file: "https://www.dropbox.com/scl/fi/q5smb8kgly28525np8idt/Bianchi_AER_2011.pdf?rlkey=k8rsuzkovmb7z3i3kub8hk14o&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies a small open economy with tradable and nontradable
+    goods, collateral constraints, debt-deflation effects, and a constrained social planner, showing
+    that decentralized agents borrow too much because they ignore the systemic externality from
+    exchange-rate and collateral-price effects in crises, and that state-contingent debt taxes or margin
+    requirements can reduce crisis incidence and improve welfare.
