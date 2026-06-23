@@ -8521,3 +8521,11 @@
     gaps into costs, markups, exchange-rate pricing-to-market, domestic-brand preferences, dealer
     practices, and Japanese import quotas to show that monetary union can reduce exchange-rate
     volatility but not eliminate persistent market segmentation.
+- title: "Jegadeesh and Titman (JF, 1993) - Returns to Buying Winners and Selling Losers: Implications for Stock Market Efficiency"
+  file: "https://www.dropbox.com/scl/fi/34ebq2v5nq5tx2ewfzmvr/Jegadeesh_Titman_JF_1993.pdf?rlkey=6zktpn0402a3x35cj0jyk2nq5&dl=0"
+  desc: >-
+    This note summarizes the paper, which forms relative-strength portfolios that buy recent winners and
+    sell recent losers over intermediate horizons, using overlapping J-month/K-month strategies,
+    skip-week variants, risk and lead-lag tests, subperiod evidence, calendar-month patterns, and
+    earnings-announcement returns to show that momentum profits are large at 3- to 12-month horizons and
+    are difficult to explain by standard risk or microstructure stories.
