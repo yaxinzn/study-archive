@@ -8569,3 +8569,11 @@
     amplification, calibrating the model to Mexico to show that leverage can rise in normal times and
     make ordinary shocks trigger sudden stops, collapses in consumption and investment, real exchange
     rate declines, and asymmetric crisis dynamics.
+- title: "Matsuyama (AER, 2007) - Credit Traps and Credit Cycles"
+  file: "https://www.dropbox.com/scl/fi/hfxuhmele5bw485uobm1o/Matsuyama_AER_2007.pdf?rlkey=lvzwt2t7szn4w62k4ltrt7q6e&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an overlapping-generations model where borrowing
+    constraints affect not only investment levels but also project composition, showing that borrower
+    net worth can shift investment between high-productivity and high-pledgeability projects, generating
+    credit traps, collapses, leapfrogging, endogenous credit cycles, and growth miracles when financial
+    development changes the allocation of credit.
