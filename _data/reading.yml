@@ -8473,3 +8473,11 @@
     likelihoods, and an EM algorithm to show that ignoring unavailable products biases substitution
     estimates and understates profit losses because stock-outs both censor latent demand and force
     consumers toward substitutes or the outside option.
+- title: "Berry, Levinsohn, and Pakes (AER, 1999) - Voluntary Export Restraints on Automobiles: Evaluating a Trade Policy"
+  file: "https://www.dropbox.com/scl/fi/pr3cn017zdqjuoimb9mv1/Berry_Levinsohn_Pakes_AER_1999.pdf?rlkey=czyls2lj6buacyq5kcynp2xr6&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a random-coefficients oligopoly model of the U.S.
+    automobile market from 1971 to 1990 to evaluate Japan's voluntary export restraint, treating the
+    quota as an implicit shadow tax on Japanese cars and decomposing its effects on prices, markups,
+    Japanese and domestic producer profits, consumer surplus, equivalent tariff revenue, and aggregate
+    welfare.
