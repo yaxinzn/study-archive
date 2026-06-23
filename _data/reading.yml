@@ -8641,3 +8641,11 @@
     imbalances, sticky prices, carry-trade returns, and intervention policy, showing that exchange rates
     can be disconnected from fundamentals, debtor currencies depreciate after financial disruptions, UIP
     can fail, and capital controls can alter the potency of foreign-exchange intervention.
+- title: "He, Krishnamurthy, and Milbradt (AER, 2019) - A Model of Safe Asset Determination"
+  file: "https://www.dropbox.com/scl/fi/ri58azplsn099o19yzxd1/He_Krishnamurthy_Milbradt_AER_2019.pdf?rlkey=5pmgwbb1qskjhgwx53varswsn&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a global-games model of sovereign safe-asset status
+    with rollover default, private information, relative fundamentals, debt supply, strategic
+    complements below survival thresholds, strategic substitutes above thresholds, joint-safety
+    equilibria, and common-bond design, showing how safe assets emerge endogenously and why one country
+    can become the single safe-asset survivor.
