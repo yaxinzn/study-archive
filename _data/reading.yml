@@ -8513,3 +8513,11 @@
     probabilities, and future CCPs to represent continuation values without repeatedly solving the
     dynamic programming problem, with an application to contraceptive choice and sterilization that
     illustrates the estimator's computational gains and identifying assumptions.
+- title: "Goldberg and Verboven (RES, 2001) - The Evolution of Price Dispersion in the European Car Market"
+  file: "https://www.dropbox.com/scl/fi/deu3leriim6q6yk5asic0/Goldberg_Verboven_RES_2001.pdf?rlkey=etmhkz78sr6aw6kh8ci7y3uzn&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies pre-tax car-price dispersion across major European
+    markets using hedonic regressions and a differentiated-product oligopoly model, decomposing price
+    gaps into costs, markups, exchange-rate pricing-to-market, domestic-brand preferences, dealer
+    practices, and Japanese import quotas to show that monetary union can reduce exchange-rate
+    volatility but not eliminate persistent market segmentation.
