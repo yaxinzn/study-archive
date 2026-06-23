@@ -8497,3 +8497,11 @@
     allocation, and border tax adjustments, showing that second-best distortions from market power and
     import leakage can make simple emissions pricing welfare-reducing and that policy design matters for
     output, entry, exit, emissions, leakage, and welfare.
+- title: "Rust (Econometrica, 1987) - Optimal Replacement of GMC Bus Engines: An Empirical Model of Harold Zurcher"
+  file: "https://www.dropbox.com/scl/fi/bk0ov764tnvx1bcs2ve8q/Rust_Econometrica_1987.pdf?rlkey=bro5v8f1yuypd23a1f0sjzi0d&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a structural dynamic discrete-choice model of
+    bus-engine replacement using Harold Zurcher's GMC bus data, mileage-state transitions, logit choice
+    probabilities, conditional independence, regeneration, and the nested fixed point algorithm, showing
+    how observed replacement hazards can recover replacement costs and maintenance-cost parameters and
+    how dynamic optimization differs from myopic rules.
