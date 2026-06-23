@@ -8561,3 +8561,11 @@
     an economic geography model to quantify spatial misallocation, showing how state tax dispersion
     affects where people and firms locate, how tax harmonization reallocates activity across states, and
     how government-spending responses, SALT deductions, and state fundamentals shape welfare incidence.
+- title: "Mendoza (AER, 2010) - Sudden Stops, Financial Crises, and Leverage"
+  file: "https://www.dropbox.com/scl/fi/t361m0vnya8z6qj4u4cqw/Mendoza_AER_2010.pdf?rlkey=hgctexe2tfzrb5vxygz7wbw01&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a small-open-economy DSGE model with an endogenous
+    collateral constraint, imported inputs, working capital, investment, and Fisherian debt-deflation
+    amplification, calibrating the model to Mexico to show that leverage can rise in normal times and
+    make ordinary shocks trigger sudden stops, collapses in consumption and investment, real exchange
+    rate declines, and asymmetric crisis dynamics.
