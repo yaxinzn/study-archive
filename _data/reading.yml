@@ -8585,3 +8585,11 @@
     constrained firms grow gradually along an efficient frontier, dividends are delayed until financial
     slack is sufficient, liquidation can be inefficient, and debt-like repayment schedules implement
     history-dependent borrowing constraints and survival dynamics.
+- title: "Clementi and Hopenhayn (QJE, 2006) - A Theory of Financing Constraints and Firm Dynamics"
+  file: "https://www.dropbox.com/scl/fi/lyqzrg1hnu8rvnlqhckkh/Clementi_Hopenhayn_QJE_2006.pdf?rlkey=f92hpr1onqasniffpzrzy4bai&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a dynamic moral-hazard model of firm financing with
+    private output histories, promise keeping, incentive compatibility, liquidation, collateral, and
+    recursive optimal contracts, showing that financing constraints generate slow growth,
+    investment-cash-flow sensitivity, size and age effects, survival patterns, and debt forgiveness or
+    repayment schedules that depend on accumulated borrower equity.
