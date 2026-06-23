@@ -8481,3 +8481,11 @@
     quota as an implicit shadow tax on Japanese cars and decomposing its effects on prices, markups,
     Japanese and domestic producer profits, consumer surplus, equivalent tariff revenue, and aggregate
     welfare.
+- title: "Reguant (REStud, 2014) - Complementary Bidding Mechanisms and Startup Costs in Electricity Markets"
+  file: "https://www.dropbox.com/scl/fi/yxr9nyvvx82x4gpanr1hv/Reguant_REStud_2014.pdf?rlkey=4n2q6vhqlpd4a171d8o8q02s5&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Spanish day-ahead electricity-market bids, simple hourly
+    supply bids, complex minimum-revenue bids, residual-demand simulations, and optimal bidding
+    conditions to recover marginal costs, forward positions, and startup costs, showing that dynamic
+    startup costs are quantitatively important and that ignoring them distorts measured hourly markups
+    and market-power inference.
