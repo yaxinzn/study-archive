@@ -8529,3 +8529,11 @@
     skip-week variants, risk and lead-lag tests, subperiod evidence, calendar-month patterns, and
     earnings-announcement returns to show that momentum profits are large at 3- to 12-month horizons and
     are difficult to explain by standard risk or microstructure stories.
+- title: "Trajtenberg (JPE, 1989) - The Welfare Analysis of Product Innovations, with an Application to Computed Tomography Scanners"
+  file: "https://www.dropbox.com/scl/fi/97k8txnchb9tfb0e6hp28/Trajtenberg_JPE_1989.pdf?rlkey=0wkh2ndnqgpc1hg0a0zye1wjt&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a discrete-choice welfare framework for product
+    innovation and applies it to computed tomography scanners, combining scanner characteristics,
+    hedonic residual prices, logit and nested-logit demand, quality uncertainty, diffusion, and R&D cost
+    comparisons to measure consumer surplus from new products and show that welfare gains from CT
+    scanner innovation were large, front-loaded, and concentrated in early product introductions.
