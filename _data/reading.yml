@@ -8449,3 +8449,11 @@
     beta-squared and non-beta-risk terms, and time-series averages of pricing coefficients to show that
     average returns are broadly linear in beta and not separately related to residual risk, while the
     strict Sharpe-Lintner zero-beta return equals the risk-free rate hypothesis is rejected.
+- title: "Banz (JFE, 1981) - The Relationship Between Return and Market Value of Common Stocks"
+  file: "https://www.dropbox.com/scl/fi/vceuhltyz7a0p7wmed67p/Banz_JFE_1981.pdf?rlkey=dzodn631pjohjhdfszrf3wn4g&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses NYSE CRSP stocks, generalized CAPM cross-sectional
+    regressions, portfolio grouping, OLS and GLS specifications, beta corrections, and
+    arbitrage-portfolio tests to document the size effect: small firms earn higher beta-adjusted returns
+    than large firms, with the premium concentrated among the very smallest firms rather than forming a
+    smooth market-value gradient.
