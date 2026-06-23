@@ -8383,3 +8383,11 @@
     choice-path value representations, finite dependence, generalized extreme-value errors, and EM
     algorithms to estimate models such as bus replacement and entry-exit games without repeatedly
     solving the full dynamic programming problem.
+- title: "Fama and French (JF, 1996) - Multifactor Explanations of Asset Pricing Anomalies"
+  file: "https://www.dropbox.com/scl/fi/08o8d0qtis9vdz0rkzsne/Fama_French_JF_1996.pdf?rlkey=80ljrbrwedmgptj9c27gxztvd&dl=0"
+  desc: >-
+    This note summarizes the paper, which tests whether the Fama-French three-factor model explains
+    major CAPM anomalies, using size-book-to-market portfolios, LSV price-ratio and sales-growth
+    portfolios, past-return portfolios, spanning tests, and CAPM comparisons to show that SMB and
+    especially HML absorb value, price-ratio, sales-growth, and long-term reversal patterns, while
+    short-term momentum remains the central exception.
