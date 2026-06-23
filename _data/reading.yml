@@ -8465,3 +8465,11 @@
     multi-good real-consumption extensions, and zero-beta versions to show that expected excess returns
     can be summarized by a single consumption-beta relation rather than by market beta alone or multiple
     state-variable hedge portfolios.
+- title: "Conlon and Mortimer (AEJ Micro, 2013) - Demand Estimation Under Incomplete Product Availability"
+  file: "https://www.dropbox.com/scl/fi/bwmual651nca6qltq2w72/Conlon_Mortimer_AEJMicro_2013.pdf?rlkey=a4e3ngyn9i9x4a4slawej2tbh&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses high-frequency vending-machine inventory and sales data,
+    observed stock-outs, latent stock-out timing within inventory intervals, multinomial demand
+    likelihoods, and an EM algorithm to show that ignoring unavailable products biases substitution
+    estimates and understates profit losses because stock-outs both censor latent demand and force
+    consumers toward substitutes or the outside option.
