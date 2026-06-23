@@ -8537,3 +8537,11 @@
     hedonic residual prices, logit and nested-logit demand, quality uncertainty, diffusion, and R&D cost
     comparisons to measure consumer surplus from new products and show that welfare gains from CT
     scanner innovation were large, front-loaded, and concentrated in early product introductions.
+- title: "Reis (RES, 2006) - Inattentive Producers"
+  file: "https://www.dropbox.com/scl/fi/mc4rh5gt166ncnapttvad/Reis_RES_2006.pdf?rlkey=y9k4zocwlgfqg5eg7knyfnr4h&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a theory of producers who optimally choose how often
+    to update plans when information and planning are costly, showing that small planning costs can
+    generate substantial inattentiveness, that firms may optimally plan prices rather than quantities
+    under demand uncertainty, and that aggregating heterogeneous inattentive producers yields a
+    sticky-information Phillips curve with inflation dynamics shaped by delayed plan updating.
