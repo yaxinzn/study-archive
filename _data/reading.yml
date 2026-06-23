@@ -8601,3 +8601,11 @@
     collateral constraints, margin changes, and anxiety about future bad states can generate leverage
     cycles, flight to collateral, contagion across assets, spread volatility, and a disproportionate
     collapse in high-quality issuance during anxious times.
+- title: "Lorenzoni (RES, 2008) - Inefficient Credit Booms"
+  file: "https://www.dropbox.com/scl/fi/abj5q99oi7uf9jml162ba/Lorenzoni_RES_2008.pdf?rlkey=gi6f2ek846aq2jl02zc0v7sdx&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a model of entrepreneurial borrowing with limited
+    commitment, collateral constraints, asset-market clearing, and crisis-state fire sales, showing that
+    private agents overborrow because they do not internalize how their borrowing depresses crisis asset
+    prices and worsens aggregate resources, creating a macroprudential rationale for preventive
+    regulation even without a simple collateral-price externality alone.
