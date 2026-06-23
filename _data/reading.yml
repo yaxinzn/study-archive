@@ -8425,3 +8425,11 @@
     by funding illiquid assets and guarantees with liquid liabilities, that large banks create most
     liquidity, and that the capital-liquidity relation is positive for large banks but negative for
     small banks.
+- title: "Iyer and Puri (AER, 2012) - Understanding Bank Runs: The Importance of Depositor-Bank Relationships and Networks"
+  file: "https://www.dropbox.com/scl/fi/7tajwtlyljb80zy35bl7j/Iyer_Puri_AER_2012.pdf?rlkey=ja65abutnizkmuoa76zo0fnvj&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses minute-by-minute depositor-level transaction data from a
+    run on a solvent Indian cooperative bank, deposit-insurance thresholds, account balances, loan
+    linkages, account age, introducer networks, neighborhood links, hazard models, and survey evidence
+    to show that insurance only partially prevents runs, relationship banking stabilizes deposits, and
+    depositor panic spreads through social and geographic networks.
