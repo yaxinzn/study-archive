@@ -8505,3 +8505,11 @@
     probabilities, conditional independence, regeneration, and the nested fixed point algorithm, showing
     how observed replacement hazards can recover replacement costs and maintenance-cost parameters and
     how dynamic optimization differs from myopic rules.
+- title: "Hotz and Miller (RES, 1993) - Conditional Choice Probabilities and the Estimation of Dynamic Models"
+  file: "https://www.dropbox.com/scl/fi/z40cdzmsaqjrnignohubu/Hotz_Miller_RES_1993.pdf?rlkey=3xxqm54txpp4x8ywdrcvhs97o&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops the conditional choice probability estimator for
+    dynamic discrete-choice models, using inversion of observed choice probabilities, transition
+    probabilities, and future CCPs to represent continuation values without repeatedly solving the
+    dynamic programming problem, with an application to contraceptive choice and sterilization that
+    illustrates the estimator's computational gains and identifying assumptions.
