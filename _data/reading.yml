@@ -8657,3 +8657,11 @@
     are predictable when rapid credit growth coincides with asset-price booms, that Red-zone episodes
     forecast severe downturns, and that policymakers face a frontier between false positives and missed
     crises.
+- title: "Cooley and Quadrini (AER, 2001) - Financial Markets and Firm Dynamics"
+  file: "https://www.dropbox.com/scl/fi/43wd292ldw8cq9yk5rssv/Cooley_Quadrini_AER_2001.pdf?rlkey=03lzwda9hvphkgi98rx0e4jpv&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a dynamic firm model with persistent productivity
+    shocks, debt, default, equity issuance costs, dividends, endogenous exit, and an invariant
+    distribution, showing that financial frictions combined with persistent shocks explain why small and
+    young firms grow faster, are more financially constrained, have different default and equity
+    policies, and display size and age dynamics that a frictionless benchmark cannot generate.
