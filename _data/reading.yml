@@ -8617,3 +8617,11 @@
     that decentralized agents borrow too much because they ignore the systemic externality from
     exchange-rate and collateral-price effects in crises, and that state-contingent debt taxes or margin
     requirements can reduce crisis incidence and improve welfare.
+- title: "Farhi and Werning (Econometrica, 2016) - A Theory of Macroprudential Policies in the Presence of Nominal Rigidities"
+  file: "https://www.dropbox.com/scl/fi/si7un8dqnaim7kk1fmhaq/Farhi_Werning_Econometrica_2016.pdf?rlkey=ihbmyg9nfyl6ybyux2vfl3a1f&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a general theory of macroprudential policy with
+    nominal rigidities, incomplete markets, financial taxes, monetary-policy targeting rules, and ex
+    post redistribution, showing that pecuniary and aggregate-demand externalities generically justify
+    ex ante macroprudential intervention and that the optimal financial taxes depend on how private
+    portfolios shape state-contingent wealth distributions and demand shortfalls.
