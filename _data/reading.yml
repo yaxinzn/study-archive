@@ -8882,3 +8882,11 @@
     partly fail to infer private information from others' strategies, developing the chi-cursed
     equilibrium and virtual-game representation and applying the mechanism to adverse-selection trade,
     common-value auctions, winner's curse evidence, voting, costly signaling, and disclosure.
+- title: "Pedersen, Fitzgibbons, and Pomorski (JFE, 2021) - Responsible Investing: The ESG-Efficient Frontier"
+  file: "https://www.dropbox.com/scl/fi/8mi317fyu5c7wu51bxqij/Pedersen_Fitzgibbons_Pomorski_JFE_2021.pdf?rlkey=6j27srow3eifqjwjeyt5w0zkg&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an ESG-efficient frontier for investors who care
+    about both risk-return tradeoffs and sustainability characteristics, deriving ESG-Sharpe ratios,
+    four-fund separation, equilibrium return implications when ESG is information or preference, and
+    empirical frontier constructions showing how screening and ESG tilts trade off expected performance
+    and ESG exposure.
