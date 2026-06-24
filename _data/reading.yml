@@ -8748,3 +8748,11 @@
     agent's action and consequence may be observed separately, showing that making actions transparent
     can induce conformity and reduce welfare because agents try to look smart rather than choose the
     action best suited to their private signal.
+- title: "Dewatripont, Jewitt, and Tirole (RES, 1999) - The Economics of Career Concerns, Part I: Comparing Information Structures"
+  file: "https://www.dropbox.com/scl/fi/sa8nw1n2k6of4fe2609rb/Dewatripont_Jewitt_Tirole_RES_1999.pdf?rlkey=hz7gxwrsj1tibk5w8kk7n37ea&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies career-concerns incentives under different information
+    structures, using likelihood-ratio martingales, Blackwell, Lehman, and Fisher information
+    comparisons, and sufficient-statistic results to show that more information need not always
+    strengthen incentives because garbling or information aggregation can change how effort affects
+    reputation.
