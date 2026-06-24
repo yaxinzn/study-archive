@@ -8780,3 +8780,10 @@
     search frictions make assortative matching depend not only on output supermodularity but also on
     convex matching sets and orientation conditions that determine positive or negative assortative
     matching.
+- title: "Sorkin (QJE, 2018) - Ranking Firms Using Revealed Preference"
+  file: "https://www.dropbox.com/scl/fi/ngi772jcdq4csh82txbef/Sorkin_QJE_2018.pdf?rlkey=zazszjmzci5zo2y8hf8pn3psu&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses matched employer-employee flows to rank firms by revealed
+    worker preferences, separating pay from nonpay amenities, endogenous and exogenous separations, and
+    firm value from firm wage premia, showing that workers systematically move toward higher-value firms
+    and that compensating differentials explain a large share of firm-pay differences.
