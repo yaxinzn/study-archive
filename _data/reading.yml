@@ -8818,3 +8818,12 @@
     model to show that firm heterogeneity is strongly shaped by production-network position, customer
     and supplier connections, extensive-margin links, and equilibrium network formation rather than only
     firm productivity alone.
+- title: "Fama and French (RFS, 2002) - Testing Trade-Off and Pecking Order Predictions About Dividends and Debt"
+  file: "https://www.dropbox.com/scl/fi/z5o5lgnu37t4ik9l59pb6/Fama_French_RFS_2002.pdf?rlkey=5xnq4m7xoes2m2qyleuf333g9&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Compustat firms, Fama-MacBeth regressions, target payout
+    and leverage models, dividend adjustment tests, leverage mean-reversion tests, and financing-deficit
+    regressions to evaluate trade-off and pecking-order theories, showing that dividends track
+    profitability and investment opportunities, leverage only weakly mean reverts, debt absorbs
+    short-run investment and earnings shocks, and frequent equity issuance is difficult for the strict
+    pecking order to explain.
