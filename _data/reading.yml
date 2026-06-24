@@ -8756,3 +8756,11 @@
     comparisons, and sufficient-statistic results to show that more information need not always
     strengthen incentives because garbling or information aggregation can change how effort affects
     reputation.
+- title: "Harris and Holmstrom (RES, 1982) - A Theory of Wage Dynamics"
+  file: "https://www.dropbox.com/scl/fi/j4pv3qvopglkps8cune6k/Harris_Holmstrom_RES_1982.pdf?rlkey=0zhgz0mhzxybcfn5w357fupch&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a learning-and-insurance theory of wage dynamics with
+    uncertain worker productivity and long-term contracts, showing that optimal wages are downward
+    rigid, rise with favorable productivity information, and can be interpreted as a running maximum of
+    market wage offers adjusted for an insurance premium that changes with age and information
+    precision.
