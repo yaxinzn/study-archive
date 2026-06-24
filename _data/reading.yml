@@ -8835,3 +8835,11 @@
     information structures, no improving action switches, and no improving attention cycles, showing how
     observed choice data can characterize rational inattention behavior and recover bounds on
     information costs, including under Shannon-style restrictions.
+- title: "Maćkowiak and Wiederholt (AER, 2009) - Optimal Sticky Prices under Rational Inattention"
+  file: "https://www.dropbox.com/scl/fi/55mpc3ymfdkixdh55nsuu/Mackowiak_Wiederholt_AER_2009.pdf?rlkey=ir8jbo7uy8bbsunvzymbswg7f&dl=0"
+  desc: >-
+    This note summarizes the paper, which models firms with limited information-processing capacity that
+    choose how much attention to allocate to aggregate nominal demand and idiosyncratic conditions,
+    showing that firms optimally track idiosyncratic shocks more closely than aggregate shocks,
+    generating rapid responses to firm-specific disturbances, sluggish aggregate price adjustment, and
+    sticky-price dynamics without menu costs.
