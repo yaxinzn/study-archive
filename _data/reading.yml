@@ -8681,3 +8681,11 @@
     chains, star suppliers, customer distributions, employment-size dispersion, matching patterns,
     intermediate-input cost shares, and aggregate output emerge endogenously from the structure and
     abundance of production techniques.
+- title: "Acemoglu, Ozdaglar, and Tahbaz-Salehi (AER, 2017) - Microeconomic Origins of Macroeconomic Tail Risks"
+  file: "https://www.dropbox.com/scl/fi/4cf01qotvzzy8g1z8it5k/Acemoglu_Ozdaglar_TahbazSalehi_AER_2017.pdf?rlkey=7z273rrhpjigq7y1vsa76fab1&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies how sectoral shocks aggregate through production
+    networks, showing that heterogeneous Domar weights and input-output linkages can generate
+    macroeconomic tail risk and tail comovement even when aggregate volatility is small, and that
+    network heterogeneity in U.S. input-output data helps explain why large downturns can be more likely
+    than a normal approximation suggests.
