@@ -8696,3 +8696,11 @@
     foreign-currency derivative disclosures, Tobin's Q, cross-sectional and fixed-effects regressions,
     dollar-appreciation and depreciation episodes, and reverse-causality tests to show that exposed
     firms using currency derivatives are associated with a hedging premium in firm value.
+- title: "Atalay (AEJ Macro, 2017) - How Important Are Sectoral Shocks?"
+  file: "https://www.dropbox.com/scl/fi/6a3dk3ic8abkez9im429o/Atalay_AEJMacro_2017.pdf?rlkey=y32y4nmxhb85q6zeo9jvt0q5k&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates production-network elasticities using U.S. industry
+    data and military-spending instruments, then filters sectoral productivity shocks through an
+    input-output model to quantify how much aggregate volatility comes from sectoral shocks, showing
+    that the importance of sectoral shocks depends critically on low substitution elasticities and
+    intermediate-input linkages.
