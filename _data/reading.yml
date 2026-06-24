@@ -8726,3 +8726,10 @@
     disclosures, delta-based hedge ratios, commodity beta tests, and Tobin's Q regressions, showing that
     hedging reduces stock-return sensitivity to oil and gas prices but does not produce a clear
     valuation premium in this setting.
+- title: "Adam, Dasgupta, and Titman (JF, 2007) - Financial Constraints, Competition, and Hedging in Industry Equilibrium"
+  file: "https://www.dropbox.com/scl/fi/1hb2ut31b7cgyxz24jgtr/Adam_Dasgupta_Titman_JF_2007.pdf?rlkey=u92h97mr0bo8y5sssqbulnlvs&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an industry-equilibrium model of hedging by
+    financially constrained firms under product-market competition, showing that hedging trades off
+    lower financing costs against reduced production flexibility and that strategic substitutability can
+    generate heterogeneous hedging choices even among otherwise similar firms.
