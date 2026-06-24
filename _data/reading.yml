@@ -8867,3 +8867,11 @@
     functions and sparse choice with constraints and applying the framework to consumer demand,
     perceived prices, nominal illusion, Slutsky matrices, equilibrium welfare results, and recoverable
     attention from choice data.
+- title: "Michaely, Thaler, and Womack (JF, 1995) - Price Reactions to Dividend Initiations and Omissions: Overreaction or Drift?"
+  file: "https://www.dropbox.com/scl/fi/2wb9l2aol9dk7lzug43cl/Michaely_Thaler_Womack_JF_1995.pdf?rlkey=7fyqp2oym40vv85920lpfxmu0&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies dividend initiations and omissions using event-time
+    excess returns, announcement windows, long-run post-event returns, earnings-announcement subsamples,
+    dividend-yield-change sorts, trading-volume and institutional-ownership tests, and alternative
+    benchmarks to show that dividend events trigger strong announcement reactions followed by persistent
+    drift rather than simple short-run overreaction.
