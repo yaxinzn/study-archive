@@ -8843,3 +8843,11 @@
     showing that firms optimally track idiosyncratic shocks more closely than aggregate shocks,
     generating rapid responses to firm-specific disturbances, sluggish aggregate price adjustment, and
     sticky-price dynamics without menu costs.
+- title: "Bordalo, Gennaioli, and Shleifer (QJE, 2012) - Salience Theory of Choice Under Risk"
+  file: "https://www.dropbox.com/scl/fi/m99bbg2f7pu4fq7afowpn/Bordalo_Gennaioli_Shleifer_QJE_2012.pdf?rlkey=i32outo8uountv2zdyyjelf03&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a model of local thinking in risky choice where
+    decision weights overweight states with salient payoff differences, showing how context-dependent
+    salience can generate risk-seeking and risk-averse patterns, Allais-type paradoxes, common-ratio
+    effects, preference reversals, reflection and framing effects, and probability weighting without
+    relying on fixed prospect-theory weights.
