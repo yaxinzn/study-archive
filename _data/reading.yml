@@ -8859,3 +8859,11 @@
     utility, developing personal equilibrium and preferred personal equilibrium concepts and applying
     them to consumer shopping, attachment and comparison effects, price uncertainty, and daily labor
     supply.
+- title: "Gabaix (QJE, 2014) - A Sparsity-Based Model of Bounded Rationality"
+  file: "https://www.dropbox.com/scl/fi/de85h04mzewqw265p6w3k/Gabaix_QJE_2014.pdf?rlkey=g7edfdemctewzkegygckekq96&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops the sparse-max model of bounded rationality in which
+    decision makers optimally attend to only some payoff-relevant variables, deriving attention
+    functions and sparse choice with constraints and applying the framework to consumer demand,
+    perceived prices, nominal illusion, Slutsky matrices, equilibrium welfare results, and recoverable
+    attention from choice data.
