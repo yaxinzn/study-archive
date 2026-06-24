@@ -8772,3 +8772,11 @@
     variance decompositions, showing how firm productivity, worker ability, search frictions, and
     bargaining generate wage dispersion, mobility patterns, within-firm wage gaps, and firm-size
     differences.
+- title: "Shimer and Smith (Econometrica, 2000) - Assortative Matching and Search"
+  file: "https://www.dropbox.com/scl/fi/ixy3ky8wym8u013uicrel/Shimer_Smith_Econometrica_2000.pdf?rlkey=k8as6wc3t2zd45x1go9ewdcqw&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies two-sided search with heterogeneous agents, endogenous
+    acceptance sets, Nash surplus division, and steady-state unmatched distributions, showing that
+    search frictions make assortative matching depend not only on output supermodularity but also on
+    convex matching sets and orientation conditions that determine positive or negative assortative
+    matching.
