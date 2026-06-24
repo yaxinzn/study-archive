@@ -8827,3 +8827,11 @@
     profitability and investment opportunities, leverage only weakly mean reverts, debt absorbs
     short-run investment and earnings shocks, and frequent equity issuance is difficult for the strict
     pecking order to explain.
+- title: "Caplin and Dean (AER, 2015) - Revealed Preference, Rational Inattention, and Costly Information Acquisition"
+  file: "https://www.dropbox.com/scl/fi/g4wttroqrrfiqfd6yjf9l/Caplin_Dean_AER_2015.pdf?rlkey=bmw17laay2sjwq5y1z0w1ngfu&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops revealed-preference tests for costly information
+    acquisition using state-dependent stochastic choice, revealed posterior beliefs, revealed
+    information structures, no improving action switches, and no improving attention cycles, showing how
+    observed choice data can characterize rational inattention behavior and recover bounds on
+    information costs, including under Shannon-style restrictions.
