@@ -8875,3 +8875,10 @@
     dividend-yield-change sorts, trading-volume and institutional-ownership tests, and alternative
     benchmarks to show that dividend events trigger strong announcement reactions followed by persistent
     drift rather than simple short-run overreaction.
+- title: "Eyster and Rabin (Econometrica, 2005) - Cursed Equilibrium"
+  file: "https://www.dropbox.com/scl/fi/i91ztkxla8t2ai86xcp97/Eyster_Rabin_Econometrica_2005.pdf?rlkey=04ikyrk4pq9ihv9sn08azm7hv&dl=0"
+  desc: >-
+    This note summarizes the paper, which introduces cursed equilibrium in Bayesian games where agents
+    partly fail to infer private information from others' strategies, developing the chi-cursed
+    equilibrium and virtual-game representation and applying the mechanism to adverse-selection trade,
+    common-value auctions, winner's curse evidence, voting, costly signaling, and disclosure.
