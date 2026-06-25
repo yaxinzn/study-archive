@@ -9016,3 +9016,11 @@
     mimicking-portfolio and characteristic-sorted approaches, projection portfolios, cross-validation,
     and portfolio-composition diagnostics to show how investors can build assets that hedge innovations
     in climate-change news.
+- title: "Guiso and Parigi (QJE, 1999) - Investment and Demand Uncertainty"
+  file: "https://www.dropbox.com/scl/fi/jlb82c1j1lnm19ealjley/Guiso_Parigi_QJE_1999.pdf?rlkey=kwkkzb13zgu5ew5js8cuibl98&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Italian manufacturing survey data with subjective
+    probability distributions over future demand, expected-demand controls, planned and actual
+    investment, irreversibility measures, market-power proxies, and liquidity-constraint controls to
+    show that demand uncertainty reduces investment, especially when capital is irreversible and firms
+    have market power.
