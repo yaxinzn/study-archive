@@ -9039,3 +9039,11 @@
     to show that people distinguish known risk from ambiguous uncertainty, violate Savage's Sure-thing
     Principle, and reveal preferences that cannot be rationalized by a single subjective probability
     distribution, motivating ambiguity aversion and restricted-Bayes or security-level decision rules.
+- title: "Mikhail, Walther, and Willis (JFE, 2004) - Do Security Analysts Exhibit Persistent Differences in Stock Picking Ability?"
+  file: "https://www.dropbox.com/scl/fi/yldzeccj8k25oo8z2xijy/Mikhail_Walther_Willis_JFE_2004.pdf?rlkey=t7dfhtsig64q8n8wfixcm3z97&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses analyst stock-recommendation data, recommendation
+    revisions, characteristic-adjusted excess returns, event windows, analyst fixed effects, persistence
+    tests, market-reaction tests, and implementable trading strategies to show that analysts differ
+    persistently in stock-picking ability, that investors partially recognize high-ranked analysts, and
+    that incomplete reaction does not translate into easy abnormal profits after trading costs.
