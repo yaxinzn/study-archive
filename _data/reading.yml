@@ -8970,3 +8970,10 @@
     and national specifications to show that tax cuts for lower-income groups have much larger effects
     on employment and economic activity than tax cuts for top-income groups, with implications for labor
     demand, consumption channels, and dynamic scoring.
+- title: "Jentsch and Lunsford (AER, 2019) - The Dynamic Effects of Personal and Corporate Income Tax Changes in the United States: Comment"
+  file: "https://www.dropbox.com/scl/fi/x0q009v92pmygx6o5kg44/Jentsch_Lunsford_AER_2019.pdf?rlkey=nbmrr0yfs91w8z42g655768zi&dl=0"
+  desc: >-
+    This note summarizes the comment, which reexamines proxy-SVAR inference for U.S. personal and
+    corporate tax changes, showing that the Mertens-Ravn wild bootstrap fails because of Rademacher
+    cancellation in sparse proxy settings and that moving-block bootstrap inference yields wider
+    uncertainty around dynamic tax-shock impulse responses.
