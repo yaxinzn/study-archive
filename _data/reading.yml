@@ -8977,3 +8977,11 @@
     corporate tax changes, showing that the Mertens-Ravn wild bootstrap fails because of Rademacher
     cancellation in sparse proxy settings and that moving-block bootstrap inference yields wider
     uncertainty around dynamic tax-shock impulse responses.
+- title: "Romer and Romer (AER, 2010) - The Macroeconomic Effects of Tax Changes: Estimates Based on a New Measure of Fiscal Shocks"
+  file: "https://www.dropbox.com/scl/fi/maperjnkshwcneb5zpljs/Romer_Romer_AER_2010.pdf?rlkey=ebt02lr7e9wvrzoueacwqkoco&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs a narrative measure of exogenous U.S. federal tax
+    changes, separates endogenous from exogenous legislation, and estimates distributed-lag and VAR
+    responses to show that exogenous tax increases are strongly contractionary, while broader revenue
+    measures understate effects because they mix policy shocks with cyclical and spending-related tax
+    changes.
