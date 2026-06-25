@@ -9133,3 +9133,12 @@
     showing that mutual funds tend to buy past winners more than they sell past losers, that
     momentum-oriented funds outperform contrarian funds, and that herding exists but is modest and
     mainly overlaps with momentum-based trading.
+- title: "Huang, Wei, and Yan (JF, 2007) - Participation Costs and the Sensitivity of Fund Flows to Past Performance"
+  file: "https://www.dropbox.com/scl/fi/1y8zse9cwz096leg4r3o1/Huang_Wei_Yan_JF_2007.pdf?rlkey=bijw1q6u94fyi102himynusdx&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a learning model in which investor participation
+    costs shape the flow-performance relation and tests it using mutual fund flows, piecewise
+    performance regressions, marketing and distribution expenses, star-producing fund families, family
+    size and diversity, transaction-cost proxies, and time-varying participation-cost measures, showing
+    that lower participation costs make fund flows more sensitive to past performance, especially for
+    top-performing funds.
