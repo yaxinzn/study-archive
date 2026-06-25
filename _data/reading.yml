@@ -9125,3 +9125,11 @@
     that forecast optimism is systematically related to incentives and information environments and can
     be interpreted as a rational response to asymmetric payoff and relationship considerations rather
     than only irrational forecasting error.
+- title: "Grinblatt, Titman, and Wermers (AER, 1995) - Momentum Investment Strategies, Portfolio Performance, and Herding: A Study of Mutual Fund Behavior"
+  file: "https://www.dropbox.com/scl/fi/68rfgxhf2av4qbyp249zd/Grinblatt_Titman_Wermers_AER_1995.pdf?rlkey=4ezxjvnu4uey9vk6ief2vdisc&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses mutual fund holdings, stock returns, fund-level momentum
+    measures, performance regressions, and herding statistics to study institutional trading behavior,
+    showing that mutual funds tend to buy past winners more than they sell past losers, that
+    momentum-oriented funds outperform contrarian funds, and that herding exists but is modest and
+    mainly overlaps with momentum-based trading.
