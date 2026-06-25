@@ -9032,3 +9032,10 @@
     variance decompositions to show that ambiguity about an unlearnable component of productivity can
     generate business-cycle fluctuations through worst-case beliefs, labor wedges, and confidence-driven
     demand effects.
+- title: "Ellsberg (QJE, 1961) - Risk, Ambiguity, and the Savage Axioms"
+  file: "https://www.dropbox.com/scl/fi/rp3xsq25hxnfm1btwd9go/Ellsberg_QJE_1961.pdf?rlkey=zsshtcxq09dw1tv1r99e7urym&dl=0"
+  desc: >-
+    This note summarizes the paper, which introduces the classic two-urn and three-color urn experiments
+    to show that people distinguish known risk from ambiguous uncertainty, violate Savage's Sure-thing
+    Principle, and reveal preferences that cannot be rationalized by a single subjective probability
+    distribution, motivating ambiguity aversion and restricted-Bayes or security-level decision rules.
