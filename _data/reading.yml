@@ -9047,3 +9047,11 @@
     tests, market-reaction tests, and implementable trading strategies to show that analysts differ
     persistently in stock-picking ability, that investors partially recognize high-ranked analysts, and
     that incomplete reaction does not translate into easy abnormal profits after trading costs.
+- title: "Falkenstein (JF, 1996) - Preferences for Stock Characteristics As Revealed by Mutual Fund Portfolio Holdings"
+  file: "https://www.dropbox.com/scl/fi/3zcae96hmvurdf6eg2p8b/Falkenstein_JF_1996.pdf?rlkey=fogjgl1tlwvctzsu9vmik9l3h&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses mutual fund portfolio holdings, stock-level ownership
+    measures, characteristic sorts, censored regressions, OLS and fixed-effects checks, and
+    fund-subsector tests to infer revealed preferences for stock characteristics, showing that mutual
+    funds systematically tilt toward stocks with favorable liquidity, visibility, transaction-cost,
+    risk, and past-return characteristics rather than holding the market portfolio passively.
