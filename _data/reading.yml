@@ -9008,3 +9008,11 @@
     high-growth firm splits, conventional leverage factors, and out-of-sample checks, showing that debt
     does not absorb financing deficits one-for-one and that equity issuance is too important for the
     strict pecking order to describe broad capital-structure behavior.
+- title: "Engle, Giglio, Kelly, Lee, and Stroebel (RFS, 2020) - Hedging Climate Change News"
+  file: "https://www.dropbox.com/scl/fi/f1mbqf0bocnmrfmu49aed/Engle_Giglio_Kelly_Lee_Stroebel_RFS_2020.pdf?rlkey=7kmy208cd1y0yf737p671qaba&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs climate-news hedge portfolios using Wall Street
+    Journal and Crimson Hexagon climate-news indices, firm-level environmental scores,
+    mimicking-portfolio and characteristic-sorted approaches, projection portfolios, cross-validation,
+    and portfolio-composition diagnostics to show how investors can build assets that hedge innovations
+    in climate-change news.
