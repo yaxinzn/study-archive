@@ -9024,3 +9024,11 @@
     investment, irreversibility measures, market-power proxies, and liquidity-constraint controls to
     show that demand uncertainty reduces investment, especially when capital is irreversible and firms
     have market power.
+- title: "Ilut and Schneider (AER, 2014) - Ambiguous Business Cycles"
+  file: "https://www.dropbox.com/scl/fi/qrf26n4xkfb072wslrzls/Ilut_Schneider_AER_2014.pdf?rlkey=w0j9iyv3vdmw5j6qoey1v1sn4&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds multiple-priors preferences and confidence shocks in a
+    New Keynesian production environment with sticky prices, survey dispersion, Bayesian estimation, and
+    variance decompositions to show that ambiguity about an unlearnable component of productivity can
+    generate business-cycle fluctuations through worst-case beliefs, labor wedges, and confidence-driven
+    demand effects.
