@@ -9055,3 +9055,11 @@
     fund-subsector tests to infer revealed preferences for stock characteristics, showing that mutual
     funds systematically tilt toward stocks with favorable liquidity, visibility, transaction-cost,
     risk, and past-return characteristics rather than holding the market portfolio passively.
+- title: "Billett, King, and Mauer (JF, 2007) - Growth Opportunities and the Choice of Leverage, Debt Maturity, and Covenants"
+  file: "https://www.dropbox.com/scl/fi/zj40j7fuilbxzcyyvbwaz/Billett_King_Mauer_JF_2007.pdf?rlkey=ly4ppsx0hza0l5oulqw0paorv&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses public debt-issue data, covenant categories, firm-year
+    panels, covenant indices, leverage, maturity, growth-opportunity proxies, and simultaneous-equations
+    estimation to study debt-contract design, showing that firms with stronger growth opportunities use
+    leverage, debt maturity, and restrictive covenants jointly to manage debt-overhang problems, with
+    covenants helping expand debt capacity and partly substituting for short-term debt.
