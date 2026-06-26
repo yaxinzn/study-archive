@@ -9282,3 +9282,12 @@
     large differences in labor shares mostly reflect measurement problems, especially mixed income of
     the self-employed, and that adjusted labor shares are much more stable across countries and
     development levels.
+- title: "Costello (JPE, 2020) - Credit Market Disruptions and Liquidity Spillover Effects in the Supply Chain"
+  file: "https://www.dropbox.com/scl/fi/59h8l2b605fvdajet0fg2/Costello_JPE_2020.pdf?rlkey=0eeprjvsacgoa4kbrxno52amw&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies liquidity spillovers during the 2007-2008 credit
+    crisis using supplier debt-maturity shocks, Credit2B trade-credit transaction data, supplier-buyer
+    links, difference-in-differences designs, buyer outcome tests, and customer-importance heterogeneity
+    to show that suppliers hit by bank liquidity disruptions cut trade credit before sales fall,
+    transmit liquidity shocks downstream through supply chains, and protect their most important
+    customers.
