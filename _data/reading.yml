@@ -9206,3 +9206,11 @@
     estate price shocks, headquarters-location exposure, firm fixed effects, financial-constraint
     splits, debt issuance tests, and the 2000-2002 collateral shock to show that increases in collateral
     values relax borrowing constraints and raise corporate investment through a collateral channel.
+- title: "Javorcik (AER, 2004) - Does Foreign Direct Investment Increase the Productivity of Domestic Firms? In Search of Spillovers Through Backward Linkages"
+  file: "https://www.dropbox.com/scl/fi/sgocyj3xdssqmqzoiiq0g/Javorcik_AER_2004.pdf?rlkey=2d8e8o9tla5mz4oszdl0stpmu&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Lithuanian firm panel data, foreign-ownership measures,
+    input-output tables, horizontal, backward, and forward FDI spillover variables, first-difference
+    production-function regressions, and Olley-Pakes corrections to show that productivity gains for
+    domestic firms are concentrated in supplier industries connected to foreign affiliates through
+    backward linkages rather than in the same industry.
