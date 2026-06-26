@@ -9395,3 +9395,11 @@
     that momentum and post-earnings-announcement drift returns are partly compensation for exposure to
     the variable permanent component of liquidity risk, while fixed spread-like liquidity shocks do not
     explain the anomalies.
+- title: "Prendergast (JPE, 2002) - The Tenuous Trade-off between Risk and Incentives"
+  file: "https://www.dropbox.com/scl/fi/3ggewpwjrmjpevl6bslnv/Prendergast_JPE_2002.pdf?rlkey=gfhn3ybxos87o05tkn0owbc0j&dl=0"
+  desc: >-
+    This note summarizes the paper, which challenges the standard prediction that risk and incentive pay
+    should be negatively related by developing a model in which uncertainty changes job design,
+    delegation, and monitoring choices, showing that uncertain environments can lead principals to
+    delegate task choice and use output-based pay to discipline discretion, so risk and incentives may
+    be positively correlated when output measures remain useful.
