@@ -9386,3 +9386,12 @@
     clear and focused missions strengthen reputational incentives by making performance more informative
     about talent, while fuzzy or overly broad missions weaken accountability, distort effort allocation,
     and make monitoring more necessary.
+- title: "Sadka (JFE, 2006) - Momentum and Post-Earnings-Announcement Drift Anomalies: The Role of Liquidity Risk"
+  file: "https://www.dropbox.com/scl/fi/4xsh1pp9pn89a3ppnnqyu/Sadka_JFE_2006.pdf?rlkey=yb1fbcjss2uzbxuoldxi35o92&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses intraday NYSE transaction and quote data, price-impact
+    decompositions, market-wide liquidity shocks, momentum portfolios, standardized-unexpected-earnings
+    portfolios, Fama-MacBeth regressions, stochastic-discount-factor GMM tests, and double sorts to show
+    that momentum and post-earnings-announcement drift returns are partly compensation for exposure to
+    the variable permanent component of liquidity risk, while fixed spread-like liquidity shocks do not
+    explain the anomalies.
