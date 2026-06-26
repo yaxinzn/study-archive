@@ -9151,3 +9151,11 @@
     covenants, showing that tight covenants act as informative trip wires that predict subsequent
     covenant-variable improvement, lower investment and net debt issuance, positive announcement
     reactions, and more frequent but less severe covenant violations.
+- title: "Amihud and Mendelson (JFE, 1986) - Asset Pricing and the Bid-Ask Spread"
+  file: "https://www.dropbox.com/scl/fi/tftmugmt5z6uubaxwv346/Amihud_Mendelson_JFE_1986.pdf?rlkey=ypl9ed4yj6dam4pouszo4mvlu&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a liquidity-based asset-pricing model in which
+    investors with longer horizons sort into higher-spread assets, creating a clientele effect and an
+    increasing but concave relation between expected returns and bid-ask spreads, then tests the
+    mechanism with NYSE spread portfolios, piecewise-linear regressions, beta controls, firm-size
+    controls, and spread-adjusted return evidence.
