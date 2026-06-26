@@ -9343,3 +9343,12 @@
     regressions to show that stock-price reactions depend on both public and private information
     environments, with drift patterns varying systematically with informed trading and public news
     attention.
+- title: "Acemoglu and Zilibotti (QJE, 2001) - Productivity Differences"
+  file: "https://www.dropbox.com/scl/fi/w5s253ecj09hb3fwzmwzn/Acemoglu_Zilibotti_QJE_2001.pdf?rlkey=sbmlouxytan52dm06r0au7aqb&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a model of technology-skill mismatch where
+    technologies are designed for skill-abundant economies and are less productive when used in
+    skill-scarce countries, then uses industry productivity data, TFP measures, sector-skill
+    interactions, and quantitative exercises to show that directed technical change can generate large
+    cross-country productivity differences because poorer countries adopt technologies mismatched to
+    their factor endowments.
