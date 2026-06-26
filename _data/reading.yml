@@ -9159,3 +9159,11 @@
     increasing but concave relation between expected returns and bid-ask spreads, then tests the
     mechanism with NYSE spread portfolios, piecewise-linear regressions, beta controls, firm-size
     controls, and spread-adjusted return evidence.
+- title: "Cravino and Levchenko (AER, 2017) - The Distributional Consequences of Large Devaluations"
+  file: "https://www.dropbox.com/scl/fi/n1aizwtl6j2jfpdil9cvi/Cravino_Levchenko_AER_2017.pdf?rlkey=95gtlb7i9f5w3fs763wpush1j&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Mexican consumer price microdata and household
+    expenditure data around the 1994 peso devaluation to measure household-specific cost-of-living
+    effects, decomposing inflation into across-category and within-category channels to show that large
+    devaluations raise the cost of living more for poorer households because they spend relatively more
+    on tradable and low-distribution-margin goods whose prices respond more to exchange-rate movements.
