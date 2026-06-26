@@ -9369,3 +9369,12 @@
     supply-demand regressions to explain changes in U.S. wage structure from 1963 to 1987, showing that
     rising education premia and wage inequality are best understood as the outcome of steadily rising
     relative demand for skilled labor interacting with fluctuations in relative skill supplies.
+- title: "Korajczyk and Sadka (JFE, 2008) - Pricing the Commonality Across Alternative Measures of Liquidity"
+  file: "https://www.dropbox.com/scl/fi/ihiyxh1bflthcs4xsxl6u/Korajczyk_Sadka_JFE_2008.pdf?rlkey=y1iznv47mtj07kzq48bzo0662&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs eight monthly liquidity measures from intraday
+    trades and quotes for NYSE stocks, estimates latent liquidity factors using asymptotic principal
+    components and EM methods, and tests liquidity risk in sorted portfolios and Fama-MacBeth
+    regressions, showing that a common liquidity factor across measures is economically important and
+    priced, while measure-specific systematic liquidity factors add little independent pricing
+    information.
