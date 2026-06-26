@@ -9325,3 +9325,12 @@
     success outcomes, showing that capital inflows into venture capital raise private equity valuations,
     especially when investment opportunities are segmented or supply is less elastic, consistent with
     money chasing deals.
+- title: "Hasbrouck and Seppi (JFE, 2001) - Common Factors in Prices, Order Flows, and Liquidity"
+  file: "https://www.dropbox.com/scl/fi/om9mqosrxgezk3i7qqrnd/Hasbrouck_Seppi_JFE_2001.pdf?rlkey=x48qqnzd5erppp1u0ys5juwrc&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses 30 Dow stocks, 15-minute trade and quote intervals,
+    returns, signed order flows, absolute returns, volume, spread measures, principal components,
+    canonical correlations, and price-impact regressions to study commonality in market microstructure
+    variables, showing that returns and signed order flows have strong common factors, common order flow
+    explains part of common return variation, but normal-times liquidity commonality is modest and
+    own-firm liquidity dominates common liquidity in price-impact tests.
