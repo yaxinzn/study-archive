@@ -9352,3 +9352,12 @@
     interactions, and quantitative exercises to show that directed technical change can generate large
     cross-country productivity differences because poorer countries adopt technologies mismatched to
     their factor endowments.
+- title: "Llorente, Michaely, Saar, and Wang (RFS, 2002) - Dynamic Volume-Return Relation of Individual Stocks"
+  file: "https://www.dropbox.com/scl/fi/zyly3rr6bps7s207mk5l6/Llorente_Michaely_Saar_Wang_RFS_2002.pdf?rlkey=yxcv4v988rfquhnky8v2fbiff&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a model in which high-volume returns reverse when
+    trades are mainly hedging-motivated but continue when trades are information-motivated, then tests
+    the mechanism with stock-level time-series regressions, volume-return interaction terms, bid-ask
+    spreads, firm size, analyst following, and information-asymmetry proxies, showing that high-volume
+    returns continue more for high-spread and small-cap stocks but reverse more for low-spread and
+    large-cap stocks.
