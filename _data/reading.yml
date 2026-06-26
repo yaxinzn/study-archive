@@ -9334,3 +9334,12 @@
     variables, showing that returns and signed order flows have strong common factors, common order flow
     explains part of common return variation, but normal-times liquidity commonality is modest and
     own-firm liquidity dominates common liquidity in price-impact tests.
+- title: "Vega (JFE, 2006) - Stock Price Reaction to Public and Private Information"
+  file: "https://www.dropbox.com/scl/fi/othr0wjp42kgs06mlns8k/Vega_JFE_2006.pdf?rlkey=l0j7mamakf4s3jszglvqtnsik&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies post-earnings-announcement drift using PIN as a
+    private-information-based trading measure, MEDIA as public attention, SUR as consensus public-news
+    surprises, earnings-announcement returns, information-conditioned drift sorts, and cross-sectional
+    regressions to show that stock-price reactions depend on both public and private information
+    environments, with drift patterns varying systematically with informed trading and public news
+    attention.
