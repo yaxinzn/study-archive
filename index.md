@@ -35,6 +35,7 @@ hide_name: true
 - **[Econometrics](materials/econometrics/)** 
 - **[TFP Measurement](materials/tfp-measurement/)** 
 - **[Empirical Industrial Organization](materials/eio/)**
+- **[Macroeconomics](materials/Macroeconomics/)**
 
 
 <div class="sc-sep"></div>
