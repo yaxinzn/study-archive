@@ -10,6 +10,6 @@ hero_desc: Notes, PDFs, and structured summaries for Macroeconomics.
 
 Ljungqvist, L., & Sargent, T. J. (2004). Recursive macroeconomic theory (2nd ed.). The MIT Press.
 <!-- AUTO-LIST-START -->
-- (No files yet.)
-<!-- AUTO-LIST-END -->
 - **[chapter_4_5_6.pdf](chapter_4_5_6.pdf)**
+<!-- AUTO-LIST-END -->
+
