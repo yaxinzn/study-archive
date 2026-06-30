@@ -1,11 +1,9 @@
 - title: "Geng, Liu, and Pan (WP, 2025) - The Government-Led Credit Cycle in China’s LGFV Bonds and the Real Effects"
   file: "Geng_Liu_Pan_WP_2025.pdf"
   desc: "This note summarizes the paper, which documents a government-led credit cycle in China’s LGFV bonds by tracking the risky-city minus healthy-city spread gap across policy regimes (2014 Directive 43, 2018 asset-management regulation, post-2020 anti-bailout tightening, and the 2023 Debt Resolution package), models LGFV spreads as the sum of expected default loss, liquidity premia, and a bailout-belief multiplier (1−πt) that scales how strongly fundamentals load into spreads, and shows empirically that most of the 2017–2022 spread-gap widening reflects bailout repricing rather than fundamentals/liquidity; it then traces spillovers from post-2023 LGFV spread compression to lower local-bank subordinated-bond and municipal-bond spreads, while finding adverse bank real effects in riskier cities—lower profitability and market share, higher consolidation probability, and a shift from lending toward financial investments—using continuous-treatment DiD/event studies and within-city heterogeneity by banks’ LGFV exposure."
-
 - title: "Geng, Liu, and Pan (WP, 2025) - The Government-Led Credit Cycle in China’s LGFV Bonds and the Real Effects"
   file: "Liu_Pan_WP_2025.pdf"
   desc: "This note summarizes the paper, which documents a government-led credit cycle in China’s LGFV bonds by tracking the risky-city minus healthy-city spread gap across policy regimes (2014 Directive 43, 2018 asset-management regulation, post-2020 anti-bailout tightening, and the 2023 Debt Resolution package), models LGFV spreads as the sum of expected default loss, liquidity premia, and a bailout-belief multiplier (1−πt) that scales how strongly fundamentals load into spreads, and shows empirically that most of the 2017–2022 spread-gap widening reflects bailout repricing rather than fundamentals/liquidity; it then traces spillovers from post-2023 LGFV spread compression to lower local-bank subordinated-bond and municipal-bond spreads, while finding adverse bank real effects in riskier cities—lower profitability and market share, higher consolidation probability, and a shift from lending toward financial investments—using continuous-treatment DiD/event studies and within-city heterogeneity by banks’ LGFV exposure."
-
 - title: "Bernanke and Gertler (AER, 1989) - Agency Costs, Net Worth, and Business Fluctuations"
   file: "https://www.dropbox.com/scl/fi/i67b35qm3eipobjyi5dum/Bernanke_Gertler_AER_1989.pdf?rlkey=17nbsrfhk795rtnnzkgnol36q&dl=0"
   desc: "This note summarizes the paper, which develops an overlapping-generations business-cycle model with entrepreneurs, lenders, costly state verification, borrower net worth, stochastic auditing contracts, capital-supply curves, collateralization thresholds, and debt-deflation redistribution shocks to study financial amplification, showing that procyclical borrower net worth lowers agency costs in booms, raises them in downturns, and creates a financial accelerator that propagates real shocks."
@@ -9436,3 +9434,12 @@
     learning, sectoral specialization, technical progress, and welfare dynamics, showing that trade can
     have ambiguous dynamic effects because specialization changes where learning occurs and can
     accelerate growth for one country while slowing technological catch-up for another.
+- title: "Moser (AER, 2005) - How Do Patent Laws Influence Innovation? Evidence from Nineteenth-Century World's Fairs"
+  file: "https://www.dropbox.com/scl/fi/c5ngu0ifv6cd2makc6qj2/Moser_AER_2005.pdf?rlkey=w9ox2yyrtsw6q41qg5rmj9ld2&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses nineteenth-century world's-fair innovation data from the
+    1851 Crystal Palace Exhibition and the 1876 Centennial Exhibition, country patent regimes, industry
+    patenting rates, chi-square tests, multinomial logit regressions, the Netherlands patent-abolition
+    episode, and matching or synthetic-country comparisons to show that patent laws shape the direction
+    of innovation by moving inventive effort toward patent-sensitive sectors such as machinery and away
+    from sectors where secrecy, tacit knowledge, lead time, or specialized skills can protect returns.
