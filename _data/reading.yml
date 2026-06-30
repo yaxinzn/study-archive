@@ -9739,3 +9739,11 @@
     predictive distributions, isoelastic utility, stock-versus-cash allocation, certainty-equivalent
     gains, and many-predictor examples to show that statistically weak predictability can still have
     large portfolio consequences.
+- title: "Fama and French (JFE, 1989) - Business Conditions and Expected Returns on Stocks and Bonds"
+  file: "https://www.dropbox.com/scl/fi/g9d1mrj7rb4p6rhclx0wa/Fama_French_JFE_1989.pdf?rlkey=v8dwqonoffjhkmwqusibds855&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies whether stock and corporate-bond expected returns vary
+    with business conditions, using NYSE stock portfolios, long-term corporate bond portfolios, dividend
+    yield, default spread, term spread, multiple return horizons, cross-sectional slope tests, real
+    returns, and out-of-sample forecasts to show that expected stock and bond returns share
+    countercyclical predictable components tied to persistent and short-term business conditions.
