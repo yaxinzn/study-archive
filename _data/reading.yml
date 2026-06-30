@@ -9696,3 +9696,11 @@
     January splits, embedded-capital-gain controls, 52-week-low tests, and dynamic risk adjustments to
     show that proximity to the 52-week high dominates past returns as a predictor of future returns and
     fits an anchoring-underreaction interpretation.
+- title: "Moskowitz and Grinblatt (JF, 1999) - Do Industries Explain Momentum?"
+  file: "https://www.dropbox.com/scl/fi/k0fi54ynemra0e1llzy4i/Moskowitz_Grinblatt_JF_1999.pdf?rlkey=d2qk46rb8j5961n67jqlbr5kx&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies whether individual-stock momentum is largely an
+    industry-level phenomenon, using CRSP and Compustat data, 20 value-weighted industry portfolios,
+    individual and industry momentum strategies, industry-neutral returns, random-industry benchmarks,
+    DGTW adjustments, lead-lag tests, and Fama-MacBeth regressions to show that industry momentum is
+    strong and that individual-stock momentum weakens substantially after removing industry effects.
