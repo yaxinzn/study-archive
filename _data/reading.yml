@@ -5299,9 +5299,16 @@
 - title: "Zacchia (RES, 2020) - Knowledge Spillovers through Networks of Scientists"
   file: "https://www.dropbox.com/scl/fi/2y7z1rw4nx0ti602ctsqq/Zacchia_RES_2020.pdf?rlkey=afmk22f8gvvve8mrlyocpxt3i&dl=0"
   desc: "This note summarizes the paper, which builds a firm-to-firm scientist network from inventor co-patenting histories to construct a connection-weighted external R&D stock, estimates firm-year production-function regressions with firm and year fixed effects, and identifies causal knowledge spillovers using a network-distance IV that instruments neighbors’ R&D with the R&D of sufficiently distant “indirect friends” (preferred distance 3), complemented by System GMM and social-return calculations."
-- title: "Akcigit, Hanley, and Serrano-Velarde (RES, 2021) - Back to Basics: Basic Research Spillovers, Innovation Policy, and Growth"
-  file: "https://www.dropbox.com/scl/fi/19njmknm64s5yuoufg0yi/Akcigit_Hanley_Serrano_Velarde_RES_2021.pdf?rlkey=6fc7lp9wb0t1zjr3akueag6yj&dl=0"
-  desc: "This note summarizes the paper, which builds a multi-industry Schumpeterian growth model distinguishing basic vs. applied R&D, identifies cross-industry spillovers from French firm-level R&D survey data (2000–2006) using Tobit regressions of basic-research intensity on multi-industry scope and an IV based on 1980s state-led conglomeration, disciplines within-industry spillovers and cooldown with patent-citation moments, structurally estimates the full GE model by simulated method of moments, and runs planner/subsidy counterfactuals showing large welfare gains from heavily subsidizing basic research relative to applied."
+- title: "Akcigit, Hanley, and Serrano-Velarde (REStud, 2021) - Back to Basics: Basic Research Spillovers, Innovation Policy, and Growth"
+  file: "https://www.dropbox.com/scl/fi/edqacn159ydch93swltve/Akcigit_Hanley_Serranovelarde_RES_2021.pdf?rlkey=dxapch3h90x3pgly0zddiinpb&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds and estimates a growth model separating basic and
+    applied research, using French firm research choices, multi-industry scope, patent citations,
+    public-origin patents, SMM moments, cross-industry spillovers, hot product lines, social-planner
+    allocations, uniform R&D subsidies, type-dependent subsidies, misclassification robustness, and
+    public basic research policies to show that decentralized firms underinvest in basic research and
+    overinvest in applied research, so targeted support for basic research produces much larger welfare
+    gains than uniform R&D subsidies.
 - title: "Accominotti, Albers, and Oosterlinck (RFS, 2024) - Selective Default Expectations"
   file: "https://www.dropbox.com/scl/fi/l8e3bwh24tqvrff5272ga/Accominotti_Albers_Oosterlinck_RFS_2024.pdf?rlkey=v6834amdjux7k3pnq8jvvhgmr&dl=0"
   desc: "This note summarizes the paper, which exploits identical sterling Dawes bonds traded in London versus continental markets and the June-1934 transfer moratorium/affidavit rules that segmented secondary markets to identify selective-default expectations, decomposes cross-market yield spreads into default-versus-liquidity components using a simple risk-neutral pricing framework (with Roll-implied bid–ask spreads), validates segmentation with Jordà local projections, and traces creditor-specific news effects with event-study and difference-in-differences specifications."
