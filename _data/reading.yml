@@ -9644,3 +9644,11 @@
     auctions generate much larger winning discounts but can worsen cost overruns and completion delays
     when bids are not credible, while stronger bid screening can protect performance at the cost of
     longer award delays.
+- title: "Lewis and Bajari (QJE, 2011) - Procurement Contracting with Time Incentives: Theory and Evidence"
+  file: "https://www.dropbox.com/scl/fi/4fp4hq1eoogcmp0a2uaz6/Lewis_Bajari_QJE_2011.pdf?rlkey=l9vgxlkpxsez6lwhxo19hiypn&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies Caltrans highway procurement contracts that use A+B
+    bidding to make contractors compete on both dollar bids and completion days, combining theory,
+    program evaluation, contractor participation, acceleration-cost estimation, and counterfactual
+    policy simulations to show that time incentives substantially reduce completion times and commuter
+    delay costs, with welfare gains that often exceed the increase in procurement bids.
