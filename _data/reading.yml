@@ -9511,3 +9511,11 @@
     switching regressions, SBA-threshold regression discontinuity, propensity-score matching, VC
     reputation splits, input-channel decompositions, and exit regressions to show that VCs both screen
     more productive firms and add post-investment operating value.
+- title: "Einav, Finkelstein, and Schrimpf (QJE, 2015) - The Response of Drug Expenditure to Nonlinear Contract Design: Evidence from Medicare Part D"
+  file: "https://www.dropbox.com/scl/fi/8e5qtxysmlbrq699klpi0/Einav_Finkelstein_Schrimpf_QJE_2015.pdf?rlkey=9vcg02f23t9qqmyyeyl6p0z5m&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Medicare Part D claim data, donut-hole kinks, bunching
+    evidence, within-year timing, drug-type heterogeneity, a weekly dynamic model of prescription fills,
+    latent health types, simulated minimum distance, gap-filling counterfactuals, anticipatory behavior,
+    and cross-year substitution to show that nonlinear insurance contracts affect spending far beyond a
+    static spot-price elasticity.
