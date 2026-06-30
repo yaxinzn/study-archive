@@ -9713,3 +9713,12 @@
     post-earnings-announcement drift tests to show that high-delay stocks earn large return premia that
     are better explained by investor neglect and limited recognition than by standard liquidity measures
     alone.
+- title: "Chordia, Subrahmanyam, and Anshuman (JFE, 2001) - Trading Activity and Expected Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/m8zr6tpsv710poikmv6h3/Chordia_Subrahmanyam_Anshuman_JFE_2001.pdf?rlkey=jdx8s69m698ro0yt1lkw75x2d&dl=0"
+  desc: >-
+    This note summarizes the paper, which asks whether the level and variability of trading activity
+    explain expected returns, using NYSE and AMEX stocks from 1966 to 1995, dollar volume, turnover,
+    coefficients of variation of trading activity, Fama-French risk-adjusted returns, monthly
+    Fama-MacBeth regressions, business-cycle adjustments, Nasdaq robustness, nonlinear controls,
+    past-return interactions, and analyst-following tests to document the puzzling result that higher
+    variability of dollar volume or turnover predicts lower expected returns.
