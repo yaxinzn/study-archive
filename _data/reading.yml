@@ -9722,3 +9722,11 @@
     Fama-MacBeth regressions, business-cycle adjustments, Nasdaq robustness, nonlinear controls,
     past-return interactions, and analyst-following tests to document the puzzling result that higher
     variability of dollar volume or turnover predicts lower expected returns.
+- title: "Brennan, Chordia, and Subrahmanyam (JFE, 1998) - Alternative Factor Specifications, Security Characteristics, and the Cross-Section of Expected Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/9yn273nexpqh5h4bojhat/Brennan_Chordia_Subrahmanyam_JFE_1998.pdf?rlkey=fs0bqk5v4c8m3gvi0qz8ljfvk&dl=0"
+  desc: >-
+    This note summarizes the paper, which tests whether firm characteristics explain individual-stock
+    risk-adjusted returns after alternative factor adjustments, comparing Connor-Korajczyk statistical
+    factors with Fama-French factors and using size, book-to-market, price, dividend yield, dollar
+    volume, lagged returns, Nasdaq listing, raw and purged Fama-MacBeth estimators, and exchange-split
+    regressions to show that momentum and trading-volume effects survive both factor specifications.
