@@ -9503,3 +9503,11 @@
     measures, studying acquirer and target selection, pair formation, product-market relatedness, and
     withdrawn-bid treatment effects to show that technological overlap predicts merger matching and
     improves postmerger innovation output.
+- title: "Chemmanur, Krishnan, and Nandy (RFS, 2011) - How Does Venture Capital Financing Improve Efficiency in Private Firms? A Look Beneath the Surface"
+  file: "https://www.dropbox.com/scl/fi/4bmhup1qacg5iamoizvtf/Chemmanur_Krishnan_Nandy_RFS_2011.pdf?rlkey=4dqqvxg39ryjpbg6u94q6a4k1&dl=0"
+  desc: >-
+    This note summarizes the paper, which matches VentureXpert VC rounds to Census LRD manufacturing
+    data, estimates plant-level and firm-level TFP, and uses fixed-effects event studies, endogenous
+    switching regressions, SBA-threshold regression discontinuity, propensity-score matching, VC
+    reputation splits, input-channel decompositions, and exit regressions to show that VCs both screen
+    more productive firms and add post-investment operating value.
