@@ -9687,3 +9687,12 @@
     holding periods, country-neutral and size-neutral designs, factor adjustments, event-time payoffs,
     and U.S.-European comovement evidence to show that momentum is a broad international stock-level
     phenomenon rather than a U.S.-only data-mining result.
+- title: "George and Hwang (JF, 2004) - The 52-Week High and Momentum Investing"
+  file: "https://www.dropbox.com/scl/fi/azejtkhnr510a88zu92ku/George_Hwang_JF_2004.pdf?rlkey=ifqmjuepxoqcdafnbsiw0ctva&dl=0"
+  desc: >-
+    This note summarizes the paper, which introduces the ratio of current price to the prior 52-week
+    high as a momentum signal, compares it with Jegadeesh-Titman individual-stock momentum and
+    Moskowitz-Grinblatt industry momentum, and uses nested portfolio sorts, Fama-MacBeth regressions,
+    January splits, embedded-capital-gain controls, 52-week-low tests, and dynamic risk adjustments to
+    show that proximity to the 52-week high dominates past returns as a predictor of future returns and
+    fits an anchoring-underreaction interpretation.
