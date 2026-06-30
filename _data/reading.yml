@@ -9519,3 +9519,11 @@
     latent health types, simulated minimum distance, gap-filling counterfactuals, anticipatory behavior,
     and cross-year substitution to show that nonlinear insurance contracts affect spending far beyond a
     static spot-price elasticity.
+- title: "Morales, Sheu, and Zahler (RES, 2019) - Extended Gravity"
+  file: "https://www.dropbox.com/scl/fi/ovdivxegyuw2nm91h65j0/Morales_Sheu_Zahler_RES_2019.pdf?rlkey=hc4q3d32k2cuheqvgxvvmvfmo&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies Chilean chemicals exporters with a dynamic
+    export-entry model, reduced-form mixed logits, extended-gravity variables based on similarity to
+    prior destinations, one-period-deviation moment inequalities, flexible information and consideration
+    sets, and firm-group-year unobservables to show that experience in similar markets substantially
+    reduces sunk costs of entering new export destinations.
