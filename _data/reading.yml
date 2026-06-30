@@ -9661,3 +9661,12 @@
     reclassification bias, entry and exit, sector and state composition, and initial-size measurement to
     show that large employers expand relatively more in tight labor markets and contract relatively more
     when unemployment is high.
+- title: "Schmieder, von Wachter, and Bender (AER, 2016) - The Effect of Unemployment Benefits and Nonemployment Durations on Wages"
+  file: "https://www.dropbox.com/scl/fi/msofzq4n1g0048i06hok6/Schmieder_VonWachter_Bender_AER_2016.pdf?rlkey=ce3acscb81h19g4izjv3j91ln&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses sharp age discontinuities in German unemployment
+    insurance benefit duration, administrative employment histories, regression-discontinuity estimates,
+    hazard and survival functions, conditional wage-path tests, and IV estimates to show that UI
+    extensions increase nonemployment duration but do not raise accepted wages through binding
+    reservation wages; instead, an additional month of nonemployment causally lowers reemployment wages
+    by worsening wage offers and match quality.

@@ -1,6 +1,16 @@
 # Auto-generated from first appearance in _data/reading.yml and git commit history.
 # Reading paper dates are derived from the first commit where each PDF appears in _data/reading.yml.
 - date: "2026-06-30"
+  title: "Reading: add/update Schmieder_VonWachter_Bender_AER_2016.pdf"
+- date: "2026-06-30"
+  title: "Reading: add/update Moscarini_PostelVinay_AER_2012.pdf"
+- date: "2026-06-30"
+  title: "Reading: add/update Lewis_Bajari_QJE_2011.pdf"
+- date: "2026-06-30"
+  title: "Reading: add/update Decarolis_AEJ_2014.pdf"
+- date: "2026-06-30"
+  title: "Reading: add/update Schwert_JF_1989.pdf"
+- date: "2026-06-30"
   title: "Reading: add/update Allcott_Rogers_AER_2014.pdf"
 - date: "2026-06-30"
   title: "Reading: add/update Chetty_Friedman_Saez_AER_2013.pdf"
