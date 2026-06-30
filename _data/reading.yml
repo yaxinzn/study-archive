@@ -9747,3 +9747,12 @@
     yield, default spread, term spread, multiple return horizons, cross-sectional slope tests, real
     returns, and out-of-sample forecasts to show that expected stock and bond returns share
     countercyclical predictable components tied to persistent and short-term business conditions.
+- title: "Campbell and Ammer (JF, 1993) - What Moves the Stock and Bond Markets? A Variance Decomposition for Long-Term Asset Returns"
+  file: "https://www.dropbox.com/scl/fi/onrh2hdz42bntauqz25em/Campbell_Ammer_JF_1993.pdf?rlkey=tsy7z29splfqdvv8ali5vmsvr&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes unexpected aggregate stock and long-term nominal
+    bond returns into news about future dividends, inflation, real interest rates, and future excess
+    returns, using postwar U.S. monthly data, log-linear stock and bond identities, a VAR state vector
+    with dividend-price, yield-spread, bill-rate, and return variables, and covariance decompositions to
+    show that stock returns are mainly driven by future expected stock-return news while nominal bonds
+    are driven by inflation and future bond-return news.
