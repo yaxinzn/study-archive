@@ -9468,3 +9468,13 @@
     costs, moral utility measures, and smart-default counterfactuals to show that the nudge is
     welfare-improving but only modestly once recipient private costs and heterogeneous willingness to
     pay are included.
+- title: "Hirshleifer, Hsu, and Li (JFE, 2013) - Innovative Efficiency and Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/4ccuadtbdrbnidrncp3pm/Hirshleifer_Hsu_Li_JFE_2013.pdf?rlkey=419ep6go5n8rf2f0pxt6vfb8f&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures innovative efficiency using patents scaled by R&D
+    capital and adjusted patent citations scaled by R&D spending, then uses operating-performance
+    regressions, market-valuation regressions, monthly return-predictability tests, portfolio sorts,
+    Efficient Minus Inefficient factors, attention and valuation-uncertainty splits, and standard risk
+    controls to show that firms that convert R&D into patents and citations more efficiently have better
+    fundamentals and higher future stock returns, consistent with delayed market incorporation of
+    innovation-productivity information.
