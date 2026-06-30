@@ -9559,3 +9559,11 @@
     firm and competitor innovation measures, tests firm growth and creative-destruction predictions,
     compares market-valued and citation-weighted patents, and constructs aggregate innovation indices
     that predict medium-run output and TFP growth.
+- title: "Matsa (QJE, 2011) - Competition and Product Quality in the Supermarket Industry"
+  file: "https://www.dropbox.com/scl/fi/au1o4il5nu44mi0x6yr04/Matsa_QJE_2011.pdf?rlkey=6kxww898uyzr8izzb3f87ovnp&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses confidential CPI microdata to measure supermarket
+    stockouts, links product availability to local competition and Consumer Reports quality ratings, and
+    exploits Walmart supercenter entry with market, firm, and store fixed effects, pretrend tests,
+    product-cancellation checks, distribution-channel placebo tests, and chain-versus-independent
+    heterogeneity to show that competition improves product availability.
