@@ -9670,3 +9670,12 @@
     extensions increase nonemployment duration but do not raise accepted wages through binding
     reservation wages; instead, an additional month of nonemployment causally lowers reemployment wages
     by worsening wage offers and match quality.
+- title: "Campbell and Shiller (JF, 1988) - Stock Prices, Earnings, and Expected Dividends"
+  file: "https://www.dropbox.com/scl/fi/tjakwd5odk9jwm7wflcz1/Campbell_Shiller_JF_1988.pdf?rlkey=6ko79rv1jl1a3d83qdc8bk340&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies whether aggregate U.S. stock prices, dividends, and
+    accounting earnings satisfy present-value restrictions, using annual S&P Composite data from 1871 to
+    1987, dividend-price ratios, long moving-average earnings-price ratios, long-horizon return
+    regressions, and VAR-implied dividend-price ratios to show that valuation ratios forecast
+    long-horizon returns and that stock prices are far too volatile to be explained by
+    constant-expected-return dividend news alone.
