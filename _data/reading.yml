@@ -9443,3 +9443,12 @@
     episode, and matching or synthetic-country comparisons to show that patent laws shape the direction
     of innovation by moving inventive effort toward patent-sensitive sectors such as machinery and away
     from sectors where secrecy, tacit knowledge, lead time, or specialized skills can protect returns.
+- title: "Galasso and Schankerman (QJE, 2015) - Patents and Cumulative Innovation: Causal Evidence from the Courts"
+  file: "https://www.dropbox.com/scl/fi/c9nmtdldihsmox1c39f51/Galasso_Schankerman_QJE_2015.pdf?rlkey=gtzb9orbbn948e1ekwctf4lov&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Federal Circuit patent invalidation cases, randomly
+    assigned three-judge panels, judge invalidity propensities as an instrument, later external patent
+    citations, technology-field heterogeneity, patentee size, citing-firm size, and noncitation
+    innovation outcomes to show that invalidating patent rights increases follow-on innovation
+    especially in complex and fragmented technology fields where licensing frictions are likely to block
+    cumulative innovation.
