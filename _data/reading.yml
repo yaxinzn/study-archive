@@ -9704,3 +9704,12 @@
     individual and industry momentum strategies, industry-neutral returns, random-industry benchmarks,
     DGTW adjustments, lead-lag tests, and Fama-MacBeth regressions to show that industry momentum is
     strong and that individual-stock momentum weakens substantially after removing industry effects.
+- title: "Hou and Moskowitz (RFS, 2005) - Market Frictions, Price Delay, and the Cross-Section of Expected Returns"
+  file: "https://www.dropbox.com/scl/fi/mu88odb6m21lz2h1l3hjp/Hou_Moskowitz_RFS_2005.pdf?rlkey=qrzollklngdi0agxsxjqwqsu0&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures price delay as the extent to which lagged market
+    returns explain a stock's current return, then uses weekly CRSP returns, portfolio shrinkage,
+    liquidity and attention proxies, Fama-MacBeth regressions, double sorts, anomaly interactions, and
+    post-earnings-announcement drift tests to show that high-delay stocks earn large return premia that
+    are better explained by investor neglect and limited recognition than by standard liquidity measures
+    alone.
