@@ -9945,3 +9945,10 @@
     specialize in observably riskier, more leveraged, lower-coverage, restructuring-oriented borrowers
     and offer contracts with higher spreads, longer maturities, and more frequent collateral or
     borrowing-base features.
+- title: "Boot and Thakor (IER, 1994) - Moral Hazard and Secured Lending in an Infinitely Repeated Credit Market Game"
+  file: "https://www.dropbox.com/scl/fi/952eurmovved67x8w1a3b/Boot_Thakor_IER_1994.pdf?rlkey=9z0zwwap680rmhg5s0xoch1bo&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a repeated credit-market model with moral hazard,
+    collateral, renegotiation-proofness, and borrower reputation, showing how costly collateral can
+    discipline borrowers in one-period lending while long-term relationships and selective-memory
+    contracts can reduce but not eliminate welfare losses from incentive problems.
