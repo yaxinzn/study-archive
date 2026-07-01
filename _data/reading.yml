@@ -9976,3 +9976,10 @@
     because long horizons, concentrated wealth, and reputational concerns reduce shareholder-bondholder
     conflicts, while family CEOs, especially descendants, can increase debt costs relative to outside
     CEOs.
+- title: "Giannetti and Laeven (JFE, 2012) - The Flight Home Effect: Evidence from the Syndicated Loan Market during Financial Crises"
+  file: "https://www.dropbox.com/scl/fi/5sqsyjbow0p62qxj5luxm/Giannetti_Laeven_JFE_2012.pdf?rlkey=kk699vwc8m1ejh9k3z7ihpiyi&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses syndicated loan data to show that international banks hit
+    by home-country banking stress tilt new lending back toward domestic borrowers, distinguishing
+    flight home from flight to quality with bank-country-month portfolio shares, fixed effects,
+    borrower-country controls, bank specialization, syndicate composition, and crisis-shock measures.
