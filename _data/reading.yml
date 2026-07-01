@@ -9877,3 +9877,10 @@
     controls, matching designs, and robustness tests to show that most foreign firms invest less in
     internal governance than comparable U.S. firms and that negative governance gaps are associated with
     lower firm value.
+- title: "Campbell and Hentschel (JFE, 1992) - No News Is Good News: An Asymmetric Model of Changing Volatility in Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/2p3itf4zbshju8cyre7fp/Campbell_Hentschel_JFE_1992.pdf?rlkey=myrlli8rtprnqrjcbnw4s1lzs&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines the Campbell-Shiller return decomposition with a
+    QGARCH dividend-news process and volatility feedback, showing that increases in expected volatility
+    raise required returns and lower current prices, amplifying bad news, dampening good news, producing
+    asymmetric returns, and explaining why periods with little news can be good news for stock prices.
