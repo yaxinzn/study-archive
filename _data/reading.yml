@@ -9788,3 +9788,10 @@
     dollar and that the effect is strongest when assets are industry-specific, peer buyers are illiquid,
     or potential buyers are scarce, consistent with a fire-sales channel beyond ordinary industry
     downturns.
+- title: "DiNardo, Fortin, and Lemieux (Econometrica, 1996) - Labor Market Institutions and the Distribution of Wages, 1973-1992: A Semiparametric Approach"
+  file: "https://www.dropbox.com/scl/fi/pbxoq64wat1z6p6nkqqor/DiNardo_Fortin_Lemieux_Econometrica_1996.pdf?rlkey=0mu88x7zub6ltnbvz8t32zxed&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops reweighted kernel counterfactual wage-density
+    decompositions to study the entire U.S. wage distribution, showing that the decline in the real
+    minimum wage and de-unionization explain large portions of the rise in inequality, especially in the
+    lower tail and for women, while supply-demand shifts remain important but incomplete.
