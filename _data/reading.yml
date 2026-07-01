@@ -9845,3 +9845,10 @@
     and future performance, showing that CEOs receive higher pay when governance appears weaker, while
     ownership-based monitoring lowers pay, and that the governance-predicted excess compensation
     component forecasts poorer subsequent operating performance and stock returns.
+- title: "Hermalin and Weisbach (AER, 1998) - Endogenously Chosen Boards of Directors and Their Monitoring of the CEO"
+  file: "https://www.dropbox.com/scl/fi/5yblt3fg5cw3awezw30b7/Hermalin_Weisbach_AER_1998.pdf?rlkey=d8t747itrprpr0kudq6kpwh1m&dl=0"
+  desc: >-
+    This note summarizes the paper, which models board independence, CEO monitoring, and CEO turnover as
+    jointly endogenous outcomes of bargaining between the CEO and directors, showing that strong
+    perceived CEO ability reduces board independence and monitoring, while poor performance can lead to
+    more independent director additions and greater turnover-performance sensitivity.
