@@ -9884,3 +9884,10 @@
     QGARCH dividend-news process and volatility feedback, showing that increases in expected volatility
     raise required returns and lower current prices, amplifying bad news, dampening good news, producing
     asymmetric returns, and explaining why periods with little news can be good news for stock prices.
+- title: "Gennotte and Leland (AER, 1990) - Market Liquidity, Hedging, and Crashes"
+  file: "https://www.dropbox.com/scl/fi/ggkmupvkwdlkkbp962hkd/Gennotte_Leland_AER_1990.pdf?rlkey=cakuss6uflfaiksk492s20kea&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a rational-expectations model in which prices both
+    clear markets and transmit information, showing that when liquidity or hedging sales are not
+    directly observed, investors infer bad news from falling prices, so relatively small dynamic-hedging
+    demands can create large price declines and even discontinuous crash-like equilibria.
