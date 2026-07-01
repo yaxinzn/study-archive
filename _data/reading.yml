@@ -9756,3 +9756,11 @@
     with dividend-price, yield-spread, bill-rate, and return variables, and covariance decompositions to
     show that stock returns are mainly driven by future expected stock-return news while nominal bonds
     are driven by inflation and future bond-return news.
+- title: "Villalonga and Amit (JFE, 2006) - How Do Family Ownership, Control, and Management Affect Firm Value?"
+  file: "https://www.dropbox.com/scl/fi/bev1mfiikny7stube3n15/Villalonga_Amit_JFE_2006.pdf?rlkey=bs3qhwetepozfpm4d0jzcxbrq&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses detailed proxy-statement and ownership data for Fortune
+    500 firms to separate family ownership, family control, and family management, showing that founder
+    involvement is associated with higher firm value, especially when founders are CEOs or chairmen with
+    hired CEOs, while descendant CEOs and control-enhancing mechanisms such as dual-class shares can
+    reduce value by increasing conflicts between controlling families and minority shareholders.
