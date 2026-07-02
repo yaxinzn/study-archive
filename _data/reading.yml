@@ -10227,3 +10227,12 @@
     trials, and marketing to show that agents who fail to discount repeated information overweight
     well-connected voices and that multidimensional disagreement can collapse endogenously into a single
     left-right opinion dimension.
+- title: "Bala and Goyal (Econometrica, 2000) - A Noncooperative Model of Network Formation"
+  file: "https://www.dropbox.com/scl/fi/zklos78kok25bp4bvrmoz/Bala_Goyal_Econometrica_2000.pdf?rlkey=e7d3omyzb1qzgs5fo79ngy2n3&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a noncooperative model in which agents unilaterally
+    choose costly links to access nonrival information, compares one-way and two-way flow, characterizes
+    Nash, strict Nash, efficient, and dynamically selected networks, and adds decay in indirect
+    information flows to show how decentralized best-response dynamics select wheels, center-sponsored
+    stars, flowers, and linked stars depending on link sponsorship, benefit direction, link costs, and
+    distance decay.
