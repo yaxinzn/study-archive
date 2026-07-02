@@ -10148,3 +10148,12 @@
     same-route comparisons, and profitability restrictions from a peak-load-pricing alternative to show
     that multiproduct stations set wider service-quality price menus than single-product stations,
     providing evidence of price discrimination even in a multifirm retail market.
+- title: "Busse, Silva-Risso, and Zettelmeyer (AER, 2006) - $1,000 Cash Back: The Pass-Through of Auto Manufacturer Promotions"
+  file: "https://www.dropbox.com/scl/fi/cm25jllkfszu356rb0pqb/Busse_SilvaRisso_Zettelmeyer_AER_2006.pdf?rlkey=f6s8d8oyqudbyyjaasqbmigdx&dl=0"
+  desc: >-
+    This note summarizes the paper, which matches California automobile transaction data to manufacturer
+    promotion records and uses difference-in-differences, regression-discontinuity, promotion-length,
+    market-condition, and customer-type checks to compare customer cash with dealer cash, showing that
+    buyers capture about 70-90 percent of advertised customer rebates but only about 30-40 percent of
+    less visible dealer incentives, so information and salience break nominal-incidence invariance in
+    negotiated auto markets.
