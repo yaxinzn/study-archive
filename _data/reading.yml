@@ -10175,3 +10175,11 @@
     counterfactuals to show that forward-looking consumers delay purchases when prices are expected to
     fall and quality to improve, making dynamic demand essential for sensible elasticities and welfare
     measurement in new durable-goods markets.
+- title: "Feenstra (AER, 1994) - New Product Varieties and the Measurement of International Prices"
+  file: "https://www.dropbox.com/scl/fi/sb7d08sgd965faems01d0/Feenstra_AER_1994.pdf?rlkey=ej29pgq1bd43lk30kg4awzo6q&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives an exact CES import-price index with entering,
+    disappearing, and quality-changing varieties, estimates product-level substitution elasticities from
+    country-supplier panels using demand and supply restrictions, and applies the method to U.S.
+    manufactured imports and bullion checks to show that variety-corrected indexes rise more slowly than
+    conventional indexes and explain part, but not all, of high estimated import income elasticities.
