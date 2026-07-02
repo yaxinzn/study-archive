@@ -10140,3 +10140,11 @@
     regressions to study within-carrier fare inequality, showing that fare dispersion is large and rises
     with competition, falls with route density, rises with airport dominance, and only partly reflects
     peak-load costs, consistent with competitive price discrimination in airline markets.
+- title: "Shepard (JPE, 1991) - Price Discrimination and Retail Configuration"
+  file: "https://www.dropbox.com/scl/fi/nz6hyqpbaq2gighntozdt/Shepard_JPE_1991.pdf?rlkey=egcu9irnnsimwmqo1nmznb1qr&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Boston-area gasoline station microdata, full-service and
+    self-service retail configurations, baseline price regressions, station controls, local-market and
+    same-route comparisons, and profitability restrictions from a peak-load-pricing alternative to show
+    that multiproduct stations set wider service-quality price menus than single-product stations,
+    providing evidence of price discrimination even in a multifirm retail market.
