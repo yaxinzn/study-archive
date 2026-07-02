@@ -10209,3 +10209,12 @@
     patent-value hazards, showing that patents are record-breaking draws against an advancing frontier,
     so power spillovers and Pareto search can reconcile rising research effort with flat patenting and
     stable productivity growth while implying a high social return to research.
+- title: "Aghion, Harris, Howitt, and Vickers (REStud, 2001) - Competition, Imitation and Growth with Step-by-Step Innovation"
+  file: "https://www.dropbox.com/scl/fi/t1ezu1zbdtv4gdhnxxxat/Aghion_Harris_Howitt_Vickers_RES_2001.pdf?rlkey=qm15icdx40rvlf3p8j6ud3zlu&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a Schumpeterian step-by-step innovation model with
+    duopolistic industries, incumbent R&D, product-market substitutability, imitation hazards, Bellman
+    equations, steady-state technology-gap distributions, analytical limiting cases, and numerical
+    growth surfaces to show that competition usually raises growth by strengthening escape-competition
+    incentives, while imitation is inverse-U shaped because moderate catch-up creates neck-and-neck
+    races but excessive imitation destroys appropriability.
