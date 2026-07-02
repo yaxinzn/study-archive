@@ -10131,3 +10131,12 @@
     general-equilibrium example to show that booms can destabilize collusion because high current demand
     raises the short-run gain from cheating more than future punishment, forcing lower sustainable
     prices or price wars in high-demand states.
+- title: "Borenstein and Rose (JPE, 1994) - Competition and Price Dispersion in the U.S. Airline Industry"
+  file: "https://www.dropbox.com/scl/fi/mheoz8mo7w4um0p92imsm/Borenstein_Rose_JPE_1994.pdf?rlkey=vpc74my8jpiw2ttvhsyig57vs&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a 10 percent sample of U.S. airline tickets,
+    carrier-route Gini coefficients of fares paid, route concentration, flight density, endpoint
+    dominance, tourist-market proxies, capacity-utilization controls, carrier effects, and IV/GLS
+    regressions to study within-carrier fare inequality, showing that fare dispersion is large and rises
+    with competition, falls with route density, rises with airport dominance, and only partly reflects
+    peak-load costs, consistent with competitive price discrimination in airline markets.
