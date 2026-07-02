@@ -10183,3 +10183,12 @@
     country-supplier panels using demand and supply restrictions, and applies the method to U.S.
     manufactured imports and bullion checks to show that variety-corrected indexes rise more slowly than
     conventional indexes and explain part, but not all, of high estimated import income elasticities.
+- title: "McCallum (AER, 1995) - National Borders Matter: Canada-U.S. Regional Trade Patterns"
+  file: "https://www.dropbox.com/scl/fi/62p7makbxpy0djjysyhyn/McCallum_AER_1995.pdf?rlkey=dcha17pf25xzrlbw5czoh0iz5&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses 1988 Canadian interprovincial shipments, Canada-U.S.
+    province-state trade flows, GDP, distance, an interprovincial border dummy, gravity regressions,
+    borderless shipment counterfactuals, and specification and econometric robustness checks to show
+    that Canadian provinces trade more than twenty times as much with each other as with otherwise
+    comparable U.S. states, implying that national borders remain powerful trade frictions even between
+    similar economies.
