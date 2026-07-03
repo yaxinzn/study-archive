@@ -4164,7 +4164,14 @@
   desc: "This note summarizes the paper, which uses shipment-level Panjiva bill-of-lading data matched to Compustat/CRSP to construct a firm-level import country-concentration (Herfindahl) vulnerability measure, forms value-weighted portfolios sorted on industry-demeaned concentration to build a trade-risk factor (high-concentration importers minus zero-trade firms), and shows this factor earns large and robust alphas that survive five-factor, industry-neutral/within-industry, technology controls, and is especially salient around trade-war/COVID/tariff episodes—implying global supply-chain fragility is a priced systematic risk."
 - title: "Li (RES, 2018) - Better Lucky Than Rich? Welfare Analysis of Automobile Licence Allocations in Beijing and Shanghai"
   file: "https://www.dropbox.com/scl/fi/8i60uwean1c2rajr4w0ws/Li_RES_2018.pdf?rlkey=qywl12z7lxnseqp5kauolelfl&dl=0"
-  desc: "This note summarizes the paper, which estimates a random-coefficients automobile demand model for four Chinese cities and leverages Shanghai’s license-auction bids (car price + bid) plus common-trend, income-share micro moments, and quota-matching moments to recover households’ WTP for a license, then conducts a welfare comparison showing Beijing’s nontransferable lottery reduces externalities but generates far larger allocative losses than a uniform-price auction (with large implied auction revenues)."
+  desc: >-
+    This note summarizes the paper, which compares Beijing's non-transferable vehicle-licence lottery
+    with Shanghai's licence auction using monthly automobile sales, vehicle attributes, nearby-city
+    controls, household income distributions, micro moments from buyer surveys, a random-coefficients
+    vehicle-demand model, inferred licence willingness-to-pay schedules, externality estimates, and
+    quota counterfactuals to show that lotteries reduce congestion and pollution externalities relative
+    to auctions but create much larger allocative losses because scarce licences are not assigned to
+    high-WTP households.
 - title: "Falck, Gold, and Heblich (AER, 2014) - E-lections: Voting Behavior and the Internet"
   file: "https://www.dropbox.com/scl/fi/dkx7m3qo0yfrya3hit6r2/Falck_Gold_Heblich_AER_2014.pdf?rlkey=mnrbviq1a83yykaneocpe95ci&dl=0"
   desc: "This note summarizes the paper, which identifies the causal effect of broadband Internet on political participation in Germany by instrumenting municipal DSL availability with predetermined quirks of the preexisting telephone network (the 4,200-meter copper-distance cutoff, “no closer MDF” constraints, and East German OPAL fiber areas), estimating first-difference IV regressions across election cycles and showing that early broadband access reduced voter turnout—especially in nonlocal (federal/state) elections—through a media-substitution mechanism that crowds out TV and increases entertainment time without robustly shifting party vote shares."
