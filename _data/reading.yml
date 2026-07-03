@@ -10303,3 +10303,13 @@
     conventional risk factors do not price carry returns and that the missing peso state is better
     interpreted as a high-marginal-utility state with only moderate carry-trade losses rather than an
     unobserved catastrophic currency crash.
+- title: "Lustig and Verdelhan (AER, 2007) - The Cross Section of Foreign Currency Risk Premia and Consumption Growth Risk"
+  file: "https://www.dropbox.com/scl/fi/o53a2v0ijgjgpguy7obg1/Lustig_Verdelhan_AER_2007.pdf?rlkey=ryudtch927o33paw3lyxapnrk&dl=0"
+  desc: >-
+    This note summarizes the paper, which sorts currencies into eight portfolios by interest-rate
+    differentials, estimates U.S. consumption-risk pricing models with nondurable consumption, durable
+    consumption, and market returns, examines exchange-rate consumption betas, developed-country and
+    post-Bretton-Woods robustness, and managed portfolio tests to show that high-interest-rate
+    currencies earn high average excess returns because they depreciate in bad U.S. consumption-growth
+    states, while low-interest-rate currencies hedge those states, although the fitted models require
+    high implied risk aversion.
