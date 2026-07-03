@@ -10381,3 +10381,12 @@
     momentum premia are pervasive, same-style strategies comove globally, value and momentum hedge each
     other, and a global market-value-momentum model explains much of the cross section although
     liquidity risk explains only part of the common structure.
+- title: "Kozak, Nagel, and Santosh (JF, 2018) - Interpreting Factor Models"
+  file: "https://www.dropbox.com/scl/fi/apk6f1ycu6n5j3y236qhu/Kozak_Nagel_Santosh_JF_2018.pdf?rlkey=c50ilj7edytac0qj3a7rfusx5&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies reduced-form factor models through minimum-variance
+    SDF logic, maximum Sharpe-ratio bounds, principal components of anomaly and size-value portfolios,
+    out-of-sample tests, a sentiment-investor model, and analyst forecast-bias evidence to show that
+    low-dimensional factor pricing follows from strong covariance structure and no-near-arbitrage even
+    when expected returns originate from sentiment or distorted beliefs, so successful factor models do
+    not by themselves distinguish rational risk compensation from behavioral mispricing.
