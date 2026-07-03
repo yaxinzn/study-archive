@@ -10399,3 +10399,13 @@
     tests quarterly, long-horizon, VAR, and out-of-sample forecasts to show that high cay predicts high
     real and excess stock returns at business-cycle horizons and captures countercyclical expected risk
     premia beyond traditional financial predictors.
+- title: "Benguria, Garcia-Marin, and Schmidt-Eisenlohr (JFE, 2026) - Trade Credit and Relationships"
+  file: "https://www.dropbox.com/scl/fi/umipiw3yzf3xb9rufk73s/Benguria_Garcia_Marin_Schmidt_Eisenlohr_JFE_2026.pdf?rlkey=uom7gdcvzcbeacaonit5vfnqk&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses transaction-level Colombian import data with
+    importer-exporter identifiers, payment terms, product information, balance-sheet data, matched
+    Chile-Colombia exporter data, relationship fixed effects, transition matrices, nonlinear
+    relationship-age patterns, and heterogeneity by importer risk, multinational status, exporter size,
+    rule of law, and product complexity to show that trade credit use rises with relationship length as
+    trading partners learn about reliability, making long-term trade relationships an important source
+    of supplier financing.
