@@ -10313,3 +10313,12 @@
     currencies earn high average excess returns because they depreciate in bad U.S. consumption-growth
     states, while low-interest-rate currencies hedge those states, although the fitted models require
     high implied risk aversion.
+- title: "Fama and French (JFE, 2015) - A Five-Factor Asset Pricing Model"
+  file: "https://www.dropbox.com/scl/fi/l3czz2e3p5zwdb1upm3mr/Fama_French_JFE_2015.pdf?rlkey=i43whr6u6wbjhm9g31k7qos5s&dl=0"
+  desc: >-
+    This note summarizes the paper, which augments the market, size, and value factors with
+    profitability and investment factors motivated by dividend-discount logic, tests the model on size,
+    book-to-market, profitability, and investment portfolios, compares alternative factor constructions,
+    GRS tests, intercept metrics, and HML redundancy regressions to show that the five-factor model
+    improves on the three-factor model but is still rejected, makes HML largely redundant, and fails
+    most visibly for small firms with weak profitability and aggressive investment.
