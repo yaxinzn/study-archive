@@ -10331,3 +10331,13 @@
     anomaly profits are much larger after high-sentiment months primarily because short-leg stocks
     subsequently underperform, supporting a broad sentiment-driven overpricing interpretation of many
     anomalies.
+- title: "Lewellen, Nagel, and Shanken (JFE, 2010) - A Skeptical Appraisal of Asset Pricing Tests"
+  file: "https://www.dropbox.com/scl/fi/ld82esf7z1dvqgvhcp1q3/Lewellen_Nagel_Shanken_JFE_2010.pdf?rlkey=mss8dhmaevzxjbt5bmzjjqs20&dl=0"
+  desc: >-
+    This note summarizes the paper, which critiques cross-sectional asset-pricing tests based mainly on
+    the 25 size-book-to-market portfolios, using factor-structure arguments, artificial factors,
+    sampling-error simulations, OLS versus GLS R-squared comparisons, slope and zero-beta-rate
+    diagnostics, traded-factor restrictions, expanded test assets, and confidence intervals to show that
+    many proposed factors can appear successful mechanically when test assets have a strong
+    low-dimensional covariance structure, so asset-pricing tests need tougher diagnostics than high OLS
+    cross-sectional fit.
