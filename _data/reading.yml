@@ -10284,3 +10284,13 @@
     CES-BEA and incumbent-variety price indexes likely understate inflation because quality, variety,
     and expenditure-weight errors offset each other, and that correcting only quality or new varieties
     without fixing weights can worsen total price-index bias.
+- title: "Kelly, Pruitt, and Su (JFE, 2019) - Characteristics are Covariances: A Unified Model of Risk and Return"
+  file: "https://www.dropbox.com/scl/fi/q9q9gtj4t5oua40q7gv2q/Kelly_Pruitt_Su_JFE_2019.pdf?rlkey=1xi0knw0w51t8rarw7bebsrc4&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops instrumented principal component analysis using stock
+    characteristics as instruments for time-varying factor loadings, stock-level returns, 36
+    characteristics, managed portfolios, alternating least squares, characteristic-alpha tests,
+    observable-factor comparisons, PCA benchmarks, and split-sample validation to show that a small set
+    of latent IPCA factors explains characteristic-related expected returns better than leading
+    observable factor models, with most characteristic premia behaving like dynamic covariance exposures
+    rather than standalone anomaly alphas.
