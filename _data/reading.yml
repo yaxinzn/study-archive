@@ -10294,3 +10294,12 @@
     of latent IPCA factors explains characteristic-related expected returns better than leading
     observable factor models, with most characteristic premia behaving like dynamic covariance exposures
     rather than standalone anomaly alphas.
+- title: "Burnside, Eichenbaum, Kleshchelski, and Rebelo (RFS, 2011) - Do Peso Problems Explain the Returns to the Carry Trade?"
+  file: "https://www.dropbox.com/scl/fi/avquamqflyhx9jx5v3z2b/Burnside_Eichenbaum_Kleshchelski_Rebelo_RFS_2011.pdf?rlkey=dgffda9ynojnkrlmh3fvr6py9&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses spot and forward exchange rates, currency options, hedged
+    and unhedged carry-trade payoffs, standard linear SDF tests, Fama-French and consumption-factor
+    benchmarks, peso-state no-arbitrage restrictions, and stock-option hedge comparisons to show that
+    conventional risk factors do not price carry returns and that the missing peso state is better
+    interpreted as a high-marginal-utility state with only moderate carry-trade losses rather than an
+    unobserved catastrophic currency crash.
