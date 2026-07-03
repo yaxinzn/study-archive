@@ -10341,3 +10341,13 @@
     many proposed factors can appear successful mechanically when test assets have a strong
     low-dimensional covariance structure, so asset-pricing tests need tougher diagnostics than high OLS
     cross-sectional fit.
+- title: "Barroso and Santa-Clara (JFE, 2015) - Momentum Has Its Moments"
+  file: "https://www.dropbox.com/scl/fi/0qkz2pyb0oedtqsbuq9gm/Barroso_SantaClara_JFE_2015.pdf?rlkey=nb8csfsxic0xintbk81id5i2z&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies equity momentum crashes, realized variance from daily
+    returns, volatility persistence, volatility-state performance, inverse-volatility scaling,
+    transaction-cost checks, market-versus-specific risk decomposition, beta-hedging comparisons, and
+    international robustness to show that momentum risk is highly predictable and that a simple
+    real-time volatility-managed momentum strategy sharply reduces crash risk, improves skewness and
+    kurtosis, and nearly doubles the Sharpe ratio, making the momentum anomaly cleaner rather than
+    explained away.
