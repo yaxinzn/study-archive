@@ -10361,3 +10361,13 @@
     return decompositions to show that assets with positive own past returns continue to outperform over
     one- to 12-month horizons and that a diversified time-series momentum factor earns large abnormal
     returns while performing well in extreme market states.
+- title: "Novy-Marx (JFE, 2013) - The Other Side of Value: The Gross Profitability Premium"
+  file: "https://www.dropbox.com/scl/fi/n237121j62s8nh3zgd31v/NovyMarx_JFE_2013.pdf?rlkey=uj216o0cln4evkjk4nihy8zx8&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses gross profits-to-assets, Fama-MacBeth regressions,
+    portfolio sorts, large-cap and international tests, value-profitability double sorts, conditional
+    value and profitability factors, industry-adjusted factors, and anomaly-pricing exercises to show
+    that gross profitability predicts average returns with power comparable to book-to-market, that
+    profitable firms often look like growth stocks and hedge value strategies, and that combining
+    profitability with value substantially improves the investment opportunity set and explains many
+    earnings-related anomalies.
