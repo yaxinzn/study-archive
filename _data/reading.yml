@@ -10419,3 +10419,13 @@
     increases startup growth, fundraising, employment, assets, and technology adoption even for mostly
     unfunded firms, while lowering continuation through an up-or-out effect and operating partly through
     learning and digital capability building.
+- title: "Bonelli (RFS, 2026) - Data-Driven Investors"
+  file: "https://www.dropbox.com/scl/fi/883h8i653ay9ergnfzsdl/Bonelli_RFS_2026.pdf?rlkey=1nhfy9u2mkyj0t15b0gd63pdk&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies venture capitalists' adoption of data technologies
+    using employee job histories, Crunchbase investment data, backward-similarity measures from startup
+    descriptions, follow-on, major-success, patent, citation, and fund-performance outcomes, event-style
+    adoption specifications, and an Amazon Web Services exposure design to show that data-driven VCs
+    scale up and improve screening for familiar, frequent outcomes but shift capital toward historically
+    comparable startups, reduce rare major successes and innovation, and leave fund performance roughly
+    unimpaired.
