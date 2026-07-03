@@ -10351,3 +10351,13 @@
     real-time volatility-managed momentum strategy sharply reduces crash risk, improves skewness and
     kurtosis, and nearly doubles the Sharpe ratio, making the momentum anomaly cleaner rather than
     explained away.
+- title: "Moskowitz, Ooi, and Pedersen (JFE, 2012) - Time Series Momentum"
+  file: "https://www.dropbox.com/scl/fi/5nj7v0tl44qwi7ne2b8hy/Moskowitz_Ooi_Pedersen_JFE_2012.pdf?rlkey=4uwl5233uq3sjezzj5jqm35lm&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses 58 liquid futures and forwards across commodities, equity
+    indexes, sovereign bonds, and currencies, volatility-scaled excess returns, own-past-return
+    predictive regressions, diversified trend-following portfolios, factor regressions, crisis-state
+    performance, cross-sectional momentum decompositions, CFTC trader positions, VARs, and spot-roll
+    return decompositions to show that assets with positive own past returns continue to outperform over
+    one- to 12-month horizons and that a diversified time-series momentum factor earns large abnormal
+    returns while performing well in extreme market states.
