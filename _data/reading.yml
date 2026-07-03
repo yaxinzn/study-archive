@@ -10275,3 +10275,12 @@
     but reallocates activity toward large skill-intensive firms, raises the skill premium, lowers
     low-skill wages, hurts many small-firm owners, and can reduce consumption-equivalent welfare because
     inequality costs dominate efficiency gains.
+- title: "Argente, Hsieh, and Lee (WP, 2026) - Inferring Prices from Quantities"
+  file: "https://www.dropbox.com/scl/fi/9w4tky1y3o8ygmpiucdb3/Argente_Hsieh_Lee_WP_2026.pdf?rlkey=sqn90ytmmn3rm5qyc38tt95im&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a CES demand-based method for inferring aggregate
+    inflation from expenditure shares, residual-demand diagnostics, and zero-residual-demand chosen
+    products, then applies it to BEA PCE categories and NielsenIQ barcode data to show that conventional
+    CES-BEA and incumbent-variety price indexes likely understate inflation because quality, variety,
+    and expenditure-weight errors offset each other, and that correcting only quality or new varieties
+    without fixing weights can worsen total price-index bias.
