@@ -10532,3 +10532,12 @@
     CEOs with stronger shareholder-aligned equity incentives performed worse, cash bonuses and
     option-risk incentives do not robustly explain losses, and CEOs generally did not sell out before
     suffering large personal portfolio losses.
+- title: "Ellul and Yerramilli (JF, 2013) - Stronger Risk Controls, Lower Risk: Evidence from U.S. Bank Holding Companies"
+  file: "https://www.dropbox.com/scl/fi/8d8xnu1fh7ru8vy8el5rk/Ellul_Yerramilli_JF_2013.pdf?rlkey=h48olb9m7jwa45e4gxr7ap1n0&dl=0"
+  desc: >-
+    This note summarizes the paper, which hand-constructs a Risk Management Index for large U.S. bank
+    holding companies from CRO status, CRO compensation and seniority, and board risk-committee
+    expertise and activity, then uses 1995-2010 panel data, crisis-period tail-risk and performance
+    outcomes, Russian-crisis learning evidence, instrumental variables, and dynamic panel GMM to show
+    that stronger and more independent risk controls predict lower tail risk, fewer nonperforming loans,
+    better ROA, and better stock performance, especially during the financial crisis.
