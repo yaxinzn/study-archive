@@ -10598,3 +10598,13 @@
     Heckman, and robustness checks to show that country characteristics explain far more governance
     variation than firm characteristics, especially outside developed and globally integrated capital
     markets.
+- title: "Aggarwal, Erel, Ferreira, and Matos (JFE, 2011) - Does Governance Travel around the World? Evidence from Institutional Investors"
+  file: "https://www.dropbox.com/scl/fi/n113akul4m3s1va7uwgrf/Aggarwal_Erel_Ferreira_Matos_JFE_2011.pdf?rlkey=k6684f3vz6lodus3mxsrivklk&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines RiskMetrics GOV41 firm-level governance attributes
+    with FactSet/LionShares institutional holdings for firms in 23 countries, decomposes ownership by
+    domestic versus foreign, common-law versus civil-law, and independent versus gray institutions, and
+    uses panel regressions, firm fixed effects, changes regressions, reverse-causality tests,
+    CEO-turnover and Tobin's Q outcomes, IV specifications, and U.S. comparisons to show that foreign
+    institutional investors, especially those from strong-governance countries, help transmit better
+    governance practices abroad.
