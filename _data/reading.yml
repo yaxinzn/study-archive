@@ -10633,3 +10633,13 @@
     satellite AOD pollution to show that credible PM2.5 information raised awareness, induced avoidance
     and defensive spending, weakened the mortality-pollution gradient, and generated health benefits far
     exceeding program costs.
+- title: "Barwick, Li, Waxman, Wu, and Xia (AER, 2024) - Efficiency and Equity Impacts of Urban Transportation Policies with Equilibrium Sorting"
+  file: "https://www.dropbox.com/scl/fi/5o8t0jydve0tysebim6q6/Barwick_Li_Waxman_Wu_Xia_AER_2024.pdf?rlkey=pkkifjn1qznncjdp8b1er6rx0&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates an equilibrium residential-sorting and commuting
+    model for Beijing using household travel diaries, housing transactions, mortgage records with home
+    and work locations, mode-choice parameters, endogenous congestion, subway access, and heterogeneous
+    values of time to compare driving restrictions, congestion pricing, subway expansion, and policy
+    bundles, showing that sorting amplifies congestion pricing, weakens subway expansion's congestion
+    gains, makes driving restrictions welfare-reducing, and favors combining congestion pricing with
+    subway expansion.
