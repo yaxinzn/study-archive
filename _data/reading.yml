@@ -10371,3 +10371,13 @@
     profitable firms often look like growth stocks and hedge value strategies, and that combining
     profitability with value substantially improves the investment opportunity set and explains many
     earnings-related anomalies.
+- title: "Asness, Moskowitz, and Pedersen (JF, 2013) - Value and Momentum Everywhere"
+  file: "https://www.dropbox.com/scl/fi/azblctykmupi62r0so5qt/Asness_Moskowitz_Pedersen_JF_2013.pdf?rlkey=zhplrjt28unptpa1qnbbbbyuu&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs uniform value and momentum strategies across U.S.,
+    U.K., European, and Japanese stocks, country equity index futures, currencies, government bonds, and
+    commodities, studies cross-asset correlations, principal components, cumulative returns, macro and
+    funding-liquidity risks, global pricing tests, and implementation robustness to show that value and
+    momentum premia are pervasive, same-style strategies comove globally, value and momentum hedge each
+    other, and a global market-value-momentum model explains much of the cross section although
+    liquidity risk explains only part of the common structure.
