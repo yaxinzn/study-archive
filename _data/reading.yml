@@ -10390,3 +10390,12 @@
     low-dimensional factor pricing follows from strong covariance structure and no-near-arbitrage even
     when expected returns originate from sentiment or distorted beliefs, so successful factor models do
     not by themselves distinguish rational risk compensation from behavioral mispricing.
+- title: "Lettau and Ludvigson (JF, 2001) - Consumption, Aggregate Wealth, and Expected Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/dp3wsmx7ihs6naki90gly/Lettau_Ludvigson_JF_2001.pdf?rlkey=op98xvrj463y0bxltxpcmkqxs&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives the consumption-wealth ratio from the aggregate budget
+    constraint, proxies unobserved human capital with labor income, estimates the cointegrating
+    deviation cay from consumption, asset wealth, and labor income using dynamic least squares, and
+    tests quarterly, long-horizon, VAR, and out-of-sample forecasts to show that high cay predicts high
+    real and excess stock returns at business-cycle horizons and captures countercyclical expected risk
+    premia beyond traditional financial predictors.
