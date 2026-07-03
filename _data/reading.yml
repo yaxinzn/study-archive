@@ -10236,3 +10236,12 @@
     information flows to show how decentralized best-response dynamics select wheels, center-sponsored
     stars, flowers, and linked stars depending on link sponsorship, benefit direction, link costs, and
     distance decay.
+- title: "Chen, Hsieh, and Song (AEJ Macro, 2026) - Non-Tariff Barriers in the U.S.-China Trade War"
+  file: "https://www.dropbox.com/scl/fi/wh33m0tek70piaag7m292/Chen_Hsieh_Song_AEJMacro_2026.pdf?rlkey=0nszobzkgb3shw9yii6jdhhhr&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Chinese customs data, official tariff schedules,
+    product-source-country import residuals, state versus non-state importer splits, nested CES welfare
+    calculations, and robustness checks on pre-trends, quality shifts, alternative elasticities, and
+    placebo periods to show that China used large, targeted, ownership-specific non-tariff barriers
+    during the U.S.-China trade war, especially against U.S. agriculture, and that these opaque barriers
+    explain roughly half of the import decline but almost all of the Chinese consumer welfare loss.
