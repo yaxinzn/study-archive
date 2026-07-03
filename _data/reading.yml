@@ -10560,3 +10560,13 @@
     raised sovereign CDS, after which sovereign CDS changes fed back into bank CDS even after
     controlling for bank equity returns, credit-market conditions, foreign sovereign exposure, ratings
     support, heterogeneity, and bank fixed effects, documenting a bank-sovereign risk loop.
+- title: "Brunnermeier and Oehmke (JF, 2013) - The Maturity Rat Race"
+  file: "https://www.dropbox.com/scl/fi/iqe192fn817gnfvousi16/Brunnermeier_Oehmke_JF_2013.pdf?rlkey=6zf3ksnmqbzlwiq13q3zsp075&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a theory of excessive short-term debt based on
+    borrowers' inability to commit to aggregate maturity structure, bilateral contracting, rollover
+    debt, dilution of long-term creditors, interim signals about default probability versus recovery,
+    successive maturity unraveling, covenant and seniority comparisons, and welfare analysis to show
+    that creditors race toward shorter maturities when rollover claims can reprice after bad news,
+    creating inefficient rollover risk, underinvestment, and a rationale for maturity or liquidity
+    regulation.
