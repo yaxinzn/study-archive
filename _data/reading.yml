@@ -10570,3 +10570,12 @@
     that creditors race toward shorter maturities when rollover claims can reprice after bad news,
     creating inefficient rollover risk, underinvestment, and a rationale for maturity or liquidity
     regulation.
+- title: "Repullo and Suarez (RFS, 2013) - The Procyclical Effects of Bank Capital Regulation"
+  file: "https://www.dropbox.com/scl/fi/cfu98dk3nepi5lbcpcla1/Repullo_Suarez_RFS_2013.pdf?rlkey=1clq1coqohrx3t29sq9pq66pr&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds and calibrates a dynamic relationship-lending model
+    with costly bank equity, borrower lock-in, endogenous capital buffers, state-dependent default
+    distributions, laissez-faire, Basel I, Basel II, and optimal capital-requirement regimes to show
+    that risk-sensitive Basel II requirements increase credit rationing in recessions relative to flat
+    Basel I requirements but reduce bank failure probabilities, so welfare depends on the social cost of
+    bank failure and supports higher capital levels with buffers that are less cyclically volatile.
