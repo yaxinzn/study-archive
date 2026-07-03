@@ -10551,3 +10551,12 @@
     of bank regulation on risk depend strongly on ownership structure, so the same capital, insurance,
     or activity rule can stabilize widely held banks while increasing risk at banks controlled by large
     shareholders.
+- title: "Acharya, Drechsler, and Schnabl (JF, 2014) - A Pyrrhic Victory? Bank Bailouts and Sovereign Credit Risk"
+  file: "https://www.dropbox.com/scl/fi/64bequidshgsld4djgt53/Acharya_Drechsler_Schnabl_JF_2014.pdf?rlkey=hr5xzulqakxvnpvlm2413iek1&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a model of bank bailouts, tax distortions, sovereign
+    debt dilution, government guarantees, and bank sovereign-bond holdings, then uses European bank and
+    sovereign CDS data around the 2008 bailout wave to show that bailouts initially lowered bank CDS and
+    raised sovereign CDS, after which sovereign CDS changes fed back into bank CDS even after
+    controlling for bank equity returns, credit-market conditions, foreign sovereign exposure, ratings
+    support, heterogeneity, and bank fixed effects, documenting a bank-sovereign risk loop.
