@@ -10322,3 +10322,12 @@
     GRS tests, intercept metrics, and HML redundancy regressions to show that the five-factor model
     improves on the three-factor model but is still rejected, makes HML largely redundant, and fails
     most visibly for small firms with weak profitability and aggressive investment.
+- title: "Stambaugh, Yu, and Yuan (JFE, 2012) - The Short of It: Investor Sentiment and Anomalies"
+  file: "https://www.dropbox.com/scl/fi/fjtilqibflfe8hpyjgfhw/Stambaugh_Yu_Yuan_JFE_2012.pdf?rlkey=2wupf8lakxicdco6do1lndwx0&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines market-wide investor sentiment, short-sale-impediment
+    logic, Baker-Wurgler and Michigan sentiment measures, 11 anomaly portfolios, Fama-French-adjusted
+    long and short legs, predictive regressions, factor-spread tests, and macro controls to show that
+    anomaly profits are much larger after high-sentiment months primarily because short-leg stocks
+    subsequently underperform, supporting a broad sentiment-driven overpricing interpretation of many
+    anomalies.
