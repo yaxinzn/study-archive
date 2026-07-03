@@ -10541,3 +10541,13 @@
     outcomes, Russian-crisis learning evidence, instrumental variables, and dynamic panel GMM to show
     that stronger and more independent risk controls predict lower tail risk, fewer nonperforming loans,
     better ROA, and better stock performance, especially during the financial crisis.
+- title: "Laeven and Levine (JFE, 2009) - Bank Governance, Regulation, and Risk Taking"
+  file: "https://www.dropbox.com/scl/fi/rcpzm14tyvs6xb5oeo2e4/Laeven_Levine_JFE_2009.pdf?rlkey=ttvh5nvrgp4ombdie7iq4f08n&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies large publicly listed privately owned banks across 48
+    countries, measuring largest-owner cash-flow rights, board and managerial ownership, z-scores,
+    equity and earnings volatility, deposit insurance, capital stringency, activity restrictions, and
+    supervisory power to show that banks with more powerful owners take more risk and that the effects
+    of bank regulation on risk depend strongly on ownership structure, so the same capital, insurance,
+    or activity rule can stabilize widely held banks while increasing risk at banks controlled by large
+    shareholders.
