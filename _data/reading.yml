@@ -10681,3 +10681,13 @@
     independent institutions prefer large, visible, liquid, widely held, and well-governed firms and are
     associated with higher Tobin’s Q, better operating performance, and lower capital expenditures,
     consistent with credible monitoring by less conflicted investors.
+- title: "Karolyi and Taboada (JF, 2015) - Regulatory Arbitrage and Cross-Border Bank Acquisitions"
+  file: "https://www.dropbox.com/scl/fi/h8fpwzmvcjizmtkel0w96/Karolyi_Taboada_JF_2015.pdf?rlkey=8heqdkxwb53mdxcmvguzlbocr&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies global domestic and cross-border bank acquisitions
+    using deal-level SDC data, bank-regulation indexes, gravity-style acquisition-flow regressions, PPML
+    estimators, announcement-return tests, merger-control checks, push-versus-pull decompositions, IV,
+    and simulated-method-of-moments robustness to show that cross-border bank deals tend to involve
+    acquirers from more strongly regulated countries buying targets in weaker regimes, and that target
+    and aggregate announcement returns are higher in such deals, supporting a benign
+    regulatory-arbitrage or bonding interpretation rather than a pure race to the bottom.
