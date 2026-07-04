@@ -10774,3 +10774,12 @@
     robustness, showing that standard determinants explain only a modest share of spread changes and
     that residuals contain a strong common corporate-bond-market factor consistent with segmentation or
     local supply-demand shocks.
+- title: "Vuolteenaho (JF, 2002) - What Drives Firm-Level Stock Returns?"
+  file: "https://www.dropbox.com/scl/fi/inc2wnabxdaptm53hn2fe/Vuolteenaho_JF_2002.pdf?rlkey=satktt81zwi0ojv6ertxbuikv&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses an accounting-based present-value identity, firm-level
+    VARs, profitability and return state variables, market-adjusted and excess-return decompositions,
+    size splits, impulse responses, approximation checks, and horizon robustness to decompose unexpected
+    firm returns into cash-flow news and expected-return news, showing that individual stock returns are
+    driven mainly by cash-flow news even though expected-return news is more important for small firms
+    and aggregate portfolios.
