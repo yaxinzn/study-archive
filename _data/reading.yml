@@ -10783,3 +10783,12 @@
     firm returns into cash-flow news and expected-return news, showing that individual stock returns are
     driven mainly by cash-flow news even though expected-return news is more important for small firms
     and aggregate portfolios.
+- title: "Chen and Zhao (RFS, 2009) - Return Decomposition"
+  file: "https://www.dropbox.com/scl/fi/v3bzhkvogd8wu909b61pr/Chen_Zhao_RFS_2009.pdf?rlkey=b40pexbh1auvk5qkwpg89jlts&dl=0"
+  desc: >-
+    This note summarizes the paper, which critiques residual-based Campbell-Shiller return
+    decompositions by showing that estimating discount-rate news from persistent VAR predictors and
+    labeling the residual as cash-flow news can turn model error into apparent cash-flow news, using
+    Treasury bonds as a diagnostic, equity variance decompositions, beta patterns, alternative state
+    variables, direct cash-flow modeling, Bayesian model averaging, and principal components to show
+    that conclusions about cash-flow and discount-rate risk are highly specification-sensitive.
