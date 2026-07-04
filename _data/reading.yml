@@ -10729,3 +10729,12 @@
     about a five-dollar market-value increase for each additional dollar invested, helping explain
     volatile stock prices, slow price-dividend mean reversion, return predictability, and a volatile
     equity premium.
+- title: "Liu, Whited, and Zhang (JPE, 2009) - Investment-Based Expected Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/fmniek0qhxzezkqfzlqly/Liu_Whited_Zhang_JPE_2009.pdf?rlkey=cptx70a5pxyiw82v4jnvgle48&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives stock returns from firms’ investment Euler equations
+    under q-theory, constructs levered investment returns from sales-to-capital, investment-to-capital,
+    investment growth, depreciation, leverage, taxes, and bond returns, estimates a two-parameter model
+    by GMM, and tests SUE, book-to-market, and investment portfolios to show that real investment policy
+    explains many cross-sectional expected-return patterns on average, while joint matching of returns
+    and variances leaves important time-series correlation puzzles.
