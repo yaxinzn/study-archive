@@ -10801,3 +10801,13 @@
     timing, the value and beta of growth options, and expected returns, producing a competition premium
     whose sign and state dependence depend on irreversibility, production costs, demand states, and the
     interaction between growth options and assets in place.
+- title: "Bustamante and Donangelo (RFS, 2017) - Product Market Competition and Industry Returns"
+  file: "https://www.dropbox.com/scl/fi/ag9hblp0bqh94j05v5o9v/Bustamante_Donangelo_RFS_2017.pdf?rlkey=6a48nwv1faqc15i3c3z0u3d8f&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops and tests a dynamic industry-equilibrium model
+    linking Cournot competition, entry threats, operating leverage, markups, endogenous concentration,
+    and systematic risk to expected returns, and uses Census-based HHI, NBER/CES markups, adjusted
+    Compustat measures, valuation regressions, and operating-leverage conditioning to show that firms in
+    less competitive industries generally have higher expected returns, especially when operating
+    leverage is lower, because entry threats and risk feedback complicate simple competition-return
+    intuition.
