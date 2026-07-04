@@ -10765,3 +10765,12 @@
     default losses explain only a small share of observed spreads, state taxes explain a substantial
     part, and the remaining component behaves like compensation for systematic risk rather than purely
     actuarial default insurance.
+- title: "Collin-Dufresne, Goldstein, and Martin (JF, 2001) - The Determinants of Credit Spread Changes"
+  file: "https://www.dropbox.com/scl/fi/og9qyxlndjdwwni5pr4mk/CollinDufresne_Goldstein_Martin_JF_2001.pdf?rlkey=vazhw69ho1ekohiq5yyqmf9ji&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies monthly corporate bond credit-spread changes with
+    structural-model proxies for leverage, risk-free rates, yield-curve slope, volatility, jump risk,
+    and business climate, plus liquidity, macro, equity-factor, transaction-price, and simulation
+    robustness, showing that standard determinants explain only a modest share of spread changes and
+    that residuals contain a strong common corporate-bond-market factor consistent with segmentation or
+    local supply-demand shocks.
