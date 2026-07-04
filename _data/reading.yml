@@ -10792,3 +10792,12 @@
     Treasury bonds as a diagnostic, equity variance decompositions, beta patterns, alternative state
     variables, direct cash-flow modeling, Bayesian model averaging, and principal components to show
     that conclusions about cash-flow and discount-rate risk are highly specification-sensitive.
+- title: "Aguerrevere (JF, 2009) - Real Options, Product Market Competition, and Asset Returns"
+  file: "https://www.dropbox.com/scl/fi/k1n048503wibui731t88q/Aguerrevere_JF_2009.pdf?rlkey=sljsa81v4c7ac1lxy89nspl9e&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a real-options model of irreversible capacity
+    investment under Cournot product-market competition, stochastic demand, assets in place, growth
+    options, operating leverage, and risk-neutral valuation to show that competition changes investment
+    timing, the value and beta of growth options, and expected returns, producing a competition premium
+    whose sign and state dependence depend on irreversibility, production costs, demand states, and the
+    interaction between growth options and assets in place.
