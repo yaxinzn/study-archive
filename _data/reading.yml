@@ -10738,3 +10738,12 @@
     by GMM, and tests SUE, book-to-market, and investment portfolios to show that real investment policy
     explains many cross-sectional expected-return patterns on average, while joint matching of returns
     and variances leaves important time-series correlation puzzles.
+- title: "Merton (JF, 1974) - On the Pricing of Corporate Debt: The Risk Structure of Interest Rates"
+  file: "https://www.dropbox.com/scl/fi/vwsoxd3wnz1h17t63k01b/Merton_JF_1974.pdf?rlkey=cl5kll4lmmjv8feyd7gem0ltw&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops the structural contingent-claims model of corporate
+    debt by treating firm value as the underlying asset, equity as a European call option, risky
+    zero-coupon debt as riskless debt minus a put, and credit spreads as functions of leverage, asset
+    volatility, maturity, and the risk-free rate, thereby deriving the risk structure of interest rates
+    without relying on the firm’s expected return or investor risk preferences and extending the logic
+    to coupon and callable debt.
