@@ -10756,3 +10756,12 @@
     indirectly through higher default premia, because lower refinancing prices impose rollover losses on
     equity holders and induce earlier default, with stronger amplification for shorter-maturity and
     lower-rated firms.
+- title: "Elton, Gruber, Agrawal, and Mann (JF, 2001) - Explaining the Rate Spread on Corporate Bonds"
+  file: "https://www.dropbox.com/scl/fi/kwv1q84znhxebzj7hgrgn/Elton_Gruber_Agrawal_Mann_JF_2001.pdf?rlkey=mrfgubt9mwhrf6yiokq5xg85i&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes investment-grade corporate bond spot-rate spreads
+    over Treasuries using Lehman bond prices, Nelson-Siegel spot curves, rating transition matrices,
+    recovery rates, state-tax adjustments, and Fama-French factor regressions to show that expected
+    default losses explain only a small share of observed spreads, state taxes explain a substantial
+    part, and the remaining component behaves like compensation for systematic risk rather than purely
+    actuarial default insurance.
