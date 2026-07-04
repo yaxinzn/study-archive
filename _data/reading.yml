@@ -10747,3 +10747,12 @@
     volatility, maturity, and the risk-free rate, thereby deriving the risk structure of interest rates
     without relying on the firm’s expected return or investor risk preferences and extending the logic
     to coupon and callable debt.
+- title: "He and Xiong (JF, 2012) - Rollover Risk and Credit Risk"
+  file: "https://www.dropbox.com/scl/fi/jmpu6dmj9nekb7gohgi2c/He_Xiong_JF_2012.pdf?rlkey=xn2dfy3jcslbiv3od3nqnmn6i&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a structural credit-risk model with stationary debt
+    maturity, endogenous default, rollover refinancing, and illiquid secondary bond markets to show that
+    deteriorating bond-market liquidity raises credit spreads directly through liquidity premia and
+    indirectly through higher default premia, because lower refinancing prices impose rollover losses on
+    equity holders and induce earlier default, with stronger amplification for shorter-maturity and
+    lower-rated firms.
