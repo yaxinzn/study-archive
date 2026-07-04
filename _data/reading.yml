@@ -10700,3 +10700,13 @@
     a flight to quality, shortfall risk and audit penalties become unlikely, so managers over-lend, push
     asset prices above fundamentals, and plant the seeds of a crisis, implying that high macro risk can
     paradoxically generate bubbles through abundant banking-sector liquidity.
+- title: "Kapadia and Pu (JFE, 2012) - Limited Arbitrage between Equity and Credit Markets"
+  file: "https://www.dropbox.com/scl/fi/tfxaprpn6fht7i0xtp5m5/Kapadia_Pu_JFE_2012.pdf?rlkey=quw82kk67le6sg282at8aalt2&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies short-horizon integration between equity and credit
+    markets using a Merton-model benchmark, CDS spread changes, stock returns, a
+    Kendall-correlation-style market-integration statistic, capital-structure convergence trades,
+    liquidity measures, idiosyncratic-risk controls, rating splits, and crisis-period interactions to
+    show that equity-credit pricing discrepancies are frequent, partially convergent, and most strongly
+    related to credit-market illiquidity and arbitrage risk rather than simple volatility or leverage
+    changes.
