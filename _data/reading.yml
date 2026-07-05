@@ -10848,3 +10848,12 @@
     explains much more earnings variation than firm heterogeneity, firm premia are small after
     accounting for worker composition, worker-firm sorting is strong, and past employers and low
     earnings realizations affect future mobility and wages.
+- title: "Kline, Saggio, and Sølvsten (Econometrica, 2020) - Leave-Out Estimation of Variance Components"
+  file: "https://www.dropbox.com/scl/fi/ryo39uqbj1q1iqjvg0owt/Kline_Saggio_Solvsten_Econometrica_2020.pdf?rlkey=764op7d75ve9138w4hdb5rgol&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops finite-sample unbiased leave-out estimators for
+    variance and covariance components in high-dimensional linear models with unrestricted
+    heteroscedasticity, provides scalable computation and inference for fixed and growing-rank settings,
+    and applies the method to Italian linked employer-employee data to show that plug-in and
+    homoscedasticity-only corrections overstate firm-effect variance while understating positive
+    worker-firm sorting.
