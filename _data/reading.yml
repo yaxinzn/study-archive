@@ -11062,3 +11062,11 @@
     nonnegligible bias, develops robust bias-corrected inference that subtracts leading bias and adjusts
     standard errors for bias-estimation uncertainty, and extends the approach to sharp RD, fuzzy RD,
     kink RD, and fuzzy kink designs with simulation evidence on improved coverage.
+- title: "Alvarez, Lippi, and Paciello (QJE, 2011) - Optimal Price Setting with Observation and Menu Costs"
+  file: "https://www.dropbox.com/scl/fi/q3jarw32xeim0va3o6ebk/Alvarez_Lippi_Paciello_QJE_2011.pdf?rlkey=s71suohdbp0m1ih6liu9zac51&dl=0"
+  desc: >-
+    This note summarizes the paper, which solves a price-setting problem with both observation costs and
+    menu costs, showing that reviews and price changes are complements, that low-inflation price-review
+    and adjustment statistics can be locally insensitive to inflation, and that the joint distribution
+    of review frequencies, adjustment frequencies, price-change sizes, and hazards can identify the
+    relative importance of observation and menu costs.
