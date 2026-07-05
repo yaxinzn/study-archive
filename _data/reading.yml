@@ -11165,3 +11165,11 @@
     scarce, that banks can block efficient liquidation when they are undercapitalized, and that
     government bailouts can improve allocation in systemic crises while creating forbearance and
     moral-hazard concerns.
+- title: "Farhi and Tirole (AER, 2012) - Collective Moral Hazard, Maturity Mismatch, and Systemic Bailouts"
+  file: "https://www.dropbox.com/scl/fi/0vy59g601smdy94gf3imi/Farhi_Tirole_AER_2012.pdf?rlkey=h7hj8h7glk0ns7yaezpvpkfh2&dl=0"
+  desc: >-
+    This note summarizes the paper, which models banks' liquidity choices, short-term debt, maturity
+    mismatch, strategic complementarities, correlated risk taking, and ex post interest-rate or transfer
+    bailouts to show that lack of government commitment creates collective moral hazard: banks choose
+    fragile, correlated balance sheets because systemic distress triggers support, motivating
+    macroprudential liquidity requirements and caps on short-term debt.
