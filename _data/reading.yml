@@ -11139,3 +11139,11 @@
     Glass-Steagall repeal, bailout-news events, and rare-disaster pricing logic to show that large banks
     earn abnormally low risk-adjusted returns because investors price an implicit bailout put that is
     strongest for the largest and most systemic banks.
+- title: "Brown and Dinç (RFS, 2011) - Too Many to Fail? Evidence of Regulatory Forbearance When the Banking Sector Is Weak"
+  file: "https://www.dropbox.com/scl/fi/9ub8ahk83r1t9tz8unhaj/Brown_Dinc_RFS_2011.pdf?rlkey=259w5g6h4qkn8hb129m8yrbim&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies bank exit in emerging markets using a competing-risk
+    hazard model, bank-level fundamentals, macro and crisis controls, system-wide weakness measures, and
+    too-big-to-fail comparisons to show that regulators are less likely to close weak banks when many
+    other banks are also weak, consistent with too-many-to-fail forbearance and systemic political or
+    fiscal costs of widespread bank closures.
