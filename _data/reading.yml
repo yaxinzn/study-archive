@@ -10978,3 +10978,12 @@
     large-scale macro policy effects, showing that a universal Abecedarian/CARE-style program generates
     much larger long-run welfare gains through intergenerational skill spillovers while also reducing
     lifetime earnings inequality and increasing mobility.
+- title: "Abaluck, Compiani, and Zhang (JPE, 2026) - A Method to Estimate Discrete Choice Models That Is Robust to Consumer Search"
+  file: "https://www.dropbox.com/scl/fi/8t2ay55mh3j27tedltn10/Abaluck_Compiani_Zhang_JPE_2026.pdf?rlkey=zbfwtzabbv9hjrlkpdch44vyg&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a derivative-based method for estimating
+    discrete-choice preferences when consumers may search selectively and fail to observe all
+    attributes, proving that ratios of second derivatives of choice probabilities can recover
+    full-information preferences under broad expected-utility search rules, then validating the method
+    in an e-book experiment and Expedia hotel-choice data to measure hidden-attribute preferences, test
+    full information, and evaluate information interventions.
