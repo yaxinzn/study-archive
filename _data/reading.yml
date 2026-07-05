@@ -11046,3 +11046,11 @@
     and heterogeneous priors to show that many forecast anomalies and disagreement patterns can arise
     without abandoning rationality, while short-horizon overreaction and disagreement are better matched
     by adding overconfidence or diagnostic expectations.
+- title: "Imbens and Kalyanaraman (RES, 2012) - Optimal Bandwidth Choice for the Regression Discontinuity Estimator"
+  file: "https://www.dropbox.com/scl/fi/x9wmciv8ssnt3u28dkrwd/Imbens_Kalyanaraman_RES_2012.pdf?rlkey=3ejfj4vbw01zhdz87g35dvbgo&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives an asymptotically mean-squared-error optimal bandwidth
+    for local linear sharp regression-discontinuity estimation, turns the infeasible rule into a
+    regularized plug-in algorithm using density, variance, and curvature estimates at the cutoff, and
+    illustrates the procedure with Lee's incumbency application and simulations showing that the rule
+    performs well and avoids unstable bandwidths when estimated curvature differences are small.
