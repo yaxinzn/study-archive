@@ -11095,3 +11095,12 @@
     evidence, and shows that the selection of highly mispriced firms into adjustment makes the aggregate
     price level respond quickly to monetary shocks, so menu costs alone generate much smaller and less
     persistent real effects than Calvo-style random adjustment models.
+- title: "Eom, Helwege, and Huang (RFS, 2004) - Structural Models of Corporate Bond Pricing: An Empirical Analysis"
+  file: "https://www.dropbox.com/scl/fi/nvevap3kkm1in7ofrmwwv/Eom_Helwege_Huang_RFS_2004.pdf?rlkey=bwgxwv3nueh9hqmeullvye9s3&dl=0"
+  desc: >-
+    This note summarizes the paper, which implements and compares five major structural corporate-bond
+    pricing models using corporate bond spreads, equity values, volatility, leverage, ratings, maturity,
+    and model-specific inputs, showing that simple models such as Merton and Geske tend to underpredict
+    spreads, richer models can sharply overpredict them, prediction errors are systematic rather than
+    random, and liquidity or omitted risk premia remain important for understanding corporate bond
+    prices.
