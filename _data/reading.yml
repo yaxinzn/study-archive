@@ -10857,3 +10857,12 @@
     and applies the method to Italian linked employer-employee data to show that plug-in and
     homoscedasticity-only corrections overstate firm-effect variance while understating positive
     worker-firm sorting.
+- title: "Meghir and Palme (AER, 2005) - Educational Reform, Ability, and Family Background"
+  file: "https://www.dropbox.com/scl/fi/s2cm8qza0tzhpk8hkwpkk/Meghir_Palme_AER_2005.pdf?rlkey=ablp5ykxp4kspp8cixdvd2xid&dl=0"
+  desc: >-
+    This note summarizes the paper, which evaluates Sweden’s comprehensive-school reform using
+    municipality-by-cohort difference-in-differences variation, individual ability and family-background
+    measures, education and adult-earnings outcomes, and robustness checks to show that extending
+    compulsory schooling and delaying tracking raised schooling and earnings for children from less
+    educated families, especially high-ability children, while lowering earnings for children from
+    highly educated families who lost access to the earlier selective academic track.
