@@ -10960,3 +10960,12 @@
     reallocation corrections to show that apparent evidence of large increasing or decreasing returns
     reflects aggregation over heterogeneous producers and input reallocation, leaving the private
     economy close to constant returns and manufacturing with only modest increasing returns.
+- title: "Basu, Fernald, and Kimball (AER, 2006) - Are Technology Improvements Contractionary?"
+  file: "https://www.dropbox.com/scl/fi/66sfpglu9t01g7b8ef1v3/Basu_Fernald_Kimball_AER_2006.pdf?rlkey=tqwsqakzewpu1o386wynjuvox&dl=0"
+  desc: >-
+    This note summarizes the paper, which separates true technology from measured TFP by estimating
+    industry production functions and correcting for utilization, returns to scale, markups, and
+    aggregation, showing that purified technology improvements reduce hours, utilization, employment,
+    total inputs, and nonresidential investment on impact while output rises only later, challenging
+    standard RBC models and supporting models with sticky prices, imperfect information, or delayed
+    demand responses.
