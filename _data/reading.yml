@@ -11012,3 +11012,12 @@
     estimate the effect of mortgage principal reduction on household distress, showing that cramdown
     protection sharply reduced three-year foreclosures and that the post-ban collapse of this effect
     points to debt overhang as a major driver of mortgage default.
+- title: "Aiello, Garmaise, and Nadauld (RFS, 2026) - What Problem Do Intermediaries Solve? Evidence From Real Estate Markets"
+  file: "https://www.dropbox.com/scl/fi/0wpqmbzwpb7oh4q9g12zi/Aiello_Garmaise_Nadauld_RFS_2026.pdf?rlkey=1sqblobs5dcrm4qvs2462vrqb&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses quasi-random display order of Zillow platform leads for
+    for-sale-by-owner and for-rent-by-owner properties to create variation in real estate agent
+    attention, showing that intermediary attention raises the probability of agent listing, quick sale,
+    and higher sale price for treated properties while reducing nearby listing and transaction activity,
+    consistent with agents solving property-level search, information, and behavioral frictions rather
+    than broad neighborhood information problems.
