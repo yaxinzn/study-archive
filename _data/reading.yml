@@ -11070,3 +11070,11 @@
     and adjustment statistics can be locally insensitive to inflation, and that the joint distribution
     of review frequencies, adjustment frequencies, price-change sizes, and hazards can identify the
     relative importance of observation and menu costs.
+- title: "Midrigan (Econometrica, 2011) - Menu Costs, Multiproduct Firms, and Aggregate Fluctuations"
+  file: "https://www.dropbox.com/scl/fi/5kku9odk2vi31avipzobb/Midrigan_Econometrica_2011.pdf?rlkey=a6lh9u2plksfdc7v4y0qjz1pi&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Dominick's scanner data, facts on dispersed price changes
+    and temporary sales, and a menu-cost model with multiproduct retailers, economies of scope in price
+    adjustment, fat-tailed idiosyncratic shocks, and separate regular and posted prices to show that
+    matching micro price facts weakens the Golosov-Lucas selection effect and gives monetary shocks real
+    effects close to those in a Calvo model.
