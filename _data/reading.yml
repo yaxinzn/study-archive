@@ -10839,3 +10839,12 @@
     inequality is largely associated with increased dispersion of average earnings across firms, driven
     mainly by sorting and segregation of high-earning workers rather than a broad rise in firm wage
     premia, with within-firm inequality growth concentrated in mega firms.
+- title: "Bonhomme, Lamadon, and Manresa (Econometrica, 2019) - A Distributional Framework for Matched Employer-Employee Data"
+  file: "https://www.dropbox.com/scl/fi/r5uljdwlaxkal6e6xzuk2/Bonhomme_Lamadon_Manresa_Econometrica_2019.pdf?rlkey=pjc9d0o08kbkravctfksr8vmp&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a distributional framework for matched
+    employer-employee data using latent firm classes, finite mixtures of worker types, earnings
+    distributions, dynamic mobility, and Swedish administrative data to show that worker heterogeneity
+    explains much more earnings variation than firm heterogeneity, firm premia are small after
+    accounting for worker composition, worker-firm sorting is strong, and past employers and low
+    earnings realizations affect future mobility and wages.
