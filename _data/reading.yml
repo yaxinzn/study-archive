@@ -11122,3 +11122,12 @@
     banks often opted out, Treasury approvals and rejections conveyed limited quality certification
     under CPP, SCAP conveyed more positive information, and common equity became especially valuable
     once preferred government capital was in place.
+- title: "Kelly, Lustig, and Van Nieuwerburgh (AER, 2016) - Too-Systemic-to-Fail: What Option Markets Imply about Sector-Wide Government Guarantees"
+  file: "https://www.dropbox.com/scl/fi/re9sea9v3dfg1a43m6w3m/Kelly_Lustig_VanNieuwerburgh_AER_2016.pdf?rlkey=ofp2vbkkh9u6ooy3kfnj3c7qz&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the basket-index spread between individual-bank put
+    options and financial-sector index put options, option-pricing benchmarks, implied correlations,
+    government-announcement event studies, technology-sector placebos, and individual-firm evidence to
+    show that option markets priced an implicit sector-wide government guarantee for financial firms
+    during the crisis, making aggregate financial-sector disaster insurance unusually cheap relative to
+    individual-firm insurance.
