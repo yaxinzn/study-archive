@@ -11054,3 +11054,11 @@
     regularized plug-in algorithm using density, variance, and curvature estimates at the cutoff, and
     illustrates the procedure with Lee's incumbency application and simulations showing that the rule
     performs well and avoids unstable bandwidths when estimated curvature differences are small.
+- title: "Calonico, Cattaneo, and Titiunik (Econometrica, 2014) - Robust Nonparametric Confidence Intervals for Regression-Discontinuity Designs"
+  file: "https://www.dropbox.com/scl/fi/7mnnxslp5czniqg143lzv/Calonico_Cattaneo_Titiunik_Econometrica_2014.pdf?rlkey=w7m8dbgcc11r89c028m46ub8u&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that conventional local-polynomial
+    regression-discontinuity confidence intervals undercover when MSE-optimal bandwidths leave
+    nonnegligible bias, develops robust bias-corrected inference that subtracts leading bias and adjusts
+    standard errors for bias-estimation uncertainty, and extends the approach to sharp RD, fuzzy RD,
+    kink RD, and fuzzy kink designs with simulation evidence on improved coverage.
