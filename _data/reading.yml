@@ -11131,3 +11131,11 @@
     show that option markets priced an implicit sector-wide government guarantee for financial firms
     during the crisis, making aggregate financial-sector disaster insurance unusually cheap relative to
     individual-firm insurance.
+- title: "Gandhi and Lustig (JF, 2015) - Size Anomalies in U.S. Bank Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/d1ybft00aw6brncb3whro/Gandhi_Lustig_JF_2015.pdf?rlkey=608fv9n8mdxthwds5p7pzusm9&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies size-sorted U.S. bank stock portfolios, standard
+    factor alphas, principal components, recession performance, regulatory-regime changes,
+    Glass-Steagall repeal, bailout-news events, and rare-disaster pricing logic to show that large banks
+    earn abnormally low risk-adjusted returns because investors price an implicit bailout put that is
+    strongest for the largest and most systemic banks.
