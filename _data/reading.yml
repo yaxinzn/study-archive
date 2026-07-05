@@ -11087,3 +11087,11 @@
     redistribution can raise or lower TFP by reallocating demand across distorted firms and supply
     chains, and applies the framework to U.S. input-output, production, consumption, and occupational
     earnings data from 1997 to 2021.
+- title: "Golosov and Lucas (JPE, 2007) - Menu Costs and Phillips Curves"
+  file: "https://www.dropbox.com/scl/fi/jbhurtinxt2mmcxbbi67y/Golosov_Lucas_JPE_2007.pdf?rlkey=5r7iz0usgo011bv1h5vtnjgh4&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a state-dependent monetary menu-cost model with
+    aggregate inflation and idiosyncratic productivity shocks, calibrates it to micro price-change
+    evidence, and shows that the selection of highly mispriced firms into adjustment makes the aggregate
+    price level respond quickly to monetary shocks, so menu costs alone generate much smaller and less
+    persistent real effects than Calvo-style random adjustment models.
