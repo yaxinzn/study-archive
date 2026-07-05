@@ -11104,3 +11104,12 @@
     spreads, richer models can sharply overpredict them, prediction errors are systematic rather than
     random, and liquidity or omitted risk premia remain important for understanding corporate bond
     prices.
+- title: "Veronesi and Zingales (JFE, 2010) - Paulson's Gift"
+  file: "https://www.dropbox.com/scl/fi/wb8z8vetb4cnsfahzc7um/Veronesi_Zingales_JFE_2010.pdf?rlkey=ay8obx4diovbjcxhitr1tmgen&dl=0"
+  desc: >-
+    This note summarizes the paper, which values the October 2008 Paulson/TARP intervention using
+    CDS-implied debt values, common and preferred equity event studies, taxpayer-cost calculations,
+    bank-run exposure measures, and a modified Merton model, showing that the plan created aggregate
+    value mainly by reducing bank-run and bankruptcy costs, that debt holders captured the largest
+    gains, that common shareholders did not uniformly benefit, and that alternative contract terms could
+    have shifted more surplus to taxpayers.
