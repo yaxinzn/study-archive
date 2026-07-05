@@ -11038,3 +11038,11 @@
     2003-2006, that this behavior is consistent with short-termism, and that counties more exposed to
     public banks experienced larger house-price, employment, consumption, and retail booms followed by
     sharper busts.
+- title: "Li, Van Nieuwerburgh, and Wang (RFS, 2026) - Understanding Rationality and Disagreement in House Price Expectations"
+  file: "https://www.dropbox.com/scl/fi/du6etwoa1xmqlya5rtpkc/Li_VanNieuwerburgh_Renxuan_RFS_2026.pdf?rlkey=ueh69ruu31ct49lx55qjpcm9j&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Zillow/Pulsenomics professional house-price forecasts and
+    a rational learning model with parameter uncertainty, latent housing states, heterogeneous signals,
+    and heterogeneous priors to show that many forecast anomalies and disagreement patterns can arise
+    without abandoning rationality, while short-horizon overreaction and disagreement are better matched
+    by adding overconfidence or diagnostic expectations.
