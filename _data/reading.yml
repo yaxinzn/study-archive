@@ -10995,3 +10995,12 @@
     exposure to trained coworkers, manager spillovers, and a structural hierarchy model to show that
     training raises trained-worker performance and creates large vertical spillovers by reducing
     workers' need for managerial help, freeing managers to perform higher-value strategic tasks.
+- title: "Hendershott, Khan, and Riordan (RFS, 2026) - Option Auctions"
+  file: "https://www.dropbox.com/scl/fi/dmogo0gqiwzqkcf4jbeyh/Hendershott_Khan_Riordan_RFS_2026.pdf?rlkey=orhmm7gim7kn7xepq3ltpfsqq&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses U.S. equity options markets, retail
+    payment-for-order-flow routing, auction versus continuous execution, effective spreads, price
+    improvement, market-maker revenues, and wholesaler routing dynamics to show that option auctions
+    deliver substantially better execution quality than continuous trading, but that competition often
+    operates through wholesalers' order-flow competition and execution-quality management rather than
+    many aggressive bidders inside every auction.
