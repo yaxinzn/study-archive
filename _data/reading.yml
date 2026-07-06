@@ -11240,3 +11240,11 @@
     profitability raises market-to-book ratios through a convexity effect, makes valuations decline with
     age as beliefs become more precise, helps explain high valuations of young and dividend-nonpaying
     firms, and predicts that younger firms should have more volatile returns.
+- title: "Brennan, Wang, and Xia (JF, 2004) - Estimation and Test of a Simple Model of Intertemporal Capital Asset Pricing"
+  file: "https://www.dropbox.com/scl/fi/ycxcf0o6mqicdf1rq2qh0/Brennan_Wang_Xia_JF_2004.pdf?rlkey=n1lkpvpg6vv3u6n8ga9kaoo6l&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a parsimonious intertemporal CAPM with a
+    time-varying real interest rate and Sharpe-ratio state variable using Kalman filtering on stock and
+    bond data, then tests the implied pricing equation on size, book-to-market, and industry portfolios,
+    showing that shocks to investment opportunities help price cross-sectional returns beyond the static
+    CAPM and provide an economically interpretable hedging-risk structure.
