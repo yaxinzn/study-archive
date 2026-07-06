@@ -11232,3 +11232,11 @@
     equity and variance risk premia into diffusive and jump components, and show that investor fears of
     rare left-tail events command large compensation, with risk-neutral jump intensities far above
     physical intensities and left-tail jump variation explaining a major share of variance risk premia.
+- title: "Pástor and Veronesi (JF, 2003) - Stock Valuation and Learning about Profitability"
+  file: "https://www.dropbox.com/scl/fi/xe3ktd4uj42hyemapn81i/Pastor_Veronesi_JF_2003.pdf?rlkey=i575ugybndm2lxjuh138wuaqy&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a stock-valuation model in which investors learn
+    about a firm’s average profitability from its profit history, showing that uncertainty about
+    profitability raises market-to-book ratios through a convexity effect, makes valuations decline with
+    age as beliefs become more precise, helps explain high valuations of young and dividend-nonpaying
+    firms, and predicts that younger firms should have more volatile returns.
