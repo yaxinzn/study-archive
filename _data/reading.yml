@@ -11366,3 +11366,11 @@
     inflation, bond yields, equity valuations, and return volatility to show that risk aversion drives
     most variation in equity prices and premia while uncertainty is central for the term structure and
     countercyclical return volatility.
+- title: "Mello and Parsons (JF, 1992) - Measuring the Agency Cost of Debt"
+  file: "https://www.dropbox.com/scl/fi/1svq90iz4rp1fhlhemqbf/Mello_Parsons_JF_1992.pdf?rlkey=kq1tp1s0sa42ft7xnvfe1peh0&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a contingent-claims model of a mine with stochastic
+    commodity prices, opening, closing, abandonment, taxes, and risky debt to measure agency costs of
+    debt as the value lost when equity holders choose levered operating policies that differ from
+    first-best policies, allowing tax benefits, inefficient continuation, abandonment, and reopening
+    distortions to be compared quantitatively.
