@@ -11287,3 +11287,11 @@
     and durable consumption, intraperiod substitution, and recursive preferences, then estimates Euler
     equations and cross-sectional pricing tests to show that durable consumption risk helps explain the
     equity premium, the value premium, and variation across industry book-to-market portfolios.
+- title: "Lettau and Wachter (JF, 2007) - Why Is Long-Horizon Equity Less Risky? A Duration-Based Explanation of the Value Premium"
+  file: "https://www.dropbox.com/scl/fi/uhs5iqiup35j8occn90ed/Lettau_Wachter_JF_2007.pdf?rlkey=m9ey85gh5j2sdjq1e0rnzb612&dl=0"
+  desc: >-
+    This note summarizes the paper, which models equity as a claim to cash flows of different durations
+    with a time-varying price of risk, showing that short-duration value stocks can be riskier than
+    long-duration growth stocks when discount-rate shocks are negatively related to future cash-flow
+    growth, thereby producing a value premium and explaining why market beta alone misses duration-based
+    risk differences.
