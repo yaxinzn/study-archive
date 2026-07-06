@@ -11358,3 +11358,11 @@
     premium—the gap between risk-neutral and physical expected variance—strongly predicts future
     aggregate stock-market excess returns, especially at quarterly horizons and beyond standard
     predictors.
+- title: "Bekaert, Engstrom, and Xing (JFE, 2009) - Risk, Uncertainty, and Asset Prices"
+  file: "https://www.dropbox.com/scl/fi/u5mpxf241qrht4p7p9ief/Bekaert_Engstrom_Xing_JFE_2009.pdf?rlkey=2zd5snl69nadji2sbzv8jzg7t&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates an external-habit asset-pricing model with separate
+    latent states for economic uncertainty and stochastic risk aversion, using consumption, dividends,
+    inflation, bond yields, equity valuations, and return volatility to show that risk aversion drives
+    most variation in equity prices and premia while uncertainty is central for the term structure and
+    countercyclical return volatility.
