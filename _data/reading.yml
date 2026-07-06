@@ -11280,3 +11280,10 @@
     on Fama-French portfolios to show that delayed consumption adjustment makes consumption risk much
     more successful in explaining the value premium, because returns forecast future consumption growth
     over business-cycle horizons.
+- title: "Yogo (JF, 2006) - A Consumption-Based Explanation of Expected Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/hz7gfwn7nj0yy04536v7b/Yogo_JF_2006.pdf?rlkey=8m81zplvl9jcwxqlpx715ryes&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a consumption-based asset-pricing model with nondurable
+    and durable consumption, intraperiod substitution, and recursive preferences, then estimates Euler
+    equations and cross-sectional pricing tests to show that durable consumption risk helps explain the
+    equity premium, the value premium, and variation across industry book-to-market portfolios.
