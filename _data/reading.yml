@@ -11295,3 +11295,11 @@
     long-duration growth stocks when discount-rate shocks are negatively related to future cash-flow
     growth, thereby producing a value premium and explaining why market beta alone misses duration-based
     risk differences.
+- title: "Santos and Veronesi (RFS, 2006) - Labor Income and Predictable Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/jgoltqbpgm0dp931fp0iy/Santos_Veronesi_RFS_2006.pdf?rlkey=rguaseqcmu1kbjvsvjnhnrtng&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops and tests an asset-pricing model in which the
+    labor-income share affects expected stock returns by changing the composition of aggregate wealth
+    and conditional market risk, showing that labor income helps forecast stock returns and that a
+    conditional CAPM using labor-share information can explain cross-sectional pricing patterns better
+    than unconditional models.
