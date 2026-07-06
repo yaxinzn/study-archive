@@ -11224,3 +11224,11 @@
     creditor classes, restructuring terms, exchange-offer costs, and stock-return evidence to show that
     private workouts are common and value-preserving when creditors can coordinate, especially when
     firms have high going-concern value, more bank debt, and fewer debt contracts.
+- title: "Bollerslev and Todorov (JF, 2011) - Tails, Fears, and Risk Premia"
+  file: "https://www.dropbox.com/scl/fi/g4rjxqipdusm8u8s4okou/Bollerslev_Todorov_JF_2011.pdf?rlkey=nmbvx5b3fvh994dycdjicsiqr&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines short-maturity out-of-the-money option prices with
+    high-frequency S&P 500 futures data to separate risk-neutral and statistical jump tails, decompose
+    equity and variance risk premia into diffusive and jump components, and show that investor fears of
+    rare left-tail events command large compensation, with risk-neutral jump intensities far above
+    physical intensities and left-tail jump variation explaining a major share of variance risk premia.
