@@ -11374,3 +11374,11 @@
     debt as the value lost when equity holders choose levered operating policies that differ from
     first-best policies, allowing tax benefits, inefficient continuation, abandonment, and reopening
     distortions to be compared quantitatively.
+- title: "Parrino and Weisbach (JFE, 1999) - Measuring Investment Distortions Arising from Stockholder-Bondholder Conflicts"
+  file: "https://www.dropbox.com/scl/fi/d86i2b6chwpfept819a6u/Parrino_Weisbach_JFE_1999.pdf?rlkey=zlff9k2ymb5rleb1zz3t5ub2j&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses simulations of levered firms to quantify
+    stockholder-bondholder investment distortions, showing that equityholders may reject safe
+    positive-NPV projects or accept risky negative-NPV projects, that the distortions rise with
+    leverage, maturity, and project risk, but that the magnitudes are usually too small to explain
+    observed capital structures by themselves.
