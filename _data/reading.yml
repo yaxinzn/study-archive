@@ -11507,3 +11507,12 @@
     short-sale constraints, fixed stock-market entry costs, Epstein-Zin preferences, and heterogeneity
     in risk aversion and EIS to explain how low participation and moderate conditional equity shares can
     coexist through endogenous selection into stockholding.
+- title: "Cocco, Gomes, and Maenhout (RFS, 2005) - Consumption and Portfolio Choice over the Life Cycle"
+  file: "https://www.dropbox.com/scl/fi/r3hmik8epw5a97acyx7ov/Cocco_Gomes_Maenhout_RFS_2005.pdf?rlkey=2ejz4hx2qm4arn88z1zrrdeee&dl=0"
+  desc: >-
+    This note summarizes the paper, which solves a calibrated life-cycle consumption and
+    portfolio-choice model with nontradable labor income, borrowing and short-sale constraints,
+    retirement, mortality, labor-income shocks, and welfare comparisons to show that future labor income
+    behaves like implicit bond-like human capital when weakly correlated with stock returns, making high
+    early-life stock shares and declining risky shares over the life cycle optimal, while severe
+    downside income risk can substantially reduce equity demand.
