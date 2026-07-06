@@ -11248,3 +11248,11 @@
     bond data, then tests the implied pricing equation on size, book-to-market, and industry portfolios,
     showing that shocks to investment opportunities help price cross-sectional returns beyond the static
     CAPM and provide an economically interpretable hedging-risk structure.
+- title: "Campbell and Vuolteenaho (AER, 2004) - Bad Beta, Good Beta"
+  file: "https://www.dropbox.com/scl/fi/2a3mndoxmeey9r9abhuc7/Campbell_Vuolteenaho_AER_2004.pdf?rlkey=n8qetyty9jo1um2zg3kykxlt5&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes market returns into cash-flow news and
+    discount-rate news using a VAR present-value identity, defines cash-flow beta as bad beta and
+    discount-rate beta as good beta, and shows that value stocks earn high returns because they have
+    larger exposure to bad cash-flow news, while growth stocks have more exposure to discount-rate news
+    that investors are more willing to bear.
