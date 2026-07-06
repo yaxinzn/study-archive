@@ -11334,3 +11334,11 @@
     that the technology cycle generates return predictability and consumption dynamics, and that
     cross-sectional differences between growth and value claims can arise from exposure to long-run
     technological growth risk.
+- title: "Drechsler and Yaron (RFS, 2011) - What’s Vol Got to Do with It"
+  file: "https://www.dropbox.com/scl/fi/d4vl0by49j86m63z05rn4/Drechsler_Yaron_RFS_2011.pdf?rlkey=m7xgqvgr3db97rgi240bw9oxq&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures the variance premium as the gap between
+    option-implied and expected realized variance, documents its strong return-predictive power, and
+    builds a long-run-risk model with stochastic volatility and jumps to show that time-varying
+    uncertainty and jump risk can jointly explain the variance premium, equity premium, risk-free rate,
+    and long-horizon predictability.
