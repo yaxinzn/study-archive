@@ -11256,3 +11256,11 @@
     discount-rate beta as good beta, and shows that value stocks earn high returns because they have
     larger exposure to bad cash-flow news, while growth stocks have more exposure to discount-rate news
     that investors are more willing to bear.
+- title: "Bansal, Dittmar, and Lundblad (JF, 2005) - Consumption, Dividends, and the Cross Section of Equity Returns"
+  file: "https://www.dropbox.com/scl/fi/dyqsjrmr84jixhm2mkwsl/Bansal_Dittmar_Lundblad_JF_2005.pdf?rlkey=bem4g8yhz07yl4ofmrjbmqrwt&dl=0"
+  desc: >-
+    This note summarizes the paper, which links the cross section of equity returns to long-run risks in
+    portfolio dividend growth, using return decompositions, dividend-growth VARs, consumption-growth
+    covariance measures, book-to-market and size portfolios, Monte Carlo evidence, and alternative
+    factor comparisons to show that portfolios whose cash flows are more exposed to long-run consumption
+    growth command higher average returns.
