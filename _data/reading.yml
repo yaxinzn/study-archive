@@ -11490,3 +11490,12 @@
     to post-bankruptcy leverage, debt type, collateral, covenants, and new equity issuance to show that
     firms with higher liquidation costs use less debt, less private and secured debt, fewer restrictive
     covenants, and more equity to preserve financial flexibility.
+- title: "Brav, Constantinides, and Geczy (JPE, 2002) - Asset Pricing with Heterogeneous Consumers and Limited Participation: Empirical Evidence"
+  file: "https://www.dropbox.com/scl/fi/9p11kxvyxx0itbgu2th1c/Brav_Constantinides_Geczy_JPE_2002.pdf?rlkey=9cqrwue1p3oac0sh1ojy7qfqf&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Consumer Expenditure Survey household consumption data,
+    household-level stochastic discount factors, Taylor expansions of cross-sectional consumption-growth
+    moments, asset-holder samples, equity-premium and value-premium tests, and bootstrap inference to
+    show that incomplete consumption insurance and household consumption-growth dispersion, especially
+    skewness, can explain major asset premia with relatively low risk aversion, while
+    limited-participation evidence is more fragile.
