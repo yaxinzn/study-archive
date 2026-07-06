@@ -11397,3 +11397,11 @@
     showing that past financing needs and stock-price movements have persistent but partially reversing
     effects on capital structure, consistent with firms drifting from targets and then slowly moving
     back.
+- title: "DeAngelo and Roll (JF, 2015) - How Stable Are Corporate Capital Structures?"
+  file: "https://www.dropbox.com/scl/fi/2dolwbvx8krrw4ni78jjq/DeAngelo_Roll_JF_2015.pdf?rlkey=sj52h1dv6wmpady60qgcmxo6e&dl=0"
+  desc: >-
+    This note summarizes the paper, which documents long firm-level leverage histories, stable-leverage
+    regimes, cross-section similarity, leverage-quartile migration, and simulations of target and
+    target-zone models to show that stable corporate capital structures are rare and temporary, so firm
+    fixed effects and short-horizon persistence should not be interpreted as evidence of stable target
+    leverage policies.
