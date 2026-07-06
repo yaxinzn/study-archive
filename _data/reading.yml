@@ -11303,3 +11303,11 @@
     and conditional market risk, showing that labor income helps forecast stock returns and that a
     conditional CAPM using labor-share information can explain cross-sectional pricing patterns better
     than unconditional models.
+- title: "Gomes, Kogan, and Zhang (JPE, 2003) - Equilibrium Cross Section of Returns"
+  file: "https://www.dropbox.com/scl/fi/u5nz34pawks183bsomlvn/Gomes_Kogan_Zhang_JPE_2003.pdf?rlkey=1rstbvsmgzuy2xdjdx9wzkn65&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a production-based general-equilibrium model with
+    heterogeneous firms, irreversible project adoption, book and market values, growth options, and a
+    conditional CAPM, showing that small and high book-to-market firms earn higher expected returns
+    because their assets in place and growth options load differently on aggregate risk across the
+    business cycle.
