@@ -11350,3 +11350,11 @@
     that the familiar hump-shaped relation can arise endogenously from optimal contracting and firm
     heterogeneity, and that common reduced-form fixes for endogeneity such as proxies, fixed effects,
     and instruments can still misread the relation as causal.
+- title: "Bollerslev, Tauchen, and Zhou (RFS, 2009) - Expected Stock Returns and Variance Risk Premia"
+  file: "https://www.dropbox.com/scl/fi/me0xe38w01dmsckhx6snj/Bollerslev_Tauchen_Zhou_RFS_2009.pdf?rlkey=168oi5jcv63q982cl7kabzr66&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines a recursive-utility equilibrium model with S&P 500
+    option-implied variance and high-frequency realized variance to show that the variance risk
+    premium—the gap between risk-neutral and physical expected variance—strongly predicts future
+    aggregate stock-market excess returns, especially at quarterly horizons and beyond standard
+    predictors.
