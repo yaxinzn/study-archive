@@ -11264,3 +11264,11 @@
     covariance measures, book-to-market and size portfolios, Monte Carlo evidence, and alternative
     factor comparisons to show that portfolios whose cash flows are more exposed to long-run consumption
     growth command higher average returns.
+- title: "Hansen, Heaton, and Li (JPE, 2008) - Consumption Strikes Back? Measuring Long-Run Risk"
+  file: "https://www.dropbox.com/scl/fi/bm6gdth5ioofjox4vv7k1/Hansen_Heaton_Li_JPE_2008.pdf?rlkey=7f353jxqda36zl4oqx8vfj56k&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a valuation-operator approach to measuring long-run
+    risk, estimates consumption and portfolio cash-flow dynamics, studies statistical and specification
+    uncertainty, and shows that the long-horizon cash-flow exposure of value and growth portfolios
+    differs in ways that can rationalize part of the value premium under recursive preferences and
+    long-run risk pricing.
