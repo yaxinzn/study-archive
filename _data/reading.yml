@@ -11342,3 +11342,11 @@
     builds a long-run-risk model with stochastic volatility and jumps to show that time-varying
     uncertainty and jump risk can jointly explain the variance premium, equity premium, risk-free rate,
     and long-horizon predictability.
+- title: "Coles, Lemmon, and Meschke (JFE, 2012) - Structural Models and Endogeneity in Corporate Finance: The Link between Managerial Ownership and Corporate Performance"
+  file: "https://www.dropbox.com/scl/fi/d7nlz4pm66cnrld1cmun9/Coles_Lemmon_Meschke_JFE_2012.pdf?rlkey=t20vevdj4qok62hh2deccgzro&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a quantitative structural model of firm scale, CEO
+    effort, managerial ownership, and Tobin’s Q to study the ownership-performance relation, showing
+    that the familiar hump-shaped relation can arise endogenously from optimal contracting and firm
+    heterogeneity, and that common reduced-form fixes for endogeneity such as proxies, fixed effects,
+    and instruments can still misread the relation as causal.
