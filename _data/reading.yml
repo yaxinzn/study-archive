@@ -11272,3 +11272,11 @@
     uncertainty, and shows that the long-horizon cash-flow exposure of value and growth portfolios
     differs in ways that can rationalize part of the value premium under recursive preferences and
     long-run risk pricing.
+- title: "Parker and Julliard (JPE, 2005) - Consumption Risk and the Cross Section of Expected Returns"
+  file: "https://www.dropbox.com/scl/fi/2tcs87mis4ks84t018lba/Parker_Julliard_JPE_2005.pdf?rlkey=rjjvozbzeyb18ckpwtgf0uddc&dl=0"
+  desc: >-
+    This note summarizes the paper, which replaces contemporaneous consumption risk with ultimate
+    consumption risk measured over subsequent quarters, estimating consumption-based pricing equations
+    on Fama-French portfolios to show that delayed consumption adjustment makes consumption risk much
+    more successful in explaining the value premium, because returns forecast future consumption growth
+    over business-cycle horizons.
