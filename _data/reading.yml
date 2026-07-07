@@ -11627,3 +11627,13 @@
     market integration is heterogeneous, time-varying, and not mechanically tied to formal
     liberalization, with some countries remaining effectively segmented while others become increasingly
     priced by global risk.
+- title: "Froot, O’Connell, and Seasholes (JFE, 2001) - The Portfolio Flows of International Investors"
+  file: "https://www.dropbox.com/scl/fi/8vlp4sj3atdfo0s3nr4ae/Froot_OConnell_Seasholes_JFE_2001.pdf?rlkey=vnbb2ocv7og6ls8oj51y6hkbl&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses State Street custody data on daily international
+    institutional equity flows, country-level returns, representativeness checks, flow persistence,
+    buy-sell decompositions, crisis-period behavior, covariance decompositions, return-forecasting
+    regressions, VARs, and restricted structural interpretations to show that international portfolio
+    flows are persistent, regionally correlated, positively related to past returns, and predictive of
+    future returns, suggesting price pressure, expected-flow effects, and information-based trading
+    rather than purely passive international rebalancing.
