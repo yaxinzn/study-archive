@@ -11646,3 +11646,12 @@
     ineligible securities tied to residual supply and conditional market risk, and using eligible and
     ineligible portfolio tests to show that partial market segmentation can generate systematic return
     premia beyond the world-market covariance term.
+- title: "Dumas and Solnik (JF, 1995) - The World Price of Foreign Exchange Risk"
+  file: "https://www.dropbox.com/scl/fi/tf28pentf6ep64gpc1cuw/Dumas_Solnik_JF_1995.pdf?rlkey=mt7kpwmhbktayflsxx1mxvkt3&dl=0"
+  desc: >-
+    This note summarizes the paper, which tests whether foreign exchange risk is priced in international
+    asset markets using monthly equity and currency returns for Germany, the United Kingdom, Japan, and
+    the United States, conditional GMM asset-pricing models, time-varying world market and currency risk
+    prices, classic versus international APM restrictions, instrument-based expected-return variation,
+    and equity-currency integration tests to show that unconditional tests are weak but conditional
+    tests strongly reject zero exchange-risk prices and the world-market-only model.
