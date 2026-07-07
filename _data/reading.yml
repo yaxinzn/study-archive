@@ -11544,3 +11544,12 @@
     bank becomes less durable and recover partly when the relationship is preserved, implying that bank
     relationships contain valuable private information, monitoring, renegotiation capacity, and implicit
     lending capital.
+- title: "Billett, Flannery, and Garfinkel (JF, 1995) - The Effect of Lender Identity on a Borrowing Firm's Equity Return"
+  file: "https://www.dropbox.com/scl/fi/hhr0sr2uy3qudl2fs9ezx/Billett_Flannery_Garfinkel_JF_1995.pdf?rlkey=bj3lmiam88oudao6fqsqmcmp4&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses clean private-loan announcements, event-study abnormal
+    returns, bank versus nonbank lender classifications, Moody’s lender credit ratings, borrower
+    controls, and multivariate announcement-return regressions to show that private loan announcements
+    generate positive borrower equity reactions, but that lender credit quality matters more than the
+    simple bank-versus-nonbank distinction, so certification and monitoring value depend on the
+    credibility and financial strength of the lender.
