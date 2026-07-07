@@ -11744,3 +11744,12 @@
     dynamic-selection rate, showing that trade raises long-run growth and welfare through a positive
     knowledge-spillover channel that makes calibrated total gains from trade much larger than static
     gains alone.
+- title: "Perla and Tonetti (JPE, 2014) - Equilibrium Imitation and Growth"
+  file: "https://www.dropbox.com/scl/fi/2gpwhd7vwkwhcslgcrrbn/Perla_Tonetti_JPE_2014.pdf?rlkey=ckwfp9mzlb0mw3geuucsckm3s&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a tractable endogenous-growth model where
+    low-productivity firms forgo production to search and imitate more productive producers, causing
+    repeated truncation of the lower tail of the productivity distribution, and shows that Pareto scale
+    invariance delivers closed-form balanced growth, thicker right tails raise imitation incentives and
+    growth, and the decentralized economy under-searches because firms do not internalize how imitation
+    improves future opportunity distributions.
