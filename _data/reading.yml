@@ -11673,3 +11673,12 @@
     benchmarks, multinomial logit models, regional volatility, exchange-rate and interest-rate controls,
     and cross-region exceedance predictors to show that contagion is predictable, tail-based, stronger
     in Latin America than in Asia, and partly transmitted through overseas extreme events.
+- title: "Lewbel and Pendakur (AER, 2009) - Tricks with Hicks: The EASI Demand System"
+  file: "https://www.dropbox.com/scl/fi/agx6pyd1tpnvkqzmeem9c/Lewbel_Pendakur_AER_2009.pdf?rlkey=ar1md8qig645m21gdi61u3zq9&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops the Exact Affine Stone Index demand system by
+    combining Hicksian budget-share equations with an observable implicit-utility index, then estimates
+    exact and approximate EASI models on Canadian expenditure data to show that the framework preserves
+    utility-consistent welfare analysis while allowing high-rank nonlinear Engel curves, flexible price
+    and demographic interactions, coherent unobserved preference heterogeneity, and closed-form
+    cost-of-living calculations that matter especially for distributional welfare effects.
