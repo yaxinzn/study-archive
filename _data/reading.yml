@@ -11682,3 +11682,12 @@
     utility-consistent welfare analysis while allowing high-rank nonlinear Engel curves, flexible price
     and demographic interactions, coherent unobserved preference heterogeneity, and closed-form
     cost-of-living calculations that matter especially for distributional welfare effects.
+- title: "Dhingra and Morrow (JPE, 2019) - Monopolistic Competition and Optimum Product Diversity under Firm Heterogeneity"
+  file: "https://www.dropbox.com/scl/fi/asb5001s9exkuf2wtbcsx/Dhingra_Morrow_JPE_2019.pdf?rlkey=ihrpe9vab3h8j5toxlx5448tv&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends the Spence-Dixit-Stiglitz monopolistic-competition
+    framework to heterogeneous firms with variable-elasticity preferences, entry, selection, and
+    social-planner allocations, showing that CES demand uniquely aligns private and social markups and
+    makes the decentralized equilibrium first-best, while richer VES demand makes the market maximize
+    real revenue rather than welfare and can distort production and survival across low- and
+    high-productivity firms depending on demand elasticities.
