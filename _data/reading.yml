@@ -11553,3 +11553,12 @@
     generate positive borrower equity reactions, but that lender credit quality matters more than the
     simple bank-versus-nonbank distinction, so certification and monitoring value depend on the
     credibility and financial strength of the lender.
+- title: "Best and Zhang (JF, 1993) - Alternative Information Sources and the Information Content of Bank Loans"
+  file: "https://www.dropbox.com/scl/fi/rnruj94uhauqwxmdpfpb2/Best_Zhang_JF_1993.pdf?rlkey=hvv93jtl2w0nhznvralalhrao&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies when bank-loan announcements convey incremental
+    information by combining clean Wall Street Journal loan events, I/B/E/S analyst forecast errors,
+    analyst forecast revisions, classifications of new and revised credit agreements, two-day abnormal
+    returns, and multivariate controls to show that bank loans are most informative when nonbank
+    information is noisy, unfavorable, or ambiguous, especially for high forecast-error firms and for
+    favorable or unfavorable loan revisions.
