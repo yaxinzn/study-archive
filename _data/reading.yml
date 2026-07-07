@@ -11637,3 +11637,12 @@
     flows are persistent, regionally correlated, positively related to past returns, and predictive of
     future returns, suggesting price pressure, expected-flow effects, and information-based trading
     rather than purely passive international rebalancing.
+- title: "Errunza and Losq (JF, 1985) - International Asset Pricing under Mild Segmentation: Theory and Test"
+  file: "https://www.dropbox.com/scl/fi/8tnfylhslwr7o2fcpjryn/Errunza_Losq_JF_1985.pdf?rlkey=hdp3trrjqz3ugfem3iwmrqfc5&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops and tests an international asset-pricing model under
+    mild segmentation in which some investors cannot hold ineligible foreign securities, deriving
+    standard integrated-market pricing for eligible securities and an additional super risk premium for
+    ineligible securities tied to residual supply and conditional market risk, and using eligible and
+    ineligible portfolio tests to show that partial market segmentation can generate systematic return
+    premia beyond the world-market covariance term.
