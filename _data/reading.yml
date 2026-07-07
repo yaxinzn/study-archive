@@ -11617,3 +11617,13 @@
     maturities, increases reach-for-yield to high-yield borrowers, raises later default risk, and
     transmits to firm liabilities, investment, employment, and survival, with policy-rate shocks having
     stronger real effects than QE.
+- title: "Bekaert and Harvey (JF, 1995) - Time-Varying World Market Integration"
+  file: "https://www.dropbox.com/scl/fi/xt9994hp7salrivczqex8/Bekaert_Harvey_JF_1995.pdf?rlkey=m3xpo5u3bawuh9b98rgngv29a&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops and estimates an international asset-pricing model
+    with time-varying integration, switching between integrated world-market covariance risk and
+    segmented local-market variance risk, using emerging-market returns, global and local information
+    variables, conditional variance dynamics, and regime-switching transition probabilities to show that
+    market integration is heterogeneous, time-varying, and not mechanically tied to formal
+    liberalization, with some countries remaining effectively segmented while others become increasingly
+    priced by global risk.
