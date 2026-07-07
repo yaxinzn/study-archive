@@ -11753,3 +11753,12 @@
     invariance delivers closed-form balanced growth, thicker right tails raise imitation incentives and
     growth, and the decentralized economy under-searches because firms do not internalize how imitation
     improves future opportunity distributions.
+- title: "Guerre, Perrigne, and Vuong (Econometrica, 2000) - Optimal Nonparametric Estimation of First-Price Auctions"
+  file: "https://www.dropbox.com/scl/fi/8orh25cj8bge1sfunxjo0/Guerre_Perrigne_Vuong_Econometrica_2000.pdf?rlkey=etbcyn7gxzhses2lp1gbibk2i&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops the canonical nonparametric structural estimator for
+    symmetric independent private-value first-price auctions by estimating the bid distribution and
+    density, inverting equilibrium bid shading with v = b + G(b)/[(I - 1)g(b)], constructing pseudo
+    private values, and applying kernel density estimation to recover the latent valuation distribution
+    with identification, uniform consistency, optimal rates, and extensions for observed auction
+    heterogeneity and reservation prices.
