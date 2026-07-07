@@ -11726,3 +11726,12 @@
     exporter microdata, Pareto firm-size estimates, size-distance scaling, sector-level tests, and a
     dynamic firm-to-firm contact network model to show that when large firms export farther and firm
     size is close to Zipf’s law, aggregate trade naturally declines roughly one-for-one with distance.
+- title: "Buera and Oberfield (Econometrica, 2020) - The Global Diffusion of Ideas"
+  file: "https://www.dropbox.com/scl/fi/olldfarrhb8vmuzxq40y0/Buera_Oberfield_Econometrica_2020.pdf?rlkey=z35wtt4a2jzwfcv1mijshib43&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a tractable Eaton-Kortum-style model of innovation and
+    international idea diffusion where new ideas combine original components with insights from
+    producers or sellers, then uses bilateral trade flows, relative prices, postwar TFP data, and
+    calibrated diffusion parameters to show that trade affects growth by changing the source
+    distribution of ideas and that, under the preferred learning-from-sellers calibration, dynamic
+    diffusion more than doubles the contribution of trade to long-run TFP dynamics.
