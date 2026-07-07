@@ -11664,3 +11664,12 @@
     latent-variable regressions, and multivariate GARCH models to show that ordinary macro news,
     industry matching, and FX or T-bill shocks explain little, while large absolute S&P and Nikkei
     market shocks sharply raise conditional cross-country correlations.
+- title: "Bae, Karolyi, and Stulz (RFS, 2003) - A New Approach to Measuring Financial Contagion"
+  file: "https://www.dropbox.com/scl/fi/4c2chxa288glkrjr18xwr/Bae_Karolyi_Stulz_RFS_2003.pdf?rlkey=hk5xajdb13z12ss5hj0mrpfb9&dl=0"
+  desc: >-
+    This note summarizes the paper, which replaces correlation-based contagion tests with a coexceedance
+    framework using daily investible-index returns for Asian and Latin American markets, bottom- and
+    top-tail extreme-return counts, Monte Carlo calibration under normal, Student-t, and GARCH
+    benchmarks, multinomial logit models, regional volatility, exchange-rate and interest-rate controls,
+    and cross-region exceedance predictors to show that contagion is predictable, tail-based, stronger
+    in Latin America than in Asia, and partly transmitted through overseas extreme events.
