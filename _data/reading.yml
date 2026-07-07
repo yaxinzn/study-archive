@@ -11691,3 +11691,12 @@
     makes the decentralized equilibrium first-best, while richer VES demand makes the market maximize
     real revenue rather than welfare and can distort production and survival across low- and
     high-productivity firms depending on demand elasticities.
+- title: "Spence (RES, 1976) - Product Selection, Fixed Costs, and Monopolistic Competition"
+  file: "https://www.dropbox.com/scl/fi/ivort24uqj5dbnemgiwcs/Spence_RES_1976.pdf?rlkey=7m80572mag6edhutfy0274qhh&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies how fixed costs and ordinary monopolistic pricing
+    affect product selection by comparing firm revenues with incremental social surplus, analyzing
+    price-discrimination benchmarks, complements, substitutes, multiproduct firms, and generalized CES
+    benefit functions to show that markets can select too few socially valuable products, too many close
+    substitutes, or the wrong product mix because profits are an imperfect sufficient statistic for
+    total surplus.
