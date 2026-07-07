@@ -11762,3 +11762,12 @@
     private values, and applying kernel density estimation to recover the latent valuation distribution
     with identification, uniform consistency, optimal rates, and extensions for observed auction
     heterogeneity and reservation prices.
+- title: "Haile and Tamer (JPE, 2003) - Inference with an Incomplete Model of English Auctions"
+  file: "https://www.dropbox.com/scl/fi/az7zwzdonm4qb0rkwe9id/Haile_Tamer_JPE_2003.pdf?rlkey=yfdxgqo0je8e73actsmgo3zbv&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a robust incomplete-model approach to English
+    auctions using two weak rationality restrictions—bidders do not bid above values and do not let
+    opponents win at prices they would beat—to derive nonparametric order-statistic bounds on valuation
+    distributions, optimal reserve prices, and covariate effects, showing through simulations and U.S.
+    Forest Service timber auctions that informative structural policy inference is possible without
+    imposing the exact button-auction model.
