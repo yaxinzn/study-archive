@@ -11655,3 +11655,12 @@
     prices, classic versus international APM restrictions, instrument-based expected-return variation,
     and equity-currency integration tests to show that unconditional tests are weak but conditional
     tests strongly reject zero exchange-risk prices and the world-market-only model.
+- title: "Karolyi and Stulz (JF, 1996) - Why Do Markets Move Together? An Investigation of U.S.-Japan Stock Return Comovements"
+  file: "https://www.dropbox.com/scl/fi/yial9cuc0t62wa5n76lm0/Karolyi_Stulz_JF_1996.pdf?rlkey=z6ilx7to15njbklgsjhizwt30&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies U.S.-Japan equity return comovement using synchronous
+    New York trading-window returns on Japanese ADRs, size- and industry-matched U.S. portfolios, Nikkei
+    futures, macro announcement days, exchange-rate and interest-rate futures, correlation splits,
+    latent-variable regressions, and multivariate GARCH models to show that ordinary macro news,
+    industry matching, and FX or T-bill shocks explain little, while large absolute S&P and Nikkei
+    market shocks sharply raise conditional cross-country correlations.
