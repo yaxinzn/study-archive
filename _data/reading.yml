@@ -11864,3 +11864,11 @@
     trade-size models estimated on transaction data, showing that the permanent information component is
     economically important, increases with trade size, and is larger for firms where asymmetric
     information is likely to be more severe.
+- title: "Hasbrouck (JF, 1991) - Measuring the Information Content of Stock Trades"
+  file: "https://www.dropbox.com/scl/fi/7uo6kfjbh8pjf39t2zgr1/Hasbrouck_JF_1991.pdf?rlkey=f5fbxlyf9zbgula1fsm0c2rxu&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses transaction and quote data, trade signs, quote-midpoint
+    changes, bivariate VARs, impulse responses, and persistent price-impact measures to estimate the
+    information content of trades, showing that signed trades have both transitory liquidity effects and
+    permanent information effects and that the latter can be quantified by the long-run response of
+    efficient prices to order flow.
