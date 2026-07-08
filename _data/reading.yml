@@ -11896,3 +11896,11 @@
     underreaction evidence to argue that the literature does not overturn market efficiency because
     anomalies are fragile, often sensitive to expected-return models, and tend to split between apparent
     overreaction and underreaction.
+- title: "Grinblatt and Han (JFE, 2005) - Prospect Theory, Mental Accounting, and Momentum"
+  file: "https://www.dropbox.com/scl/fi/29x89setzyvfr9947heoc/Grinblatt_Han_JFE_2005.pdf?rlkey=szmday6dqvjn7e1jvv0v0ehi6&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines prospect theory and mental accounting with a
+    reference-price model to explain momentum, constructs capital gains overhang from past prices and
+    turnover, and shows that capital gains overhang predicts returns and absorbs much of the traditional
+    momentum effect, consistent with disposition-effect trading delaying price adjustment after gains
+    and losses.
