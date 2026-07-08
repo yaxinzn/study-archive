@@ -11649,12 +11649,11 @@
 - title: "Dumas and Solnik (JF, 1995) - The World Price of Foreign Exchange Risk"
   file: "https://www.dropbox.com/scl/fi/tf28pentf6ep64gpc1cuw/Dumas_Solnik_JF_1995.pdf?rlkey=mt7kpwmhbktayflsxx1mxvkt3&dl=0"
   desc: >-
-    This note summarizes the paper, which tests whether foreign exchange risk is priced in international
-    asset markets using monthly equity and currency returns for Germany, the United Kingdom, Japan, and
-    the United States, conditional GMM asset-pricing models, time-varying world market and currency risk
-    prices, classic versus international APM restrictions, instrument-based expected-return variation,
-    and equity-currency integration tests to show that unconditional tests are weak but conditional
-    tests strongly reject zero exchange-risk prices and the world-market-only model.
+    This note summarizes the paper, which tests an international asset-pricing model with priced
+    foreign-exchange risk using equity and currency returns, conditional prices of risk, GMM moment
+    conditions, instrumental variables, and comparisons to classic international APM restrictions,
+    showing that exchange-rate risk prices are statistically significant and that conditional models
+    with time-varying risk prices fit global returns better than models that ignore currency risk.
 - title: "Karolyi and Stulz (JF, 1996) - Why Do Markets Move Together? An Investigation of U.S.-Japan Stock Return Comovements"
   file: "https://www.dropbox.com/scl/fi/yial9cuc0t62wa5n76lm0/Karolyi_Stulz_JF_1996.pdf?rlkey=z6ilx7to15njbklgsjhizwt30&dl=0"
   desc: >-
