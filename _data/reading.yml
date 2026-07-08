@@ -11872,3 +11872,11 @@
     information content of trades, showing that signed trades have both transitory liquidity effects and
     permanent information effects and that the latter can be quantified by the long-run response of
     efficient prices to order flow.
+- title: "Lo and MacKinlay (RFS, 1988) - Stock Market Prices Do Not Follow Random Walks: Evidence from a Simple Specification Test"
+  file: "https://www.dropbox.com/scl/fi/1mig5hufh2tfpsywiuwgw/Lo_MacKinlay_RFS_1988.pdf?rlkey=xv8mbsrmjqi7d3fwxjahi6txy&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops variance-ratio tests for the random-walk hypothesis,
+    including heteroskedasticity-robust versions using overlapping returns, and applies them to weekly
+    U.S. stock returns and size-sorted portfolios to show that stock prices exhibit statistically
+    significant positive serial correlation and variance ratios inconsistent with random walks,
+    especially among smaller stocks.
