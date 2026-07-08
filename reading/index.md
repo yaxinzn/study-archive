@@ -114,7 +114,7 @@ body{
 /* Dashboard stats and utility toolbar */
 .reading-stats{
   display:grid;
-  grid-template-columns:repeat(4, minmax(0,1fr));
+  grid-template-columns:repeat(3, minmax(0,1fr));
   gap:10px;
   margin:0 0 16px 0;
 }
@@ -1038,11 +1038,6 @@ body{
         <div class="reading-stat-sub">matching results</div>
       </div>
       <div class="reading-stat-card">
-        <div class="reading-stat-label">Journals</div>
-        <div class="reading-stat-value" id="readingStatJournals">—</div>
-        <div class="reading-stat-sub">detected codes</div>
-      </div>
-      <div class="reading-stat-card">
         <div class="reading-stat-label">Years</div>
         <div class="reading-stat-value" id="readingStatYears">—</div>
         <div class="reading-stat-sub">publication range</div>
@@ -1312,7 +1307,6 @@ body{
 
   const statTotal = document.getElementById('readingStatTotal');
   const statShown = document.getElementById('readingStatShown');
-  const statJournals = document.getElementById('readingStatJournals');
   const statYears = document.getElementById('readingStatYears');
   const sortSelect = document.getElementById('readingSortSelect');
   const libraryTitle = document.getElementById('library');
@@ -2004,9 +1998,6 @@ body{
     if (statTotal) statTotal.textContent = fmtCount(paperData.length);
     if (statShown) statShown.textContent = fmtCount(visibleItems.length);
 
-    if (statJournals) {
-      statJournals.textContent = fmtCount(uniqueSorted(paperData.map(item => item.journal)).length);
-    }
 
     if (statYears) {
       const years = paperData
