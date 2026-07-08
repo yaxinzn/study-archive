@@ -11887,3 +11887,12 @@
     own-autocovariance, cross-autocovariance, and cross-sectional mean-return components, showing that
     contrarian profits do not require broad investor overreaction and are largely driven by lead-lag
     effects and cross-autocorrelations among stocks, especially size-related return dynamics.
+- title: "Fama (JFE, 1998) - Market Efficiency, Long-Term Returns, and Behavioral Finance"
+  file: "https://www.dropbox.com/scl/fi/1asttlspj9oyzurkgced5/Fama_JF_1998.pdf?rlkey=37vjo8r1jm7h3kprvf2kbwpjx&dl=0"
+  desc: >-
+    This note summarizes the paper, which reviews long-horizon return anomalies and behavioral-finance
+    interpretations through the joint-hypothesis problem, benchmark sensitivity, event-study
+    methodology, buy-and-hold versus cumulative abnormal returns, and symmetry of overreaction and
+    underreaction evidence to argue that the literature does not overturn market efficiency because
+    anomalies are fragile, often sensitive to expected-return models, and tend to split between apparent
+    overreaction and underreaction.
