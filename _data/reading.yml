@@ -11911,3 +11911,11 @@
     and investor reference prices, documents disposition-effect selling behavior, and shows that
     post-earnings-announcement drift and other return underreaction patterns are strongest when prior
     gains or losses create trading pressure that slows incorporation of news into prices.
+- title: "Hong, Scheinkman, and Xiong (JF, 2006) - Asset Float and Speculative Bubbles"
+  file: "https://www.dropbox.com/scl/fi/nu6v8cxn7weh7qb9la93d/Hong_Scheinkman_Xiong_JF_2006.pdf?rlkey=gur43jha3gc6ks9vbxjy0tqk2&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a resale-option model of speculative bubbles with
+    heterogeneous beliefs and short-sale constraints, showing that limited asset float magnifies
+    bubbles, turnover, and volatility, and that lockup expirations or increases in float can cause price
+    drops because the marginal buyer’s option to resell to even more optimistic investors becomes less
+    valuable.
