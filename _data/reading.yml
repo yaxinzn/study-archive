@@ -11934,3 +11934,11 @@
     and lending access using a large stock-loan database, showing that many factor strategies are
     feasible at low borrowing costs for well-connected investors but that some high-demand short-sale
     trades, especially in hard-to-borrow stocks, can face high fees and limited access.
+- title: "Gârleanu and Pedersen (RFS, 2011) - Margin-Based Asset Pricing and Deviations from the Law of One Price"
+  file: "https://www.dropbox.com/scl/fi/awwmpk659folxd73e3tm3/Garleanu_Pedersen_RFS_2011.pdf?rlkey=nldo546qujtmxifbz25m9zt4w&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a margin-based asset-pricing model in which funding
+    constraints and asset-specific margins enter expected returns, deriving a margin CAPM and
+    law-of-one-price deviations, then connects the mechanism to CDS-bond bases, covered interest parity
+    deviations, and liquidity crises to show how higher-margin securities require higher expected
+    returns and can trade at persistent discounts.
