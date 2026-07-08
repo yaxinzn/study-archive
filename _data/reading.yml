@@ -11958,3 +11958,11 @@
     and covariance decompositions to show that global and regional factors explain important common
     movement but that there is little evidence of a simple secular increase in international return
     correlations once changing exposures and model fit are handled carefully.
+- title: "Ang and Bekaert (RFS, 2007) - Stock Return Predictability: Is it There?"
+  file: "https://www.dropbox.com/scl/fi/gec9w2m9qrefda9hw5lke/Ang_Bekaert_RFS_2007.pdf?rlkey=8b729uylmiecotr6uggqywo9i&dl=0"
+  desc: >-
+    This note summarizes the paper, which reassesses stock-return predictability using dividend yields,
+    short rates, earnings yields, long-horizon regressions, Hodrick standard errors, and present-value
+    restrictions across international markets, showing that dividend yields alone provide weak and
+    unstable predictability, while short rates and dividend yields together contain more robust
+    short-horizon predictive information and long-horizon evidence is statistically fragile.
