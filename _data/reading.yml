@@ -11950,3 +11950,11 @@
     volatility rose substantially relative to market volatility, correlations across individual stocks
     fell, market-model explanatory power declined, and diversification required holding more stocks over
     time.
+- title: "Bekaert, Hodrick, and Zhang (JF, 2009) - International Stock Return Comovements"
+  file: "https://www.dropbox.com/scl/fi/2dwl54n9pnz6oscn3qy1k/Bekaert_Hodrick_Zhang_JF_2009.pdf?rlkey=mbx5bl1kdm1htrjpb2n2f60o0&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures international stock-return comovement using
+    country-industry and country-style portfolios, world and regional factor models, time-varying betas,
+    and covariance decompositions to show that global and regional factors explain important common
+    movement but that there is little evidence of a simple secular increase in international return
+    correlations once changing exposures and model fit are handled carefully.
