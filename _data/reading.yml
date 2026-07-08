@@ -11919,3 +11919,11 @@
     bubbles, turnover, and volatility, and that lockup expirations or increases in float can cause price
     drops because the marginal buyer’s option to resell to even more optimistic investors becomes less
     valuable.
+- title: "D’Avolio (JFE, 2002) - The Market for Borrowing Stock"
+  file: "https://www.dropbox.com/scl/fi/rwdwyy58x1nelmi2arm57/DAvolio_JFE_2002.pdf?rlkey=abnppa44jw3jhv3k5fisl00jn&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a proprietary stock-loan database to describe the market
+    for borrowing stock, documenting loan supply, rebate rates, specialness, institutional ownership,
+    recall risk, and short-sale constraints to show that most stocks are cheap to borrow but a
+    meaningful set of hard-to-borrow stocks face large and persistent lending fees that can limit
+    arbitrage.
