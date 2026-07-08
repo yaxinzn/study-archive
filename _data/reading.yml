@@ -11771,3 +11771,12 @@
     distributions, optimal reserve prices, and covariate effects, showing through simulations and U.S.
     Forest Service timber auctions that informative structural policy inference is possible without
     imposing the exact button-auction model.
+- title: "Jappelli and Pistaferri (AEJ: Macro, 2014) - Fiscal Policy and MPC Heterogeneity"
+  file: "https://www.dropbox.com/scl/fi/zoj3rff88tuo2fwu9n0wp/Jappelli_Pistaferri_AEJMacro_2014.pdf?rlkey=i9tyxus1zy330pr19bbm217ez&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the 2010 Italian Survey of Household Income and Wealth, a
+    direct hypothetical windfall question, household balance-sheet variables, credit-constraint
+    indicators, cash-on-hand gradients, income and asset controls, robustness checks, and
+    incomplete-market model simulations to show that marginal propensities to consume are highly
+    heterogeneous, higher for low-cash-on-hand and constrained households, and central for the aggregate
+    effects of fiscal transfers.
