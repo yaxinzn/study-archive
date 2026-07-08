@@ -11942,3 +11942,11 @@
     law-of-one-price deviations, then connects the mechanism to CDS-bond bases, covered interest parity
     deviations, and liquidity crises to show how higher-margin securities require higher expected
     returns and can trade at persistent discounts.
+- title: "Campbell, Lettau, Malkiel, and Xu (JF, 2001) - Have Individual Stocks Become More Volatile? An Empirical Exploration of Idiosyncratic Risk"
+  file: "https://www.dropbox.com/scl/fi/xdyk6caij6rt4ltscer2x/Campbell_Lettau_Malkiel_Xu_JF_2001.pdf?rlkey=5squtjfgznue1puewmidsdbgz&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes U.S. stock return volatility into market, industry,
+    and firm-level components and studies trends in idiosyncratic risk, showing that firm-level
+    volatility rose substantially relative to market volatility, correlations across individual stocks
+    fell, market-model explanatory power declined, and diversification required holding more stocks over
+    time.
