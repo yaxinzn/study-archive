@@ -11856,3 +11856,11 @@
     instruments, time-varying expected returns, pricing-error diagnostics, and October 1987 checks to
     show that the world price of covariance risk varies over time and that constant-beta or
     constant-risk-price restrictions are too strong for international equity markets.
+- title: "Glosten and Harris (JFE, 1988) - Estimating the Components of the Bid/Ask Spread"
+  file: "https://www.dropbox.com/scl/fi/6axixcwtwn4bldk3st0zq/Glosten_Harris_JFE_1988.pdf?rlkey=f4y76cnmylo6fbbxyw2nduoqj&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes transaction-price bid-ask spreads into
+    adverse-selection and transitory order-processing or inventory components using trade-sign and
+    trade-size models estimated on transaction data, showing that the permanent information component is
+    economically important, increases with trade size, and is larger for firms where asymmetric
+    information is likely to be more severe.
