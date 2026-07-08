@@ -2071,9 +2071,15 @@
 - title: "Avery & Zemsky (AER, 1998) - Multidimensional Uncertainty and Herd Behavior in Financial Markets"
   file: "https://www.dropbox.com/scl/fi/uhbihh65ab1g3fzes6udm/Avery_Zemsky_AER_1998.pdf?rlkey=1w1yjolsh70zi43tnaoaqd2lq&dl=0"
   desc: "This note summarizes the paper, which develops a sequential trading model with endogenous bid–ask prices, informed and noise traders, Bayesian market makers, value uncertainty, event uncertainty, composition uncertainty, herd behavior, and simulated price paths to study rational herding in financial markets, showing that price adjustment prevents true informational cascades under one-dimensional uncertainty, but multidimensional uncertainty can generate rational herding, short-run bubbles, crashes, and informative trading histories because a single price cannot immediately summarize event occurrence, value direction, and trader quality."
-- title: "Chamley & Gale (Econometrica, 1994) - Information Revelation and Strategic Delay in a Model of Investment"
+- title: "Chamley and Gale (Econometrica, 1994) - Information Revelation and Strategic Delay in a Model of Investment"
   file: "https://www.dropbox.com/scl/fi/tv7yhb29rvkrvhu3xkejp/Chamley_Gale_Econometrica_1994.pdf?rlkey=k5g36yh690b3p7df26ygyoyfb&dl=0"
-  desc: "This note summarizes the paper, which develops an endogenous-timing investment model using private investment opportunities, public investment actions, Bayesian learning, option value of waiting, symmetric perfect Bayesian equilibrium, period length, large-player limits, and temporary subsidies to study strategic delay, showing that agents may wait for others to reveal information, causing inefficient delay or herd-like investment collapse even without direct payoff complementarities, because early investment creates a public information externality that private investors do not internalize."
+  desc: >-
+    This note summarizes the paper, which develops a dynamic investment-timing game in which agents with
+    private information learn from others’ investment decisions, showing that strategic waiting can
+    delay socially valuable investment because each investor wants others to reveal information first,
+    that equilibrium delay can persist even when investment is collectively desirable, and that
+    temporary subsidies can improve welfare by accelerating information revelation and reducing
+    underinvestment.
 - title: "Ellison & Fudenberg (QJE, 1995) - Word-of-Mouth Communication and Social Learning"
   file: "https://www.dropbox.com/scl/fi/x9ff6k00uxbw7cxol5lqj/Ellison_Fudenberg_QJE_1995.pdf?rlkey=4iym5ifnn54fht1b8wsvesmi8&dl=0"
   desc: "This note summarizes the paper, which develops a boundedly rational model of word-of-mouth social learning using repeated choices between two technologies, random sampling of other agents, inertia, common and idiosyncratic payoff shocks, must-see constraints, endpoint dynamics, popularity weighting, and social memory to study conformity and diversity, showing that communication breadth determines whether society locks into one choice, sustains diversity, learns efficiently, or herds inefficiently, with limited word-of-mouth sometimes outperforming broader communication when common shocks make large samples misleading."
