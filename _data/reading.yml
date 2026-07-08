@@ -11880,3 +11880,10 @@
     U.S. stock returns and size-sorted portfolios to show that stock prices exhibit statistically
     significant positive serial correlation and variance ratios inconsistent with random walks,
     especially among smaller stocks.
+- title: "Lo and MacKinlay (RFS, 1990) - When Are Contrarian Profits Due to Stock Market Overreaction?"
+  file: "https://www.dropbox.com/scl/fi/d6c9qd9bsj7o9cmml06gm/Lo_MacKinlay_RFS_1990.pdf?rlkey=6arbdxwijm298zfx7s5iv7v58&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes short-horizon contrarian-strategy profits into
+    own-autocovariance, cross-autocovariance, and cross-sectional mean-return components, showing that
+    contrarian profits do not require broad investor overreaction and are largely driven by lead-lag
+    effects and cross-autocorrelations among stocks, especially size-related return dynamics.
