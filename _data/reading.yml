@@ -12026,3 +12026,11 @@
     rather than hard-truncating them yields a simple estimator that is heteroskedasticity and
     autocorrelation consistent, positive semi-definite in finite samples, and useful for robust standard
     errors and optimal GMM weighting.
+- title: "Rogerson (AER, 2003) - Simple Menus of Contracts in Cost-Based Procurement and Regulation"
+  file: "https://www.dropbox.com/scl/fi/tlcl1xar4ftf79ibzp46t/Rogerson_AER_2003.pdf?rlkey=wo5iq1ife4a6x8xuyqz6z69w8&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies cost-based procurement and regulation with private
+    cost types and unobserved effort, comparing complex Laffont-Tirole-style optimal mechanisms with a
+    simple fixed-price/cost-reimbursement two-option menu and showing that in the uniform-quadratic
+    benchmark the optimal simple FPCR menu captures at least three-quarters of the fully optimal
+    mechanism’s efficiency gain.
