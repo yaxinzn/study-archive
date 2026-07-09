@@ -12067,3 +12067,11 @@
     worsen learning depending on how strongly current popularity is interpreted, and that heterogeneous
     environments create persistent dispersion, cutoff dynamics, and possible failure under nonlinear
     technologies.
+- title: "Golub and Jackson (QJE, 2012) - How Homophily Affects the Speed of Learning and Best-Response Dynamics"
+  file: "https://www.dropbox.com/scl/fi/0l3d9y854tix58aq1dfqp/Golub_Jackson_QJE_2012.pdf?rlkey=oadi6k1z0mf23vyceiexjuen0&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies DeGroot-style average-based learning and myopic
+    best-response dynamics on large multi-type random networks, introducing spectral homophily as the
+    key group-level eigenvalue governing consensus time and showing that homophily slows convergence
+    while uniform increases in link density leave averaging speed largely unchanged, unlike direct
+    contagion where shortest paths and density matter most.
