@@ -12042,3 +12042,11 @@
     applying it to the U.S. automobile tire industry to explain the rise and fall of firm numbers,
     rising output, falling prices, and the boom-bust pattern in relative stock values through
     difficult-to-implement cost-reducing innovation.
+- title: "Dubé, Fox, and Su (Econometrica, 2012) - Improving the Numerical Performance of Static and Dynamic Aggregate Discrete Choice Random Coefficients Demand Estimation"
+  file: "https://www.dropbox.com/scl/fi/q911cws7sdcyrfbzh3xlt/Dube_Fox_Su_Econometrica_2012.pdf?rlkey=fw7t3wwsek4tmyattfodlvdgk&dl=0"
+  desc: >-
+    This note summarizes the paper, which diagnoses numerical problems in nested fixed-point
+    implementations of BLP-style random-coefficients demand estimation and proposes an MPEC formulation
+    that optimizes over both structural parameters and mean utilities while imposing market-share
+    equations as constraints, showing that loose inner-loop tolerances can create false convergence and
+    that constrained optimization can be faster and more reliable for static and dynamic demand models.
