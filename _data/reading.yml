@@ -12075,3 +12075,11 @@
     key group-level eigenvalue governing consensus time and showing that homophily slows convergence
     while uniform increases in link density leave averaging speed largely unchanged, unlike direct
     contagion where shortest paths and density matter most.
+- title: "Acemoglu, Dahleh, Lobel, and Özdaglar (RES, 2011) - Bayesian Learning in Social Networks"
+  file: "https://www.dropbox.com/scl/fi/9pyimamsakc690q06garv/Acemoglu_Dahleh_Lobel_Ozdaglar_RES_2011.pdf?rlkey=5muh6iw15baxv2cg40vgri8xt&dl=0"
+  desc: >-
+    This note summarizes the paper, which characterizes asymptotic Bayesian learning in sequential
+    social networks where agents observe only the actions of network-selected predecessors, showing that
+    expanding observations and unbounded private beliefs guarantee learning, nonexpanding observations
+    or excessively influential finite groups can prevent it, and bounded private beliefs can still
+    support learning under sufficiently rich stochastic topologies.
