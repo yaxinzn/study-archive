@@ -12178,3 +12178,11 @@
     countries require different compensation for traded asset risk, and that real exchange rates
     identify risk sharing only under strong assumptions about preferences, consumption baskets, goods
     frictions, and asset-market completeness.
+- title: "Dick-Nielsen and Rossi (RFS, 2019) - The Cost of Immediacy for Corporate Bonds"
+  file: "https://www.dropbox.com/scl/fi/4sectgkdhixy9lfkkrr9b/DickNielsen_Rossi_RFS_2019.pdf?rlkey=4jk1wvjg7a3uqq8c10d9nii8p&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Barclay Capital investment-grade corporate bond index
+    exclusions, dealer-level TRACE data, inventory dynamics, abnormal dealer returns, maturity and
+    downgrade events, and bank versus nonbank dealer comparisons to show that the price of immediacy in
+    corporate bonds more than doubled after the 2008 crisis as dealers, especially bank-affiliated
+    dealers, became less willing to warehouse bond risk.
