@@ -12010,3 +12010,11 @@
     binary-response, dynamic, and demand-style models that observed group similarity generally cannot
     identify peer effects or social multipliers without credible outside information about reference
     groups and richer variation than a standard cross-section provides.
+- title: "Heckman and Singer (Econometrica, 1984) - A Method for Minimizing the Impact of Distributional Assumptions in Econometric Models for Duration Data"
+  file: "https://www.dropbox.com/scl/fi/nwpcnmplp67r0oez3es44/Heckman_Singer_Econometrica_1984.pdf?rlkey=rqqyi54jkdv3jijke0vjxzh70&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that duration-model estimates can be badly distorted by
+    arbitrary parametric assumptions about unobserved heterogeneity and proposes a nonparametric maximum
+    likelihood estimator that represents heterogeneity with likelihood-chosen mass points, with Monte
+    Carlo and unemployment-duration evidence showing that flexible heterogeneity can protect structural
+    duration parameters and substantive conclusions.
