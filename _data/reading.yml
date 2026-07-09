@@ -12058,3 +12058,12 @@
     learning can reinforce dominance, dissipate profits, make private learning too slow relative to the
     social optimum, and generate predatory-pricing-like equilibria when fixed costs and exit are
     introduced.
+- title: "Ellison and Fudenberg (JPE, 1993) - Rules of Thumb for Social Learning"
+  file: "https://www.dropbox.com/scl/fi/ii930g40c2gjge5qwtnb2/Ellison_Fudenberg_JPE_1993.pdf?rlkey=14arj38nc2hsm59gllxzh4ty4&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies technology adoption when agents use simple rules of
+    thumb based on samples of predecessors rather than full Bayesian inference, showing that naive
+    unweighted social learning can converge slowly or fail, that popularity weighting can improve or
+    worsen learning depending on how strongly current popularity is interpreted, and that heterogeneous
+    environments create persistent dispersion, cutoff dynamics, and possible failure under nonlinear
+    technologies.
