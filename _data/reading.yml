@@ -12002,3 +12002,11 @@
     aggregate earnings, while general nonnormal skill distributions leave the one-cross-section Roy
     model weakly identified unless market price variation, panel data, or excluded regressors add
     structure.
+- title: "Manski (RES, 1993) - Identification of Endogenous Social Effects: The Reflection Problem"
+  file: "https://www.dropbox.com/scl/fi/rh9omxxb7q1nqbk8531sr/Manski_RES_1993.pdf?rlkey=cphr2hrowo3hthvw160e3209b&dl=0"
+  desc: >-
+    This note summarizes the paper, which formalizes the reflection problem by distinguishing endogenous
+    social effects, contextual effects, and correlated effects, showing in linear, nonparametric,
+    binary-response, dynamic, and demand-style models that observed group similarity generally cannot
+    identify peer effects or social multipliers without credible outside information about reference
+    groups and richer variation than a standard cross-section provides.
