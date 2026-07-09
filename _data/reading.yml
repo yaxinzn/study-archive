@@ -12091,3 +12091,11 @@
     and production-bunching implications from stochastic Euler equations, and estimating manufacturing
     and automobile-industry models to show that marginal costs appear locally declining while robustness
     checks using division-level and physical-unit data support the nonconvex-cost interpretation.
+- title: "Fuchs, Stroebel, and Terstegge (JFE, 2026) - Carbon VIX: Carbon Price Uncertainty and Decarbonization Investments"
+  file: "https://www.dropbox.com/scl/fi/n8rzk4355wm14a2qf1654/Fuchs_Stroebel_Terstegge_JFE_2026.pdf?rlkey=tjyhwu4q6kntpycxi1o82ysm6&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies the EU ETS using a Carbon VIX built from EUA options,
+    carbon implied volatility, CDP decarbonization project data, GPT-classified carbon solution
+    providers, high-frequency stock returns, and sales regressions to show that carbon price uncertainty
+    is large, persistent, and economically important, lowering expected and realized decarbonization
+    investment through a real-options waiting channel.
