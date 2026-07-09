@@ -11985,3 +11985,11 @@
     receive cheaper and more favorable bank loans after connected politicians narrowly win, especially
     when lenders have greater demand for political help, and that the discounts are not explained by
     stronger future borrower fundamentals.
+- title: "Abadie and Gardeazabal (AER, 2003) - The Economic Costs of Conflict: A Case Study of the Basque Country"
+  file: "https://www.dropbox.com/scl/fi/7b36cfypi4vohlsycxl32/Abadie_Gardeazabal_AER_2003.pdf?rlkey=whdf21mkedo8fur98bd61ooio&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an early synthetic-control design for the Basque
+    Country by matching pre-terrorism regional characteristics to other Spanish regions and complements
+    it with an ETA-truce stock-market event study, showing that terrorism reduced Basque per capita GDP
+    by roughly 10 percentage points relative to its synthetic counterfactual and that Basque-exposed
+    stocks rose when peace became credible and fell when the truce collapsed.
