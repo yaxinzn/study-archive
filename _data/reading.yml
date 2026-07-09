@@ -12050,3 +12050,11 @@
     that optimizes over both structural parameters and mean utilities while imposing market-share
     equations as constraints, showing that loose inner-loop tolerances can create false convergence and
     that constrained optimization can be faster and more reliable for static and dynamic demand models.
+- title: "Cabral and Riordan (Econometrica, 1994) - The Learning Curve, Market Dominance, and Predatory Pricing"
+  file: "https://www.dropbox.com/scl/fi/gr7ysp1phe2w42v3envb6/Cabral_Riordan_Econometrica_1994.pdf?rlkey=3pyr3s3c8u8nkl0hlzs7o0dr6&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic oligopoly model of learning by doing in
+    which winning current sales lowers future costs, making market share a strategic asset, showing that
+    learning can reinforce dominance, dissipate profits, make private learning too slow relative to the
+    social optimum, and generate predatory-pricing-like equilibria when fixed costs and exit are
+    introduced.
