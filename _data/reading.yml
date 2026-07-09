@@ -11993,3 +11993,12 @@
     it with an ETA-truce stock-market event study, showing that terrorism reduced Basque per capita GDP
     by roughly 10 percentage points relative to its synthetic counterfactual and that Basque-exposed
     stocks rose when peace became credible and fell when the truce collapsed.
+- title: "Heckman and Honoré (Econometrica, 1990) - The Empirical Content of the Roy Model"
+  file: "https://www.dropbox.com/scl/fi/nmijieuhvspibbw6x4kqm/Heckman_Honore_Econometrica_1990.pdf?rlkey=0ovulhxear4yd7t8k1eqkf0i1&dl=0"
+  desc: >-
+    This note summarizes the paper, which analyzes what the Roy model implies for selection, earnings
+    inequality, and identification, showing that log normality and log concavity generate strong
+    restrictions such as comparative-advantage sorting lowering log earnings variance and right-skewing
+    aggregate earnings, while general nonnormal skill distributions leave the one-cross-section Roy
+    model weakly identified unless market price variation, panel data, or excluded regressors add
+    structure.
