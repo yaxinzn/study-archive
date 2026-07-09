@@ -12018,3 +12018,11 @@
     likelihood estimator that represents heterogeneity with likelihood-chosen mass points, with Monte
     Carlo and unemployment-duration evidence showing that flexible heterogeneity can protect structural
     duration parameters and substantive conclusions.
+- title: "Newey and West (Econometrica, 1987) - A Simple, Positive Semi-Definite, Heteroskedasticity and Autocorrelation Consistent Covariance Matrix"
+  file: "https://www.dropbox.com/scl/fi/88mwyqfxs3jjro1m5j3kn/Newey_West_Econometrica_1987.pdf?rlkey=1qwb9uvjk0iejb0sxlefscnmt&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops the Bartlett-weighted HAC estimator for long-run
+    covariance matrices in GMM and time-series inference, showing that smoothing sample autocovariances
+    rather than hard-truncating them yields a simple estimator that is heteroskedasticity and
+    autocorrelation consistent, positive semi-definite in finite samples, and useful for robust standard
+    errors and optimal GMM weighting.
