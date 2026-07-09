@@ -12169,3 +12169,12 @@
     restricting short-term trading removes short-horizon information from prices and hurts sophisticated
     investors, but need not improve long-run price informativeness or restore long-term investors'
     liquidity-provision rents.
+- title: "Burnside and Graveline (RFS, 2020) - On the Asset Market View of Exchange Rates"
+  file: "https://www.dropbox.com/scl/fi/jtw9pdle3nl2cj7d5wqdc/Burnside_Graveline_RFS_2020.pdf?rlkey=932hikav79f5ot9lg8tht4ll5&dl=0"
+  desc: >-
+    This note summarizes the paper, which critiques the common asset-market-view interpretation of
+    exchange rates by expressing foreign and domestic IMRSs in a common numeraire, showing that the
+    complete-markets exchange-rate equation is a unit-conversion statement rather than evidence that
+    countries require different compensation for traded asset risk, and that real exchange rates
+    identify risk sharing only under strong assumptions about preferences, consumption baskets, goods
+    frictions, and asset-market completeness.
