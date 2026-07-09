@@ -12083,3 +12083,11 @@
     expanding observations and unbounded private beliefs guarantee learning, nonexpanding observations
     or excessively influential finite groups can prevent it, and bounded private beliefs can still
     support learning under sufficiently rich stochastic topologies.
+- title: "Ramey (JPE, 1991) - Nonconvex Costs and the Behavior of Inventories"
+  file: "https://www.dropbox.com/scl/fi/olnhxmzeavsp2lsr898us/Ramey_JPE_1991.pdf?rlkey=bqzc435myfmkwgubimsf5t5zw&dl=0"
+  desc: >-
+    This note summarizes the paper, which addresses the inventory puzzle that production is often more
+    volatile than sales by introducing locally declining marginal production costs, deriving inventory
+    and production-bunching implications from stochastic Euler equations, and estimating manufacturing
+    and automobile-industry models to show that marginal costs appear locally declining while robustness
+    checks using division-level and physical-unit data support the nonconvex-cost interpretation.
