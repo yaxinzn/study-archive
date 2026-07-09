@@ -12186,3 +12186,11 @@
     downgrade events, and bank versus nonbank dealer comparisons to show that the price of immediacy in
     corporate bonds more than doubled after the 2008 crisis as dealers, especially bank-affiliated
     dealers, became less willing to warehouse bond risk.
+- title: "Badoer and Demiroglu (RFS, 2019) - The Relevance of Credit Ratings in Transparent Bond Markets"
+  file: "https://www.dropbox.com/scl/fi/74im06w8sdxpcc21tjpwk/Badoer_Demiroglu_RFS_2019.pdf?rlkey=kdguhnyamvelgduiz5njaa6y1&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits the staggered public dissemination of corporate bond
+    trades through TRACE to test whether credit ratings remain informative, showing that bond-price
+    transparency sharply reduces stock-market reactions to rating downgrades, that the effect is not
+    driven by rating-quality deterioration, that spreads become more informative than ratings for
+    default prediction, and that ratings respond more to market prices after dissemination.
