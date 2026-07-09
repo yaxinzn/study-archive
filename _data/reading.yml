@@ -12202,3 +12202,11 @@
     proxies, and crisis-period robustness to show that foreign-owned firms are less financially
     constrained and extend relatively more trade credit when domestic credit tightens, especially when
     global liquidity is abundant, transmitting foreign financial conditions through supply-chain credit.
+- title: "Bayer, Ferreira, and Ross (RFS, 2018) - What Drives Racial and Ethnic Differences in High-Cost Mortgages? The Role of High-Risk Lenders"
+  file: "https://www.dropbox.com/scl/fi/c6vuhhe8sgk9ag70n8bd2/Bayer_Ferreira_Ross_RFS_2018.pdf?rlkey=0h86t0mrlyt7vi5qgz5pl41t3&dl=0"
+  desc: >-
+    This note summarizes the paper, which links HMDA mortgage data to housing transaction, lien,
+    credit-bureau, and foreclosure outcomes in seven metropolitan markets to decompose racial and ethnic
+    high-cost mortgage disparities, showing that lender fixed effects and a lender-specific unexplained
+    foreclosure-risk measure explain much of the gap because minority borrowers disproportionately sort
+    to high-risk lenders and remaining within-lender disparities are concentrated at those lenders.
