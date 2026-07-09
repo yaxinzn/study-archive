@@ -12160,3 +12160,12 @@
     traders can be short-horizon marginal pricers while large traders absorb risk slowly, generating
     V-shaped price reactions, predictable momentum, reversal, and nonmonotonic institutional trading
     even without private information.
+- title: "Crouzet, Dew-Becker, and Nathanson (RFS, 2020) - On the Effects of Restricting Short-Term Investment"
+  file: "https://www.dropbox.com/scl/fi/7y43fpbbxf22lwvtgeqin/Crouzet_DewBecker_Nathanson_RFS_2020.pdf?rlkey=blta2onpip0io9jftdbari6sk&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a noisy rational-expectations model with frequency
+    portfolios, endogenous information acquisition, noise traders, short-horizon investment
+    restrictions, transaction-tax analogues, and information-policy counterfactuals to show that
+    restricting short-term trading removes short-horizon information from prices and hurts sophisticated
+    investors, but need not improve long-run price informativeness or restore long-term investors'
+    liquidity-provision rents.
