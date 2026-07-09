@@ -12135,3 +12135,11 @@
     frequent-betting households, and shifts spending toward complementary entertainment categories,
     implying that online sports betting acts partly like a negative-expected-value investment product
     rather than ordinary entertainment.
+- title: "Pang (JFE, 2026) - Forecast Bias across Horizons: Inflation Expectations and the Treasury Yields"
+  file: "https://www.dropbox.com/scl/fi/b30wtv3fnkgpg7ofp5bqf/Pang_JFE_2026.pdf?rlkey=3flxvlvwi0pj43rt3t190ctuf&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines forecast-error-on-forecast-revision regressions,
+    cross-horizon inflation surveys, yield-forecast regressions, a trend-gap inflation process, noisy
+    signals, long-run-biased beliefs, and an affine term-structure model to show that short-horizon
+    inflation and yield forecasts underreact while long-horizon forecasts overreact because forecasters
+    overattribute transitory inflation news to permanent trend inflation.
