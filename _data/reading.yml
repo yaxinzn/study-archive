@@ -12354,3 +12354,11 @@
     evidence to show that corporate geography shapes real decisions: nearby divisions and employees
     receive more protection, remote units are divested earlier, and markets react especially favorably
     when managers overcome local social costs by divesting nearby assets.
+- title: "Giroud and Mueller (AER, 2019) - Firms' Internal Networks and Local Economic Shocks"
+  file: "https://www.dropbox.com/scl/fi/cb1hzs0proimf16vutk4t/Giroud_Mueller_AER_2019.pdf?rlkey=axl9nr0q5skvamtl3pdn5p8zs&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses confidential U.S. Census LBD establishment data, Zillow
+    house-price shocks during the Great Recession, non-tradable-industry employment, firm internal
+    network weights, rich zip-code-by-industry fixed effects, placebo networks, ownership changes, and
+    financial-constraint heterogeneity to show that local demand shocks propagate across distant regions
+    through multi-region firms, especially when parent firms are financially constrained.
