@@ -12464,3 +12464,12 @@
     decline down the hierarchy, loss of control is concentrated at lower levels, expansion without
     technological progress raises top-manager effort and pay while lowering worker effort and pay, and
     technological progress mitigates organizational control losses.
+- title: "Kempf and Ruenzi (RFS, 2008) - Tournaments in Mutual-Fund Families"
+  file: "https://www.dropbox.com/scl/fi/zarxflz97ftqiujoq7yqy/Kempf_Ruenzi_RFS_2008.pdf?rlkey=zzyfl4svdyodi3scw1z23oiw2&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses CRSP Survivor-Bias-Free U.S. equity mutual fund data,
+    midyear family ranks, segment ranks, family-size splits, risk-change regressions, fixed effects,
+    management-structure and expense-ratio heterogeneity, and rolling-window checks to show that mutual
+    fund managers compete inside fund families, with losers increasing risk in large families and
+    winners increasing risk in small families because strategic interaction changes tournament
+    incentives.
