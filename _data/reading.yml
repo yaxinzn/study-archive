@@ -12268,3 +12268,12 @@
     parent-bank health and stock-price instruments, state-level exposure to Japanese lending, and
     construction-activity outcomes to show that foreign bank capital shocks reduced U.S. commercial real
     estate lending and produced measurable real effects outside Japan.
+- title: "Dass and Massa (RFS, 2011) - The Impact of a Strong Bank-Firm Relationship on the Borrowing Firm"
+  file: "https://www.dropbox.com/scl/fi/t1m3c1qblxd3u8szfmbcy/Dass_Massa_RFS_2011.pdf?rlkey=xq6byx08zuer36gqcq8awooff&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines DealScan loans, bank and borrower locations, 13F
+    holdings, CRSP liquidity measures, governance data, Heckman selection corrections, and instruments
+    for loan characteristics to study strong bank-firm relationships, showing that close and important
+    lending relationships can improve monitoring and governance but that lender-affiliated equity
+    exposure creates informed-trading concerns, lowers stock liquidity, and generates a value trade-off
+    for borrowing firms.
