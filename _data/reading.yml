@@ -12302,3 +12302,12 @@
     alpha comparisons, and fund-flow tests to show that managers whose portfolios resemble those of
     successful managers earn higher future returns beyond conventional alpha, especially when return
     histories are short, while investor flows do not fully respond to this peer-based information.
+- title: "Pollet and Wilson (JF, 2008) - How Does Size Affect Mutual Fund Behavior?"
+  file: "https://www.dropbox.com/scl/fi/guup6gn42l6fj7rhu8plb/Pollet_Wilson_JF_2008.pdf?rlkey=fhz9znnnv4t5avexrni9fod2u&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses matched CRSP mutual fund and CDA/Spectrum holdings data
+    to study how funds respond to asset growth, showing that funds mainly scale up existing positions
+    and increase ownership shares rather than rapidly adding new stocks, that diversification rises most
+    for large and small-cap funds facing stronger liquidity constraints and predicts better later
+    performance in those settings, and that fund families grow by launching differentiated products
+    rather than broadening each existing fund.
