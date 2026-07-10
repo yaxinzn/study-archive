@@ -12362,3 +12362,12 @@
     network weights, rich zip-code-by-industry fixed effects, placebo networks, ownership changes, and
     financial-constraint heterogeneity to show that local demand shocks propagate across distant regions
     through multi-region firms, especially when parent firms are financially constrained.
+- title: "Morck, Shleifer, and Vishny (JF, 1990) - Do Managerial Objectives Drive Bad Acquisitions?"
+  file: "https://www.dropbox.com/scl/fi/cspv6uorulo7oodgn0j6n/Morck_Shleifer_Vishny_JF_1990.pdf?rlkey=zhmrdimmcvvy1im0jqi8tb4qr&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses U.S. acquisition announcement returns normalized by
+    target value, target sales growth, bidder past performance, relatedness measures, payment-method
+    controls, and 1970s-versus-1980s interactions to show that bidders lose more when they buy
+    fast-growing targets, diversify, or have poor prior performance, consistent with agency-driven
+    managerial objectives rather than pure information-release or successful-manager hubris
+    explanations.
