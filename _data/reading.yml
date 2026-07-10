@@ -12406,3 +12406,11 @@
     hold less cash because imperfectly correlated investment opportunities and cash flows reduce
     precautionary liquidity needs, especially when firms are financially constrained and internal
     capital markets appear efficient.
+- title: "Whited (JF, 2001) - Is It Inefficient Investment that Causes the Diversification Discount?"
+  file: "https://www.dropbox.com/scl/fi/q5o4u3q279szhj93v5hds/Whited_JF_2001.pdf?rlkey=bo4nq773su3lzxs5qsuqq0whg&dl=0"
+  desc: >-
+    This note summarizes the paper, which revisits internal-capital-market investment regressions using
+    firm and segment data, noisy Tobin’s q proxies, other-segment cash-flow variables, and the
+    Erickson-Whited high-order-moment GMM measurement-error correction to show that OLS evidence of weak
+    segment investment-q sensitivity and cross-subsidization largely disappears once q measurement error
+    is addressed.
