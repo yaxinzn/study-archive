@@ -12320,3 +12320,12 @@
     performance, family size, expenses, and activity to show that funds increasing risk subsequently
     underperform, especially when risk increases reflect idiosyncratic bets and tracking error rather
     than skilled market exposure.
+- title: "Nohel, Wang, and Zheng (RFS, 2010) - Side-by-Side Management of Hedge Funds and Mutual Funds"
+  file: "https://www.dropbox.com/scl/fi/68ojqmdjjv9exdmzmb4fq/Nohel_Wang_Zheng_RFS_2010.pdf?rlkey=awyx2rkmcd32bn5758xyd1kv1&dl=0"
+  desc: >-
+    This note summarizes the paper, which matches mutual fund managers to hedge fund managers across
+    CRSP, TASS, and HFR databases and compares side-by-side funds with matched peers using portfolio
+    tests, pooled regressions, before-after tests, and manager-background splits to show that
+    side-by-side mutual funds outperform rather than suffer, hedge funds do not outperform, and the
+    evidence is more consistent with retaining skilled mutual fund managers than with systematic
+    conflicts that transfer performance to hedge funds.
