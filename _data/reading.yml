@@ -12338,3 +12338,11 @@
     and hidden actions to show that outsourced mutual funds persistently underperform internally managed
     funds because unaffiliated advisers face weaker control and incentive alignment across firm
     boundaries.
+- title: "Berk and van Binsbergen (JFE, 2016) - Assessing Asset Pricing Models Using Revealed Preference"
+  file: "https://www.dropbox.com/scl/fi/f9r330n6y87glwy8vg6q3/Berk_VanBinsbergen_JFE_2016.pdf?rlkey=gwap45aqntafenx00hajv69ud&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses mutual fund flows as revealed-preference evidence on
+    asset-pricing models, testing whether model-adjusted outperformance predicts the sign of subsequent
+    investor flows across CAPM, Fama-French, Carhart, no-model, and dynamic-equilibrium benchmarks to
+    show that investors behave most consistently with the CAPM, while multifactor models that improve
+    return fit do not better explain real capital-allocation decisions.
