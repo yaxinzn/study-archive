@@ -12329,3 +12329,12 @@
     side-by-side mutual funds outperform rather than suffer, hedge funds do not outperform, and the
     evidence is more consistent with retaining skilled mutual fund managers than with systematic
     conflicts that transfer performance to hedge funds.
+- title: "Chen, Hong, Jiang, and Kubik (JF, 2013) - Outsourcing Mutual Fund Management: Firm Boundaries, Incentives, and Performance"
+  file: "https://www.dropbox.com/scl/fi/msf8mutyd06y97cjm5bh2/Chen_Hong_Jiang_Kubik_JF_2013.pdf?rlkey=e76k2zesrikacetrfoeqvj2uo&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines CRSP mutual fund returns, Thomson holdings, SEC
+    adviser-disclosure data, outsourcing classifications, family and advisor fixed effects, an
+    inception-family-size instrument, and tests on closure sensitivity, risk taking, IPO allocations,
+    and hidden actions to show that outsourced mutual funds persistently underperform internally managed
+    funds because unaffiliated advisers face weaker control and incentive alignment across firm
+    boundaries.
