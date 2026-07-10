@@ -12236,3 +12236,12 @@
     reduced soft lending to poorly performing firms, made credit allocation more performance-sensitive,
     increased restructuring and exit pressure in bank-dependent sectors, improved allocative efficiency,
     and lowered industry concentration.
+- title: "Erel (RFS, 2011) - The Effect of Bank Mergers on Loan Prices: Evidence from the United States"
+  file: "https://www.dropbox.com/scl/fi/myky7i5hxp88e2plbbt5j/Erel_RFS_2011.pdf?rlkey=kykhlk40d953wid8xb6g3o7jw&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies U.S. bank mergers using loan-level effective spreads,
+    dynamic event-time regressions, bank and quarter fixed effects, loan characteristics, acquirer size,
+    small-loan splits, risk-composition checks, and local-market controls to show that bank mergers
+    generally lower loan spreads in the first postmerger years, with the strongest benefits for small
+    loans and non-mega acquirers, suggesting merger efficiency gains can be passed through to
+    small-business borrowers rather than only creating market power.
