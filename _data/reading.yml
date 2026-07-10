@@ -12456,3 +12456,11 @@
     channels, divisional CAPEX, investment-to-Q sensitivity, governance, information asymmetry, and
     excess value to show that connected managers receive more capital, with connections destroying value
     under weak governance but improving allocation when soft information is especially important.
+- title: "Qian (RES, 1994) - Incentives and Loss of Control in an Optimal Hierarchy"
+  file: "https://www.dropbox.com/scl/fi/yfhz4qplqogm8ftn5k26n/Qian_RES_1994.pdf?rlkey=v5pevnri46gfo4zmy2cwf1ie8&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds an optimal-control model of hierarchy with endogenous
+    effort, wages, span of control, and tiers under imperfect monitoring, showing that wages and effort
+    decline down the hierarchy, loss of control is concentrated at lower levels, expansion without
+    technological progress raises top-manager effort and pay while lowering worker effort and pay, and
+    technological progress mitigates organizational control losses.
