@@ -12311,3 +12311,12 @@
     for large and small-cap funds facing stronger liquidity constraints and predicts better later
     performance in those settings, and that fund families grow by launching differentiated products
     rather than broadening each existing fund.
+- title: "Huang, Sialm, and Zhang (RFS, 2011) - Risk Shifting and Mutual Fund Performance"
+  file: "https://www.dropbox.com/scl/fi/b36fo9dbpftwdluczi8yu/Huang_Sialm_Zhang_RFS_2011.pdf?rlkey=ve6vux1hdkvdd4rxcwm9c1rkr&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs a holdings-based mutual fund risk-shifting measure
+    from the gap between disclosed portfolio volatility and realized fund return volatility, then uses
+    portfolio sorts, dynamic risk adjustment, Fama-MacBeth regressions, and heterogeneity by past
+    performance, family size, expenses, and activity to show that funds increasing risk subsequently
+    underperform, especially when risk increases reflect idiosyncratic bets and tracking error rather
+    than skilled market exposure.
