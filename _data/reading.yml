@@ -12346,3 +12346,11 @@
     investor flows across CAPM, Fama-French, Carhart, no-model, and dynamic-equilibrium benchmarks to
     show that investors behave most consistently with the CAPM, while multifactor models that improve
     return fit do not better explain real capital-allocation decisions.
+- title: "Landier, Nair, and Wulf (RFS, 2009) - Trade-offs in Staying Close: Corporate Decision Making and Geographic Dispersion"
+  file: "https://www.dropbox.com/scl/fi/w059zpmikxka2k1iznebl/Landier_Nair_Wulf_RFS_2009.pdf?rlkey=uxfwnc79fc8m9d4w3l45wzwij&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses firm-level employee-relations ratings, division-level
+    employment data, headquarters-division proximity measures, divestiture sequencing, and event-study
+    evidence to show that corporate geography shapes real decisions: nearby divisions and employees
+    receive more protection, remote units are divested earlier, and markets react especially favorably
+    when managers overcome local social costs by divesting nearby assets.
