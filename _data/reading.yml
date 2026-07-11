@@ -12624,3 +12624,12 @@
     determines AAA tranche size, whereas larger equity tranches in opaque, no-documentation pools signal
     better unobservable collateral quality, predict lower abnormal default, and receive better pricing,
     especially when sponsors are also major originators and private information is strongest.
+- title: "Décamps, Gryglewicz, Morellec, and Villeneuve (RFS, 2017) - Corporate Policies with Permanent and Transitory Shocks"
+  file: "https://www.dropbox.com/scl/fi/bpkw6kklo8s0nshlwsxxy/Decamps_Gryglewicz_Morellec_Villeneuve_RFS_2017.pdf?rlkey=rv5le2jrqmxqgp13cqipclzgd&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic corporate-finance model with costly
+    external finance, cash reserves, and correlated permanent productivity and transitory cash-flow
+    shocks to show that the composition and correlation of risk jointly determine scaled cash targets,
+    payout, equity issuance, cash-flow sensitivity of cash, hedging positions, credit-line value, and
+    investment timing, with permanent shocks affecting both current liquidity and the future scale of
+    the firm.
