@@ -12633,3 +12633,11 @@
     payout, equity issuance, cash-flow sensitivity of cash, hedging positions, credit-line value, and
     investment timing, with permanent shocks affecting both current liquidity and the future scale of
     the firm.
+- title: "Bond, Elul, Garyn-Tal, and Musto (RFS, 2017) - Does Junior Inherit? Refinancing and the Blocking Power of Second Mortgages"
+  file: "https://www.dropbox.com/scl/fi/278c4ila1x9mcflmcalh9/Bond_Elul_Garyntal_Musto_RFS_2017.pdf?rlkey=zldmb1ybeam53iq6p5l764vdu&dl=0"
+  desc: >-
+    This note summarizes the paper, which matches mortgage-servicing and credit-bureau data and exploits
+    cross-state variation in equitable subrogation to show that time-priority rules give second-lien
+    holders blocking power over first-mortgage refinancing, reducing refinancing by about 2.2 percentage
+    points for two-lien borrowers in the intermediate-CLTV region where resubordination matters most,
+    particularly for smaller mortgages and loans near the conforming limit.
