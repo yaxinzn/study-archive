@@ -12491,3 +12491,12 @@
     exposure, and return-performance tests to show that social proximity raises investor awareness and
     capital-market access for firms, especially small and low-coverage firms, without generating
     abnormal investment returns.
+- title: "Lerner and Seru (RFS, 2022) - The Use and Misuse of Patent Data: Issues for Finance and Beyond"
+  file: "https://www.dropbox.com/scl/fi/ki97lqhilv8vdtat5bm4g/Lerner_Seru_RFS_2022.pdf?rlkey=eht4pifjv0846shs9uh5bjnfm&dl=0"
+  desc: >-
+    This note summarizes the paper, which compares truncated patent and citation snapshots with later
+    more complete data, studies technology, geography, and firm-level composition, evaluates common time
+    and technology-class adjustments, and applies machine-learning prediction methods to show that
+    patent and citation measures contain systematic nonclassical biases correlated with firm
+    characteristics, so finance researchers need endpoint, technology, geography, matching, attrition,
+    and firm-characteristic robustness diagnostics.
