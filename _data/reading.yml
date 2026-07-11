@@ -12608,3 +12608,11 @@
     fee-cap changes demonstrating that low-cost arbitrage reallocates windfalls away from original
     writers and mechanically inflates reported option-market volume even when prices remain close to
     efficient.
+- title: "Chang, Hartzmark, Solomon, and Soltes (RFS, 2017) - Being Surprised by the Unsurprising: Earnings Seasonality and Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/82qu2ul3cue57y74b2hc3/Chang_Hartzmark_Solomon_Soltes_RFS_2017.pdf?rlkey=5939llljcmxz7d3i42rmtapq1&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs firm-specific earnings-seasonality rankings from
+    historical quarterly earnings and shows through cross-sectional and within-firm portfolio tests,
+    announcement-window returns, analyst forecast errors, recency interactions, and extensive risk and
+    accounting controls that investors incompletely price predictable seasonal earnings, producing
+    positive surprises and abnormal returns when historically strong quarters are announced.
