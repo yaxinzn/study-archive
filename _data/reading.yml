@@ -12599,3 +12599,12 @@
     are more exposed to permanent market cash-flow shocks, while growth firms’ cash flows are more
     sensitive to market discount-rate movements, so accounting profitability and leverage reveal
     systematic risk missed by return betas alone.
+- title: "Hao, Kalay, and Mayhew (RFS, 2010) - Ex-dividend Arbitrage in Option Markets"
+  file: "https://www.dropbox.com/scl/fi/1vymq7rdjzf4w3fb5c2mg/Hao_Kalay_Mayhew_RFS_2010.pdf?rlkey=r8s766j4jj7g822igm3mos3wx&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies widespread failures to exercise in-the-money American
+    calls before ex-dividend dates and shows how market makers exploit OCC clearing and assignment rules
+    through large offsetting dividend-play trades, with profit-sensitive volume spikes and exchange
+    fee-cap changes demonstrating that low-cost arbitrage reallocates windfalls away from original
+    writers and mechanically inflates reported option-market volume even when prices remain close to
+    efficient.
