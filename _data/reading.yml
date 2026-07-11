@@ -12575,3 +12575,12 @@
     to convex and nonconvex adjustment costs, so inventory expansion is strongest when the cost of
     capital is low and the model jointly reproduces key inventory dynamics and a sizable low-minus-high
     return spread.
+- title: "Love (RFS, 2010) - The Effects of Marital Status and Children on Savings and Portfolio Choice"
+  file: "https://www.dropbox.com/scl/fi/siasfqe5wyzjnr66it54i/Love_RFS_2010.pdf?rlkey=6nn8bqza9yfnl2pwb7cpbpo76&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds and calibrates a life-cycle household model with
+    stochastic income, mortality, medical expenses, life insurance, marriage, divorce, widowhood,
+    remarriage, and fertility to show that family transitions materially alter saving and risky-asset
+    shares through changes in wealth-to-income ratios, consumption needs, custody, insurance, and
+    bequest motives, with especially large and gender-asymmetric portfolio adjustments after divorce and
+    widowhood.
