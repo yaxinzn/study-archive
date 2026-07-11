@@ -1361,8 +1361,14 @@
   file: "https://www.dropbox.com/scl/fi/l06doqhlz8w004jedk9l0/Bordalo_Coffman_Gennaioli_Shleifer_QJE_2016.pdf?rlkey=iqet3ihuv8e667vls9vj60hvk&dl=0"
   desc: "This note summarizes the paper, which develops a representativeness-based model of stereotypes using target groups, reference groups, likelihood-ratio diagnosticity, distorted belief weights, theoretical results on mean and variance exaggeration, a laboratory experiment that changes comparison groups while holding target groups fixed, and political survey data on perceived versus true ideological positions to study belief formation about groups, showing that stereotypes contain a kernel of truth but systematically overweight distinctive or tail types, making beliefs context-dependent and exaggerated relative to true group differences."
 - title: "Azoulay, Graff Zivin, and Wang (QJE, 2010) - Superstar Extinction"
-  file: "https://www.dropbox.com/scl/fi/75ar6fff347mi42za61yb/Azoulay_GraffZivin_Wang_QJE_2010.pdf?rlkey=cp1bf5mp3ztbip5kw21urdh7k&dl=0"
-  desc: "This note summarizes the paper, which uses sudden and unexpected deaths of 112 active superstar life scientists, PubMED publication histories, AAMC Faculty Roster data, NIH funding and citation measures, matched collaborator controls, fixed-effects Poisson models, event-time dynamics, and dyad-level measures of coauthorship, colocation, trainee status, network ties, and MeSH keyword overlap to study scientific spillovers, showing that collaborators' quality-adjusted publication output falls persistently after a superstar dies, especially when collaborators are intellectually close to the star, consistent with idea-based spillovers rather than simple resource access or team-skill replacement."
+  file: "https://www.dropbox.com/scl/fi/gshf97b56phhqyngserdk/Azoulay_Zivin_Wang_QJE_2010.pdf?rlkey=k7s7bs2esdc5j6a9tqbs66yba&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses sudden deaths of elite life scientists as
+    quasi-experimental shocks to their collaborators, matched control collaborators, fixed-effects
+    Poisson models, publication and citation outcomes, NIH and coauthorship-network measures, and
+    idea-space overlap tests to show that losing a superstar persistently lowers collaborators’
+    quality-adjusted output, mainly through lost knowledge and idea spillovers within invisible colleges
+    rather than only lost coauthor labor, funding access, or gatekeeping.
 - title: "Graham, Harvey, and Puri (JFE, 2013) - Managerial Attitudes and Corporate Actions"
   file: "https://www.dropbox.com/scl/fi/goi9l3vmld5qzgzko5lcr/Graham_Harvey_Puri_JFE_2013.pdf?rlkey=a43opz5mryvjebtfm3m8to21f&dl=0"
   desc: "This note summarizes the paper, which uses direct survey and psychometric-style measures of CEO and CFO risk aversion, optimism, time preference, and sure-loss aversion, combined with executive demographics, firm characteristics, leverage, debt maturity, acquisition activity, growth, and compensation outcomes, to study whether managerial attitudes shape corporate actions, showing that CEOs are unusually optimistic and risk tolerant, optimistic CEOs use more debt and short-term debt, risk-tolerant CEOs make more acquisitions and match with growth firms, and risk-averse or impatient CEOs receive less performance-sensitive pay."
