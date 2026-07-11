@@ -12616,3 +12616,11 @@
     announcement-window returns, analyst forecast errors, recency interactions, and extensive risk and
     accounting controls that investors incompletely price predictable seasonal earnings, producing
     positive surprises and abnormal returns when historically strong quarters are announced.
+- title: "Begley and Purnanandam (RFS, 2017) - Design of Financial Securities: Empirical Evidence from Private-Label RMBS Deals"
+  file: "https://www.dropbox.com/scl/fi/ljuedskyodzyutth2obmo/Begley_Purnanandam_RFS_2017.pdf?rlkey=z1t62n4hjkpx9rlmgguxo2g6g&dl=0"
+  desc: >-
+    This note summarizes the paper, which hand-collects private-label RMBS tranche structures from SEC
+    filings and links them to CoreLogic loan performance to show that observable credit risk primarily
+    determines AAA tranche size, whereas larger equity tranches in opaque, no-documentation pools signal
+    better unobservable collateral quality, predict lower abnormal default, and receive better pricing,
+    especially when sponsors are also major originators and private information is strongest.
