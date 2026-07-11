@@ -12527,3 +12527,11 @@
     ties, NBER programs, coauthorship proximity, top-five status, and rank similarity make economics
     peer review more favorable, with mixed citation evidence suggesting that some editor-side network
     effects may reduce publication efficiency.
+- title: "Goyal, van der Leij, and Moraga-Gonzalez (JPE, 2006) - Economics: An Emerging Small World"
+  file: "https://www.dropbox.com/scl/fi/mwh858ef2ujfk1ra7pojg/Goyal_vanderLeij_MoragaGonzalez_JPE_2006.pdf?rlkey=cwl6godqjrcapwqsi06p26tps&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs decade-level EconLit coauthorship networks for
+    economists from 1970 to 2000 and uses degree, giant-component, distance, clustering, and
+    deletion-experiment measures to show that economics became an emerging small world: the profession
+    more than doubled in size, the giant component expanded sharply, average distance fell, and
+    interlinked star economists bridged otherwise clustered local neighborhoods.
