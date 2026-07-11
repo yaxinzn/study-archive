@@ -12659,3 +12659,12 @@
     equalizing ratings across styles sharply reduced flow and return dispersion and eliminated the
     roughly 1% monthly rating-driven style momentum strategy without reducing investors’ sensitivity to
     ratings.
+- title: "Acharya, Pedersen, Philippon, and Richardson (RFS, 2017) - Measuring Systemic Risk"
+  file: "https://www.dropbox.com/scl/fi/28gcesc4vfiqsnnc7h84a/Acharya_Pedersen_Philippon_Richardson_RFS_2017.pdf?rlkey=diy6bve6cn8uxpva613twrja6&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives systemic expected shortfall as a financial
+    institution’s expected capital shortfall conditional on system-wide undercapitalization, links it to
+    marginal expected shortfall and leverage, and validates these market- and accounting-based inputs by
+    showing that they predict 2009 stress-test shortfalls, crisis-period equity losses, and CDS distress
+    better than standalone volatility or expected-shortfall measures, motivating systemic-risk capital
+    charges or taxes.
