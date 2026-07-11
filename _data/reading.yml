@@ -12641,3 +12641,12 @@
     holders blocking power over first-mortgage refinancing, reducing refinancing by about 2.2 percentage
     points for two-lien borrowers in the intermediate-CLTV region where resubordination matters most,
     particularly for smaller mortgages and loans near the conforming limit.
+- title: "Brownlees and Engle (RFS, 2017) - SRISK: A Conditional Capital Shortfall Measure of Systemic Risk"
+  file: "https://www.dropbox.com/scl/fi/xvn1by75teciz6ylwlghv/Brownlees_Engle_RFS_2017.pdf?rlkey=fvmyzy7amym1w698n8vr7vkz0&dl=0"
+  desc: >-
+    This note summarizes the paper, which defines SRISK as a financial firm’s expected dollar capital
+    shortfall conditional on a severe market decline, estimates crisis-state equity losses with dynamic
+    GARCH-DCC LRMES, and shows that the resulting combination of size, leverage, and downside exposure
+    identified major systemic institutions before the 2007–2009 crisis, predicted Federal Reserve
+    capital injections, and forecast subsequent industrial-production declines and unemployment
+    increases.
