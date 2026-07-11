@@ -1600,9 +1600,15 @@
 - title: "Eizenberg (RES, 2014) - Upstream Innovation and Product Variety in the U.S. Home PC Marke"
   file: "https://www.dropbox.com/scl/fi/htk0fm33ssqp6n6v27m9l/Eizenberg_RES_2014.pdf?rlkey=fk3dri8g079lnb4h3lsewnphs&dl=0"
   desc: "This note summarizes the paper, which uses U.S. home PC market data, CPU technology adoption, random-coefficients demand, Nash-Bertrand pricing, endogenous downstream product-portfolio choice, partially identified fixed costs, potential-equilibrium counterfactuals, and Pentium M innovation simulations to study upstream innovation and product variety, showing that Intel’s Pentium M raised aggregate welfare and notebook demand but crowded out older affordable configurations, concentrating benefits among less price-sensitive consumers."
-- title: "Kim & Kung (RFS, 2017) - The Asset Redeployability Channel: How Uncertainty Affects Corporate Investment"
+- title: "Kim and Kung (RFS, 2017) - The Asset Redeployability Channel: How Uncertainty Affects Corporate Investment"
   file: "https://www.dropbox.com/scl/fi/g6549ayvfd2tna3u2jmtq/Kim_Kung_RFS_2017.pdf?rlkey=di1fzqr4mi00n2e50pc8w0p2a&dl=0"
-  desc: "This note summarizes the paper, which uses BEA capital-flow-based asset redeployability measures, Compustat quarterly investment data, Gulf War I and 9/11 uncertainty shocks, VIX and EPU long-panel tests, dynamic event specifications, Tobin’s q measurement-error corrections, and recovery-rate, asset-sale, leverage, and debt-maturity validation tests to study investment under uncertainty, showing that firms with less redeployable assets cut investment more when uncertainty rises because irreversible capital makes waiting more valuable."
+  desc: >-
+    This note summarizes the paper, which constructs BEA capital-flow-table measures of asset
+    redeployability and combines them with Gulf War I, 9/11, VIX, and economic-policy-uncertainty
+    variation to show that firms with more specialized, harder-to-resell assets reduce investment more
+    when uncertainty rises and rebound more when it falls, with recovery rates, used-asset sales, and
+    leverage tests validating redeployability as a liquidation-value and secondary-market-liquidity
+    channel.
 - title: "Fisman & Wang (RES, 2015) - The Mortality Cost of Political Connections"
   file: "https://www.dropbox.com/scl/fi/au751rzkbpcry8aztj2d8/Fisman_Wang_RES_2015.pdf?rlkey=1twavox5j334se6mkwxvisv9q&dl=0"
   desc: "This note summarizes the paper, which uses Chinese listed firms, executive political-connection measures, worker-fatality records, safety and environmental violation reports, firm fixed-effects death regressions, market reactions to fatal accidents, connected-executive departures, and provincial NSNP regulator-incentive reforms to study the social cost of political ties, showing that connected firms face weaker safety scrutiny, have substantially higher worker death rates, and lose connection value after visible fatal accidents, while stronger regulator incentives reduce the excess mortality."
