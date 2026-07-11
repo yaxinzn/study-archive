@@ -12584,3 +12584,12 @@
     shares through changes in wealth-to-income ratios, consumption needs, custody, insurance, and
     bequest motives, with especially large and gender-asymmetric portfolio adjustments after divorce and
     widowhood.
+- title: "Campbell, Polk, and Vuolteenaho (RFS, 2010) - Growth or Glamour? Fundamentals and Systematic Risk in Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/sqbfjcbwi7obqrtyo3qg0/Campbell_Polk_Vuolteenaho_RFS_2010.pdf?rlkey=cijwgpgwgqsyhys1twot7ua3v&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines direct accounting proxies with aggregate and
+    firm-level VAR decompositions of cash-flow and discount-rate news to show that value-growth
+    differences in good and bad betas are primarily rooted in firms’ cash-flow fundamentals: value firms
+    are more exposed to permanent market cash-flow shocks, while growth firms’ cash flows are more
+    sensitive to market discount-rate movements, so accounting profitability and leverage reveal
+    systematic risk missed by return betas alone.
