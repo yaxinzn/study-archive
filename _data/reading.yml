@@ -12857,3 +12857,11 @@
     relative optimism generate trade and jointly explain the positive relation between volume and
     absolute price or forecast revisions, negative serial correlation in transaction price changes,
     persistent volume, and unusually high volume after market closures.
+- title: "Meeuwis, Parker, Schoar, and Simester (JF, 2022) - Belief Disagreement and Portfolio Choice"
+  file: "https://www.dropbox.com/scl/fi/hcyhswle7yt0ggv7xfck9/Meeuwis_Parker_Schoar_Simester_JF_2022.pdf?rlkey=rwsy7zoxh0ophjyu6p2pz8gw5&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines partisan survey beliefs around the unexpected 2016
+    U.S. election with administrative retirement-account data to show that likely Republicans actively
+    increased equity exposure and portfolio beta relative to likely Democrats, especially among
+    previously active investors, with the result surviving rich household controls and
+    employer-by-county-by-period fixed effects.
