@@ -12759,3 +12759,12 @@
     larger filing size robustly predicts higher post-filing volatility, larger earnings surprises, and
     greater analyst disagreement and therefore provides a simple proxy for disclosure burden and
     information overload.
+- title: "Gorton and Kahn (RFS, 2000) - The Design of Bank Loan Contracts"
+  file: "https://www.dropbox.com/scl/fi/nexn76bifvky15004trkv/Gorton_Kahn_RFS_2000.pdf?rlkey=5jbkoo0455n4uru40o3q525y3&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a renegotiation model with borrower asset
+    substitution and bank hold-up to explain why bank loans are concentrated, senior, secured, covenant
+    intensive, and nonlinearly priced, showing that the initial face value allocates future bargaining
+    power so that debt forgiveness, rate increases, and liquidation balance inefficient borrower risk
+    shifting against opportunistic lender intervention rather than merely pricing expected default
+    losses.
