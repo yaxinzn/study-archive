@@ -12717,3 +12717,12 @@
     geographic, cultural, and institutional distance raises systematic FX exposure, while closeness,
     pegs, and network integration reduce it, with trade-network centrality emerging as the strongest
     country-level predictor of the systematic-risk share in currency movements.
+- title: "Chaieb, Errunza, and Gibson Brandon (RFS, 2020) - Measuring Sovereign Bond Market Integration"
+  file: "https://www.dropbox.com/scl/fi/vejaupr9eudh4duf2e8dj/Chaieb_Errunza_Brandon_RFS_2020.pdf?rlkey=m16amrhxm3olb6gg7d20epqi9&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a time-varying sovereign-bond integration index from
+    the squared conditional correlation between local-currency government-bond returns and portfolios of
+    globally accessible substitute assets, showing that local unspanned risk remains priced across
+    developed and emerging markets, higher integration materially lowers sovereign funding costs, and
+    political stability, credit quality, inflation risk, and especially illiquidity explain
+    cross-country differences in integration.
