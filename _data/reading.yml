@@ -12684,3 +12684,11 @@
     fifteen-minute returns for large U.S. stocks, showing that macro announcements and market jumps
     predict systematic jump arrivals, earnings and analyst recommendations predict idiosyncratic jumps,
     and jump sizes cluster over short horizons.
+- title: "Todorov (RFS, 2010) - Variance Risk-Premium Dynamics: The Role of Jumps"
+  file: "https://www.dropbox.com/scl/fi/uwztyti1jq11pnv6nri1w/Todorov_RFS_2010.pdf?rlkey=kglam1r1wddd1tfminur4dz3v&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines five-minute S&P 500 futures returns, realized
+    variance and jump measures, variance-swap rates, a two-component stochastic-volatility model, and
+    deep out-of-the-money put prices to show that the variance risk premium is large and time varying,
+    depends strongly on recent jump activity, and reflects persistent investor fear of future jumps even
+    after jump-driven realized volatility quickly mean-reverts.
