@@ -12800,3 +12800,11 @@
     when private communication is prohibited, but explicit communication sustains collusion, wide
     spreads, high dealer profits, and impaired price discovery, while public trader limit orders restore
     efficiency at the cost of sharply reducing dealer profitability.
+- title: "Barber, Huang, Jorion, Odean, and Schwarz (JF, 2024) - A (Sub)penny for Your Thoughts: Tracking Retail Investor Activity in TAQ"
+  file: "https://www.dropbox.com/scl/fi/imwcb33s10dmavrenuek6/Barber_Huang_Jorion_Odean_Schwarz_JF_2024.pdf?rlkey=naihznzl8cdy3on0vudeey17s&dl=0"
+  desc: >-
+    This note summarizes the paper, which validates TAQ retail-trade algorithms against more than 64,000
+    known retail transactions placed through brokerage accounts in 2021-2022, showing that the original
+    BJZZ method identifies only about one-third of retail trades and signs roughly 72 percent correctly,
+    especially failing for wide spreads, whereas signing subpenny-identified trades relative to the
+    quote midpoint raises conditional accuracy to about 95 percent.
