@@ -12808,3 +12808,12 @@
     BJZZ method identifies only about one-third of retail trades and signs roughly 72 percent correctly,
     especially failing for wide spreads, whereas signing subpenny-identified trades relative to the
     quote midpoint raises conditional accuracy to about 95 percent.
+- title: "Cuoco and Zapatero (RFS, 2000) - On the Recoverability of Preferences and Beliefs"
+  file: "https://www.dropbox.com/scl/fi/kitkj4y19r9ds1lqgdnv6/Cuoco_Zapatero_RFS_2000.pdf?rlkey=azn76ftnuvc26arsjpohge3kr&dl=0"
+  desc: >-
+    This note summarizes the paper, which asks when observed intertemporal consumption can jointly
+    identify utility and subjective beliefs in a complete continuous-time market, derives a
+    necessary-and-sufficient martingale restriction linking marginal utility, state prices, and the
+    belief-density process, and shows that in a Markovian Lucas economy recoverability reduces to a
+    Riccati equation for risk tolerance with uniqueness under economically meaningful boundary
+    conditions.
