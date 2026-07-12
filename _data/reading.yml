@@ -12913,3 +12913,11 @@
     proxies, produces downward price corrections around information events, and lowers downside crash
     risk, with IV and heterogeneity tests indicating that disagreement is especially destabilizing when
     short-sale constraints bind and optimism is high.
+- title: "Daniel, Klos, and Rottke (RFS, 2023) - The Dynamics of Disagreement"
+  file: "https://www.dropbox.com/scl/fi/gjpqwz1rezvc71hv4h922/Daniel_Klos_Rottke_RFS_2023.pdf?rlkey=n5cwytsysfss3tm7xgrjqn2zk&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses short-sale-constrained winners and losers to infer belief
+    dynamics after large shocks, documenting that constrained winners underperform for roughly five
+    years while constrained losers underperform for only one year even though lending fees and analyst
+    dispersion decay slowly for both, consistent with persistent overreaction by informed optimists and
+    short-lived underreaction by slow-learning newswatchers.
