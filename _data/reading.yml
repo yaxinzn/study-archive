@@ -12921,3 +12921,11 @@
     years while constrained losers underperform for only one year even though lending fees and analyst
     dispersion decay slowly for both, consistent with persistent overreaction by informed optimists and
     short-lived underreaction by slow-learning newswatchers.
+- title: "Atmaz and Basak (JF, 2018) - Belief Dispersion in the Stock Market"
+  file: "https://www.dropbox.com/scl/fi/orcussnr8ehxh7khsl8ud/Atmaz_Basak_JF_2018.pdf?rlkey=8jqh3st4vnal5gd5tccyja8ln&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a tractable dynamic equilibrium with a continuum of
+    investors holding dispersed beliefs, showing that cash-flow news shifts equilibrium wealth toward
+    optimists or pessimists and makes prices convex, that dispersion lowers expected returns in
+    optimistic states but raises them in pessimistic states, and that greater disagreement increases
+    both stock volatility and trading volume.
