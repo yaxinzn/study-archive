@@ -12676,3 +12676,11 @@
     informationally close traders and potentially negative correlation among distant traders, while
     typically increasing aggregate volume and price informativeness and producing liquidity and profit
     effects that depend on the correlation structure of linked information.
+- title: "Lee (RFS, 2012) - Jumps and Information Flow in Financial Markets"
+  file: "https://www.dropbox.com/scl/fi/mr1y44r5phu1dbmh6l73e/Lee_RFS_2012.pdf?rlkey=6esvsgv9c1t0qu5lg74frypgf&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a likelihood-based jump predictor test that combines
+    nonparametric jump detection with continuous-time stochastic-intensity models and applies it to
+    fifteen-minute returns for large U.S. stocks, showing that macro announcements and market jumps
+    predict systematic jump arrivals, earnings and analyst recommendations predict idiosyncratic jumps,
+    and jump sizes cluster over short horizons.
