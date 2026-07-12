@@ -12726,3 +12726,11 @@
     developed and emerging markets, higher integration materially lowers sovereign funding costs, and
     political stability, credit quality, inflation risk, and especially illiquidity explain
     cross-country differences in integration.
+- title: "Cesa-Bianchi, Pesaran, and Rebucci (RFS, 2020) - Uncertainty and Economic Activity: A Multicountry Perspective"
+  file: "https://www.dropbox.com/scl/fi/vbb9i6ia5nx1oiswjp6uy/Cesabianchi_Pesaran_Rebucci_RFS_2020.pdf?rlkey=s6xq604lechs87ftz3lt7lhmc&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses realized equity volatility and GDP growth for 32
+    countries, a multicountry asset-pricing model, and a factor-augmented panel VAR to separate global
+    growth from global financial shocks, showing that common growth shocks explain much of the raw
+    negative volatility-growth correlation, single-country VARs overstate domestic uncertainty effects,
+    and global financial shocks generate large and persistent international contractions.
