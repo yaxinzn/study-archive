@@ -12750,3 +12750,12 @@
     welfare-maximizing new securities are tailored swaps rather than claims on aggregate world income,
     but uncertainty about risk aversion and an exchangeable covariance structure can make the world
     portfolio the robust first market to create.
+- title: "Loughran and McDonald (JF, 2014) - Measuring Readability in Financial Disclosures"
+  file: "https://www.dropbox.com/scl/fi/8rosww4osna4iirbn358c/Loughran_McDonald_JF_2014.pdf?rlkey=weytslvi7bj8k906uhcl11ldd&dl=0"
+  desc: >-
+    This note summarizes the paper, which evaluates readability measures using 66,707 SEC 10-K filings
+    and market- and analyst-based information outcomes, showing that the Fog Index is poorly suited to
+    financial text because common business terms are mechanically classified as difficult, whereas
+    larger filing size robustly predicts higher post-filing volatility, larger earnings surprises, and
+    greater analyst disagreement and therefore provides a simple proxy for disclosure burden and
+    information overload.
