@@ -12944,3 +12944,11 @@
     series solution for the nonlinear consumption-sharing rule to show that endogenous consumption
     weights make aggregate risk aversion and beliefs time varying and can generate countercyclical risk
     premia, volatility, and market prices of risk under conditions that preserve both agent types.
+- title: "Kasa, Walker, and Whiteman (REStud, 2014) - Heterogeneous Beliefs and Tests of Present Value Models"
+  file: "https://www.dropbox.com/scl/fi/nphprk19h7s1yvbfmrlyd/Kasa_Walker_Whiteman_RES_2014.pdf?rlkey=58ul8h652y9zs1ovq7uxluwq3&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a noisy rational-expectations present-value model in
+    which noninvertible fundamentals prevent prices from revealing traders' different private signals,
+    so a persistent higher-order-beliefs component makes rational prices appear excessively volatile,
+    returns predictable, and VAR cross-equation restrictions invalid when an econometrician incorrectly
+    imposes homogeneous beliefs.
