@@ -12936,3 +12936,11 @@
     monitors into riskier junior claims, showing that priority is efficient because it reduces
     duplicative information acquisition rather than merely redistributing bankruptcy value and that
     legal standardization can substitute for costly bilateral seniority covenants.
+- title: "Bhamra and Uppal (RFS, 2014) - Asset Prices with Heterogeneity in Preferences and Beliefs"
+  file: "https://www.dropbox.com/scl/fi/rktnjdn65szi5hon01rtn/Bhamra_Uppal_RFS_2014.pdf?rlkey=n70lh4n6llk8zu5n6ym6uer0g&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives a tractable continuous-time complete-markets
+    equilibrium with heterogeneous risk aversion, discounting, habit sensitivity, and beliefs, using a
+    series solution for the nonlinear consumption-sharing rule to show that endogenous consumption
+    weights make aggregate risk aversion and beliefs time varying and can generate countercyclical risk
+    premia, volatility, and market prices of risk under conditions that preserve both agent types.
