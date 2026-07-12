@@ -12776,3 +12776,11 @@
     continuation, especially persistent underperformance after bad news, whereas comparable no-news
     movements reverse, supporting slow incorporation of genuine information alongside temporary price
     pressure or overreaction when returns are not anchored by observable news.
+- title: "Goldstein (RFS, 2000) - The Term Structure of Interest Rates as a Random Field"
+  file: "https://www.dropbox.com/scl/fi/4jbzmlacjt0h3oupo8rwr/Goldstein_RFS_2000.pdf?rlkey=dc3mi3bhp7b5byf9iua4lnf1f&dl=0"
+  desc: >-
+    This note summarizes the paper, which generalizes Heath-Jarrow-Morton term-structure models by
+    assigning maturity-indexed Brownian shocks linked through a smooth covariance kernel, derives the
+    corresponding no-arbitrage drift and forward-measure results, and shows how random fields can
+    reproduce rich yield-curve innovations and realistic maturity-based hedging while retaining
+    finite-factor models as singular special cases.
