@@ -12881,3 +12881,11 @@
     cross-approach model differences, finding that approaches explain roughly half of total disagreement
     but within-group disagreement is much more strongly associated with abnormal trading volume, while
     professional sentiment leads less sophisticated investors.
+- title: "Li, Maug, and Schwartz-Ziv (RFS, 2022) - When Shareholders Disagree: Trading after Shareholder Meetings"
+  file: "https://www.dropbox.com/scl/fi/f83pp2l2e54urqxnvcqy3/Li_Maug_SchwartzZiv_RFS_2022.pdf?rlkey=rylhowlqjxl08qmnxijrfjp1q&dl=0"
+  desc: >-
+    This note summarizes the paper, which matches mutual funds' proxy votes to daily trades and shows
+    that actively managed funds sell more and buy less when shareholder-meeting outcomes contradict
+    their votes, while meetings generate persistent abnormal volume with little average price movement,
+    indicating that disagreement and learning jointly trigger ownership reallocation and gradually make
+    the shareholder base more internally aligned.
