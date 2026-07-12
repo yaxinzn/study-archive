@@ -12865,3 +12865,11 @@
     increased equity exposure and portfolio beta relative to likely Democrats, especially among
     previously active investors, with the result surviving rich household controls and
     employer-by-county-by-period fixed effects.
+- title: "Anderson, Ghysels, and Juergens (RFS, 2005) - Do Heterogeneous Beliefs Matter for Asset Pricing?"
+  file: "https://www.dropbox.com/scl/fi/pkx0i66vzpz81rv2j2wlr/Anderson_Ghysels_Juergens_RFS_2005.pdf?rlkey=sgk83ie5ldxjq3hi7t8gqu14o&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs short- and long-term analyst-forecast-dispersion
+    factors and implements a heterogeneous-beliefs consumption-based pricing model, showing that
+    disagreement adds explanatory power for returns and is especially useful for forecasting volatility,
+    while amplification and recommendation-based belief biases improve structural GMM fit without fully
+    resolving the equity-premium puzzle.
