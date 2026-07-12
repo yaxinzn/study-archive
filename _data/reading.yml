@@ -12905,3 +12905,11 @@
     predicts lower monthly and weekly stock returns, including among large firms, while its effect is
     negative after positive earnings news, positive after negative news, and strongest where short-sale
     constraints limit pessimistic investors.
+- title: "Chang, Hsiao, Ljungqvist, and Tseng (JF, 2022) - Testing Disagreement Models"
+  file: "https://www.dropbox.com/scl/fi/tpxh5d80p9p4q1m2whg1u/Chang_Hsiao_Ljungqvist_Tseng_JF_2022.pdf?rlkey=zhdtm9q8ht82c5shieb8w7wi9&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits the staggered introduction of free online EDGAR
+    filings as an information-access shock, showing that disclosure access reduces multiple disagreement
+    proxies, produces downward price corrections around information events, and lowers downside crash
+    risk, with IV and heterogeneity tests indicating that disagreement is especially destabilizing when
+    short-sale constraints bind and optimism is high.
