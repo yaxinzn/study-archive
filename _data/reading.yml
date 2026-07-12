@@ -12768,3 +12768,11 @@
     power so that debt forgiveness, rate increases, and liquidation balance inefficient borrower risk
     shifting against opportunistic lender intervention rather than merely pricing expected default
     losses.
+- title: "Chan (JFE, 2003) - Stock Price Reaction to News and No-News: Drift and Reversal after Headlines"
+  file: "https://www.dropbox.com/scl/fi/a7ixjbbbo4zecc157szd4/Chan_JFE_2003.pdf?rlkey=694frdxy3tbw0o4bwlpizxz7p&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines a hand-collected 1980-2000 firm-headline database
+    with CRSP returns to show that large price movements accompanied by public news exhibit
+    continuation, especially persistent underperformance after bad news, whereas comparable no-news
+    movements reverse, supporting slow incorporation of genuine information alongside temporary price
+    pressure or overreaction when returns are not anchored by observable news.
