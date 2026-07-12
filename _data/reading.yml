@@ -12709,3 +12709,11 @@
     sharply reduced both long and short equity exposure during the financial crisis, with investor
     redemptions and lender pressure explaining most selling and constrained funds disproportionately
     liquidating volatile and liquid stocks, thereby revealing the fragility of arbitrage capital.
+- title: "Lustig and Richmond (RFS, 2020) - Gravity in the Exchange Rate Factor Structure"
+  file: "https://www.dropbox.com/scl/fi/j9ut059kzfpxunqomkgzy/Lustig_Richmond_RFS_2020.pdf?rlkey=2byhnke8arogzqchbfmlph6yt&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs base-currency factors across a broad international
+    panel and shows that bilateral exchange-rate loadings follow a gravity structure: greater
+    geographic, cultural, and institutional distance raises systematic FX exposure, while closeness,
+    pegs, and network integration reduce it, with trade-network centrality emerging as the strongest
+    country-level predictor of the systematic-risk share in currency movements.
