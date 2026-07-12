@@ -12873,3 +12873,11 @@
     disagreement adds explanatory power for returns and is especially useful for forecasting volatility,
     while amplification and recommendation-based belief biases improve structural GMM fit without fully
     resolving the equity-premium puzzle.
+- title: "Cookson and Niessner (JF, 2020) - Why Don't We Agree? Evidence from a Social Network of Investors"
+  file: "https://www.dropbox.com/scl/fi/wmoxpo58lxq6jn44os6w1/Cookson_Niessner_JF_2020.pdf?rlkey=4kkqjg33x68iuaz98uirqgxqx&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses StockTwits messages and self-reported investment
+    approaches to decompose investor disagreement into within-approach information differences and
+    cross-approach model differences, finding that approaches explain roughly half of total disagreement
+    but within-group disagreement is much more strongly associated with abnormal trading volume, while
+    professional sentiment leads less sophisticated investors.
