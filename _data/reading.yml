@@ -12825,3 +12825,11 @@
     for different reasons: marketable orders forecast favorable cash-flow news and earnings surprises,
     while nonmarketable limit orders trade contrarian and earn liquidity-provision returns, with little
     evidence that aggregate retail activity produces long-run price reversals.
+- title: "Jackwerth (RFS, 2000) - Recovering Risk Aversion from Option Prices and Realized Returns"
+  file: "https://www.dropbox.com/scl/fi/ij9zv0pk3u2x5ui3csykm/Jackwerth_RFS_2000.pdf?rlkey=i1g176nd09qej5ftqzs0i84y4&dl=0"
+  desc: >-
+    This note summarizes the paper, which recovers aggregate absolute risk aversion from the wedge
+    between option-implied risk-neutral densities and historical S&P 500 return densities, finding
+    conventional positive and mostly decreasing risk aversion before the 1987 crash but negative and
+    U-shaped postcrash estimates, and interpreting the robust discrepancy and profitable put-selling
+    simulations as evidence that investors overpaid for index crash insurance.
