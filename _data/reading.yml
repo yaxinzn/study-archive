@@ -12817,3 +12817,11 @@
     belief-density process, and shows that in a Markovian Lucas economy recoverability reduces to a
     Riccati equation for risk tolerance with uniqueness under economically meaningful boundary
     conditions.
+- title: "Kelley and Tetlock (JF, 2013) - How Wise Are Crowds? Insights from Retail Orders and Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/jjova8l4ikdwqvw7u8u2c/Kelley_Tetlock_JF_2013.pdf?rlkey=newo37b720cbx1kosjh0ls1m7&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses broad proprietary retail-order data, Dow Jones news, and
+    earnings surprises to show that both aggressive and passive retail imbalances predict future returns
+    for different reasons: marketable orders forecast favorable cash-flow news and earnings surprises,
+    while nonmarketable limit orders trade contrarian and earn liquidity-provision returns, with little
+    evidence that aggregate retail activity produces long-run price reversals.
