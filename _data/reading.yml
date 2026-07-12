@@ -12668,3 +12668,11 @@
     showing that they predict 2009 stress-test shortfalls, crisis-period equity losses, and CDS distress
     better than standalone volatility or expected-shortfall measures, motivating systemic-risk capital
     charges or taxes.
+- title: "Colla and Mele (RFS, 2010) - Information Linkages and Correlated Trading"
+  file: "https://www.dropbox.com/scl/fi/oqbszs6shwdc8sxxgatef/Colla_Mele_RFS_2009.pdf?rlkey=vcfa31c8kbmoewvk1bktyatpc&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds local information networks in a dynamic multi-insider
+    Kyle market to show that overlapping signals generate positive trading correlation among
+    informationally close traders and potentially negative correlation among distant traders, while
+    typically increasing aggregate volume and price informativeness and producing liquidity and profit
+    effects that depend on the correlation structure of linked information.
