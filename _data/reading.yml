@@ -12960,3 +12960,11 @@
     rejecting the two-fund prediction that all stocks have identical turnover but finding that stock
     characteristics explain substantial cross-sectional variation and that one or two common components
     capture more than 90 percent of turnover-portfolio variation.
+- title: "Morris (QJE, 1996) - Speculative Investor Behavior and Learning"
+  file: "https://www.dropbox.com/scl/fi/sggh97cs0wm0xdquq3vaw/Morris_QJE_1996.pdf?rlkey=ynglhf1hhui51xkjltctqey4w&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds heterogeneous priors and Bayesian learning in a
+    short-sale-constrained resale-option model, showing that when no investor remains globally most
+    optimistic across all future histories, the equilibrium price strictly exceeds every trader's
+    current fundamental valuation at each finite date, while the speculative premium declines as
+    learning accumulates and provides a rational interpretation of IPO overpricing.
