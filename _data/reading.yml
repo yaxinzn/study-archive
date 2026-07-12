@@ -12742,3 +12742,11 @@
     governed, financially unconstrained, low-delta firms undertake large investments most frequently and
     subsequently experience poor operating and stock performance, consistent with governance and
     incentive mechanisms restraining managerial overinvestment.
+- title: "Athanasoulis and Shiller (RFS, 2000) - The Significance of the Market Portfolio"
+  file: "https://www.dropbox.com/scl/fi/nbakzo0d4to09cq3u0qx2/Athanasoulis_Shiller_RFS_2000.pdf?rlkey=4bdyouoppvcipp7dmb6bbgf8c&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies optimal financial-market design when agents hold
+    nontraded endowment risks and shows that, under full information about preferences and covariances,
+    welfare-maximizing new securities are tailored swaps rather than claims on aggregate world income,
+    but uncertainty about risk aversion and an exchangeable covariance structure can make the world
+    portfolio the robust first market to create.
