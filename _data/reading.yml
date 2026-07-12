@@ -12841,3 +12841,11 @@
     short-run return continuation but approximately 4.4 percentage points of buy-minus-sell reversal
     over the following year, with the reversal strongest in high-idiosyncratic-risk and
     high-retail-turnover stocks where arbitrage is most difficult.
+- title: "Naranjo and Nimalendran (RFS, 2000) - Government Intervention and Adverse Selection Costs in Foreign Exchange Markets"
+  file: "https://www.dropbox.com/scl/fi/h7hko2wz7j85p2q47t0f7/Naranjo_Nimalendran_RFS_2000.pdf?rlkey=v0fot0uougum53cer889abivl&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines a dealer-market adverse-selection model with official
+    U.S. and German intervention data for the DM-dollar market from 1976 to 1994, showing that spot and
+    forward spreads rise specifically with the squared unexpected components of intervention rather than
+    predictable intervention, consistent with opaque policy trades increasing dealers’ information risk
+    and market-wide transaction costs.
