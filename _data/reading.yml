@@ -12692,3 +12692,12 @@
     deep out-of-the-money put prices to show that the variance risk premium is large and time varying,
     depends strongly on recent jump activity, and reflects persistent investor fear of future jumps even
     after jump-driven realized volatility quickly mean-reverts.
+- title: "Karlan and Zinman (RFS, 2010) - Expanding Credit Access: Using Randomized Supply Decisions to Estimate the Impacts"
+  file: "https://www.dropbox.com/scl/fi/1x1rklqfz2x2h6jvh3n7o/Karlan_Zinman_RFS_2010.pdf?rlkey=wvnqfhoe8jpvoof79200rf7o8&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a randomized lender-side second-look experiment for
+    marginally rejected South African applicants to estimate the effects of access to high-interest
+    unsecured consumer loans, finding that treatment increases borrowing and improves consumption,
+    economic self-sufficiency, control, and the overall outcome index, while worsening one mental-health
+    index, causing no later credit-score deterioration, and producing positive risk-unadjusted profits
+    for the lender.
