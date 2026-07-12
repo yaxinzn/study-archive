@@ -12849,3 +12849,11 @@
     forward spreads rise specifically with the squared unexpected components of intervention rather than
     predictable intervention, consistent with opaque policy trades increasing dealers’ information risk
     and market-wide transaction costs.
+- title: "Harris and Raviv (RFS, 1993) - Differences of Opinion Make a Horse Race"
+  file: "https://www.dropbox.com/scl/fi/t2y0g8z8me7e2e799121v/Harris_Raviv_RFS_1993.pdf?rlkey=7ma35h4ru3qhw2lw0r8l0d4zt&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a speculative-trading model in which investors
+    observe the same public signals but disagree about their informativeness, showing that changes in
+    relative optimism generate trade and jointly explain the positive relation between volume and
+    absolute price or forecast revisions, negative serial correlation in transaction price changes,
+    persistent volume, and unusually high volume after market closures.
