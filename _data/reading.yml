@@ -12734,3 +12734,11 @@
     growth from global financial shocks, showing that common growth shocks explain much of the raw
     negative volatility-growth correlation, single-country VARs overstate domestic uncertainty effects,
     and global financial shocks generate large and persistent international contractions.
+- title: "Billett, Garfinkel, and Jiang (JFE, 2011) - The Influence of Governance on Investment: Evidence from a Hazard Model"
+  file: "https://www.dropbox.com/scl/fi/wxfxre68wvmlh7eoo4zbh/Billett_Garfinkel_Jiang_JFE_2011.pdf?rlkey=jvg6lodxo1f0odigjzji2xk6j&dl=0"
+  desc: >-
+    This note summarizes the paper, which models the duration between firm-level investment spikes and
+    jointly sorts firms by governance, financial constraints, and CEO incentives to show that weakly
+    governed, financially unconstrained, low-delta firms undertake large investments most frequently and
+    subsequently experience poor operating and stock performance, consistent with governance and
+    incentive mechanisms restraining managerial overinvestment.
