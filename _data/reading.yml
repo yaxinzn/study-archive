@@ -12897,3 +12897,11 @@
     volume into new-disagreement trades and subsequent belief-convergence trades and thereby generating
     volume spikes, positive volume autocorrelation, and a positive relation between disagreement-driven
     volume and absolute returns around public information events.
+- title: "Golez and Goyenko (RFS, 2022) - Disagreement in the Equity Options Market and Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/l2zdr8no5tx3eywnz8bx3/Golez_Goyenko_RFS_2022.pdf?rlkey=6o8rz68l7c9w32um6xyd5jo5z&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures disagreement from simultaneous delta-adjusted
+    synthetic long and short exposures in customer option trades and shows that high disagreement
+    predicts lower monthly and weekly stock returns, including among large firms, while its effect is
+    negative after positive earnings news, positive after negative news, and strongest where short-sale
+    constraints limit pessimistic investors.
