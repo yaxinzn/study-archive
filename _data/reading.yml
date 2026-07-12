@@ -12929,3 +12929,11 @@
     optimists or pessimists and makes prices convex, that dispersion lowers expected returns in
     optimistic states but raises them in pessimistic states, and that greater disagreement increases
     both stock volatility and trading volume.
+- title: "Birchler (RFS, 2000) - Bankruptcy Priority for Bank Deposits: A Contract Theoretic Explanation"
+  file: "https://www.dropbox.com/scl/fi/6tvis6nw3dtryi3jsvwwa/Birchler_RFS_2000.pdf?rlkey=gs6cr3pn299zhorlzre2ilwiy&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a private-information contracting model in which
+    deposit priority separates high-cost uninformed investors into safer senior claims and low-cost
+    monitors into riskier junior claims, showing that priority is efficient because it reduces
+    duplicative information acquisition rather than merely redistributing bankruptcy value and that
+    legal standardization can substitute for costly bilateral seniority covenants.
