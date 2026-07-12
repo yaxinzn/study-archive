@@ -12889,3 +12889,11 @@
     their votes, while meetings generate persistent abnormal volume with little average price movement,
     indicating that disagreement and learning jointly trigger ownership reallocation and gradually make
     the shareholder base more internally aligned.
+- title: "Banerjee and Kremer (JF, 2010) - Disagreement and Learning: Dynamic Patterns of Trade"
+  file: "https://www.dropbox.com/scl/fi/3ukxppji9ghsrr4ypn5vy/Banerjee_Kremer_JF_2010.pdf?rlkey=im0mcq38t4dzvnz67qnaidlmr&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic differences-of-opinion model in which
+    prices reflect average beliefs and positions reflect deviations from consensus, decomposing trading
+    volume into new-disagreement trades and subsequent belief-convergence trades and thereby generating
+    volume spikes, positive volume autocorrelation, and a positive relation between disagreement-driven
+    volume and absolute returns around public information events.
