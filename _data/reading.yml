@@ -12784,3 +12784,11 @@
     corresponding no-arbitrage drift and forward-measure results, and shows how random fields can
     reproduce rich yield-curve innovations and realistic maturity-based hedging while retaining
     finite-factor models as singular special cases.
+- title: "Boehmer, Jones, Zhang, and Zhang (JF, 2021) - Tracking Retail Investor Activity"
+  file: "https://www.dropbox.com/scl/fi/0a36fsr0qvpkkcjx44g4j/Boehmer_Jones_Zhang_Zhang_JF_2021.pdf?rlkey=lxsifqr6u7uk9ncwm53b9bax7&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a public-TAQ method that identifies marketable retail
+    buys and sells from off-exchange subpenny price improvement and shows that retail order imbalance
+    predicts stock returns for several weeks, particularly among small, low-price, and low-turnover
+    firms, with persistence and contrarian liquidity provision explaining part of the signal and a
+    substantial residual component consistent with slowly incorporated firm-level information.
