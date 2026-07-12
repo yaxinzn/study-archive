@@ -12833,3 +12833,11 @@
     conventional positive and mostly decreasing risk aversion before the 1987 crash but negative and
     U-shaped postcrash estimates, and interpreting the robust discrepancy and profitable put-selling
     simulations as evidence that investors overpaid for index crash insurance.
+- title: "Barber, Odean, and Zhu (RFS, 2009) - Do Retail Trades Move Markets?"
+  file: "https://www.dropbox.com/scl/fi/gbrrkwwfsv8i3t6nx1wb8/Barber_Odean_Zhu_RFS_2009.pdf?rlkey=ckxqdfuzct97ycngalpa84jmm&dl=0"
+  desc: >-
+    This note summarizes the paper, which validates signed small trades as a retail-trading proxy in
+    1983-2000 ISSM and TAQ data and documents coordinated, persistent retail order flow that predicts
+    short-run return continuation but approximately 4.4 percentage points of buy-minus-sell reversal
+    over the following year, with the reversal strongest in high-idiosyncratic-risk and
+    high-retail-turnover stocks where arbitrage is most difficult.
