@@ -12952,3 +12952,11 @@
     so a persistent higher-order-beliefs component makes rational prices appear excessively volatile,
     returns predictable, and VAR cross-equation restrictions invalid when an econometrician incorrectly
     imposes homogeneous beliefs.
+- title: "Lo and Wang (RFS, 2000) - Trading Volume: Definitions, Data Analysis, and Implications of Portfolio Theory"
+  file: "https://www.dropbox.com/scl/fi/ruf7gi1050wxfyjyr5xwp/Lo_Wang_RFS_2000.pdf?rlkey=2y43o8oiivijz7n872s947l6p&dl=0"
+  desc: >-
+    This note summarizes the paper, which identifies share turnover as the volume measure naturally
+    linked to portfolio weights and tests the volume implications of mutual-fund separation, strongly
+    rejecting the two-fund prediction that all stocks have identical turnover but finding that stock
+    characteristics explain substantial cross-sectional variation and that one or two common components
+    capture more than 90 percent of turnover-portfolio variation.
