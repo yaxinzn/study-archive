@@ -13016,3 +13016,11 @@
     underreaction, positive return autocorrelation, and large trading volume that need not vanish in
     large markets, while public revelation reduces mistake-driven trade and cursedness amplifies other
     biases such as overconfidence.
+- title: "Eyster and Rabin (AEJ Micro, 2010) - Naive Herding in Rich-Information Settings"
+  file: "https://www.dropbox.com/scl/fi/gtx88mu85opnj8msllfjv/Eyster_Rabin_AEJMicro_2010.pdf?rlkey=t37necizm14hz48xhi9spk86m&dl=0"
+  desc: >-
+    This note summarizes the paper, which models best response trailing naive inference, under which
+    agents understand that predecessors act on information but fail to recognize that later actions
+    already incorporate earlier actions, causing repeated double counting of early signals and allowing
+    fully confident but incorrect herds even with continuous actions, arbitrarily informative private
+    signals, and agents who would learn correctly from their own long-run information.
