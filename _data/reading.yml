@@ -13029,3 +13029,11 @@
     already incorporate earlier actions, causing repeated double counting of early signals and allowing
     fully confident but incorrect herds even with continuous actions, arbitrarily informative private
     signals, and agents who would learn correctly from their own long-run information.
+- title: "Gervais and Odean (RFS, 2001) - Learning to Be Overconfident"
+  file: "https://www.dropbox.com/scl/fi/i9xgni0mkcproimjzzoln/Gervais_Odean_RFS_2001.pdf?rlkey=afpbzoxxjvjurk1uudd97tynz&dl=0"
+  desc: >-
+    This note summarizes the paper, which endogenizes overconfidence through self-serving attribution in
+    a Kyle-style learning model, showing that traders overweight successes as evidence of ability,
+    become most overconfident after intermediate early success, trade more aggressively, increase market
+    volume and volatility, and earn lower expected future profits, with moderate bias eventually
+    corrected by experience but extreme bias potentially persistent.
