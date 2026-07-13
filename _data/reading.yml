@@ -13069,3 +13069,11 @@
     that payoff-irrelevant sentiment shocks move first-order expectations and aggregate production if
     and only if communication is imperfect, can spread through market interaction into boom-bust cycles,
     and generate business-cycle comovement in an RBC-style extension.
+- title: "Hellwig and Veldkamp (REStud, 2009) - Knowing What Others Know: Coordination Motives in Information Acquisition"
+  file: "https://www.dropbox.com/scl/fi/vc204o5c0mpa98opvafdb/Hellwig_Veldkamp_RES_2009.pdf?rlkey=1qqfy7fhnggyn2j6cj5v750am&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that information acquisition inherits the strategic
+    structure of the subsequent action game: complementarities make agents want to know what others
+    know, whereas substitutes make information choices diverge, so public or correlated signals can
+    generate multiple learning equilibria while continuous independent private information restores
+    uniqueness, with analogous planning complementarities in sticky-price models.
