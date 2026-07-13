@@ -12968,3 +12968,11 @@
     optimistic across all future histories, the equilibrium price strictly exceeds every trader's
     current fundamental valuation at each finite date, while the speculative premium declines as
     learning accumulates and provides a rational interpretation of IPO overpricing.
+- title: "Amador and Weill (JPE, 2010) - Learning from Prices: Public Communication and Welfare"
+  file: "https://www.dropbox.com/scl/fi/fuwybfx35mi3pno27balh/Amador_Weill_JPE_2010.pdf?rlkey=l0dandsasyem6ifrasffyf2xd&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a monetary model in which agents learn from
+    endogenously informative prices and shows that public communication has a direct informational
+    benefit but can reduce private information aggregation by making agents rely less on their own
+    forecasts, so welfare can fall and the optimal disclosure policy is bang-bang: release all available
+    information or none.
