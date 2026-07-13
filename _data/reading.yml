@@ -13130,3 +13130,11 @@
     and encourage trading or learning on another despite a competing inference effect, so balanced
     information diversity generates amplification, complementary information acquisition, and more
     informative prices.
+- title: "Hou (RFS, 2007) - Industry Information Diffusion and the Lead-Lag Effect in Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/9q25ddp7wsmpkmg2mm8av/Hou_RFS_2007.pdf?rlkey=9fnsoqno9i9siymuq9soc6n3a&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses weekly within-industry return VARs and earnings events to
+    show that large, visible, liquid, and closely followed firms incorporate common industry news before
+    small and neglected peers, that the market-wide size lead-lag effect largely disappears after
+    removing intra-industry predictability, and that especially bad news diffuses slowly across related
+    stocks.
