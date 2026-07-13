@@ -13138,3 +13138,11 @@
     small and neglected peers, that the market-wide size lead-lag effect largely disappears after
     removing intra-industry predictability, and that especially bad news diffuses slowly across related
     stocks.
+- title: "Vives (REStud, 1993) - How Fast Do Rational Agents Learn?"
+  file: "https://www.dropbox.com/scl/fi/fdvj9yj7byi8sm3rbl3w4/Vives_RES_1993.pdf?rlkey=rv5c3q63zu2blr3rhb460yfkr&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies rational learning from prices when an unknown
+    payoff-relevant parameter is revealed only through agents' endogenous actions, showing that more
+    informative prices make imperfectly informed agents rely less on private signals and thereby slow
+    future information revelation, so belief errors shrink at only n^(-1/6) under finite average signal
+    precision, while a positive mass of perfectly informed agents restores the standard n^(-1/2) rate.
