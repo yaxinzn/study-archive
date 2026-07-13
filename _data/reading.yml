@@ -13093,3 +13093,11 @@
     stocks, and that funds with persistent media-driven buying propensities subsequently underperform,
     with flow-catering, analyst-reliance, news-tone, and manager-turnover tests supporting a
     limited-attention and search-cost interpretation.
+- title: "Garcia (JF, 2013) - Sentiment during Recessions"
+  file: "https://www.dropbox.com/scl/fi/gm5egfhc6d3qz1002kwxt/Garcia_JF_2013.pdf?rlkey=kc05yyeqnhvggh2jfs2dy4mbl&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs a century-long daily sentiment index from New York
+    Times financial columns and shows that positive language predicts higher and pessimistic language
+    lower next-day DJIA returns, with effects three to four times larger in recessions and additional
+    reversal, weekend, post-opening, and trading-volume evidence supporting a state-dependent
+    media-sentiment channel.
