@@ -13000,3 +13000,11 @@
     traders and can reward faster-learning Bayesian models, whereas incomplete markets break this result
     because savings behavior, utility curvature, and the payoff-relevant asset structure can allow
     inaccurate traders to survive or dominate.
+- title: "Kogan, Ross, Wang, and Westerfield (JF, 2006) - The Price Impact and Survival of Irrational Traders"
+  file: "https://www.dropbox.com/scl/fi/3qifx7lc791uuc05kcy91/Kogan_Ross_Wang_Westerfield_JF_2006.pdf?rlkey=zii476x6ltsang3219gjwn2kq&dl=0"
+  desc: >-
+    This note summarizes the paper, which separates traders' long-run wealth survival from their price
+    impact in a complete-market equilibrium, showing that irrational traders can remain important for
+    state prices even when their wealth share becomes negligible by concentrating exposure in rare
+    high-marginal-utility states, and that survival depends nonmonotonically on optimism and risk
+    aversion.
