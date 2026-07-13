@@ -13045,3 +13045,11 @@
     demand amplifies cash-flow news, creates excess volatility and persistent overvaluation, and makes
     high valuation ratios predict low future returns while matching survey evidence on extrapolative
     expectations, though not the full equity premium or short-run momentum.
+- title: "Bordalo, Gennaioli, Ma, and Shleifer (AER, 2020) - Overreaction in Macroeconomic Expectations"
+  file: "https://www.dropbox.com/scl/fi/lbr7628w41v0lwy27idv7/Bordalo_Gennaioli_Ma_Shleifer_AER_2020.pdf?rlkey=0bl8nqe0dr14ixtmxy2uqddw1&dl=0"
+  desc: >-
+    This note summarizes the paper, which applies forecast-error-on-revision tests to professional
+    macroeconomic and financial forecasts and documents individual-level overreaction alongside
+    consensus-level underreaction, then explains both with diagnostic expectations in a
+    dispersed-information model where forecasters overweight states highlighted by their own signals
+    while the consensus aggregates private information only gradually.
