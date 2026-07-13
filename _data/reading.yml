@@ -13122,3 +13122,11 @@
     whereas contrarian behavior requires hill-shaped signals that emphasize the middle state, and that
     transparent social learning can reinforce price movements, increase volatility, and widen
     adverse-selection spreads.
+- title: "Goldstein and Yang (JF, 2015) - Information Diversity and Complementarities in Trading and Information Acquisition"
+  file: "https://www.dropbox.com/scl/fi/u93af7uwrtd5c8br8lw54/Goldstein_Yang_JF_2015.pdf?rlkey=2wcxqkv84lorhrcbjpcljibs8&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends rational-expectations trading to multiple fundamentals
+    and specialized information groups, showing that trading on one dimension can reduce residual risk
+    and encourage trading or learning on another despite a competing inference effect, so balanced
+    information diversity generates amplification, complementary information acquisition, and more
+    informative prices.
