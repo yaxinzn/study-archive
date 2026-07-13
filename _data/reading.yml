@@ -12984,3 +12984,11 @@
     with symmetric order-flow shocks, and finds that the adjusted asymmetric-information component is
     not priced while the symmetric-shock component behaves like illiquidity and explains the classic PIN
     return premium.
+- title: "Sandroni (Econometrica, 2000) - Do Markets Favor Agents Able to Make Accurate Predictions?"
+  file: "https://www.dropbox.com/scl/fi/21e5b8pmwq2s02oda0sse/Sandroni_Econometrica_2000.pdf?rlkey=fmbk05sp3gnu20bk7n074o0ci&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that fixed-saving environments reward portfolio
+    log-growth rather than necessarily accurate beliefs, but that with endogenous saving and dynamically
+    complete markets, agents whose forecasts fail to approach the truth lose wealth, accurate
+    forecasters survive, entropy ranks broader survival prospects, and prices weakly converge toward
+    rational-expectations values.
