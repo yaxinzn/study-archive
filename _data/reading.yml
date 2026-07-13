@@ -13146,3 +13146,11 @@
     informative prices make imperfectly informed agents rely less on private signals and thereby slow
     future information revelation, so belief errors shrink at only n^(-1/6) under finite average signal
     precision, while a positive mass of perfectly informed agents restores the standard n^(-1/2) rate.
+- title: "Drehmann, Oechssler, and Roider (AER, 2005) - Herding and Contrarian Behavior in Financial Markets: An Internet Experiment"
+  file: "https://www.dropbox.com/scl/fi/ytrrca7mm2myykd5lkmqj/Drehmann_Oechssler_Roider_AER_2005.pdf?rlkey=h3kjlsi7yp2bl4lolseycdkh1&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a large Internet experiment to test sequential trading
+    with flexible market prices, finding that prices largely prevent informational-cascade-style herding
+    but do not deliver full Bayesian efficiency because many subjects trade against their own signals,
+    actual prices remain too close to priors relative to full-information values, and contrarian
+    behavior rather than imitation is the dominant deviation, including among professional consultants.
