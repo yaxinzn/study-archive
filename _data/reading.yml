@@ -12976,3 +12976,11 @@
     benefit but can reduce private information aggregation by making agents rely less on their own
     forecasts, so welfare can fall and the optimal disclosure policy is bang-bang: release all available
     information or none.
+- title: "Duarte and Young (JFE, 2009) - Why Is PIN Priced?"
+  file: "https://www.dropbox.com/scl/fi/j7o8s5r8h0gfyxs625i36/Duarte_Young_JFE_2009.pdf?rlkey=vuchyu38giqy2qhhk2c46ldyu&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that the standard PIN model cannot match the strong
+    positive comovement and excess variance of buyer- and seller-initiated trades, extends the model
+    with symmetric order-flow shocks, and finds that the adjusted asymmetric-information component is
+    not priced while the symmetric-shock component behaves like illiquidity and explains the classic PIN
+    return premium.
