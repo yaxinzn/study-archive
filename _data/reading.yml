@@ -13109,3 +13109,11 @@
     information arrives: short horizons reduce final price precision when they spread an early fixed
     information response across periods, but can improve precision when fresh signals arrive gradually
     and short-term traders react strongly near their informational advantage.
+- title: "Park and Sabourian (Econometrica, 2011) - Herding and Contrarian Behavior in Financial Markets"
+  file: "https://www.dropbox.com/scl/fi/mw7duld37zg80ipw0kdsb/Park_Sabourian_Econometrica_2011.pdf?rlkey=1wau13bmv117suacmprzg8718&dl=0"
+  desc: >-
+    This note summarizes the paper, which characterizes rational history-induced trading switches in a
+    Glosten-Milgrom market, showing that herding requires U-shaped signals that emphasize extreme states
+    whereas contrarian behavior requires hill-shaped signals that emphasize the middle state, and that
+    transparent social learning can reinforce price movements, increase volatility, and widen
+    adverse-selection spreads.
