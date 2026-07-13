@@ -13101,3 +13101,11 @@
     lower next-day DJIA returns, with effects three to four times larger in recessions and additional
     reversal, weekend, post-opening, and trading-volume evidence supporting a state-dependent
     media-sentiment channel.
+- title: "Vives (RFS, 1995) - Short-Term Investment and the Informational Efficiency of the Market"
+  file: "https://www.dropbox.com/scl/fi/6ua905vbjjad62f0osxl4/Vives_RFS_1995.pdf?rlkey=ea6rwae7uczmdqohs2rj0fe3i&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic noisy rational-expectations market and
+    shows that the effect of short investment horizons on price discovery depends on when private
+    information arrives: short horizons reduce final price precision when they spread an early fixed
+    information response across periods, but can improve precision when fresh signals arrive gradually
+    and short-term traders react strongly near their informational advantage.
