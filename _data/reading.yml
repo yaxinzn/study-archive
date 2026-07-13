@@ -12992,3 +12992,11 @@
     complete markets, agents whose forecasts fail to approach the truth lose wealth, accurate
     forecasters survive, entropy ranks broader survival prospects, and prices weakly converge toward
     rational-expectations values.
+- title: "Blume and Easley (Econometrica, 2006) - If You're So Smart, Why Aren't You Rich? Belief Selection in Complete and Incomplete Markets"
+  file: "https://www.dropbox.com/scl/fi/rkiaesdwe024zp9hxn437/Blume_Easley_Econometrica_2006.pdf?rlkey=wacdk18wr5qvxx2yr29ounc43&dl=0"
+  desc: >-
+    This note summarizes the paper, which characterizes market selection through discounted likelihood
+    ratios, showing that complete-market Pareto optimality favors accurate and sufficiently patient
+    traders and can reward faster-learning Bayesian models, whereas incomplete markets break this result
+    because savings behavior, utility curvature, and the payoff-relevant asset structure can allow
+    inaccurate traders to survive or dominate.
