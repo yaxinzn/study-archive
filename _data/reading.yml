@@ -13053,3 +13053,11 @@
     consensus-level underreaction, then explains both with diagnostic expectations in a
     dispersed-information model where forecasters overweight states highlighted by their own signals
     while the consensus aggregates private information only gradually.
+- title: "Ben-David, Graham, and Harvey (QJE, 2013) - Managerial Miscalibration"
+  file: "https://www.dropbox.com/scl/fi/bm72r9a3id3ydiz44v547/BenDavid_Graham_Harvey_QJE_2013.pdf?rlkey=oi3fptkp46v27y8l64nhnr0ps&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses repeated CFO probability forecasts to show severe
+    overprecision: realized one-year S&P 500 returns fall inside executives' stated 80 percent intervals
+    only about 36 percent of the time, with miscalibration persistent across respondents and related to
+    narrow own-firm project-return distributions, greater investment, higher leverage, and policy
+    changes after miscalibrated CFOs take office.
