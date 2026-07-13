@@ -13037,3 +13037,11 @@
     become most overconfident after intermediate early success, trade more aggressively, increase market
     volume and volatility, and earn lower expected future profits, with moderate bias eventually
     corrected by experience but extreme bias potentially persistent.
+- title: "Barberis, Greenwood, Jin, and Shleifer (JFE, 2015) - X-CAPM: An Extrapolative Capital Asset Pricing Model"
+  file: "https://www.dropbox.com/scl/fi/8lb073k260f6h375pm3dx/Barberis_Greenwood_Jin_Shleifer_JFE_2015.pdf?rlkey=r403nmbdhpjcilodrk206u0e1&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds price extrapolators alongside rational traders in a
+    consumption-based asset-pricing model, showing that feedback from past price gains to optimistic
+    demand amplifies cash-flow news, creates excess volatility and persistent overvaluation, and makes
+    high valuation ratios predict low future returns while matching survey evidence on extrapolative
+    expectations, though not the full equity premium or short-run momentum.
