@@ -13154,3 +13154,11 @@
     but do not deliver full Bayesian efficiency because many subjects trade against their own signals,
     actual prices remain too close to priors relative to full-information values, and contrarian
     behavior rather than imitation is the dominant deviation, including among professional consultants.
+- title: "Berkman, Dimitrov, Jain, Koch, and Tice (JFE, 2009) - Sell on the News: Differences of Opinion, Short-Sales Constraints, and Returns around Earnings Announcements"
+  file: "https://www.dropbox.com/scl/fi/2p0lx9k79t97qkwuxskac/Berkman_Dimitrov_Jain_Koch_Tice_JFE_2009.pdf?rlkey=jv4i7840l3dfsj1w0n3lrirbl&dl=0"
+  desc: >-
+    This note summarizes the paper, which tests Miller's disagreement-and-short-sale-constraint theory
+    around quarterly earnings announcements, showing that stocks with greater ex ante disagreement earn
+    lower three-day announcement returns, especially when institutional ownership and lendable-share
+    supply are low, while declining post-announcement disagreement and a pre-event run-up followed by
+    sharp reversal support correction of optimistic overvaluation when public information arrives.
