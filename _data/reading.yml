@@ -13267,3 +13267,11 @@
     predicts lower country and sentiment-sensitive stock returns, global sentiment dominates broad
     market prediction, local sentiment matters within countries, and U.S. sentiment spreads abroad more
     strongly when bilateral capital flows are high.
+- title: "Statman, Thorley, and Vorkink (RFS, 2006) - Investor Overconfidence and Trading Volume"
+  file: "https://www.dropbox.com/scl/fi/qw528hnmzhrauszj4wbnh/Statman_Thorley_Vorkink_RFS_2006.pdf?rlkey=muu8olf1twghsk1shgh1qgl04&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates market- and stock-level VARs to show that trading
+    turnover rises for several months after positive market and own-stock returns, with the
+    market-return effect larger and more persistent, especially for small stocks and earlier periods,
+    supporting biased-self-attribution overconfidence alongside a weaker stock-specific
+    disposition-effect channel.
