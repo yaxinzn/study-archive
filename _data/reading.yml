@@ -13396,3 +13396,12 @@
     identifies noninformational price pressure and stronger reversal; Dow Jones, large-stock,
     historical, and simulation tests show the pattern is not merely nonsynchronous trading and requires
     sizable transitory demand shocks.
+- title: "Wang (JPE, 1994) - A Model of Competitive Stock Trading Volume"
+  file: "https://www.dropbox.com/scl/fi/zm1crypv0ool9n2czebyd/Wang_JPE_1994.pdf?rlkey=7hy2l08u95qsgtyiag66v82ig&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a competitive rational-expectations model where
+    informed investors trade on dividend information and rebalance against private investment
+    opportunities while uninformed investors learn from prices, showing that greater adverse selection
+    lowers average volume, volume comoves with absolute price changes and with public dividend news only
+    under asymmetric information, and high-volume returns imply reversal or continuation depending on
+    whether noninformational rebalancing or information revelation dominates.
