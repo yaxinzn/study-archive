@@ -13327,3 +13327,12 @@
     small traders buy after both buys and strong buys, react even to low-information reiterations, and
     fail to adjust for affiliation, consistent with information costs and naivete about conflicted
     advice.
+- title: "Barber, Lehavy, and Trueman (JFE, 2007) - Comparing the Stock Recommendation Performance of Investment Banks and Independent Research Firms"
+  file: "https://www.dropbox.com/scl/fi/omcfg1145xyu4o4yvl83f/Barber_Lehavy_Trueman_JFE_2007.pdf?rlkey=hjvb6w291rn18osfvwboxpffd&dl=0"
+  desc: >-
+    This note summarizes the paper, which compares daily recommendation portfolios from investment banks
+    and independent research firms around the Global Research Analyst Settlement, finding that
+    independent firms' buy recommendations outperform bank buys particularly in the post-2000 bear
+    market and around recent IPOs or SEOs, while banks' hold and sell recommendations contain more
+    negative information, an asymmetric pattern consistent with conflicted analysts being reluctant to
+    downgrade rather than simply having inferior research skill.
