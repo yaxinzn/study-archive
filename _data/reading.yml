@@ -13421,3 +13421,11 @@
     uncertainty, analyst forecast dispersion, earnings news, leverage, and other firm characteristics,
     while simultaneous-equation and signed-order-flow evidence indicates that active stocks attract
     analyst coverage and that positive past returns generate subsequent buying pressure.
+- title: "Chordia, Roll, and Subrahmanyam (JF, 2001) - Market Liquidity and Trading Activity"
+  file: "https://www.dropbox.com/scl/fi/cos58dnzfpsiee3i4rj8m/Chordia_Roll_Subrahmanyam_JF_2001.pdf?rlkey=dz0wfxdf427vs0h3qah0ozp8t&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs daily market-wide spread, depth, volume, and
+    transaction indices from NYSE intraday data and shows that aggregate liquidity is highly variable
+    and partly predictable: it deteriorates asymmetrically in down markets, weakens on Fridays and
+    around holidays, improves on Tuesdays, responds to interest-rate conditions, and exhibits higher
+    depth and trading activity before GDP and unemployment announcements.
