@@ -13387,3 +13387,12 @@
     size-based attention are low, with order-flow, residual-characteristic, and analyst-forecast tests
     supporting gradual-information underreaction rather than disposition effects or temporary
     overreaction.
+- title: "Campbell, Grossman, and Wang (QJE, 1993) - Trading Volume and Serial Correlation in Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/qeppalff17sshchda5nam/Campbell_Grossman_Wang_QJE_1993.pdf?rlkey=8rjjrh47haf1m8wdsq89g2fk2&dl=0"
+  desc: >-
+    This note summarizes the paper, which documents that first-order daily return autocorrelation falls
+    sharply on high-volume days and develops a heterogeneous-investor model in which risk-averse market
+    makers absorb temporary liquidity demand and require higher expected returns, so high volume
+    identifies noninformational price pressure and stronger reversal; Dow Jones, large-stock,
+    historical, and simulation tests show the pattern is not merely nonsynchronous trading and requires
+    sizable transitory demand shocks.
