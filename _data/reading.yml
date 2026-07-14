@@ -13251,3 +13251,11 @@
     bad news in good times lowers expected cash flows and raises uncertainty, producing rational
     overreaction, while good news in bad times partly raises uncertainty and produces underreaction,
     stochastic volatility, asymmetric volatility responses, and time-varying expected returns.
+- title: "Huang, Jiang, Tu, and Zhou (RFS, 2015) - Investor Sentiment Aligned: A Powerful Predictor of Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/wr5vjd65sm71w6v9zcpd1/Huang_Jiang_Tu_Zhou_RFS_2015.pdf?rlkey=c6jmpjqxs2ij2m524x8ambo95&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses partial least squares to construct a sentiment index
+    aligned with future market returns rather than total proxy variation, showing that the aligned index
+    strongly predicts aggregate and characteristic-portfolio returns in and out of sample, improves
+    market-timing allocations, encompasses the Baker-Wurgler proxies, and operates mainly through biased
+    expectations of future cash flows.
