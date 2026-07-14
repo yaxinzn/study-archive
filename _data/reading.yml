@@ -13211,3 +13211,11 @@
     fluctuating disagreement creates a persistent sentiment risk factor, excess equity and bond
     volatility, and long-run return predictability, while rational arbitrageurs hold conservative,
     dynamically hedged positions because both current mispricing and future sentiment changes are risky.
+- title: "Hong and Stein (RFS, 2003) - Differences of Opinion, Short-Sales Constraints, and Market Crashes"
+  file: "https://www.dropbox.com/scl/fi/4vooo9hmew1sxfrjb0dpu/Hong_Stein_RFS_2003.pdf?rlkey=vd2iveay6i5wurmcpyrv6zoz3&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a crash mechanism in which short-sale-constrained
+    pessimists initially remain silent and their bearish information is revealed only when falling
+    prices test their willingness to buy, so declines can release both current and accumulated hidden
+    bad news, producing large negative moves, negative skewness, higher downturn correlations, and the
+    prediction that high volume forecasts more negative future skewness.
