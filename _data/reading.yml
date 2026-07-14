@@ -13318,3 +13318,12 @@
     distortions when trading or banking benefits are high and weaker distortions when ability and
     reputational costs are high, pointing mainly to strategic incentives rather than pure
     overconfidence.
+- title: "Malmendier and Shanthikumar (JFE, 2007) - Are Small Investors Naive About Incentives?"
+  file: "https://www.dropbox.com/scl/fi/wg8whcnf31n0j52imvzx3/Malmendier_Shanthikumar_JFE_2007.pdf?rlkey=tlxelbao9wody99yp7e05c5rk&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines TAQ trades, I/B/E/S recommendations, and underwriting
+    links to compare small and large investors, showing that large traders reinterpret the
+    upward-shifted recommendation scale, sell after holds, and discount affiliated analysts, whereas
+    small traders buy after both buys and strong buys, react even to low-information reiterations, and
+    fail to adjust for affiliation, consistent with information costs and naivete about conflicted
+    advice.
