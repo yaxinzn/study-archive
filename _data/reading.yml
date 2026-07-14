@@ -13336,3 +13336,12 @@
     market and around recent IPOs or SEOs, while banks' hold and sell recommendations contain more
     negative information, an asymmetric pattern consistent with conflicted analysts being reluctant to
     downgrade rather than simply having inferior research skill.
+- title: "Giglio and Shue (RFS, 2014) - No News Is News: Do Markets Underreact to Nothing?"
+  file: "https://www.dropbox.com/scl/fi/b0wgs62y0l7es9pakdw9b/Giglio_Shue_RFS_2014.pdf?rlkey=9xvshjeibwo2lwwzyxjclxb53&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the hump-shaped event-time completion hazard of pending
+    mergers to measure information conveyed purely by time passing and shows that target returns are
+    highest when historical completion hazards are highest, implying that market beliefs incorporate
+    only part of the hazard variation; standard, downside, and idiosyncratic risk or liquidity do not
+    explain the pattern, while stronger effects in hard-to-arbitrage deals support underreaction to
+    nonsalient no-news information.
