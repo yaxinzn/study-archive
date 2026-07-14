@@ -13413,3 +13413,11 @@
     show that lagged order flow predicts short-horizon returns much more strongly when liquidity is
     poor, while falling spreads sharply reduce predictability and move variance ratios and
     autocorrelations closer to efficient random-walk behavior.
+- title: "Chordia, Huh, and Subrahmanyam (RFS, 2007) - The Cross-Section of Expected Trading Activity"
+  file: "https://www.dropbox.com/scl/fi/c5qtqr8eur69fvleqbns0/Chordia_Huh_Subrahmanyam_RFS_2007.pdf?rlkey=huxghq08c12wcm76yb0xqz3hz&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses long monthly panels of NYSE, AMEX, and Nasdaq stocks to
+    show that future turnover is systematically predicted by extreme past returns, visibility,
+    uncertainty, analyst forecast dispersion, earnings news, leverage, and other firm characteristics,
+    while simultaneous-equation and signed-order-flow evidence indicates that active stocks attract
+    analyst coverage and that positive past returns generate subsequent buying pressure.
