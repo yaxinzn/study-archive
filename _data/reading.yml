@@ -13378,3 +13378,12 @@
     earnings-announcement days, with both long and short legs correcting in the predicted directions;
     dynamic-beta controls, contemporaneous-return and out-of-sample tests do not eliminate the effect,
     while analyst forecast errors support biased cash-flow expectations.
+- title: "Da, Gurun, and Warachka (RFS, 2014) - Frog in the Pan: Continuous Information and Momentum"
+  file: "https://www.dropbox.com/scl/fi/1mtpvi6u6npvou3istzql/Da_Gurun_Warachka_RFS_2014.pdf?rlkey=f64dxhjzrnvsyh0rewvib45a1&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures whether a formation-period return accumulated through
+    many small same-sign daily moves or a few discrete jumps and shows that momentum is much stronger
+    and more persistent after continuous information, especially when institutional, analyst, media, and
+    size-based attention are low, with order-flow, residual-characteristic, and analyst-forecast tests
+    supporting gradual-information underreaction rather than disposition effects or temporary
+    overreaction.
