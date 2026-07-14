@@ -13370,3 +13370,11 @@
     investors process public supply-chain information gradually, with predictability strongest under low
     analyst coverage and institutional ownership, coordinated institutional trading across linked
     industries, and related-industry long-short strategies earning sizable factor-adjusted returns.
+- title: "Engelberg, McLean, and Pontiff (JF, 2018) - Anomalies and News"
+  file: "https://www.dropbox.com/scl/fi/q10v95nwccci87ul3cbqz/Engelberg_McLean_Pontiff_JF_2018.pdf?rlkey=wku38b9c39myczff0fgnn5e8c&dl=0"
+  desc: >-
+    This note summarizes the paper, which aggregates 97 anomaly signals and shows that anomaly returns
+    are roughly 50% larger on firm-specific news days and more than six times larger on
+    earnings-announcement days, with both long and short legs correcting in the predicted directions;
+    dynamic-beta controls, contemporaneous-return and out-of-sample tests do not eliminate the effect,
+    while analyst forecast errors support biased cash-flow expectations.
