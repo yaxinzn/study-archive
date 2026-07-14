@@ -13227,3 +13227,11 @@
     the same one- to three-year horizon on which disagreement mean-reverts, operates primarily through
     discount-rate rather than cash-flow news, and has especially strong pricing effects for growth
     stocks and future HML returns.
+- title: "Carlin, Longstaff, and Matoba (JFE, 2014) - Disagreement and Asset Prices"
+  file: "https://www.dropbox.com/scl/fi/gfiytl3d7y4is6lunos71/Carlin_Longstaff_Matoba_JFE_2014.pdf?rlkey=ketzd2hck09mg5b3etyh1dcgk&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses cross-dealer dispersion in agency-MBS prepayment
+    forecasts as a direct disagreement measure in the liquid TBA market, showing that greater
+    disagreement predicts higher subsequent MBS returns, volatility, and trading volume, while volume
+    subsequently reduces disagreement, consistent with a positive disagreement risk premium and learning
+    through trade rather than short-sale-constraint overpricing.
