@@ -13179,3 +13179,11 @@
     option-smile and volatility-risk-premium wedges, correlation risk premia, and straddle or dispersion
     returns, showing that systematic disagreement is a positively priced risk factor that makes
     aggregate downside insurance especially expensive.
+- title: "David (JF, 2008) - Heterogeneous Beliefs, Speculation, and the Equity Premium"
+  file: "https://www.dropbox.com/scl/fi/aja115o4gx1w9rs3ceyvu/David_JF_2008.pdf?rlkey=i8wd427mqdqx6df1d7hbdycl6&dl=0"
+  desc: >-
+    This note summarizes the paper, which calibrates a complete-market economy in which investors use
+    different regime-switching models of dividend and consumption growth, showing that zero-sum
+    speculative positions create substantial individual consumption risk hidden by smooth aggregate
+    consumption, thereby raising the equity premium, lowering the risk-free rate, and generating
+    countercyclical forecast and consumption dispersion with low risk aversion.
