@@ -13405,3 +13405,11 @@
     lowers average volume, volume comoves with absolute price changes and with public dividend news only
     under asymmetric information, and high-volume returns imply reversal or continuation depending on
     whether noninformational rebalancing or information revelation dominates.
+- title: "Chordia, Roll, and Subrahmanyam (JFE, 2008) - Liquidity and Market Efficiency"
+  file: "https://www.dropbox.com/scl/fi/sg2gaczq52hpnwdsbfn5i/Chordia_Roll_Subrahmanyam_JFE_2008.pdf?rlkey=0jj269zps77x3z92b96e8k5sr&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses five-minute NYSE quote-midpoint returns, signed order
+    imbalances, effective spreads, and the transitions from eighths to sixteenths and decimal pricing to
+    show that lagged order flow predicts short-horizon returns much more strongly when liquidity is
+    poor, while falling spreads sharply reduce predictability and move variance ratios and
+    autocorrelations closer to efficient random-walk behavior.
