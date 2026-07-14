@@ -13243,3 +13243,11 @@
     followed firms incorporate common market information faster than otherwise similar lightly followed
     firms, even after controlling for size and turnover, linking analyst information production to the
     speed of price adjustment.
+- title: "Veronesi (RFS, 1999) - Stock Market Overreaction to Bad News in Good Times: A Rational Expectations Equilibrium Model"
+  file: "https://www.dropbox.com/scl/fi/acrsg39xwy8w1dccjt0wa/Veronesi_RFS_1999.pdf?rlkey=kkv0fu87okr1egkjgi087m5lx&dl=0"
+  desc: >-
+    This note summarizes the paper, which models Bayesian learning about an unobservable high- or
+    low-growth dividend regime and shows that risk-averse equilibrium prices are convex in beliefs, so
+    bad news in good times lowers expected cash flows and raises uncertainty, producing rational
+    overreaction, while good news in bad times partly raises uncertainty and produces underreaction,
+    stochastic volatility, asymmetric volatility responses, and time-varying expected returns.
