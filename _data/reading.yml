@@ -13291,3 +13291,12 @@
     can sharply compress equity and jump-risk premia by supplying disaster insurance, make tail risk
     appear latent during calm periods, and cause option-implied disaster probabilities to understate
     macroeconomic danger until optimistic intermediaries lose wealth or risk-bearing capacity.
+- title: "Welch (JFE, 2000) - Herding among Security Analysts"
+  file: "https://www.dropbox.com/scl/fi/rjuc3xn203s26lu5e6aq6/Welch_JF_2000.pdf?rlkey=usar0i1sm20c3m0xeu4pwq0wj&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a likelihood-based transition-matrix method for
+    discrete analyst recommendations and shows that the prevailing consensus and the two latest
+    revisions pull subsequent recommendations toward them, with fresh recent revisions followed more
+    when they later predict returns but consensus influence unrelated to accuracy and strongest in
+    optimistic, recently rising markets, consistent with both information transmission and
+    less-informational bull-market herding.
