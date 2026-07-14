@@ -13275,3 +13275,11 @@
     market-return effect larger and more persistent, especially for small stocks and earlier periods,
     supporting biased-self-attribution overconfidence alongside a weaker stock-specific
     disposition-effect channel.
+- title: "Chordia and Swaminathan (JF, 2000) - Trading Volume and Cross-Autocorrelations in Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/fmn4rdrlfzleohbydjt1y/Chordia_Swaminathan_JF_2000.pdf?rlkey=ue0y60hzv5gk2p4dc1qv1gsjh&dl=0"
+  desc: >-
+    This note summarizes the paper, which sorts stocks by turnover within size groups and shows that
+    high-volume portfolio returns lead low-volume returns at daily and weekly horizons, with VAR,
+    Dimson-beta, and individual-stock DELAY tests indicating that heavily traded stocks incorporate
+    marketwide information faster and that the relation is not merely a size, own-autocorrelation, or
+    nonsynchronous-trading effect.
