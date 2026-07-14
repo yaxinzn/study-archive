@@ -13259,3 +13259,11 @@
     strongly predicts aggregate and characteristic-portfolio returns in and out of sample, improves
     market-timing allocations, encompasses the Baker-Wurgler proxies, and operates mainly through biased
     expectations of future cash flows.
+- title: "Baker, Wurgler, and Yuan (JFE, 2012) - Global, Local, and Contagious Investor Sentiment"
+  file: "https://www.dropbox.com/scl/fi/o4q6y3137s8wm0j4y9oaq/Baker_Wurgler_Yuan_JFE_2012.pdf?rlkey=nyw8h4d10ynrvpu0o0j6t4id0&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs total, global, and local sentiment indices for six
+    major equity markets and validates them with dual-listed Siamese twins, showing that high sentiment
+    predicts lower country and sentiment-sensitive stock returns, global sentiment dominates broad
+    market prediction, local sentiment matters within countries, and U.S. sentiment spreads abroad more
+    strongly when bilateral capital flows are high.
