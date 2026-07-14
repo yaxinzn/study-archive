@@ -13283,3 +13283,11 @@
     Dimson-beta, and individual-stock DELAY tests indicating that heavily traded stocks incorporate
     marketwide information faster and that the relation is not merely a size, own-autocorrelation, or
     nonsynchronous-trading effect.
+- title: "Chen, Joslin, and Tran (RFS, 2012) - Rare Disasters and Risk Sharing with Heterogeneous Beliefs"
+  file: "https://www.dropbox.com/scl/fi/duys1fuhv8llroijo4fs1/Chen_Joslin_Tran_RFS_2012.pdf?rlkey=twgfgsy5oynrls802pvy9oot8&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies complete-market risk sharing when investors disagree
+    about rare-disaster frequency or severity, showing that even a small wealth share held by optimists
+    can sharply compress equity and jump-risk premia by supplying disaster insurance, make tail risk
+    appear latent during calm periods, and cause option-implied disaster probabilities to understate
+    macroeconomic danger until optimistic intermediaries lose wealth or risk-bearing capacity.
