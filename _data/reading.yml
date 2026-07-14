@@ -13187,3 +13187,11 @@
     speculative positions create substantial individual consumption risk hidden by smooth aggregate
     consumption, thereby raising the equity premium, lowering the risk-free rate, and generating
     countercyclical forecast and consumption dispersion with low risk aversion.
+- title: "Buraschi and Jiltsov (JF, 2006) - Model Uncertainty and Option Markets with Heterogeneous Beliefs"
+  file: "https://www.dropbox.com/scl/fi/76poric4nvdoeemzavg5c/Buraschi_Jiltsov_JF_2006.pdf?rlkey=3987pluxexj3hcefbbw8olkk4&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a structural option-pricing model in which investors
+    with different beliefs about latent dividend growth and signals use options as nonredundant
+    risk-sharing securities, showing that disagreement jointly generates option demand, open interest,
+    stochastic volatility and smile dynamics, predicts future realized volatility, improves hedging
+    performance, and helps explain violations of one-factor option-pricing restrictions.
