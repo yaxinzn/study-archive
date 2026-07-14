@@ -13219,3 +13219,11 @@
     prices test their willingness to buy, so declines can release both current and accumulated hidden
     bad news, producing large negative moves, negative skewness, higher downturn correlations, and the
     prediction that high volume forecasts more negative future skewness.
+- title: "Yu (JFE, 2011) - Disagreement and Return Predictability of Stock Portfolios"
+  file: "https://www.dropbox.com/scl/fi/71mccuxdxa99rga0glint/Yu_JFE_2011.pdf?rlkey=sh4voc3csyw8h7jif7wd69sih&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs bottom-up market disagreement from firm-level
+    analyst forecast dispersion and shows that high disagreement predicts low future market returns over
+    the same one- to three-year horizon on which disagreement mean-reverts, operates primarily through
+    discount-rate rather than cash-flow news, and has especially strong pricing effects for growth
+    stocks and future HML returns.
