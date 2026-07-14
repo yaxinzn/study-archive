@@ -13235,3 +13235,11 @@
     disagreement predicts higher subsequent MBS returns, volatility, and trading volume, while volume
     subsequently reduces disagreement, consistent with a positive disagreement risk premium and learning
     through trade rather than short-sale-constraint overpricing.
+- title: "Brennan, Jegadeesh, and Swaminathan (RFS, 1993) - Investment Analysis and the Adjustment of Stock Prices to Common Information"
+  file: "https://www.dropbox.com/scl/fi/uwpvm0fwu2hvyuv4qu6rw/Brennan_Jegadeesh_Swaminathan_RFS_1993.pdf?rlkey=pjfca9988ifpj098s9u56kn3a&dl=0"
+  desc: >-
+    This note summarizes the paper, which sorts stocks by analyst coverage within size groups and uses
+    Granger-causality, Dimson lead-lag betas, and individual-stock regressions to show that heavily
+    followed firms incorporate common market information faster than otherwise similar lightly followed
+    firms, even after controlling for size and turnover, linking analyst information production to the
+    speed of price adjustment.
