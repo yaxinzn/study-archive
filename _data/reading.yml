@@ -13429,3 +13429,12 @@
     and partly predictable: it deteriorates asymmetrically in down markets, weakens on Fridays and
     around holidays, improves on Tuesdays, responds to interest-rate conditions, and exhibits higher
     depth and trading activity before GDP and unemployment announcements.
+- title: "Shalen (RFS, 1993) - Volume, Volatility, and the Dispersion of Beliefs"
+  file: "https://www.dropbox.com/scl/fi/8pboihyvraa61essms8jx/Shalen_RFS_1993.pdf?rlkey=i6vzschahvs1hwm5epcb8ehwr&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a two-period noisy rational-expectations
+    futures-market model with private signals and exogenous hedging demand, showing that imperfectly
+    revealing prices sustain a precision-weighted dispersion of beliefs that raises expected trading
+    volume and price volatility, generates positive contemporaneous and lagged relations between volume
+    and absolute price changes, and can create persistent volatility and market-created risk even when
+    traders agree about final fundamentals.
