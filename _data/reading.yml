@@ -13645,3 +13645,13 @@
     worse than the algorithm and about 70% do no better than random release, while a small
     high-performing group adds value by using relevant private information, tailored nonfinancial
     conditions, and less salience-driven discretion.
+- title: "Freyberger (REStud, 2026) - Normalizations and Misspecification in Skill Formation Models"
+  file: "https://www.dropbox.com/scl/fi/e3utbwr4tr8w4dswnjmn0/Freyberger_RES_2026.pdf?rlkey=9dh4sonkjpa6ht60v0e4w5cf4&dl=0"
+  desc: >-
+    This note summarizes the paper, which characterizes identified sets in dynamic latent-skill models
+    and shows that a restriction is a harmless normalization only relative to a specified target object,
+    with common scale restrictions often observationally innocuous but interpretation-dependent under
+    trans-log technology and potentially testable and misspecifying under CES technology; simulations
+    and an empirical application show that estimating identified scales and reporting invariant rank- or
+    observed-measure-based counterfactuals prevents policy conclusions from changing with arbitrary
+    units.
