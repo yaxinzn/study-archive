@@ -13636,3 +13636,12 @@
     while improving poverty, safety-net use, disability, job quality, household stability, and
     mortality, yielding an estimated $0.273 of additional social benefits per spending dollar and
     sharply different effects from general demand shocks.
+- title: "Angelova, Dobbie, and Yang (REStud, 2026) - Algorithmic Recommendations and Human Discretion"
+  file: "https://www.dropbox.com/scl/fi/wvm4ergfy5ezbhy2ra4b3/Angelova_Dobbie_Yang_RES_2026.pdf?rlkey=pdm3l0asfythvuuxt7zivlop8&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses quasi-random assignment of bail defendants to judges to
+    compare each judge's misconduct rate with an algorithmic counterfactual at the same release rate,
+    overcoming selective outcome observation and showing that roughly 90% of judges rank defendants
+    worse than the algorithm and about 70% do no better than random release, while a small
+    high-performing group adds value by using relevant private information, tailored nonfinancial
+    conditions, and less salience-driven discretion.
