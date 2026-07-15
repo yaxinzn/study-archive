@@ -13655,3 +13655,12 @@
     and an empirical application show that estimating identified scales and reporting invariant rank- or
     observed-measure-based counterfactuals prevents policy conclusions from changing with arbitrary
     units.
+- title: "Pei (REStud, 2023) - Reputation Building under Observational Learning"
+  file: "https://www.dropbox.com/scl/fi/42dn3a3ebeimd77s6nw2v/Pei_RES_2023.pdf?rlkey=6ro3zre170s1lgeafyqgfi13v&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies a patient seller facing short-lived consumers who
+    remember only a finite history of seller actions but observe earlier consumers' choices, showing
+    that limited memory combined with observational learning can sustain imitation equilibria in which
+    reputation forms so slowly that the strategic seller receives only the minmax payoff, while
+    sufficiently informative contemporaneous signals, certification, or inspection restore the usual
+    Stackelberg-payoff guarantee.
