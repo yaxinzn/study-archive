@@ -13565,3 +13565,12 @@
     lending markups and reinforces effort while poor initial quality can cause permanent illiquidity or
     recovery only through rationing, and that ex-post efficient liquidity subsidies may destroy ex-ante
     maintenance incentives, drive quality downward, and trap policymakers in permanent intervention.
+- title: "Bessembinder, Cooper, and Zhang (JFE, 2023) - Mutual Fund Performance at Long Horizons"
+  file: "https://www.dropbox.com/scl/fi/rihp9tcbqsuo4037bc06h/Bessembinder_Cooper_Zhang_JFE_2023.pdf?rlkey=4afgqx0dfm5fgloqk9dkgmkpt&dl=0"
+  desc: >-
+    This note summarizes the paper, which evaluates U.S. domestic equity mutual funds using compound
+    returns matched to investors' horizons and shows that the fraction outperforming SPY falls from
+    47.2% monthly to 30.3% over fund lifetimes, because fees, volatility, and increasingly positive
+    long-horizon skewness make the typical fund lag even when a small right tail performs extremely
+    well, with simulations, bootstrapped portfolios, and beta-adjusted wealth calculations implying
+    about $1.02 trillion in aggregate underperformance.
