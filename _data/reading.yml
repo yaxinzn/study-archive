@@ -13540,3 +13540,11 @@
     generating roughly 82% of the improvement through continuing-plant streamlining, newer capital,
     stronger management practices, and higher labor productivity, subject to the paper's careful
     nonrandom-selection caveat.
+- title: "Crosignani, Macchiavelli, and Silva (JFE, 2023) - Pirates without Borders: The Propagation of Cyberattacks through Firms' Supply Chains"
+  file: "https://www.dropbox.com/scl/fi/nos8b8ilqhtxkllgdhp3t/Crosignani_Macchiavelli_Silva_JFE_2023.pdf?rlkey=lnwwue7f3nylgvj79nx1y6urb&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the 2017 NotPetya attack and global customer-supplier
+    links in a difference-in-differences design to show that operational cyber shocks propagate mainly
+    downstream, reducing customers' profitability especially when substitute suppliers are scarce,
+    prompting liquidity depletion and credit-line drawdowns, and eventually causing firms to replace
+    disrupted relationships with more cyber-resilient suppliers.
