@@ -13531,3 +13531,12 @@
     explain consumption comovement, with a calibrated segmented-market model separating active
     households' marginal utilities from aggregate consumption and reproducing this international
     disconnect.
+- title: "Bai and Mkrtchyan (JFE, 2023) - What Do Outside CEOs Really Do? Evidence from Plant-Level Data"
+  file: "https://www.dropbox.com/scl/fi/06eyuwmxm23t3xlqg7xgr/Bai_Mkrtchyan_JFE_2023.pdf?rlkey=59rs1nmj9806xctosk84v2plw&dl=0"
+  desc: >-
+    This note summarizes the paper, which matches CEO successions to U.S. Census manufacturing plants
+    and finds that firms appointing outside CEOs experience about 4.8% larger post-turnover TFP gains
+    than firms promoting insiders, with outsiders closing low-productivity and peripheral plants but
+    generating roughly 82% of the improvement through continuing-plant streamlining, newer capital,
+    stronger management practices, and higher labor productivity, subject to the paper's careful
+    nonrandom-selection caveat.
