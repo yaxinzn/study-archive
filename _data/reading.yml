@@ -13522,3 +13522,12 @@
     issuance lowers issuer CDS spreads mainly when contracts use mandatory equity conversion, mechanical
     or higher triggers, and Additional Tier 1 treatment, whereas discretionary-only designs are
     ineffective and average equity-price reactions are largely muted.
+- title: "Jiang and Richmond (JFE, 2023) - Origins of International Factor Structures"
+  file: "https://www.dropbox.com/scl/fi/4czv1zs20mfcna6y6snuw/Jiang_Richmond_JFE_2023.pdf?rlkey=12raqczlaenxmy8ec8lrkhyey&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs consumption- and production-network closeness from
+    global input-output tables and shows that shared bilateral and third-country trade exposures explain
+    exchange-rate correlations and common dollar and carry factors, whereas TFP correlations better
+    explain consumption comovement, with a calibrated segmented-market model separating active
+    households' marginal utilities from aggregate consumption and reproducing this international
+    disconnect.
