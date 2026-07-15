@@ -13488,3 +13488,12 @@
     government-dependent, politically active, and externally financed firms; residualized, election, and
     instrumental-variable tests support the result, and spread decompositions point mainly to expected
     default losses.
+- title: "Segal (JFE, 2019) - A Tale of Two Volatilities: Sectoral Uncertainty, Growth, and Asset Prices"
+  file: "https://www.dropbox.com/scl/fi/hu6se0g8i70zbf3s07jyl/Segal_JFE_2019.pdf?rlkey=texwio6mf06l1fz72c082x58g&dl=0"
+  desc: >-
+    This note summarizes the paper, which separates consumption- and investment-sector TFP volatility
+    and shows that the two uncertainty shocks have opposite implications: consumption-sector volatility
+    predicts lower growth and valuations and carries a negative price of risk, whereas investment-sector
+    volatility predicts higher growth and valuations and helps price momentum and investment spreads,
+    patterns rationalized in a two-sector Epstein-Zin model with sticky prices, markups, and volatility
+    feedback.
