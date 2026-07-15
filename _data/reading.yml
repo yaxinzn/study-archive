@@ -13438,3 +13438,11 @@
     volume and price volatility, generates positive contemporaneous and lagged relations between volume
     and absolute price changes, and can create persistent volatility and market-created risk even when
     traders agree about final fundamentals.
+- title: "Green, Huang, Wen, and Zhou (JFE, 2019) - Crowdsourced Employer Reviews and Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/2gbb86g3zl7ez554x2y6d/Green_Huang_Wen_Zhou_JFE_2019.pdf?rlkey=tvh2g2gvuvokjm1z3cat7fy5h&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines more than one million Glassdoor employee reviews with
+    portfolio sorts, Fama-MacBeth regressions, and operating-performance tests to show that quarterly
+    improvements in employer ratings predict higher next-quarter stock returns and better fundamentals,
+    especially when reviews come from current or headquarters-state employees, are long or early, and
+    concern Career Opportunities or Senior Management at firms with weaker information environments.
