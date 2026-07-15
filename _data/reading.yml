@@ -13591,3 +13591,12 @@
     that the gap is amplified by country and creditor-bank credit shocks, weak banks, and limited
     relationship lending, while disproportionate cuts to intangible investment and patenting explain a
     meaningful but incomplete share of SMEs' productivity decline.
+- title: "Athey, Chetty, Imbens, and Kang (REStud, 2026) - The Surrogate Index: Combining Short-Term Proxies to Estimate Long-Term Treatment Effects More Rapidly and Precisely"
+  file: "https://www.dropbox.com/scl/fi/rre4edcstinb8kchygfgc/Athey_Chetty_Imbens_Kang_RES_2026.pdf?rlkey=p3of9vzwk5t6k93goft7wtxvp&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a two-sample surrogate-index framework that learns
+    how multiple short-term outcomes predict a long-term outcome in observational data and then applies
+    that prediction rule to an experimental sample, showing that under unconfounded assignment,
+    surrogacy, and comparability the long-run treatment effect is identified and can be estimated more
+    quickly and precisely, with six quarters of GAIN employment, earnings, and aid outcomes closely
+    recovering nine-year experimental effects.
