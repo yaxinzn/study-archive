@@ -13890,3 +13890,12 @@
     aversion is positive, and demonstrates through recursive-utility and external-habit models with
     state-dependent fundamentals, preferences, or beliefs that regime mixtures can reproduce the
     post-1987 S&P 500 pricing-kernel puzzle.
+- title: "Cvitanić, Wiener, and Zapatero (RFS, 2008) - Analytic Pricing of Employee Stock Options"
+  file: "https://www.dropbox.com/scl/fi/oza5yisrxiwn3jah95oec/Cvitanic_Wiener_Zapatero_RFS_2008.pdf?rlkey=jwp2ye0ngn6s8v32np0qk7e7z&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives a tractable analytic valuation formula for employee
+    stock options with vesting, pre-vesting forfeiture, voluntary barrier exercise, and post-vesting
+    departure intensity, showing that plain Black-Scholes materially overvalues nontransferable grants,
+    that the closed-form method closely tracks Hull-White binomial values without slow nonmonotonic tree
+    convergence, and that firm-specific exercise and turnover histories can discipline practical
+    fair-value estimates.
