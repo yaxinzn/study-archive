@@ -13828,3 +13828,12 @@
     showing that the finite-sample bias grows with the horizon, disappears asymptotically for stationary
     event counts, but can persist under unit-root event waves and becomes harder to infer when event
     returns are cross-sectionally correlated.
+- title: "Dangl, Wu, and Zechner (RFS, 2008) - Market Discipline and Internal Governance in the Mutual Fund Industry"
+  file: "https://www.dropbox.com/scl/fi/eb30f69jxzwhxjww102ox/Dangl_Wu_Zechner_RFS_2008.pdf?rlkey=lfgoyqlcnz06r5597x33j5mzz&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a continuous-time mutual-fund model combining
+    investor discipline through performance-sensitive flows with management-company discipline through
+    manager replacement, showing that learning, decreasing returns to scale, and the option value of
+    discovering a star generate convex flow-performance relations, rising firing thresholds with tenure,
+    larger funds under surviving managers, and state-dependent flow and risk responses around
+    replacement.
