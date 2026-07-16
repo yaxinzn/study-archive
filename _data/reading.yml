@@ -13784,3 +13784,12 @@
     jointly matching broad participation and asset-pricing moments while showing that the equity premium
     is driven by incomplete risk sharing among stockholders rather than by the direct exclusion of poor
     nonparticipants.
+- title: "Kadan and Swinkels (RFS, 2008) - Stocks or Options? Moral Hazard, Firm Viability, and the Design of Compensation Contracts"
+  file: "https://www.dropbox.com/scl/fi/uoi4pnsw1we0rhh6z9j1z/Kadan_Swinkels_RFS_2008.pdf?rlkey=kcegle5yu01qolsqdhvzqvv5y&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies stock-versus-option compensation when a risk-averse
+    manager's effort shifts firm-value outcomes subject to a minimum-payment constraint, showing that
+    positive-strike options generally dominate stock for healthy firms by preserving marginal utility in
+    high-value states, but restricted stock can be optimal when effort is most valuable near zero
+    because it prevents nonviability, with ExecuComp evidence that higher bankruptcy risk predicts
+    greater use of restricted stock.
