@@ -13802,3 +13802,12 @@
     encourage firm-specific investment but suffer declining relative productivity as they age, with
     instrumented loan denial associated with lower capital per worker and organizational evidence of
     greater teamwork and decentralization.
+- title: "Hellmann, Lindsey, and Puri (RFS, 2008) - Building Relationships Early: Banks in Venture Capital"
+  file: "https://www.dropbox.com/scl/fi/gfx0esyj6puyrafh7fvah/Hellmann_Lindsey_Puri_RFS_2008.pdf?rlkey=ofu2eymz5kchdtj7nrcqoa219&dl=0"
+  desc: >-
+    This note summarizes the paper, which matches Venture Economics investments to DealScan loans and
+    constructs potential company-bank pairs to show that banks use venture-capital investments partly to
+    build future lending relationships: a prior bank-VC tie raises the probability of later lending by
+    about 3.7 percentage points in baseline estimates and 5.5 points with instruments, survives company
+    fixed effects, and is associated with relationship-loan spreads roughly 18 to 27 basis points lower
+    than matched alternatives.
