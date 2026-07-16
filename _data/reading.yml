@@ -13819,3 +13819,12 @@
     because headquarters cannot credibly commit not to shut them down, showing that legally enforceable
     strategic alliances can guarantee baseline implementation capital and that SDC and Compustat
     evidence places related but riskier activities outside firm boundaries through alliances.
+- title: "Viswanathan and Wei (RFS, 2008) - Endogenous Events and Long-Run Returns"
+  file: "https://www.dropbox.com/scl/fi/ji5ndp9kkf0znlkl07wsb/Viswanathan_Wei_RFS_2008.pdf?rlkey=ypbvb51b2tla92dwqfhyia8xy&dl=0"
+  desc: >-
+    This note summarizes the paper, which formalizes how endogenous corporate-event timing can
+    mechanically produce negative expected long-run CARs and BHARs even under market efficiency because
+    high-return histories generate more events and are underweighted by event-study denominators,
+    showing that the finite-sample bias grows with the horizon, disappears asymptotically for stationary
+    event counts, but can persist under unit-root event waves and becomes harder to infer when event
+    returns are cross-sectionally correlated.
