@@ -13881,3 +13881,12 @@
     consistency requires human-capital returns to hedge financial wealth strongly, so good
     financial-market news is bad news for human wealth and the resulting total-market return makes
     long-horizon stock risk and the hedging component of the equity premium larger.
+- title: "Chabi-Yo, Garcia, and Renault (RFS, 2008) - State Dependence Can Explain the Risk Aversion Puzzle"
+  file: "https://www.dropbox.com/scl/fi/2v3xieyyrqnbzs7zafgml/ChabiYo_Garcia_Renault_RFS_2008.pdf?rlkey=nc4k3qis5rmoqphgt4lvjas5t&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that negative or U-shaped risk-aversion functions and
+    locally increasing pricing kernels recovered from index returns and options can arise from averaging
+    over latent economic regimes, even when each conditional pricing kernel is decreasing and risk
+    aversion is positive, and demonstrates through recursive-utility and external-habit models with
+    state-dependent fundamentals, preferences, or beliefs that regime mixtures can reproduce the
+    post-1987 S&P 500 pricing-kernel puzzle.
