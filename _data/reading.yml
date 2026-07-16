@@ -13759,3 +13759,11 @@
     whereas nonlinear physical drift disappears under flexible risk-premium specifications,
     zero-physical-drift models forecast the 2000-2005 low-rate period better, and daily transitory noise
     otherwise exaggerates estimated nonlinearity.
+- title: "Cochrane, Longstaff, and Santa-Clara (RFS, 2008) - Two Trees"
+  file: "https://www.dropbox.com/scl/fi/t462s12yus9haauov1tks/Cochrane_Longstaff_Santaclara_RFS_2008.pdf?rlkey=ejywvzdanf5xsmi3gs6ia9y9e&dl=0"
+  desc: >-
+    This note summarizes the paper, which solves a two-asset Lucas-tree economy with log utility, fixed
+    asset supply, and independently distributed dividend growth and shows that market-clearing
+    rebalancing alone makes individual price-dividend ratios, expected returns, risk premia, betas,
+    volatility, return predictability, autocorrelation, and cross-asset correlations state dependent, so
+    i.i.d. cash flows need not imply i.i.d. returns once multiple positive-net-supply assets coexist.
