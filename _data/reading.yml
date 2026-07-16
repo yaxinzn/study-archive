@@ -13724,3 +13724,12 @@
     overvaluation in the direction predicted by money illusion, while mortgage tilt, lock-in,
     business-cycle, and rational risk-premium channels do not account for the core relation and
     inelastic regional supply amplifies price effects.
+- title: "Chabi-Yo (RFS, 2008) - Conditioning Information and Variance Bounds on Pricing Kernels with Higher-Order Moments: Theory and Evidence"
+  file: "https://www.dropbox.com/scl/fi/kytrrvt7zeehk9r0vr5ry/ChabiYo_RFS_2008.pdf?rlkey=bbc31opeso5xfozwhro5ya2k3&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends Hansen-Jagannathan-style variance bounds and distance
+    measures by adding conditioning information, higher moments, variance risk premia, and
+    derivative-like volatility contracts, showing theoretically and in hedge-fund and industry-portfolio
+    applications that pricing kernels which appear adequate under first-two-moment diagnostics can be
+    strongly rejected once nonlinear payoff and volatility-risk information expands the test-asset
+    space.
