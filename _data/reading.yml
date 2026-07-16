@@ -13698,3 +13698,11 @@
     fixed-supply assets, push prices above risk-free-discounted fundamentals, accept negative risk
     premia, and generate self-reinforcing bubble growth and collapse even without behavioral errors,
     asymmetric information, or short-sale constraints.
+- title: "Dass, Massa, and Patgiri (RFS, 2008) - Mutual Funds and Bubbles: The Surprising Role of Contractual Incentives"
+  file: "https://www.dropbox.com/scl/fi/8ybbfkrlc957v9ytjr3y7/Dass_Massa_Patgiri_RFS_2008.pdf?rlkey=2ck0bomyi7i5xf0xxo70rkdo4&dl=0"
+  desc: >-
+    This note summarizes the paper, which links NSAR-B advisory-contract terms to mutual-fund holdings
+    and returns around the late-1990s technology bubble, showing that stronger contractual incentives
+    reduce exposure to high-valuation and heavily herded bubble stocks, causing high-incentive funds to
+    lag while the bubble expands but outperform after it bursts, consistent with compensation incentives
+    encouraging managers to resist reputation-driven herding.
