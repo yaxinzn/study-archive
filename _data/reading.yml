@@ -13750,3 +13750,12 @@
     Heath-Jarrow-Morton no-arbitrage restrictions, and estimates a seven-state Kalman-filter model on
     Fama-Bliss Treasury data that delivers especially strong forward-rate and yield forecasts at twelve-
     and twenty-four-month horizons.
+- title: "Takamizawa (RFS, 2008) - Is Nonlinear Drift Implied by the Short End of the Term Structure?"
+  file: "https://www.dropbox.com/scl/fi/2dkpt9an91thvso5qas3p/Takamizawa_RFS_2008.pdf?rlkey=u9w819ywtssf1d4rmj6xa17w1&dl=0"
+  desc: >-
+    This note summarizes the paper, which jointly estimates short-rate time-series dynamics and the
+    cross section of one-, three-, and six-month Eurodollar yields, showing that nonlinear mean
+    reversion under the risk-neutral measure is robust and useful for explaining short-yield spreads,
+    whereas nonlinear physical drift disappears under flexible risk-premium specifications,
+    zero-physical-drift models forecast the 2000-2005 low-rate period better, and daily transitory noise
+    otherwise exaggerates estimated nonlinearity.
