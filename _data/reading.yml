@@ -13767,3 +13767,11 @@
     rebalancing alone makes individual price-dividend ratios, expected returns, risk premia, betas,
     volatility, return predictability, autocorrelation, and cross-asset correlations state dependent, so
     i.i.d. cash flows need not imply i.i.d. returns once multiple positive-net-supply assets coexist.
+- title: "Han (RFS, 2008) - Investor Sentiment and Option Prices"
+  file: "https://www.dropbox.com/scl/fi/butr7hnujmjc5edj39a2b/Han_RFS_2008.pdf?rlkey=u292ddki5kp6b2iw4im3q7lt3&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses S&P 500 index options and survey-, futures-position-, and
+    valuation-based sentiment proxies to show that bullish sentiment predicts less negative risk-neutral
+    skewness and a flatter implied-volatility smile, while bearish sentiment makes downside insurance
+    more expensive, with the relation surviving volatility, demand, disagreement, and rational
+    option-model controls and becoming strongest when option-market arbitrage is most limited.
