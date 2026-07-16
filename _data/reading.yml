@@ -13733,3 +13733,11 @@
     applications that pricing kernels which appear adequate under first-two-moment diagnostics can be
     strongly rejected once nonlinear payoff and volatility-risk information expands the test-asset
     space.
+- title: "Mamaysky, Spiegel, and Zhang (RFS, 2008) - Estimating the Dynamics of Mutual Fund Alphas and Betas"
+  file: "https://www.dropbox.com/scl/fi/2nxrzm180f55d3qu5cp7s/Mamaysky_Spiegel_Zhang_RFS_2008.pdf?rlkey=6yanvwqoxcymbu96199pi4jkg&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an extended-Kalman-filter model of latent
+    time-varying mutual-fund alphas and factor loadings and shows that daily timing tests produce many
+    microstructure-driven false positives, whereas monthly one-factor Kalman estimates have better
+    statistical size, identify useful out-of-sample timing patterns, and outperform static OLS and
+    observable-conditioning models in joint zero-alpha and zero-beta forecast tests.
