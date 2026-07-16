@@ -13741,3 +13741,12 @@
     microstructure-driven false positives, whereas monthly one-factor Kalman estimates have better
     statistical size, identify useful out-of-sample timing patterns, and outperform static OLS and
     observable-conditioning models in joint zero-alpha and zero-beta forecast tests.
+- title: "Chua, Foster, Ramaswamy, and Stine (RFS, 2008) - A Dynamic Model for the Forward Curve"
+  file: "https://www.dropbox.com/scl/fi/avq7vv4of8z1eibb2b4ql/Chua_Foster_Ramaswamy_Stine_RFS_2008.pdf?rlkey=ye83vph4rn4n26dpftofhuztq&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes the instantaneous forward curve into a long-run
+    unconditional component, maturity-specific preferred-habitat deviations, and date-specific
+    expectations of future spot rates, builds exponential-affine combinations satisfying
+    Heath-Jarrow-Morton no-arbitrage restrictions, and estimates a seven-state Kalman-filter model on
+    Fama-Bliss Treasury data that delivers especially strong forward-rate and yield forecasts at twelve-
+    and twenty-four-month horizons.
