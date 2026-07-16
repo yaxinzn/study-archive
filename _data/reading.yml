@@ -13775,3 +13775,12 @@
     skewness and a flatter implied-volatility smile, while bearish sentiment makes downside insurance
     more expensive, with the relation surviving volatility, demand, disagreement, and rational
     option-model controls and becoming strongest when option-market arbitrage is most limited.
+- title: "Gomes and Michaelides (RFS, 2008) - Asset Pricing with Limited Risk Sharing and Heterogeneous Agents"
+  file: "https://www.dropbox.com/scl/fi/ghmogkmkt2bp7jv8ac1fn/Gomes_Michaelides_RFS_2008.pdf?rlkey=erhlcmqaeu2gn15bqypw7ucgo&dl=0"
+  desc: >-
+    This note summarizes the paper, which calibrates a life-cycle incomplete-markets production economy
+    with idiosyncratic labor risk, borrowing constraints, positive government-bond supply, endogenous
+    stock-market participation, heterogeneous Epstein-Zin preferences, and stochastic depreciation,
+    jointly matching broad participation and asset-pricing moments while showing that the equity premium
+    is driven by incomplete risk sharing among stockholders rather than by the direct exclusion of poor
+    nonparticipants.
