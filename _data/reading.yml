@@ -13899,3 +13899,12 @@
     that the closed-form method closely tracks Hull-White binomial values without slow nonmonotonic tree
     convergence, and that firm-specific exercise and turnover histories can discipline practical
     fair-value estimates.
+- title: "Korniotis (RFS, 2008) - Habit Formation, Incomplete Markets, and the Significance of Regional Risk for Expected Returns"
+  file: "https://www.dropbox.com/scl/fi/lcnl7j0qytwnvbmhdm844/Korniotis_RFS_2008.pdf?rlkey=9wx3buiw2iycq86a8iocva2pt&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines external habit with undiversifiable state-level
+    income shocks and treats the fifty U.S. states as incomplete-market investors, showing that habit
+    tied to four Census regions produces plausible preference estimates and a four-factor representation
+    based on the means and variances of state consumption and habit growth, with regional habit-risk
+    factors explaining size and value returns beyond the standard CCAPM, Fama-French, momentum,
+    industry, and alternative macro factors.
