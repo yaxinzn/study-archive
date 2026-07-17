@@ -13935,3 +13935,11 @@
     lower Tobin's Q, especially when the owners are of different types and shareholder protection is
     weak, consistent with value-reducing controlling coalitions rather than uniformly beneficial
     cross-monitoring.
+- title: "Barberis and Huang (AER, 2008) - Stocks as Lotteries: The Implications of Probability Weighting for Security Prices"
+  file: "https://www.dropbox.com/scl/fi/mnojl482wck5ltp7yi98u/Barberis_Huang_AER_2008.pdf?rlkey=xnfep95i1524stl8bsb0etg6s&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds cumulative prospect theory and probability weighting in
+    a security-pricing model and shows that while a CAPM equilibrium can survive with
+    multivariate-normal payoffs, a small independent positively skewed security can be overpriced and
+    earn a negative expected excess return because some identical investors optimally take concentrated
+    lottery-like positions, making own skewness priced even without market coskewness.
