@@ -14079,3 +14079,11 @@
     treatment-induced selected share and trim corresponding tails of the observed outcome distribution,
     with Job Corps wage estimates showing that the method yields far narrower and economically
     informative intervals than worst-case support bounds without requiring exclusion restrictions.
+- title: "Jordà, Knoll, Kuvshinov, Schularick, and Taylor (QJE, 2019) - The Rate of Return on Everything, 1870-2015"
+  file: "https://www.dropbox.com/scl/fi/j4xtxavf234feigt8q96k/Jorda_Knoll_Kuvshinov_Schularick_Taylor_QJE_2019.pdf?rlkey=e3ng8m343tgl88z0izvu948x5&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs annual total returns on equities, residential
+    housing, government bonds, and bills for 16 advanced economies from 1870 to 2015, showing that
+    housing and equity deliver similar real returns near 7% but housing is much less volatile because
+    rental yields dominate capital gains, while real safe returns are low and historically unstable and
+    the aggregate return on wealth usually exceeds GDP growth outside wars.
