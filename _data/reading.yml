@@ -14176,3 +14176,11 @@
     sells predict future returns, firm news, announcement outcomes, institutional responses, and SEC
     investigations, whereas routine trades carry little information, with local nonsenior opportunistic
     insiders providing especially strong signals.
+- title: "Akbas, Jiang, and Koch (JF, 2020) - Insider Investment Horizon"
+  file: "https://www.dropbox.com/scl/fi/ny01lx5so7y4xcu13e4tw/Akbas_Jiang_Koch_JF_2020.pdf?rlkey=nmimw87uhv57b7b5wzij5zuzc&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures insiders' investment horizons from the persistence of
+    their past buy-versus-sell direction and shows that trades by short-horizon insiders predict returns
+    and earnings news more strongly because they are more unexpected on average, while the rare
+    direction reversals of long-horizon insiders are the most informative signals and the horizon
+    measure adds information beyond nonroutine trading.
