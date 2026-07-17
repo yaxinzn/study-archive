@@ -13943,3 +13943,11 @@
     multivariate-normal payoffs, a small independent positively skewed security can be overpriced and
     earn a negative expected excess return because some identical investors optimally take concentrated
     lottery-like positions, making own skewness priced even without market coskewness.
+- title: "Barberis, Mukherjee, and Wang (RFS, 2016) - Prospect Theory and Stock Returns: An Empirical Test"
+  file: "https://www.dropbox.com/scl/fi/4q92hz49d2j2opvibq179/Barberis_Mukherjee_Wang_RFS_2016.pdf?rlkey=pm7dbgkodjfw0fxldr9wgceey&dl=0"
+  desc: >-
+    This note summarizes the paper, which evaluates each stock's prior five-year return distribution
+    using cumulative prospect theory to construct the TK measure and shows that high-TK, lottery-like
+    stocks earn lower subsequent returns and alphas, especially among small, illiquid,
+    high-idiosyncratic-volatility, and low-institutional-ownership stocks, with Fama-MacBeth,
+    international, and component tests identifying probability weighting as the central mechanism.
