@@ -14128,3 +14128,11 @@
     income levels but convex over an intermediate status-transition region, so households may protect
     their current position against losses while paying for a small chance of a large socioeconomic gain
     without abandoning stable utility maximization.
+- title: "Piketty and Saez (Econometrica, 2013) - A Theory of Optimal Inheritance Taxation"
+  file: "https://www.dropbox.com/scl/fi/ak7vjh0t3tykkzees6x8p/Piketty_Saez_Econometrica_2013.pdf?rlkey=4389zs6obxy4vleh9vwe42tau&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives sufficient-statistics formulas for optimal inheritance
+    taxation using bequest and labor elasticities, the joint distribution of inheritances, earnings and
+    bequests left, and social welfare weights, showing that concentrated and inelastic inherited wealth
+    supports high taxes for low-bequest receivers, with plausible French and U.S. calibrations often
+    producing optimal rates near 50-60% above suitable exemptions.
