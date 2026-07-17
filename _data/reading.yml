@@ -3949,9 +3949,15 @@
 - title: "Bolton & Scharfstein (JPE, 1996) - Optimal Debt Structure and the Number of Creditors"
   file: "https://www.dropbox.com/scl/fi/w7hxmuhyj7i53z3jh3o8m/Bolton_Scharfstein_JPE_1996.pdf?rlkey=lplzkz0xv38wbyurl5dq5ml9o&dl=0"
   desc: "This note summarizes the paper, which builds an incomplete-contract model where unverifiable cash flow creates both strategic and liquidity default, and shows optimal debt structure chooses the number of creditors, collateral allocation, and voting rules to balance ex post renegotiation—multiple secured creditors can discipline managers via holdup (lowering strategic-default rents) but can also reduce liquidation value in true distress—implying safer firms optimally use more dispersed creditor structures while riskier firms prefer concentrated lending."
-- title: "Miller (JF, 1977) - Debt and Taxes"
+- title: "Miller (JF, 1977) - Risk, Uncertainty, and Divergence of Opinion"
   file: "https://www.dropbox.com/scl/fi/1pvtho1tjqe42yo8rrk3g/Miller_JF_1977.pdf?rlkey=xfhmlsoiwf6eysde8zli6qqu1&dl=0"
-  desc: "This note summarizes the paper, which extends Modigliani–Miller to a tax equilibrium by showing that once personal taxes on interest and equity are included, the corporate interest tax shield can be competed away through investor tax clienteles and market-clearing bond yields—so the economy can have an equilibrium aggregate debt level without any firm having a unique tax-driven optimal leverage ratio."
+  desc: >-
+    This note summarizes the paper, which develops the foundational
+    disagreement-and-short-sale-constraint mechanism in which fixed share supply is absorbed by the most
+    optimistic investors, so greater dispersion of valuations raises the marginal buyer's price and
+    lowers later realized returns, providing a unified interpretation of weak high-risk and high-beta
+    returns, new-issue underperformance, option and warrant overpricing, diversification discounts, and
+    investor-attention effects.
 - title: "Myers (JFE, 1977) - Determinants of Corporate Borrowing"
   file: "https://www.dropbox.com/scl/fi/shlyhu6x8v07mot00tpyi/Myers_JFE_1977.pdf?rlkey=zhh6gp5f7phe9jntv17lfgnk6&dl=0"
   desc: "This note summarizes the paper, which develops the debt-overhang theory by modeling firm value as assets in place plus growth options and showing that risky long-maturity debt makes equity underinvest (it invests only when V(s)≥I+P, not V(s)≥I) because part of the marginal gain from new investment is transferred to existing bondholders, implying optimal leverage is lower for growth firms, debt capacity differs from value-maximizing debt, and covenants/maturity matching help protect investment incentives"
