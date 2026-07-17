@@ -14055,3 +14055,11 @@
     forecast errors, earnings-announcement returns, takeover frequencies, and the post-1999 reversal
     provide little evidence that investors were surprised by those operating consequences, weakening a
     direct causal interpretation of the governance-return spread.
+- title: "Johnson (JF, 2004) - Forecast Dispersion and the Cross Section of Expected Returns"
+  file: "https://www.dropbox.com/scl/fi/rr3mhn8c41bpj1l61zr17/Johnson_ForecastDispersion_JF_2004.pdf?rlkey=971v5kzx4jiwem9os0z1cdkap&dl=0"
+  desc: >-
+    This note summarizes the paper, which interprets analyst forecast dispersion as unpriced parameter
+    uncertainty about firm fundamentals and models levered equity as a call option, showing that greater
+    idiosyncratic uncertainty raises equity's convexity value and lowers its priced-risk exposure per
+    dollar, so the negative dispersion-return relation should be concentrated in highly levered firms, a
+    prediction supported by Fama-MacBeth interaction tests.
