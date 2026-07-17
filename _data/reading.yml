@@ -13951,3 +13951,11 @@
     stocks earn lower subsequent returns and alphas, especially among small, illiquid,
     high-idiosyncratic-volatility, and low-institutional-ownership stocks, with Fama-MacBeth,
     international, and component tests identifying probability weighting as the central mechanism.
+- title: "Gao and Lin (RFS, 2015) - Do Individual Investors Treat Trading as a Fun and Exciting Gambling Activity? Evidence from Repeated Natural Experiments"
+  file: "https://www.dropbox.com/scl/fi/usqvdwbsvdavwzbe37nci/Gao_Lin_RFS_2015.pdf?rlkey=6qg1xqpr2k72klhs2fnfgkk8e&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses repeated natural experiments from large Taiwan lottery
+    jackpots to show that individual investors reduce trading in retail-preferred and high-skewness
+    stocks and lottery-like options when an alternative gambling opportunity becomes salient, with
+    similar declines in buys and sells, wider bid-ask spreads, and weak price effects supporting an
+    entertainment-substitution mechanism rather than simple replacement of stock risk exposure.
