@@ -14014,3 +14014,11 @@
     investors strongly overweight them while institutions avoid them, with demand concentrated among
     demographic and geographic clienteles resembling state-lottery players, rising in weak economic
     conditions, and generating economically meaningful stock and investor underperformance.
+- title: "Battalio, Corwin, and Jennings (JF, 2016) - Can Brokers Have It All? On the Relation between Make-Take Fees and Limit Order Execution Quality"
+  file: "https://www.dropbox.com/scl/fi/xf95w91q6qlgjoe1iegmu/Battalio_Corwin_Jennings_JF_2016.pdf?rlkey=66ng2htkmc6x5f3lgi79ar9yr&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Rule 606 reports, proprietary smart-router limit
+    orders, paired venue horse races, and TAQ trades to show that high-rebate and high-take-fee venues
+    generally deliver lower fill probabilities, slower executions, and worse realized spreads because
+    low-fee venues attract more uninformed marketable flow, revealing a broker-customer routing conflict
+    that rebates alone do not resolve.
