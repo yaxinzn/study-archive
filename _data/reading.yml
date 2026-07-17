@@ -13967,3 +13967,12 @@
     sequence from negative skewness to symmetric risk, positive skewness, and eventually no gamble,
     while also producing a weak temporal disposition effect and experimentally confirmed shifts in
     skewness demand when charitable donation thresholds manipulate aspirations.
+- title: "Bali, Gunaydin, Jansson, and Karabulut (JFE, 2023) - Do the Rich Gamble in the Stock Market? Low Risk Anomalies and Wealthy Households"
+  file: "https://www.dropbox.com/scl/fi/8psd7incs63qzucut0e45/Bali_Gunaydin_Jansson_Karabulut_JFE_2023.pdf?rlkey=psiq6s8szpd48smuyd20v80m3&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Swedish administrative household portfolios with
+    stock returns and shows that wealth is negatively related to portfolio idiosyncratic volatility
+    below the top wealth decile but positively related within the rich, especially among lottery-bond
+    holders, and that the IVOL anomaly is concentrated in stocks heavily owned by wealthy households,
+    with tax-rule switchers and a status-driven lottery-demand factor supporting demand-induced
+    overpricing.
