@@ -14071,3 +14071,11 @@
     and the distribution of marginal-utility-weighted beliefs, and that a mean-preserving increase in
     disagreement generally lowers state and asset prices when risk aversion declines sufficiently
     slowly, including CRRA preferences with relative risk aversion above one.
+- title: "Lee (REStud, 2009) - Training, Wages, and Sample Selection: Estimating Sharp Bounds on Treatment Effects"
+  file: "https://www.dropbox.com/scl/fi/pbqnekvllk3a5csg43um6/Lee_RES_2009.pdf?rlkey=k24ecq36zad11ycrue3ghture&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops sharp treatment-effect bounds for outcomes observed
+    only after endogenous selection by using random assignment and monotonicity to identify the
+    treatment-induced selected share and trim corresponding tails of the observed outcome distribution,
+    with Job Corps wage estimates showing that the method yields far narrower and economically
+    informative intervals than worst-case support bounds without requiring exclusion restrictions.
