@@ -14022,3 +14022,12 @@
     generally deliver lower fill probabilities, slower executions, and worse realized spreads because
     low-fee venues attract more uninformed marketable flow, revealing a broker-customer routing conflict
     that rebates alone do not resolve.
+- title: "Ang, Hodrick, Xing, and Zhang (JFE, 2009) - High Idiosyncratic Volatility and Low Returns: International and Further U.S. Evidence"
+  file: "https://www.dropbox.com/scl/fi/8yyii3gdh4g5bfe301jef/Ang_Hodrick_Xing_Zhang_JFE_2009.pdf?rlkey=tsukf6n8ag1ig0bh613jogja3&dl=0"
+  desc: >-
+    This note summarizes the paper, which computes lagged idiosyncratic volatility relative to local,
+    regional, and world factor models across 23 developed markets and shows that high-IVOL stocks earn
+    low subsequent returns in every G7 country and pooled international portfolios, with strong
+    cross-country strategy comovement and U.S. tests ruling out standard trading-friction, information,
+    skewness, leverage, and future-volatility explanations without identifying a complete equilibrium
+    mechanism.
