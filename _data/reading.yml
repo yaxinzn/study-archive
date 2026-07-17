@@ -14225,3 +14225,11 @@
     command large return premia distinct from coskewness, with Fama-MacBeth and GMM tests implying
     roughly a 6% annual price of downside risk, although predictive implementation is weakened by noisy
     estimates among the most volatile stocks.
+- title: "Ravina and Sapienza (RFS, 2010) - What Do Independent Directors Know? Evidence from Their Trading"
+  file: "https://www.dropbox.com/scl/fi/t3tn7zavtfd6nasc4jw1y/Ravina_Sapienza_RFS_2010.pdf?rlkey=6fsyxpn1jc6xrnnly9eqmweb8&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses abnormal returns to independent directors' own-firm
+    trades as a revealed information test and finds that their purchases earn large positive returns
+    close to executives' returns, with the information gap narrower in well-governed firms and for
+    audit-committee members, while sales become informative mainly before bad-news events and earnings
+    restatements.
