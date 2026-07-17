@@ -14217,3 +14217,11 @@
     forecasts higher market returns and firm-level managerial purchases predict higher subsequent
     returns, especially among small stocks, whereas sales are far less informative and size-value
     adjustments reduce but do not eliminate the purchase signal.
+- title: "Ang, Chen, and Xing (RFS, 2006) - Downside Risk"
+  file: "https://www.dropbox.com/scl/fi/zsf6ef5gxjfiafbaoj3ih/Ang_Chen_Xing_RFS_2006.pdf?rlkey=zz9kdm1tectv63kn815jufsxo&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures stocks' covariance with the market specifically in
+    down states and shows that realized downside beta and downside beta relative to ordinary CAPM beta
+    command large return premia distinct from coskewness, with Fama-MacBeth and GMM tests implying
+    roughly a 6% annual price of downside risk, although predictive implementation is weakened by noisy
+    estimates among the most volatile stocks.
