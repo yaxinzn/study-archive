@@ -14039,3 +14039,11 @@
     finding only 12 independent non-microcap return determinants over 1980-2014 and a sharp post-2003
     collapse in characteristic-based hedge returns and significance, implying that much of the anomaly
     zoo is redundant, microcap-driven, or temporally fragile.
+- title: "Gerken and Painter (RFS, 2023) - The Value of Differing Points of View: Evidence from Financial Analysts' Geographic Diversity"
+  file: "https://www.dropbox.com/scl/fi/y817zgck1pkue8hd1uhvf/Gerken_Painter_RFS_2023.pdf?rlkey=sr1dpwcacvc4bbrb8jxo9erdv&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines analyst office locations with satellite parking-lot
+    car counts to show that analysts tilt forecasts toward locally observed firm signals, while
+    geographically dispersed coverage reduces consensus errors and bid-ask spreads, especially for
+    difficult-to-value firms; brokerage closure and merger shocks, stronger reactions to unique-location
+    revisions, and future-earnings-response tests support a causal information-aggregation channel.
