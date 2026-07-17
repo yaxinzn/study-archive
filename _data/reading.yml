@@ -14063,3 +14063,11 @@
     idiosyncratic uncertainty raises equity's convexity value and lowers its priced-risk exposure per
     dollar, so the negative dispersion-return relation should be concentrated in highly levered firms, a
     prediction supported by Fama-MacBeth interaction tests.
+- title: "Varian (JF, 1985) - Divergence of Opinion in Complete Markets: A Note"
+  file: "https://www.dropbox.com/scl/fi/2sqp6o02gs86emnqbufmw/Varian_JF_1985.pdf?rlkey=oulihq4uohbqfgxm3qcxawsem&dl=0"
+  desc: >-
+    This note summarizes the paper, which characterizes Arrow-Debreu state prices under heterogeneous
+    subjective probabilities and complete markets, showing that prices depend on aggregate consumption
+    and the distribution of marginal-utility-weighted beliefs, and that a mean-preserving increase in
+    disagreement generally lowers state and asset prices when risk aversion declines sufficiently
+    slowly, including CRRA preferences with relative risk aversion above one.
