@@ -14257,3 +14257,11 @@
     and M-3 models reduce anomaly alphas and span competing factor models relatively well, while
     sentiment predictability concentrated in short legs and especially low returns among high-IVOL
     overpriced stocks support common mispricing under asymmetric limits to arbitrage.
+- title: "Donaldson, Malenko, and Piacentino (RFS, 2020) - Deadlock on the Board"
+  file: "https://www.dropbox.com/scl/fi/5ne788gtfwuqkxl0kcr98/Donaldson_Malenko_Piacentino_RFS_2020.pdf?rlkey=rd5nn4dypxpmlx0fmldhwl7uv&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic voting model in which diverse directors may
+    retain a bad incumbent or replace a good one with a worse alternative to preserve future policy
+    flexibility, creating deadlock or anti-deadlock even when current values are unanimously ranked,
+    with stronger effects under large biases and long tenure and a trade-off between board diversity,
+    alignment, and incumbent appointment power.
