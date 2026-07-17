@@ -14031,3 +14031,11 @@
     cross-country strategy comovement and U.S. tests ruling out standard trading-friction, information,
     skewness, leverage, and future-volatility explanations without identifying a complete equilibrium
     mechanism.
+- title: "Green, Hand, and Zhang (RFS, 2017) - The Characteristics that Provide Independent Information about Average U.S. Monthly Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/zhirib22ffpqk3ul0ekj0/Green_Hand_Zhang_RFS_2017.pdf?rlkey=hoxm0y8hatfvyxi4jc70pdmpo&dl=0"
+  desc: >-
+    This note summarizes the paper, which places 94 published anomaly characteristics jointly in
+    Fama-MacBeth regressions, de-emphasizes microcaps, and adjusts for dependent multiple testing,
+    finding only 12 independent non-microcap return determinants over 1980-2014 and a sharp post-2003
+    collapse in characteristic-based hedge returns and significance, implying that much of the anomaly
+    zoo is redundant, microcap-driven, or temporally fragile.
