@@ -14168,3 +14168,11 @@
     deteriorates earn higher expected returns, with predicted-liquidity-beta portfolios generating large
     factor-adjusted spreads, a positive GMM price of liquidity risk, and liquidity-risk factors
     explaining part of momentum profits.
+- title: "Cohen, Malloy, and Pomorski (JF, 2012) - Decoding Inside Information"
+  file: "https://www.dropbox.com/scl/fi/ledqusxv07a83qumtgouq/Cohen_Malloy_Pomorski_JF_2012.pdf?rlkey=wa6sxd4iabci8f18bucbj3v0w&dl=0"
+  desc: >-
+    This note summarizes the paper, which classifies insiders ex ante as routine when they repeatedly
+    trade in the same calendar month and opportunistic otherwise, showing that opportunistic buys and
+    sells predict future returns, firm news, announcement outcomes, institutional responses, and SEC
+    investigations, whereas routine trades carry little information, with local nonsenior opportunistic
+    insiders providing especially strong signals.
