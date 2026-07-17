@@ -13992,3 +13992,11 @@
     future returns and alphas after characteristic, liquidity, volatility, and skewness controls, while
     conditioning on MAX eliminates or reverses the idiosyncratic-volatility anomaly, indicating that
     extreme upside rather than idiosyncratic risk itself drives the return discount.
+- title: "Parker, Schoar, Cole, and Simester (JF, 2025) - Household Portfolios and Retirement Saving over the Life Cycle"
+  file: "https://www.dropbox.com/scl/fi/9bewciokr4p2b8ufeyfaq/Parker_Schoar_Cole_Simester_JF_2025.pdf?rlkey=f6e7slr68q2va4i4dwr14gxb9&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses large-scale administrative account data to document high,
+    hump-shaped life-cycle equity shares and exploits employer adoption of target-date-fund defaults
+    after the Pension Protection Act to show that defaults raise equity exposure for young enrollees and
+    lower it for older ones through glidepaths, while contribution rates rise with age but respond
+    little to the reform, separating portfolio-design effects from saving-rate effects.
