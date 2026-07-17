@@ -14209,3 +14209,11 @@
     weights create dynamic inconsistency and underinvestment even when every member would invest alone,
     while insider trading or risky-debt design can restore investment by reallocating control or
     reshaping residual payoffs, though trading can also create overinvestment.
+- title: "Lakonishok and Lee (RFS, 2001) - Are Insider Trades Informative?"
+  file: "https://www.dropbox.com/scl/fi/sytsgd7hs93mt2hnes43h/Lakonishok_Lee_RFS_2001.pdf?rlkey=toh3jdhsop5sv2wn1sqt9vj4l&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses more than one million U.S. insider transactions to show
+    that immediate price reactions to trades and filings are small but aggregate insider buying
+    forecasts higher market returns and firm-level managerial purchases predict higher subsequent
+    returns, especially among small stocks, whereas sales are far less informative and size-value
+    adjustments reduce but do not eliminate the purchase signal.
