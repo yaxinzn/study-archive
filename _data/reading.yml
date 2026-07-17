@@ -14120,3 +14120,11 @@
     stable or unstable steady states, thresholds, persistence, bimodal use, cold-turkey quitting,
     binges, and larger responses to permanent than temporary price changes, so apparently compulsive
     harmful or beneficial habits can arise within rational intertemporal optimization.
+- title: "Friedman and Savage (JPE, 1948) - The Utility Analysis of Choices Involving Risk"
+  file: "https://www.dropbox.com/scl/fi/670zmmxgl15v6hfzxpc6i/Friedman_Savage_JPE_1948.pdf?rlkey=ny4ggezdcrcjazsx0rv2krpzm&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that expected utility can rationalize simultaneous
+    insurance purchase and lottery participation when utility over income is concave at low and high
+    income levels but convex over an intermediate status-transition region, so households may protect
+    their current position against losses while paying for a small chance of a large socioeconomic gain
+    without abandoning stable utility maximization.
