@@ -14265,3 +14265,11 @@
     flexibility, creating deadlock or anti-deadlock even when current values are unanimously ranked,
     with stronger effects under large biases and long tenure and a trade-off between board diversity,
     alignment, and incumbent appointment power.
+- title: "Garlappi, Giammarino, and Lazrak (RFS, 2022) - Group-Managed Real Options"
+  file: "https://www.dropbox.com/scl/fi/xvducglra8p6v6cv6jusc/Garlappi_Giammarino_Lazrak_RFS_2022.pdf?rlkey=hzg40t6szsmf9cpyboqdb5kzo&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies sequential licensing, investment, and abandonment
+    votes by members with heterogeneous drift beliefs and shows that the pivotal voter can change across
+    decisions, breaking median-voter logic and generating investment inertia and license
+    underinvestment, especially under polarized beliefs and stringent voting rules, while markets for
+    voting rights do not generally eliminate the coordination externalities.
