@@ -14160,3 +14160,11 @@
     better earnings-announcement news for up to five years, with announcement returns explaining a
     meaningful share of the value premium and glamour stocks earning lower event-day than nonevent-day
     returns, supporting extrapolative expectation errors over a pure risk-premium account.
+- title: "Pástor and Stambaugh (JPE, 2003) - Liquidity Risk and Expected Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/j0ufaitbc1227y1ny9t9d/Pastor_Stambaugh_JPE_2003.pdf?rlkey=tq6b7qax0i37x0um6mfa5skdu&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs a long monthly market-liquidity series from
+    signed-volume return reversals and shows that stocks whose returns fall when aggregate liquidity
+    deteriorates earn higher expected returns, with predicted-liquidity-beta portfolios generating large
+    factor-adjusted spreads, a positive GMM price of liquidity risk, and liquidity-risk factors
+    explaining part of momentum profits.
