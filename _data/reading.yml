@@ -14201,3 +14201,11 @@
     governance rose, while pre-2002 earnings and analyst surprises for well-governed firms also vanished
     and governance continued to predict Tobin's Q and operating performance, consistent with investors
     learning to price persistent governance effects.
+- title: "Garlappi, Giammarino, and Lazrak (JFE, 2017) - Ambiguity and the Corporation: Group Disagreement and Underinvestment"
+  file: "https://www.dropbox.com/scl/fi/cur9cnxo1fiphfxt73mad/Garlappi_Giammarino_Lazrak_JFE_2017.pdf?rlkey=eqnrcpxyq1qexejrg8148jpy7&dl=0"
+  desc: >-
+    This note summarizes the paper, which models a corporate decision-making group with heterogeneous
+    priors and utilitarian belief aggregation, showing that Bayesian learning and fixed influence
+    weights create dynamic inconsistency and underinvestment even when every member would invest alone,
+    while insider trading or risky-debt design can restore investment by reallocating control or
+    reshaping residual payoffs, though trading can also create overinvestment.
