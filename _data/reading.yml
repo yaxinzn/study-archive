@@ -14249,3 +14249,11 @@
     by inducing directors to reveal valuable private signals before voting, while concentrating control
     in a low-conformity director or specialized committee can strengthen information aggregation despite
     reducing formal participation.
+- title: "Stambaugh and Yuan (RFS, 2017) - Mispricing Factors"
+  file: "https://www.dropbox.com/scl/fi/a3m6dwbpp7mv6mdtgry3v/Stambaugh_Yuan_RFS_2017.pdf?rlkey=w4ex1ykdl2qnbwhjvy07pihn7&dl=0"
+  desc: >-
+    This note summarizes the paper, which averages rankings across 11 anomalies to construct
+    management-related and performance-related mispricing factors and shows that its parsimonious M-4
+    and M-3 models reduce anomaly alphas and span competing factor models relatively well, while
+    sentiment predictability concentrated in short legs and especially low returns among high-IVOL
+    overpriced stocks support common mispricing under asymmetric limits to arbitrage.
