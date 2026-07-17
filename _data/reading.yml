@@ -13984,3 +13984,11 @@
     showing that lottery-like savings raise deposits while reducing casino withdrawals and
     scratch-ticket sales, especially for local, temporally proximate, low-frills gambling and
     higher-self-control patrons, consistent with redirecting gambling demand toward saving.
+- title: "Bali, Cakici, and Whitelaw (JFE, 2011) - Maxing Out: Stocks as Lotteries and the Cross-Section of Expected Returns"
+  file: "https://www.dropbox.com/scl/fi/rrw4tmok0jf2tfiftec1d/Bali_Cakici_Whitelaw_JFE_2011.pdf?rlkey=cb6gert2y0tsx2v93eujdmqrw&dl=0"
+  desc: >-
+    This note summarizes the paper, which introduces MAX, the largest daily stock return in the prior
+    month, as a salient lottery-payoff proxy and shows that high-MAX stocks earn substantially lower
+    future returns and alphas after characteristic, liquidity, volatility, and skewness controls, while
+    conditioning on MAX eliminates or reverses the idiosyncratic-volatility anomaly, indicating that
+    extreme upside rather than idiosyncratic risk itself drives the return discount.
