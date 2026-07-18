@@ -14392,3 +14392,11 @@
     strongly to the winner's private type and therefore dominate flatter debt, while first- versus
     second-price rankings depend on security-set curvature and informal auctions yield the lowest
     revenue because bidders choose the flattest feasible instruments.
+- title: "Gershkov, Moldovanu, Strack, and Zhang (AER, 2025) - Optimal Security Design for Risk-Averse Investors"
+  file: "https://www.dropbox.com/scl/fi/iz5ytydem34aanba3kcvy/Gershkov_Moldovanu_Strack_Zhang_AER_2025.pdf?rlkey=rpnior51bfqek60dnjsasev6h&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives securitization tranching without private information
+    about asset quality by screening investors with heterogeneous distortion-risk preferences and
+    budgets, showing that conservative investors optimally receive senior debt, more risk-tolerant
+    investors receive junior or mezzanine layers, and the least risk-averse party holds residual equity,
+    with larger financing needs producing more tranches.
