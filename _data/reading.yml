@@ -14408,3 +14408,11 @@
     likelihood ratios and convexity of distribution functions make optimal wages nondecreasing and the
     agent's utility concave in effort, with a doubly relaxed program delivering the key nonnegative
     incentive multiplier.
+- title: "Kohlberg and Mertens (Econometrica, 1986) - On the Strategic Stability of Equilibria"
+  file: "https://www.dropbox.com/scl/fi/3cwzybzr1mhbuw4vwbtld/Kohlberg_Mertens_Econometrica_1986.pdf?rlkey=9lqmtkl4u7kuj9bb4ilgnuyb9&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a set-valued notion of strategically stable
+    equilibrium that survives small perturbations, dominated-strategy deletion, forward-induction
+    reasoning, and equivalent representations of the same reduced normal form, showing why point-valued
+    refinements cannot generally reconcile invariance, admissibility, backward induction, and robust
+    existence.
