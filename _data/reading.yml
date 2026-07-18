@@ -14348,3 +14348,10 @@
     financially constrained firms to reduce equity issuance and investment, with stronger effects among
     firms most exposed to overvaluation, disagreement, negative price reactions, and short-selling
     pressure.
+- title: "Brogaard, Hendershott, and Riordan (RFS, 2014) - High-Frequency Trading and Price Discovery"
+  file: "https://www.dropbox.com/scl/fi/38fs9hietnj0xb7e09q96/Brogaard_Hendershott_Riordan_RFS_2014.pdf?rlkey=eg1da2fxvs35mhltzz8zn9eoq&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses trader-identified NASDAQ data and a state-space price
+    decomposition to show that HFT liquidity demand carries information, contributes to permanent price
+    discovery, and corrects temporary pricing errors, while HFT liquidity supply is adversely selected
+    and compensated through spreads and rebates, with signals operating over only a few seconds.
