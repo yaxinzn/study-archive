@@ -14416,3 +14416,10 @@
     reasoning, and equivalent representations of the same reduced normal form, showing why point-valued
     refinements cannot generally reconcile invariance, admissibility, backward induction, and robust
     existence.
+- title: "Jewitt (Econometrica, 1988) - Justifying the First-Order Approach to Principal-Agent Problems"
+  file: "https://www.dropbox.com/scl/fi/tk71tx6fhydr9ycmc6lec/Jewitt_Econometrica_1988.pdf?rlkey=y1wiosk959emqobacss99wht0&dl=0"
+  desc: >-
+    This note summarizes the paper, which replaces Rogerson's restrictive convex-distribution-function
+    condition with concavity-preserving technology and likelihood-score conditions, validating the
+    first-order approach in one- and multi-signal agency models and showing in an optimal-monitoring
+    application why the same utility curvature favors lower-tail, punishment-oriented monitoring.
