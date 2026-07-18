@@ -14368,3 +14368,11 @@
     comovement while narrowing spreads and raising volatility, with faster market-wide information
     diffusion explaining part of the effect and correlated cross-stock HFT strategies explaining most of
     the remainder.
+- title: "Dow and Gorton (JF, 1997) - Stock Market Efficiency and Economic Efficiency: Is There a Connection?"
+  file: "https://www.dropbox.com/scl/fi/6sl12xxqswk95diukaozz/Dow_Gorton_JF_1997.pdf?rlkey=1qfo7cwurb0vray279mzc2zg7&dl=0"
+  desc: >-
+    This note summarizes the paper, which distinguishes the prospective role of stock prices in guiding
+    current investment from their retrospective role in evaluating managers, showing that an
+    informative-price equilibrium can support efficient investment but a strong-form-efficient
+    no-information equilibrium can remain economically inefficient, while bank monitoring can replicate
+    the same information and incentive functions without market prices.
