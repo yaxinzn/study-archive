@@ -14400,3 +14400,11 @@
     budgets, showing that conservative investors optimally receive senior debt, more risk-tolerant
     investors receive junior or mezzanine layers, and the least risk-averse party holds residual equity,
     with larger financing needs producing more tranches.
+- title: "Rogerson (Econometrica, 1985) - The First-Order Approach to Principal-Agent Problems"
+  file: "https://www.dropbox.com/scl/fi/9mb5z4s11nm91vqmp8v3b/Rogerson_Econometrica_1985.pdf?rlkey=ddhoqu2t3ivyabmnhx6t0g564&dl=0"
+  desc: >-
+    This note summarizes the paper, which provides sufficient conditions for replacing global incentive
+    compatibility with the agent's first-order condition in moral-hazard models, showing that monotone
+    likelihood ratios and convexity of distribution functions make optimal wages nondecreasing and the
+    agent's utility concave in effort, with a doubly relaxed program delivering the key nonnegative
+    incentive multiplier.
