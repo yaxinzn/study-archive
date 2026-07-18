@@ -14376,3 +14376,11 @@
     informative-price equilibrium can support efficient investment but a strong-form-efficient
     no-information equilibrium can remain economically inefficient, while bank monitoring can replicate
     the same information and incentive functions without market prices.
+- title: "Nachman and Noe (RFS, 1994) - Optimal Design of Securities under Asymmetric Information"
+  file: "https://www.dropbox.com/scl/fi/xk7w7d397th4eky60w2mp/Nachman_Noe_RFS_1994.pdf?rlkey=ieivndb804lxhf7xjvda4s1cd&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies outside financing when issuers privately know project
+    cash-flow distributions and characterizes pooling-supporting oriented security sets, showing that
+    debt is optimal only under conditional stochastic dominance rather than ordinary first-order
+    dominance, while failures of that condition can make layered claims outperform standard debt by
+    minimizing adverse-selection mispricing.
