@@ -14447,3 +14447,11 @@
     fixed-security trading exhibits cutoff exclusion and lemons discounts, whereas optimally capped debt
     pools high cash-flow issuers, eliminates exclusion, and reduces both adverse-selection and
     intermediary market-power spreads.
+- title: "Balsmeier, Fleming, and Manso (JFE, 2017) - Independent Boards and Innovation"
+  file: "https://www.dropbox.com/scl/fi/naazjtjv77qxwidcvhg3b/Balsmeier_Fleming_Manso_JFE_2017.pdf?rlkey=kwa067kzje71qnajwo8ldebw3&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits post-SOX transitions to majority-independent boards
+    in a difference-in-differences design and finds more patents, claims, and citations without higher
+    R&D, but little increase in breakthrough or new-class inventions and stronger growth in
+    self-citations, backward citations, and technological proximity, indicating that monitoring shifts
+    innovation toward measurable exploitation rather than risky exploration.
