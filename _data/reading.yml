@@ -14423,3 +14423,11 @@
     condition with concavity-preserving technology and likelihood-score conditions, validating the
     first-order approach in one- and multi-signal agency models and showing in an optimal-monitoring
     application why the same utility curvature favors lower-tail, punishment-oriented monitoring.
+- title: "Pesendorfer and Swinkels (Econometrica, 1997) - The Loser's Curse and Information Aggregation in Common Value Auctions"
+  file: "https://www.dropbox.com/scl/fi/uqsn86h0nbszby00l50tw/Pesendorfer_Swinkels_Econometrica_1997.pdf?rlkey=1mz3ohm2aysk82m890fhqfmhs&dl=0"
+  desc: >-
+    This note summarizes the paper, which characterizes a uniform-price common-value auction and proves
+    that prices aggregate dispersed information if and only if both the number of winners and losers
+    diverge, because the pivotal bid combines winner's-curse and loser's-curse information, with
+    aggregation surviving a vanishing supply share and even sparse informed participation under
+    sufficient signal growth.
