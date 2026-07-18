@@ -14340,3 +14340,11 @@
     semiparametric treatment-effect estimators, and regional democratization-wave instruments to show
     that democratization raises GDP per capita by roughly 20% in the long run over two to three decades,
     partly through investment, reforms, fiscal capacity, education, health, and reduced unrest.
+- title: "Grullon, Michenaud, and Weston (RFS, 2015) - The Real Effects of Short-Selling Constraints"
+  file: "https://www.dropbox.com/scl/fi/44m9ocnd52vxvykwt6wzv/Grullon_Michenaud_Weston_RFS_2015.pdf?rlkey=rtq7rplh37ut4afkmekxohmec&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits the randomized Regulation SHO pilot to show that
+    relaxing short-sale price tests increases short interest, lowers stock prices, and causes small
+    financially constrained firms to reduce equity issuance and investment, with stronger effects among
+    firms most exposed to overvaluation, disagreement, negative price reactions, and short-selling
+    pressure.
