@@ -14471,3 +14471,11 @@
     raise labor-saving process innovation, especially in labor-intensive industries, while
     high-innovation-ability firms subsequently substitute capital for labor and preserve productivity,
     profitability, and equity value.
+- title: "Cohn, Liu, and Wardlaw (JFE, 2022) - Count (and Count-Like) Data in Finance"
+  file: "https://www.dropbox.com/scl/fi/3jzcetumnhl06w89r8xck/Cohn_Liu_Wardlaw_JFE_2022.pdf?rlkey=0w7716ztjxe25zwijlo62qy96&dl=0"
+  desc: >-
+    This note summarizes the paper, which demonstrates theoretically, through simulations, and in six
+    finance replications that OLS on log(1+y) lacks a stable economic interpretation and can reverse
+    coefficient signs under heteroskedasticity and nonlinearities, recommending fixed-effects Poisson
+    pseudo-maximum likelihood with robust inference for zero-heavy, skewed count and count-like
+    outcomes.
