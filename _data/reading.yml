@@ -14439,3 +14439,11 @@
     profitably send a deviation and asking whether remaining types would surely gain, thereby ruling out
     implausible pooling equilibria while clarifying the stronger—and sometimes behaviorally
     questionable—restrictions implied by stability and D1/D2-style refinements.
+- title: "Biais and Mariotti (REStud, 2005) - Strategic Liquidity Supply and Security Design"
+  file: "https://www.dropbox.com/scl/fi/p599utwwczt14wacdo9nq/Biais_Mariotti_RES_2005.pdf?rlkey=2ptyfz15zcaywqzmy91rbl5gd&dl=0"
+  desc: >-
+    This note summarizes the paper, which jointly designs securities and trading mechanisms when
+    informed impatient issuers sell to competitive or monopolistic liquidity suppliers, showing that
+    fixed-security trading exhibits cutoff exclusion and lemons discounts, whereas optimally capped debt
+    pools high cash-flow issuers, eliminates exclusion, and reduces both adverse-selection and
+    intermediary market-power spreads.
