@@ -14355,3 +14355,11 @@
     decomposition to show that HFT liquidity demand carries information, contributes to permanent price
     discovery, and corrects temporary pricing errors, while HFT liquidity supply is adversely selected
     and compensated through spreads and rebates, with signals operating over only a few seconds.
+- title: "Malceniece, Malcenieks, and Putniņš (JFE, 2019) - High Frequency Trading and Comovement in Financial Markets"
+  file: "https://www.dropbox.com/scl/fi/r34nx5t0b6jx2siq1wi30/Malceniece_Malcenieks_Putnins_JFE_2019.pdf?rlkey=bpal8nrs52beweapztsji52dg&dl=0"
+  desc: >-
+    This note summarizes the paper, which instruments message-intensive trading with the staggered entry
+    of Chi-X across twelve European markets and finds that HFT increases both return and liquidity
+    comovement while narrowing spreads and raising volatility, with faster market-wide information
+    diffusion explaining part of the effect and correlated cross-stock HFT strategies explaining most of
+    the remainder.
