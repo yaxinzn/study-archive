@@ -14288,3 +14288,11 @@
     mutual-fund-outflow instruments and long-run returns provide little support for systematic bidder
     opportunism, favoring rational contingent payment design and external cash pressure as the main
     determinants of payment choice.
+- title: "Hoffmann and Vladimirov (JF, 2025) - Auctions versus Negotiations: The Role of the Payment Structure"
+  file: "https://www.dropbox.com/scl/fi/6nhztsyl3nde8b5i8mjgs/Hoffmann_Vladimirov_JF_2025.pdf?rlkey=xyd3i85wm9axfwb8pfz15nxyy&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that negotiations with fewer bidders can outperform
+    auctions when the seller controls payment structure and the asset complements bidder productivity,
+    because contingent payments reduce information rents, whereas bidders choose cash in competition and
+    additional competition dominates when valuations are substitutes, making security-design power more
+    valuable than reserve-price power.
