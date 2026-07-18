@@ -14431,3 +14431,11 @@
     diverge, because the pivotal bid combines winner's-curse and loser's-curse information, with
     aggregation surviving a vanishing supply share and even sparse informed participation under
     sufficient signal growth.
+- title: "Cho and Kreps (QJE, 1987) - Signaling Games and Stable Equilibria"
+  file: "https://www.dropbox.com/scl/fi/pi211vjwhgbivf6uq75gd/Cho_Kreps_QJE_1987.pdf?rlkey=i1gv40tc5kfjycarcgtrytktj&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops forward-induction restrictions on off-equilibrium
+    beliefs in signaling games, most notably the Intuitive Criterion, by eliminating types that cannot
+    profitably send a deviation and asking whether remaining types would surely gain, thereby ruling out
+    implausible pooling equilibria while clarifying the stronger—and sometimes behaviorally
+    questionable—restrictions implied by stability and D1/D2-style refinements.
