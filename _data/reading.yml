@@ -14333,3 +14333,10 @@
     parallel trends given covariates and derives propensity-score weighting estimators for the ATT and
     low-dimensional treatment-effect heterogeneity, covering panel and repeated-cross-section data,
     multilevel treatments, and both nonparametric and parametric first-step estimation.
+- title: "Acemoglu, Naidu, Restrepo, and Robinson (JPE, 2019) - Democracy Does Cause Growth"
+  file: "https://www.dropbox.com/scl/fi/b630ftegy5xybh1o8ay46/Acemoglu_Naidu_Restrepo_Robinson_JPE_2019.pdf?rlkey=itxxcrey76ws9uekt3vq1hbpl&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines a consolidated democracy measure with dynamic panels,
+    semiparametric treatment-effect estimators, and regional democratization-wave instruments to show
+    that democratization raises GDP per capita by roughly 20% in the long run over two to three decades,
+    partly through investment, reforms, fiscal capacity, education, health, and reduced unrest.
