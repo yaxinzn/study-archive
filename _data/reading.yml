@@ -14384,3 +14384,11 @@
     debt is optimal only under conditional stochastic dominance rather than ordinary first-order
     dominance, while failures of that condition can make layered claims outperform standard debt by
     minimizing adverse-selection mispricing.
+- title: "DeMarzo, Kremer, and Skrzypacz (AER, 2005) - Bidding with Securities: Auctions and Security Design"
+  file: "https://www.dropbox.com/scl/fi/ib7zxci306nspag04epfd/DeMarzo_Kremer_Skrzypacz_AER_2005.pdf?rlkey=38gh9rzkkb5g7vv1sgfgpuomj&dl=0"
+  desc: >-
+    This note summarizes the paper, which analyzes auctions in which bids are payoff-contingent
+    securities and shows that steeper claims such as equity and call options link seller revenue more
+    strongly to the winner's private type and therefore dominate flatter debt, while first- versus
+    second-price rankings depend on security-set curvature and informal auctions yield the lowest
+    revenue because bidders choose the flattest feasible instruments.
