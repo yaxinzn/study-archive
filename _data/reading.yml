@@ -14326,3 +14326,10 @@
     efficiently screen the target's private state but invite rival entry, whereas noncontingent cash is
     a costly signal that only high-valuation bidders use to deter competition, predicting more competing
     bids and rejections after securities offers and stronger bidder reactions to cash bids.
+- title: "Abadie (REStud, 2005) - Semiparametric Difference-in-Differences Estimators"
+  file: "https://www.dropbox.com/scl/fi/lwxz4t4f1fow59lcqz18n/Abadie_RES_2005.pdf?rlkey=50rzm0s8pyioo9avh5i2sy1c2&dl=0"
+  desc: >-
+    This note summarizes the paper, which replaces unconditional DID parallel trends with conditional
+    parallel trends given covariates and derives propensity-score weighting estimators for the ATT and
+    low-dimensional treatment-effect heterogeneity, covering panel and repeated-cross-section data,
+    multilevel treatments, and both nonparametric and parametric first-step estimation.
