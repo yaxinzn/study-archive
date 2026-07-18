@@ -14296,3 +14296,11 @@
     because contingent payments reduce information rents, whereas bidders choose cash in competition and
     additional competition dominates when valuations are substitutes, making security-design power more
     valuable than reserve-price power.
+- title: "Liu and Bernhardt (JF, 2021) - Rent Extraction with Securities Plus Cash"
+  file: "https://www.dropbox.com/scl/fi/ulyk6gu6php4tfnhxzepp/Liu_Bernhardt_JF_2021.pdf?rlkey=gupa9zel6dka3wouuj2s6pph7&dl=0"
+  desc: >-
+    This note summarizes the paper, which designs target-initiated takeover mechanisms using cash plus
+    equity and shows that concave synergies in bidder standalone value permit dominant-strategy full
+    surplus extraction with the highest-synergy bidder winning and paying more cash at higher types,
+    while convex synergies require pooling contracts or steeper securities such as options to strengthen
+    screening.
