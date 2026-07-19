@@ -694,7 +694,11 @@
   desc: "This note summarizes the paper, which uses CDA/Spectrum mutual-fund holdings, breadth of ownership, changes in breadth, fund entry and exit measures, aggregate fund holdings, CRSP/Compustat controls, portfolio sorts, and Fama-MacBeth return regressions to study differences of opinion and short-sale constraints, showing that stocks with falling ownership breadth subsequently underperform because constrained pessimistic investors exit rather than short, leaving prices too optimistic."
 - title: "Whited and Wu (RFS, 2006) - Financial Constraints Risk"
   file: "https://www.dropbox.com/scl/fi/xj9zae7efov4h2a5tjs86/Whited_Wu_RFS_2006.pdf?rlkey=bzpe4y78k0oc8nc8ruevsz58q&dl=0"
-  desc: "This note summarizes the paper, which uses quarterly Compustat industrial data, a GMM-estimated investment Euler equation, a structural financial-constraints index based on the shadow value of external finance, KZ-index comparisons, size-by-constraint portfolio sorts, covariance tests, and Fama-MacBeth return regressions to study financial constraints risk, showing that structurally constrained firms share common return variation and earn higher cross-sectional returns, with the constraints index absorbing much of the size effect."
+  desc: >-
+    This note summarizes the paper, which estimates a structural financial-constraints index from an
+    investment Euler equation and shows that constrained-firm returns comove and the index positively
+    predicts cross-sectional returns while largely absorbing the size effect, although the
+    factor-mimicking portfolio’s average premium is positive but statistically imprecise.
 - title: "Lamont, Polk, and Saa-Requejo (RFS, 2001) - Financial Constraints and Stock Returns"
   file: "https://www.dropbox.com/scl/fi/6xe2wfqxijqq0m308lxln/Lamont_Polk_SaaRequejo_RFS_2001.pdf?rlkey=hoijxc4gk124q9tgxijo5yzze&dl=0"
   desc: "This note summarizes the paper, which uses CRSP/Compustat manufacturing firms, a Kaplan-Zingales financial-constraints index, size-by-KZ portfolio sorts, a long-constrained short-unconstrained constraints factor, industry and characteristic-adjusted factors, switching tests, asset-pricing regressions, and macro-variable regressions to study whether financial constraints are a common return factor, showing that constrained firms' returns comove but that the constraints factor earns a negative average return and does not map cleanly into standard credit or monetary-policy indicators."
