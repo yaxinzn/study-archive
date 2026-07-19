@@ -14650,3 +14650,11 @@
     under-identification, spurious long-run effects, and binning bias in TWFE, and derives an efficient
     imputation estimator that learns counterfactuals only from untreated observations and yields
     smaller, shorter-lived tax-rebate spending responses.
+- title: "Hsu, Li, and Tsou (JF, 2023) - The Pollution Premium"
+  file: "https://www.dropbox.com/scl/fi/en8nujbu15yqh5yue9552/Hsu_Li_Tsou_JF_2023.pdf?rlkey=p3ngosyq3mdcolhxg8jdj1b8v&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs firm emission intensity from EPA TRI data and
+    documents a roughly 4.42% annual high-minus-low pollution premium unexplained by standard factors or
+    ESG taste stories, arguing through litigation, profitability, election-event, and GMM evidence that
+    dirty firms earn compensation for negative exposure to priced environmental-regulation regime-change
+    risk.
