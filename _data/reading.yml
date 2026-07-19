@@ -9603,11 +9603,11 @@
 - title: "Kogan, Papanikolaou, Seru, and Stoffman (QJE, 2017) - Technological Innovation, Resource Allocation, and Growth"
   file: "https://www.dropbox.com/scl/fi/tvufqzfowipva5zifnt1f/Kogan_Papanikolaou_Seru_Stoffman_QJE_2017.pdf?rlkey=zagpblspe939678273znumtyw&dl=0"
   desc: >-
-    This note summarizes the paper, which constructs patent-level private values from stock-market
-    reactions around patent grants, filters announcement-return noise, links values to citations, builds
-    firm and competitor innovation measures, tests firm growth and creative-destruction predictions,
-    compares market-valued and citation-weighted patents, and constructs aggregate innovation indices
-    that predict medium-run output and TFP growth.
+    This note summarizes the paper, which extracts patent-level private values from filtered
+    stock-market reactions around patent grants and shows that value-weighted own innovation predicts
+    firm growth and productivity, competitor innovation predicts creative destruction, and an aggregate
+    patent-value index tracks major innovation waves and predicts medium-run output and TFP growth more
+    strongly than citation-weighted measures.
 - title: "Matsa (QJE, 2011) - Competition and Product Quality in the Supermarket Industry"
   file: "https://www.dropbox.com/scl/fi/au1o4il5nu44mi0x6yr04/Matsa_QJE_2011.pdf?rlkey=6kxww898uyzr8izzb3f87ovnp&dl=0"
   desc: >-
