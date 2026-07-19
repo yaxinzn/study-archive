@@ -14551,3 +14551,11 @@
     form performs slightly better than the full iterative model, while profitability and past returns
     add substantial forecasting power, implying that structural theory is most useful for variable
     construction rather than as a complete empirical forecasting system.
+- title: "Gu, Hackbarth, and Johnson (RFS, 2018) - Inflexibility and Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/o26jyv363l6uhmaazdacw/Gu_Hackbarth_Johnson_RFS_2018.pdf?rlkey=xu0t7dqgpulzkp68b7h9ugb2c&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines operating leverage with costly real scale adjustment
+    and shows that quasi-fixed costs raise expected returns, volatility, and beta primarily when firms
+    are operationally inflexible, with a new accounting-based inflexibility proxy, double-sorted
+    portfolios, Fama-MacBeth regressions, and second-moment tests all supporting the predicted positive
+    inflexibility-by-operating-leverage interaction.
