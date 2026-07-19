@@ -14543,3 +14543,11 @@
     higher spreads, with election event studies, stronger effects for active voters, partisan media
     disagreement, borrower opacity, and weak outside options supporting a lender-belief channel rather
     than borrower selection or bank policy.
+- title: "Bharath and Shumway (RFS, 2008) - Forecasting Default with the Merton Distance to Default Model"
+  file: "https://www.dropbox.com/scl/fi/9gcqtv5m4tl1m82c8u6qa/Bharath_Shumway_RFS_2008.pdf?rlkey=2x727691pzpnsj3abz0ith7qf&dl=0"
+  desc: >-
+    This note summarizes the paper, which tests whether Merton distance to default is a sufficient
+    default-risk statistic and shows that a simple naive approximation to the same nonlinear functional
+    form performs slightly better than the full iterative model, while profitability and past returns
+    add substantial forecasting power, implying that structural theory is most useful for variable
+    construction rather than as a complete empirical forecasting system.
