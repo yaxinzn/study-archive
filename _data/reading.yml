@@ -14559,3 +14559,11 @@
     are operationally inflexible, with a new accounting-based inflexibility proxy, double-sorted
     portfolios, Fama-MacBeth regressions, and second-moment tests all supporting the predicted positive
     inflexibility-by-operating-leverage interaction.
+- title: "Bernile, Kumar, and Sulaeman (RFS, 2015) - Home Away from Home: Geography of Information and Local Investors"
+  file: "https://www.dropbox.com/scl/fi/hao46daxydp2o56zs0ves/Bernile_Kumar_Sulaeman_RFS_2015.pdf?rlkey=u4jk3sylmzbxsnlc6sw47ppmk&dl=0"
+  desc: >-
+    This note summarizes the paper, which parses state mentions in 10-K filings to identify firms'
+    economically relevant non-headquarters locations and shows that local institutions overweight and
+    profitably trade firms exposed to their states, especially hard-to-value firms and net purchases,
+    with the performance advantage surviving Regulation FD and SOX and therefore extending
+    information-based local bias beyond headquarters proximity.
