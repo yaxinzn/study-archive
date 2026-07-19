@@ -14479,3 +14479,11 @@
     coefficient signs under heteroskedasticity and nonlinearities, recommending fixed-effects Poisson
     pseudo-maximum likelihood with robust inference for zero-heavy, skewed count and count-like
     outcomes.
+- title: "Akey and Appel (JF, 2021) - The Limits of Limited Liability: Evidence from Industrial Pollution"
+  file: "https://www.dropbox.com/scl/fi/cystva9s7r6ral2w1t17j/Akey_Appel_JF_2021.pdf?rlkey=u0ctb35t0x3zootyuuee74suu&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits the 1998 Bestfoods Supreme Court decision in a
+    difference-in-differences design and shows that stronger parent limited-liability protection raises
+    subsidiaries' toxic ground emissions by roughly 5% to 9%, mainly through reduced process-related
+    abatement rather than higher production, with larger effects among less-solvent subsidiaries,
+    distressed parents, environmentally exposed firms, and high-vega executives.
