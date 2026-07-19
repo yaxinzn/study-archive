@@ -14642,3 +14642,11 @@
     Cobb–Douglas global production function through extreme-value selection, while balanced growth
     selects techniques with stationary capital augmentation and rising labor augmentation despite low
     substitution within each local technique.
+- title: "Borusyak, Jaravel, and Spiess (REStud, 2024) - Revisiting Event-Study Designs: Robust and Efficient Estimation"
+  file: "https://www.dropbox.com/scl/fi/4lmqsg2yr2xi0ge5ikgu4/Borusyak_Jaravel_Spiess_RES_2024.pdf?rlkey=4qwsf53pvbyeh2qlyowl6m8fd&dl=0"
+  desc: >-
+    This note summarizes the paper, which separates the target estimand, untreated-outcome assumptions,
+    and treatment-effect restrictions in staggered event studies, diagnoses negative weights,
+    under-identification, spurious long-run effects, and binning bias in TWFE, and derives an efficient
+    imputation estimator that learns counterfactuals only from untreated observations and yields
+    smaller, shorter-lived tax-rebate spending responses.
