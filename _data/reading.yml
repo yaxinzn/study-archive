@@ -14820,3 +14820,11 @@
     liquidity-management decision as well as a rate decision, allowing rising collateral to fuel
     boom-time leverage and causing highly indebted households to cut consumption sharply when collateral
     and income prospects collapse.
+- title: "Pan and Singleton (JF, 2008) - Default and Recovery Implicit in the Term Structure of Sovereign CDS Spreads"
+  file: "https://www.dropbox.com/scl/fi/jfyo0aotu1watarfdgl2z/Pan_Singleton_JF_2008.pdf?rlkey=se6ufm86ulnzc8iywz3739vqx&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates one-factor intensity models from sovereign CDS
+    curves for Mexico, Turkey, and Korea and shows that fractional recovery of face value lets the term
+    structure separately identify risk-neutral credit-event intensity and loss rates, while large gaps
+    between physical and risk-neutral dynamics reveal globally correlated sovereign credit-risk premia
+    linked to VIX and U.S. high-yield conditions.
