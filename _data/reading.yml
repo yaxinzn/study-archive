@@ -14828,3 +14828,11 @@
     structure separately identify risk-neutral credit-event intensity and loss rates, while large gaps
     between physical and risk-neutral dynamics reveal globally correlated sovereign credit-risk premia
     linked to VIX and U.S. high-yield conditions.
+- title: "Schaefer and Strebulaev (JFE, 2008) - Structural Models of Credit Risk Are Useful: Evidence from Hedge Ratios on Corporate Bonds"
+  file: "https://www.dropbox.com/scl/fi/kfjxdjtqhtce5k9mpt1r0/Schaefer_Strebulaev_JFE_2008.pdf?rlkey=1y1xn01nmu6uqhbkph3wdd2lx&dl=0"
+  desc: >-
+    This note summarizes the paper, which evaluates structural credit models using corporate-bond return
+    sensitivities rather than spread levels and finds that the simple Merton model closely matches
+    empirical debt-equity hedge ratios across ratings even though it understates spreads, while low
+    Treasury sensitivity and significant S&P, SMB, and HML loadings reveal important non-credit
+    components in bond returns.
