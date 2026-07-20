@@ -14797,3 +14797,10 @@
     foreign-currency debt, and FX derivatives jointly reduce gross currency exposure by roughly 70%,
     explaining why stock-return regressions reveal much smaller residual exposure than theory initially
     predicts.
+- title: "Guiso, Sapienza, and Zingales (JF, 2013) - The Determinants of Attitudes toward Strategic Default on Mortgages"
+  file: "https://www.dropbox.com/scl/fi/mo2uer6jqbff42091a40n/Guiso_Sapienza_Zingales_JF_2013.pdf?rlkey=xeveevhcws6vtm8vxdcp44x36&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses repeated homeowner surveys during the housing crisis to
+    show that willingness to strategically default rises with absolute and relative negative equity but
+    is strongly reduced by morality, attachment, income, and perceived legal costs, while exposure to
+    other defaulters raises willingness by lowering stigma or revealing that lender pursuit is limited.
