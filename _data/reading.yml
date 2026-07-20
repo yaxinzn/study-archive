@@ -14836,3 +14836,11 @@
     empirical debt-equity hedge ratios across ratings even though it understates spreads, while low
     Treasury sensitivity and significant S&P, SMB, and HML loadings reveal important non-credit
     components in bond returns.
+- title: "Thaler and Benartzi (JPE, 2004) - Save More Tomorrow™: Using Behavioral Economics to Increase Employee Saving"
+  file: "https://www.dropbox.com/scl/fi/m17ec99ykcbvkfvd3aq5a/Benartzi_Thaler_JPE_2004.pdf?rlkey=u1qaajfxkj4gtscljrqmey8ni&dl=0"
+  desc: >-
+    This note summarizes the paper, which designs a raise-linked automatic-escalation retirement plan
+    that uses advance commitment, loss aversion, and inertia to increase saving, with the first
+    implementation showing 78% take-up among workers rejecting immediate increases and contribution
+    rates rising from 3.5% to 13.6% after four raises, while later implementations highlight the
+    importance of outreach and defaults.
