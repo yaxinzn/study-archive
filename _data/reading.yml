@@ -14868,3 +14868,11 @@
     trade integration raises real income but can also increase unemployment, volatility, and wage
     inequality through selection and rent polarization, while lower firing costs offset part of the
     turnover and unemployment response.
+- title: "Broner, Martin, and Ventura (AER, 2010) - Sovereign Risk and Secondary Markets"
+  file: "https://www.dropbox.com/scl/fi/uzxyecmj7xde8iy8rr8uo/Broner_Martin_Ventura_AER_2010.pdf?rlkey=ez1pdhapbsh0u0b8x762505jp&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows theoretically that frictionless secondary markets can
+    neutralize sovereign enforcement problems because foreign creditors resell claims to domestic
+    residents before repayment is enforced, creating a prisoner’s-dilemma demand that bids debt to face
+    value and replicates full-enforcement allocations, while transaction costs, limited participation,
+    debtor coordination, government preemption, and capital controls restore sovereign risk.
