@@ -14900,3 +14900,12 @@
     interest-rate, exchange-rate, and commodity shocks, finding that the median hedge is small relative
     to operating flows, cash, firm value, and market-based exposures, so derivatives typically fine-tune
     rather than transform firm risk and binary-use or notional measures can be misleading.
+- title: "Brown (JFE, 2001) - Managing Foreign Exchange Risk with Derivatives"
+  file: "https://www.dropbox.com/scl/fi/8l629jtgmr8gwz1td1opz/Brown_JFE_2001.pdf?rlkey=b0dwaex7886910urt5xbxg9e4&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses internal documents, interviews, and 3,110
+    transaction-level derivative trades from a multinational manufacturer to show that foreign-exchange
+    hedging is embedded in budgeting, competitive pricing, earnings smoothing, and managerial evaluation
+    through an internal hedge rate, with accounting treatment, exposure uncertainty, and upside
+    retention explaining option use and dynamic hedge choices, but only limited evidence that the
+    program raises firm value.
