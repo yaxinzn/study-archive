@@ -14909,3 +14909,11 @@
     through an internal hedge rate, with accounting treatment, exposure uncertainty, and upside
     retention explaining option use and dynamic hedge choices, but only limited evidence that the
     program raises firm value.
+- title: "Keys, Seru, and Vig (RFS, 2012) - Lender Screening and the Role of Securitization: Evidence from Prime and Subprime Mortgage Markets"
+  file: "https://www.dropbox.com/scl/fi/whfbctyfxo4gebitogfk2/Keys_Seru_Vig_RFS_2012.pdf?rlkey=v81agfk5sni2brgvdi1hq6ll8&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits the FICO 620 securitization threshold and shows that
+    low-documentation non-agency loans just above the cutoff are sold more readily and rapidly but
+    default more often than observably similar loans just below it, while the absence of comparable
+    default jumps in full-documentation and GSE markets and lender-level hidden-information evidence
+    identify weakened soft-information screening as the mechanism.
