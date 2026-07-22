@@ -14989,3 +14989,11 @@
     identity changes that reclassify analyst signals and materially alter upgrade and downgrade returns,
     consensus strategies, and estimated analyst-skill persistence, making data vintage an essential part
     of empirical design and replication.
+- title: "Duffie, Pedersen, and Singleton (JF, 2003) - Modeling Sovereign Yield Spreads: A Case Study of Russian Debt"
+  file: "https://www.dropbox.com/scl/fi/fb38ekwk97sh7if1k9hgi/Duffie_Pedersen_Singleton_JF_2003.pdf?rlkey=i8if8k9gptg2fuwgdl6vnxv2u&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an affine sovereign term-structure model combining
+    credit-event intensity, expected loss, liquidity, and bond-specific spread factors and applies it to
+    Russian MinFins around the 1998 crisis, showing that oil prices and reserves drive the common spread
+    while legal status, political repayment priority, and evolving expected writedowns generate
+    persistent differences across claims of the same sovereign.
