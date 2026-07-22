@@ -15018,3 +15018,11 @@
     earnings forecasts are more accurate and timely, especially immediately after conferences and when
     hosting relationships are frequent, with rich controls and analyst-firm fixed effects supporting a
     relationship-based information advantage after Regulation FD.
+- title: "Bekaert, Harvey, and Lundblad (RFS, 2007) - Liquidity and Expected Returns: Lessons from Emerging Markets"
+  file: "https://www.dropbox.com/scl/fi/hqzhs359lvljqbwsnq33f/Bekaert_Harvey_Lundblad_RFS_2007.pdf?rlkey=0gfe1r0gz8pkg421amyyrclkd&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs zero-return and price-pressure liquidity measures
+    for 19 emerging markets and shows in VAR and international pricing models that local liquidity
+    predicts future returns, liquidity shocks move prices and dividend yields as theory predicts, and
+    local liquidity risk remains priced even after formal market liberalization, whereas turnover is a
+    substantially weaker proxy.
