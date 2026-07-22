@@ -15026,3 +15026,12 @@
     predicts future returns, liquidity shocks move prices and dividend yields as theory predicts, and
     local liquidity risk remains priced even after formal market liberalization, whereas turnover is a
     substantially weaker proxy.
+- title: "Holmström and Tirole (JPE, 1993) - Market Liquidity and Performance Monitoring"
+  file: "https://www.dropbox.com/scl/fi/0vi630m1dxkerb33oje00/Holmstrom_Tirole_JPE_1993.pdf?rlkey=f7qftdkuumnh9b149g687jgd2&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a Kyle-style model linking ownership structure,
+    secondary-market liquidity, informed speculation, and managerial contracting, showing that a larger
+    public float lets informed traders hide among liquidity trades and acquire more precise information,
+    thereby making stock prices more useful for performance-based compensation, while initial owners
+    bear the resulting information rents and must trade off market monitoring against concentrated
+    control.
