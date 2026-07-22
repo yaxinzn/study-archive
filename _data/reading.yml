@@ -5882,9 +5882,14 @@
 - title: "Korteweg (JF, 2010) — The Net Benefits to Leverage"
   file: "https://www.dropbox.com/scl/fi/drpfb1gr4hs4dmpmiqiz2/Korteweg_JF_2010.pdf?rlkey=0qacxpcc9ca49v02n9kyaarm5&dl=0"
   desc: "This file summarizes the paper’s core mechanism and provides a structured walkthrough of its reduced-form regressions, structural model equations, and detailed interpretations of every table and figure."
-- title: "Keys, Mukherjee, Seru & Vig (QJE, 2010) — Did Securitization Lead to Lax Screening?"
-  file: "https://www.dropbox.com/scl/fi/1sr2w50y9h21w7fjheeg2/Keys_Mukherjee_Seru_and_Vig_QJE_2010.pdf?rlkey=k4lokej6swdzpvwtf85dabb12&dl=0"
-  desc: "This file distills the RD identification around the FICO=620 securitization cutoff, clarifies the hard- vs. soft-information screening mechanism, and walks through the key equations and interpretation of the main tables and figures."
+- title: "Keys, Mukherjee, Seru, and Vig (QJE, 2010) - Did Securitization Lead to Lax Screening? Evidence from Subprime Loans"
+  file: "https://www.dropbox.com/scl/fi/ayk0tonoxhir9hghvr3m2/Keys_Mukherjee_Seru_Vig_QJE_2010.pdf?rlkey=hwlyhmxzbzeb5hmx927n2pchx&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits the FICO 620 securitization threshold to show that
+    low-documentation subprime loans just above the cutoff are originated and securitized more heavily
+    yet default 10–25% more often despite smooth borrower and contract observables, with
+    anti-predatory-law shocks and full-documentation falsification tests identifying weaker
+    soft-information screening under originate-to-distribute incentives.
 - title: "Dunne, Klimek, Roberts & Xu (RAND J Econ, 2013) — Entry, Exit, and the Determinants of Market Structure"
   file: "https://www.dropbox.com/scl/fi/g29o7dv15p7uky1jg3ua5/Dunne__Klimek__Roberts__and_Xu__RAND_J__Econ___2013_.pdf?rlkey=d7kz876jdjndgy45728wr4y55&dl=0"
   desc: "This file summarizes the dynamic entry–exit framework (Pakes–Olley–Bresnahan style), the profit estimation and structural cost components, and the interpretation of the key tables/figures and counterfactuals."
