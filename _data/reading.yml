@@ -15002,3 +15002,11 @@
     Russian MinFins around the 1998 crisis, showing that oil prices and reserves drive the common spread
     while legal status, political repayment priority, and evolving expected writedowns generate
     persistent differences across claims of the same sovereign.
+- title: "Trueman (RFS, 1994) - Analyst Forecasts and Herding Behavior"
+  file: "https://www.dropbox.com/scl/fi/at81tr977hb1l75fu6x5t/Trueman_RFS_1994.pdf?rlkey=tzjwnsww27bk6vb47vqhsgs58&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a reputation model in which strong analysts report
+    private information truthfully but weak analysts strategically shade extreme signals toward prior
+    expectations and herd toward earlier forecasts in sequential disclosure, generating conservative
+    forecast bias, nonlinear earnings-surprise responses, ability-dependent herding, and a need to
+    weight consensus forecasts by release order.
