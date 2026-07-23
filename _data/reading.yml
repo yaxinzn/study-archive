@@ -15069,3 +15069,11 @@
     leverage rises with both its local effective tax rate and an asset-weighted tax differential
     relative to the multinational's other locations, providing direct evidence that groups shift debt
     toward high-tax affiliates and intangibles toward low-tax jurisdictions.
+- title: "Foley, Hartzell, Titman, and Twite (JFE, 2007) - Why Do Firms Hold So Much Cash? A Tax-Based Explanation"
+  file: "https://www.dropbox.com/scl/fi/vvb0yj4qhu9sobs1fe61q/Foley_Hartzell_Titman_Twite_JFE_2007.pdf?rlkey=fggp5yde5oesz1dcinas8q866&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Compustat with confidential BEA multinational data
+    and shows that higher repatriation-tax burdens lead U.S. firms to accumulate more cash, specifically
+    more foreign cash and more cash in incorporated low-tax affiliates, while branch comparisons,
+    within-parent tests, and weaker responses among financially constrained firms identify tax deferral
+    rather than a generic low-tax-country or precautionary-cash effect.
