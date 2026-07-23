@@ -15052,3 +15052,12 @@
     reducing debt-overhang underinvestment, but also directly lowers leverage through refinancing and
     liquidation risk, with the attenuation channel dominating more often for rated firms and the
     liquidity-risk penalty dominating for unrated firms.
+- title: "Faulkender and Smith (JFE, 2016) - Taxes and Leverage at Multinational Corporations"
+  file: "https://www.dropbox.com/scl/fi/ds1pcd3wq2zfq3sq86sw4/Faulkender_Smith_JFE_2016.pdf?rlkey=qdobdy6uvrmc41png0xa3m2v4&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses confidential BEA affiliate data to construct
+    income-location-weighted corporate tax rates for U.S. multinationals and shows that correctly
+    measured tax exposure strongly predicts higher book, market, and net leverage and lower interest
+    coverage, while fixed first-year operating weights and debt-location tests support the
+    interpretation that firms increase and geographically allocate debt where interest deductions are
+    most valuable.
