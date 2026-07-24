@@ -15117,3 +15117,11 @@
     investment by roughly 6.7 to 8.9 percentage points, issue less debt and more equity, and face higher
     bond yields after sovereign downgrades, with placebo crises and Basel II rating-bin tests supporting
     a causal ratings-based transmission channel.
+- title: "Dannhauser (JFE, 2017) - The Impact of Innovation: Evidence from Corporate Bond Exchange-Traded Funds (ETFs)"
+  file: "https://www.dropbox.com/scl/fi/i3nevfscn6qq7z6zti4yg/Dannhauser_JFE_2017.pdf?rlkey=qbqk4q91s7o6i5npsj711ylsa&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines bond and time fixed effects with rule-based changes
+    to HYG eligibility and LQD maturity-based exclusion to show that corporate bond ETF ownership
+    produces a positive and persistent valuation effect on constituent bonds, lowering high-yield and
+    investment-grade spreads, while the main mechanism is a shift from retail-sized trading toward
+    institutional ownership rather than improved liquidity of the individual underlying bonds.
