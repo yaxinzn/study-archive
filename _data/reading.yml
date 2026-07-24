@@ -15182,3 +15182,11 @@
     and distort risk sharing in one-round trade, whereas repeated trading with allocation-neutral
     monitoring restores the competitive portfolio allocation, while surplus-extraction mechanisms induce
     more monitoring by concentrating excessive risk on the activist.
+- title: "Edmans and Manso (RFS, 2011) - Governance Through Trading and Intervention: A Theory of Multiple Blockholders"
+  file: "https://www.dropbox.com/scl/fi/5lf7h4201esx7nhn6d0sq/Edmans_Manso_RFS_2011.pdf?rlkey=6tgo0pkza6ct5f4h6anujgktb&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Kyle-style informed trading with direct blockholder
+    intervention and shows that splitting ownership weakens voice by intensifying free riding but
+    strengthens exit-based governance because competing blockholders trade more aggressively and make
+    prices more informative, so the optimal number of blockholders balances managerial price incentives
+    against intervention productivity and is capped when information is costly.
