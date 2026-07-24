@@ -15125,3 +15125,12 @@
     produces a positive and persistent valuation effect on constituent bonds, lowering high-yield and
     investment-grade spreads, while the main mechanism is a shift from retail-sized trading toward
     institutional ownership rather than improved liquidity of the individual underlying bonds.
+- title: "Maug (JF, 1998) - Large Shareholders as Monitors: Is There a Trade-Off between Liquidity and Control?"
+  file: "https://www.dropbox.com/scl/fi/sd4ofnrlp36ja7u0yl0gj/Maug_JF_1998.pdf?rlkey=fqk1tlfohqmvh41gwxuansvts&dl=0"
+  desc: >-
+    This note summarizes the paper, which endogenizes a large shareholder's initial block and
+    intervention choice in a Kyle-style trading model and shows that market liquidity need not weaken
+    corporate control: deeper trading allows the blockholder to accumulate shares and recover monitoring
+    costs through informed-trading profits, thereby mitigating the free-rider problem, while
+    appropriately designed majority requirements can strengthen commitment more effectively than
+    deliberately reducing liquidity.
