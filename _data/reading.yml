@@ -15142,3 +15142,11 @@
     issue forecasts more frequently and with lower contemporaneous errors, while large favorable
     revisions by All-Americans have greater short-window price impact, linking analyst reputation most
     robustly to forecast accuracy and timeliness.
+- title: "Guedes and Opler (JF, 1996) - The Determinants of the Maturity of Corporate Debt Issues"
+  file: "https://www.dropbox.com/scl/fi/xglduk4hr1tmgegzvlvmy/Guedes_Opler_JF_1996.pdf?rlkey=ykpr6v6eu0nui239h78upj2sd&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies 7,369 incremental U.S. public debt issues and finds a
+    nonmonotonic relation between credit quality and maturity: investment-grade firms issue both short
+    and very long debt, whereas speculative-grade firms cluster at intermediate maturities, while
+    longer-lived assets support maturity matching, growth opportunities shorten maturity, and tax and
+    signaling explanations receive little support.
