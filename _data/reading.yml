@@ -15199,3 +15199,12 @@
     threshold, a holdout problem for open-market block accumulation, and the prediction that targeted
     restrictions on selling may encourage intervention more effectively than broad short-swing trading
     rules.
+- title: "Bolton and von Thadden (JF, 1998) - Blocks, Liquidity, and Corporate Control"
+  file: "https://www.dropbox.com/scl/fi/m29zalom1o8102ect1qi2/Bolton_VonThadden_JF_1998.pdf?rlkey=wu090t6rwh7edfyakmocad71v&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic ownership model in which concentrated
+    blocks provide reliable intervention in bad states but reduce secondary-market trading
+    opportunities, whereas dispersed ownership maximizes liquidity yet may fail to generate control
+    because patient shareholders free ride, showing that low liquidity demand, high required control
+    stakes, and costly block formation favor concentration while high liquidity demand favors dispersion
+    and explaining why valuable blocks can be issued at a discount.
