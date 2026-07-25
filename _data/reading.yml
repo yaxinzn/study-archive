@@ -15243,3 +15243,11 @@
     demanding fixed effects, proposal-type difference-in-differences, tie-formation and termination
     patterns, and lag tests supporting demand-driven managerial influence through existing business
     relationships rather than untied funds currying favor for future mandates.
+- title: "O’Donovan, Wagner, and Zeume (RFS, 2019) - The Value of Offshore Secrets: Evidence from the Panama Papers"
+  file: "https://www.dropbox.com/scl/fi/2xxuq1dcuwxbza2kpjife/ODonovan_Wagner_Zeume_RFS_2019.pdf?rlkey=hiunpcqro4q4s0ounegspugrq&dl=0"
+  desc: >-
+    This note summarizes the paper, which treats the Panama Papers as an unexpected transparency shock
+    and matches leaked Mossack Fonseca links to listed firms worldwide, showing that exposed firms lose
+    about 0.9% in abnormal value around the disclosure, with larger losses for denser offshore networks
+    and firms plausibly using secrecy for corruption or tax avoidance, while governance tests weaken the
+    alternative that disclosure mainly benefits shareholders by stopping insider expropriation.
