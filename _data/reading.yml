@@ -15259,3 +15259,12 @@
     local-tax-agency IV specifications that diversion predicts weaker future growth and productivity,
     especially when the CEO is not an owner, while stricter tax enforcement improves performance by
     limiting technologies that facilitate both tax evasion and managerial theft.
+- title: "Mirenda, Mocetti, and Rizzica (AER, 2022) - The Economic Effects of Mafia: Firm-Level Evidence"
+  file: "https://www.dropbox.com/scl/fi/76d5rqor8z3cqufj9snbb/Mirenda_Mocetti_Rizzica_AER_2022.pdf?rlkey=9a6ye5ocrv500ugs5vt4w88ai&dl=0"
+  desc: >-
+    This note summarizes the paper, which identifies ’ndrangheta infiltration when Mafia-linked
+    individuals enter firms’ ownership or boards and uses difference-in-differences, event studies,
+    alternative staggered-treatment estimators, matching, and synthetic controls to show that reported
+    revenue rises by roughly 0.24–0.28 log points but capital barely responds, equity falls, external
+    finance and exit risk increase, and sector and procurement tests point to money laundering in trade
+    and rent extraction in construction.
