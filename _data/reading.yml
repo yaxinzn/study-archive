@@ -15251,3 +15251,11 @@
     about 0.9% in abnormal value around the disclosure, with larger losses for denser offshore networks
     and firms plausibly using secrecy for corruption or tax avoidance, while governance tests weaken the
     alternative that disclosure mainly benefits shareholders by stopping insider expropriation.
+- title: "Mironov (JF, 2013) - Taxes, Theft, and Firm Performance"
+  file: "https://www.dropbox.com/scl/fi/ndyghjz3bcktymwvbbxwk/Mironov_JF_2013.pdf?rlkey=u4amogn7nrhty211i79dxyarc&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses leaked Russian banking transactions to identify
+    fly-by-night “spacemen” and construct firm-level income-diversion measures, showing in OLS and
+    local-tax-agency IV specifications that diversion predicts weaker future growth and productivity,
+    especially when the CEO is not an owner, while stricter tax enforcement improves performance by
+    limiting technologies that facilitate both tax evasion and managerial theft.
