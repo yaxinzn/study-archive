@@ -15352,3 +15352,12 @@
     narrow for substitute investments, can create useful rat races for additive investments, and should
     be restricted for complements, while ownership can reduce specialization or crowd out access-based
     incentives and internal organization is the regulation of access.
+- title: "Foley, Karlsen, and Putniņš (RFS, 2019) - Sex, Drugs, and Bitcoin: How Much Illegal Activity Is Financed through Cryptocurrencies?"
+  file: "https://www.dropbox.com/scl/fi/mann7mnplptwbakz8hi8h/Foley_Karlsen_Putnins_RFS_2019.pdf?rlkey=nnzcb1jt5etd5o1d4h6vfcopq&dl=0"
+  desc: >-
+    This note summarizes the paper, which reconstructs bitcoin users from the public blockchain and
+    combines network community detection with detection-controlled latent-variable estimation to infer
+    hidden illegality, estimating that illegal activity accounts for roughly one-quarter of users, close
+    to one-half of transactions, and about 23% of dollar transaction value, with illegal users forming
+    denser payment-oriented networks and their relative share declining as bitcoin becomes mainstream
+    and privacy coins expand.
