@@ -15396,3 +15396,12 @@
     crises, with foreign-bank supply instruments, low mortgage spreads, post-crisis funding reversals,
     and debt-service outflows supporting credit-supply, flightiness, and external-demand-drain
     mechanisms.
+- title: "Bäckman, Moran, and van Santen (RFS, 2026) - Mortgage Design, Repayment Schedules, and Household Borrowing"
+  file: "https://www.dropbox.com/scl/fi/re9axupwen6wjxuobfj5u/Backman_Moran_vanSanten_RFS_2026.pdf?rlkey=7t66y1v46tuj1ythsw9pbn76c&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits Sweden's 2016 amortization requirement at 50% LTV in
+    a difference-in-bunching design and finds that 7.47% of borrowers bunch below the threshold, the
+    marginal buncher cuts LTV by 2.57 percentage points, and borrowing falls about 5% even among
+    unconstrained households, with the small missing mass favoring an ongoing flow disutility from
+    amortization and a calibrated model implying that interest-only mortgages raise aggregate mortgage
+    debt by about 33.4%.
