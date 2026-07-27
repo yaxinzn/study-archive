@@ -15405,3 +15405,12 @@
     unconstrained households, with the small missing mass favoring an ongoing flow disutility from
     amortization and a calibrated model implying that interest-only mortgages raise aggregate mortgage
     debt by about 33.4%.
+- title: "van Binsbergen, Cocco, Grotteria, and Naaraayanan (RFS, 2026) - The Impact of Carcinogenic Risk Exposure on Housing Values: Estimates from Chemical Reclassifications"
+  file: "https://www.dropbox.com/scl/fi/2dyolol841qhro8cqc3b6/vanBinsbergen_Cocco_Grotteria_Naaraayanan_RFS_2026.pdf?rlkey=tmwwpx3i514nfqc6izmbu9dw1&dl=0"
+  desc: >-
+    This note summarizes the paper, which treats national chemical carcinogenicity reclassifications as
+    information shocks and uses repeat-sales ring difference-in-differences around already-emitting
+    toxic plants to show that nearby house prices fall by roughly 1%–2%, with larger effects closer to
+    plants, no accompanying employment or sales changes, no pretrends, and stronger capitalization where
+    newspaper circulation and property values are higher, supporting salience and perceived-health-risk
+    channels.
