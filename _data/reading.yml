@@ -15423,3 +15423,12 @@
     housing units, yielding an average recent local housing-supply elasticity near 0.26 and showing that
     raw price-quantity correlations substantially overstate supply responsiveness and that elasticities
     are specific to place, period, and shock.
+- title: "Gargano and Giacoletti (RFS, 2026) - Cooling Auction Fever: Evidence from the Housing Market"
+  file: "https://www.dropbox.com/scl/fi/a77vfes94opnkcsxrfa31/Gargano_Giacoletti_RFS_2026.pdf?rlkey=77s3rt5vj1c7abmcoy1u0mnr6&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits underquoting laws in New South Wales and Victoria and
+    shows that forcing auction listing prices closer to comparable values reduces underquoting but also
+    lowers sale prices and sale probabilities, a combination rejected by rational-bidder and
+    pure-information models but matched when low entry prices attract bidders and trigger overbidding,
+    with bid timing, large jumps, agent surveys, and auction video/audio measures directly linking
+    underquoting to participation and auction excitement.
