@@ -15370,3 +15370,12 @@
     offshore-active banks and their clients appear more tax evasive, that such banks replace lending and
     deposits with cash, interbank funding, and international transfer fees, and that they later face
     more license revocations and criminal investigations.
+- title: "Lopez-Lira and Tang (JFE, 2026) - Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models"
+  file: "https://www.dropbox.com/scl/fi/b6v24ffwnxoapsdor6dnh/LopezLira_Tang_JFE_2026.pdf?rlkey=rltq3vmi1uh5lvxwmukkic9h0&dl=0"
+  desc: >-
+    This note summarizes the paper, which applies GPT-4 zero-shot classifications to firm-specific
+    headlines released after the model's knowledge cutoff and shows that the signal predicts both
+    immediate stock-price reactions and subsequent drift—with roughly 93% overnight and 89% intraday
+    initial-reaction hit rates and stronger underreaction for small stocks, negative news, and complex
+    topics—while larger models outperform smaller and embedding-based alternatives and strategy
+    performance declines as LLM adoption improves market efficiency.
