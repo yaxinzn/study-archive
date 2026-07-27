@@ -15379,3 +15379,11 @@
     initial-reaction hit rates and stronger underreaction for small stocks, negative news, and complex
     topics—while larger models outperform smaller and embedding-based alternatives and strategy
     performance declines as LLM adoption improves market efficiency.
+- title: "Galashin, Kanz, and Pérez-Truglia (RFS, 2026) - Macroeconomic Expectations and Credit Card Spending"
+  file: "https://www.dropbox.com/scl/fi/odyj45iigwu5y9sz339x6/Galashin_Kanz_PerezTruglia_RFS_2026.pdf?rlkey=pbyjw2vxtzicw7kgt3gkm7ggu&dl=0"
+  desc: >-
+    This note summarizes the paper, which randomizes expert inflation and exchange-rate forecasts among
+    2,872 Malaysian credit-card customers and shows that the information meaningfully shifts beliefs but
+    does not change administrative spending, debt repayment, or stated plans in the direction predicted
+    by textbook intertemporal substitution, while supplementary mental-model evidence points to
+    nominal-income rigidities and precautionary real-purchasing-power concerns as offsetting mechanisms.
