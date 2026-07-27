@@ -15440,3 +15440,12 @@
     flood risk mainly by lowering LTV ratios rather than raising interest rates, with effects turning on
     above the coverage cap, intensifying after new risk-map information, reducing delinquency, and
     shifting flood-zone borrowers toward higher-income and higher-credit-score households.
+- title: "Hu (RFS, 2026) - The Response of Mortgage Supply to Expected Flood Insurance Lapses"
+  file: "https://www.dropbox.com/scl/fi/8k44re0pr39mxp0gzqbxu/Hu_RFS_2026.pdf?rlkey=j1qj34llwr295kt3dxdwcyzun&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the 2012 Biggert-Waters premium reform in a
+    difference-in-differences design and finds that mortgage denial rates rise by roughly 0.49–0.81
+    percentage points in high-flood-risk tracts as expected insurance lapses increase, with fewer
+    originations and transactions, more collateral-related denials, larger effects for distant or weakly
+    monitored loans and pre-FIRM properties, and little explanatory power from the direct premium-income
+    burden.
