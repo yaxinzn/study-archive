@@ -15476,3 +15476,12 @@
     technologies and away from nonflexible assets, while total investment rises only where gas-pipeline
     access makes flexibility feasible, reconciling real-options delay with convex-payoff investment
     incentives.
+- title: "Chong and Todorov (JF, 2026) - Do Equity and Options Markets Agree about Volatility?"
+  file: "https://www.dropbox.com/scl/fi/v1u7byl3r12oqt92s9xfc/Chong_Todorov_JF_2026.pdf?rlkey=rihh2fe8ax051xg265cxsbfas&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a truncated-volatility pseudo-arbitrage test using
+    SPX 0DTE options and high-frequency equity data and shows that physical and risk-neutral
+    diffusive-volatility estimates are close enough that feasible option-equity strategies earn negative
+    Sharpe ratios after transaction costs and estimation risk, whereas profitable selling of total
+    volatility reflects jump and disaster-risk compensation rather than equity-option market
+    segmentation.
