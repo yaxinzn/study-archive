@@ -15485,3 +15485,11 @@
     Sharpe ratios after transaction costs and estimation risk, whereas profitable selling of total
     volatility reflects jump and disaster-risk compensation rather than equity-option market
     segmentation.
+- title: "Calvet, Campbell, Gomes, and Sodini (JF, 2026) - The Cross-Section of Household Preferences"
+  file: "https://www.dropbox.com/scl/fi/f5ixd0vfn9cmlkp3entsf/Calvet_Campbell_Gomes_Sodini_JF_2026.pdf?rlkey=3ko1rjvymmedu7wnv204uy6ek&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates household-specific Epstein–Zin risk aversion, time
+    preference, and intertemporal substitution from Swedish administrative wealth and portfolio data
+    using shrinkage indirect inference, finding moderate dispersion in risk aversion but much greater
+    heterogeneity in impatience and EIS, weak RRA–EIS correlation that rejects power utility, and lower
+    estimated risk aversion among households in riskier labor-income sectors.
