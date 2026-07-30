@@ -15646,3 +15646,12 @@
     variation, whereas advisor fixed effects and advisors' own portfolios explain much more, with
     involuntary advisor switches moving clients toward the new advisor's style and fee-adjusted
     underperformance indicating that costly advice provides limited customization or investment skill.
+- title: "Admati and Pfleiderer (RFS, 2009) - The \"Wall Street Walk\" and Shareholder Activism: Exit as a Form of Voice"
+  file: "https://www.dropbox.com/scl/fi/oto6usd5dfam171tjzkln/Admati_Pfleiderer_RFS_2009.pdf?rlkey=vipx9hyvilvzwao6gadb4dg3j&dl=0"
+  desc: >-
+    This note summarizes the paper, which models informed blockholder exit as a governance mechanism and
+    shows that an informative sale can discipline managers whose compensation depends on short-run
+    prices, but the effect is nonmonotonic in information and differs sharply across agency problems:
+    exit reliably deters bad actions yet can weaken incentives for costly good actions, with governance
+    strongest when blockholders are long-lived, shares are liquid, and managerial pay is price
+    sensitive.
