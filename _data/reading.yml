@@ -15707,3 +15707,12 @@
     heterogeneous incentives averaging about $129,000 per holding, while showing that common ownership
     does not mechanically create pro-rival incentives because underweighting rivals can make flow
     incentives negative.
+- title: "Gollin and Udry (JPE, 2021) - Heterogeneity, Measurement Error, and Misallocation: Evidence from African Agriculture"
+  file: "https://www.dropbox.com/scl/fi/vbr0tk4z2qu1mfjxvn4tg/Gollin_Udry_JPE_2021.pdf?rlkey=oz307mlrzh2t026h5agjfzmvt&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses plot-level production data from Tanzania and Uganda,
+    within-farmer same-crop same-season comparisons, and IV production-function estimation to show that
+    raw agricultural productivity dispersion greatly overstates misallocation because output and input
+    measurement error, late-season shocks, unobserved land quality, and endogenous plot subdivision
+    generate large residual variation even within farms, so corrected TFP is substantially less
+    dispersed and the implied gains from reallocating land and labor are much smaller.
