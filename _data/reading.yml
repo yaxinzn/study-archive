@@ -15716,3 +15716,11 @@
     measurement error, late-season shocks, unobserved land quality, and endogenous plot subdivision
     generate large residual variation even within farms, so corrected TFP is substantially less
     dispersed and the implied gains from reallocating land and labor are much smaller.
+- title: "Decker, Haltiwanger, Jarmin, and Miranda (AER, 2020) - Changing Business Dynamism and Productivity: Shocks versus Responsiveness"
+  file: "https://www.dropbox.com/scl/fi/ryztjxvbl19sq80egjc3n/Decker_Haltiwanger_Jarmin_Miranda_AER_2020.pdf?rlkey=n3eljthhxga63r4zh10q7tl75&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses U.S. Census microdata and time-varying relationships
+    between business productivity, employment growth, exit, and investment to distinguish smaller shocks
+    from weaker responses to shocks, showing that productivity dispersion has risen rather than fallen
+    while growth and exit have become less responsive to productivity, so weakened selection explains a
+    large share of declining job reallocation and has plausibly reduced aggregate productivity.
