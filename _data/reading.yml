@@ -15796,3 +15796,13 @@
     appropriate-technology model attributes these patterns to factor-endowment-driven technology choice
     and barriers that shift country technology frontiers, so importing rich-country technology can be
     costly when it is mismatched to local skills.
+- title: "Van Nieuwerburgh and Veldkamp (REStud, 2010) - Information Acquisition and Under-Diversification"
+  file: "https://www.dropbox.com/scl/fi/8n7y4n4etk003ib1pzmax/VanNieuwerburgh_Veldkamp_RES_2010.pdf?rlkey=ft7vdgumuscvojnbhr56m2ilr&dl=0"
+  desc: >-
+    This note summarizes the paper, which jointly models information acquisition and portfolio choice
+    and shows that investors rationally overweight assets they research because expected holdings raise
+    the value of information and greater information in turn raises optimal holdings, generating a
+    self-reinforcing learning portfolio; depending on preferences and whether information capacity is
+    additive or entropy-based, investors either generalize, specialize in the highest-information-value
+    asset or factor, or are indifferent, but all cases can produce systematic under-diversification,
+    home bias, and concentrated expertise.
