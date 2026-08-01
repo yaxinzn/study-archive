@@ -15815,3 +15815,12 @@
     the liquid-to-investment ratio but, when fixed transaction costs are sufficiently small, the process
     is eventually absorbed at zero liquid wealth at review dates, creating synchronized transfers and a
     constant Baumol-Tobin-style observation interval despite initially state-dependent behavior.
+- title: "Beshears, Choi, Laibson, Madrian, and Milkman (JF, 2015) - The Effect of Providing Peer Information on Retirement Savings Decisions"
+  file: "https://www.dropbox.com/scl/fi/qjfcbcj5awol1rmcr5mga/Beshears_Choi_Laibson_Madrian_Milkman_JF_2015.pdf?rlkey=hastp7wxf0n1nnhneuycl1jhb&dl=0"
+  desc: >-
+    This note summarizes the paper, which randomizes age-matched peer-saving information in a firm's
+    401(k) enrollment and contribution-escalation mailings and finds that the intervention backfires for
+    passive nonparticipants facing a 0% default, reducing enrollment by roughly one-third and becoming
+    more discouraging when the displayed peer rate is higher, with effects concentrated among locally
+    low-salary employees and those far from the target, supporting upward social comparison and
+    perceived unattainability rather than simple norm learning.
