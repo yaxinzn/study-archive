@@ -15851,3 +15851,11 @@
     target-date-fund defaults provide similar exposure with higher Sharpe ratios and lower costs, while
     allocations within the broker channel tilt toward higher-commission funds, so the value of
     conflicted advice depends critically on the investor's actual no-broker outside option.
+- title: "Calvet, Campbell, and Sodini (QJE, 2009) - Fight or Flight? Portfolio Rebalancing by Individual Investors"
+  file: "https://www.dropbox.com/scl/fi/8badp9lp8zc089dfckpco/Calvet_Campbell_Sodini_QJE_2009.pdf?rlkey=w0r5tiiwgnm4apsez2ej3rf0k&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes Swedish households' risky-share changes into
+    passive return-induced movements and active trading responses and finds that households offset
+    roughly one-half of passive variation, with stronger rebalancing among wealthier, more educated, and
+    better-diversified investors; at the security level, adjustment is weaker and coexists with
+    disposition-effect behavior, especially the full sale of winning directly held stocks.
