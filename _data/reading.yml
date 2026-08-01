@@ -15877,3 +15877,12 @@
     with the one they leave only after the labels become live, with no similar effect in the backdated
     pre-1992 placebo period and matching shifts in turnover comovement and mutual-fund holdings, showing
     that investor categorization can create excess correlation beyond fundamentals.
+- title: "Bertrand, Black, Jensen, and Lleras-Muney (REStud, 2019) - Breaking the Glass Ceiling? The Effect of Board Quotas on Female Labour Market Outcomes in Norway"
+  file: "https://www.dropbox.com/scl/fi/mt1k90jmjvn6qbkuti545/Bertrand_Black_Jensen_Llerasmuney_RES_2019.pdf?rlkey=p4q5250rt84rjosud6vo2fl17&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Norwegian administrative data, pre-reform female board
+    representation, instrumental variables, and an intent-to-treat sample to evaluate the 40% board
+    gender quota, finding large direct increases in female board membership, stronger observable
+    qualifications among post-reform female directors, and a narrower within-board earnings gap, but
+    little robust evidence of spillovers to women inside affected firms, similarly qualified women
+    outside boards, or the business-education pipeline.
