@@ -15966,3 +15966,11 @@
     credibility through an always-pass equilibrium, become self-fulfilling, and induce banks to
     manipulate pretest lending, while forced recapitalization removes the market-discipline credibility
     problem but not reputation incentives.
+- title: "Norden and Weber (RFS, 2010) - Credit Line Usage, Checking Account Activity, and Default Risk of Bank Borrowers"
+  file: "https://www.dropbox.com/scl/fi/ad3kednq0nraqngu0oc61/Norden_Weber_RFS_2010.pdf?rlkey=rbhtpahww6z185igtjs3dw251&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses more than three million monthly observations from an
+    integrated German checking-account and credit-line system to show that rising line usage and limit
+    violations and falling cash inflows and account activity predict default 12 to 18 months in advance
+    beyond internal ratings, especially for small firms and individuals, and that banks incorporate
+    these real-time payment signals into loan spreads, credit-limit decisions, and write-offs.
