@@ -15930,3 +15930,12 @@
     cutoffs and stronger responses among firms lacking substitute finance, demonstrating that
     rating-based investor segmentation transmits recurring capital-supply shocks into real corporate
     investment.
+- title: "Fishman, Parker, and Straub (RFS, 2024) - A Dynamic Theory of Lending Standards"
+  file: "https://www.dropbox.com/scl/fi/op72k2zet29xigmuk4vgk/Fishman_Parker_Straub_RFS_2024.pdf?rlkey=wtxaxp8l6cleoiie6mr1osaxt&dl=0"
+  desc: >-
+    This note summarizes the paper, which models costly screening as a dynamic borrower-pool
+    externality: rejecting bad borrowers protects a bank today but leaves them in the future applicant
+    pool, making tight standards self-reinforcing and generating pooling and screening steady states,
+    hysteresis, persistently high spreads, and slow recoveries, while temporary and sufficiently early
+    loan guarantees can prevent the credit market from becoming locked into an inefficient low-lending
+    regime.
