@@ -15957,3 +15957,12 @@
     investment and rotating from equity and subordinated debt toward senior debt, with stronger
     de-risking when creditors are more risk sensitive and within-borrower tests confirming a contraction
     in credit supplied by treated lenders.
+- title: "Shapiro and Zeng (RFS, 2024) - Stress Testing and Bank Lending"
+  file: "https://www.dropbox.com/scl/fi/4vzlmokma4i4fk8e1g57f/Shapiro_Zeng_RFS_2024.pdf?rlkey=qyd3optjsb69kveds326koagn&dl=0"
+  desc: >-
+    This note summarizes the paper, which models stress tests as costly signals about both bank risk and
+    a privately informed regulator's future strictness, showing that regulators may strategically soften
+    tests to encourage lending or toughen them to deter risk, but reputation management can destroy
+    credibility through an always-pass equilibrium, become self-fulfilling, and induce banks to
+    manipulate pretest lending, while forced recapitalization removes the market-discipline credibility
+    problem but not reputation incentives.
