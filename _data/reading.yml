@@ -15974,3 +15974,12 @@
     violations and falling cash inflows and account activity predict default 12 to 18 months in advance
     beyond internal ratings, especially for small firms and individuals, and that banks incorporate
     these real-time payment signals into loan spreads, credit-limit decisions, and write-offs.
+- title: "Dai, Luo, and Yang (RFS, 2024) - Disclosure of Bank-Specific Information and the Stability of Financial Systems"
+  file: "https://www.dropbox.com/scl/fi/90qxmyhfxusmxwiw8bvzk/Dai_Luo_Yang_RFS_2024.pdf?rlkey=999dqgi4gfkp784jr6gzz7o7l&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a global-game information-design model of cross-bank
+    runs and shows that disclosure stabilizes the system only when it separates banks by systemic
+    vulnerability, because public scores then negatively assort high perceived systemic risk with banks
+    best able to absorb it, whereas disclosing idiosyncratic shortfalls lacks this matching benefit and
+    greater transparency can remain dangerous when revealing weak banks intensifies liquidity spillovers
+    to the rest of the system.
