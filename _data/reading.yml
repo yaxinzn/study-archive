@@ -16026,3 +16026,12 @@
     costs but reduces underpricing mainly when combined with senior U.S. banks and access to U.S.
     investors, implying that bookbuilding is not merely a pricing format but an intermediary-investor
     network technology for information production, distribution, and price discovery.
+- title: "Goyal, Welch, and Zafirov (RFS, 2024) - A Comprehensive 2022 Look at the Empirical Performance of Equity Premium Prediction"
+  file: "https://www.dropbox.com/scl/fi/ngb368hw6f3giv5qmvaga/Goyal_Welch_Zafirov_RFS_2024.pdf?rlkey=qrx29yszsu4sn5n9wk6hnvx49&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends prominent post-2008 equity-premium predictors through
+    2021 and evaluates them using author-similar replication, standardized in-sample specifications,
+    coefficient stability, Campbell-Thompson out-of-sample forecasts, and investment performance,
+    finding that many published signals deteriorate after discovery, only a small subset survives common
+    statistical filters, and even fewer produce reliable market-timing value beyond an all-equity
+    benchmark.
