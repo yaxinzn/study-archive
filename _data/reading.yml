@@ -16060,3 +16060,11 @@
     greater lending exposure lowers yield spreads for low-rated issuers—especially when proceeds do not
     refinance bank debt—while no spread penalty appears when proceeds repay bank loans and
     selection-adjusted tests preserve the result, favoring certification over risk shifting.
+- title: "Yasuda (JF, 2005) - Do Bank Relationships Affect the Firm's Underwriter Choice in the Corporate-Bond Underwriting Market?"
+  file: "https://www.dropbox.com/scl/fi/udefghu2yp0uzbzattz2g/Yasuda_JF_2005.pdf?rlkey=tqbu1nu3vbszu7e8f3ojgryuh&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a nested multinomial-logit model of issuer choice
+    among 16 bond underwriters while imputing unobserved fees and shows that prior lending relationships
+    increase a bank's selection probability beyond fee discounts, with relationship value especially
+    large for junk and first-time issuers and concentrated in arranger and other pivotal lending roles
+    rather than passive syndicate participation.
