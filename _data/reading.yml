@@ -15983,3 +15983,12 @@
     best able to absorb it, whereas disclosing idiosyncratic shortfalls lacks this matching benefit and
     greater transparency can remain dangerous when revealing weak banks intensifies liquidity spillovers
     to the rest of the system.
+- title: "Dong, Li, Rapach, and Zhou (JF, 2022) - Anomalies and the Expected Market Return"
+  file: "https://www.dropbox.com/scl/fi/v9z06in3td02s2euc1hin/Dong_Li_Rapach_Zhou_JF_2022.pdf?rlkey=3exutmtnsv4ntf9qelzcwh6e8&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses returns on 100 long-short anomaly portfolios as
+    high-dimensional predictors of the aggregate market excess return and shows that shrinkage, forecast
+    combination, and factor-extraction methods generate economically meaningful out-of-sample
+    predictability where unrestricted OLS overfits, with stronger results for hard-to-arbitrage short
+    legs and high-friction periods and supporting evidence from later arbitrage positions and
+    market-wide news tone.
