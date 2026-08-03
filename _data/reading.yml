@@ -16035,3 +16035,11 @@
     finding that many published signals deteriorate after discovery, only a small subset survives common
     statistical filters, and even fewer produce reliable market-timing value beyond an all-equity
     benchmark.
+- title: "Cornelli, Goldreich, and Ljungqvist (JF, 2006) - Investor Sentiment and Pre-IPO Markets"
+  file: "https://www.dropbox.com/scl/fi/isj7zwymgznrx7n3fvyvi/Cornelli_Goldreich_Ljungqvist_JF_2006.pdf?rlkey=kd8n0im9jj2s7mn7cp4pbwusn&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses European grey-market prices as a direct pre-IPO measure
+    of small-investor valuations and documents an asymmetric sentiment effect: high grey-market prices
+    strongly predict first-day prices, greater turnover, and later reversals because institutional
+    investors resell allocations into optimistic retail demand, whereas pessimistic grey-market prices
+    have much weaker effects because sophisticated investors can retain their shares.
