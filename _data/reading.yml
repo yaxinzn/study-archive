@@ -16131,3 +16131,12 @@
     health, wealth, and risk tolerance, while a nonlinear split reveals that moderate optimists plan
     longer, save more, and behave prudently whereas extreme optimists save and work less, smoke more,
     and concentrate more heavily in individual stocks.
+- title: "Landier and Thesmar (RFS, 2009) - Financial Contracting with Optimistic Entrepreneurs"
+  file: "https://www.dropbox.com/scl/fi/u8et4o1l5yp9cqxamiczr/Landier_Thesmar_RFS_2009.pdf?rlkey=usq4y4wxn51olasj2v8vpk9bx&dl=0"
+  desc: >-
+    This note summarizes the paper, which models belief disagreement between realistic investors and
+    optimistic entrepreneurs and derives a separating equilibrium in which optimists choose short-term
+    debt to retain more perceived upside while transferring control after bad interim news, then uses
+    French entrepreneur surveys matched to tax records to show that persistent positive expectation
+    errors predict greater reliance on credit lines and short-term bank debt even after firm-risk and
+    entrepreneur controls, consistent with but not fully causally identifying the contracting mechanism.
