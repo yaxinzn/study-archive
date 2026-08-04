@@ -16113,3 +16113,12 @@
     ownership and monitoring are weak, and boards are larger or CEO controlled; these defenses reduce
     five-year acquisition likelihood from an implied 16.8% to 11.4% but do not raise takeover premiums
     or predict worse long-run operating performance.
+- title: "Gervais, Heaton, and Odean (JF, 2011) - Overconfidence, Compensation Contracts, and Capital Budgeting"
+  file: "https://www.dropbox.com/scl/fi/48lpb4fjcxvdm0womqnti/Gervais_Heaton_Odean_JF_2011.pdf?rlkey=4lpry2fv864uaha9hiy9wbhub&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an optimal-contracting model for a risk-averse
+    manager who overestimates the precision of his project signal and shows that moderate overconfidence
+    can substitute for convex incentive pay, reduce managerial underinvestment, and improve manager
+    welfare under labor-market competition, whereas extreme overconfidence makes managers overvalue
+    high-state compensation and accept excessively risky contracts, while also providing commitment
+    value when costly information acquisition is unobservable.
