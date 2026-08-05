@@ -16220,3 +16220,12 @@
     stronger institutions permit greater bank leverage; a cross-country panel confirms larger
     post-default credit declines where banks hold more public debt and institutions are stronger,
     precisely the settings in which default is less likely.
+- title: "Mendoza and Yue (QJE, 2012) - A General Equilibrium Model of Sovereign Default and Business Cycles"
+  file: "https://www.dropbox.com/scl/fi/i4vuu8as53yvb99t0e9al/Mendoza_Yue_QJE_2012.pdf?rlkey=2m94ocxye1zrvl5jogzxekdgb&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds sovereign default in a production economy where
+    selected imported inputs require foreign working-capital finance, so default excludes both the
+    government and firms from credit markets and forces producers toward imperfect domestic and imported
+    substitutes, generating an endogenous efficiency and output loss; the calibrated model reproduces
+    deep default recessions, countercyclical spreads, and high debt ratios and amplifies adverse TFP
+    shocks by about 80% during default.
