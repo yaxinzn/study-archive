@@ -16229,3 +16229,12 @@
     substitutes, generating an endogenous efficiency and output loss; the calibrated model reproduces
     deep default recessions, countercyclical spreads, and high debt ratios and amplifies adverse TFP
     shocks by about 80% during default.
+- title: "Bocola (JPE, 2016) - The Pass-Through of Sovereign Risk"
+  file: "https://www.dropbox.com/scl/fi/173p6r7jabai2k747mb64/Bocola_JPE_2016.pdf?rlkey=6w9pewtkvnji76ct4b0ix067y&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a nonlinear Italian business-cycle model in which
+    banks hold domestic sovereign debt and shows that higher expected default risk both erodes bank net
+    worth and funding capacity through a liquidity channel and induces precautionary deleveraging
+    through a risk channel, with the latter explaining up to 45% of the crisis-induced increase in
+    firms' financing premia, an estimated 1.4% annualized output loss at the peak, and the weak lending
+    response to the ECB's subsidized LTRO funding.
