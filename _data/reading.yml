@@ -16283,3 +16283,12 @@
     control, whereas broad financial ownership supports lower labor rents and equity dominance; the
     historical application argues that post-World War I inflation destroyed middle-class financial
     wealth and helped shift continental Europe toward corporatist governance.
+- title: "Edmans, Gabaix, Sadzik, and Sannikov (JF, 2012) - Dynamic CEO Compensation"
+  file: "https://www.dropbox.com/scl/fi/ew1jjx4r2d5wcuebaiypg/Edmans_Gabaix_Sadzik_Sannikov_JF_2012.pdf?rlkey=oys45ubnmhgudcd66dn95b3gb&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives a tractable history-dependent CEO contract under
+    repeated effort, risk aversion, private saving, and short-termism: current performance raises both
+    present and promised future consumption, incentive sensitivity rises as retirement approaches, and
+    hidden saving requires a more back-loaded pay path; the contract can be implemented through a
+    Dynamic Incentive Account that separately rebalances cash and equity to preserve incentives and
+    delays vesting, including after retirement, to deter myopic actions.
