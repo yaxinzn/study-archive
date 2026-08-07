@@ -16359,3 +16359,13 @@
     peer-disclosure mandate, ISS ranking thresholds, passive ownership, and say-on-pay votes supports
     the interpretation that governance standardization reduces opportunistic peer choice but also
     reduces firm-specific compensation customization.
+- title: "Barardehi, Dixon, and Liu (JF, 2026) - Detecting Informed Trading Risk from Undercutting Activity"
+  file: "https://www.dropbox.com/scl/fi/7pyvrylaci8fxbb6ayulp/Barardehi_Dixon_Liu_JF_2026.pdf?rlkey=mc5ba34vpx2oog3mjq9k16uko&dl=0"
+  desc: >-
+    This note summarizes the paper, which introduces QIDres, a high-frequency informed-trading-risk
+    measure based on abnormal declines in liquidity providers' quote-improvement or undercutting
+    activity, and validates it around prosecuted insider trades, earnings announcements, unscheduled
+    press releases, informed mutual-fund trades, and short-interest changes; one-sided,
+    inventory-adjusted, spillover, and reversal tests distinguish it from liquidity, quote-price
+    discovery, and inventory management, while lagged QIDres predicts future returns most strongly when
+    short-sale constraints bind.
