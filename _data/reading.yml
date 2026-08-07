@@ -16369,3 +16369,13 @@
     inventory-adjusted, spillover, and reversal tests distinguish it from liquidity, quote-price
     discovery, and inventory management, while lagged QIDres predicts future returns most strongly when
     short-sale constraints bind.
+- title: "Itskhoki and Mukhin (REStud, 2026) - Sanctions and the Exchange Rate"
+  file: "https://www.dropbox.com/scl/fi/uj2f4ljw6hnatkvb5hnao/Itskhoki_Mukhin_RES_2026.pdf?rlkey=my065s6ab25sjgeyfl0t9xka5&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a segmented foreign-currency-market framework showing
+    that import and export sanctions can have equivalent real and welfare effects while moving the
+    exchange rate in opposite directions, and that financial sanctions matter importantly by preventing
+    reserve-based smoothing of precautionary FX demand; calibrated to Russia after February 2022, the
+    model attributes the initial ruble collapse mainly to financial panic, the subsequent appreciation
+    to import compression and high energy revenues, and later depreciation to recovering imports and
+    declining export revenues.
