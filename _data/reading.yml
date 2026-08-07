@@ -16379,3 +16379,13 @@
     model attributes the initial ruble collapse mainly to financial panic, the subsequent appreciation
     to import compression and high energy revenues, and later depreciation to recovering imports and
     declining export revenues.
+- title: "Di Tella, Hébert, Kurlat, and Wang (JPE, 2026) - The Zero-Beta Interest Rate"
+  file: "https://www.dropbox.com/scl/fi/das9up5inie0xgphrsnb9/DiTella_Hebert_Kurlat_Wang_JPE_2026.pdf?rlkey=q66gdlclogfa4dfxq0csf420x&dl=0"
+  desc: >-
+    This note summarizes the paper, which jointly estimates a time-varying zero-beta equity return using
+    multifactor portfolios and macro-financial predictors and shows that this rate is high, volatile,
+    and far more aligned with predicted aggregate consumption growth than Treasury bills, including
+    around monetary-policy shocks; replacing the safe rate with the zero-beta rate substantially
+    improves the aggregate Euler equation and reframes the equity-premium and excess-volatility puzzles
+    as a safe-asset pricing wedge rather than necessarily requiring large and volatile market risk
+    premia.
