@@ -16491,3 +16491,13 @@
     information raises expected holdings, larger holdings raise the value of further research, and
     scarce information rents therefore make investors specialize rather than diversify, generating
     persistent home and local bias even when foreign information is freely acquirable.
+- title: "Almeida, Campello, and Weisbach (JF, 2004) - The Cash Flow Sensitivity of Cash"
+  file: "https://www.dropbox.com/scl/fi/wl9baaxr0bkic3if59zmo/Almeida_Campello_Weisbach_jf_2004.pdf?rlkey=hlvz4av6i2id61qwcvovmc0u9&dl=0"
+  desc: >-
+    This note summarizes the paper, which introduces the cash-flow sensitivity of cash as a diagnostic
+    for financing constraints and predicts that constrained firms save part of incremental cash flow
+    because internal liquidity preserves future investment capacity, whereas unconstrained firms need
+    not; Compustat evidence using payout, size, bond-rating, and commercial-paper-rating classifications
+    finds positive sensitivities of roughly five to six cents per dollar only for constrained firms and
+    stronger saving in weak aggregate conditions, while the opposite KZ split highlights the measurement
+    sensitivity of financial-constraint proxies.
