@@ -16464,3 +16464,12 @@
     and that the model improves the cross-sectional fit for illiquidity, volatility-of-illiquidity, and
     size portfolios; the economically strongest channel is flight to liquidity, in which assets become
     especially hard to trade when market returns are low.
+- title: "Seasholes and Zhu (JF, 2010) - Individual Investors and Local Bias"
+  file: "https://www.dropbox.com/scl/fi/8j3bn54ir2rqmttz25sau/Seasholes_Zhu_JF_2010.pdf?rlkey=l2p9rpf6eizhy5vr5q9xxx0w3&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses discount-brokerage holdings and transactions with
+    calendar-time portfolio methods to test whether households' strong preference for nearby stocks
+    reflects superior local information, finding that local holdings earn no abnormal alpha after
+    appropriate local and factor benchmarks and that local buys actually underperform local sells,
+    including among non-S&P 500 stocks, so individual local bias appears driven by familiarity or other
+    noninformational motives rather than value-relevant private information.
