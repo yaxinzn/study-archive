@@ -16482,3 +16482,12 @@
     higher effective spreads, with market-wide controls, unexpected-attention decompositions, own-stock
     activity splits, and stock-by-stock regressions showing that the liquidity cost of attention
     scarcity is strongest for inactive securities that depend most on specialist intervention.
+- title: "Van Nieuwerburgh and Veldkamp (JF, 2009) - Information Immobility and the Home Bias Puzzle"
+  file: "https://www.dropbox.com/scl/fi/l17kowqm3p7ei0sxu8ivt/VanNieuwerburgh_Veldkamp_JF_2009.pdf?rlkey=v822m2fdn2lkgnbn69g9pjjd2&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a two-country rational-expectations model with
+    endogenous information acquisition and shows that even a small initial home-information advantage
+    can be amplified because investors optimally learn where they already have a comparative advantage:
+    information raises expected holdings, larger holdings raise the value of further research, and
+    scarce information rents therefore make investors specialize rather than diversify, generating
+    persistent home and local bias even when foreign information is freely acquirable.
