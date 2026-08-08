@@ -16473,3 +16473,12 @@
     appropriate local and factor benchmarks and that local buys actually underperform local sells,
     including among non-S&P 500 stocks, so individual local bias appears driven by familiarity or other
     noninformational motives rather than value-relevant private information.
+- title: "Corwin and Coughenour (JF, 2008) - Limited Attention and the Allocation of Effort in Securities Trading"
+  file: "https://www.dropbox.com/scl/fi/j2uvv4ux1ipehok7zbymr/Corwin_Coughenour_JF_2008.pdf?rlkey=zq16ekig1xsflh2o9aurke7yg&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits the NYSE specialist-panel system to measure
+    competition for a market maker's finite attention and shows that when other stocks at the same panel
+    become unusually active or volatile, the focal stock receives less price improvement and faces
+    higher effective spreads, with market-wide controls, unexpected-attention decompositions, own-stock
+    activity splits, and stock-by-stock regressions showing that the liquidity cost of attention
+    scarcity is strongest for inactive securities that depend most on specialist intervention.
