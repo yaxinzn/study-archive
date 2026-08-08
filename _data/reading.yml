@@ -16455,3 +16455,12 @@
     and debt issuance move in the financing-consistent direction, with stronger effects for share
     issuance, financially dependent firms, and future profitability tests indicating that time-varying
     equity-market financing costs have real effects on investment and hiring.
+- title: "Acharya and Pedersen (JFE, 2005) - Asset Pricing with Liquidity Risk"
+  file: "https://www.dropbox.com/scl/fi/3oznbv5vk9dtdpqr74bxj/Acharya_Pedersen_JFE_2005.pdf?rlkey=dr6yjwu5j0stlxmph90toasn8&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives a liquidity-adjusted CAPM in which expected returns
+    compensate investors for expected trading costs, standard market risk, and three systematic
+    liquidity-risk channels, and shows with NYSE/AMEX data that illiquid stocks are also liquidity-risky
+    and that the model improves the cross-sectional fit for illiquidity, volatility-of-illiquidity, and
+    size portfolios; the economically strongest channel is flight to liquidity, in which assets become
+    especially hard to trade when market returns are low.
