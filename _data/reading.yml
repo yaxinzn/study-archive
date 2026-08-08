@@ -16501,3 +16501,13 @@
     finds positive sensitivities of roughly five to six cents per dollar only for constrained firms and
     stronger saving in weak aggregate conditions, while the opposite KZ split highlights the measurement
     sensitivity of financial-constraint proxies.
+- title: "Veldkamp (REStud, 2006) - Information Markets and the Comovement of Asset Prices"
+  file: "https://www.dropbox.com/scl/fi/khaaqo10yfm5gh0ez34h9/Veldkamp_RES_2006.pdf?rlkey=cyv9r5l0ebwkuswyark5kzp5u&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a rational-expectations model in which information
+    has high fixed discovery costs and low marginal distribution costs, making widely demanded signals
+    cheap and inducing investors to coordinate on common information that forecasts multiple assets;
+    these endogenous common signals generate excess price comovement even when fundamentals are weakly
+    correlated, while more investors learning the same signal raises comovement, broader and more
+    detailed information lowers it, and the mechanism rationalizes countercyclical, emerging-market,
+    twin-stock, and habitat comovement.

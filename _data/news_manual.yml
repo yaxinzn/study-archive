@@ -72,3 +72,7 @@
   title: "Remove Macroeconomics link from index.md"
 - date: "2026-07-08"
   title: "Adjust reading stats layout and remove journals stat"
+- date: "2026-08-07"
+  title: "Retry Pages deployment after GitHub Actions outage"
+- date: "2026-08-07"
+  title: "Trigger GitHub Pages rebuild"
