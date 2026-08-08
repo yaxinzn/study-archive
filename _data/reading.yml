@@ -16436,3 +16436,13 @@
     Fed-liquidity-injection, collateral-flexibility, bank-borrower exposure, and loan-level tests
     showing that more affected banks reduce lending and raise spreads, thereby transmitting the banking
     shock to borrowers lacking public-debt substitutes.
+- title: "Dell'Ariccia, Laeven, and Suarez (JF, 2017) - Bank Leverage and Monetary Policy's Risk-Taking Channel: Evidence from the United States"
+  file: "https://www.dropbox.com/scl/fi/zvedvwcl6g1zxfqw8cvyx/DellAriccia_Laeven_Suarez_JF_2017.pdf?rlkey=v1n35ueg8pchstwn40rfxig77&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses confidential Federal Reserve loan-level data and banks'
+    internal ex ante risk ratings to show that lower short-term interest rates are associated with
+    riskier newly originated C&I loans, with the response stronger at better-capitalized banks and
+    absent for loans made under prior commitments; Taylor-rule residuals, liquidity interactions,
+    noncrisis and small-bank subsamples, and alternative risk measures support a monetary-policy
+    risk-taking channel rather than a purely mechanical business-cycle or originate-to-distribute
+    explanation.
