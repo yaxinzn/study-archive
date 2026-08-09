@@ -16549,3 +16549,12 @@
     emissions commitments and can fail for stranded assets; calibration finds modest average wedges but
     very large adjustments for brown electricity and implies that observed voluntary green-finance
     effects correspond to only a small implicit carbon price.
+- title: "Heitz, Martin, and Ufier (JF, 2026) - Bank Monitoring with On-Site Inspections"
+  file: "https://www.dropbox.com/scl/fi/unra68uucv5te3adfjnf1/Heitz_Martin_Ufier_JF_2026.pdf?rlkey=gaes0afrp5kjuiop1kdv36tsv&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses proprietary transaction-level data on nearly 30,000
+    construction loans to observe bank monitoring directly through on-site inspections, showing that
+    inspection intensity is embedded in origination terms, rises with borrower and project downside risk
+    and as the lender approaches failure, and produces information that predicts draw denials; OLS and
+    instrumental-variable specifications using draw schedules, first-inspection timing, and inspector
+    variation indicate that more intensive monitoring reduces subsequent default.
