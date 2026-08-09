@@ -16567,3 +16567,13 @@
     performance and smaller losses when managerial skills are more transferable; replacement-CEO and
     performance-matched benchmarks reinforce a labor-market penalty interpretation, although the paper
     explicitly treats the estimates as personal costs rather than a causal treatment effect.
+- title: "Becht, Franks, and Wagner (JF, 2026) - The Benefits of Access: Evidence from Private Meetings with Portfolio Firms"
+  file: "https://www.dropbox.com/scl/fi/g76g84u8wddlv3rezfx8t/Becht_Franks_Wagner_JF_2026.pdf?rlkey=6scf6z8z1zlq49czwm2qpycsq&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines 4,700 confidential Standard Life Investments meeting
+    notes with daily holdings and trades and uses LLMs to measure soft information, topics, tone,
+    consensus, and MNPI, finding that private meetings are mostly soft and firm specific, fund-manager
+    meetings tend to precede buying while governance-specialist meetings precede selling, and trading is
+    strongest when meeting content produces consensus; MNPI is rare and not traded on, while
+    meeting-related long-short portfolios earn substantially higher abnormal returns than comparable
+    no-meeting trades.
