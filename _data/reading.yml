@@ -16577,3 +16577,13 @@
     strongest when meeting content produces consensus; MNPI is rare and not traded on, while
     meeting-related long-short portfolios earn substantially higher abnormal returns than comparable
     no-meeting trades.
+- title: "Dittmar, Hsu, Roussellet, and Simasek (JF, 2026) - Default Risk and the Pricing of U.S. Sovereign Bonds"
+  file: "https://www.dropbox.com/scl/fi/04damef4dvmlrb2qlr39x/Dittmar_Hsu_Roussellet_Simasek_JF_2026.pdf?rlkey=9zis9kveevkjhtifrlo6qc0i3&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies the persistent wedge between inflation-linked swap
+    rates and Treasury breakeven inflation and shows that U.S. sovereign default risk, measured by
+    public-debt growth and CDS spreads, helps explain this ILSBEI differential even after liquidity and
+    slow-moving-capital controls; IV evidence and an affine term-structure model decompose the wedge
+    into credit and liquidity components, with liquidity dominating short-maturity crisis spikes but
+    credit becoming more important at longer maturities through the interaction between default risk and
+    inflation dynamics.
