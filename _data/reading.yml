@@ -1806,9 +1806,15 @@
 - title: "Huang, Linck, Mayer & Parsons (RFS, 2026) - Can Human Capital Explain Income-Based Disparities in Financial Services?"
   file: "https://www.dropbox.com/scl/fi/ht2kfuei2ht2ftpna43gq/Huang_Linck_Mayer_Parsons_RFS_2026.pdf?rlkey=hpmnuwvjr3or38cknrlbm54vf&dl=0"
   desc: "This note summarizes the paper, which uses NMLS loan officer employment histories, CoreLogic mortgage originations, ZTRAX foreclosures, CFPB complaints, ACS ZIP income data, worker fixed effects, prior performance, hiring/promotion/firing/reemployment tests, and peer-spillover regressions to study income-based disparities in financial services, showing that firms allocate less experienced and lower-performing loan officers to lower-income areas, and that this human-capital sorting helps explain worse misconduct, early-default, and complaint outcomes in poorer markets."
-- title: "Baker, Gibbs, and Holmstrom (QJE, 1994) - The Internal Economics of the Firm: Evidence from Personnel Data"
+- title: "Baker, Gibbs, and Holmström (QJE, 1994) - The Wage Policy of a Firm"
   file: "https://www.dropbox.com/scl/fi/y15sc6m82uckywcxu4pii/Baker_Gibbs_Holmstrom_QJE_1994.pdf?rlkey=ojsipnvwvscuat5in7o0mkio7&dl=0"
-  desc: "This note summarizes the paper, which uses twenty years of personnel records from one large U.S. firm, job-title transitions, inferred hierarchy levels, promotion and exit patterns, salary distributions, performance ratings, promotion premia, and raise rules to study internal labor markets, showing that the firm has a stable hierarchical career system with structured promotion paths and administrative pay rules, while also revealing substantial within-level wage dispersion and weaker-than-classic ports of entry/exit patterns."
+  desc: >-
+    This note summarizes the paper, which uses two decades of personnel records from a single firm to
+    document an internal wage policy in which cohort entry wages have persistent effects, nominal wages
+    are downward rigid but real wage declines are common, individual raises are positively serially
+    correlated, and employees promoted earlier already exhibit faster wage growth before promotion;
+    together the facts imply partial insulation from external labor markets, persistent worker
+    heterogeneity, and promotion as selection rather than a purely mechanical source of wage gaps.
 - title: "Voors, Nillesen, Verwimp, Bulte, Lensink, van Soest (AER, 2012) - Violent Conflict and Behavior: A Field Experiment in Burundi"
   file: "https://www.dropbox.com/scl/fi/nbrfqu2ixe54u8sap3pvu/Voors_Nillesen_Verwimp_Bulte_Lensink_vanSoest_AER_2012.pdf?rlkey=f5rx6wnqitwo60i67l39ms8ni&dl=0"
   desc: "This note summarizes the paper, which uses post-civil-war Burundi field experiments, community and household conflict exposure measures, social preference games, risk and time preference tasks, prewar exogeneity checks, distance-to-Bujumbura and altitude instruments, and real-world behavior proxies to study violence and economic behavior, showing that exposure to violent conflict is associated with more altruistic behavior toward neighbors, greater risk-taking, and higher discount rates, implying that war can reshape behavioral foundations of post-conflict development."
