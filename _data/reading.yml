@@ -16667,3 +16667,13 @@
     therefore respond less than one-for-one to productivity, employer surplus and vacancy creation
     become much more cyclical, and the calibrated model matches productivity-related unemployment
     volatility with more plausible nonwork values and surplus sharing than extreme Nash calibrations.
+- title: "Guerrieri, Shimer, and Wright (Econometrica, 2010) - Adverse Selection in Competitive Search Equilibrium"
+  file: "https://www.dropbox.com/scl/fi/uquku3r5j9ocvo01actsu/Guerrieri_Shimer_Wright_Econometrica_2010.pdf?rlkey=8044ajbdcdnuzb6ao8e9jrcp2&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a general competitive-search theory of adverse
+    selection in which privately informed agents choose among posted contracts and endogenous queue
+    lengths become an additional screening instrument, yielding separating equilibria with existence and
+    unique expected payoffs under general conditions; the applications show that screening can distort
+    both contract terms and matching probabilities, generate overwork and overemployment, restore
+    existence in insurance markets, and make illiquidity itself useful for screening lemons even though
+    the resulting separating allocation can remain constrained inefficient.
