@@ -16639,3 +16639,12 @@
     cyclicality imply a high value of nonmarket activity (z = 0.955) and low bargaining power (β =
     0.052), making match profits and surplus small so modest productivity shocks generate large
     percentage changes in profits, vacancy creation, labor-market tightness, and unemployment.
+- title: "Hall (AER, 2005) - Employment Fluctuations with Equilibrium Wage Stickiness"
+  file: "https://www.dropbox.com/scl/fi/uegj7h772uwmbl6mmqoiv/Hall_AER_2005.pdf?rlkey=4qp6zyb1gtm06sw19elzh2ilt&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that search-and-matching frictions create a bargaining
+    set within which a wage norm can remain sticky without destroying bilateral efficiency, so temporary
+    productivity shocks fall mainly on employer surplus rather than being absorbed by wages; because
+    vacancy creation satisfies free entry, this sharply amplifies recruiting, job-finding, vacancy, and
+    unemployment fluctuations relative to Nash bargaining while avoiding the classic objection that
+    sticky wages force inefficient matches or separations.
