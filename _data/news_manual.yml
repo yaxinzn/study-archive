@@ -76,3 +76,7 @@
   title: "Retry Pages deployment after GitHub Actions outage"
 - date: "2026-08-07"
   title: "Trigger GitHub Pages rebuild"
+- date: "2026-08-09"
+  title: "Add update for Journal of Finance variables"
+- date: "2026-08-09"
+  title: "Add update for August 9 variables"

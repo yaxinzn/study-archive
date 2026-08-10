@@ -16677,3 +16677,12 @@
     both contract terms and matching probabilities, generate overwork and overemployment, restore
     existence in insurance markets, and make illiquidity itself useful for screening lemons even though
     the resulting separating allocation can remain constrained inefficient.
+- title: "Eeckhout and Kircher (Econometrica, 2010) - Sorting and Decentralized Price Competition"
+  file: "https://www.dropbox.com/scl/fi/bn1fsoldu23k3g0jn3on7/Eeckhout_Kircher_Econometrica_2010.pdf?rlkey=i7bauq4oqzyneijivjglqmo6e&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies sorting between heterogeneous buyers and sellers under
+    directed search and decentralized price competition and shows that positive assortative matching
+    requires match-value complementarity to dominate a countervailing trading-security motive created by
+    endogenous queue lengths; the exact condition is root-supermodularity, ranging from ordinary to
+    square-root to near log-supermodularity as search substitutability rises, and under the same
+    condition decentralized prices implement the planner's efficient sorting allocation.
