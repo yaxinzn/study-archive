@@ -16606,3 +16606,12 @@
     math-intensive tracks; tournament entry predicts track prestige after controlling for ability,
     confidence, risk attitudes, and experimental performance and explains about 20% of the baseline
     gender gap, with smaller but meaningful effects for choosing the top NT track.
+- title: "Bertrand and Mullainathan (AER, 2004) - Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market Discrimination"
+  file: "https://www.dropbox.com/scl/fi/fmd2g0nirw53pdsk3m3vd/Bertrand_Mullainathan_AER_2004.pdf?rlkey=hkqyucr0nvfkmo01134mlqxsc&dl=0"
+  desc: >-
+    This note summarizes the paper, which randomizes White- versus African-American-sounding names
+    across otherwise comparable fictitious resumes sent to real job advertisements in Boston and Chicago
+    and finds callback rates of 9.65% versus 6.45%, respectively; stronger resume credentials raise
+    callbacks more for White-name applicants, while better addresses and observable employer
+    characteristics do not close the gap, providing clean causal evidence of differential treatment at
+    the resume-screening stage without identifying the precise discrimination mechanism.
