@@ -16621,3 +16621,12 @@
     callbacks more for White-name applicants, while better addresses and observable employer
     characteristics do not close the gap, providing clean causal evidence of differential treatment at
     the resume-screening stage without identifying the precise discrimination mechanism.
+- title: "Caballero, Hoshi, and Kashyap (AER, 2008) - Zombie Lending and Depressed Restructuring in Japan"
+  file: "https://www.dropbox.com/scl/fi/u2ak96sopvzx08o4x3pa0/Caballero_Hoshi_Kashyap_AER_2008.pdf?rlkey=s1ckh81ihh2bf2p72pyplj76d&dl=0"
+  desc: >-
+    This note summarizes the paper, which identifies Japanese zombie firms from interest payments that
+    fall below a conservative market-rate benchmark and shows that bank forbearance creates congestion
+    externalities beyond the direct misallocation of credit: zombie-heavy industries exhibit weaker job
+    creation, job destruction, and productivity growth, while healthy non-zombie firms invest and expand
+    employment less when surrounded by more zombies, implying that evergreening suppresses creative
+    destruction and prolongs real-side stagnation.
