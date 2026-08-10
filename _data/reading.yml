@@ -16648,3 +16648,13 @@
     vacancy creation satisfies free entry, this sharply amplifies recruiting, job-finding, vacancy, and
     unemployment fluctuations relative to Nash bargaining while avoiding the classic objection that
     sticky wages force inefficient matches or separations.
+- title: "Lagos and Rocheteau (Econometrica, 2009) - Liquidity in Asset Markets with Search Frictions"
+  file: "https://www.dropbox.com/scl/fi/kxu0ym4s2ks1g57u8k2hw/Lagos_Rocheteau_Econometrica_2009.pdf?rlkey=vzm3wbmfew0kwyysx2labhl94&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends OTC search models by allowing unrestricted asset
+    holdings and shows that search frictions reshape portfolios as well as trading opportunities: easier
+    dealer access can make high-valuation investors hold more and low-valuation investors hold less,
+    increasing holding dispersion, trade sizes, and under stated conditions volume; equilibrium
+    intermediation fees can be nonmonotonic because trade size and outside options move together, while
+    endogenous dealer entry can generate multiple steady states including a self-reinforcing
+    low-liquidity equilibrium.
