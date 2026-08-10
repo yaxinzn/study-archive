@@ -16658,3 +16658,12 @@
     intermediation fees can be nonmonotonic because trade size and outside options move together, while
     endogenous dealer entry can generate multiple steady states including a self-reinforcing
     low-liquidity equilibrium.
+- title: "Hall and Milgrom (AER, 2008) - The Limited Influence of Unemployment on the Wage Bargain"
+  file: "https://www.dropbox.com/scl/fi/4x9gqv10qzyiyic9l4hk1/Hall_Milgrom_AER_2008.pdf?rlkey=nf1utze1x2ry0tx7nnvw6ay96&dl=0"
+  desc: >-
+    This note summarizes the paper, which replaces Nash bargaining in the Mortensen-Pissarides model
+    with a credible alternating-offer game in which disagreement means delay and counteroffers rather
+    than immediate separation, sharply reducing the influence of unemployment on current wages; wages
+    therefore respond less than one-for-one to productivity, employer surplus and vacancy creation
+    become much more cyclical, and the calibrated model matches productivity-related unemployment
+    volatility with more plausible nonwork values and surplus sharing than extreme Nash calibrations.
