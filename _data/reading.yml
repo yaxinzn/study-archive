@@ -16630,3 +16630,12 @@
     creation, job destruction, and productivity growth, while healthy non-zombie firms invest and expand
     employment less when surrounded by more zombies, implying that evergreening suppresses creative
     destruction and prolongs real-side stagnation.
+- title: "Hagedorn and Manovskii (AER, 2008) - The Cyclical Behavior of Equilibrium Unemployment and Vacancies Revisited"
+  file: "https://www.dropbox.com/scl/fi/z1mdp8wlki1j7y78ina9o/Hagedorn_Manovskii_AER_2008.pdf?rlkey=s41kou8vvm83wq38decfykru3&dl=0"
+  desc: >-
+    This note summarizes the paper, which revisits the Shimer volatility puzzle and argues that the
+    standard Mortensen-Pissarides model can match U.S. unemployment and vacancy volatility through a
+    different calibration rather than exogenous wage rigidity: empirical vacancy costs and wage
+    cyclicality imply a high value of nonmarket activity (z = 0.955) and low bargaining power (β =
+    0.052), making match profits and surplus small so modest productivity shocks generate large
+    percentage changes in profits, vacancy creation, labor-market tightness, and unemployment.
