@@ -16724,3 +16724,12 @@
     sometimes discontinuous collapses in issuance volume, and the policy analysis shows why conventional
     fair-price asset purchases may fail unless intervention also changes equilibrium selection and
     cream-skimming incentives.
+- title: "D'Acunto, Prabhala, and Rossi (RFS, 2019) - The Promises and Pitfalls of Robo-Advising"
+  file: "https://www.dropbox.com/scl/fi/avspyhhbwnw7497nqk30n/DAcunto_Prabhala_Rossi_RFS_2019.pdf?rlkey=n69m7z8ztap2nr9xizpe101af&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies an Indian brokerage's one-click mean-variance
+    portfolio optimizer and finds that robo-advice most benefits ex ante underdiversified investors by
+    increasing diversification and lowering portfolio risk while also reducing the disposition effect,
+    trend chasing, and best-stock selling; a same-adviser same-day call design supports increases in
+    portfolio returns, attention, trading, and debiasing, but the effects are heterogeneous because
+    already diversified investors trade more without comparably clear performance gains.
