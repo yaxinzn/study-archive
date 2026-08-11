@@ -16704,3 +16704,13 @@
     transmission of soft information; the opposite effects for large loans whose approval distance
     falls, together with weaker hierarchy costs in more corrupt areas, reveal a trade-off between
     decentralized information production and centralized control of local agency problems.
+- title: "Allen, Clark, and Houde (AER, 2014) - The Effect of Mergers in Search Markets: Evidence from the Canadian Mortgage Industry"
+  file: "https://www.dropbox.com/scl/fi/lybhzroc4ldfukyjw06xb/Allen_Clark_Houde_AER_2014.pdf?rlkey=mllhiwz1679wqxjvl1o9velhi&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits a Canadian bank-trust merger that locally removed a
+    lender from some borrowers' choice sets and uses difference-in-differences, matching, and
+    change-in-change methods to show that negotiated mortgage margins rose by about 6 basis points on
+    average but mainly at the lower and middle parts of the price distribution, reducing dispersion; a
+    search-and-negotiation model explains the heterogeneity through search-cost differences and implies
+    that observed average price changes can substantially understate the underlying increase in market
+    power.
