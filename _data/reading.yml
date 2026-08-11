@@ -16743,3 +16743,12 @@
     more wealth; the calibrated model matches key education gradients in knowledge and retirement wealth
     and attributes roughly 30–40% of retirement wealth inequality to this channel while showing that low
     financial knowledge can itself be an optimal choice for some households.
+- title: "Blank (AER, 1991) - The Effects of Double-Blind versus Single-Blind Reviewing: Experimental Evidence from The American Economic Review"
+  file: "https://www.dropbox.com/scl/fi/iqjer759avt66drovd319/Blank_AER_1991.pdf?rlkey=6i7pzp3g4kmsfbcpv9420cagv&dl=0"
+  desc: >-
+    This note summarizes the paper, which randomizes AER submissions into single- versus double-blind
+    referee review and finds that double-blind assignment lowers the not-rejected rate from 14.1% to
+    10.6% and produces more critical referee ratings, with little statistically clear evidence of a
+    female-author gain and stronger heterogeneity by institutional affiliation; because referees often
+    infer authors even under formal blinding, the paper distinguishes randomized blind assignment from
+    endogenous realized anonymity and uses IV logic to study truly blind papers more cautiously.
