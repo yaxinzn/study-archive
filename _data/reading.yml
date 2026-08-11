@@ -16733,3 +16733,13 @@
     trend chasing, and best-stock selling; a same-adviser same-day call design supports increases in
     portfolio returns, attention, trading, and debiasing, but the effects are heterogeneous because
     already diversified investors trade more without comparably clear performance gains.
+- title: "Lusardi, Michaud, and Mitchell (JPE, 2017) - Optimal Financial Knowledge and Wealth Inequality"
+  file: "https://www.dropbox.com/scl/fi/91cfg46y6rjqjq2xok8nx/Lusardi_Michaud_Mitchell_JPE_2017.pdf?rlkey=74ou19zt0ork224uo3qneaxia&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a stochastic life-cycle model in which financial
+    knowledge is an endogenous, costly, depreciating form of human capital that raises risk-adjusted
+    investment returns, generating a saving-learning complementarity under which better-educated
+    households with larger retirement saving needs optimally acquire more knowledge and accumulate much
+    more wealth; the calibrated model matches key education gradients in knowledge and retirement wealth
+    and attributes roughly 30–40% of retirement wealth inequality to this channel while showing that low
+    financial knowledge can itself be an optimal choice for some households.
