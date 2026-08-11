@@ -16752,3 +16752,13 @@
     female-author gain and stronger heterogeneity by institutional affiliation; because referees often
     infer authors even under formal blinding, the paper distinguishes randomized blind assignment from
     endogenous realized anonymity and uses IV logic to study truly blind papers more cautiously.
+- title: "Aghion, Van Reenen, and Zingales (AER, 2013) - Innovation and Institutional Ownership"
+  file: "https://www.dropbox.com/scl/fi/qrkm1jv0c6207o81m7hc5/Aghion_VanReenen_Zingales_AER_2013.pdf?rlkey=t9poyczx8mkcjc1dkzu2fzzhb&dl=0"
+  desc: >-
+    This note summarizes the paper, which links institutional ownership to patent-based innovation and
+    finds that higher institutional stakes predict more citation-weighted patents and greater R&D
+    productivity, with stronger effects in competitive product markets and weaker CEO firing-performance
+    sensitivity when institutions own more; these mechanism tests favor a career-concern insurance
+    channel in which informed monitoring protects managers from bad-luck dismissal, while
+    institutional-type splits, S&P 500 inclusion, and firm-value controls support an interpretation
+    beyond simple selection into already innovative firms.
