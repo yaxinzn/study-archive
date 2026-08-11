@@ -16714,3 +16714,13 @@
     search-and-negotiation model explains the heterogeneity through search-cost differences and implies
     that observed average price changes can substantially understate the underlying increase in market
     power.
+- title: "Chari, Shourideh, and Zetlin-Jones (AER, 2014) - Reputation and Persistence of Adverse Selection in Secondary Loan Markets"
+  file: "https://www.dropbox.com/scl/fi/gw7dssjrrd4k9vb3ip2nz/Chari_Shourideh_ZetlinJones_AER_2014.pdf?rlkey=6qojjnzyya9mfoac4vbuoi95y&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic secondary-loan-market model in which lower
+    collateral values worsen adverse selection and reduce trade, while reputational incentives cause
+    low-quality originators to mimic high-quality ones and therefore prevent learning from eliminating
+    the lemons problem; the resulting pooling and partial-pooling equilibria generate persistent and
+    sometimes discontinuous collapses in issuance volume, and the policy analysis shows why conventional
+    fair-price asset purchases may fail unless intervention also changes equilibrium selection and
+    cream-skimming incentives.
