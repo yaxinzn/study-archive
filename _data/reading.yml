@@ -16686,3 +16686,12 @@
     endogenous queue lengths; the exact condition is root-supermodularity, ranging from ordinary to
     square-root to near log-supermodularity as search substitutability rises, and under the same
     condition decentralized prices implement the planner's efficient sorting allocation.
+- title: "Allen, Clark, and Houde (JPE, 2019) - Search Frictions and Market Power in Negotiated-Price Markets"
+  file: "https://www.dropbox.com/scl/fi/ns4knsovm39kqsb284jbx/Allen_Clark_Houde_JPE_2019.pdf?rlkey=eco6wfrakbdh76oyw17g7im0f&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a structural search-and-bargaining model of the
+    Canadian insured mortgage market in which borrowers start with a home bank, face heterogeneous costs
+    of collecting additional quotes, and bargain across lenders, showing that search frictions lower
+    consumer surplus by about $12.80 per month through direct search costs, price discrimination, and
+    inefficient matching, while average margins remain modest but large consumer bases and relationship
+    loyalty create substantial incumbency advantages for home banks.
