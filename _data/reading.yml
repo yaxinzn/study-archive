@@ -16,9 +16,16 @@
 - title: "Puri, Rocholl, and Steffen (JFE, 2011) - Global Retail Lending in the Aftermath of the US Financial Crisis: Distinguishing between Supply and Demand Effects"
   file: "https://www.dropbox.com/scl/fi/61a03y90148agw1kf6p29/Puri_Rocholl_Steffen_JFE_2011.pdf?rlkey=ipga2633kyhpbgt0suqyw6to5&dl=0"
   desc: "This note summarizes the paper, which uses the universe of German savings-bank retail loan applications from 2006 to 2008, Landesbank exposure to US subprime losses, affected and nonaffected bank comparisons, borrower risk ratings, loan approval outcomes, application counts, mortgage loan amounts, bank fixed effects, difference-in-differences, and relationship-lending tests to study crisis transmission, showing that exposed banks cut retail credit supply while existing borrower relationships partly shielded applicants."
-- title: "Mian and Sufi (Econometrica, 2014) - What Explains the 2007-2009 Drop in Employment?"
+- title: "Mian and Sufi (Econometrica, 2014) - What Explains the 2007–2009 Drop in Employment?"
   file: "https://www.dropbox.com/scl/fi/yd479wlpyjryrcz808em7/Mian_Sufi_Econometrica_2014.pdf?rlkey=8wxqdet49stcj04x8lxpu4cac&dl=0"
-  desc: "This note summarizes the paper, which uses county-level housing net worth shocks, Census County Business Patterns employment data, tradable versus non-tradable industry classifications, Saiz housing supply elasticity instruments, construction controls, credit-supply tests, wage and mobility outcomes, and local labor-market adjustment tests to study the Great Recession employment collapse, showing that household balance-sheet deterioration reduced local demand and caused large non-tradable job losses where labor-market adjustment was weak."
+  desc: >-
+    This note summarizes the paper, which uses county-level housing net-worth losses during the Great
+    Recession and a housing-supply-elasticity instrument to identify a household-balance-sheet demand
+    channel, finding that a 10 percentage point decline in housing net worth is associated with roughly
+    a 3.7 percentage point decline in non-tradable employment in the IV estimates, while tradable
+    employment is largely unaffected and construction, local credit-supply, wage, migration, and
+    labor-force tests provide little evidence of offsetting supply-side or general-equilibrium
+    adjustment.
 - title: "Barberis, Huang, and Santos (QJE, 2001) - Prospect Theory and Asset Prices"
   file: "https://www.dropbox.com/scl/fi/o7na07hpmksbucl0t02wi/Barberis_Huang_Santos_QJE_2001.pdf?rlkey=40kiggo2ycizmwjxo8zer18fz&dl=0"
   desc: "This note summarizes the paper, which develops an equilibrium asset-pricing model with consumption utility, prospect-theory utility over financial gains and losses, loss aversion, prior gains and losses, state-dependent risk aversion, price-dividend dynamics, and separate consumption and dividend processes to study aggregate stock-market puzzles, showing that dynamic loss aversion can help explain the equity premium, excess volatility, return predictability, and low stock-return consumption-growth correlation."
