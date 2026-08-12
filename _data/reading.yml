@@ -16783,3 +16783,13 @@
     default by roughly 13%–21% of the mean—while offer-rate effects are positive but statistically weak,
     so asymmetric-information effects in this market appear to operate primarily through repayment
     incentives rather than selection.
+- title: "Stango and Zinman (JF, 2009) - Exponential Growth Bias and Household Finance"
+  file: "https://www.dropbox.com/scl/fi/6k70sy7onw4p1k7tv5lhc/Stango_Zinman_JF_2009.pdf?rlkey=35mctfwrrkwsgbv33lge81gp5&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures exponential-growth bias from households’ tendency to
+    understate the APR implied by installment-loan payments and links this bias to real balance-sheet
+    choices in the Survey of Consumer Finances, showing that more-biased households borrow
+    more—especially at short maturities—save less, hold lower net worth, and favor shorter-horizon
+    positions, while the maturity pattern and weak relation to generic sophistication support a specific
+    compounding misperception mechanism and outside financial advice appears to mitigate the associated
+    wealth penalty.
