@@ -16858,3 +16858,13 @@
     decentralized markets still generate too little entry and diversity and too-high circulation prices
     relative to the surplus-maximizing allocation, with policy effects depending critically on which
     side of the reader-advertiser platform is regulated.
+- title: "Cohen, Gompers, and Vuolteenaho (JFE, 2002) - Who Underreacts to Cash-Flow News? Evidence from Trading between Individuals and Institutions"
+  file: "https://www.dropbox.com/scl/fi/tgbx0n8v1b16lkg619uzc/Cohen_Gompers_Vuolteenaho_JFE_2002.pdf?rlkey=rq4k87nyslz43x1d1m4u6fxn8&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a firm-level VAR to decompose unexpected returns into
+    permanent cash-flow news and expected-return news and finds an underreaction coefficient of about
+    0.59, with institutions buying from individuals after positive cash-flow news and selling after
+    negative news while selling rather than chasing price increases unsupported by fundamentals;
+    underreaction is strongest in small stocks and after bad news, but aggregate institutional
+    portfolios remain close to the market portfolio, suggesting informed but constrained arbitrage due
+    to benchmarking, mandates, and short-sale limits.
