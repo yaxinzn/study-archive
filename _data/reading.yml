@@ -16773,3 +16773,13 @@
     cultivation of crops vulnerable to livestock damage, with timing, robustness, and limited
     cattle-response evidence supporting a property-rights mechanism rather than a generic
     fencing-technology effect.
+- title: "Karlan and Zinman (Econometrica, 2009) - Observing Unobservables: Identifying Information Asymmetries with a Consumer Credit Field Experiment"
+  file: "https://www.dropbox.com/scl/fi/k9thmpchsryi1plo0dfgc/Karlan_Zinman_Econometrica_2009.pdf?rlkey=xdt7m3kf99ms3hle9cuewjrnf&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses a South African consumer-credit field experiment with
+    separate randomization of the advertised offer rate, the post-takeup contract rate, and a surprise
+    future-loan incentive to disentangle ex ante hidden information from ex post hidden action, finding
+    strong evidence of moral hazard—especially because preferential future borrowing terms reduce
+    default by roughly 13%–21% of the mean—while offer-rate effects are positive but statistically weak,
+    so asymmetric-information effects in this market appear to operate primarily through repayment
+    incentives rather than selection.
