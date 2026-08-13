@@ -16868,3 +16868,13 @@
     underreaction is strongest in small stocks and after bad news, but aggregate institutional
     portfolios remain close to the market portfolio, suggesting informed but constrained arbitrage due
     to benchmarking, mandates, and short-sale limits.
+- title: "Chan and Chen (AER, 2026) - The Productivity of Professions: Evidence from the Emergency Department"
+  file: "https://www.dropbox.com/scl/fi/zuz5rc0eox2xqpgfzhitj/Chan_Chen_AER_2026.pdf?rlkey=pjaz2fmh7wixsyesbkwj6o0eg&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Veterans Health Administration emergency-department data
+    after full practice authority for nurse practitioners and instruments NP treatment with the number
+    of NPs on duty, showing that selection makes OLS misleading while IV estimates imply about 11%
+    longer stays, 7% higher ED costs, and 20% more 30-day preventable hospitalizations under NP
+    treatment, with no significant mortality effect; the gap narrows with experience and for less
+    complex cases, while within-profession productivity dispersion is much larger than the average
+    NP-physician gap, making professional class a coarse signal for task assignment and pay.
