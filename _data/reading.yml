@@ -16950,3 +16950,13 @@
     agency signals and selection into consummated deals implies challenge thresholds of roughly
     4.8%–6.3% expected price increases and shows that stricter enforcement reduces type II errors and
     prices but requires many more challenges.
+- title: "Chalfin and Gonçalves (AER, 2026) - Professional Motivations in the Public Sector: Evidence from Police Officers"
+  file: "https://www.dropbox.com/scl/fi/qut2p3h0ifjmhudsmfj9s/Chalfin_Goncalves_AER_2026.pdf?rlkey=ulneb5fk0slqh6zhrg9fa8rmz&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits overlapping Dallas police shifts and scheduled
+    off-duty jobs to separate time-in-shift from time-of-day and opportunity-cost effects, finding that
+    arrest propensity falls roughly 30%–35% near shift end even though late arrests generate overtime,
+    while conviction, sentencing, and felony shares rise; a dynamic arrest-threshold model implies large
+    professional values for accurate enforcement, an arrest elasticity of only about 0.04 with respect
+    to expected overtime pay, and a counterfactual in which removing overtime aversion greatly raises
+    arrests but lowers average arrest quality.
