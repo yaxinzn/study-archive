@@ -16960,3 +16960,13 @@
     professional values for accurate enforcement, an arrest elasticity of only about 0.04 with respect
     to expected overtime pay, and a counterfactual in which removing overtime aversion greatly raises
     arrests but lowers average arrest quality.
+- title: "Gowrisankaran, Langer, and Reguant (AER, 2026) - Energy Transitions in Regulated Markets"
+  file: "https://www.dropbox.com/scl/fi/8bgxvra0zz09lcsakb530/Gowrisankaran_Langer_Reguant_AER_2026.pdf?rlkey=r9pcwf7vn4gcw9ebk52au92ei&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines reduced-form evidence with a dynamic structural model
+    to show that rate-of-return regulation slows the coal-to-natural-gas transition because legacy coal
+    remains valuable in the rate base and used-and-useful rules reward continued operation; regulated
+    coal responds less to out-of-dispatch-order price signals, and long-run counterfactuals show slower
+    coal retirement and much greater CCNG investment than under cost minimization, while carbon taxes
+    have muted short-run effects under regulation but stronger long-run effects through retirement,
+    highlighting the interaction between climate policy, utility incentives, and resource adequacy.
