@@ -16970,3 +16970,13 @@
     coal retirement and much greater CCNG investment than under cost minimization, while carbon taxes
     have muted short-run effects under regulation but stronger long-run effects through retirement,
     highlighting the interaction between climate policy, utility incentives, and resource adequacy.
+- title: "Kono, Saito, and Sandroni (AER, 2026) - Random Utility with Unobservable Alternatives"
+  file: "https://www.dropbox.com/scl/fi/y0bhh7rkht6dmh3kauhal/Kono_Saito_Sandroni_AER_2026.pdf?rlkey=e2i49gq3yvta0oe4ftl0zk5jl&dl=0"
+  desc: >-
+    This note summarizes the paper, which characterizes random-utility rationalizability when some
+    available alternatives have unobserved individual choice frequencies, showing that collapsing them
+    into a single outside option can discard cross-menu restrictions and falsely rationalize data; the
+    main theorem adds nonredundant balance inequalities over essential test collections to computable
+    Block-Marschak nonnegativity, a network-flow representation explains these conditions as feasibility
+    of filling missing arcs, and associated linear programs deliver sharp bounds on unobserved choice
+    probabilities that are substantially tighter than naive outside-option bounds.
