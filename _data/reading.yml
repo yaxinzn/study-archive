@@ -16898,3 +16898,14 @@
     volatility rises mainly after negative growth; this decoupling supports a
     learning-about-signal-quality interpretation, and higher subjective uncertainty predicts plans to
     cut employment and prices even conditional on expected sales growth.
+- title: "Monte, Porcher, and Rossi-Hansberg (AER, 2026) - Remote Work and City Structure"
+  file: "https://www.dropbox.com/scl/fi/lnvswlphiksu1acvcb54u/Monte_Porcher_RossiHansberg_AER_2026.pdf?rlkey=hd2y9zxz4jnchx7tufo52x0qb&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic monocentric-city model in which commuting
+    creates productivity and amenity spillovers and remote work saves commuting costs, allowing multiple
+    stationary equilibria when agglomeration is strong and relative remote productivity is intermediate;
+    combining IPUMS/NLSY work data, SafeGraph CBD trips, and Zillow housing gradients, the paper shows
+    that large cities exhibit persistent post-pandemic commuting shortfalls and flatter bid-rent
+    gradients while small cities largely recover, and a city-specific multiplicity-cone measure predicts
+    this persistence, with calibrated low-commuting equilibria generating average welfare losses of
+    about 2.3%.
