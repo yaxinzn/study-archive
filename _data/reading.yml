@@ -16878,3 +16878,13 @@
     treatment, with no significant mortality effect; the gap narrows with experience and for less
     complex cases, while within-profession productivity dispersion is much larger than the average
     NP-physician gap, making professional class a coarse signal for task assignment and pay.
+- title: "Aspelund and Russo (AER, 2026) - Additionality and Asymmetric Information in Environmental Markets: Evidence from Conservation Auctions"
+  file: "https://www.dropbox.com/scl/fi/dp3cb4bxm2odr5zqeh865/Aspelund_Russo_AER_2026.pdf?rlkey=dn5ewfyt4r5cns9vzixyzsb62&dl=0"
+  desc: >-
+    This note summarizes the paper, which links USDA Conservation Reserve Program auction bids to
+    satellite and administrative land-use data and exploits the award-score threshold in a regression
+    discontinuity design, finding that only about 22%–29% of marginal winners are additional and that
+    higher-cost, higher-bid landowners are more likely to change land use because low-cost bidders often
+    would conserve anyway; a structural bidding-and-additionality model shows that the status quo
+    auction captures only a small share of efficient welfare gains and that scoring rules using
+    predicted additionality can substantially improve environmental procurement.
