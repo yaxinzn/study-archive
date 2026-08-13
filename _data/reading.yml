@@ -16909,3 +16909,13 @@
     gradients while small cities largely recover, and a city-specific multiplicity-cone measure predicts
     this persistence, with calibrated low-commuting equilibria generating average welfare losses of
     about 2.3%.
+- title: "Haegele (AER, 2026) - Talent Hoarding in Organizations"
+  file: "https://www.dropbox.com/scl/fi/2mg5xr1fzz4f1s1bdebot/Haegele_AER_2026.pdf?rlkey=7xvdtecwpg4mhhqi6sprtbry7&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines personnel records, private performance ratings,
+    public potential ratings, internal applications, manager surveys, and manager rotations at a large
+    manufacturing firm to document talent hoarding: managers suppress worker visibility more when
+    retention incentives are stronger, and rotations that reduce the incentive to hoard raise internal
+    applications by about 78%; induced applicants have a roughly 49% chance of landing a new position
+    and are positively selected, with especially important effects for high-quality workers and women,
+    showing that locally misaligned managerial incentives distort internal talent allocation.
