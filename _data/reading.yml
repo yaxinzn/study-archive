@@ -16929,3 +16929,13 @@
     the pre-period rate; reported crime therefore masks the deterioration, and cohort comparisons,
     police-behavior tests, and mediation evidence imply an offending elasticity with respect to victim
     reporting of about -0.79, making civilian cooperation a causal input into public safety.
+- title: "Huitfeldt, Marone, and Waldinger (AER, 2026) - Designing Dynamic Reassignment Mechanisms: Evidence from GP Allocation"
+  file: "https://www.dropbox.com/scl/fi/xlgcam21y8n0ygyzqhg3z/Huitfeldt_Marone_Waldinger_AER_2026.pdf?rlkey=9yj3x10zcq3o3uyu9xx2261kt&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies Norway's capacity-constrained GP reassignment market
+    and shows directly that first-come, first-served waitlists leave mutually beneficial trades
+    unprocessed: a mechanical top-trading-cycles exercise could immediately reassign about 15% of
+    waiters; a structural model with inattention, heterogeneous GP preferences, waiting-time beliefs,
+    and dynamic endowment values finds that TTC lowers average waits and raises welfare but harms
+    patients whose current GP is undersubscribed, while TTC with priority preserves about 56% of TTC's
+    welfare gains and protects this disadvantaged endowment group.
