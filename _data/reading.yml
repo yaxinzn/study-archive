@@ -17061,3 +17061,14 @@
     markets. A one-standard-deviation increase in concentration predicts roughly six percentage points
     higher crisis-period stock returns, supporting the interpretation that scalable diversification
     reduced local screening.
+- title: "Massa, Reuter, and Zitzewitz (JFE, 2010) - When Should Firms Share Credit with Employees? Evidence from Anonymously Managed Mutual Funds"
+  file: "https://www.dropbox.com/scl/fi/mok5yu2dk42dvnkx0gaaz/Massa_Reuter_Zitzewitz_JFE_2010.pdf?rlkey=0mvczudm95l7y1i19bawqaauc&dl=0"
+  desc: >-
+    This note summarizes the paper, which treats the disclosure of mutual-fund manager names as a
+    strategic allocation of credit between firms and employees. Using CRSP and Morningstar data for U.S.
+    funds from 1993-2004, plus media mentions, flows, holdings, IPO allocations, manager departures, and
+    hedge-fund growth, the authors compare sole-managed, co-managed, and anonymous funds with rich fixed
+    effects. Anonymous management rises from 3.9% to 18.5% overall and from 2.7% to 30.4% among new
+    funds. Named-manager no-load funds attract roughly 3-4% more assets annually and have return gaps
+    about four basis points higher per month, but departures reduce flows; hedge-fund expansion explains
+    roughly 10%-40% of the anonymity increase.
