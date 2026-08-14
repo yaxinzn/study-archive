@@ -17015,3 +17015,13 @@
     fall 3.8%, EDGAR page views 14.1%, and buy-side analyst reports 10.8%. Yet variance ratios, anomaly
     mispricing, and post-earnings-announcement drift do not change measurably, supporting endogenous
     adjustment by the remaining active investors rather than a deterioration in price efficiency.
+- title: "Chinco and Sammon (JFE, 2024) - The Passive Ownership Share Is Double What You Think It Is"
+  file: "https://www.dropbox.com/scl/fi/xpeqzrpvqxnz7xrre56o9/Chinco_Sammon_JFE_2024.pdf?rlkey=jr4r6bxnfqfdipokzbx2k3gyp&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a revealed-demand measure of passive ownership from
+    trading volume on index-reconstitution days. Using additions and deletions for the S&P 500, S&P
+    MidCap 400, Russell 1000, Russell 2000, and Nasdaq 100 from 2000-2021, the authors infer indexed
+    assets as rebalancing dollar volume divided by the stock's index weight. They estimate that passive
+    investors owned 33.5% of the U.S. market in 2021, versus the ICI's 16% index-fund share; a
+    late-day-volume measure still gives 24.6%. Rebalancing is concentrated near the close, consistent
+    with synchronized and often prearranged trades whose price impact can precede execution.
