@@ -17004,3 +17004,14 @@
     trading or lower trader information costs can improve rating accuracy, while stronger direct
     reputational discipline can crowd out market information. Welfare effects are ambiguous because CRAs
     may underinvest or overinvest in accuracy.
+- title: "Coles, Heath, and Ringgenberg (JFE, 2022) - On Index Investing"
+  file: "https://www.dropbox.com/scl/fi/8a1e4mb7cm9g1p5qrcnfx/Coles_Heath_Ringgenberg_JFE_2022.pdf?rlkey=bl92qjs42sbqeeipgc22pmzdf&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends Grossman-Stiglitz to include passive investors and
+    exploits post-2007 Russell 1000/2000 banding in a difference-in-differences design comparing index
+    switchers with nearby stayers. Switching into the Russell 2000 raises passive ownership by about 2%
+    of market capitalization and produces a similar fall in active ownership. It also raises turnover,
+    short interest, volatility, and index comovement. Information production declines: Google searches
+    fall 3.8%, EDGAR page views 14.1%, and buy-side analyst reports 10.8%. Yet variance ratios, anomaly
+    mispricing, and post-earnings-announcement drift do not change measurably, supporting endogenous
+    adjustment by the remaining active investors rather than a deterioration in price efficiency.
