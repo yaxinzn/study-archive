@@ -17049,3 +17049,15 @@
     under perfect competition; price impact cuts the latter to about $129,000. Advance GDP information
     is worth about $1.37 million to the large multiasset investor, or $836,000 with price impact,
     revealing strong heterogeneity by wealth, mandate, existing data, horizon, and liquidity.
+- title: "Loutskina and Strahan (RFS, 2011) - Informed and Uninformed Investment in Housing: The Downside of Diversification"
+  file: "https://www.dropbox.com/scl/fi/6no0sm5naqk6tg7ajb0as/Loutskina_Strahan_RFS_2011.pdf?rlkey=y0elntn5ly0w3hixbhh73f3tl&dl=0"
+  desc: >-
+    This note summarizes the paper, which asks whether geographic diversification weakens mortgage
+    lenders' production of private information. Using 1992-2007 HMDA applications matched to bank
+    regulatory data, the authors measure lender concentration across MSAs, compare jumbo with conforming
+    loans, and run within-bank primary-versus-satellite-market tests. Concentrated lenders approve about
+    88.1% of applications versus 86.3% for diversified lenders and retain 81.8% of originations versus
+    73.3%; regression estimates likewise show higher acceptance and retention, especially in core
+    markets. A one-standard-deviation increase in concentration predicts roughly six percentage points
+    higher crisis-period stock returns, supporting the interpretation that scalable diversification
+    reduced local screening.
