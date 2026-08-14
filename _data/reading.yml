@@ -17037,3 +17037,15 @@
     followed by five-day abnormal-return reversals of roughly 0.8 percentage points overall and 1.6
     points among low-institutional-ownership stocks. Fractional trading also raises their incidence of
     meme-stock-like bubbles, especially where feedback effects are stronger.
+- title: "Farboodi, Singal, Veldkamp, and Venkateswaran (RFS, 2025) - Valuing Financial Data"
+  file: "https://www.dropbox.com/scl/fi/c4v1vbwtt544j9ahcwwvq/Farboodi_Singal_Veldkamp_Venkateswaran_RFS_2025.pdf?rlkey=gq8q4oxv68li95op0gubzc3ry&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a sufficient-statistics framework for valuing an
+    investor's access to financial data in a noisy rational-expectations market. The data's private
+    dollar value is the certainty-equivalent gain from reducing conditional return-forecast variance,
+    and can be estimated from expected returns plus unconditional and conditional covariance matrices,
+    without recovering every investor's primitives. Applications to I/B/E/S earnings forecasts show
+    valuations of about $3,130 for a $500,000 investor and $1.06 million for a $250 million investor
+    under perfect competition; price impact cuts the latter to about $129,000. Advance GDP information
+    is worth about $1.37 million to the large multiasset investor, or $836,000 with price impact,
+    revealing strong heterogeneity by wealth, mandate, existing data, horizon, and liquidity.
