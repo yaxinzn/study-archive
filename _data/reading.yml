@@ -16980,3 +16980,15 @@
     Block-Marschak nonnegativity, a network-flow representation explains these conditions as feasibility
     of filling missing arcs, and associated linear programs deliver sharp bounds on unobserved choice
     probabilities that are substantially tighter than naive outside-option bounds.
+- title: "Fulghieri, Strobl, and Xia (RFS, 2014) - The Economics of Solicited and Unsolicited Credit Ratings"
+  file: "https://www.dropbox.com/scl/fi/ud7u5hl1rj6fhifgkv8s2/Fulghieri_Strobl_Xia_RFS_2014.pdf?rlkey=2b8clbxhfuy9jxn9onr26kp3k&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic rational-expectations reputation model of
+    issuer-paid credit ratings in which agencies may misreport quality and issue unsolicited ratings. An
+    opportunistic CRA trades current fee income from inflated ratings against future reputational
+    losses. Allowing unsolicited ratings gives the agency a credible threat: issuers that refuse to buy
+    may receive an unfavorable rating, raising solicited-rating fees while unfavorable disclosures can
+    build reputation. In equilibrium, unsolicited ratings are lower because bad issuers self-select into
+    the unsolicited pool, not necessarily because agencies punish nonpayers. Welfare is ambiguous
+    because reputational discipline can reduce inflation, whereas enhanced fee extraction can relax
+    standards and finance negative-NPV projects.
