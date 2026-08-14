@@ -16992,3 +16992,15 @@
     the unsolicited pool, not necessarily because agencies punish nonpayers. Welfare is ambiguous
     because reputational discipline can reduce inflation, whereas enhanced fee extraction can relax
     standards and finance negative-NPV projects.
+- title: "Piccolo and Shapiro (RFS, 2022) - Credit Ratings and Market Information"
+  file: "https://www.dropbox.com/scl/fi/ymkp65h9hqnnmye6dfr7s/Piccolo_Shapiro_RFS_2022.pdf?rlkey=k3056p4rhgfigcgvc6yxlpdox&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic model linking a CRA's costly accuracy
+    choice to informed trading in a CDS-like credit-risk market. More informative prices expose rating
+    errors and strengthen reputational incentives, so market informativeness and CRA accuracy are
+    strategic complements from the agency's perspective. Yet greater expected rating accuracy reduces
+    mispricing profits and the speculator's information acquisition, making them strategic substitutes
+    from the trader's perspective. The two best responses yield a unique joint equilibrium. Deeper noise
+    trading or lower trader information costs can improve rating accuracy, while stronger direct
+    reputational discipline can crowd out market information. Welfare effects are ambiguous because CRAs
+    may underinvest or overinvest in accuracy.
