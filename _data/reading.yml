@@ -17025,3 +17025,15 @@
     investors owned 33.5% of the U.S. market in 2021, versus the ICI's 16% index-fund share; a
     late-day-volume measure still gives 24.6%. Rebalancing is concentrated near the close, consistent
     with synchronized and often prearranged trades whose price impact can precede execution.
+- title: "Da, Fang, and Lin (RFS, 2025) - Fractional Trading"
+  file: "https://www.dropbox.com/scl/fi/bp0j328a031vq6z3637r6/Da_Fang_Lin_RFS_2025.pdf?rlkey=u64741utyrzijdhg1g13d67ny&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies how fractional trading relaxes whole-share
+    affordability constraints and changes retail trading and prices in high-priced stocks. Using broker
+    rollout dates in 2019-2020, matched difference-in-differences designs, off-exchange one-share trades
+    as a proxy for tiny retail orders, and Robinhood and Schwab validation tests, the authors find
+    relative increases of about 14.1% after the initial rollout and 138.7% after Fidelity's launch.
+    During retail-attention events, high-priced stocks attract more tiny trades and Reddit discussion,
+    followed by five-day abnormal-return reversals of roughly 0.8 percentage points overall and 1.6
+    points among low-institutional-ownership stocks. Fractional trading also raises their incidence of
+    meme-stock-like bubbles, especially where feedback effects are stronger.
