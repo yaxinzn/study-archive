@@ -17151,3 +17151,14 @@
     judges' crime rates, while checks on violent crime, racial disparities, and predicted-judge rules
     show that the gains reflect better ranking and reduced decision noise rather than sacrificing
     omitted objectives.
+- title: "Ludwig and Mullainathan (QJE, 2024) - Machine Learning as a Tool for Hypothesis Generation"
+  file: "https://www.dropbox.com/scl/fi/1el0anyro6pko6i4cla43/Ludwig_Mullainathan_QJE_2024.pdf?rlkey=np3j8ap4td6toc9x3ve5ydwf7&dl=0"
+  desc: >-
+    This note summarizes the paper, which proposes a human-in-the-loop workflow for using black-box
+    machine learning to generate rather than merely test hypotheses: train a predictor on
+    high-dimensional data, establish residual predictive signal beyond known features and human
+    intuition, generate counterfactual examples along the model's prediction gradient, ask independent
+    humans to name the pattern, and validate the resulting feature in the original data; applied to
+    mug-shot pixels and judicial detention decisions, the procedure uncovers the novel visual hypotheses
+    'well-groomed' and 'heavy-faced,' which correlate with both algorithmic predictions and actual judge
+    behavior while remaining hypotheses rather than final causal claims.
