@@ -17194,3 +17194,14 @@
     routine use are separate margins of technology diffusion, with large within-country dispersion and
     stronger links between MOST and productivity, suggesting that management, human capital, and
     complementary inputs determine whether frontier access is converted into day-to-day productive use.
+- title: "Dessaint, Foucault, and Frésard (JF, 2024) - Does Alternative Data Improve Financial Forecasting? The Horizon Effect"
+  file: "https://www.dropbox.com/scl/fi/avtyubstz60ty1g71y5rl/Dessaint_Foucault_Fresard_JF_2024.pdf?rlkey=ygvhaf6kgfp84ewb3xkzm65b0&dl=0"
+  desc: >-
+    This note summarizes the paper, which models sell-side analysts as multitasking between short- and
+    long-horizon information acquisition and shows that cheaper short-term-oriented alternative data can
+    improve near-term forecasts while crowding attention away from long-term fundamental research; using
+    I/B/E/S forecasts from 1983 to 2017, industry-level alternative-data adoption, and analyst exposure
+    to the post-2009 expansion of StockTwits—including 2SLS based on hypothetical platform exposure—the
+    paper finds a progressively steeper term structure of forecast informativeness, with short-horizon
+    R-squared rising and long-horizon informativeness falling, especially when analysts face greater
+    multitasking burdens and earnings are less persistent.
