@@ -17140,3 +17140,14 @@
     long-term debt comes due during a run, and the quantitative and emerging-market evidence supports
     the view of reserves as an ex ante liquidity backstop that can lower spreads rather than simply a
     buffer to be drawn down after crises begin.
+- title: "Kleinberg, Lakkaraju, Leskovec, Ludwig, and Mullainathan (QJE, 2018) - Human Decisions and Machine Predictions"
+  file: "https://www.dropbox.com/scl/fi/0fyode19fictw8kdrffft/Kleinberg_Lakkaraju_Leskovec_Ludwig_Mullainathan_QJE_2018.pdf?rlkey=8epk3j2wrks5sltbu6w6ex4en&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses New York City bail decisions to develop a framework for
+    evaluating machine predictions when past human decisions selectively determine which outcomes are
+    observed, exploiting quasi-random assignment to judges with different leniency and algorithmic
+    contraction/reranking exercises to handle missing counterfactual labels; machine risk rankings can
+    reduce crime by roughly 14%–25% at judges' jail rates or reduce detention by roughly 19%–42% at
+    judges' crime rates, while checks on violent crime, racial disparities, and predicted-judge rules
+    show that the gains reflect better ranking and reduced decision noise rather than sacrificing
+    omitted objectives.
