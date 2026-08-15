@@ -17173,3 +17173,14 @@
     initially encourages search but increasingly informative prices eventually erode private information
     rents, so sufficiently abundant data can reduce quant search and capital even as prices become more
     informative and surviving data miners use better signals.
+- title: "Duarte, Duarte, and Silva (RFS, 2024) - Machine Learning for Continuous-Time Finance"
+  file: "https://www.dropbox.com/scl/fi/dg1sq0s07m9xcxmjfsuur/Duarte_Duarte_Silva_RFS_2024.pdf?rlkey=ipv7imx3uix1apk92tnhk7b5o&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops deep policy iteration for solving nonlinear
+    high-dimensional continuous-time finance models by representing value and policy functions with
+    neural networks and combining automatic differentiation with Ito's lemma to evaluate Bellman drift
+    terms without constructing full Hessians; the method scales to high-dimensional Lucas-tree
+    asset-pricing economies, corporate investment models with kinks, and portfolio-choice problems with
+    many predictors, matches known benchmarks, extends to jump processes, and shows economically that
+    low-dimensional tractability restrictions can themselves generate misleading asset-pricing
+    conclusions.
