@@ -17162,3 +17162,14 @@
     mug-shot pixels and judicial detention decisions, the procedure uncovers the novel visual hypotheses
     'well-groomed' and 'heavy-faced,' which correlate with both algorithmic predictions and actual judge
     behavior while remaining hypotheses rather than final causal claims.
+- title: "Dugast and Foucault (JF, 2025) - Equilibrium Data Mining and Data Abundance"
+  file: "https://www.dropbox.com/scl/fi/jbr59iw3x6mv6em4sc3lx/Dugast_Foucault_JF_2025.pdf?rlkey=89550qdj9o7hinortt7v55db2&dl=0"
+  desc: >-
+    This note summarizes the paper, which models competition for investor capital between discretionary
+    experts with fixed signal quality and data miners who optimally search over a frontier of candidate
+    predictors, distinguishing cheaper search from greater data abundance; lower processing costs
+    unambiguously raise data-miner selectivity, capital share, and price informativeness, whereas
+    expanding the data frontier has a nonmonotonic effect because a hidden-gold-nugget incentive
+    initially encourages search but increasingly informative prices eventually erode private information
+    rents, so sufficiently abundant data can reduce quant search and capital even as prices become more
+    informative and surviving data miners use better signals.
