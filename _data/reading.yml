@@ -17129,3 +17129,14 @@
     productivity-only recession can improve information and mitigate output losses, whereas a recession
     combined with funding-liquidity stress lowers informativeness, worsens capital misallocation, and
     magnifies output losses.
+- title: "Barbosa-Alves, Bianchi, and Sosa-Padilla (QJE, 2026) - International Reserve Management under Rollover Crises"
+  file: "https://www.dropbox.com/scl/fi/tbm9547m5jspwkfh8fz0h/BarbosaAlves_Bianchi_SosaPadilla_QJE_2026.pdf?rlkey=67ggv234lrd5spyzf7vi04n2p&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends a Cole-Kehoe rollover-crisis framework with
+    international reserves and long-maturity sovereign debt and shows that optimal reserve policy is
+    nonmonotonic: a highly indebted government should first reduce debt and keep reserves low, but once
+    sufficiently close to the safe region it can optimally issue additional long-term debt to accumulate
+    reserves and eliminate self-fulfilling rollover risk; maturity is crucial because only part of
+    long-term debt comes due during a run, and the quantitative and emerging-market evidence supports
+    the view of reserves as an ex ante liquidity backstop that can lower spreads rather than simply a
+    buffer to be drawn down after crises begin.
