@@ -17118,3 +17118,14 @@
     using real-estate collateral and bank-relationship duration—including an IV based on housing-supply
     elasticity interacted with mortgage rates—supports the prediction that higher collateral reduces
     reliance on relationship-based information.
+- title: "Bostanci and Ordoñez (QJE, 2026) - Business, Liquidity, and Information Cycles"
+  file: "https://www.dropbox.com/scl/fi/bb9v7l9nyyr67ojay9lt9/Bostanci_Ordonez_QJE_2026.pdf?rlkey=bror48dmyf0leop2o1rlxzu05&dl=0"
+  desc: >-
+    This note summarizes the paper, which models stock prices as jointly aggregating information about
+    firm fundamentals and liquidity needs and structurally estimates price informativeness across 16
+    countries from 1984 to 2022, showing that greater reliance on stock markets for liquidity makes
+    prices less informative about fundamentals; price informativeness is procyclical and particularly
+    weak during banking distress, and a calibrated heterogeneous-firm model implies that a
+    productivity-only recession can improve information and mitigate output losses, whereas a recession
+    combined with funding-liquidity stress lowers informativeness, worsens capital misallocation, and
+    magnifies output losses.
