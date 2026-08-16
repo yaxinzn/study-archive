@@ -17269,3 +17269,14 @@
     discriminating firms accounts for nearly half of lost Black contacts and 23 firms can be flagged at
     a 5% FDR, showing that discrimination is sufficiently concentrated for targeted organizational
     auditing to have substantial policy value.
+- title: "Freyberger, Hoeppner, Neuhierl, and Weber (RFS, 2025) - Missing Data in Asset Pricing Panels"
+  file: "https://www.dropbox.com/scl/fi/0mqw9aonj8vqaupk9i092/Freyberger_Hoeppner_Neuhierl_Weber_RFS_2025.pdf?rlkey=othkfprci3ryfr7xv07ig48ui&dl=0"
+  desc: >-
+    This note summarizes the paper, which treats missing firm characteristics as an econometric rather
+    than purely data-cleaning problem and proposes conditional-mean imputation combined with GLS/WLS
+    weighting and GMM-based inference, preserving observations with valid returns while downweighting
+    additional imputation uncertainty; simulations show performance close to efficient GMM and superior
+    to complete-case and unconditional-mean approaches, while the 82-characteristic CRSP/Compustat
+    application shows that the method improves out-of-sample return prediction and portfolio Sharpe
+    ratios and can materially change which characteristics appear to contain incremental
+    return-predictive information.
