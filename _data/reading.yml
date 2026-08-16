@@ -17280,3 +17280,14 @@
     application shows that the method improves out-of-sample return prediction and portfolio Sharpe
     ratios and can materially change which characteristics appear to contain incremental
     return-predictive information.
+- title: "Aleti and Bollerslev (RFS, 2025) - News and Asset Pricing: A High-Frequency Anatomy of the SDF"
+  file: "https://www.dropbox.com/scl/fi/63wp0seovm46pbohjka9g/Aleti_Bollerslev_RFS_2025.pdf?rlkey=t8b5eztj0xtjp77mnsofyu8rt&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a robust intraday stochastic discount factor from
+    high-frequency factor portfolios, detects 15-minute SDF jumps, and matches them to precisely timed
+    Dow Jones Newswire articles to identify which real-time news moves the pricing kernel;
+    monetary-policy and finance news explains the largest share of SDF jump variation and risk
+    compensation, followed by international affairs and macroeconomic data, with substantial time
+    variation and many important policy events occurring outside scheduled announcement windows, while
+    rate-curve comovement maps the priced news into growth, risk-premium, short-rate, and long-rate
+    shocks and links factor premia to economically interpretable news risks.
