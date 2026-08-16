@@ -17291,3 +17291,14 @@
     variation and many important policy events occurring outside scheduled announcement windows, while
     rate-curve comovement maps the priced news into growth, risk-premium, short-rate, and long-rate
     shocks and links factor premia to economically interpretable news risks.
+- title: "Bryzgalova, Lerner, Lettau, and Pelger (RFS, 2025) - Missing Financial Data"
+  file: "https://www.dropbox.com/scl/fi/wthhhba27jzp9enwiz2ql/Bryzgalova_Lerner_Lettau_Pelger_RFS_2025.pdf?rlkey=3f64wi82zkszss7qyt58f13ae&dl=0"
+  desc: >-
+    This note summarizes the paper, which documents systematic missingness across 45 widely used firm
+    characteristics and shows that requiring complete observations can exclude more than 70% of firms
+    and roughly half of market capitalization, materially changing the investment universe and
+    return-based conclusions; the proposed regularized factor-imputation framework combines
+    contemporaneous cross-sectional dependence with time-series persistence, with the look-ahead-free
+    B-XS specification outperforming median, stale-value, and one-dimensional alternatives, and the
+    resulting imputations alter market-premium estimates, IPCA Sharpe ratios, anomaly sorts,
+    risk-premium estimates, and characteristic-mimicking portfolios.
