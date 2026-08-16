@@ -17258,3 +17258,14 @@
     hiring disparities even when direct discrimination at the final evaluation is small, demonstrating
     why conventional audits that hold observed qualifications fixed can miss economically important
     upstream channels.
+- title: "Kline, Rose, and Walters (QJE, 2022) - Systemic Discrimination Among Large U.S. Employers"
+  file: "https://www.dropbox.com/scl/fi/vrudf8as9u346ivmis3dk/Kline_Rose_Walters_QJE_2022.pdf?rlkey=6p0opkls42w95fw3bjmz7np49&dl=0"
+  desc: >-
+    This note summarizes the paper, which sends more than 83,000 randomized fictitious applications to
+    entry-level vacancies at 108 large U.S. employers and uses firm-level empirical Bayes and
+    false-discovery-rate methods to estimate the distribution of discrimination, finding that
+    distinctively Black names receive about 2.1 percentage points fewer contacts while the near-zero
+    average gender gap masks large bidirectional firm heterogeneity; the top quintile of racially
+    discriminating firms accounts for nearly half of lost Black contacts and 23 firms can be flagged at
+    a 5% FDR, showing that discrimination is sufficiently concentrated for targeted organizational
+    auditing to have substantial policy value.
