@@ -17302,3 +17302,14 @@
     B-XS specification outperforming median, stale-value, and one-dimensional alternatives, and the
     resulting imputations alter market-premium estimates, IPCA Sharpe ratios, anomaly sorts,
     risk-premium estimates, and characteristic-mimicking portfolios.
+- title: "Kelly, Malamud, and Zhou (JF, 2024) - The Virtue of Complexity in Return Prediction"
+  file: "https://www.dropbox.com/scl/fi/d2cnqtc12nlgl3xzv0o2w/Kelly_Malamud_Zhou_JF_2024.pdf?rlkey=aql2r4uitnj99i5ttlda6kxtm&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows theoretically that when the true return-prediction
+    function is misspecified, expanding a model into a very large nonlinear feature space can improve
+    approximation enough that optimally shrunk out-of-sample R-squared and Sharpe ratios rise with
+    complexity; empirically, random Fourier features built from 15 standard monthly market predictors
+    and ridge regularization produce useful high-dimensional timing strategies even when the number of
+    features far exceeds the training sample, delivering positive out-of-sample prediction and
+    significant market-timing performance, mostly long-only exposures, and systematic reductions in
+    market exposure ahead of many recessions.
