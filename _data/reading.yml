@@ -17368,3 +17368,14 @@
     decompositions show that larger healthier borrowers, changing loan and covenant composition, and a
     stronger preference for avoiding nuisance renegotiations explain much of the loosening, so fewer
     violations need not imply a collapse of creditor monitoring.
+- title: "Correia, Luck, and Verner (QJE, 2026) - Failing Banks"
+  file: "https://www.dropbox.com/scl/fi/zr1r4yogzbyxf9rfykjqc/Correia_Luck_Verner_QJE_2026.pdf?rlkey=eog1uocxkkif6cfnjr1l0dc0v&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs a bank-level history of U.S. commercial-bank
+    failures from 1863 to 2024 and shows that failing banks deteriorate observably before closure
+    through asset losses, weaker solvency, boom-bust balance-sheet dynamics, and greater reliance on
+    noncore funding, making failures highly predictable from simple accounting variables in both
+    pre-FDIC and modern samples; even failures accompanied by deposit runs are linked to weak
+    fundamentals, and low historical recovery rates imply that most failed banks were fundamentally
+    insolvent under plausible assumptions, supporting a 'fundamentals first, runs later' interpretation
+    of bank crises rather than predominantly random self-fulfilling panics.
