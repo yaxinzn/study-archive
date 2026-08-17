@@ -17411,3 +17411,14 @@
     institutional reform lowers pollution locally mainly by reallocating activity toward cleaner
     industries but can increase pollution abroad as dirty production relocates, making institutions an
     environmental co-benefit rather than a first-best global pollution policy.
+- title: "Helpman, Itskhoki, Muendler, and Redding (REStud, 2017) - Trade and Inequality: From Theory to Estimation"
+  file: "https://www.dropbox.com/scl/fi/d9855f1zk3lejb97zjpxi/Helpman_Itskhoki_Muendler_Redding_RES_2017.pdf?rlkey=yak8wn93dlgcshunvyx8p744c&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Brazilian matched employer-employee data with a
+    heterogeneous-firm trade model featuring worker screening, imperfect sorting, wage bargaining, and
+    endogenous exporting to explain why much wage inequality arises within sector-occupation cells and
+    especially between firms; maximum-likelihood, GMM-bounds, and semiparametric selection estimates all
+    support positive exporter market-access wage premia, and counterfactuals imply a hump-shaped
+    relationship between trade openness and inequality, with opening from autarky raising the standard
+    deviation of log wages by about 10% in the single-destination model and roughly 19-23% when firms
+    can export to multiple destinations.
