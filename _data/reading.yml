@@ -17379,3 +17379,13 @@
     fundamentals, and low historical recovery rates imply that most failed banks were fundamentally
     insolvent under plausible assumptions, supporting a 'fundamentals first, runs later' interpretation
     of bank crises rather than predominantly random self-fulfilling panics.
+- title: "Hirshleifer, Mai, and Pukthuanthong (JF, 2025) - War Discourse and the Cross Section of Expected Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/0uoomv68lleauui7waaya/Hirshleifer_Mai_Pukthuanthong_JF_2025.pdf?rlkey=35yu45gd6k6e98lg6t28ul4jw&dl=0"
+  desc: >-
+    This note summarizes the paper, which converts roughly 160 years of New York Times war discourse
+    into a rolling, look-ahead-free textual War index and prices innovations in that index across broad
+    linear and nonlinear test-asset sets, finding a robust negative premium for war exposure that
+    survives leading factor models, alternative geopolitical and crisis-risk measures, and a traded
+    war-mimicking portfolio; the evidence establishes war discourse as a priced state variable but
+    remains consistent with both a rational hedging channel, in which high-war-beta assets insure bad
+    states, and a behavioral overvaluation channel in which salient disaster risk is overweighted.
