@@ -17313,3 +17313,14 @@
     features far exceeds the training sample, delivering positive out-of-sample prediction and
     significant market-timing performance, mostly long-only exposures, and systematic reductions in
     market exposure ahead of many recessions.
+- title: "Choukhmane and de Silva (JF, 2026) - What Drives Investors' Portfolio Choices? Separating Risk Preferences from Frictions"
+  file: "https://www.dropbox.com/scl/fi/8yr0h8ycii0u32ogcbifj/Choukhmane_deSilva_JF_2026.pdf?rlkey=62hh06cs56pd7j80053zj93qe&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits quasi-experimental changes in 401(k) defaults from
+    money-market or opt-in regimes to stock-exposed target-date funds to separate underlying portfolio
+    preferences from inertia and adjustment frictions, showing nonparametrically that more than 90% of
+    retirement investors prefer stock-market participation and that preferred equity shares decline with
+    age; a structural life-cycle model estimates moderate risk aversion around 2.54 together with
+    economically meaningful portfolio and contribution adjustment costs, implying that observed
+    conservative retirement allocations substantially overstate true aversion to risky assets when
+    defaults and frictions are ignored.
