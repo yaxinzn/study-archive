@@ -17357,3 +17357,14 @@
     agents charge illicit fees more often to apparently inexperienced users, so learning-by-doing
     improves financial inclusion not only by increasing use but also by reducing dependence on
     opportunistic intermediaries.
+- title: "Griffin, Nini, and Smith (JF, 2026) - Losing Control? The Two-Decade Decline in Loan Covenant Violations"
+  file: "https://www.dropbox.com/scl/fi/j8smz7dlqbhd9mudhppkf/Griffin_Nini_Smith_JF_2026.pdf?rlkey=qlrjc2flipewu42on4n05cwco&dl=0"
+  desc: >-
+    This note summarizes the paper, which interprets financial covenants as diagnostic tests for
+    borrower distress and decomposes the roughly 70% decline in U.S. public-firm covenant violations
+    from 1997 to 2019 into distress, true-positive, and false-positive components, finding that about
+    61% of the decline comes from fewer false positives, 25% from lower distress, and only 14% from
+    reduced true-positive detection; a structural ROC-style covenant-design model and Blinder-Oaxaca
+    decompositions show that larger healthier borrowers, changing loan and covenant composition, and a
+    stronger preference for avoiding nuisance renegotiations explain much of the loosening, so fewer
+    violations need not imply a collapse of creditor monitoring.
