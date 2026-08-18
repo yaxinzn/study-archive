@@ -17422,3 +17422,14 @@
     relationship between trade openness and inequality, with opening from autarky raising the standard
     deviation of log wages by about 10% in the single-destination model and roughly 19-23% when firms
     can export to multiple destinations.
+- title: "Brugués (AER, 2026) - Take the Goods and Run: Contracting Frictions and Market Power in Supply Chains"
+  file: "https://www.dropbox.com/scl/fi/c2oj9lbnz245gugjdz94n/Brugues_AER_2026.pdf?rlkey=5le7j0n9gpyx21gyjqccyhb58&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Ecuadorian electronic invoices, VAT relationship
+    histories, and seller financial statements with an estimated dynamic nonlinear-pricing model in
+    which buyers can default on trade credit and sellers have market power, showing that limited
+    enforcement makes new relationships severely inefficient but gradually backloads quantities and
+    buyer rents so that trade moves toward the first best as relationship value accumulates; sellers
+    still capture about 80% of surplus, and counterfactuals reveal a second-best interaction in which
+    removing enforcement frictions alone can reduce efficiency in mature relationships because the
+    threat of buyer default had disciplined seller market power.
