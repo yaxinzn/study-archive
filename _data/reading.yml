@@ -17477,3 +17477,14 @@
     model shows that transfer multipliers vary from below one to above two and are maximized by
     targeting high-throughput spenders whose demand reaches slack cells, not necessarily the households
     directly hit by a shock or those with the highest unemployment.
+- title: "Baron, Laeven, Pénasse, and Usenko (QJE, 2026) - Permanent Capital Losses after Banking Crises"
+  file: "https://www.dropbox.com/scl/fi/t6jhu3o84yjzru4c4cc5b/Baron_Laeven_Penasse_Usenko_QJE_2026.pdf?rlkey=wzvg6rtsxn94at0ebnucey7g1&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines bank and nonfinancial equity returns across 46
+    economies since 1870 with detailed bank-level accounting and policy-intervention data to distinguish
+    temporary crisis dislocations from permanent bank-value destruction, finding that large bank equity
+    crashes are not followed by sustained abnormal rebounds but instead forecast persistently lower
+    dividends and earnings; delayed asset write-downs and postcrisis NPLs explain most realized losses,
+    while liquidity interventions and guarantees produce only limited recovery once large equity losses
+    have occurred, implying that bank-equity crises are primarily capitalization and asset-quality
+    problems requiring balance-sheet repair rather than liquidity support alone.
