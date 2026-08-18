@@ -17466,3 +17466,14 @@
     the theory contrasts shift-invariant demand with standard homothetic models and shows that this
     measurement distinction materially changes conclusions about markup dynamics, entry, inflation
     volatility, and the CPI response to oil shocks.
+- title: "Andersen, Huber, Johannesen, Straub, and Vestergaard (QJE, 2026) - Disaggregated Economic Accounts"
+  file: "https://www.dropbox.com/scl/fi/pk1cz2zjvyssjt0fnoypi/Andersen_Huber_Johannesen_Straub_Vestergaard_QJE_2026.pdf?rlkey=949spc7eep5nkn6ngt8897f0v&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds an internally consistent cell-to-cell circular flow of
+    money for Denmark using geocoded bank transactions and administrative data, linking thousands of
+    consumer and producer cells through consumption, labor and profit income, intermediate trade,
+    government flows, foreign trade, and saving; the resulting spending-intensity statistic traces how a
+    recipient's spending ultimately reaches target labor markets, and a calibrated general-equilibrium
+    model shows that transfer multipliers vary from below one to above two and are maximized by
+    targeting high-throughput spenders whose demand reaches slack cells, not necessarily the households
+    directly hit by a shock or those with the highest unemployment.
