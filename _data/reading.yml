@@ -17566,3 +17566,14 @@
     category-specific trackers also predict future equity returns and, when interacted with firms' 10-K
     risk-factor exposures, explain cross-sectional realized volatility and time-varying return
     comovement.
+- title: "Gálvez and Paz-Pardo (JFE, 2026) - Richer Earnings Dynamics, Consumption and Portfolio Choice over the Life Cycle"
+  file: "https://www.dropbox.com/scl/fi/e0ikpkkwy43vgpaitpe8r/Galvez_Pazpardo_JFE_2026.pdf?rlkey=ucpds5jd0beutc6jf5o6v8hoy&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a nonlinear, age-dependent and non-normal
+    idiosyncratic earnings process from PSID data and embeds it in a life-cycle model with consumption,
+    housing, saving, and stock-market participation, showing that realistic downside labor-income risk
+    makes human wealth less bond-like and rationally lowers optimal stock exposure; relative to a
+    canonical Gaussian process, the richer specification matches household portfolio moments with
+    substantially lower risk aversion, 6.83 instead of 11.16, and lower annual participation costs,
+    about $135 instead of $390, while materially changing portfolio advice for older and high-earning
+    households exposed to left-tail earnings risk.
