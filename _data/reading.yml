@@ -17588,3 +17588,14 @@
     responds to boom-time deviation incentives by hiding information rather than cutting prices,
     generating strategic price rigidity, supra-monopoly prices in some states, and antitrust concerns
     about more accurate algorithms that selectively reveal information.
+- title: "Bordalo, Gennaioli, Lanzani, and Shleifer (QJE, 2026) - A Cognitive Theory of Reasoning and Choice"
+  file: "https://www.dropbox.com/scl/fi/oi6fwenpb2zqb5dneh8z0/Bordalo_Gennaioli_Lanzani_Shleifer_QJE_2026.pdf?rlkey=ns1p4rvnewtqo7dll9renbj1j&dl=0"
+  desc: >-
+    This note summarizes the paper, which models decision making as a two-stage process in which people
+    first recognize a problem as belonging to a category from past experience and then choose using the
+    category's endogenous attention representation, so payoff-irrelevant context, category frequency,
+    and bottom-up salience can change which attributes and probabilities receive weight even when
+    objective tastes and information are fixed; the framework generates context-dependent price
+    sensitivity, mental-accounting effects, shifting statistical reasoning, and unstable risky choice,
+    unifying several behavioral anomalies as consequences of endogenous problem representation rather
+    than separate preference distortions.
