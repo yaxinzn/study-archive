@@ -17577,3 +17577,14 @@
     substantially lower risk aversion, 6.83 instead of 11.16, and lower annual participation costs,
     about $135 instead of $390, while materially changing portfolio advice for older and high-earning
     households exposed to left-tail earnings risk.
+- title: "Sugaya and Wolitzky (QJE, 2026) - Collusion with Optimal Information Disclosure"
+  file: "https://www.dropbox.com/scl/fi/xhrlrwv8s84ved7h6ciha/Sugaya_Wolitzky_QJE_2026.pdf?rlkey=49vksxqpal35smbeb8e4i44w4&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies repeated Bertrand competition when a common pricing
+    intermediary observes demand or cost better than firms and optimally chooses what information to
+    disclose in order to maximize collusive profit, reducing the repeated-game problem to a static
+    information-design problem with an incentive-capped monopoly-profit objective; with stochastic
+    demand the optimal policy is upper censorship—reveal low states but pool high states—so the cartel
+    responds to boom-time deviation incentives by hiding information rather than cutting prices,
+    generating strategic price rigidity, supra-monopoly prices in some states, and antitrust concerns
+    about more accurate algorithms that selectively reveal information.
