@@ -17555,3 +17555,14 @@
     demand, and counterfactuals show that the ECB's favorable collateralized lending terms substantially
     relaxed this constraint, with output, investment, and capital declines roughly twice as large under
     a constant-central-bank-balance-sheet policy.
+- title: "Baker, Bloom, Davis, and Kost (JFE, 2026) - Policy News and Stock Market Volatility"
+  file: "https://www.dropbox.com/scl/fi/2s7idu1s4wh6t8p12pvhv/Baker_Bloom_Davis_Kost_JFE_2026.pdf?rlkey=0dn46iiyu5mma66iy7m6d2ftc&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs newspaper-based Equity Market Volatility trackers
+    from articles jointly discussing the economy, equities, and volatility and then decomposes those
+    articles into roughly forty interpretable news categories, showing that the headline EMV index
+    closely tracks the VIX and realized S&P 500 volatility while policy topics such as fiscal, monetary,
+    regulatory, and national-security news account for a large and time-varying share of volatility;
+    category-specific trackers also predict future equity returns and, when interacted with firms' 10-K
+    risk-factor exposures, explain cross-sectional realized volatility and time-varying return
+    comovement.
