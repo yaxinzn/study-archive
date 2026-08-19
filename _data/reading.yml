@@ -17610,3 +17610,14 @@
     asset-pricing moments, while a steady-state shift to DC-only plans raises private saving but does
     not fully replace pension-fund wealth, raising the safe rate, lowering the equity premium and Sharpe
     ratio, increasing retiree consumption risk, and reducing worker consumption risk.
+- title: "Dai, Qin, and Wang (JF, 2026) - Dynamic Trading with Realization Utility"
+  file: "https://www.dropbox.com/scl/fi/rrzkz9ofjsmhsg0su3dc9/Dai_Qin_Wang_JF_2026.pdf?rlkey=4voqubbxm4tc1123qg149jc8o&dl=0"
+  desc: >-
+    This note summarizes the paper, which extends realization-utility models by adding a dynamic
+    trading-account mental budget that lets investors choose saving or leverage in addition to when to
+    realize gains and losses, showing that saving reduces the risky position and weakens the disposition
+    effect whereas leverage magnifies downside exposure and strengthens it; leverage constraints
+    therefore induce earlier loss realization, and with jump risk the model generates new deep-loss
+    trading regions in which investors may sell immediately after a sharp loss or wait for a small
+    rebound before realizing it, linking account-level risk allocation to stock-level realization
+    behavior.
