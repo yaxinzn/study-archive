@@ -17632,3 +17632,14 @@
     extreme-forecast, and low-idiosyncratic-volatility strategies, with especially large gains for
     complex models, showing that the economic value of machine-learning return forecasts depends on both
     the predicted premium and how precisely that premium is estimated.
+- title: "Faccini, Lee, Luetticke, Ravn, and Renkin (AER, 2026) - Financial Frictions: Micro versus Macro Volatility"
+  file: "https://www.dropbox.com/scl/fi/s9k8we8z599fhwku7b7td/Faccini_Lee_Luetticke_Ravn_Renkin_AER_2026.pdf?rlkey=sfx9pvo829wbfb1p89ri5wtqx&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Danish household administrative balance sheets with
+    bank interest-rate data to document countercyclical consumer credit spreads and sharply
+    heterogeneous consumption responses around the zero-net-wealth region, then embeds these facts in a
+    HANK model with bank-mediated consumer and corporate credit and a Gertler-Karadi-style leverage
+    constraint; endogenous spreads amplify capital-quality and monetary shocks through both investment
+    and household consumption and generate countercyclical MPCs, while reducing bank leverage weakens
+    aggregate volatility but raises steady-state borrowing costs, household consumption volatility, and
+    welfare losses, producing a genuine macro-stability versus micro-risk trade-off.
