@@ -17621,3 +17621,14 @@
     trading regions in which investors may sell immediately after a sharp loss or wait for a small
     rebound before realizing it, linking account-level risk allocation to stock-level realization
     behavior.
+- title: "Allena (RFS, 2026) - Confident Risk Premiums and Investments Using Machine Learning Uncertainties"
+  file: "https://www.dropbox.com/scl/fi/m8w8lut9sn4zmrb2v3451/Allena_RFS_2026.pdf?rlkey=vcpibvmw4dd8oyuc1vt1mkiws&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives ex-ante forecast variances and confidence intervals
+    for stock-level risk-premium predictions from linear, penalized, and neural-network models and uses
+    them to form Confident-HL portfolios that trade only high- and low-forecast stocks whose predictions
+    are relatively precise; forecast variance strongly predicts subsequent forecast errors and filtering
+    on confidence raises out-of-sample returns and Sharpe ratios relative to conventional high-low,
+    extreme-forecast, and low-idiosyncratic-volatility strategies, with especially large gains for
+    complex models, showing that the economic value of machine-learning return forecasts depends on both
+    the predicted premium and how precisely that premium is estimated.
