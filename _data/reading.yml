@@ -17717,3 +17717,14 @@
     sell-side analyst application shows how vague rating language and hidden retention contracts can
     jointly screen analyst skill and influence clients, while greater contractual transparency can
     improve receiver welfare.
+- title: "Huang, Nozawa, and Shi (JF, 2025) - The Global Credit Spread Puzzle"
+  file: "https://www.dropbox.com/scl/fi/btx6f7zcwgijccjlfsvno/Huang_Nozawa_Shi_JF_2025.pdf?rlkey=ncaolta96ez6919dok4cjczdr&dl=0"
+  desc: >-
+    This note summarizes the paper, which calibrates structural corporate-credit models to default and
+    recovery data across eight developed economies and documents a global credit spread puzzle: pure
+    default-risk models systematically underpredict many investment-grade bond spreads, including
+    spreads over swap rates, and stationary leverage improves but does not eliminate the gap; adding OTC
+    secondary-market search and bargaining frictions generates an endogenous liquidity component that
+    substantially improves both average and cross-sectional fit, with estimated liquidity parameters
+    aligning with independent measures of dealer coverage, downgrade and index-exclusion costs, and
+    investor composition.
