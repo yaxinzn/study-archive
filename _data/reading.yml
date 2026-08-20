@@ -17676,3 +17676,13 @@
     optimality region into finer regions—whereas meaningful action removal generally lowers information
     value, yielding sharp implications for delegation, information acquisition, and screening when
     information itself is the product.
+- title: "Acemoglu and Loebbing (JPE, 2026) - Automation and Polarization"
+  file: "https://www.dropbox.com/scl/fi/amomhpjs16dzb76mracyx/Acemoglu_Loebbing_JPE_2026.pdf?rlkey=7p9pw106v8e89jdb3cgja7v16&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an assignment model in which capital can profitably
+    automate an interior interval of intermediate-complexity tasks rather than simply the lowest-skill
+    tasks, because automation depends jointly on capital's task-specific productivity and the wage of
+    the displaced worker; as capital becomes more productive, the automated interval expands and workers
+    are reassigned toward the bottom and top of the remaining task distribution, generating employment
+    and wage polarization, while sufficiently large productivity gains can shift the economy into
+    low-skill automation and make later automation disproportionately harmful to workers at the bottom.
