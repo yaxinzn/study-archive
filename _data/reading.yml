@@ -17706,3 +17706,14 @@
     persistent gains that remain after the manager leaves; mediation, time-use, flexible-project, and
     opportunity-set evidence indicates that managers discover worker-specific skills and help employees
     access better-fitting roles, with lateral moves explaining a large share of the long-run pay effect.
+- title: "Deb, Pai, and Said (JPE, 2026) - Indirect Persuasion"
+  file: "https://www.dropbox.com/scl/fi/xmaukaurryo3rg48ac724/Deb_Pai_Said_JPE_2026.pdf?rlkey=l2rpbm8hwomzj3fs7hdltuqgo&dl=0"
+  desc: >-
+    This note summarizes the paper, which microfounds commitment in Bayesian persuasion through ordinary
+    organizational contracting: an uninformed principal privately randomizes over contracts observed by
+    an informed agent but not by the receiver, so public messages can carry precise private meanings for
+    contracting while remaining coarser persuasion signals for the receiver; under payoff separability
+    every optimal direct full-commitment mechanism is implementable in sequential equilibrium, and the
+    sell-side analyst application shows how vague rating language and hidden retention contracts can
+    jointly screen analyst skill and influence clients, while greater contractual transparency can
+    improve receiver welfare.
