@@ -17665,3 +17665,14 @@
     by independent family wealth, and poor MBS performance subsequently reduces banks' outside
     commercial activity, supporting a mechanism in which reputation works only when decision makers
     personally internalize long-run reputational losses.
+- title: "Whitmeyer (JPE, 2026) - Making Information More Valuable"
+  file: "https://www.dropbox.com/scl/fi/dbymilfs43acsdxjuorch/Whitmeyer_JPE_2026.pdf?rlkey=7uwiblz2etequov07iirovxow&dl=0"
+  desc: >-
+    This note summarizes the paper, which gives a Blackwell-style ordering of decision problems by
+    proving that a transformation makes every information structure more valuable, and never reduces
+    endogenous learning under posterior-separable costs, if and only if the transformed belief-value
+    function becomes more convex relative to the original one; for finite action sets, adding one action
+    raises information value exactly when the new action is refining—cutting a single existing
+    optimality region into finer regions—whereas meaningful action removal generally lowers information
+    value, yielding sharp implications for delegation, information acquisition, and screening when
+    information itself is the product.
