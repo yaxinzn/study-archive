@@ -17643,3 +17643,14 @@
     and household consumption and generate countercyclical MPCs, while reducing bank leverage weakens
     aggregate volatility but raises steady-state borrowing costs, household consumption volatility, and
     welfare losses, producing a genuine macro-stability versus micro-risk trade-off.
+- title: "Chiang and Zoch (REStud, 2026) - Financial Intermediation and Aggregate Demand: A Sufficient Statistics Approach"
+  file: "https://www.dropbox.com/scl/fi/2li7qurbn7wa9a4thn9cg/Chiang_Zoch_RES_2026.pdf?rlkey=floz7zorwcxfwt5wyb89bwiwx&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that the local macroeconomic effects of a broad class of
+    financial-friction models can be summarized by empirically measurable financial-sector
+    liquidity-supply elasticities rather than by committing to one intermediary microfoundation;
+    estimating U.S. banking-sector leverage sensitivities and embedding them in a two-asset HANK model,
+    the paper finds much more elastic liquidity supply than standard Gertler-Karadi-Kiyotaki
+    calibrations, which materially lowers the asset-market amplification of fiscal and balance-sheet
+    policies, reduces the implied power of asset purchases, and can make household tax cuts more
+    expansionary because they operate directly through high MPCs.
