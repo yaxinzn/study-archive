@@ -17790,3 +17790,14 @@
     counterfactuals allow quality convergence fits the data better under uniform pricing and shows that
     branch divestitures can either help or hurt depositors, so merger review should model network-level
     pricing rules rather than infer welfare mechanically from local concentration.
+- title: "Allen and Li (JF, 2025) - Dynamic Competition in Negotiated Price Markets"
+  file: "https://www.dropbox.com/scl/fi/p3f7v9tirbiw23cpf2gqs/Allen_Li_JF_2025.pdf?rlkey=gkfff5qunsx9p9qz5qd4p6bko&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a finite-horizon dynamic search-and-bargaining model
+    of Canadian mortgage origination and renewal and shows that lenders follow an invest-and-harvest
+    strategy: they price aggressively to acquire or poach customers when future incumbency rents are
+    valuable, then charge loyalty premia to locked-in renewers; local lender availability helps
+    separately identify search from switching costs, the estimated model rejects static competition, and
+    counterfactuals show that mobility frictions interact nonadditively and that policies such as longer
+    mortgage terms or renewal stress tests can change current pricing by altering the continuation value
+    of customer relationships.
