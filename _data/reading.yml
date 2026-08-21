@@ -17843,3 +17843,14 @@
     firm-specific policy and performance information, while GenAI-consistent trades substantially
     outperform inconsistent trades, implying complementarity between low-cost generative AI and existing
     organizational capabilities.
+- title: "Bali, Kelly, Mörke, and Rahman (RFS, 2026) - Machine Forecast Disagreement"
+  file: "https://www.dropbox.com/scl/fi/bgfp1qhptsikdt54cccxq/Bali_Kelly_Morke_Rahman_RFS_2026.pdf?rlkey=y64d82512awjqjxgzzqai4yl3&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs machine forecast disagreement as the dispersion of
+    stock-level return predictions across heterogeneous machine-learning investor-models that differ in
+    information sets and model specifications, showing that high-disagreement stocks earn much lower
+    subsequent returns even after broad factor, characteristic, and anomaly controls; the effect is
+    strongest for overvalued stocks, around earnings-announcement corrections, and when borrowing fees
+    or other arbitrage costs are high, while model-based disagreement is especially important,
+    supporting a Miller-style disagreement-and-short-sale-constraints mispricing channel rather than
+    standard risk compensation.
