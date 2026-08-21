@@ -17780,3 +17780,13 @@
     debt, higher interest rates, lower effort, and greater default than a one-bank commitment benchmark,
     providing a classic rationale for covenants, restrictions on further borrowing, and creditor
     coordination.
+- title: "Granja and Paixão (JFE, 2026) - Bank Consolidation and Uniform Pricing"
+  file: "https://www.dropbox.com/scl/fi/p6yr5wq4o5zi35ko0yuy4/Granja_Paixao_jfe_2026.pdf?rlkey=9ju3w09vstbbdrwjkguj5d33y&dl=0"
+  desc: >-
+    This note summarizes the paper, which documents that retail bank rates are much more uniform within
+    bank networks than across banks and that acquired branches' rates converge toward acquirer rates
+    after mergers, making pre-merger rate gaps more informative about post-merger pricing than local HHI
+    changes alone; a structural deposit-demand model in which both local- and uniform-pricing
+    counterfactuals allow quality convergence fits the data better under uniform pricing and shows that
+    branch divestitures can either help or hurt depositors, so merger review should model network-level
+    pricing rules rather than infer welfare mechanically from local concentration.
