@@ -17832,3 +17832,14 @@
     simple averaging or active screening; team forecasts are more accurate, leadership responds to past
     mistakes, and field evidence from mutual funds shows that the same managers extrapolate less when
     managing in teams, especially when their solo behavior is strongly extrapolative.
+- title: "Sheng, Sun, Yang, and Zhang (RFS, 2026) - Generative AI and Asset Management"
+  file: "https://www.dropbox.com/scl/fi/quvtubc545ovlao1pnjs0/Sheng_Sun_Yang_Zhang_RFS_2026.pdf?rlkey=wnqkhshehjtsz4eph6o3s9xpf&dl=0"
+  desc: >-
+    This note summarizes the paper, which infers hedge-fund GenAI reliance from the incremental
+    explanatory power of ChatGPT-generated earnings-call signals for 13F portfolio changes and documents
+    a sharp post-2022 adoption increase that is independently validated by manager surveys; after GPT
+    becomes available, greater GenAI reliance predicts roughly 2–4% higher annualized abnormal returns,
+    with benefits concentrated among large, active, AI-skilled hedge funds and driven mainly by
+    firm-specific policy and performance information, while GenAI-consistent trades substantially
+    outperform inconsistent trades, implying complementarity between low-cost generative AI and existing
+    organizational capabilities.
