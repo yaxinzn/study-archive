@@ -17812,3 +17812,13 @@
     future crashes and parameter instability is associated with wider option spreads, and shows that
     flexible random forests dominate for very short-dated pricing while structural restrictions provide
     better longer-horizon generalization and hedging information.
+- title: "Ke (JF, 2025) - Intrahousehold Disagreement about Macroeconomic Expectations"
+  file: "https://www.dropbox.com/scl/fi/m7smdgf4ihd9dgmq2p65n/Ke_JF_2025.pdf?rlkey=heg334a6d0twvslevpyi0n4fr&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Health and Retirement Study beliefs from both spouses
+    with a preregistered randomized portfolio experiment to show that macroeconomic disagreement inside
+    households is large, persistent, and financially consequential: roughly five in six couples disagree
+    and within-household heterogeneity accounts for about 40% of total expectation variance, while the
+    couple's mean stock-return belief raises stockholding but disagreement independently lowers
+    participation and equity shares; experimentally assigned spouse optimism increases risky investment,
+    spouse pessimism reduces it, and spouse beliefs matter more than stranger beliefs.
