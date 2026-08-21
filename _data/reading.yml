@@ -17760,3 +17760,13 @@
     estimation produces field parameters close to laboratory prospect-theory benchmarks, and the fact
     that prospect-theory-driven flows do not predict superior future alpha supports a behavioral demand
     rather than smart-money interpretation.
+- title: "Maingi (JFE, 2026) - Regional Banks, Aggregate Effects"
+  file: "https://www.dropbox.com/scl/fi/ucy6k74jfjh6o7uhzbaoq/Maingi_JFE_2026.pdf?rlkey=39h0pb6vihb5l0xotkgmnkd2a&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds bank-county lending networks in a quantitative spatial
+    general-equilibrium model and uses fracking-induced deposit shocks to identify lending frictions,
+    then applies the model to the 2023 regional-bank panic; deposits moved toward regional banks with
+    stronger model-implied marginal lending opportunities and higher deposit rates, so actual
+    bank-specific flows reduced aggregate output by only about 0.2% versus 1.85% under a
+    regional-bank-focused outflow counterfactual, showing that the cross-sectional reallocation of
+    deposits can substantially offset the real effects of aggregate funding stress.
