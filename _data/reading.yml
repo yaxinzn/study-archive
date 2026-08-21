@@ -17801,3 +17801,14 @@
     counterfactuals show that mobility frictions interact nonadditively and that policies such as longer
     mortgage terms or renewal stress tests can change current pricing by altering the continuation value
     of customer relationships.
+- title: "Chen, Didisheim, and Scheidegger (JFE, 2026) - Deep Surrogates for Finance: With an Application to Option Pricing"
+  file: "https://www.dropbox.com/scl/fi/ppk8zp08fdy72hc05er63/Chen_Didisheim_Scheidegger_JFE_2026.pdf?rlkey=xpcfjmkj1riloijzbsonqxid8&dl=0"
+  desc: >-
+    This note summarizes the paper, which trains neural-network deep surrogates over augmented
+    state-and-parameter spaces to preserve structural finance models while replacing repeated expensive
+    numerical evaluation, and applies the method to an extended Bates option-pricing model; the
+    surrogate makes daily structural re-estimation, gradients, tail-risk prediction, and conditional
+    return-distribution analysis computationally feasible, reveals that model-implied tail risk predicts
+    future crashes and parameter instability is associated with wider option spreads, and shows that
+    flexible random forests dominate for very short-dated pricing while structural restrictions provide
+    better longer-horizon generalization and hedging information.
