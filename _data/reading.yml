@@ -17822,3 +17822,13 @@
     couple's mean stock-return belief raises stockholding but disagreement independently lowers
     participation and equity shares; experimentally assigned spouse optimism increases risky investment,
     spouse pessimism reduces it, and spouse beliefs matter more than stranger beliefs.
+- title: "Barahona, Cassella, Jansen, and Pezone (JFE, 2026) - Do Teams Alleviate or Exacerbate Overreaction in Beliefs?"
+  file: "https://www.dropbox.com/scl/fi/ha6z3scmyrbq2zukghqkr/Barahona_Cassella_Jansen_Pezone_JFE_2026.pdf?rlkey=ynhupqlbirub2pp3zvzxz9xur&dl=0"
+  desc: >-
+    This note summarizes the paper, which randomizes forecasters into individuals or two-person teams
+    and finds that teams reduce extrapolative overreaction to recent returns by about 30% in the
+    baseline specification, with decomposition and LLM-based chat evidence showing that endogenous
+    self-selection—more biased members exerting less influence—explains most of the effect rather than
+    simple averaging or active screening; team forecasts are more accurate, leadership responds to past
+    mistakes, and field evidence from mutual funds shows that the same managers extrapolate less when
+    managing in teams, especially when their solo behavior is strongly extrapolative.
