@@ -17750,3 +17750,13 @@
     spreads upward, while U.S. aggregate and bank-level evidence shows the predicted shift from deposit
     spreads toward loan spreads and weaker equity and loan growth among banks with larger
     liability-spread compression.
+- title: "Han, Sui, and Yang (JFE, 2026) - Prospect Theory in the Field: Revealed Preferences from Mutual Fund Flows"
+  file: "https://www.dropbox.com/scl/fi/mvo70ggc1x0308y34sggg/Han_Sui_Yang_JFE_2026.pdf?rlkey=gyohhbwvke99qizjkexveyve2&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs a mutual-fund-level prospect-theory value from
+    recent return distributions and shows that higher prospect-theory value predicts larger future flows
+    even after standard performance, alpha, volatility, Morningstar, extrapolation, salience, and
+    skewness controls; account-level holdings and purchases confirm the pattern, revealed-preference
+    estimation produces field parameters close to laboratory prospect-theory benchmarks, and the fact
+    that prospect-theory-driven flows do not predict superior future alpha supports a behavioral demand
+    rather than smart-money interpretation.
