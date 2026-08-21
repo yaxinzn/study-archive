@@ -17770,3 +17770,13 @@
     bank-specific flows reduced aggregate output by only about 0.2% versus 1.85% under a
     regional-bank-focused outflow counterfactual, showing that the cross-sectional reallocation of
     deposits can substantially offset the real effects of aggregate funding stress.
+- title: "Bizer and DeMarzo (JPE, 1992) - Sequential Banking"
+  file: "https://www.dropbox.com/scl/fi/1fcwct5gosbjn3kj4pzpt/Bizer_DeMarzo_JPE_1992.pdf?rlkey=a0i99peqbfellhueh64ja9pil&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that formal debt priority does not eliminate dilution
+    when borrowers can take sequential loans from independent lenders and repayment probabilities depend
+    endogenously on borrower effort: each new lender prices only its own marginal claim and ignores the
+    decline in old-debt value caused by higher total indebtedness, so sequential borrowing leads to more
+    debt, higher interest rates, lower effort, and greater default than a one-bank commitment benchmark,
+    providing a classic rationale for covenants, restrictions on further borrowing, and creditor
+    coordination.
