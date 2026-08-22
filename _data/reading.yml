@@ -17854,3 +17854,15 @@
     or other arbitrage costs are high, while model-based disagreement is especially important,
     supporting a Miller-style disagreement-and-short-sale-constraints mispricing channel rather than
     standard risk compensation.
+- title: "Bianchi, Ludvigson, and Ma (RFS, 2026) - What Hundreds of Economic News Events Say About Belief Overreaction in the Stock Market"
+  file: "https://www.dropbox.com/scl/fi/6bpflcik4ufyiroaumkr4/Bianchi_Ludvigson_Ma_RFS_2026.pdf?rlkey=2631p6tzv942j36ma5w053gxj&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines high-frequency stock-market reactions to hundreds of
+    macroeconomic, Federal Reserve, and earnings-news events with a multishock structural asset-pricing
+    model and machine-learning efficient-forecast benchmarks, finding a positive diagnostic-expectations
+    distortion that implies overreaction to perceived primitive shocks but not necessarily to aggregate
+    news; because cash-flow, discount-rate, risk-premium, and liquidity shocks can offset one another,
+    shock composition frequently makes the market underreact even when every component is overreacted
+    to, with payout-share shocks driving the strongest distortions and the rational-expectations
+    counterfactual often more volatile than observed prices, turning the usual excess-volatility
+    narrative into one of behavioral excess stability.
