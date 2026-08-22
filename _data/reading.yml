@@ -17902,3 +17902,14 @@
     misspecified model can outlast a richer correctly specified model because marginal likelihood
     penalizes diffuse parameter spaces, with applications explaining robust media polarization and the
     greater persistence of overconfidence than underconfidence.
+- title: "Basak, Deb, and Kuvalekar (AER, 2026) - Similarity of Information and Collective Action"
+  file: "https://www.dropbox.com/scl/fi/iessxezon0p88spp981oz/Basak_Deb_Kuvalekar_AER_2026.pdf?rlkey=vgc2ongmx6hcwl7vli22bau13&dl=0"
+  desc: >-
+    This note summarizes the paper, which introduces a concentration-along-diagonal order that changes
+    how well one agent's signal predicts others' signals while holding fixed marginal information about
+    fundamentals, and shows that greater information similarity is a double-edged force for collective
+    action: it raises maximal equilibrium participation and welfare when coordination is the main
+    obstacle because others' participation increases one's pivotality, but can reduce participation when
+    free-riding dominates because similarity makes agents more confident that others will act; the same
+    primitive encouragement-versus-discouragement logic applies to protests, costly committee voting,
+    and public-good provision with private costs.
