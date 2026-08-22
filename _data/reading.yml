@@ -17878,3 +17878,15 @@
     displacement toward a long-run adoption rate around 70–75%, while optimal policy taxes competitive
     overadoption but subsidizes adoption relative to a forward-looking monopolist that restricts usage
     too strongly to preserve future data quality.
+- title: "Buss, Uppal, and Vilkov (RFS, 2026) - Dynamics of Asset Demands with Confidence Heterogeneity"
+  file: "https://www.dropbox.com/scl/fi/ydwub3a53hwbzostvjyis/Buss_Uppal_Vilkov_RFS_2026.pdf?rlkey=dac3ao2uqm7knz7zj2lhz7fru&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic general-equilibrium asset-pricing model in
+    which investors share unbiased average beliefs but differ persistently in confidence about asset
+    cash-flow growth, generating intertemporal hedging against future belief revisions; less-confident
+    investors underweight less-familiar assets, making portfolios concentrated and demand unusually
+    price-inelastic, so latent belief-driven demand shifts require large equilibrium price movements and
+    produce excess volatility, while the same learning mechanism generates expectations that rise after
+    recent returns yet negatively forecast future returns and jointly matches portfolio heterogeneity,
+    low demand elasticities, and latent-demand asset-pricing facts better than nearby belief
+    specifications.
