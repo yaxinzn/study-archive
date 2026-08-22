@@ -17913,3 +17913,14 @@
     free-riding dominates because similarity makes agents more confident that others will act; the same
     primitive encouragement-versus-discouragement logic applies to protests, costly committee voting,
     and public-good provision with private costs.
+- title: "Evans, Moussawi, Pagano, and Sedunov (JFE, 2026) - Operational Shorting and ETF Liquidity Provision"
+  file: "https://www.dropbox.com/scl/fi/fz2ovwlt453cawi6ck36r/Evans_Moussawi_Pagano_Sedunov_JFE_2026.pdf?rlkey=rsukh29ff07xa595zrqys9j8x&dl=0"
+  desc: >-
+    This note summarizes the paper, which identifies operational shorting as ETF shares sold by
+    authorized participants or market makers before corresponding shares are created, measuring it from
+    secondary-market buy pressure net of primary-market creation and showing that it accounts for
+    roughly two-thirds of ETF short interest and is strongly associated with failures-to-deliver and
+    AP/market-maker trading; operational shorting responds to retail demand and creation frictions,
+    predicts temporary ETF-price reversals but not NAV reversals, reduces ETF mispricing, and buffers
+    underlying-stock spreads and volatility, with these stabilizing effects weakening during brokerage
+    outages and lead-market-maker disruptions.
