@@ -17924,3 +17924,15 @@
     predicts temporary ETF-price reversals but not NAV reversals, reduces ETF mispricing, and buffers
     underlying-stock spreads and volatility, with these stabilizing effects weakening during brokerage
     outages and lead-market-maker disruptions.
+- title: "Gârleanu, Panageas, and Zheng (AER, 2026) - A Long and a Short Leg Make for a Wobbly Equilibrium"
+  file: "https://www.dropbox.com/scl/fi/bfjrep2p1ab4psis6z1hh/Garleanu_Panageas_Zheng_AER_2026.pdf?rlkey=ls6ucrvl5o5tkvvav2cbwkis1&dl=0"
+  desc: >-
+    This note summarizes the paper, which jointly models the stock and securities-lending markets and
+    shows that lending-fee income received by long investors can feed back into spot demand and short
+    demand strongly enough to create backward-bending demand and multiple equilibria in shorting
+    utilization, so rational short sellers may retreat even as apparent overpricing widens; Markit
+    lending-fee and utilization data exhibit the predicted nonlinear fee-utilization condition and
+    fat-tailed jump behavior, stocks more likely to satisfy the multiplicity condition experience more
+    utilization jumps, the 2008 Regulation SHO change provides a supportive within-stock break, and the
+    broad 2020–2021 decline in short interest is consistent with an equilibrium coordination shift
+    rather than a purely GameStop-specific retail shock.
