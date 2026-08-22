@@ -17890,3 +17890,15 @@
     recent returns yet negatively forecast future returns and jointly matches portfolio heterogeneity,
     low demand elasticities, and latent-demand asset-pricing facts better than nearby belief
     specifications.
+- title: "Ba (AER, 2026) - Robust Misspecified Models"
+  file: "https://www.dropbox.com/scl/fi/1vw18va8zr3q9w3y3ie7i/Ba_AER_2026.pdf?rlkey=7ruc379nwuc1lq28uyng1dudu&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies active learners who update within competing subjective
+    models and switch between them using Bayes factors, showing that with sticky switching a
+    misspecified model can be locally or globally robust against even the true model if and only if it
+    admits a reachable p-absorbing self-confirming equilibrium that predicts its endogenous on-path data
+    perfectly; under no-trap conditions global robustness additionally requires sufficient prior mass on
+    consistent parameters, so prior tightness substitutes for switching stickiness and a simple
+    misspecified model can outlast a richer correctly specified model because marginal likelihood
+    penalizes diffuse parameter spaces, with applications explaining robust media polarization and the
+    greater persistence of overconfidence than underconfidence.
