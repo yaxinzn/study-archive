@@ -17866,3 +17866,15 @@
     to, with payout-share shocks driving the strongest distortions and the rational-expectations
     counterfactual often more volatile than observed prices, turning the usual excess-volatility
     narrative into one of behavioral excess stability.
+- title: "Cai (RFS, 2026) - Generative AI and Data Quality: Implications for Productivity, Labor Displacement, and Policy"
+  file: "https://www.dropbox.com/scl/fi/imf6ueqs11z76leqcz7oc/Cai_RFS_2026.pdf?rlkey=flpo4wxmnhxh0fb48ot8s2yfs&dl=0"
+  desc: >-
+    This note summarizes the paper, which models generative AI as both a production technology and an
+    endogenous producer of future training data, showing that AI can be privately productive yet
+    socially data-degrading when its actions recycle historical information and crowd out human actions
+    that contain novel private signals; calibrating AI-generated new-information quality to roughly 8%
+    of the human benchmark, a ChatGPT-style cost decline produces near-complete initial adoption
+    followed by deteriorating data quality, lower AI productivity, and partial reversal of labor
+    displacement toward a long-run adoption rate around 70–75%, while optimal policy taxes competitive
+    overadoption but subsidizes adoption relative to a forward-looking monopolist that restricts usage
+    too strongly to preserve future data quality.
