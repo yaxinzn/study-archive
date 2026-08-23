@@ -18039,3 +18039,14 @@
     auction but has a fat right tail, so eliminating it implies a sizable average relative increase in
     price and price impact even though absolute basis-point effects remain small in this highly liquid
     market.
+- title: "Emin, James, Li, and Lu (RFS, 2026) - Institutional Synergies and the Fragility of Loan Funds"
+  file: "https://www.dropbox.com/scl/fi/eq5g8fo1b6pj15fxtrcbh/Emin_James_Li_Lu_RFS_2026.pdf?rlkey=3uo7c6z7jlwybasg85k59m65z&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies open-end loan-fund fragility and shows that CLOs act
+    as state-contingent shock absorbers because their stable funding and overcollateralization rules
+    give them incentives to buy discounted par-build-eligible loans when mutual funds face outflows;
+    flow-induced sales lower prices by about 11 basis points for eligible loans versus roughly 32 basis
+    points for ineligible loans, the price impact jumps below the par-build threshold and reverses
+    afterward, and CLO buying rises under fund sell pressure primarily for eligible loans and
+    reinvestment-period CLOs, implying that leveraged-loan fragility depends on cross-institutional
+    balance-sheet synergies that disappear once loans become too distressed to build par.
