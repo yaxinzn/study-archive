@@ -18015,3 +18015,15 @@
     relationship-bank shocks and oil-and-gas-exposed CLO shocks raise spreads for otherwise unshocked
     borrowers, supporting a supply-side intermediary-frictions channel rather than a pure borrower-risk
     or sentiment story.
+- title: "Li and Pegoraro (RFS, 2026) - Borrowing from a Bigtech Platform"
+  file: "https://www.dropbox.com/scl/fi/7k66cf9kvrns1g0520hqa/Li_Pegoraro_RFS_2026.pdf?rlkey=29dhk6a7bhm7mis7rtmzw2bxo&dl=0"
+  desc: >-
+    This note summarizes the paper, which models competition between a traditional bank and a bigtech
+    platform that can enforce repayment through revenue-based fees tied to marketplace sales, showing
+    that limited commitment and privately known default incentives create advantageous screening: bad
+    merchants prefer the bank's weaker enforcement while good merchants choose the cheaper offer, so the
+    platform attracts safer private types conditional on public credit quality and the bank responds by
+    rationing credit; platform lending expands inclusion for low-quality merchants rejected by banks but
+    can lower welfare in the intermediate competitive segment through rationing and use of the
+    platform's weakly more expensive capital, and stronger information need not raise platform profits
+    because it can destroy the bank presence that generates screening rents.
