@@ -18064,3 +18064,14 @@
     support a causal effect on approval, and a signaling model interprets verifiable payment records as
     'digital collateral' that is costlier for bad borrowers to post and therefore lets good borrowers
     credibly separate and obtain better credit terms.
+- title: "D’Amico, Klausmann, and Pancost (JFE, 2026) - The Benchmark Greenium"
+  file: "https://www.dropbox.com/scl/fi/ge4cld80puhqoc5yxs893/Damico_Klausmann_Pancost_JFE_2026.pdf?rlkey=2g6xf78ir3inkjus004ovtohj&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Germany's cash-flow-matched green sovereign 'twin' bonds
+    and a security-level dynamic term-structure model to separate investors' green taste premium from
+    conventional-bond convenience yields, repo specialness, scarcity, and other pricing frictions; the
+    resulting benchmark 10-year greenium averages about −4 basis points, widens materially after the
+    2021 German floods and the post-Ukraine energy shock, and unlike the raw twin spread is linked
+    primarily to climate-salience variables rather than DAX or repo conditions, while expected green
+    excess returns can differ from the greenium at short horizons because investors also require
+    compensation for stochastic greenium risk.
