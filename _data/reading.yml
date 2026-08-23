@@ -18027,3 +18027,15 @@
     can lower welfare in the intermediate competitive segment through rationing and use of the
     platform's weakly more expensive capital, and stronger information need not raise platform profits
     because it can destroy the bank presence that generates screening rents.
+- title: "Wittwer and Allen (AER, 2026) - Market Power and Capital Constraints"
+  file: "https://www.dropbox.com/scl/fi/5pz1z8p3kqq22zdplnft7/Wittwer_Allen_AER_2026.pdf?rlkey=fbpbhto51olnfwut3zf2knbja&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines intermediary capital constraints with strategic
+    multiunit-auction trading and shows that relaxing a Basel III-style leverage constraint raises asset
+    prices but can also increase each dealer's price impact and reduce liquidity because looser
+    constraints steepen competitors' demand schedules and hence residual supply; using bids from 176
+    Canadian government-bond auctions and the 2020–2021 leverage-ratio exemption to recover risk
+    aversion and auction-specific shadow costs, the paper finds the constraint is slack in the median
+    auction but has a fat right tail, so eliminating it implies a sizable average relative increase in
+    price and price impact even though absolute basis-point effects remain small in this highly liquid
+    market.
