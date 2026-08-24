@@ -18181,3 +18181,14 @@
     high-news-propensity readers, turnout is largely unchanged, but split-ticket voting falls and
     ideologically extreme candidates enter and win more often, supporting a cross-subsidy mechanism in
     which profitable classifieds had financed costly local political information.
+- title: "Lee and Wang (JF, 2025) - Regulating Over-the-Counter Markets"
+  file: "https://www.dropbox.com/scl/fi/550keydyxycjq5ca1ef56/Lee_Wang_JF_2025.pdf?rlkey=vprk4yhvh0bo3cxrm7iat3m46&dl=0"
+  desc: >-
+    This note summarizes the paper, which models venue choice when OTC dealers can use public client
+    labels to cream-skim safer order flow while exchanges must pool traders, generating lower OTC
+    spreads but a more adversely selected and expensive exchange; restricting OTC price discrimination
+    raises OTC spreads and lowers exchange spreads, causing low-benefit OTC traders to exit while
+    higher-benefit exchange traders enter, so welfare can rise even when total volume falls and the
+    average spread widens when adverse selection is sufficiently low, and the paper translates this
+    cheap-substitution externality into an implementable Pigouvian tax rule based on the weighted spread
+    ratio of marginal exchange gains to OTC losses.
