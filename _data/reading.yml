@@ -18134,3 +18134,15 @@
     cumulative monetary response while spreading it over time, with the calibration raising the
     quarterly MPC from 4.2% to 14.4% and the three-year present-value consumption response to a
     one-percentage-point rate cut from 9.03% to 10.72%.
+- title: "Cole, Neuhann, and Ordoñez (RES, 2025) - Information Spillovers and Sovereign Debt: Theory Meets the Eurozone Crisis"
+  file: "https://www.dropbox.com/scl/fi/dxsuaqkzpeewo69wmv8v8/Cole_Neuhann_Ordonez_RES_2025.pdf?rlkey=he4a45w7r64nd5u8lkagllsun&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a sovereign-debt contagion mechanism based on
+    endogenous information acquisition in discriminatory-price auctions rather than correlated
+    fundamentals: informed bidding worsens the winner's curse for uninformed investors, information
+    becomes a strategic complement, and portfolio flight from one distressed sovereign can raise
+    exposure and trigger an information-regime switch in a second risky country while a sufficiently
+    safe country remains a common-ignorance haven; consistent with this mechanism, one-year auction
+    informativeness rises sharply during the Eurozone crisis in Portugal and Italy but not Germany or
+    France, alongside wider primary-secondary yield spreads and foreign-investor retrenchment in the
+    periphery.
