@@ -18075,3 +18075,14 @@
     primarily to climate-salience variables rather than DAX or repo conditions, while expected green
     excess returns can differ from the greenium at short horizons because investors also require
     compensation for stochastic greenium risk.
+- title: "Song and Stern (RES, 2025) - Firm Inattention and the Efficacy of Monetary Policy: A Text-Based Approach"
+  file: "https://www.dropbox.com/scl/fi/q3cgfddtod0sc4jxfpoi1/Song_Stern_RES_2025.pdf?rlkey=3eqsjunnw82p0txqcrrh5eepk&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs firm-level attention to nine macroeconomic topics
+    from 203,050 U.S. 10-K filings and shows that attention is highly polarized across firms and
+    countercyclical over time; using high-frequency FOMC surprises, the paper exploits a sign asymmetry
+    that distinguishes attention from exposure, finding that attentive firms gain about 1.9 percentage
+    points more after expansionary surprises and lose about 6.2 percentage points less after
+    contractionary surprises, and a calibrated heterogeneous rational-inattention model maps this micro
+    evidence into state-dependent monetary transmission in which a larger inattentive share produces
+    stronger real effects, so countercyclical attention makes monetary policy less potent in recessions.
