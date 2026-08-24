@@ -18122,3 +18122,15 @@
     good project, with deliberately partial covenant coverage making the acceleration threat credible
     and showing that covenants and collateral are dynamically complementary rather than simply stronger
     and weaker substitutes.
+- title: "Maxted, Laibson, and Moll (QJE, 2025) - Present Bias Amplifies the Household Balance-Sheet Channels of Macroeconomic Policy"
+  file: "https://www.dropbox.com/scl/fi/ydlwh6zbh238afszdzcoo/Maxted_Laibson_Moll_QJE_2025.pdf?rlkey=rzjilvwvgx2oejikhfwdviavs&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds naive present bias in a continuous-time
+    heterogeneous-homeowner model with liquid wealth, credit-card debt, illiquid home equity, fixed-rate
+    mortgages, and costly refinancing, showing that present bias both raises continuous consumption and
+    erodes liquid buffers while causing households to procrastinate on lumpy refinancing until low-cost
+    opportunities arrive; as a result, fiscal transfers have much larger MPCs and rate cuts trigger
+    cash-out refinancing that acts as targeted liquidity for high-MPC households, increasing the
+    cumulative monetary response while spreading it over time, with the calibration raising the
+    quarterly MPC from 4.2% to 14.4% and the three-year present-value consumption response to a
+    one-percentage-point rate cut from 9.03% to 10.72%.
