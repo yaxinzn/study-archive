@@ -18098,3 +18098,15 @@
     misspecification of control shifts, and beer-demand simulations show that this procedure removes
     large bias from misspecified mean utility but cannot rescue a model whose substitution patterns
     themselves are badly wrong.
+- title: "Budish (QJE, 2025) - Trust at Scale: The Economic Limits of Cryptocurrencies and Blockchains"
+  file: "https://www.dropbox.com/scl/fi/udyon6nhfasx4mn0b2mcl/Budish_QJE_2025.pdf?rlkey=cuzq8zt0skbi23ie9eswhlihy&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines free entry by honest miners or validators with the
+    incentive constraint against a permissionless majority attack to show that pure Nakamoto trust
+    requires recurring security expenditure to scale roughly linearly with the one-shot value that can
+    be stolen; in a baseline six-block transaction plus six-block confirmation example, deterrence
+    requires security spending of about 5% of attack value per block—roughly 720% per day and about
+    263,000% per year—so protecting against a $1 billion attack implies annual expenditure around $2.6
+    trillion, while specialized capital and slashing can convert the attacker's cost from a flow into a
+    stock loss but only if collapse, protocol punishment, or external law can credibly destroy or
+    confiscate that capital.
