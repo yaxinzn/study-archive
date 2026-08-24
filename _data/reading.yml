@@ -18086,3 +18086,15 @@
     contractionary surprises, and a calibrated heterogeneous rational-inattention model maps this micro
     evidence into state-dependent monetary transmission in which a larger inattentive share produces
     stronger real effects, so countercyclical attention makes monetary policy less potent in recessions.
+- title: "Andrews, Barahona, Gentzkow, Rambachan, and Shapiro (QJE, 2025) - Structural Estimation under Misspecification: Theory and Implications for Practice"
+  file: "https://www.dropbox.com/scl/fi/c7barphdgdo1d6c60wvub/Andrews_Barahona_Gentzkow_Rambachan_Shapiro_QJE_2025.pdf?rlkey=vk0c68ifqm7sew4tvwmxdn232&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a general theory for when misspecified structural
+    models can still recover reliable causal and counterfactual objects, separating a model-side
+    requirement—approximately correct derivatives with respect to endogenous variables—from an
+    estimator-side requirement—strong exclusion, meaning enough excluded instrument variation is
+    conditionally mean-independent of included controls and effectively identifies the causal
+    parameters; residualizing excluded moments against controls protects against arbitrary
+    misspecification of control shifts, and beer-demand simulations show that this procedure removes
+    large bias from misspecified mean utility but cannot rescue a model whose substitution patterns
+    themselves are badly wrong.
