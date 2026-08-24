@@ -18192,3 +18192,15 @@
     average spread widens when adverse selection is sufficiently low, and the paper translates this
     cheap-substitution externality into an implementable Pigouvian tax rule based on the weighted spread
     ratio of marginal exchange gains to OTC losses.
+- title: "Bastianello and Fontanier (RES, 2025) - Expectations and Learning from Prices"
+  file: "https://www.dropbox.com/scl/fi/ejhv9pp6u69r6fhoxr7mv/Bastianello_Fontanier_RES_2025.pdf?rlkey=kcwxdo13uit61ztgpmr0fy4nt&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops partial equilibrium thinking as a model of
+    mislearning from endogenous prices: uninformed traders infer fundamentals from prices but neglect
+    that other uninformed traders are making the same inference, so they believe prices are less
+    sensitive to news than they truly are and extract signals that are too extreme; the resulting
+    price-belief feedback generates overreaction, excess volatility and trading, return predictability,
+    and unusually inelastic or even upward-sloping demand, with amplification strongest when informed
+    participation and signal precision are low and becoming arbitrarily large near instability, thereby
+    distinguishing mislearning from prices at the signal-extraction stage from familiar biases in
+    processing fundamental signals.
