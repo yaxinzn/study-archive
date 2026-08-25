@@ -18240,3 +18240,16 @@
     core-dealer clients face narrower round-trip transaction costs, core dealers charge wider
     interdealer spreads yet earn lower average markups per trade, and commonly used bid-ask-spread
     measures cease to be equivalent once clienteles differ and interdealer chains matter.
+- title: "Jansen, Nagel, Yannelis, and Zhang (JFE, 2025) - Data and Welfare in Credit Markets"
+  file: "https://www.dropbox.com/scl/fi/2432w90625d76ida2i43u/Jansen_Nagel_Yannelis_Zhang_JFE_2025.pdf?rlkey=ehjvloo8ocp5lwt5v45q8qpv0&dl=0"
+  desc: >-
+    This note summarizes the paper, which treats borrower data as cost-based third-degree price
+    discrimination in a competitive credit market and shows that more information improves allocative
+    efficiency by eliminating overborrowing by high-cost borrowers and underborrowing by low-cost
+    borrowers but can generate much larger first-order surplus transfers than second-order efficiency
+    gains; exploiting the statutory removal of bankruptcy flags from U.S. credit reports in a
+    difference-in-differences and event-study design, the paper finds that removal raises scores by 17.1
+    points, lowers predicted auto-loan rates by 22.6 basis points, and raises monthly new borrowing by
+    about $17.8, while never removing flags would raise annual social surplus by about $598,000 but
+    shift roughly $19 million away from previously bankrupt borrowers, implying that current flag
+    removal destroys about 3.15 cents of surplus per dollar redistributed.
