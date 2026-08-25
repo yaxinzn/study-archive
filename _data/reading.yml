@@ -18267,3 +18267,16 @@
     high-information-rent stocks, especially as foreign investors in less-developed markets, with
     subsequent institutional ownership associated with lower volatility and higher liquidity or
     turnover.
+- title: "Kruttli, Monin, Petrasek, and Watugala (JFE, 2025) - LTCM Redux? Hedge Fund Treasury Trading, Funding Fragility, and Risk Constraints"
+  file: "https://www.dropbox.com/scl/fi/4c80092jcspo9tlddcx5t/Kruttli_et_al_JFE_2025.pdf?rlkey=zxw8gokix38dwhaxvfa37yjlx&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines confidential Form PF hedge-fund positions, bilateral
+    repo, creditor relationships, liquidity, investor restrictions, and reported VaR to study the March
+    2020 Treasury dislocation, documenting a roughly 20-25% contraction in Treasury exposures, a 24.9%
+    decline in long-short arbitrage and about $173 billion of valuation-adjusted Treasury sales even
+    though repo borrowing remained broadly resilient and G-SIB dealers supplied 11-13% more funding;
+    within funds, limited internal risk capacity is the dominant constraint, as a one-standard-deviation
+    deterioration in VaR headroom predicts an 8-9% larger arbitrage reduction and about 12% for the
+    largest arbitrageurs, while relationship capital, expected redemptions, cash hoarding, and futures
+    margins help explain why arbitrage capacity can collapse without a contemporaneous dealer-credit
+    run.
