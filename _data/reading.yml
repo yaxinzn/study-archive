@@ -18280,3 +18280,16 @@
     largest arbitrageurs, while relationship capital, expected redemptions, cash hoarding, and futures
     margins help explain why arbitrage capacity can collapse without a contemporaneous dealer-credit
     run.
+- title: "Polo, Taburet, and Vo (JFE, 2025) - Screening Using a Menu of Contracts: A Structural Model for Lending Markets"
+  file: "https://www.dropbox.com/scl/fi/iefdhhi324ra3cu25km3c/Polo_Taburet_Vo_JFE_2025.pdf?rlkey=miyzx4gueog1unabpjzskbpa1&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a structural model of U.K. first-time-buyer
+    mortgages in which lenders endogenously choose menus of LTV limits, teaser periods, fees, and rates
+    to screen borrowers with correlated private preferences and default risk, identifying adverse
+    selection from changes in outside-option prices separately from the causal payment burden of a
+    chosen contract and using regulatory risk weights and capital requirements as cost shifters; the
+    estimates imply that more than 90% of borrowers shopping in the 70-95% LTV range would receive
+    85-95% LTV under perfect information, high-LTV rates are about 70 basis points below
+    perfect-information pricing to preserve self-selection, and decentralized banks over-screen because
+    of a contractual composition externality, generating a welfare loss equivalent to roughly a
+    32-basis-point increase in all mortgage rates.
