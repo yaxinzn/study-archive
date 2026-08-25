@@ -18253,3 +18253,17 @@
     about $17.8, while never removing flags would raise annual social surplus by about $598,000 but
     shift roughly $19 million away from previously bankrupt borrowers, implying that current flag
     removal destroys about 3.15 cents of surplus per dollar redistributed.
+- title: "Kacperczyk, Nosal, and Wang (JFE, 2025) - Global Volatility and Firm-Level Capital Flows"
+  file: "https://www.dropbox.com/scl/fi/qq5va9afbv89budy7lsk9/Kacperczyk_Nosal_Wang_JFE_2025.pdf?rlkey=svtftkptshudr276boe6yzexf&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses quarterly holdings of 13,145 institutional portfolios in
+    30,230 firms across 41 economies from 2000-2020 to show that global volatility triggers far larger
+    investor-firm reallocations than aggregate ownership data reveal: a one-standard-deviation
+    volatility increase reduces firm-level institutional ownership growth by about 1.9 percentage points
+    but individual investor-firm positions by roughly 5.6 percentage points and, after pair fixed
+    effects, about 8 points in developed and 13.5 points in emerging markets; a
+    noisy-rational-expectations model with endogenous information acquisition explains why sophisticated
+    institutions sell overall yet redirect scarce attention and capital from small toward large
+    high-information-rent stocks, especially as foreign investors in less-developed markets, with
+    subsequent institutional ownership associated with lower volatility and higher liquidity or
+    turnover.
