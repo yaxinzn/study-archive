@@ -18204,3 +18204,15 @@
     participation and signal precision are low and becoming arbitrarily large near instability, thereby
     distinguishing mislearning from prices at the signal-extraction stage from familiar biases in
     processing fundamental signals.
+- title: "Liu, Ma, and Veldkamp (JFE, 2025) - Data Sales and Data Dilution"
+  file: "https://www.dropbox.com/scl/fi/4jea78d02tlk4sg7qi0f7/Liu_Ma_Veldkamp_JFE_2025.pdf?rlkey=ijfnhkuz6dn0ht9yjed40vbur&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic theory of data-market power in which a
+    monopoly seller cannot commit not to sell additional copies and information is strategically
+    substitutable across competing buyers, so later sales dilute the value of earlier purchases and
+    create a Coase-style self-competition problem; subscriptions restore period-by-period control over
+    access, strengthen rent extraction and quality investment, and can therefore raise consumer welfare
+    despite greater monopoly power, while hand-collected evidence on 3,206 Datarade products from 445
+    providers shows the predicted correlations that better-funded and older sellers license more,
+    rapidly depreciating data are sold outright more often, larger markets favor licensing, and data
+    firms grow more slowly.
