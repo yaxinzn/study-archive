@@ -18228,3 +18228,15 @@
     U.K. leverage-ratio exposure measure, a one-percentage-point lower leverage ratio raising
     willingness-to-sell by about 2.5 basis points and quantities offered by roughly £10 million, while
     the Bank's average direct execution cost is only about 0.38 basis points.
+- title: "Sambalaibat (JFE, 2025) - Heterogeneous Clienteles and Dealer Networks"
+  file: "https://www.dropbox.com/scl/fi/pk2buvy3kxa78xx5etu9n/Sambalaibat_JFE_2025.pdf?rlkey=wjg504a8nji0lhm2uxa0vm0qv&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a continuous-time OTC search model in which ex-ante
+    identical dealers become endogenously heterogeneous because clients differ in expected holding
+    periods and must use the same dealer for purchase and resale, causing high-turnover clients to
+    accept higher asks in exchange for better expected future bids and thereby sort toward dealers with
+    larger order flows and greater weighted interdealer centrality; the resulting core-periphery
+    structure arises without primitive dealer size or technology differences and implies that
+    core-dealer clients face narrower round-trip transaction costs, core dealers charge wider
+    interdealer spreads yet earn lower average markups per trade, and commonly used bid-ask-spread
+    measures cease to be equivalent once clienteles differ and interdealer chains matter.
