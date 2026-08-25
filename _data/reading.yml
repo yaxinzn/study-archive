@@ -18216,3 +18216,15 @@
     providers shows the predicted correlations that better-funded and older sellers license more,
     rapidly depreciating data are sold outright more often, larger markets favor licensing, and data
     firms grow more slowly.
+- title: "Boneva, Kastl, and Zikes (JFE, 2025) - Dealer Balance Sheets and Bidding Behavior in the Bank of England's QE Reverse Auctions"
+  file: "https://www.dropbox.com/scl/fi/ue8cehnyh7qq1npzvgb7m/Boneva_Kastl_Zikes_JFE_2025.pdf?rlkey=sqjz5hmtstc1i9kz36o783yvv&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines confidential accepted and rejected bids from 352 Bank
+    of England gilt QE reverse auctions in 2009-2017 with a structural multi-unit discriminatory-auction
+    model to recover dealers' marginal willingness-to-sell separately from strategic bid shading,
+    finding average auction liquidity benefits of about 3 basis points, roughly 4 basis points during
+    QE1 and larger for longer gilts; dealer valuations respond to inventory and regulation, with prior
+    sales of interest-rate risk reducing willingness-to-sell and, after reserves became exempt from the
+    U.K. leverage-ratio exposure measure, a one-percentage-point lower leverage ratio raising
+    willingness-to-sell by about 2.5 basis points and quantities offered by roughly £10 million, while
+    the Bank's average direct execution cost is only about 0.38 basis points.
