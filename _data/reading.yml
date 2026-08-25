@@ -18318,3 +18318,16 @@
     quantitative-reporting thresholds supports monitoring as a causal mechanism, total trading-book risk
     also falls, and the authors find no robust migration of risk into securities, C&I loans, or
     mortgages outside the trading book.
+- title: "Dempsey and Faria-e-Castro (JFE, 2025) - A Quantitative Analysis of Bank Lending Relationships"
+  file: "https://www.dropbox.com/scl/fi/a5fbgrx2okf0pqii292te/Dempsey_FariaeCastro_JFE_2025.pdf?rlkey=dmootflwfkrkqnbg8cu6dzrai&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines FR Y-14Q commercial-loan evidence with a quantitative
+    model in which lending relationships are endogenous bank customer capital and borrowers face costs
+    of reallocating loan shares across banks, documenting rare lender switching and a
+    teaser-rate-then-hold-up life cycle in new relationships and using a bank-time credit-supply
+    instrument to estimate the loan-share adjustment-cost parameter at 0.068 and the effect of current
+    market share on future relationship capital at 0.548; relationships reduce steady-state lending by
+    5.9% and are strongly complementary with bank net worth, while a 25% bank-net-worth shock generates
+    a credit contraction more than twice as large as under competition and other shocks show that
+    dynamic investment in customer capital, rather than static markups alone, materially changes
+    aggregate credit transmission.
