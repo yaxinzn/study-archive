@@ -18306,3 +18306,15 @@
     decentralized governments underinvest relative to a planner who would have the dominant currency
     digitize first because its larger installed user base receives the greatest infra-marginal
     convenience benefit.
+- title: "Falato, Iercosan, and Zikes (JFE, 2025) - Banks as Regulated Traders"
+  file: "https://www.dropbox.com/scl/fi/7iqfp99upb9g2cqiw0w35/Falato_Iercosan_Zikes_JFE_2025.pdf?rlkey=rhuhzfl1ip3oxify2n2k44vhw&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses confidential daily trading-book P/L and VaR data for
+    large U.S. banks to infer exposures to seven aggregate risk factors and evaluate the Volcker Rule,
+    finding that banks carried a sizable positive equity-market loading before the rule but became
+    approximately market neutral afterward; the estimated change implies about 14 percentage points less
+    trading loss relative to VaR for a one-standard-deviation market decline and a $9-13 billion
+    reduction in equity-market exposure, while a staggered differences-in-differences design based on
+    quantitative-reporting thresholds supports monitoring as a causal mechanism, total trading-book risk
+    also falls, and the authors find no robust migration of risk into securities, C&I loans, or
+    mortgages outside the trading book.
