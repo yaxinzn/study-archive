@@ -18331,3 +18331,16 @@
     a credit contraction more than twice as large as under competition and other shocks show that
     dynamic investment in customer capital, rather than static markups alone, materially changes
     aggregate credit transmission.
+- title: "Allen, Clark, Houde, Li, and Trubnikova (RFS, 2025) - The Role of Intermediaries in Selection Markets: Evidence from Mortgage Lending"
+  file: "https://www.dropbox.com/scl/fi/p4rskhosu7xagwtup6seb/Allen_Clark_Houde_Li_Trubnikova_RFS_2025.pdf?rlkey=c55lzv871k021ijtkkmi1lxjy&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Canadian insured-mortgage data and a structural
+    product-choice model with endogenous broker use and negotiated rates to decompose broker-branch
+    differences into observable selection, latent borrower selection, direct broker influence, and an
+    indirect rate channel; control-function instruments based on local bank and broker market structure
+    show that brokers lower rates by about 26 basis points and directly steer mainly toward longer
+    amortization, with removing direct influence cutting the long-amortization share by 5.99 percentage
+    points and shortening amortization by 4.55 years among affected borrowers, while essentially all of
+    the broker-channel excess in high-LTV borrowing is explained by unobserved borrower preferences
+    rather than broker steering, implying that intermediation combines valuable search and approval
+    assistance with a narrower agency-conflict margin.
