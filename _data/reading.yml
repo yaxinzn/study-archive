@@ -18384,3 +18384,16 @@
     yet lowers rates by about 22-23 basis points across risk groups, while bank-nonbank differences are
     best explained by heterogeneous expected loss given default and funding costs rather than screening
     quality alone.
+- title: "Jacobsen and Venkataraman (JFE, 2025) - Receiving Investors in the Block Market for Corporate Bonds"
+  file: "https://www.dropbox.com/scl/fi/n49e5olh0e4a172cbs9gp/Jacobsen_Venkataraman_JFE_2025.pdf?rlkey=7khiq3z3ecsohzh5acm4w6b2y&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses enhanced TRACE to link 205,104 initiating corporate-bond
+    blocks of at least $15 million to 690,418 subsequent receiver trades and decomposes the initiator's
+    cost into permanent information impact, dealer spread, and receiver spread, finding an average
+    18-basis-point initiator cost, 22-basis-point dealer spread, and negative 3-basis-point receiver
+    spread; receivers bear most adverse-selection losses when blocks are information intensive,
+    including a roughly -12-basis-point spread in dealer block sells and much worse outcomes before
+    rating or earnings news, yet they continue participating because supplying liquidity through the
+    block sequence usually saves execution costs relative to initiating comparable large trades
+    themselves, while mandatory TRACE dissemination and shorter reporting delays shift roughly 5-11
+    basis points of surplus from informed dealers toward receivers.
