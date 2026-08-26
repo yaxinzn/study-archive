@@ -18397,3 +18397,17 @@
     block sequence usually saves execution costs relative to initiating comparable large trades
     themselves, while mandatory TRACE dissemination and shorter reporting delays shift roughly 5-11
     basis points of surplus from informed dealers toward receivers.
+- title: "Brancaccio and Kang (Econometrica, 2025) - Search Frictions and Product Design in the Municipal Bond Market"
+  file: "https://www.dropbox.com/scl/fi/ad4d034hqo947a9qlalvj/Brancaccio_Kang_Econometrica_2025.pdf?rlkey=lmfptfxjizfm192ope4hdfzw5&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that municipal-bond underwriters can use security
+    complexity strategically to raise rivals' investor-search costs and strengthen their own
+    post-issuance dealer network advantage, exploiting state revolving-door reforms as
+    quasi-experimental variation in official-underwriter influence and estimating a structural model
+    that links negotiated origination to decentralized secondary trading; local-official restrictions
+    reduce complexity by about 6%, higher complexity raises underwriter market share and investor
+    intermediation spreads while lowering negative credit-watch events, and the model implies that the
+    underwriter's effective search cost at a common meeting rate is about 49.8% below an average
+    dealer's, while a plain-vanilla standardization mandate raises dealer meeting rates by 33%,
+    increases median investor surplus by 8%, and lowers coupons by 22.7 basis points but can raise
+    issuer cost because governments lose valuable repayment flexibility.
