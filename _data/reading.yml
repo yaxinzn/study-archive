@@ -18450,3 +18450,16 @@
     1-1.5% of revenue while aggregate local-market revenue does not rise significantly, showing that
     processed information is a high-private-value managerial input whose social value can be much
     smaller than its competitive return.
+- title: "Pellegrino (AER, 2025) - Product Differentiation and Oligopoly: A Network Approach"
+  file: "https://www.dropbox.com/scl/fi/g4h98zc3lh19n59jq7tvc/Pellegrino_AER_2025.pdf?rlkey=5es17hs0zlsf9k3cbwyfaevdc&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a Generalized Hedonic-Linear demand system that
+    represents firms as nodes in a continuous product-similarity network derived empirically from
+    Hoberg-Phillips 10-K text similarities, allowing economy-wide own- and cross-price elasticities,
+    markups, consumer surplus, and oligopoly counterfactuals without imposing hard industry boundaries;
+    the model decomposes each markup into hedonic-adjusted productivity and product-market centrality,
+    and applied to U.S. public firms estimates 2021 total surplus of about $14.4 trillion versus $16.2
+    trillion under marginal-cost pricing, with a fixed-labor markup-equalization allocation recovering
+    much of the gap, while from 1995 to 2021 the profit share rises from 15.3% to 23%, conventional
+    deadweight loss from 7.7% to 12.5%, and misallocation loss from 4.8% to 9.2%, reflecting both
+    superstar productivity and weakening competitive centrality.
