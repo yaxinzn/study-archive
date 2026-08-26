@@ -18370,3 +18370,17 @@
     Treasuries heavily owned by high-intensity funds fall during redemptions and reverse after Federal
     Reserve intervention, showing how liquidity regulation can relocate fragility into the designated
     buffer asset.
+- title: "Bosshardt, Kakhbod, and Kermani (JFE, 2025) - Do Intermediaries Improve GSE Lending? Evidence from Proprietary GSE Data"
+  file: "https://www.dropbox.com/scl/fi/xqcgyeo7klaykv3wfh337/Bosshardt_Kakhbod_Kermani_JFE_2025.pdf?rlkey=fzor6727argmknwt3lgeuy8dy&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines proprietary FHFA data with an imperfect-competition
+    model of GSE mortgage origination to measure the benefit of private lender screening against the
+    cost of intermediary market power, documenting that the lender-set rate net of GSE guarantee fees
+    rises with observable default risk, predicts realized default conditional on rich observables, and
+    is paired with higher denial rates for risky applications already approved by GSE automated
+    underwriting; structurally, screening can reduce origination costs by as much as 60% for some
+    borrowers, but average markups of about 25 basis points dominate these savings, so a counterfactual
+    with standardized GSE-approved lending and little intermediary discretion roughly triples default
+    yet lowers rates by about 22-23 basis points across risk groups, while bank-nonbank differences are
+    best explained by heterogeneous expected loss given default and funding costs rather than screening
+    quality alone.
