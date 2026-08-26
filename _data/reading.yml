@@ -18437,3 +18437,16 @@
     using logistic Lasso, Gaussian processes, a Bayesian bootstrap, and Laplace approximation achieves
     near-nominal simulation coverage and moves National Supported Work estimates toward the randomized
     experimental benchmark.
+- title: "Galdon-Sanchez, Gil, and Uriz-Uharte (JPE, 2025) - The Value of Information in Competitive Markets: Evidence from Small and Medium-Sized Enterprises"
+  file: "https://www.dropbox.com/scl/fi/kg2sfgykiiuzv0qvnxx8p/GaldonSanchez_Gil_UrizUharte_JPE_2025.pdf?rlkey=gf9diy1ywd9bmo4svdcgfm5om&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies a free bank-provided market-information dashboard for
+    Spanish SMEs and instruments voluntary adoption with same-branch peer diffusion while absorbing
+    local sector-by-zip-by-quarter shocks, finding that adoption raises establishment card revenue by
+    about 4.5% in first-difference OLS and about 9% for IV compliers; the gains come through roughly
+    12-13% more customers and transactions, broader demographic and geographic reach, and substantially
+    higher off-peak sales rather than more spending per incumbent customer, are especially large for
+    small firms in dense markets, and are partly business stealing because nearby nonadopters lose
+    1-1.5% of revenue while aggregate local-market revenue does not rise significantly, showing that
+    processed information is a high-private-value managerial input whose social value can be much
+    smaller than its competitive return.
