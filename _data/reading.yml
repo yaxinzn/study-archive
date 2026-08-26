@@ -18424,3 +18424,16 @@
     intervention and capital controls while leaving the policy rate unchanged, lower FX mismatch trades
     reduced sudden-stop balance-sheet risk against higher local-currency premia, and capital controls
     can dominate household debt taxes once domestic collateral prices depend on the policy-rate path.
+- title: "Breunig, Liu, and Yu (Econometrica, 2025) - Double Robust Bayesian Inference on Average Treatment Effects"
+  file: "https://www.dropbox.com/scl/fi/j9pf9fpg88w4t37vgx224/Breunig_Liu_Yu_Econometrica_2025.pdf?rlkey=r2kfhghaszeb67aw7hrwfvmzf&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a nonparametric Bayesian ATE procedure that adjusts
+    the outcome-regression prior in the estimated least-favorable influence-function direction and then
+    applies a draw-specific posterior bias correction, proving a double-robust semiparametric
+    Bernstein-von Mises theorem under a product-rate condition on propensity-score and
+    outcome-regression estimation; the corrected posterior is asymptotically centered at an efficient
+    ATE estimator with variance equal to the Hahn efficiency bound, so posterior means are efficient and
+    Bayesian credible intervals have asymptotically exact frequentist coverage, while an implementation
+    using logistic Lasso, Gaussian processes, a Bayesian bootstrap, and Laplace approximation achieves
+    near-nominal simulation coverage and moves National Supported Work estimates toward the randomized
+    experimental benchmark.
