@@ -18489,3 +18489,16 @@
     underrepresented applicant types receive exploration bonuses when their quality is imprecisely
     estimated, with simulations showing that exploration learns changing group quality faster than
     exploitation-only screening.
+- title: "Nimier-David, Sraer, and Thesmar (QJE, 2026) - The Effects of Mandatory Profit-Sharing on Workers and Firms: Evidence from France"
+  file: "https://www.dropbox.com/scl/fi/ags1644wzh7i639een23n/NimierDavid_Sraer_Thesmar_QJE_2026.pdf?rlkey=vsccvoc8k912r9ldpb2y67n3v&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits France's 1990 reduction of the mandatory
+    profit-sharing threshold from 100 to 50 employees, using bunching, difference-in-differences,
+    reform-based IV, and linked employer-employee data to estimate the incidence of an
+    excess-profit-sharing mandate; firms bunch 24.8% above the counterfactual density just below the old
+    threshold, implying about a 1.67% employment loss among affected firms, while instrumented profit
+    sharing raises total compensation by roughly 1.8 percentage points of value added with essentially
+    no average wage offset, lowers profit and corporate-tax shares by about 1.4 and 0.4 points
+    respectively, generates little detectable productivity or investment response because the levy
+    preserves a 5% normal return on book equity, and benefits low- and middle-skill workers most because
+    high-skill wages adjust more flexibly.
