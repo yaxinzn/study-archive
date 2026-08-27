@@ -18554,3 +18554,16 @@
     Democrat/DLC faction expands, and a 1976 breakpoint marks the reversal in Democratic identification
     by education, with within-party and economic-evaluation exercises suggesting this supply shift
     explains roughly 20–50% of the long-run realignment.
+- title: "Emanuel, Harrington, and Pallais (QJE, 2026) - The Power of Proximity to Coworkers"
+  file: "https://www.dropbox.com/scl/fi/jnlsl2mob3z6eoewdi54p/Emanuel_Harrington_Pallais_QJE_2026.pdf?rlkey=288nquysmc3m8j8s51nqds7e9&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses COVID office closures and later return-to-office mandates
+    at a Fortune 500 online retailer to show that physical proximity is an input into coworker training
+    even for software engineers whose production is digital; losing co-location reduces code-review
+    feedback by 18.3% and predicted high-quality feedback by roughly 21–23%, especially for young,
+    less-tenured, and female engineers, while stronger RTO restores proximity and lowers disposable-code
+    and bug rates, preclosure co-location predicts better code even during later remote work, and senior
+    engineers write more code when remote because they spend less time mentoring, revealing an
+    intertemporal trade-off in which proximity lowers current senior output but builds junior human
+    capital, shapes hiring toward younger workers when offices function, and creates poaching
+    externalities because trained workers can leave.
