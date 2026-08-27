@@ -18476,3 +18476,16 @@
     shocks create distributional state dependence, and failure of the highest bank type can cut output
     by roughly 7% and lending by 17%, while countercyclical downside risk amplifies crises and deposit
     market power dampens them.
+- title: "Li, Raymond, and Bergman (ReStud, 2026) - Hiring as Exploration"
+  file: "https://www.dropbox.com/scl/fi/h5t9oujz8x42polghhgbe/Li_Raymond_Bergman_RES_2026.pdf?rlkey=03xxl4wk3338v80dt2f2yx7a5&dl=0"
+  desc: >-
+    This note summarizes the paper, which reframes resume screening as a contextual-bandit problem in
+    which interviews create both hires and future training data, comparing human recruiters with dynamic
+    supervised learning and an Upper Confidence Bound policy at a Fortune 500 firm; selective-label
+    concerns are addressed with interviewed-sample comparisons, inverse-propensity weighting, and a
+    random-screener-leniency IV, and while supervised learning raises predicted hiring yield but cuts
+    the Black-or-Hispanic interview share from 9.4% to 4.2%, UCB raises it to 24.3% while maintaining a
+    much higher estimated hiring yield than humans (about 27% versus 10%), because historically
+    underrepresented applicant types receive exploration bonuses when their quality is imprecisely
+    estimated, with simulations showing that exploration learns changing group quality faster than
+    exploitation-only screening.
