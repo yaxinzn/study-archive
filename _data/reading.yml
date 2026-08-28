@@ -18686,3 +18686,16 @@
     mechanism because the debt-sales slope falls from roughly 0.64 to 0.14 as destination sales become
     more likely to be invoiced in home or vehicle currencies, while rate differentials explain only a
     limited part of the pattern.
+- title: "Colliard and Georg (JFE, 2025) - Measuring Regulatory Complexity"
+  file: "https://www.dropbox.com/scl/fi/z87kheu6d6uc9wga040hb/Colliard_Georg_JFE_2025.pdf?rlkey=sgq6dr0v69rj3mpge9lrb1dm3&dl=0"
+  desc: >-
+    This note summarizes the paper, which treats regulation as an algorithm and separates intrinsic
+    complexity of the underlying rule, psychological complexity of its written representation, and
+    computational complexity of applying it, adapting Halstead software metrics to construct measures
+    such as regulatory-operator quantity and conceptual potential rather than relying on document length
+    alone; a Basel-I code-versus-prose comparison validates these intrinsic measures, randomized
+    Basel-like regulations show that quantity predicts mistakes beyond length while quantity and
+    potential predict processing time, and European Banking Authority surveys show that quantity
+    predicts bank compliance costs whereas potential predicts regulator-assessed importance, implying
+    that effective simplification should target redundant obligations and concept breadth rather than
+    simply shorten legal text.
