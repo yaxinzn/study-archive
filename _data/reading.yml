@@ -18620,3 +18620,17 @@
     of 1.60 and 1.17 in equal- and value-weighted portfolios, while analogous return-lag exercises reach
     the same conclusion that feature engineering and inductive bias complement rather than become
     obsolete under machine learning.
+- title: "Dangl, Halling, Yu, and Zechner (JFE, 2025) - Social Preferences and Corporate Investment"
+  file: "https://www.dropbox.com/scl/fi/nengrt75d7qnyh5j9m2j5/Dangl_Halling_Yu_Zechner_JFE_2025.pdf?rlkey=8f74f7suwhrfyqg13zfjacae6&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a general-equilibrium model in which firms
+    endogenously choose green or brown technologies and social investors either dislike personally
+    holding brown assets or care consequentially about aggregate harm, showing that these superficially
+    similar preferences have sharply different organizational implications: coordination changes prices
+    but not the technology mix for holding-based investors, whereas impact-oriented consequentialists
+    generally affect real corporate choices only when their preferences are coordinated in a large
+    strategic fund; real effects are strongest when green and brown cash flows are close substitutes
+    because high return correlation, low volatility, or low risk aversion makes technology supply
+    elastic, so large changes in corporate greenness can coexist with tiny cost-of-capital wedges, while
+    stochastic covariance between brown cash flows and social harm can create a hedging motive that may
+    even perversely increase brown investment.
