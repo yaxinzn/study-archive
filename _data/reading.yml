@@ -18634,3 +18634,16 @@
     elastic, so large changes in corporate greenness can coexist with tiny cost-of-capital wedges, while
     stochastic covariance between brown cash flows and social harm can create a hedging motive that may
     even perversely increase brown investment.
+- title: "Goodman and Puri (JFE, 2025) - Overvaluing Simple Bets: Evidence from the Options Market"
+  file: "https://www.dropbox.com/scl/fi/wqsq9ndmqxzm1kg9rdb72/Goodman_Puri_JFE_2025.pdf?rlkey=pxlnnqr63p8apjvmjin2tokre&dl=0"
+  desc: >-
+    This note summarizes the paper, which documents a sharp revealed-preference anomaly in retail
+    derivatives markets by matching binary-option purchases to nearly contemporaneous bull spreads that
+    are cheaper yet weakly dominate the binary payoff in every terminal-price state, finding dominance
+    violations in 15% of S&P 500 trades, 19% of gold trades, and 26% of silver trades with conditional
+    losses equal to about 34%, 25%, and 35% of the scaled binary price; the pattern survives
+    conservative bid-ask pricing, tighter timing, quantity restrictions, reverse-direction placebos, and
+    within-exchange comparisons, cannot be rationalized by a broad set of standard expected-utility,
+    prospect-theory, ambiguity, salience, gambling, or rational-inattention formulations that preserve
+    statewise dominance, and is consistent with investors paying a cognitive simplicity premium that
+    becomes less attractive as the bull spread's monetary dominance grows.
