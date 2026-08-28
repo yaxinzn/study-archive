@@ -18607,3 +18607,16 @@
     more IT intensive before the deal, while average wages rise about 2.4–2.5% and within-establishment
     wage dispersion about 3.1–3.3%, implying that ownership changes diffuse technology in ways that
     disproportionately displace routine workers and widen labor-market inequality.
+- title: "Li, Rossi, Yan, and Zheng (JFE, 2025) - Machine Learning from a “Universe” of Signals: The Role of Feature Engineering"
+  file: "https://www.dropbox.com/scl/fi/a6mkczssqvgrlndoad7dh/Li_Rossi_Yan_Zheng_JFE_2025.pdf?rlkey=y61mi0ilmqrz2hfkqiw9k8boq&dl=0"
+  desc: >-
+    This note summarizes the paper, which asks how much machine-learning asset-pricing performance comes
+    from flexible algorithms versus human-designed predictors by feeding boosted trees and neural
+    networks a real-time-implementable universe of 18,113 mechanically generated fundamental signals,
+    finding profitable but far more modest performance than with curated anomaly sets—baseline boosted
+    trees earn 0.95% per month with an equal-weighted Sharpe ratio of 1.02, whereas the same learner
+    applied to Chen-Zimmermann predictors earns 5.14% with a Sharpe ratio of 3.64—and showing that a
+    simple recursive ranking rule applied to the identical broad signal universe attains Sharpe ratios
+    of 1.60 and 1.17 in equal- and value-weighted portfolios, while analogous return-lag exercises reach
+    the same conclusion that feature engineering and inductive bias complement rather than become
+    obsolete under machine learning.
