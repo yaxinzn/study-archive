@@ -18767,3 +18767,17 @@
     except for a modest contraction among highly leveraged SMEs, showing that targeted credit rationing
     can change who lends without materially constraining most firms when alternative suppliers remain
     available.
+- title: "Capponi, Jia, and Wang (JFE, 2025) - Maximal Extractable Value and Allocative Inefficiencies in Public Blockchains"
+  file: "https://www.dropbox.com/scl/fi/xeau0qpcfxj82ezdwa3xd/Capponi_Jia_Wang_JFE_2025.pdf?rlkey=nvdaosmpyrns62940h0ec46n3&dl=0"
+  desc: >-
+    This note summarizes the paper, which models public-blockchain frontrunning as an allocative
+    distortion in scarce blockspace and studies private transaction pools as an endogenous remedy,
+    showing that privacy protects vulnerable users but voluntary validator adoption can stop
+    inefficiently short of full coverage because suppressing attacks also destroys
+    maximal-extractable-value rents; severe frontrunning induces full private-pool adoption and
+    efficiency, whereas moderate frontrunning produces a unique partial-adoption equilibrium with
+    persistent attacks and execution risk, and Ethereum/Flashbots evidence matches the mechanism as
+    adoption stabilizes near one-half, private-pool adoption raises treated miner revenue, users with
+    larger expected attack losses route privately, and private sandwich-attack fee-to-revenue ratios
+    converge toward one, while pre-signed protection fees can restore efficient full adoption by
+    compensating validators ex ante for forgone MEV.
