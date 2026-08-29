@@ -18781,3 +18781,16 @@
     larger expected attack losses route privately, and private sandwich-attack fee-to-revenue ratios
     converge toward one, while pre-signed protection fees can restore efficient full adoption by
     compensating validators ex ante for forgone MEV.
+- title: "Green and Vallée (JFE, 2025) - Measurement and Effects of Bank Exit Policies"
+  file: "https://www.dropbox.com/scl/fi/jjrgsb2mdny17jrn928jp/Green_Vallee_JFE_2025.pdf?rlkey=mt6fya7geaj7qbo8s8vg0en0s&dl=0"
+  desc: >-
+    This note summarizes the paper, which converts 126 coal-finance policy statements issued by 82 banks
+    into a transaction-scenario policy-strength measure and then traces the effects of bank exit from
+    credit supply to firm financing and physical emissions, finding within borrower-year that
+    stronger-policy banks supply less coal finance and that a one-standard-deviation increase in
+    historical relationship-bank exposure lowers firm-level annual debt issuance by roughly 18–20%;
+    replacement capital is limited, so exposed firms reduce long-term debt, leverage, and assets, coal
+    plants face about a 41% higher post-2015 retirement hazard and lower utilization, and facility
+    emissions fall, with the paper estimating net cumulative avoided emissions of about 0.62 gigatons of
+    CO2e through 2022 after replacement generation, illustrating that exit can affect real activity when
+    capital is relationship specific, participation is broad, and restrictions are precise.
