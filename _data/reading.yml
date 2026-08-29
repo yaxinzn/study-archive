@@ -18728,3 +18728,16 @@
     become more negatively associated with uncertainty when rates are low, and average-inflation
     targeting mitigates the mechanism by generating compensating inflation overshoots in unconstrained
     states.
+- title: "Lopez, Vazquez-Grande, and Lopez-Salido (JFE, 2026) - A New Keynesian Model of the Term Structures of Equity and Bond Returns"
+  file: "https://www.dropbox.com/scl/fi/4ex4gcpx13v97exmci4e3/Lopez_VazquezGrande_LopezSalido_JFE_2026.pdf?rlkey=06q45i02p7y4evobl83svlra7&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a production-based asset-pricing model that combines a
+    sticky-price New Keynesian economy with two Campbell-Cochrane external habits and a
+    macro-finance-separation design that lets the stochastic discount factor move sharply without
+    destroying realistic macro quantities, jointly explaining the term structures of dividend strips,
+    real bonds, and nominal bonds; sticky prices create operating leverage and mean-reverting dividends
+    while countercyclical inflation shapes nominal-bond payoffs, so cash-flow risk dominates
+    short-horizon equity and habit-duration risk dominates long horizons, producing an initially
+    downward and ultimately U-shaped equity-premium curve alongside upward-sloping real and nominal bond
+    curves, with the calibrated model generating a 5.6% market equity premium, a 6.5% one-year
+    dividend-strip return, and cyclical yield-curve movements close to the data.
