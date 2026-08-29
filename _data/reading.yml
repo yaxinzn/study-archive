@@ -18741,3 +18741,16 @@
     downward and ultimately U-shaped equity-premium curve alongside upward-sloping real and nominal bond
     curves, with the calibrated model generating a 5.6% market equity premium, a 6.5% one-year
     dividend-strip return, and cyclical yield-curve movements close to the data.
+- title: "Blickle, He, Huang, and Parlatore (JFE, 2025) - Information-Based Pricing in Specialized Lending"
+  file: "https://www.dropbox.com/scl/fi/han8zza9ryyzidexxpih2/Blickle_He_Huang_Parlatore_JFE_2025.pdf?rlkey=qsypgc437omsf7lk170jsri56&dl=0"
+  desc: >-
+    This note summarizes the paper, which explains why specialized lenders can simultaneously charge
+    lower rates and make better-performing loans by separating coarse general information used for
+    screening from a granular private signal used for pricing: the specialized bank cuts rates
+    aggressively when its private posterior of repayment is high, while a nonspecialized rival faces a
+    winner's curse because winning is bad news about the specialized bank's signal; calibrated
+    one-signal canonical models predict a positive specialized-lender rate wedge of roughly 17–26 basis
+    points, whereas the multidimensional-information model produces about a −10 basis-point wedge, and
+    Federal Reserve Y14Q evidence on more than 350,000 C&I term loans shows specialization predicts
+    rates about 8–15 basis points lower and later nonperformance about 0.5 percentage points lower after
+    rich bank, borrower-risk, industry, and time controls.
