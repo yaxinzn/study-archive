@@ -18949,3 +18949,16 @@
     requirement of about 16%, roughly six percentage points above the optimum in a Merton-style
     symmetric-return model, with countercyclical buffer release useful only on top of sufficiently high
     structural capitalization.
+- title: "Kloks, Mattille, and Ranaldo (JFE, 2026) - Segmented Dollar Funding"
+  file: "https://www.dropbox.com/scl/fi/e8lr9na8eprig2dy3jx2v/Kloks_Mattille_Ranaldo_JFE_2026.pdf?rlkey=qdkk2g7pnwkuz9i2ezsi9yk1i&dl=0"
+  desc: >-
+    This note summarizes the paper, which reinterprets post-crisis covered-interest-parity deviations as
+    the equilibrium price of segmented dollar funding when Basel leverage rules make secured wholesale
+    dollar borrowing balance-sheet intensive but FX swaps largely off balance sheet; at quarter-end
+    Eurozone G-SIBs reduce dollar repo borrowing by about $50 billion and increase synthetic dollar
+    borrowing by roughly the same amount while global short-term FX-swap positions rise about $200
+    billion, a granular-IV design shows that a 1% increase in non-U.S. synthetic dollar demand raises
+    the basis by about 0.52–1.10%, and the resulting market-wide markup transfers an estimated $5.3
+    billion annually to U.S. dealers and raises non-U.S. customers’ currency-hedging costs by about
+    $10.4 billion, with the 2021 European reporting reform sharply reducing both the substitution and
+    the quarter-end basis spike.
