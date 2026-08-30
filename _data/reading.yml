@@ -18975,3 +18975,15 @@
     leverage rule that limits deposit-funded safe-asset expansion works best when combined with a
     capital buffer, while monetary easing must be coordinated carefully because compressing deposit
     margins during crises can offset some credit-support benefits.
+- title: "Jiang, Richmond, and Zhang (JFE, 2026) - Convenience Lost"
+  file: "https://www.dropbox.com/scl/fi/6p6xzb6d8qrebzkh4h3po/Jiang_Richmond_Zhang_JFE_2026.pdf?rlkey=4wt1d40pxuf0nn6jsvwlrfu83&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses narrative tax-legislation shocks as an instrument for
+    Treasury supply to estimate maturity-specific inverse demand for government-debt convenience,
+    finding an IV slope of −1.22 for three-to-twenty-year Treasurys versus a small and insignificant
+    −0.16 for one-to-three-year debt, so raising medium- and long-term Treasury supply by five
+    percentage points of GDP from its sample mean lowers convenience yields by about 36 basis points;
+    identified supply growth explains much of the secular deterioration in longer-maturity domestic and
+    international Treasury convenience and a sizable erosion of convenience-yield seigniorage, while
+    short maturities retain a much flatter, more money-like demand curve, creating a debt-management
+    trade-off between preserving the funding advantage by issuing short and increasing rollover risk.
