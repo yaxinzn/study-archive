@@ -18923,3 +18923,16 @@
     and intangible intensity and widening after the mid-1990s, while investment becomes far more
     responsive to the correct marginal shadow value and implied adjustment costs fall dramatically
     relative to estimates based on average Q.
+- title: "Kargar, Lester, Plante, and Weill (JF, 2026) - Sequential Search for Corporate Bonds"
+  file: "https://www.dropbox.com/scl/fi/grhxepeteb5s2q1tz4rjm/Kargar_Lester_Plante_Weill_JF_2026.pdf?rlkey=mjbzbd2ybovdmlhl5fwrurv06&dl=0"
+  desc: >-
+    This note summarizes the paper, which links complete MarketAxess request-for-quote histories with
+    TRACE trades and estimates a competing-risks model of the customer’s sequential search process after
+    an electronic inquiry fails, showing that corporate-bond execution typically takes two to three
+    business days rather than minutes even for relatively liquid electronic orders and nearly doubles
+    during March 2020; about 90% of failed inquiries nevertheless contain at least one dealer quote,
+    quote quality remains dispersed rather than systematically deteriorating across attempts, and
+    customers who reject the first inquiry and later trade electronically improve execution prices by
+    roughly 10 basis points, while dealer-specific inventory strongly predicts both response probability
+    and quoted prices, pointing to interdealer inventory frictions as a key source of customer search
+    delays.
