@@ -18911,3 +18911,15 @@
     points, and raises postbankruptcy survival by about 20.7 points, with much greater incumbent-owner
     retention suggesting that reduced process frictions and preservation of owner-specific human capital
     create going-concern surplus rather than simply sustain zombie firms.
+- title: "Gala, Gomes, and Liu (JF, 2026) - Marginal Q"
+  file: "https://www.dropbox.com/scl/fi/j3z7ta6qsk7t515ki7e87/Gala_Gomes_Liu_JF_2026.pdf?rlkey=3ebgkbtd9f3x8zdr0712hrq7s&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a quasi-model-free estimator of marginal q by
+    projecting firms’ market-value-to-capital ratio on state variables and differentiating the fitted
+    value function, thereby separating classical measurement error in observed Tobin’s Q from the deeper
+    average-versus-marginal mismatch created by market power, decreasing returns, and omitted intangible
+    capital; in U.S. manufacturing data from 1973–2019, observed Tobin’s Q averages 3.567, Fitted Q
+    2.805, and estimated marginal q only 1.352, with the q–Q wedge strongly related to operating margins
+    and intangible intensity and widening after the mid-1990s, while investment becomes far more
+    responsive to the correct marginal shadow value and implied adjustment costs fall dramatically
+    relative to estimates based on average Q.
