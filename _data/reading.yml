@@ -18936,3 +18936,16 @@
     roughly 10 basis points, while dealer-specific inventory strongly predicts both response probability
     and quoted prices, pointing to interdealer inventory frictions as a key source of customer search
     delays.
+- title: "Mendicino, Nikolov, Rubio-Ramirez, Suarez, and Supera (JF, 2026) - Twin Defaults and Bank Capital Requirements"
+  file: "https://www.dropbox.com/scl/fi/hjy32m68yarvg1u61n78r/Mendicino_Nikolov_RubioRamirez_Suarez_Supera_JF_2026.pdf?rlkey=eg29yke98ndvcuqvis636fqha&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a nonlinear general-equilibrium banking model in
+    which specialized banks hold defaultable corporate loans whose contractual payoff caps upside but
+    leaves a long left tail when correlated borrower losses rise, generating state-dependent “twin
+    defaults” in firms and banks without relying on depositor panics; the model matches the nonlinear
+    increase in bank-default sensitivity when firm defaults are already high and the severe GDP losses
+    of joint-default episodes, and because bank failures are most socially costly when they coincide
+    with corporate bankruptcy and a credit collapse, welfare is maximized at a minimum bank capital
+    requirement of about 16%, roughly six percentage points above the optimum in a Merton-style
+    symmetric-return model, with countercyclical buffer release useful only on top of sufficiently high
+    structural capitalization.
