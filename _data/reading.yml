@@ -19002,3 +19002,17 @@
     higher purchase cost sharply increases cost-based reasoning and can reduce the good-news
     higher-return forecast share to 49%, linking selective attention and problem representation to
     trading on stale news, extrapolative expectations, and disagreement across investors.
+- title: "Celik and Strausz (ReStud, 2026) - Informative Certification: Screening versus Acquisition"
+  file: "https://www.dropbox.com/scl/fi/wuwi2s9c60d1txfpfdm54/Celik_Strausz_RES_2026.pdf?rlkey=c50p3b0vt3z17vjs82qpq00gt&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies a monopolistic certifier when sellers have partial
+    private information about product quality and the certifier can both screen that private posterior
+    through menu choice and acquire new verifiable evidence through testing, proving a sharp asymmetry:
+    every nonmaximal-screening menu is Pareto dominated by a maximally separating menu, because
+    revealing soft information improves quantity matching and creates surplus the certifier can capture
+    without raising seller rents, while hard information is systematically underproduced because a more
+    informative test for lower types raises mimicking incentives and therefore the information rents of
+    all higher types; in the tractable power-revenue cases the monopolist may optimally provide no hard
+    information when its social value is moderate and progressively more information as it becomes
+    valuable, so the central regulatory distortion is insufficient testing, verification, or
+    investigation rather than insufficient screening of seller claims.
