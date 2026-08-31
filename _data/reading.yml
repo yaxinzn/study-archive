@@ -19042,3 +19042,17 @@
     Extrapolation as forecast-specific overreaction heuristics, and experimental More Similar and Less
     Similar treatments causally move those heuristics and the aggregate gap by changing how closely
     accessible nontarget statistics resemble the requested statistical object.
+- title: "Nguyen (Econometrica, 2026) - Information Design in Common Value Auction with Moral Hazard: Application to OCS Leasing Auctions"
+  file: "https://www.dropbox.com/scl/fi/ygcinewv64p733zuqe10q/Nguyen_Econometrica_2026.pdf?rlkey=i92n911ov5ngsujm1jg3wbqib&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies U.S. offshore oil-and-gas lease auctions where losing
+    bids reveal rivals’ common-value information before the winner decides whether to drill, combining
+    first-price auction inversion, a proprietary rig-market exploration-cost shifter, spatially modeled
+    tract priors, and structural estimation to identify how post-auction disclosure affects bids,
+    exploration, royalties, and welfare; moving from full disclosure to nondisclosure lowers bids by
+    about 4.21% for deep tracts and 1.13% for shallow tracts but increases expected royalty revenue
+    enough to raise total government revenue by roughly $0.62–$0.63 million per deep tract and $0.81
+    million per shallow tract, with the gain strongest when rival signals are weakly correlated, while
+    welfare rises by about $2.84 million for deep tracts but falls slightly for shallow tracts because
+    withholding information can improve drilling only when its persuasion effect usefully offsets the
+    preexisting royalty distortion.
