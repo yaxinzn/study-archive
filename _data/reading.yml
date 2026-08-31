@@ -19016,3 +19016,16 @@
     information when its social value is moderate and progressively more information as it becomes
     valuable, so the central regulatory distortion is insufficient testing, verification, or
     investigation rather than insufficient screening of seller claims.
+- title: "Chen (Econometrica, 2026) - Economic Growth and the Rise of Large Firms"
+  file: "https://www.dropbox.com/scl/fi/1i007vlgs8ikw3gprjn3h/Chen_Econometrica_2026.pdf?rlkey=nkir5b0abt4viwej98ox95eax&dl=0"
+  desc: >-
+    This note summarizes the paper, which documents that the Pareto right tail of firm size thickens as
+    countries develop—tail-index estimates fall with GDP per capita within 33 OECD countries and over
+    time in the United States—and explains the fact with an endogenous-growth model in which firms
+    search upward and learn only from more productive firms, making proportional gains scale invariant
+    under Pareto tails and thereby reconciling Gibrat’s law with an evolving size distribution; along
+    the baseline transition the tail index follows k(t)=1+(k0−1)e^(−Lt), converges toward Zipf’s law,
+    and generates “tail growth” through persistent reallocation toward increasingly productive giant
+    firms, while a diffusion externality makes the planner tilt idea-search effort toward
+    high-productivity firms because innovations at the top improve learning opportunities for a much
+    broader set of firms.
