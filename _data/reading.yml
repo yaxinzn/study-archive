@@ -19029,3 +19029,16 @@
     firms, while a diffusion externality makes the planner tilt idea-search effort toward
     high-productivity firms because innovations at the top improve learning opportunities for a much
     broader set of firms.
+- title: "Fan, Liang, and Peng (Econometrica, 2026) - The Inference-Forecast Gap in Belief Updating"
+  file: "https://www.dropbox.com/scl/fi/jvqe26zzrm1ny5hxl83fr/Fan_Liang_Peng_Econometrica_2026.pdf?rlkey=ppw6avodvhz5nkzi2j75bzz5h&dl=0"
+  desc: >-
+    This note summarizes the paper, which gives the same participant the same prior, signal, incentives,
+    and data-generating process but alternates between inferring a latent state and forecasting the next
+    outcome, creating a no-gap rational benchmark under which the two numerical updates should coincide;
+    instead, 60.8% of inference responses underreact and their mean update is 14.3 versus a rational
+    23.3, while 53.9% of forecast revisions overreact with a mean update of 32.7, and nudge and
+    expectation-formation tests reject a simple infer-then-law-of-iterated-expectations
+    implementation-error account; the response distributions reveal Exact Representativeness and Naive
+    Extrapolation as forecast-specific overreaction heuristics, and experimental More Similar and Less
+    Similar treatments causally move those heuristics and the aggregate gap by changing how closely
+    accessible nontarget statistics resemble the requested statistical object.
