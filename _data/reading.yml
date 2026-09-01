@@ -19151,3 +19151,16 @@
     while implying that cross-rater disagreement can reflect efficient scope specialization rather than
     poor measurement and that disclosure reforms can dominate standardization aimed merely at making
     ratings agree.
+- title: "Axelson and Makarov (JFE, 2026) - Sequential Credit Markets"
+  file: "https://www.dropbox.com/scl/fi/u0iml6uco3mddzrto1lg1/Axelson_Makarov_JFE_2026.pdf?rlkey=7mkp056pjbx35a9auu50fhelx&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies a transparent sequential credit market in which an
+    entrepreneur approaches informed investors one by one and shows that each rejection worsens public
+    beliefs but the current entrepreneur–investor pair does not internalize how permissive terms today
+    make future rejection more damaging, creating a dynamic adverse-selection externality that pushes
+    the entrepreneur toward high rates and low screening cutoffs; early visited investors consequently
+    earn rents bounded away from zero even as the investor pool becomes arbitrarily large, tiny
+    advantages can generate disproportionately valuable preferential deal flow, and when the planner
+    values many signals the transparent market overinvests, whereas hiding search history or
+    centralizing allocation dissipates rents—although the welfare ranking reverses when a constrained
+    planner would optimally use only a small number of screens.
