@@ -19218,3 +19218,17 @@
     shocks by roughly 26–29%, and weakens auction bidding enough to raise high-yield spreads by about
     0.14 basis points, with the risk-insensitive SLR affecting bills and coupons similarly but VaR
     concentrating on riskier maturities.
+- title: "Fricke, Jank, and Wilke (RFS, 2026) - Mutual Fund Clienteles"
+  file: "https://www.dropbox.com/scl/fi/6mz2oytiurpvqjz74bko6/Fricke_Jank_Wilke_RFS_2026.pdf?rlkey=cxbnt1bi55b2kw6etm6rodcdx&dl=0"
+  desc: >-
+    This note summarizes the paper, which merges Morningstar with Eurosystem security-level ownership
+    data for euro-area equity funds to directly observe mutual-fund clienteles and compare household,
+    insurer, and fund-of-fund flows inside the same fund-quarter, finding that households are least
+    performance sensitive, insurers primarily chase winners, and investment funds respond most strongly
+    on both the downside and upside; in the strict fund-by-quarter specification investment funds are
+    3.64 percentage points more sensitive than households below median performance and 4.55 points more
+    sensitive above it, whereas insurers add essentially nothing on the downside but 3.48 points on the
+    upside, and variation in household stake size, insurer ULIPs, and the flightiness of an investing
+    fund’s own clients supports fixed monitoring costs, balance-sheet/liability horizons, and
+    fund-network transmission, while ownership composition itself changes household attention and
+    therefore open-end-fund run risk.
