@@ -19164,3 +19164,16 @@
     values many signals the transparent market overinvests, whereas hiding search history or
     centralizing allocation dissipates rents—although the welfare ranking reverses when a constrained
     planner would optimally use only a small number of screens.
+- title: "Du and Huber (RFS, 2026) - Dollar Asset Holdings and Hedging around the Globe"
+  file: "https://www.dropbox.com/scl/fi/zeb2c09rildxmcvcnqehz/Du_Huber_RFS_2026.pdf?rlkey=pl7hmmtg8c3b5t51fbsv3yooh&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs a global sector-by-country measurement system
+    separating foreign holdings of dollar securities from the currency risk investors actually retain
+    after FX hedging and embeds those quantities in a conditional mean-variance demand model with
+    expected FX returns, CIP hedging costs, and segmented intermediary balance sheets; foreign dollar
+    holdings rise from about $5.5 trillion in 2002 to $33.4 trillion in 2021 while insurers, pensions,
+    and mutual funds hedge roughly $2 trillion by 2019 with 2020 hedge ratios of 43%, 35%, and 21%,
+    GDP-normalized hedging demand explains about 73% of cross-currency variation in average three-month
+    bases, and granular Japanese-insurer shocks show that an extra $1 billion of hedging widens the
+    basis by about 0.3–0.5 basis points, demonstrating that dollar asset demand, net dollar exposure,
+    and CIP deviations are distinct but jointly determined equilibrium objects.
