@@ -19243,3 +19243,17 @@
     fund’s own clients supports fixed monitoring costs, balance-sheet/liability horizons, and
     fund-network transmission, while ownership composition itself changes household attention and
     therefore open-end-fund run risk.
+- title: "Sammon and Shim (RFS, 2026) - Who Clears the Market When Passive Investors Trade?"
+  file: "https://www.dropbox.com/scl/fi/zqelb4uxd2d9d0mtsqict/Sammon_Shim_RFS_2026.pdf?rlkey=dn8jd7q4ssnvj5d0hw11kbuzy&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds an exact stock-quarter market-clearing system for U.S.
+    equities to identify who supplies shares when passive funds trade and finds that firms themselves
+    and short sellers, not conventional long-only institutions, absorb almost all marginal passive
+    buying: when Index Funds buy one additional percentage point of shares, baseline Firm and Short
+    Seller slopes are −0.703 and −0.270, while active funds, pensions, and insurers generally buy
+    alongside them; two instruments based on residualized index-fund flows and heterogeneous style-index
+    additions/deletions confirm an asymmetric causal Firm response of about −0.423 to positive passive
+    demand but essentially zero to selling, with firm supply much stronger at high valuations and
+    roughly 82% of the annual response coming from issuance outside identified SEOs and buybacks, much
+    of it tied to stock compensation, implying that passive secondary-market demand endogenously expands
+    share supply and can flow through to corporate financing.
