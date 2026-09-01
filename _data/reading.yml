@@ -5745,9 +5745,20 @@
 - title: "Bennett, Bettis, Gopalan, and Milbourn (JFE, 2017) — Compensation goals and firm performance"
   file: "https://www.dropbox.com/scl/fi/bxlk0r664bl8idtzak9bj/Bennett_Bettis_Gopalan_Milbourn_JFE_2017.pdf?rlkey=z5tcytni0qmw37bz1r35dkyr3&dl=0"
   desc: "This note summarizes the paper, which uses Incentive Lab executive-contract disclosures matched to Compustat to test for “just-beat-the-goal” bunching in Actual−Goal at zero via McCrary density discontinuity, Bollen–Pool-style across-density tests, bootstrap/bin-based regressions, and then examines mechanisms through target-ratcheting and forced-turnover regressions plus earnings-management/real-actions tests (abnormal accruals and R&D/SG&A cuts)."
-- title: "Bretscher, Schmid, Sen, and Sharma (RFS, 2026) — Institutional Corporate Bond Pricing"
-  file: "https://www.dropbox.com/scl/fi/mur0vukxrl8k7om1rt65i/Bretscher_Schmid_Sen_Sharma_RFS_2026.pdf?rlkey=2g7exn10kexljnv9hh9n9rzhu&dl=0"
-  desc: "This note summarizes the paper, which builds and estimates a demand-based equilibrium corporate bond pricing model using institutional holdings and bond prices, specifies a nested-logit demand system within and across rating groups (IG vs HY) identified via a mandate-based sequential IV strategy, imposes market clearing to back out equilibrium spreads, and uses the estimated elasticities to quantify price impact/fragility and counterfactual spread effects of ownership shifts, downgrades, and fund outflows."
+- title: "Sharma (RFS, 2026) - The Product Market Effects of Index Inclusion"
+  file: "https://www.dropbox.com/scl/fi/l99obivzv8p97ybrle3cf/Sharma_RFS_2026.pdf?rlkey=eubnysabiqjtvek069n6ig69p&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits local Russell 1000/2000 index switches as instruments
+    for quasi-indexer ownership and links those financial shocks to barcode-level NielsenIQ purchases to
+    show that firms respond to easier equity financing by investing in customer capital rather than
+    physical capital; a Russell-1000-to-2000 switch raises quasi-indexer ownership by roughly 5.7–6.6
+    percentage points and lowers product prices by about 1.6–1.7%, IV estimates imply that each
+    additional ownership point cuts prices by 0.20–0.25% while raising quantities, dollar sales, and
+    market share by roughly 1.5–1.8%, and firms expand trade credit, selling effort, and product scope
+    as current margins fall but later profitability improves, with stronger effects in externally
+    dependent and equity-issuing firms supporting a managerial-learning channel in which a better
+    funding environment lowers the shadow value of internal capital and makes price cuts an investment
+    in future demand.
 - title: "\"Landais (AEJEP, 2015) — Assessing the Welfare Effects of Unemployment Benefits Using the Regression Kink"
   file: "https://www.dropbox.com/scl/fi/sws8mmo27tq55akq8owi1/Landais_AEJEP_2015.pdf?rlkey=9k5txviy0m9dtfbqjlzo8p9sr&dl=0"
   desc: "This note summarizes the paper, which uses kinked U.S. unemployment-insurance schedules (weekly benefit level and potential duration) to implement a local-polynomial Regression Kink Design on administrative UI data, combines the RKD estimates with a dynamic search model (Proposition 1) to correct for state dependence and separately identify liquidity vs moral-hazard (Frisch) effects from level-versus-duration changes, and interprets the key density/covariate smoothness validity checks plus the core tables and figures on duration elasticities and welfare implications."
