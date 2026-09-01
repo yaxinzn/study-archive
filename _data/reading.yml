@@ -19205,3 +19205,16 @@
     16-point effect per standard deviation of induced perceptions, while identity, in-group favoritism,
     and exaggerated stereotypes explain why these beliefs are behaviorally powerful yet partly
     malleable.
+- title: "Bräuning and Stein (RFS, 2026) - The Effect of Primary Dealer Constraints on Intermediation in the Treasury Market"
+  file: "https://www.dropbox.com/scl/fi/3fyh26i5nef91j14etchn/Brauning_Stein_RFS_2026.pdf?rlkey=iw1evxbv1ixi4aq7fcf9gadyg&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses confidential Federal Reserve dealer microdata and two
+    complementary quasi-experiments—the April 2020 SLR exemption for Treasuries and reserves and
+    granular idiosyncratic VaR-limit shocks from 2016–2023—to show that both broad leverage constraints
+    and desk-level risk limits causally restrict Treasury intermediation; a one-percentage-point lower
+    pre-policy SLR predicts roughly 9–10 percentage points greater expansion in gross Treasury positions
+    after the exemption, while a one-standard-deviation VaR tightening cuts net positions by about 2.1%
+    and turnover by 1.7–2.1%, widens bid–ask spreads by 2.4–2.7%, amplifies yield responses to demand
+    shocks by roughly 26–29%, and weakens auction bidding enough to raise high-yield spreads by about
+    0.14 basis points, with the risk-insensitive SLR affecting bills and coupons similarly but VaR
+    concentrating on riskier maturities.
