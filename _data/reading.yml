@@ -19333,3 +19333,15 @@
     while the actual ceiling policies cut awarded capacity by about 16% but winning prices by only about
     1%, demonstrating that weak commitment both raises required prices and destroys investment when
     public demand is price sensitive.
+- title: "Andrews and Shapiro (Econometrica, 2026) - Communicating Scientific Uncertainty via Approximate Posteriors"
+  file: "https://www.dropbox.com/scl/fi/waqx68gdera0r7xr2mfoq/Andrews_Shapiro_Econometrica_2026.pdf?rlkey=uflbsdvoleav1z9ncq7ou5btp&dl=0"
+  desc: >-
+    This note summarizes the paper, which treats scientific reporting as a communication problem for
+    heterogeneous Bayesian decision-makers and evaluates approximate posterior summaries by the
+    posterior regret they induce rather than by statistical distance alone, deriving a sharp worst-case
+    regret bound and then showing that under bounded signed variation the economically relevant error
+    can be controlled by a signed Kolmogorov distance read directly from a p-p plot; because researchers
+    often lack an explicit central prior, the paper justifies a Bayes-bootstrap distribution as a
+    surrogate posterior and proposes reporting the bootstrap instead of a conventional normal
+    approximation when the discrepancy is too large, with a census of 81 bootstrap-based objects from 14
+    papers in the 2021 AER finding SK distance above 0.1 for 72% of objects and above 0.2 for 32%.
