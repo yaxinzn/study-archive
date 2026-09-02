@@ -19358,3 +19358,17 @@
     screening, whereas with low trialability silence under screening becomes good news and the seller
     cycles between pooling and screening until sufficiently high patience restores the standard ratchet
     outcome of permanent pooling.
+- title: "Eckardt (Econometrica, 2026) - Training Specificity and Occupational Mobility: Evidence from German Apprenticeships"
+  file: "https://www.dropbox.com/scl/fi/l026bpu01j8izstfld5im/Eckardt_Econometrica_2026.pdf?rlkey=lrhojohyyfjcepx998ydqmf8g&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines German administrative employment records with
+    apprenticeship vacancies and a generalized Roy model to estimate how much occupation-specific human
+    capital workers lose when they leave the field in which they trained, addressing sequential
+    selection into 13 training fields and 13 occupations with a Lee–Dahl control function,
+    outside-option vacancy instruments, random-forest first stages, and an instrument for endogenous
+    occupation-specific experience; although the naive matched-training coefficient is near zero, the
+    selection-adjusted estimate is about 0.1396, implying roughly a 14% wage penalty from lacking
+    training in the current occupation, while a one-standard-deviation increase in task distance lowers
+    the training–occupation return by about 6.9 percentage points and the penalty falls only partly with
+    experience, motivating better ex ante information and accessible retraining as complements to highly
+    specialized apprenticeship systems.
