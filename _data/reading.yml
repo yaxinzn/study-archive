@@ -19345,3 +19345,16 @@
     surrogate posterior and proposes reporting the bootstrap instead of a conventional normal
     approximation when the discrepancy is too large, with a census of 81 bootstrap-based objects from 14
     papers in the 2021 AER finding SK distance above 0.1 for 72% of objects and above 0.2 for 32%.
+- title: "Hörner and Sanktjohanser (Econometrica, 2026) - Dynamic Screening of Buyers with Heterogeneous Purchase Frequency"
+  file: "https://www.dropbox.com/scl/fi/sof3s7pbuqqt0n9mkxn1m/Horner_Sanktjohanser_Econometrica_2026.pdf?rlkey=xjcce0utkohbwbm7r212s4avc&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies dynamic price discrimination when buyers have
+    identical valuations but privately know how frequently genuine purchase needs arrive, showing that
+    stochastic purchase timing itself can serve as hard evidence: with commitment, rolling limited-time
+    offers separate high- and low-frequency buyers, preserve efficient trade, and extract all
+    information rents, while without commitment purchases are always good news about a heavy buyer and
+    the meaning of silence depends on market trialability; when outside alternatives are easy to
+    qualify, inactivity is bad news and the seller uses a pooling grace period followed by permanent
+    screening, whereas with low trialability silence under screening becomes good news and the seller
+    cycles between pooling and screening until sufficiently high patience restores the standard ratchet
+    outcome of permanent pooling.
