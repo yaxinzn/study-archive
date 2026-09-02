@@ -19308,3 +19308,15 @@
     doubling the non-LNG gas share lowers emissions by 20.6% if unexpected but raises them by 14.0% if
     anticipated, making upstream exploration, licensing, and export-capacity regulation valuable as
     commitment devices.
+- title: "Ho and Lee (Econometrica, 2026) - Contracting Over Pharmaceutical Formularies and Rebates"
+  file: "https://www.dropbox.com/scl/fi/0deygx270m6uwfx5kros5/Ho_Lee_Econometrica_2026.pdf?rlkey=7yzmcaezba9a35gheqh2tzve5&dl=0"
+  desc: >-
+    This note summarizes the paper, which models a pharmacy benefit manager’s formulary as a
+    multidimensional bargaining instrument whose preferred tiers, non-preferred tiers, and exclusion
+    threats reshape manufacturers’ disagreement profits and therefore the rebates the PBM can extract;
+    combining a manufacturer-indifference refinement with Princeton statin claims from 2011–2018 and a
+    dynamic discrete-choice model with sizable molecule and channel switching costs, the simulations
+    imply zero rebates with only one undifferentiated branded tier, rebates of about 28.1% for Lipitor
+    and 38.2% for Crestor when two branded tiers allow demand steering, and much larger 66.5% and 77.5%
+    rebates when exclusion is allowed, while also showing that adding an intermediate tier can reduce
+    bargaining leverage if it softens the PBM’s credible disagreement formulary.
