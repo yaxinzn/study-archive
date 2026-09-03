@@ -5634,9 +5634,19 @@
 - title: "Celentano & Rempel (RES, 2026) — Public Listing Choice with Persistent Hidden Information"
   file: "https://www.dropbox.com/scl/fi/ye5n3z7qxf2talj5gtmg6/Celentano_Rempel_RES_2026.pdf?rlkey=vr9rs6v515d0ajsc4fzut87ua&dl=0"
   desc: "\" This note summarizes the paper, which develops a continuous-time financing-and-contracting model with a persistent hidden cash-flow component (OU dynamics) that creates an endogenous public “information premium,” derives equilibrium sorting between public incentive contracts and private monitoring under scarce private capital (with endogenous PE entry/matching), and then brings the model to the data using public–private listing-choice and CEO-pay reduced-form regressions (LPM/logit and pay-composition specifications) plus a structural GMM estimation that matches listing and pay-performance-sensitivity moments.\""
-- title: "Liao, Liu, and Wang (JFE, 2014) — China’s Secondary Privatization"
+- title: "Liao, Liu, and Wang (JFE, 2014) - China’s Secondary Privatization: Perspectives from the Split-Share Structure Reform"
   file: "https://www.dropbox.com/scl/fi/3tvpc0cv0c2u22dxtdc8s/Liao_Liu_Wang_JFE_2014.pdf?rlkey=fi6sddl6z0elr1yoro0vxtpqd&dl=0"
-  desc: "\" This note summarizes the paper, which treats China’s 2005–2007 Split-Share Structure Reform as a secondary-privatization shock, measures SOE “privatization-led” performance changes using matched size×industry (or size×M/B) benchmark-adjusted DiD-style comparisons, estimates median/Wilcoxon and Koenker–Bassett quantile regressions (plus Fama–French risk-adjusted return tests) on state ownership and government supportive-action proxies, and uses negotiated consideration and approval rates to test market-mechanism information-discovery predictions.\""
+  desc: >-
+    This note summarizes the paper, which interprets China’s 2005 Split-Share Structure Reform as a
+    second-stage privatization shock that made previously nontradable state control blocks market-priced
+    and legally transferable even before ownership actually changed, comparing SOEs with matched
+    non-SOEs that experienced the common removal of split shares but not the same future-privatization
+    option; over the three-year reform window median operating revenue rises 84% for SOEs versus 57% for
+    non-SOEs and employment 19% versus 2%, while productivity and governance show little incremental SOE
+    improvement, and stronger post-reform expansion is associated with government asset injections,
+    group listings, and fundraising whereas later state-share sales are concentrated among weaker
+    performers, supporting an expectation-and-incentive channel centered on tradable control rights
+    rather than immediate efficiency gains.
 - title: "Allen, Gu, Li, Qian, and Qian (JFE, 2023) — Implicit guarantees and the rise of shadow banking: The case of trust products"
   file: "https://www.dropbox.com/scl/fi/6sxb6c6gn9oxm24uckc0b/Allen_Gu_Li_Qian_Qian_JFE_2023.pdf?rlkey=cfkyt0rgpnthtw1vtk7mxjaiu&dl=0"
   desc: "\" This note summarizes the paper, which develops a screening-and-implicit-guarantee contracting model (and a SOE–private capital-misallocation extension) and then tests its predictions in a comprehensive Chinese trust-product dataset using baseline cross-sectional yield-spread regressions on implicit-guarantee proxies/IG index and risk controls, difference-in-differences around the 2015 stock-market crash, risk-sensitivity interactions and risk-shock event studies (2014 default and 2010 housing restrictions), and a policy-shock DiD around the 2018 asset-management regulations with issuance-size/credit-rationing regressions.\""
