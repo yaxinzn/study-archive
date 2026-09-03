@@ -19498,3 +19498,17 @@
     fire-sale incidence depend strongly on who holds the bond and which replacement investors can
     legally and willingly absorb it, making institutional composition an equilibrium state variable for
     corporate funding costs.
+- title: "Dávila and Parlatore (JFE, 2023) - Volatility and Informativeness"
+  file: "https://www.dropbox.com/scl/fi/zfvsxt2fkksthupgbeapl/Davila_Parlatore_JFE_2023.pdf?rlkey=tp0h61vlcszt4ca5cd30410qh&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows in a rational-expectations model with dispersed private
+    signals and aggregate nonfundamental sentiment that price volatility is not a universally valid
+    proxy for price informativeness because better information has two opposing effects: it removes
+    price noise and lowers volatility, but it also makes investors learn more from prices and increases
+    equilibrium sensitivity to fundamentals, producing a U-shaped volatility–informativeness relation;
+    the authors characterize positive, negative, and ambiguous comovement regions using scale-free
+    signal- and noise-precision ratios, map them into a stock-level comovement score estimated from
+    rolling price–future-earnings regressions, and find in CRSP/Compustat data from 1961–2017 that about
+    14% of observations lie in or near the negative region, 40% in or near the positive region, and the
+    rest are ambiguous, with the median score declining from roughly 0.75 in the mid-1980s to 0.65 by
+    2017.
