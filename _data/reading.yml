@@ -19448,3 +19448,16 @@
     most perceived skewness and tail risk and replacing registry risk with the level and heterogeneity
     of subjective risk raises the model-implied low-liquid-wealth share from 23% toward the observed
     62%, reaching 53% with ten risk groups.
+- title: "Danieli (ReStud, 2026) - Skill-Replacing Technology and Bottom-Half Inequality"
+  file: "https://www.dropbox.com/scl/fi/li075r0qxskjw3q6t775m/Danieli_ReStud_2026.pdf?rlkey=4q6xv7j76skiu7mti8xfzi94u&dl=0"
+  desc: >-
+    This note summarizes the paper, which proposes skill-replacing routine-biased technological change
+    in which automation substitutes for worker skill inside routine tasks and flattens the routine wage
+    schedule, generating a two-phase evolution in which higher-skilled routine workers near the middle
+    of the wage distribution are hit first and routine work later becomes concentrated among low-skill
+    workers; an interactive fixed-effects model estimated on PSID data from 1980–2017, with schooling
+    instrumenting noisy latent skill, finds that the return to skill in routine occupations falls by
+    more than 0.7 log points—about 50%—from its late-1980s peak while the average skill of routine
+    workers also declines, and a CPS skewness decomposition attributes roughly 93% of the 1992–2002 rise
+    in wage polarization to occupational structure, with 78.5% coming from the covariance between
+    occupation wage levels and within-occupation inequality.
