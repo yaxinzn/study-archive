@@ -19471,3 +19471,16 @@
     workers also declines, and a CPS skewness decomposition attributes roughly 93% of the 1992–2002 rise
     in wage polarization to occupational structure, with 78.5% coming from the covariance between
     occupation wage levels and within-occupation inequality.
+- title: "Giglio and Xiu (JPE, 2021) - Asset Pricing with Omitted Factors"
+  file: "https://www.dropbox.com/scl/fi/mkk2asde8tf46fr66st9f/Giglio_Xiu_JPE_2021.pdf?rlkey=okdbbdgxb3vblirf0idyd45kp&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows how to estimate the risk premium of a named economic
+    factor when the true linear pricing model contains unknown omitted factors by exploiting the
+    rotation invariance of the target premium hγ: a three-pass estimator first uses PCA on a large
+    return panel to recover the pervasive latent factor space, then prices those extracted factors
+    cross-sectionally, and finally projects the observed factor proxy onto that space to remove
+    measurement error before combining its exposures with latent-factor premia; under large-n and
+    large-T asymptotics the estimator is consistent and behaves as if the latent factors were observed,
+    and in 647 U.S. equity, Treasury, corporate-bond, and currency portfolios from 1976–2010 it produces
+    stable premia for liquidity, intermediary-capital, macro-PC, and stockholder-consumption proxies
+    while screening out several noisy or spurious factors.
