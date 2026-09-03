@@ -19422,3 +19422,15 @@
     and a calibrated six-sector transition attributes 43% of GDP-per-worker growth in 1960–1980, 52% in
     1980–2000, and 94% in 2000–2019 to investment-specific technical change, with shutting down
     endogenous investment-network reallocation reducing post-2000 growth by about 20%.
+- title: "Farboodi and Veldkamp (ReStud, 2026) - A Model of the Data Economy"
+  file: "https://www.dropbox.com/scl/fi/qz02x4289mub00chr4kvw/Farboodi_Veldkamp_RES_2026.pdf?rlkey=ejhoe38dk2170kd0zflsl6x8c&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a dynamic equilibrium model in which transactions
+    generate signals, firms accumulate the resulting forecast precision as a depreciating and partially
+    non-rival intangible asset, and current production is chosen partly for the future data it creates,
+    generating an S-shaped data feedback loop, rational loss-making experimentation, high market-to-book
+    gaps, and zero-money-price “data barter”; Bayesian learning makes depreciation endogenous and
+    marginal informational returns eventually diminish unless data generate permanent innovation,
+    competitive equilibrium is efficient in the baseline but a business-stealing externality causes
+    excessive production and data collection, and a U.S. calibration for 2003–2018 values unrecorded
+    transaction-generated data at roughly 3–6% of measured GDP.
