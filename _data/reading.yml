@@ -19386,3 +19386,15 @@
     domestic shocked-market price increases from 7.9% to 5.6% but exports scarcity abroad, with
     near-zero aggregate welfare effects masking losses concentrated in poorer and more heat-exposed
     countries.
+- title: "Bianchi, Ilut, and Saijo (ReStud, 2026) - Smooth Diagnostic Expectations"
+  file: "https://www.dropbox.com/scl/fi/kxpbf2i20mpkncct7kdu9/Bianchi_Ilut_Saijo_RES_2026.pdf?rlkey=ksz8f8lkqkfe9626s2jdxy2o7&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops Smooth Diagnostic Expectations, a time-series version
+    of representativeness in which effective overreaction is endogenous to the ratio of current to
+    reference uncertainty rather than fixed: under Normal beliefs, higher residual uncertainty
+    simultaneously magnifies mean overreaction and generates underconfidence, while falling uncertainty
+    dampens overreaction and generates overconfidence; Survey of Professional Forecasters data from
+    1968:Q4–2023:Q2 show forecast-error-on-revision slopes become more negative in high-uncertainty
+    states, and embedding the mechanism in an island RBC model makes adverse shocks raise uncertainty
+    and diagnosticity together, producing asymmetric recessions and countercyclical macro and micro
+    volatility that the calibrated model closely reproduces.
