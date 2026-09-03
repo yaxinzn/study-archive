@@ -19512,3 +19512,16 @@
     14% of observations lie in or near the negative region, 40% in or near the positive region, and the
     rest are ambiguous, with the median score declining from roughly 0.75 in the mid-1980s to 0.65 by
     2017.
+- title: "Siriwardane (JF, 2019) - Limited Investment Capital and Credit Spreads"
+  file: "https://www.dropbox.com/scl/fi/zcssud5rrwmdt4xo6j1qt/Siriwardane_JF_2019.pdf?rlkey=chz9a6boskavk1zmuqfzl8fs0&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses near-universe DTCC CDS positions from 2010–2016 to link
+    each reference firm’s weekly spread to mark-to-market losses suffered by its existing net protection
+    sellers on out-of-industry CDS positions, finding that a $1 billion seller loss raises the firm’s
+    CDS spread by about 2.7% and seller shocks explain roughly 12% of weekly spread variation versus
+    about 18% for conventional firm and macro credit variables, while buyer shocks are not robust; the
+    effect survives institution-level capital controls, is absent in equity and option-implied-credit
+    placebos and for tightly integrated on-the-run CDX names, has a roughly two-week half-life and
+    disappears after about nine weeks, and operates mainly through higher incumbent reservation prices
+    rather than large quantity cuts or rapid entry, showing that desk-level capital silos and the
+    identity of marginal protection sellers shape short-run credit pricing.
