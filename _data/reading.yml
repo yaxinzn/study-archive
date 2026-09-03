@@ -19398,3 +19398,15 @@
     states, and embedding the mechanism in an island RBC model makes adverse shocks raise uncertainty
     and diagnosticity together, producing asymmetric recessions and countercyclical macro and micro
     volatility that the calibrated model closely reproduces.
+- title: "Farina, Fréchette, Ispano, Lizzeri, and Perego (ReStud, 2026) - The Selective Disclosure of Evidence: An Experiment"
+  file: "https://www.dropbox.com/scl/fi/68978y957rnxcdnxm965h/Farina_Frechette_Ispano_Lizzeri_Perego_RES_2026.pdf?rlkey=ef11i6eqr0q2si5osed65o5up&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies verifiable disclosure when a sender observes N noisy
+    signals but can communicate only K and shows theoretically that an evidence-monotone equilibrium
+    selects the K most favorable observations, so larger evidence pools can make disclosed messages look
+    better yet eventually less informative because low-state senders can imitate high states; in a 2×3
+    laboratory design with K∈{1,3} and N∈{K,10,50}, concealment falls from material levels when all
+    evidence can fit to almost zero when N>K but strategic selection intensifies, receivers become more
+    skeptical as selection opportunities grow yet remain systematically too optimistic, and increasing K
+    raises informativeness while ordinary mandatory-disclosure rules do little against cherry-picking
+    when evidence abundance rather than empty disclosure slots is the main distortion.
