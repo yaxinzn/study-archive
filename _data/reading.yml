@@ -19484,3 +19484,17 @@
     and in 647 U.S. equity, Treasury, corporate-bond, and currency portfolios from 1976–2010 it produces
     stable premia for liquidity, intermediary-capital, macro-PC, and stockholder-consumption proxies
     while screening out several noisy or spurious factors.
+- title: "Bretscher, Schmid, Sen, and Sharma (RFS, 2026) - Institutional Corporate Bond Pricing"
+  file: "https://www.dropbox.com/scl/fi/mur0vukxrl8k7om1rt65i/Bretscher_Schmid_Sen_Sharma_RFS_2026.pdf?rlkey=2g7exn10kexljnv9hh9n9rzhu&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a market-clearing demand system for U.S. corporate
+    bonds in which insurers, active mutual funds, ETFs, variable-annuity funds, foreign institutions,
+    and other investors have different characteristic preferences and choose first across
+    investment-grade and high-yield rating nests and then among bonds within each nest, with
+    mandate-weighted demand from other institutions instrumenting endogenous yields; using roughly 20
+    million bond–institution–quarter observations from 2006:Q1–2020:Q3, the paper estimates average
+    demand elasticities near 14 for mutual funds but only about 1 for life insurers and 0.9 for ETFs,
+    market-wide elasticity near 6, and cross-rating substitution around 0.2, so price impact and
+    fire-sale incidence depend strongly on who holds the bond and which replacement investors can
+    legally and willingly absorb it, making institutional composition an equilibrium state variable for
+    corporate funding costs.
