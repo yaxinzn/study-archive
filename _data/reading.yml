@@ -19617,3 +19617,16 @@
     combined search-plus-selling-pressure component about 45 basis points, showing that cross-investor
     price dispersion can identify an economically important nondefault credit-spread component in real
     time.
+- title: "Friewald and Nagler (JF, 2019) - Over-the-Counter Market Frictions and Yield Spread Changes"
+  file: "https://www.dropbox.com/scl/fi/ctspzdsyjgacm7g3ege8q/Friewald_Nagler_JF_2019.pdf?rlkey=b6jh8z9tes4avae2gijbiz3ip&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses proprietary dealer-identified TRACE transactions to ask
+    whether the large common component left after Collin-Dufresne–Goldstein–Martin credit-risk controls
+    reflects systematic OTC inventory, search, and bargaining frictions, constructing marketwide proxies
+    from dealer inventory, funding costs, network centrality, intermediation chains, customer outside
+    options, concentration, and forced-selling pressure; the benchmark bond-by-bond model has mean
+    adjusted R-squared of 21.7% and a first residual principal component explaining 48.4% of unexplained
+    variation, while adding all OTC proxies raises mean fit to 30.7%, reduces the residual PC1 share to
+    29.8%, and directly explains 23.4% of the original common component, with search and bargaining
+    together explaining 18.0% versus 13.9% for inventory, thereby turning part of the latent credit
+    factor into an interpretable state of dealer-market organization.
