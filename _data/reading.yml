@@ -19564,3 +19564,17 @@
     37.6 basis points versus 13.8 for investment grade, showing that liquidity is strongly state
     dependent and becomes most expensive when credit quality and intermediary risk-bearing capacity
     deteriorate together.
+- title: "Di Maggio, Kermani, and Song (JFE, 2017) - The Value of Trading Relations in Turbulent Times"
+  file: "https://www.dropbox.com/scl/fi/jvj5nmcct71hopgtqrsk1/DiMaggio_Kermani_Song_JFE_2017.pdf?rlkey=0zkos26lb5jpfjwji58npaaib&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses enhanced TRACE to separate aggregate dealer-network
+    centrality from pair-specific relationship capital in U.S. corporate bonds, documenting that
+    customers pay dealers roughly 50 basis points more than interdealer counterparties, core sellers
+    charge peripheral buyers about 26 basis points more than core buyers, and the strongest bilateral
+    relationships receive roughly 20-basis-point lower markups in normal conditions with an even larger
+    discount in stress; a one-standard-deviation increase in the VIX strengthens relationship discounts
+    by about 35 basis points, the crisis core-to-periphery premium rises to about 46 basis points, and
+    dealers heavily exposed to the failed Dealer D subsequently earn about 14 basis points lower margins
+    while inventories contract and intermediation chains lengthen around 20%, showing that close
+    relationships insure favored counterparties but dependence on central relational hubs also
+    propagates fragility.
