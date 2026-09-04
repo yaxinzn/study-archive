@@ -19578,3 +19578,16 @@
     while inventories contract and intermediation chains lengthen around 20%, showing that close
     relationships insure favored counterparties but dependence on central relational hubs also
     propagates fragility.
+- title: "He, Khorrami, and Song (RFS, 2022) - Commonality in Credit Spread Changes: Dealer Inventory and Intermediary Distress"
+  file: "https://www.dropbox.com/scl/fi/49zorhxp900x8pup21ilc/He_Khorrami_Song_RFS_2022.pdf?rlkey=n8pbmodnzw65em1w95hu6gk2w&dl=0"
+  desc: >-
+    This note summarizes the paper, which revisits the common residual in structural credit-spread
+    regressions and argues that it reflects two balance-sheet-mediated forces—a
+    corporate-credit-specific dealer inventory factor and a broader intermediary distress factor—after
+    removing leverage, volatility, jump risk, interest-rate, slope, and equity-market fundamentals; the
+    first principal component explains about 80% of residual variation across 15 rating–maturity
+    cohorts, while inventory and distress jointly explain 42.6% of total residual variation and about
+    51% of that dominant component, with one-standard-deviation spread effects rising from roughly 3–40
+    basis points for inventory and 4–70 for distress as credit quality worsens, and fallen-angel
+    institutional selling provides quantity and IV evidence that dealer absorption causally transmits
+    bond-supply shocks into credit spreads.
