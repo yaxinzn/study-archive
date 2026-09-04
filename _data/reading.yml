@@ -19603,3 +19603,17 @@
     requiring same-bond same-day buy–sell pairs discards about 93% of observations and produces lower
     cost estimates, highlighting both the informational advantage of frequent participants and the
     selection bias in liquidity measures built only from actively traded bonds.
+- title: "Feldhütter (RFS, 2012) - The Same Bond at Different Prices: Identifying Search Frictions and Selling Pressures"
+  file: "https://www.dropbox.com/scl/fi/foy0e6125oe6rmrbsrg84/Feldhutter_RFS_2012.pdf?rlkey=ooiryzs8h86szzahpnm3gcj4x&dl=0"
+  desc: >-
+    This note summarizes the paper, which structurally estimates a search-and-bargaining model in which
+    contemporaneous price differences for the same bond across trade sizes reveal forced-selling
+    pressure after common fundamental news is differenced out, using TRACE imputed round trips from
+    2004–2009 and interpreting larger traders as investors with higher search intensity; the estimates
+    imply that the smallest investors need roughly a week to find a counterparty while the largest need
+    about half a day and dealers hold about 97% of bargaining power, the inferred liquidity shock rises
+    around the 2005 GM/Ford downgrades and peaks around Bear Stearns and Lehman, and for a
+    representative five-year bond the selling-pressure component of yield is about 40 basis points and
+    combined search-plus-selling-pressure component about 45 basis points, showing that cross-investor
+    price dispersion can identify an economically important nondefault credit-spread component in real
+    time.
