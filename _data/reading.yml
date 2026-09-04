@@ -19642,3 +19642,16 @@
     steeply with trade size beyond what fixed settlement costs alone can explain, supporting an
     information-and-bargaining interpretation in which small customers bear much larger opacity costs
     and simpler security design can improve secondary-market liquidity.
+- title: "Edwards, Harris, and Piwowar (JF, 2007) - Corporate Bond Market Transaction Costs and Transparency"
+  file: "https://www.dropbox.com/scl/fi/vo5wn0bt8k3ggd5j2fots/Edwards_Harris_Piwowar_JF_2007.pdf?rlkey=lins5aiqenn2vgmyqorim4vaj&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses the complete 2003–2005 TRACE record and a bond-level
+    latent-value model to estimate size-dependent customer transaction costs across 21,973 corporate
+    bonds, finding one-way costs of roughly 62 basis points for a $20,000 trade, 24 basis points for
+    $200,000, 9 basis points for $1 million, and 3 basis points for $5 million, with higher costs for
+    lower-rated, older, longer-duration, smaller, and more complex issues; exploiting the March 3, 2003
+    TRACE dissemination expansion in a difference-in-differences-style event design, newly transparent
+    bonds experience about a 3.8–4.3 basis-point decline relative to already transparent bonds and the
+    paper summarizes the incremental customer saving at roughly 5 basis points, implying at least about
+    $1 billion of annual savings on contemporaneously opaque trading and showing that post-trade
+    transparency improves bargaining and price discovery rather than impairing liquidity.
