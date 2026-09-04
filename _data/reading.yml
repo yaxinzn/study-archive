@@ -19630,3 +19630,15 @@
     29.8%, and directly explains 23.4% of the original common component, with search and bargaining
     together explaining 18.0% versus 13.9% for inventory, thereby turning part of the latent credit
     factor into an interpretable state of dealer-market organization.
+- title: "Harris and Piwowar (JF, 2006) - Secondary Trading Costs in the Municipal Bond Market"
+  file: "https://www.dropbox.com/scl/fi/3drz3n7pmgodnu9cr6b0k/Harris_Piwowar_JF_2006.pdf?rlkey=l0r1so38qqaatyjhtefbur4gc&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates bond-specific transaction-cost curves for 5.4
+    million trades in 167,851 U.S. municipal bonds using a latent-value model designed for an opaque,
+    thin OTC market with imperfect timestamps and little quote transparency, finding precision-weighted
+    effective half-spreads of about 98.7 basis points for a representative $20,000 retail trade and 49.1
+    basis points for a $200,000 institutional trade, equivalent to round-trip costs of roughly 1.98% and
+    0.98%; costs rise with lower credit quality, contractual complexity, age, and maturity and fall
+    steeply with trade size beyond what fixed settlement costs alone can explain, supporting an
+    information-and-bargaining interpretation in which small customers bear much larger opacity costs
+    and simpler security design can improve secondary-market liquidity.
