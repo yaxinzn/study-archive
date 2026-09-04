@@ -19591,3 +19591,15 @@
     basis points for inventory and 4–70 for distress as credit quality worsens, and fallen-angel
     institutional selling provides quantity and IV evidence that dealer absorption causally transmits
     bond-supply shocks into credit spreads.
+- title: "Schultz (JF, 2001) - Corporate Bond Trading Costs: A Peek Behind the Curtain"
+  file: "https://www.dropbox.com/scl/fi/sf5rohlc0aps4n4q3555s/Schultz_JF_2001.pdf?rlkey=49w7si97db139vs8z88wcw1lr&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an early broad-sample estimator of institutional
+    corporate-bond trading costs in the opaque pre-TRACE OTC market by comparing observed institutional
+    buy and sell prices with interpolated dealer bid quotes, estimating an average round-trip cost of
+    about $0.272 per $100 par, or 27 basis points; percentage costs fall sharply with trade size and are
+    lower for frequent institutions and active dealers, and in 11,321 matched pairs active institutions
+    pay only about $0.085 per $100 versus $0.249 for otherwise similar inactive institutions, while
+    requiring same-bond same-day buy–sell pairs discards about 93% of observations and produces lower
+    cost estimates, highlighting both the informational advantage of frequent participants and the
+    selection bias in liquidity measures built only from actively traded bonds.
