@@ -19538,3 +19538,16 @@
     amenable trades require less capital from both dealer types, showing that stable spreads can coexist
     with a major shift away from bank inventory warehousing toward nonbank and lower-capital matching
     technologies.
+- title: "Mahanti, Nashikkar, Subrahmanyam, Chacko, and Mallik (JFE, 2008) - Latent Liquidity: A New Measure of Liquidity, with an Application to Corporate Bonds"
+  file: "https://www.dropbox.com/scl/fi/zr6ztuj158mj6lm17o7hd/Mahanti_Nashikkar_Subrahmanyam_Chacko_Mallik_JFE_2008.pdf?rlkey=hwl0b7n66wpzg1zqfvqup74iq&dl=0"
+  desc: >-
+    This note summarizes the paper, which proposes latent liquidity—a bond’s holding-share-weighted
+    average of its current investors’ trailing portfolio turnover—as an ownership-based measure of
+    potential dealer access that can be computed even when the bond itself does not trade, using State
+    Street custody data covering about 14.5% of outstanding corporate bonds and more than 6% of market
+    volume; more than 40% of sample bonds record no annual transaction, yet beginning-of-quarter latent
+    liquidity strongly predicts subsequent trading frictions, with the bottom-to-top rank difference
+    associated with about 200 basis points lower estimated transaction costs unconditionally and 91
+    basis points after controls, while Amihud price impact falls roughly sevenfold unconditionally and
+    by about half conditionally, showing that the location of a bond across active versus buy-and-hold
+    clienteles is a distinct state variable for OTC liquidity.
