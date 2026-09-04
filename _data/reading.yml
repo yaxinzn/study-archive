@@ -19551,3 +19551,16 @@
     basis points after controls, while Amihud price impact falls roughly sevenfold unconditionally and
     by about half conditionally, showing that the location of a bond across active versus buy-and-hold
     clienteles is a distinct state variable for OTC liquidity.
+- title: "Friewald, Jankowitsch, and Subrahmanyam (JFE, 2012) - Illiquidity or Credit Deterioration: A Study of Liquidity in the US Corporate Bond Market during Financial Crises"
+  file: "https://www.dropbox.com/scl/fi/3rng4eia8n5xex2d7vgcy/Friewald_Jankowitsch_Subrahmanyam_JFE_2012.pdf?rlkey=p03blbpok0nfhsj1wgth80x6k&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines near-market-wide TRACE transactions with Markit
+    consensus valuations and multiple activity, price-impact, dispersion, Roll, and stale-price measures
+    for 23,703 U.S. corporate bonds from 2004–2008 to separate liquidity from credit deterioration,
+    finding that liquidity variables account for about 14% of explained weekly spread-change variation
+    and that a joint one-standard-deviation deterioration widens spreads by about 19.2 basis points in
+    the full sample; the same shock has effects of roughly 11.6 basis points in normal times, 15.2 in
+    the GM/Ford episode, and 25.9 in the subprime crisis, while speculative-grade bonds respond by about
+    37.6 basis points versus 13.8 for investment grade, showing that liquidity is strongly state
+    dependent and becomes most expensive when credit quality and intermediary risk-bearing capacity
+    deteriorate together.
