@@ -19708,3 +19708,17 @@
     monitoring, while the efficient-finance limit eliminates informational rents and directs capital
     toward the highest-return opportunities, providing a theoretical Goldsmith mechanism in which
     relative progress in financial information production is itself a source of development.
+- title: "Asriyan (ReStud, 2021) - Balance Sheet Channel with Information-Trading Frictions in Secondary Markets"
+  file: "https://www.dropbox.com/scl/fi/8maymniomxkafdrmh6bvv/Asriyan_ReStud_2021.pdf?rlkey=6jluq46p77xdy5elp5gku9ajo&dl=0"
+  desc: >-
+    This note summarizes the paper, which endogenizes the missing risk-sharing market behind the
+    balance-sheet channel by showing that state-contingent claims become illiquid when sellers meet only
+    finitely many privately informed buyers: even an optimal secondary-market mechanism values a claim
+    at expected payoff minus a wedge proportional to the difference between its high- and low-state
+    payoffs because truthful information revelation requires buyer rents or inefficient no-trade; this
+    resale discount feeds back into primary issuance, discourages entrepreneurs from insuring bad-state
+    net worth, increases forced capital liquidation and macro amplification, and can generate either
+    partial or no risk sharing, while a constrained planner internalizes that much of the private wedge
+    is a transfer among investors and can decentralize the efficient allocation through subsidies to
+    risky-claim sales or government purchase-and-resale programs rather than a generic leverage
+    restriction.
