@@ -19748,3 +19748,16 @@
     common outward shift in investment benefits produces a smaller quantity response even though
     net-worth effects still amplify aggregate monetary transmission, and a low-net-worth firm
     distribution can reduce the aggregate capital response by about one-third.
+- title: "Koijen and Yogo (AER, 2015) - The Cost of Financial Frictions for Life Insurers"
+  file: "https://www.dropbox.com/scl/fi/tqm5x8fqvnv08o6lrh8k7/Koijen_Yogo_AER_2015.pdf?rlkey=vdpc6xf0cft3kda0k2lw3io6x&dl=0"
+  desc: >-
+    This note summarizes the paper, which documents a liability-side fire sale during the financial
+    crisis in which U.S. life insurers sold long-duration annuities and life insurance far below
+    actuarial value because statutory reserves were discounted with slowly moving regulatory rates,
+    allowing some discounted new policies to create accounting capital even while destroying economic
+    value; exploiting mechanical cross-policy variation in reserve-to-actuarial-value ratios, the
+    authors estimate an average shadow cost of statutory capital of about $0.96 per dollar in November
+    2008, with company estimates ranging from $0.10 to $5.53, and show that higher-shadow-cost insurers
+    cut prices more while expanding issuance, implying that financial distress can shift liability
+    supply downward rather than upward when regulatory accounting makes new business a capital-raising
+    technology.
