@@ -19788,3 +19788,16 @@
     worsening rating grade reverses about 0.6–0.8 points of that effect, and skill and predicted
     wage-growth tests show that constrained firms disproportionately dismiss promising workers rather
     than merely different workers.
+- title: "Huber (AER, 2018) - Disentangling the Effects of a Banking Crisis: Evidence from German Firms and Counties"
+  file: "https://www.dropbox.com/scl/fi/e8tf7tomjufs89ltf3l8y/Huber_AER_2018.pdf?rlkey=xmi7xcmuutzqqwtibizhnju28&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits Commerzbank’s 2008–2009 lending contraction after
+    losses on international trading positions and measures firms’ predetermined dependence on the bank
+    to separate direct borrower effects from local general-equilibrium spillovers, finding that a fully
+    dependent firm holds about 20.5% less bank debt, 5.3% less employment, 13% less capital, and 6.1%
+    less value added after the shock, while a historical instrument based on the Allied postwar breakup
+    of Commerzbank implies that a one-standard-deviation increase in county exposure lowers GDP by about
+    2.2% and employment by 1.25%; firms with healthy banks also contract when neighboring firms are
+    exposed, with industry patterns supporting local-demand and agglomeration channels, and lower
+    patenting and productivity help explain why the real losses persist after Commerzbank lending itself
+    normalizes.
