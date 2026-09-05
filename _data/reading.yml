@@ -19722,3 +19722,16 @@
     is a transfer among investors and can decentralize the efficient allocation through subsidies to
     risky-claim sales or government purchase-and-resale programs rather than a generic leverage
     restriction.
+- title: "Vayanos and Woolley (RFS, 2013) - An Institutional Theory of Momentum and Reversal"
+  file: "https://www.dropbox.com/scl/fi/aig59wuhnznetvxmtlobr/Vayanos_Woolley_RFS_2013.pdf?rlkey=m2lqbzaznvk0umdvqnmunyqdy&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a rational delegated-asset-management theory in which
+    persistent cost shocks to an active fund generate gradual reallocations between active and index
+    funds, so anticipated future flows move prices only partially today because risk-averse arbitrageurs
+    value the “bird-in-the-hand” hedge of locking in existing long-horizon mispricing; the same flow
+    portfolio therefore produces short-run momentum, long-run reversal, rank-one nonfundamental
+    comovement, lead-lag effects, and stronger distortions for high-idiosyncratic-risk stocks, while
+    asymmetric information makes fund performance itself cause flows and amplifies cash-flow shocks, and
+    a calibration produces a momentum Sharpe ratio near 40% at a four-month formation horizon that turns
+    negative beyond roughly three years, quantitatively linking institutional flow dynamics to both
+    momentum and value.
