@@ -19735,3 +19735,16 @@
     a calibration produces a momentum Sharpe ratio near 40% at a four-month formation horizon that turns
     negative beyond roughly three years, quantitatively linking institutional flow dynamics to both
     momentum and value.
+- title: "Ottonello and Winberry (Econometrica, 2020) - Financial Heterogeneity and the Investment Channel of Monetary Policy"
+  file: "https://www.dropbox.com/scl/fi/quqbv542p90zsxvz71hll/Ottonello_Winberry_Econometrica_2020.pdf?rlkey=0g4pqoppdf265kcoe37wn1tex&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines high-frequency Federal Reserve surprises with
+    quarterly Compustat data to show that expansionary monetary policy stimulates investment more at
+    firms with lower default risk rather than the most financially fragile firms: a
+    one-standard-deviation increase in leverage lowers the investment semielasticity by about 0.57, a
+    one-standard-deviation increase in distance to default raises it by about 1.14, and the average
+    semielasticity is roughly 2.14; a heterogeneous-firm New Keynesian model explains the ordering
+    because risky constrained firms begin on much steeper marginal financing-cost schedules, so the
+    common outward shift in investment benefits produces a smaller quantity response even though
+    net-worth effects still amplify aggregate monetary transmission, and a low-net-worth firm
+    distribution can reduce the aggregate capital response by about one-third.
