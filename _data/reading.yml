@@ -19681,3 +19681,17 @@
     foreign asset position by about $1.1 trillion; the paper therefore shows that issuer residence,
     corporate nationality, guarantor location, and sales exposure are distinct geographies and that
     security-level ownership data materially change measured global imbalances and cross-border risk.
+- title: "Du, Tepper, and Verdelhan (JF, 2018) - Deviations from Covered Interest Rate Parity"
+  file: "https://www.dropbox.com/scl/fi/d9eeabdw43d8nvmjotvzj/Du_Tepper_Verdelhan_JF_2018.pdf?rlkey=vl4du0kdoeoa6k8v16xs6029j&dl=0"
+  desc: >-
+    This note summarizes the paper, which documents that covered interest rate parity changed from an
+    approximately exact precrisis relation into a persistent post-2008 cross-currency basis, with
+    average absolute deviations around 24 basis points at three months and 27 basis points at five years
+    in 2010–2016, and verifies that the wedge survives unsecured-bank-credit and transaction-cost
+    concerns using collateralized repo rates and same-issuer multicurrency KfW bonds; maturity-based
+    quarter-end tests show one-week contracts that cross regulatory reporting dates widen by roughly
+    37–43 basis points after 2015, while IOER and reserve-liquidity adjustments explain about two-thirds
+    of average one-week deviations and cross-currency signs track nominal-rate-driven hedging demand,
+    supporting a two-sided equilibrium in which scarce intermediary balance-sheet capacity makes the
+    supply of FX hedging upward sloping and international portfolio imbalances determine the direction
+    of the basis.
