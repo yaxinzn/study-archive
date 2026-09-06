@@ -19827,3 +19827,16 @@
     large, liquid, low-volatility stocks earn roughly 0.1% per day in high-VIX states, implying that
     turmoil raises the shadow price of market-making balance-sheet capacity across the market rather
     than only for chronically illiquid securities.
+- title: "Goldstein, Jiang, and Ng (JFE, 2017) - Investor Flows and Fragility in Corporate Bond Funds"
+  file: "https://www.dropbox.com/scl/fi/ycjuyswga9at0kc9oro5h/Goldstein_Jiang_Ng_JFE_2017.pdf?rlkey=f2bquohfmavuakw63z8fex6y2&dl=0"
+  desc: >-
+    This note summarizes the paper, which shows that open-end corporate bond funds exhibit a run-like
+    first-mover incentive because investors redeem at current NAV while liquidation costs are partly
+    borne later by remaining shareholders, producing a concave rather than equity-like convex
+    flow–performance relation: the baseline downside flow slope is 0.859 versus an upside slope of
+    0.238, or about 3.6 times as large, and downside sensitivity becomes much stronger when aggregate
+    bond-market liquidity is poor, when fund portfolios are illiquid, and especially when both occur
+    together; year-end tax-loss selling and contemporaneous return effects of 31–36 basis points for a
+    one-standard-deviation outflow support the redemption-externality mechanism, while the effect is
+    much weaker for institutional-oriented funds and liquid Treasury funds but reappears for illiquid
+    municipal funds.
