@@ -19840,3 +19840,16 @@
     one-standard-deviation outflow support the redemption-externality mechanism, while the effect is
     much weaker for institutional-oriented funds and liquid Treasury funds but reappears for illiquid
     municipal funds.
+- title: "Acharya and Johnson (JFE, 2007) - Insider Trading in Credit Derivatives"
+  file: "https://www.dropbox.com/scl/fi/yaa423dsun68tqx7yxkrv/Acharya_Johnson_JFE_2007.pdf?rlkey=pf2mlacx1ffl16s4mp7tpucrl&dl=0"
+  desc: >-
+    This note summarizes the paper, which infers informed activity in the early CDS market by asking
+    whether CDS innovations that are orthogonal to contemporaneous and lagged equity information predict
+    future stock returns, finding little unconditional lead but substantial negative CDS-to-equity
+    information flow for firms that subsequently deteriorate and a much stronger effect when more
+    relationship banks have access to private borrower information; with about 10 bank relationships the
+    implied one-day spillover is near zero, while with 50 relationships it is roughly 4% and about 6%
+    for adverse CDS widenings, yet more relationships are associated with narrower rather than wider
+    quoted CDS bid–ask spreads and do not raise CDS levels, suggesting that informed bank hedging or
+    quote revision can accelerate price discovery without producing the simple liquidity deterioration
+    predicted by standard adverse-selection models.
