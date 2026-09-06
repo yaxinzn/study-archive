@@ -19879,3 +19879,17 @@
     $8 million relative to Post-Dodd–Frank, with noncovered dealers expanding too little to offset the
     pullback, indicating that activity-based proprietary-trading restrictions can reduce
     balance-sheet-intensive market making precisely when customer selling pressure is strongest.
+- title: "Hollifield, Neklyudov, and Spatt (RFS, 2017) - Bid-Ask Spreads, Trading Networks, and the Pricing of Securitizations"
+  file: "https://www.dropbox.com/scl/fi/9v92hynyf68skovlr7yax/Hollifield_Neklyudov_Spatt_RFS_2017.pdf?rlkey=eo5ujxivyr4en1c9aytzy28f4&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses confidential FINRA dealer-identified transaction data to
+    reconstruct OTC securitization networks and customer-to-customer intermediation chains and finds a
+    centrality discount rather than the centrality premium documented in other bond markets: starting a
+    chain with a core dealer lowers total customer spreads by roughly 40–64 basis points, core dealers
+    shorten the number of dealer rounds while often warehousing inventory longer, and unexpected chain
+    length or completion time materially increases trading costs; a model explains the sign reversal
+    through endogenous sorting of sophisticated customers with stronger outside options into central
+    dealers, while lower spread dispersion at the core and panel-VAR evidence that order flow rather
+    than dealer centrality contains the stronger permanent price information show that network position
+    matters primarily through execution, search, and clientele composition rather than a universal
+    informational advantage.
