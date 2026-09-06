@@ -19893,3 +19893,16 @@
     than dealer centrality contains the stronger permanent price information show that network position
     matters primarily through execution, search, and clientele composition rather than a universal
     informational advantage.
+- title: "Hotchkiss and Ronen (RFS, 2002) - The Informational Efficiency of the Corporate Bond Market: An Intraday Analysis"
+  file: "https://www.dropbox.com/scl/fi/nb9x0r30sp6p07hity2sw/Hotchkiss_Ronen_RFS_2002.pdf?rlkey=n0180kpihao9a6axww4xch14w&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses transaction-based FIPS data for actively traded
+    high-yield bonds in 1995 to compare bond and stock price discovery at daily and hourly frequencies,
+    finding that risky bonds behave as hybrid claims whose interest-rate sensitivity falls and
+    equity-market sensitivity rises as credit quality deteriorates, but there is no detectable lead from
+    stocks to bonds or vice versa: hourly Granger-causality p-values are 0.66 for stocks-to-bonds and
+    0.37 in the reverse direction, daily p-values are 0.51 and 0.66, and earnings-announcement responses
+    are absorbed by bonds within roughly four hours rather than lagging stocks; Hasbrouck-style
+    pricing-error decompositions also show no robustly poorer market quality for the selected bonds,
+    implying that an opaque dealer market can incorporate firm information rapidly when transaction
+    prices rather than stale dealer quotes are observed.
