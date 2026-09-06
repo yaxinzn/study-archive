@@ -19814,3 +19814,16 @@
     large and persistent servicer heterogeneity shows that organizational capacity, not financial
     incentives alone, constrained implementation, with a simple counterfactual implying more than
     700,000 additional modifications if low-experience servicers matched high-experience ones.
+- title: "Nagel (RFS, 2012) - Evaporating Liquidity"
+  file: "https://www.dropbox.com/scl/fi/764jcedoas75ps9lthoyt/Nagel_RFS_2012.pdf?rlkey=ve85zmyh7vcdblx6yfn2ebaaq&dl=0"
+  desc: >-
+    This note summarizes the paper, which interprets short-horizon return reversals as compensation to
+    liquidity providers for absorbing temporary order imbalances and uses daily CRSP data from 1998–2010
+    to show that this compensation becomes sharply state dependent: a one-percentage-point increase in
+    normalized daily VIX predicts about 0.22 percentage points more next-day reversal return, monthly
+    adjusted R-squared reaches 56% for transaction-price reversals, and conditional Sharpe ratios rise
+    with VIX rather than merely reflecting higher volatility; the relation survives quote-midpoint,
+    industry-portfolio, alternative-liquidity-proxy, and pre-crisis out-of-sample tests, while even
+    large, liquid, low-volatility stocks earn roughly 0.1% per day in high-VIX states, implying that
+    turmoil raises the shadow price of market-making balance-sheet capacity across the market rather
+    than only for chronically illiquid securities.
