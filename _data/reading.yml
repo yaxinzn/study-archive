@@ -19853,3 +19853,16 @@
     quoted CDS bid–ask spreads and do not raise CDS levels, suggesting that informed bank hedging or
     quote revision can accelerate price discovery without producing the simple liquidity deterioration
     predicted by standard adverse-selection models.
+- title: "Griffin, Nickerson, and Tang (RFS, 2013) - Rating Shopping or Catering? An Examination of the Response to Competitive Pressure for CDO Credit Ratings"
+  file: "https://www.dropbox.com/scl/fi/fym47d0dcnsxkvp62q9rx/Griffin_Nickerson_Tang_RFS_2013.pdf?rlkey=oupzfo5f3av144rwcrtifngv8&dl=0"
+  desc: >-
+    This note summarizes the paper, which distinguishes rating shopping from rating catering in
+    pre-crisis CDOs by combining broad issuance outcomes with reconstructed Moody’s and S&P model inputs
+    and discretionary adjustments, showing that dual ratings were pervasive, investors paid roughly a
+    four-basis-point certification premium for them, yet dual-rated deals performed worse ex post;
+    although the agencies’ underlying default probabilities, correlations, and model-implied AAA
+    capacity differed materially, final AAA ratings almost always agreed, and when a competitor’s model
+    justified more AAA the stricter agency systematically made larger positive overrides—for example, a
+    ten-percentage-point Moody’s model advantage predicts about a seven-point S&P upward adjustment
+    after controls—while these hidden adjustments were not priced at issuance and strongly predicted
+    later downgrades, supporting competitive catering rather than pure selective disclosure.
