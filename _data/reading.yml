@@ -20019,3 +20019,16 @@
     intermediate preferences with subexponential location-shift information likewise support learning,
     with a separate theorem providing a cascade-utility lower bound on asymptotic welfare even when
     exact belief convergence fails.
+- title: "Bassetto and Cui (JPE, 2024) - A Ramsey Theory of Financial Distortions"
+  file: "https://www.dropbox.com/scl/fi/irxq4a7d7zq52dygvt2p2/Bassetto_Cui_JPE_2024.pdf?rlkey=q4h9pq7otrkwsz56t0mq3krvf&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a Ramsey theory in which fully liquid government debt
+    relaxes entrepreneurial financing constraints and therefore acts as productive private-sector net
+    worth, creating a trade-off between subsidizing capital to raise Tobin’s q and taxing capital to
+    extract quasi-rents from scarce entrepreneurial liquidity; if fiscal capacity is sufficient, the
+    planner issues enough debt to eliminate the financing friction and the long-run capital tax returns
+    to zero, but when liquidity-satiating debt exceeds the dynamic fiscal limit, government debt remains
+    scarce, carries a liquidity premium, and the optimal long-run capital tax is generically nonzero and
+    can be positive as financial repression, with the calibration showing capital taxes rising toward
+    20% under higher government spending and from 10% to about 16.26% after a 30% increase in
+    intermediation costs.
