@@ -19944,3 +19944,16 @@
     too small; the same compression is stronger over the life cycle, and actual aggregate productivity
     is only 62.4% of the no-wedge benchmark, implying roughly a 37.6% allocative-efficiency loss despite
     seemingly modest unweighted size compression.
+- title: "Grennan, Myers, Swanson, and Chatterji (ReStud, 2025) - No Free Lunch? Welfare Analysis of Firms Selling Through Expert Intermediaries"
+  file: "https://www.dropbox.com/scl/fi/w4xxvxyx9ingia761jjze/Grennan_Myers_Swanson_Chatterji_ReStud_2025.pdf?rlkey=s24sej5xo3igj2l4px8qfb9zk&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies pharmaceutical promotion through cardiologists by
+    combining Medicare prescribing data, Lipitor’s patent expiration, a spillover instrument based on
+    nearby academic-medical-center conflict-of-interest policies, marginal treatment effects, and a
+    negotiated-pricing model, finding that meal-based relationships raise promoted statin prescribing by
+    roughly one-third on average but are strongly selected on gains—the estimated treatment effect is
+    about 0.344 for treated physicians versus 0.075 for untreated ones—while banning meals cuts
+    promoted-brand use about 19% and total statin use about 5% with little price response; welfare turns
+    on baseline prescribing mistakes, and a clinically calibrated decision-error equivalent of about
+    −$368 implies that promotion can increase consumer and total surplus by correcting substantial
+    statin underuse even though it also shifts demand toward expensive branded drugs.
