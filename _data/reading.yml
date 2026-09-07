@@ -20006,3 +20006,16 @@
     dynamically insufficient because firms do not internalize knowledge spillovers in future design
     costs, and a lumpy-redesign extension generates an endogenous frontier-to-obsolescence firm life
     cycle.
+- title: "Kartik, Lee, Liu, and Rappoport (Econometrica, 2024) - Beyond Unbounded Beliefs: How Preferences and Information Interplay in Social Learning"
+  file: "https://www.dropbox.com/scl/fi/r0htl8uesfczhhaev46yr/Kartik_Lee_Liu_Rappoport_Econometrica_2024.pdf?rlkey=y3b8pj67qbpxhjwgegwsqveha&dl=0"
+  desc: >-
+    This note summarizes the paper, which replaces the classic preference-free requirement of unbounded
+    private beliefs with excludability, a joint condition requiring signals only to distinguish the
+    state regions that support competing actions, and proves for general expanding-observation networks
+    that adequate social learning occurs exactly when every stationary belief already has adequate
+    knowledge; excludability guarantees learning across all choice sets, while in ordered-state problems
+    single-crossing-differences preferences plus directionally unbounded beliefs recover learning even
+    with normal signals that fail conventional unbounded beliefs, and in multidimensional settings
+    intermediate preferences with subexponential location-shift information likewise support learning,
+    with a separate theorem providing a cascade-utility lower bound on asymptotic welfare even when
+    exact belief convergence fails.
