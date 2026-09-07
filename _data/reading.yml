@@ -19957,3 +19957,15 @@
     on baseline prescribing mistakes, and a clinically calibrated decision-error equivalent of about
     −$368 implies that promotion can increase consumer and total surplus by correcting substantial
     statin underuse even though it also shifts demand toward expensive branded drugs.
+- title: "Bronchetti, Kessler, Magenheim, Taubinsky, and Zwick (Econometrica, 2023) - Is Attention Produced Optimally? Theory and Evidence from Experiments with Bandwidth Enhancements"
+  file: "https://www.dropbox.com/scl/fi/pjgfz32kki6uf4biihnwq/Bronchetti_Kessler_Magenheim_Taubinsky_Zwick_Econometrica_2023.pdf?rlkey=2sczw1rov5k66pmw9pd2mlckk&dl=0"
+  desc: >-
+    This note summarizes the paper, which derives a revealed-preference optimality condition for
+    reminders, planning tools, and task simplifications—under correct perceptions the derivative of
+    willingness to pay with respect to task stakes must equal the tool’s causal effect on success, with
+    an equivalent Slutsky-symmetry restriction—and tests it in three randomized experiments, finding
+    that demand moves in the right direction but systematically too little: reminders raise
+    delayed-survey completion about 23 percentage points yet a $1 stake increase raises WTP only about 7
+    cents versus a 29-cent optimal benchmark at low stakes and 2 cents versus 16 cents at high stakes,
+    perceived efficacy responds only about 16% as much as actual efficacy, and similar under-valuation
+    of cognitive simplification survives experience and explicit performance feedback.
