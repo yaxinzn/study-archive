@@ -19994,3 +19994,15 @@
     back-of-the-envelope calibration estimates that political access recovers about 1.2% of output by
     relieving bureaucratic wedges but reduces the present value of output by about 3% through weaker
     entry and creative destruction, for a net loss near 1.8%.
+- title: "Menzio (Econometrica, 2023) - Optimal Product Design: Implications for Competition and Growth under Declining Search Frictions"
+  file: "https://www.dropbox.com/scl/fi/wz2xltxxdhe14x7jursvh/Menzio_Econometrica_2023.pdf?rlkey=abpbxdloemio6gkstkwlk5seh&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a search-and-product-design theory in which better
+    information technology does not necessarily intensify competition because firms use the larger
+    reachable market to design narrower products, making the effective contact index φ_t = λ_t x_t*
+    constant when specialization exactly offsets rising search; along the balanced growth path
+    normalized price dispersion and competition stay stationary even as buyer surplus, seller surplus,
+    prices, and profits grow at rate αg_λ through better matching, equilibrium specialization is
+    dynamically insufficient because firms do not internalize knowledge spillovers in future design
+    costs, and a lumpy-redesign extension generates an endogenous frontier-to-obsolescence firm life
+    cycle.
