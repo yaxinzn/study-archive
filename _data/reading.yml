@@ -19969,3 +19969,16 @@
     cents versus a 29-cent optimal benchmark at low stakes and 2 cents versus 16 cents at high stakes,
     perceived efficacy responds only about 16% as much as actual efficacy, and similar under-valuation
     of cognitive simplification survives experience and explicit performance feedback.
+- title: "Giroud, Lenzu, Maingi, and Mueller (Econometrica, 2024) - Propagation and Amplification of Local Productivity Spillovers"
+  file: "https://www.dropbox.com/scl/fi/s6gn9rnwfn9un77wvq9xu/Giroud_Lenzu_Maingi_Mueller_Econometrica_2024.pdf?rlkey=1f4yia1h7n3phwezt57jowxqk&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses winner-versus-runner-up Million Dollar Plant openings and
+    confidential Census plant networks to show that a geographically local productivity shock can
+    propagate nationwide through multi-plant firms: incumbent productivity rises about 4% near the new
+    plant and becomes insignificant beyond roughly 100 miles, but distant plants of exposed firms gain
+    about 1.8–2.0% with essentially no decay even beyond 500 miles, the effect is stronger across
+    technologically related industries but not input-output or shipment links and is not accompanied by
+    more R&D or patenting, and an estimated spatial model with within-firm knowledge sharing shows that
+    global knowledge propagation and input-output linkages jointly multiply aggregate welfare gains by
+    about 6.94, so organizational networks can matter more than physical distance for the aggregate
+    return to place-based policy.
