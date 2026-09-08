@@ -74,6 +74,10 @@ brand: Variables (Live)
       <strong>Aug 9:</strong> Updated all the variables from <em>Journal of Finance</em>,
       Volume 81, Issue 4 (Aug 2026).
     </li>
+     <li>
+      <strong>Sep 8:</strong> Updated all the variables from <em>Review of Financial Studies</em>,
+      Volume 40, Issue 9 (Sep 2026).
+    </li>
 
   </ul>
 </div>
