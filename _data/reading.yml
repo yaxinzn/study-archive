@@ -20058,3 +20058,17 @@
     term structure, and experiments that surface an older observation or the true mean reduce the bias
     substantially whereas a tenfold increase in monetary incentives does little, supporting a
     recency-through-costly-history-processing mechanism rather than simple ignorance of AR dynamics.
+- title: "Kashyap, Tsomocos, and Vardoulakis (JPE, 2024) - Optimal Bank Regulation in the Presence of Credit and Run Risk"
+  file: "https://www.dropbox.com/scl/fi/zl1jjwis40wra9ynximan/Kashyap_Tsomocos_Vardoulakis_JPE_2024.pdf?rlkey=cs9qow3uckb2kzcwlxle4kiiu&dl=0"
+  desc: >-
+    This note summarizes the paper, which builds a three-period banking model that jointly endogenizes
+    risky lending, liquid assets, deposits, equity, monitoring, and depositor runs through a global
+    game, showing that private and social choices differ along three independent margins—asset
+    allocation, capital structure, and the scale of deposit-funded lending—and that the run threshold
+    can still be unique even though better liquidation fundamentals may perversely strengthen withdrawal
+    incentives in full-run states; capital and liquidity requirements can correct the first two
+    balance-sheet distortions but generally cannot pin down intermediation scale, so a third independent
+    tax or subsidy is needed, with the illustrative numerical exercises showing that saver-oriented
+    regulation combines risk-weighted capital, liquidity, and a deposit subsidy while credit-oriented
+    regulation replaces the liquidity rule with lending and deposit subsidies, implying that optimal
+    bank regulation is a coordinated package rather than a single safety ratio.
