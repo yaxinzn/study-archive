@@ -20045,3 +20045,16 @@
     aggregate share rises by 2.5 points, export growth reaches 81.82% and input-import growth 2.24%
     versus 64.28% and -25.55% without joint global firms, implying that the importing-exporting nexus
     sharply weakens expenditure switching and the trade-balance response.
+- title: "Afrouzi, Kwon, Landier, Ma, and Thesmar (QJE, 2023) - Overreaction in Expectations: Evidence and Theory"
+  file: "https://www.dropbox.com/scl/fi/5zu684u1d9lu8me3xcy6s/Afrouzi_Kwon_Landier_Ma_Thesmar_QJE_2023.pdf?rlkey=ly7sd4lzunyvqj5768o84ax99&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses randomized forecasting experiments with known Gaussian
+    AR(1) processes to show that people systematically overreact to the latest observation in a way that
+    is stronger for less persistent processes and longer horizons—the one-period forecast-implied
+    persistence is about 0.45, 0.62, 0.77, 0.85, 0.91, and 0.99 when true rho is 0, 0.2, 0.4, 0.6, 0.8,
+    and 1—and develops a costly-processing model in which the latest realization is automatically top of
+    mind and anchors beliefs about the long-run mean while exploiting older data requires effort;
+    estimated only on one-step forecasts, the model predicts the untargeted two-, five-, and ten-step
+    term structure, and experiments that surface an older observation or the true mean reduce the bias
+    substantially whereas a tenfold increase in monetary incentives does little, supporting a
+    recency-through-costly-history-processing mechanism rather than simple ignorance of AR dynamics.
