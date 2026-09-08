@@ -20086,3 +20086,16 @@
     multiproduct relationships generate much of the useful private information, and post-CARES
     compression of credit-score gradients suggests that protecting accommodated borrowers can
     simultaneously erode the informational rents of safer consumers.
+- title: "Baldauf and Mollner (JPE, 2024) - Competition and Information Leakage"
+  file: "https://www.dropbox.com/scl/fi/qijyijlhqilgpdxzujqxw/Baldauf_Mollner_JPE_2024.pdf?rlkey=19sd3lwgxqvfpxn5j7kheg6cr&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an OTC request-for-quote model where contacting more
+    dealers creates quote-competition and inventory-sampling benefits but also leaks the existence and
+    likely direction of an order to losing dealers who can front-run the winner's hedge, making search
+    breadth itself an endogenous information cost; the two-dealer procurement cost is strictly convex in
+    posterior beliefs about trade direction, so Bayesian-persuasion logic implies that minimal
+    directional disclosure and two-sided quotes are optimal, and for sufficiently lopsided dealer
+    inventories the client sometimes contacts only one dealer despite zero mechanical search cost,
+    whereas shutting down front-running restores the standard result that all dealers should be
+    contacted and disclosure becomes irrelevant, showing that order-flow leakage can jointly rationalize
+    limited search and secrecy on electronic OTC platforms.
