@@ -20072,3 +20072,17 @@
     regulation combines risk-weighted capital, liquidity, and a deposit subsidy while credit-oriented
     regulation replaces the liquidity rule with lending and deposit subsidies, implying that optimal
     bank regulation is a coordinated package rather than a single safety ratio.
+- title: "Berger, Bouwman, Norden, Roman, Udell, and Wang (JPE, 2024) - Piercing through Opacity: Relationships and Credit Card Lending to Consumers and Small Businesses during Normal Times and the COVID-19 Crisis"
+  file: "https://www.dropbox.com/scl/fi/ahp5ilmw7b59daobqvzrp/Berger_Bouwman_Norden_Roman_Udell_Wang_JPE_2024.pdf?rlkey=4pxhnw8fq629eydpxa6zzlz26&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Federal Reserve FR Y-14M credit-card account data and
+    normal-times plus early-COVID designs to show that bank relationship information matters even in
+    highly standardized score-based lending but has sharply different distributional effects:
+    relationship consumers receive APR spreads 0.525 percentage point lower and limits about 9.2% higher
+    in normal times, whereas relationship small businesses pay 1.069 points more and receive limits
+    about 10.5% lower, while COVID makes relationship treatment more favorable for both groups through
+    an additional 0.815-point consumer spread reduction, a 0.322-point small-business spread reduction,
+    and an 11.3% small-business limit increase; decompositions indicate that conventional deposit and
+    multiproduct relationships generate much of the useful private information, and post-CARES
+    compression of credit-score gradients suggests that protecting accommodated borrowers can
+    simultaneously erode the informational rents of safer consumers.
