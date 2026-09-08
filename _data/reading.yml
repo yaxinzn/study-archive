@@ -20099,3 +20099,17 @@
     whereas shutting down front-running restores the standard result that all dealers should be
     contacted and disclosure becomes irrelevant, showing that order-flow leakage can jointly rationalize
     limited search and secrecy on electronic OTC platforms.
+- title: "Hébert and La’O (JPE, 2023) - Information Acquisition, Efficiency, and Nonfundamental Volatility"
+  file: "https://www.dropbox.com/scl/fi/blpz62dz6gqmlkg2obg3e/Hebert_LaO_JPE_2023.pdf?rlkey=jtxd2ucqlwe24hnh6r9fn1y6k&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies generalized beauty-contest economies with endogenous
+    information acquisition and shows that two distinct geometric properties of posterior-separable
+    information costs govern two distinct macro outcomes: invariance to the endogenous aggregate-action
+    mapping determines whether private information acquisition is constrained efficient, while
+    monotonicity with respect to noisy public-signal conditioning determines whether payoff-irrelevant
+    common noise can enter aggregate activity; mutual information satisfies both properties and
+    therefore supports an efficient equilibrium with zero nonfundamental volatility, whereas alternative
+    costs can induce underacquisition of information, rational exposure to noisy public signals, or
+    both, and strategic complementarity can still generate multiple information-acquisition equilibria
+    even under mutual-information costs, demonstrating that nonfundamental volatility and information
+    inefficiency are logically separate.
