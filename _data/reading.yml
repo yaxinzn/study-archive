@@ -20168,3 +20168,17 @@
     10-basis-point rise in execution shortfall, while densely connected distressed funds generate about
     2.4 percentage points worse fire-sale returns, showing that brokerage networks absorb idiosyncratic
     liquidity shocks but can amplify correlated selling.
+- title: "Li and Xu (JFE, 2024) - Intermediary-Based Equity Term Structure"
+  file: "https://www.dropbox.com/scl/fi/awcxnmukhnem3gx05bvbd/Li_Xu_JFE_2024.pdf?rlkey=ova1hhp9sckfu6ulpkyunfcd7&dl=0"
+  desc: >-
+    This note summarizes the paper, which reconciles the procyclical equity-yield slope with the
+    countercyclical equity term premium by decomposing long-minus-short equity yields into a
+    term-premium component and an expected-change component and then building a globally solved
+    intermediary model in which low bank net worth tightens a leverage constraint, sharply raises the
+    marginal value of intermediary capital and risk premia, but high expected returns rapidly rebuild
+    net worth so short-horizon yields mean revert; a model-guided Relative Tightness Index formed from
+    the HKM capital ratio, broker-dealer leverage, and distance to insolvency tracks the yield slope
+    without using equity-yield data, low-minus-high RT-beta portfolios earn 6.24% annually on a
+    value-weighted basis, and a market-plus-RT model raises cross-sectional pricing R-squared to about
+    89.8%, while predictable dividend growth added to the benchmark helps explain nearly the full
+    cyclical variation in the observed equity term structure.
