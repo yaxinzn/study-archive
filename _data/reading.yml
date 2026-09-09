@@ -20154,3 +20154,17 @@
     fundamentals recover, showing that fragile bank funding structures remove household liquidity
     insurance through persistent quantity rationing that constrained consumers cannot hedge across
     lenders.
+- title: "Han, Kim, and Nanda (RFS, 2024) - Institutional Brokerage Networks: Facilitating Liquidity Provision"
+  file: "https://www.dropbox.com/scl/fi/js35ynp2e594d3xa7l23y/Han_Kim_Nanda_RFS_2024.pdf?rlkey=2yjl450p941c9p44yq6437095&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines Form N-SAR broker affiliations, mutual-fund returns
+    and holdings, and Abel Noser order-level executions to show that institutional position in a broker
+    network creates a liquidity-provision premium: top-centrality funds have monthly return gaps 6.9
+    basis points higher than bottom-centrality funds and top-centrality institutions pay 4.3 basis
+    points less per trade in execution shortfall, with the advantage concentrated in forced outflows,
+    illiquid holdings, large orders, and small fund families where latent counterparty search is most
+    valuable; exposure to Lehman’s 2008 collapse causes an approximately 0.2-standard-deviation loss of
+    centrality together with a roughly 16-basis-point deterioration in monthly return gap and
+    10-basis-point rise in execution shortfall, while densely connected distressed funds generate about
+    2.4 percentage points worse fire-sale returns, showing that brokerage networks absorb idiosyncratic
+    liquidity shocks but can amplify correlated selling.
