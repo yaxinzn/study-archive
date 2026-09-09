@@ -20238,3 +20238,17 @@
     annual outflows; deliberate moves away from crowded strategy space can raise SPG-adjusted
     performance by about 1.02%, revealing a managerial trade-off between exploiting competitive alpha
     opportunities and preserving the product mandate investors enforce through capital flows.
+- title: "Granja and Leuz (JFE, 2024) - The Death of a Regulator: Strict Supervision, Bank Lending, and Business Activity"
+  file: "https://www.dropbox.com/scl/fi/nv659b0ifud7tk5jnqrae/Granja_Leuz_JFE_2024.pdf?rlkey=hosgij7bcqn6pjo6h4j4he49s&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits the mandatory July 2011 abolition of the Office of
+    Thrift Supervision and reassignment of 708 thrifts to the OCC or FDIC to study a permanent shift
+    from lenient to stricter supervision, showing first that former OTS banks recognize 20–30% more
+    troubled loans, face more frequent and roughly 64% longer formal enforcement actions, and experience
+    greater board turnover, executive exits, and adoption of formal risk modeling, and then using
+    bank-county-year CRA lending with county-year and bank-county fixed effects to estimate about a 9.2%
+    average increase in small-business originations; the mean masks a sharp capital
+    interaction—above-median-capital thrifts expand lending by about 0.265 log points while below-median
+    banks contract by about 0.227—so stricter supervision can create a traditional capital-driven credit
+    crunch at weak banks but expand information-intensive lending at well-capitalized banks by forcing
+    costly improvements in management, monitoring, and credit-risk systems.
