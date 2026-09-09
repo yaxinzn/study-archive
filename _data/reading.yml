@@ -20127,3 +20127,16 @@
     competition channels implies that noncompetes shift capital formation toward established firms by
     retaining transferable human capital and reducing employee holdup, while simultaneously making
     entrepreneurial reallocation harder.
+- title: "Chang, Ljungqvist, and Tseng (RFS, 2023) - Do Corporate Disclosures Constrain Strategic Analyst Behavior?"
+  file: "https://www.dropbox.com/scl/fi/887h14ksc99mqtmk182d6/Chang_Ljungqvist_Tseng_RFS_2023.pdf?rlkey=skbbg2fnm9fc289rryft89o6x&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits the SEC’s conditionally randomized staggered EDGAR
+    rollout from 1993–1996 as a shock to investors’ ability to verify sell-side research, using matched
+    clean controls and stacked difference-in-differences to show that free online filing access reduces
+    analyst coverage by about 8.1% immediately, cuts short-horizon forecast optimism by roughly 42% and
+    inaccuracy by about 22%, lowers dispersion, boldness, and the incremental price impact of analyst
+    reports, yet makes stock recommendations more bullish; the changes are strongest for retail-focused,
+    star, and affiliated analysts and occur when filings become publicly accessible rather than when
+    brokers merely receive electronic access, supporting a strategic-verification mechanism in which
+    disclosure disciplines objectively checkable forecasts but crowds out private analyst production and
+    redirects some strategic optimism toward less verifiable communication channels.
