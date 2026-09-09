@@ -20211,3 +20211,16 @@
     survives recessions, and a constrained planner can rationally prefer cycles with shorter booms and
     more frequent but milder downturns because decentralized standards are statically too tight yet
     dynamically too lax.
+- title: "Goldman, Gupta, and Israelsen (JFE, 2024) - Political Polarization in Financial News"
+  file: "https://www.dropbox.com/scl/fi/gotijogb9jp5dnsm0788q/Goldman_Gupta_Israelsen_JFE_2024.pdf?rlkey=0czaot41wit0cxelcziukqt02&dl=0"
+  desc: >-
+    This note summarizes the paper, which compares Wall Street Journal and New York Times coverage of
+    100 large U.S. firms from 1991–2016 and uses employee and PAC campaign contributions as firm
+    political alignment to show that apparently objective financial news is politically polarized:
+    relative to the NYT, the WSJ uses about 15% more positive words and 24% more favorable net tone when
+    moving from an all-Democratic to an all-Republican firm and is roughly 41% more likely to select
+    favorable return news, while same-firm equal-coverage disagreement predicts about 30% higher
+    abnormal trading volume for politically salient firms using tone disagreement and about 21% using
+    cosine dissimilarity; stronger post-News-Corporation effects and within-journalist newspaper
+    switches support a production-side media mechanism in which political slant changes heterogeneous
+    investor information sets and generates disagreement-based trade.
