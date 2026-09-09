@@ -20182,3 +20182,17 @@
     value-weighted basis, and a market-plus-RT model raises cross-sectional pricing R-squared to about
     89.8%, while predictable dividend growth added to the benchmark helps explain nearly the full
     cyclical variation in the observed equity term structure.
+- title: "Carvalho, Gao, and Ma (JFE, 2023) - Loan Spreads and Credit Cycles: The Role of Lenders’ Personal Economic Experiences"
+  file: "https://www.dropbox.com/scl/fi/iz4nrc9ooqjmz4biu5bkz/Carvalho_Gao_Ma_JFE_2023.pdf?rlkey=fvkyhj3wkj1a0koavkfvfh201&dl=0"
+  desc: >-
+    This note summarizes the paper, which links syndicated-loan lead officers identified from SEC credit
+    agreements to their personally owned properties and local Zillow house-price growth and uses officer
+    fixed effects plus officer-state-by-origination-year comparisons to show that recent idiosyncratic
+    housing experiences affect the corporate loan spreads professional lenders set: a
+    one-standard-deviation local experience shock changes spreads by roughly 7–13 basis points in the
+    main sample and by about 12–25 basis points during the 2000–2012 housing boom-bust episode, with
+    effects concentrated in real-estate-backed or real-estate-intensive borrowers, riskier firms,
+    younger officers, and settings with greater lead-arranger discretion but absent for participant-bank
+    officers; the strong recency, domain specificity, and lack of support for local-information or
+    wealth alternatives imply that lender beliefs about loss given default can themselves become
+    experience biased and amplify credit cycles.
