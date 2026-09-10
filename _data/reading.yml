@@ -20295,3 +20295,18 @@
     precrisis asset illiquidity predicts an additional 2.8% decline in loan growth and 1.2% decline in
     commitment growth, linking liquidity transformation to panic-amplified funding fragility and credit
     contraction.
+- title: "Cooperman, Duffie, Luck, Wang, and Yang (JF, 2025) - Bank Funding Risk, Reference Rates, and Credit Supply"
+  file: "https://www.dropbox.com/scl/fi/mzsplls2vvug7adx1l3io/Cooperman_Duffie_Luck_Wang_Yang_JF_2025.pdf?rlkey=zvu79f8veca3xp6qm02ywua8h&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines a debt-overhang model of revolving credit lines with
+    confidential Federal Reserve data to show that the reference rate changes the covariance between
+    borrower drawdowns and banks’ marginal funding costs: a credit-sensitive benchmark such as LIBOR
+    raises borrowers’ drawn rates when unsecured bank funding becomes expensive and therefore restrains
+    stressed-state utilization, whereas a nearly risk-free benchmark such as SOFR leaves the draw option
+    unusually attractive exactly when external funding is costly unless the cash returns to the lending
+    bank as cheap deposits; in the baseline calibration, moving from LIBOR to SOFR raises the fixed
+    contractual spread by 51.7 basis points, reduces commitments by 5.87%, expected drawn credit by
+    2.77%, and welfare by 2.62%, but raises GFC-state drawdowns by about 63%, while high deposit
+    retention can reverse the sign and the welfare-optimal benchmark retains about 72% of LIBOR’s credit
+    sensitivity for the representative bank, showing that benchmark robustness and state-contingent
+    credit-supply incentives are distinct contract-design dimensions.
