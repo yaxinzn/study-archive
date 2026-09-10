@@ -20280,3 +20280,18 @@
     and Sharpe-ratio-based portfolio efficiency, and does not increase average stock trading, with the
     largest relative participation gains among younger, lower-income, and lower-wealth households,
     supporting a fixed-cost and financial-information channel rather than a speculative-trading channel.
+- title: "Chen, Goldstein, Huang, and Vashishtha (JF, 2024) - Liquidity Transformation and Fragility in the U.S. Banking Sector"
+  file: "https://www.dropbox.com/scl/fi/ygd61ksa6r9qzxg53trra/Chen_Goldstein_Huang_Vashishtha_JF_2024.pdf?rlkey=drc8zgavvg8ir6iqxt67flk29&dl=0"
+  desc: >-
+    This note summarizes the paper, which maps global-games bank-run theory into continuous predictions
+    for deposit flows and tests them on 287,018 bank-quarter observations for 8,153 U.S. commercial
+    banks from 1994–2016, showing that uninsured deposits become sharply performance sensitive only in
+    weak states and that a one-standard-deviation increase in asset illiquidity raises flow-performance
+    sensitivity by about 34% while a one-standard-deviation increase in the uninsured-deposit share
+    raises it by about 43%; the amplification is substantially stronger when local potential asset
+    buyers have little capital, when illiquid assets are paired with more uninsured funding, and when
+    banking-sector weakness is systematic, while insured-deposit inflows and higher offered rates only
+    partly offset runnable funding losses, and during the 2008 crisis one-standard-deviation higher
+    precrisis asset illiquidity predicts an additional 2.8% decline in loan growth and 1.2% decline in
+    commitment growth, linking liquidity transformation to panic-amplified funding fragility and credit
+    contraction.
