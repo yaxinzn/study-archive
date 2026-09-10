@@ -20310,3 +20310,19 @@
     retention can reverse the sign and the welfare-optimal benchmark retains about 72% of LIBOR’s credit
     sensitivity for the representative bank, showing that benchmark robustness and state-contingent
     credit-supply incentives are distinct contract-design dimensions.
+- title: "Chang, d’Avernas, and Eisfeldt (JF, 2024) - Bonds versus Equities: Information for Investment"
+  file: "https://www.dropbox.com/scl/fi/ihcs2hbf3l269uloxxv0v/Chang_DAvernas_Eisfeldt_JF_2024.pdf?rlkey=2cewvvzd3v4zr4weadv03s9hs&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a structural explanation for why bond-market credit
+    spreads predict corporate investment more robustly than equity volatility: in a debt-overhang model,
+    holding asset volatility fixed, wider credit spreads unambiguously reduce investment because they
+    identify a worse default state, while holding credit spreads fixed, higher asset volatility raises
+    investment through shareholders’ upside option value, whereas leverage is an incomplete control and
+    equity volatility mixes underlying asset risk with the leverage-induced thinness of the equity
+    cushion; using 1,407 U.S. firms and about 48,700 firm-quarter observations from 1984–2018, the
+    baseline joint regression yields investment elasticities of about 0.233 for asset volatility and
+    −0.243 for credit spreads, remaining roughly 0.191 and −0.152 with controls, while the
+    equity-volatility elasticity switches from +0.108 for low-spread firms to −0.121 for high-spread
+    firms, and equity-implied fair-value spreads reproduce the same pattern without bond prices, showing
+    that bonds’ forecasting advantage largely reflects the economic content of the claim rather than
+    uniquely superior bond-market information.
