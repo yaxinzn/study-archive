@@ -20252,3 +20252,18 @@
     banks contract by about 0.227—so stricter supervision can create a traditional capital-driven credit
     crunch at weak banks but expand information-intensive lending at well-capitalized banks by forcing
     costly improvements in management, monitoring, and credit-risk systems.
+- title: "Almeida, Carvalho, and Kim (JF, 2024) - The Working Capital Credit Multiplier"
+  file: "https://www.dropbox.com/scl/fi/5p9gip2o53zp80cmyoath/Almeida_Carvalho_Kim_JF_2024.pdf?rlkey=myouy5cqnp7eriz0vuklyinzc&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops and tests a working-capital credit multiplier in
+    which supplier credit finances a continuously renewed share of marginal input purchases, so an
+    adverse shock simultaneously reduces internally funded inputs and the supplier credit attached to
+    them and then propagates through lower sales, cash flow, net worth, and future refinancing capacity;
+    using Compustat Quarterly from 1980–2015, predictable firm-specific high-profitability “main
+    quarters,” and oil-price innovations interacted with industry cash-flow exposure, the paper finds
+    that top-supplier-financing firms hit in their main quarter experience roughly 2.0% larger sales
+    declines immediately and 2.4% in the subsequent semester, short-term assets contract about 1.5% and
+    3.1% more, capital expenditure remains near zero, and payables fall especially strongly later, with
+    top-versus-other sales and short-term-asset differentials reaching roughly 2–3%, showing that
+    supplier finance amplifies shocks on impact and carries them forward through the operating balance
+    sheet rather than through long-lived capital.
