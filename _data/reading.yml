@@ -20326,3 +20326,17 @@
     firms, and equity-implied fair-value spreads reproduce the same pattern without bond prices, showing
     that bonds’ forecasting advantage largely reflects the economic content of the claim rather than
     uniquely superior bond-market information.
+- title: "Eren, Malamud, and Zhou (JFE, 2026) - Signaling with Debt Currency Choice"
+  file: "https://www.dropbox.com/scl/fi/owi27084eae5j5v0va6o3/Eren_Malamud_Zhou_JFE_2026.pdf?rlkey=l92qsektrdhy5402zwn5zxyor&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a signaling theory of corporate debt currency choice
+    in which unhedged foreign-currency borrowing can be rational precisely because the mismatch is more
+    costly for low-quality firms than for high-quality firms, so a separating equilibrium makes debt
+    composition informative about hidden earning ability; using security-level Capital IQ debt data for
+    more than 4,800 firms in 19 emerging markets and more than 5,700 firms in 22 advanced economies from
+    2005–2021, the paper shows that a ten-percentage-point increase in foreign-currency debt predicts
+    roughly 5–10 basis points higher next-year EBIT-to-assets for emerging-market firms with nonpositive
+    dollar-depreciation betas, but the slope reverses for significantly positive-beta firms, is
+    concentrated among unrated and analyst-uncovered firms, survives maturity-matched UIP controls, and
+    is paired with higher adjusted foreign-borrowing premia when the currency mismatch is more
+    dangerous, supporting a costly-information signal rather than a pure cheap-funding or hedging story.
