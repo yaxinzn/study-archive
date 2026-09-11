@@ -20381,3 +20381,17 @@
     low-knowledge indifference, implying that prompt design can substantially mitigate representational
     bias and that AI can reproduce structured heterogeneity without necessarily reproducing every human
     inconsistency.
+- title: "Bias and Ljungqvist (JFE, 2026) - Great Recession Babies: How Are Startups Shaped by Macro Conditions at Birth?"
+  file: "https://www.dropbox.com/scl/fi/21ptri9je113hceeup83z/Bias_Ljungqvist_JFE_2026.pdf?rlkey=ia7ac4nsmrkgal055hf4id6vf&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses quasi-random variation in USPTO examiner review speed to
+    shift whether patent-related commercialization signals arrive around the Great Recession and thereby
+    separate the causal imprint of recession birth from endogenous startup timing, finding that for
+    3,870 innovative U.S. startups the preferred seven-year bias-corrected ITT raises survival by 27.0
+    percentage points and cumulative employment and sales growth by 63.9 and 68.1 points, with Lee lower
+    bounds remaining positive and a strong first stage; instrumenting actual recession birth yields even
+    larger LATEs for the roughly 21% of timing-responsive compliers, while financing, demand, and
+    general unemployment conditions all predict worse outcomes and inventor mobility falls about 20%,
+    recession-born startups retain founding inventors much more often and subsequently patent more,
+    supporting a labor-retention mechanism in which weak outside opportunities preserve specialized
+    human capital long enough to improve long-run survival and growth.
