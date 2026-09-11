@@ -20367,3 +20367,17 @@
     later gains in profits, production, market share, capital, and employment, establishing trademarks
     as economically important commercialization and intangible-capital assets rather than mere legal
     labels or simple patent proxies.
+- title: "Fedyk, Kakhbod, Li, and Malmendier (JFE, 2026) - AI and Perception Biases in Investments: An Experimental Study"
+  file: "https://www.dropbox.com/scl/fi/or3rtlt7xybrskomkn5ig/Fedyk_Kakhbod_Li_Malmendier_JFE_2026.pdf?rlkey=w3nic3kqiznklimjmpz2qof7i&dl=0"
+  desc: >-
+    This note summarizes the paper, which compares human surveys and generative-AI responses about
+    stocks, bonds, and cash to ask whether large language models can represent heterogeneous investor
+    attitudes rather than a single generic investor, finding that unseeded GPT-4 responses
+    overwhelmingly resemble young high-income humans—about 83% map to those groups—but demographic
+    seeding raises human–AI cross-cell correlations to 0.73 Pearson, 0.70 Spearman, and 0.57 Kendall and
+    reproduces most directional differences in SCF and survey allocations; text embeddings show nearly
+    identical risk–return mappings in human and AI rationales, while AI pairwise preferences are
+    transitive 98.7% of the time versus 84.4% for humans and human nontransitivity is strongly linked to
+    low-knowledge indifference, implying that prompt design can substantially mitigate representational
+    bias and that AI can reproduce structured heterogeneity without necessarily reproducing every human
+    inconsistency.
