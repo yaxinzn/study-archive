@@ -20340,3 +20340,16 @@
     concentrated among unrated and analyst-uncovered firms, survives maturity-matched UIP controls, and
     is paired with higher adjusted foreign-borrowing premia when the currency mismatch is more
     dangerous, supporting a costly-information signal rather than a pure cheap-funding or hedging story.
+- title: "Kulkarni, Truffa, and Iberti (JFE, 2026) - Removing the Fine Print: Disclosure, Standardized Products, and Consumer Outcomes"
+  file: "https://www.dropbox.com/scl/fi/yrp3hqp614qgh05k0orma/Kulkarni_Truffa_Iberti_JFE_2026.pdf?rlkey=nr200lhaymxrqlfg08b7cseeq&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits two Chilean consumer-credit reforms and a 1,000-UF
+    loan-size cutoff to separate the effects of salient disclosure from product standardization, using a
+    regression discontinuity for the initial Universal Credit Contract reform and a
+    difference-in-discontinuities design after disclosure was extended to all loans; the joint 2011
+    treatment lowers ever-delinquency by 14.4 percentage points and default by 1.68 points, while the
+    decomposition attributes about 13.7 points of the delinquency decline to disclosure and finds no
+    significant local standardization effect, with larger effects for first-time borrowers and little
+    evidence of changes in initial interest rates or borrower selection, indicating that clearer
+    information primarily improves repayment by helping consumers understand and budget for loan
+    obligations rather than through cheaper pricing or a restricted product menu.
