@@ -20433,3 +20433,17 @@
     −10.0% to −7.7%, narrows cross-country policy-rate dispersion, and generates welfare gains of about
     0.05% of permanent consumption, with the sign reversal surviving home bias, sluggish wages,
     nontradable inputs, alternative shocks, and noncooperative policies.
+- title: "Bierdel, Drenik, Herreño, and Ottonello (JPE, 2026) - Illiquid Lemon Markets and the Macroeconomy"
+  file: "https://www.dropbox.com/scl/fi/bj9800cab5eh5fi98j94v/Bierdel_Drenik_Herreno_Ottonello_JPE_2026.pdf?rlkey=25xz7aur6jl1plo58k84z6z23&dl=0"
+  desc: >-
+    This note summarizes the paper, which embeds seller-private capital quality, imperfect inspection,
+    and directed search into a quantitative capital-accumulation model where high-quality sellers may
+    use both high prices and long selling delays as separating signals, and identifies the friction with
+    Spanish Idealista commercial-property listings by decomposing prices into public-characteristic and
+    residual components: in the preferred regressions log duration loads −0.023 on predicted price but
+    +0.145 on residual price, with the latter slope more than doubling during the eurozone crisis;
+    calibrating inspection accuracy to 0.9808 implies that normal-times asymmetric information lowers
+    steady-state output by 1.23% and effective capital by 2.54%, while a crisis-like fall in accuracy to
+    about 0.955 produces an output contraction near 2% with a recovery half-life exceeding five years,
+    mainly through lower investment, more idle capital, and disproportionate idleness of high-quality
+    units.
