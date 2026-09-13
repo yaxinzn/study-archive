@@ -20505,3 +20505,17 @@
     announcement, and degree-related thematic concentration and trades perform especially well after
     portfolios shift toward incoming managers’ academic fields, supporting specialized within-theme
     stock selection rather than passive theme exposure.
+- title: "He and Whited (RFS, 2026) - Underrepresentation of Women CEOs"
+  file: "https://www.dropbox.com/scl/fi/ks97q8agi8zw4ud30f1u8/He_Whited_RFS_2026.pdf?rlkey=uclv6gml4utt2fupbt2zon8wg&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates a dynamic discrete-choice model of CEO gender using
+    2,621 U.S. public-firm successions from 2001–2019 to decompose underrepresentation into perceived
+    productivity differences, the search cost created by male-dominated candidate pools, and direct
+    board distaste, finding that plausible CEO pools are about 91.1% male, the estimated productivity
+    gap is essentially zero, and conditional board taste actually favors women; the baseline model
+    predicts a 4.39% female CEO share, eliminating the productivity gap raises it only to 5.09%,
+    eliminating the estimated board-distaste term lowers it to 1.52%, but eliminating the
+    search-friction channel raises it to 50.68%, indicating that the quantitatively dominant bottleneck
+    lies in the thin upstream pipeline of women candidates rather than the final board vote, while
+    leaving open that earlier-stage discrimination and career constraints may themselves generate that
+    scarcity.
