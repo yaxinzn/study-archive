@@ -20491,3 +20491,17 @@
     longer debt for firms with greater severe downside exposure and weaker hedging or restructuring
     options, and shows why ordinary small shocks and discrete crisis shocks imply fundamentally
     different maturity responses.
+- title: "Bai, Tang, Wan, and Yüksel (RFS, 2026) - Thematic Concentration and Mutual Fund Performance"
+  file: "https://www.dropbox.com/scl/fi/30ypxx4gnhqpmvru6jtcv/Bai_Tang_Wan_Yuksel_RFS_2026.pdf?rlkey=6bxqd4i2cracgly0zsgpfnlvn&dl=0"
+  desc: >-
+    This note summarizes the paper, which extracts 100 annually updated cross-industry investment themes
+    from 10-K Item 1A text using bigram LDA and defines a fund’s thematic concentration index as the
+    squared distance between its holdings-weighted theme vector and the market’s, finding among 2,449
+    active U.S. equity funds from 2006Q3–2023Q4 that the equal-weighted top-minus-bottom TCI decile
+    earns 0.355% monthly net Carhart alpha, or 4.26% annualized, while a one-standard-deviation increase
+    in TCI predicts about 72.7 basis points more annual alpha in Fama–MacBeth regressions; stock-level
+    thematic concentration and measured theme timing do not explain the result, whereas top-decile buys
+    outperform sells by 1.091% in next-quarter DGTW returns and 0.662% around the next earnings
+    announcement, and degree-related thematic concentration and trades perform especially well after
+    portfolios shift toward incoming managers’ academic fields, supporting specialized within-theme
+    stock selection rather than passive theme exposure.
