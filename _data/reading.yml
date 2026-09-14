@@ -20550,3 +20550,20 @@
     materially left-skewed one- and three-year consumption distributions, showing that intermediary
     balance-sheet health can jointly explain the level, volatility, predictability, and downside-risk
     content of the yield curve.
+- title: "Egan, MacKay, and Yang (RFS, 2026) - What Drives Variation in Investor Portfolios? Estimating the Roles of Beliefs and Risk Preferences"
+  file: "https://www.dropbox.com/scl/fi/kly94o1xdg43i6sh0e9wa/Egan_MacKay_Yang_RFS_2026.pdf?rlkey=ea6q5hs25z1ip53zny099fbsk&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses 442,631 U.S. 401(k) plan-year observations from 2009–2019
+    and a mean–variance portfolio model to separate subjective expected returns from risk preferences,
+    instrumenting fund fees with provider fees in other investment categories to identify plan-level
+    risk aversion and using the remaining first-order-condition residuals to recover asset and factor
+    beliefs; the preferred specification implies average risk aversion of about 3.55, an average
+    expected market excess return of 9.6% with 2.3-percentage-point within-year cross-plan dispersion,
+    and holdings predictions with roughly 23% in-sample and 17% out-of-sample R², while a
+    one-standard-deviation increase in expected returns raises equity holdings by 13.7 percentage points
+    versus a 7.4-point decline from a one-standard-deviation increase in risk aversion, equalizing
+    beliefs compresses the equity-share standard deviation from 0.132 to 0.072 whereas equalizing risk
+    aversion does not, and local, employer, and sector experience systematically shape expectations,
+    showing that belief heterogeneity is the dominant source of portfolio dispersion even though
+    diversified 401(k) menus keep average welfare losses from distorted beliefs to about 0.72 percentage
+    points annually.
