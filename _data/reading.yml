@@ -20535,3 +20535,18 @@
     through an additional 29–38-basis-point call-risk interaction, and has little incremental effect
     with make-whole calls, showing that flexibility and creditor protection are contractual complements
     and that investors price the option differently by redemption structure.
+- title: "Schneider (RFS, 2026) - Financial Intermediaries and the Yield Curve"
+  file: "https://www.dropbox.com/scl/fi/jlz459vmscgv58c0vzxhe/Schneider_RFS_2026.pdf?rlkey=nl3t1ljyx4aeeji64a35ihavn&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a continuous-time general-equilibrium term-structure
+    model in which leveraged financial intermediaries operate risky assets more efficiently than savers
+    but sometimes hit a financing constraint, forcing assets onto less efficient savers, lowering
+    consumption, raising marginal utility and the price of risk, and making intermediary net worth a
+    persistent nonlinear state variable for bond prices; the calibrated model generates an
+    upward-sloping average real yield curve, volatile long yields, positive and state-varying term
+    premia, Fama–Bliss return predictability, and a nominal curve about twice as steep through a
+    Taylor-rule extension, with the baseline real 10-year-minus-1-year spread around 63 basis points but
+    only about 22 basis points when the EIS rises from 1/5 to 1/3, while constrained states produce
+    materially left-skewed one- and three-year consumption distributions, showing that intermediary
+    balance-sheet health can jointly explain the level, volatility, predictability, and downside-risk
+    content of the yield curve.
