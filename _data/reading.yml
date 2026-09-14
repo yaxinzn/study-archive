@@ -20582,3 +20582,17 @@
     response, and issuers cater by lengthening maturity and reducing downgrade risk, showing that
     nonfundamental secondary-market demand can pass almost one-for-one into primary financing costs,
     security design, and real investment.
+- title: "Parlasca and Voss (RFS, 2026) - Voting and Trading on Public Information"
+  file: "https://www.dropbox.com/scl/fi/p6k0f2261zd899e5nucrv/Parlasca_Voss_RFS_2026.pdf?rlkey=5qon6uooqjmf2anmlmpuv1vje&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a shareholder-voting model in which a public
+    recommendation arrives before trading and voting, so greater signal precision both improves
+    uninformed shareholders’ individual decisions and correlates their votes, allowing a privately
+    informed blockholder to forecast when her corrective vote will fail and profitably exit instead;
+    although order flow from the sale can partially reveal her information and feed back into remaining
+    shareholders’ votes, the firm-value-maximizing equilibrium can switch discontinuously from voice to
+    exit, creating an intermediate range of public-signal precision in which firm value is lower than in
+    the no-public-information benchmark before rising again as the signal becomes nearly perfect, with
+    the result surviving alternative liquidity structures and block sizes below 5% of actively voted
+    shares, showing that even unbiased, costless public information can reduce welfare when it changes
+    who participates in governance.
