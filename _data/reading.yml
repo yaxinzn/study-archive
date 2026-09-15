@@ -20683,3 +20683,18 @@
     CIF/FOB margins and 7.7% higher product prices, and suppliers experiencing large cuts subsequently
     reduce ESG risk and regain trade only when they derisk, showing that investor pressure can function
     as costly cross-border supply-chain governance rather than merely portfolio screening.
+- title: "Lewis, Melcangi, and Pilossoph (ReStud, 2026) - Latent Heterogeneity in the Marginal Propensity to Consume"
+  file: "https://www.dropbox.com/scl/fi/3ir8riv4uweiqhw5x41l2/Lewis_Melcangi_Pilossoph_ReStud_2026.pdf?rlkey=1tft6et77c8gbm3lhp81l5v8p&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits randomized timing of the 2008 U.S. tax rebates in the
+    Consumer Expenditure Survey and estimates a Gaussian-mixture linear regression with latent groups
+    and dynamic receipt effects to recover the unconditional distribution of household marginal
+    propensities to spend without choosing ex ante which observables define high- and low-response
+    households; the preferred three-group total-expenditure specification has MPC support points of
+    0.04, 0.23, and 1.33 with shares 30%, 48%, and 23%, implying a weighted mean of about 0.42 versus
+    0.24 under a homogeneous model and posterior predictions above one for about 11% of households,
+    while non-durable and durable responses are only weakly correlated and income, non-salary income,
+    homeownership, and the average propensity to consume jointly explain just 5.9% of predicted MPC
+    variation (about 8% after adjustment), revealing a large latent high-response tail and positive
+    MPC–income and MPC–APC gradients that standard consumption-savings models and administratively
+    observable targeting variables struggle to match.
