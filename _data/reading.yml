@@ -20638,3 +20638,18 @@
     match survival so recession-at-hire wage scars receive greater present-value weight, with gaps
     largest early in careers and contraction-period rigidity in starting pay partly shifted into weaker
     subsequent wage growth.
+- title: "Caoui and Steck (RES, 2026) - Diversification, Market Entry, and the Global Internet Backbone"
+  file: "https://www.dropbox.com/scl/fi/ge0cdqh2bb17o0kfx651x/Caoui_Steck_RES_2026.pdf?rlkey=cy2f5b7m61l8v6x7u4brywu4e&dl=0"
+  desc: >-
+    This note summarizes the paper, which models undersea internet-cable entry as supplying both
+    conventional competition and reliability diversification because bandwidth buyers over-provision and
+    split purchases across independent physical routes to insure disruption risk, estimating a
+    country-pair dynamic Cournot entry model from global cable, price, bandwidth-use, construction-cost,
+    and outage data for 2005–2021 with electricity-generation costs instrumenting prices; the IV demand
+    elasticity is about −1.36 to −1.44, adding a second cable expands demand as much as a 28.3% price
+    cut, a third as 19.3%, and an eighth as 7.5%, and removing the diversification motive lowers entry
+    probability about 12%, multiplies disruption costs 4.7-fold, cuts consumer surplus 27% and headline
+    total surplus 11%, while the planner prefers 3.05 rather than 3.46 expected cables and the welfare
+    gap splits 53% to the uninternalized diversity benefit and 47% to business stealing, showing why
+    average entry can be modestly excessive even though reliability creates a large positive entry
+    externality.
