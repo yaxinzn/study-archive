@@ -20625,3 +20625,16 @@
     or roughly 30% by lowering the 90th percentile 0.24 and raising the 10th 0.12, and are strongly
     negatively correlated with experience returns (Spearman −0.564), showing that missing wage histories
     encode heterogeneous dynamic selection rather than innocuous missing observations.
+- title: "Doniger (RES, 2026) - Education and the Margins of Cyclical Adjustment in the Labour Market"
+  file: "https://www.dropbox.com/scl/fi/rzn1rvgke2m8eymtko1zp/Doniger_RES_2026.pdf?rlkey=ayenb89y3bu5id0fgp4d4a2dc&dl=0"
+  desc: >-
+    This note summarizes the paper, which measures the forward-looking wage component of the user cost
+    of labour rather than just entry wages and derives a one-step Mincer estimator that decomposes
+    business-cycle sensitivity into the new-hire wage, persistent expected wage wedges, and a small
+    cyclical-survival term using NLSY, SIPP, and CPS data; a one-percentage-point increase in
+    unemployment relative to trend lowers the estimated UCL by about 0.88/1.67% for workers without high
+    school, 3.64/2.49% for high-school or some-college workers, and 6.59/5.98% for college graduates in
+    the NLSY/SIPP respectively, because education both makes new-hire pay more cyclical and lengthens
+    match survival so recession-at-hire wage scars receive greater present-value weight, with gaps
+    largest early in careers and contraction-period rigidity in starting pay partly shifted into weaker
+    subsequent wage growth.
