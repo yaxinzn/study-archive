@@ -20596,3 +20596,18 @@
     the result surviving alternative liquidity structures and block sizes below 5% of actively voted
     shares, showing that even unbiased, costless public information can reduce welfare when it changes
     who participates in governance.
+- title: "Donna and Espín-Sánchez (RES, 2026) - The Illiquidity of Water Markets"
+  file: "https://www.dropbox.com/scl/fi/w7je1mgtll5g5cktozkew/Donna_EspinSanchez_RES_2026.pdf?rlkey=5ld21ybnfeu6zt2nbpz4f6nd6&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies the centuries-old cash auction for irrigation water in
+    Mula, Spain and its 1966 replacement by a rotating land-based quota to ask whether price allocation
+    can be inefficient when high-value users are liquidity constrained, using weekly auction records,
+    rainfall and soil-moisture engineering, urban-property wealth, and a structural dynamic demand model
+    estimated only on wealthy unconstrained Búlida-apricot farmers to recover water values; holding
+    weekly supply fixed at the observed 637 units, the Mula-like Q-25% sequential quota raises annual
+    welfare from 370.75 to 394.13 real pesetas per farmer per tree, or 6.3%, by reallocating water from
+    wealthy farmers who receive 31.5 units under the market toward poor farmers who receive only 19.6 so
+    both receive about 26.5, while a naive quota performs much worse and robustness to positive
+    wealth-productivity correlation shows that the gain comes from using recent irrigation history to
+    target dry, high-marginal-product plots rather than from quotas being generically superior to
+    markets.
