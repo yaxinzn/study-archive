@@ -20611,3 +20611,17 @@
     wealth-productivity correlation shows that the gain comes from using recent irrigation history to
     target dry, high-marginal-product plots rather than from quotas being generically superior to
     markets.
+- title: "Gobillon, Magnac, and Roux (RES, 2026) - Life-Cycle Wages and Human Capital Investments: Selection and Missing Data"
+  file: "https://www.dropbox.com/scl/fi/ipj3zvh60oeixdkmds9ba/Gobillon_Magnac_Roux_RES_2026.pdf?rlkey=bgefvlzpxz180vzn5gbzdzlan&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops and estimates a two-sector life-cycle human-capital
+    model for incomplete French wage panels in which time outside full-time private employment both
+    selects who is observed today and changes future human-capital accumulation, identifying individual
+    wage profiles with older-worker “flat spots,” interactive factors, the MARCOF
+    conditional-independence restriction, and an EM/Bai estimator on 7,339 men entering private
+    employment in 1985–1992 and followed through 2011; current static selection has little effect on the
+    wage distribution, whereas observed interruptions lower average wages by about 7% after twenty years
+    even as potential experience raises them about 80%, compress the 90–10 log-wage range by 0.36 points
+    or roughly 30% by lowering the 90th percentile 0.24 and raising the 10th 0.12, and are strongly
+    negatively correlated with experience returns (Spearman −0.564), showing that missing wage histories
+    encode heterogeneous dynamic selection rather than innocuous missing observations.
