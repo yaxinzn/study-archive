@@ -20727,3 +20727,17 @@
     than ownership consolidation, with assortment change and shrinkflation offering plausible
     demand-side mechanisms and consumer-welfare gains remaining conditional on how the changing price
     coefficient is interpreted.
+- title: "Sadler (JPE, 2026) - Making a Swap: Network Formation with Increasing Marginal Costs"
+  file: "https://www.dropbox.com/scl/fi/zagwzp87kxone2n8eri91/Sadler_JPE_2026.pdf?rlkey=gnzzsaqp09kiz1u5anoq0hwuj&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops an ordinal theory of strategic network formation in
+    which own-link payoffs are quasi-concave and agents have rank-consistent preferences over partners,
+    arguing that ordinary pairwise stability is too weak when increasing marginal link costs make
+    replacement more attractive than adding an extra link and introducing swap-proof stability, where
+    two agents may link while each drops at most one current partner; under strict preferences and the
+    mutual-favorite property a greedy procedure produces a unique Pareto-efficient stable graph, while a
+    common desirability ranking implies rank-order graphs, a quantitative bound on the rank distance of
+    linked players when maximum degree is small, top cliques, and chordality, and adding a sociability
+    ranking yields strong hierarchies when desirability and sociability align but ordered overlapping
+    cliques when they oppose, providing graph-theoretic restrictions that map qualitative preference
+    structure into observable network architecture.
