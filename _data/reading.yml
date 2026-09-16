@@ -20741,3 +20741,18 @@
     ranking yields strong hierarchies when desirability and sociability align but ordered overlapping
     cliques when they oppose, providing graph-theoretic restrictions that map qualitative preference
     structure into observable network architecture.
+- title: "Giuntella, Saccardo, and Sadoff (JPE, 2026) - Sleep: Educational Impact and Habit Formation"
+  file: "https://www.dropbox.com/scl/fi/thbvam3iic4xadwao4fex/Giuntella_Saccardo_Sadoff_JPE_2026.pdf?rlkey=xe41ancb8al28v8s552cmennf&dl=0"
+  desc: >-
+    This note summarizes the paper, which runs a randomized field experiment with 1,149 University of
+    Pittsburgh students to test whether personalized bedtime reminders, morning feedback, and a same-day
+    $4.75 reward for sleeping at least seven hours by 9 a.m. can improve sleep and academic performance,
+    finding in the main treatment-control comparison that the four-week intervention raises weeknight
+    goal attainment by 11.5 percentage points and sleep by 0.318 hours, about 19 minutes, with roughly
+    half the effect persisting for about four weeks after payments stop, while treatment-semester GPA
+    rises by 0.075 points across all classes and 0.089 in lectures (about 0.10–0.11 standard
+    deviations); additional sleep comes mainly from earlier bedtimes and 11.5 fewer minutes of nighttime
+    screen use rather than less total studying, immediate rewards outperform delayed incentives and
+    cue/feedback alone during treatment, and continued external reminders do not explain persistence,
+    supporting reinforcement and self-maintained routine formation rather than a strong automatic
+    cue-triggered habit.
