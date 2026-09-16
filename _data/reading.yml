@@ -20712,3 +20712,18 @@
     border-store output per hour rises 7.6%, and nationwide EBITDA per hour falls about 16%, showing
     that wage floors can increase monitored workers’ effort and retention without fully offsetting the
     firm’s higher compensation bill.
+- title: "Atalay, Frost, Sorensen, Sullivan, and Zhu (JPE, 2026) - Scalable Demand and Markups"
+  file: "https://www.dropbox.com/scl/fi/dil341n12p3qyk7gsmo28/Atalay_Frost_Sorensen_Sullivan_Zhu_JPE_2026.pdf?rlkey=kc1yqfi3gv8r72s52zmq0h6wo&dl=0"
+  desc: >-
+    This note summarizes the paper, which makes demand-based markup estimation scalable across many
+    unrelated consumer markets by using NielsenIQ household copurchasing patterns to cluster products
+    automatically into nested-logit substitution groups and then combining module-year 2SLS demand
+    estimates with multiproduct Bertrand pricing and historically reconstructed ownership matrices for
+    40,930 products, 22,315 stores, and 70 usable modules from 2006–2018; the unweighted mean markup
+    rises from 0.41 to 0.57 and the revenue-weighted mean from 0.37 to 0.52, with roughly a
+    10-percentage-point median increase and a 20-point increase at the 75th percentile, while median
+    own-price elasticity becomes less negative from about −4.74 to −4.00, and counterfactuals show that
+    reduced price sensitivity and lower implied marginal costs explain much more of the upward shift
+    than ownership consolidation, with assortment change and shrinkflation offering plausible
+    demand-side mechanisms and consumer-welfare gains remaining conditional on how the changing price
+    coefficient is interpreted.
