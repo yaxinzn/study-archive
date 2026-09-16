@@ -20698,3 +20698,17 @@
     variation (about 8% after adjustment), revealing a large latent high-response tail and positive
     MPC–income and MPC–APC gradients that standard consumption-savings models and administratively
     observable targeting variables struggle to match.
+- title: "Coviello, Deserranno, and Persico (JPE, 2022) - Minimum Wage and Individual Worker Productivity: Evidence from a Large US Retailer"
+  file: "https://www.dropbox.com/scl/fi/qgbs5j3t4izrqnuco09ve/Coviello_Deserranno_Persico_JPE_2022.pdf?rlkey=z2s3xro9f3hfg2hp4jjze9uqh&dl=0"
+  desc: >-
+    This note summarizes the paper, which exploits 70 state, county, and city minimum-wage increases
+    from 2012–2015 and a border-discontinuity design with worker and county-pair-by-month fixed effects
+    at a large U.S. retailer to study the productivity of incumbent commissioned salespeople, finding
+    that a $1 increase in the wage floor raises average sales per hour by 4.5%, with effects of 22.6%
+    for workers previously paid at the minimum wage, 8.2% for medium types, and an insignificant 2.3%
+    for high types; a hybrid efficiency-wage/performance-pay model is supported by a sharp monitoring
+    split, as average productivity rises 6.6% in high-monitoring stores but falls 9.4% in low-monitoring
+    stores, while low-type termination falls about 19%, employment is essentially unchanged,
+    border-store output per hour rises 7.6%, and nationwide EBITDA per hour falls about 16%, showing
+    that wage floors can increase monitored workers’ effort and retention without fully offsetting the
+    firm’s higher compensation bill.
