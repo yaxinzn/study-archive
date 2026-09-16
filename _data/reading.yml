@@ -20756,3 +20756,18 @@
     cue/feedback alone during treatment, and continued external reminders do not explain persistence,
     supporting reinforcement and self-maintained routine formation rather than a strong automatic
     cue-triggered habit.
+- title: "Back, Carlin, Kazempour, and Xie (JF, 2026) - Discretionary Announcement Timing and Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/lrumphowm47mdufasncfc/Back_Carlin_Kazempour_Xie_JF_2026.pdf?rlkey=a27j9ke57wwpdfxqqo2crqzmx&dl=0"
+  desc: >-
+    This note summarizes the paper, which models truthful disclosure timing as an American option in
+    which managers can wait after learning firm value because favorable correlated peer news may
+    temporarily lift their stock price, while continued silence creates increasingly adverse inference
+    and raises conditional variance, beta, and required returns; in the symmetric two-strategic-firm
+    model with correlation 0.5, simulations generate first-announcer returns around 17.2%, peer jumps
+    around 8.5%, and second-announcer returns around 13.8%, while conditional beta rises faster than the
+    risk premium so the true conditional CAPM alpha is negative even though using a stale date-0 beta
+    produces an apparently positive alpha, and an earnings-announcement panel of 4,068 firms and 115,030
+    firm-quarters from 2007Q1–2021Q3 shows that a one-standard-deviation favorable industry-peer return
+    delays release by roughly 0.03–0.05 day and an aggregate return by about 0.16–0.19 day, providing
+    directional evidence that firms preserve the disclosure option after good peer news even though the
+    timing regressions are not a clean causal experiment.
