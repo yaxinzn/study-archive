@@ -20801,3 +20801,19 @@
     norms than simple favoritism or contemporaneous group quotas, while emphasizing that the design
     identifies conditional within-group associations rather than officials’ motives or a randomized
     causal effect.
+- title: "Cruz, Labonne, and Querubín (AER, 2017) - Politician Family Networks and Electoral Outcomes: Evidence from the Philippines"
+  file: "https://www.dropbox.com/scl/fi/b4t1zrp5hn4waa7j60uce/Cruz_Labonne_Querubin_AER_2017.pdf?rlkey=n43e27o07atsw0zdzh6yqal7m&dl=0"
+  desc: >-
+    This note summarizes the paper, which reconstructs village and municipal family networks from naming
+    conventions for more than 20 million individuals across over 15,000 Philippine villages and derives
+    eigenvector centrality from a political-intermediation model in which requests for targeted benefits
+    become less likely to reach politicians as social paths lengthen, then uses candidate fixed effects
+    to compare the same politician across villages and finds that a one-standard-deviation increase in
+    the candidate family’s local centrality is associated with roughly a 1.0–1.4-percentage-point
+    increase in vote share; more central families are also disproportionately likely to field mayoral
+    candidates, and the positive associations between support and the centrality of barangay captains or
+    party-mates, together with survey evidence that greater social distance predicts less reported
+    incumbent vote buying and harder access to government assistance, fit a mediated-exchange mechanism
+    that survives extensive wealth, land, historical-elite, and family-composition controls, while the
+    authors explicitly stop short of treating network centrality as randomly assigned or the main
+    vote-share coefficient as a clean causal effect.
