@@ -20832,3 +20832,19 @@
     information and inventory effects, with client-side strategies losing after spreads but dealer
     liquidity provision earning positive returns, supporting compensation for intermediaries that absorb
     predictable benchmark-driven inventory pressure.
+- title: "Gan, Guo, and Xu (RFS, 2018) - Decentralized Privatization and Change of Control Rights in China"
+  file: "https://www.dropbox.com/scl/fi/q6zzpp20fxf18ytadkce2/Gan_Guo_Xu_RFS_2018.pdf?rlkey=9d0m6sud4qaf88ttam48yz6gx&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines a proprietary 2006 survey of more than 3,000 Chinese
+    industrial firms with 1998–2007 National Bureau of Statistics panels and city fiscal data to study
+    how decentralized local governments choose privatization methods and whether formal ownership
+    changes actually transfer control, finding that management buyouts account for 47% of
+    privatizations, reduce measured government influence far more than outsider sales or other methods,
+    leave only about 16% of firms under strong post-privatization state influence versus 25% for
+    outsider sales and 59% for other methods, and are more likely where the political burden of SOE
+    employment is lower or stronger fiscal capacity makes worker adjustment affordable; in staggered
+    firm-fixed-effect difference-in-differences, pooled privatization has no detectable performance gain
+    but MBOs raise post-transaction ROA by about 4.4 percentage points and operating profit per employee
+    by roughly RMB 5,950–6,000 while outsider sales do not, with less state support, harder budgets,
+    management replacement, auditing, and board formation providing a mechanism that links actual
+    control transfer to restructuring, albeit under endogenous method choice and nonrandom survey data.
