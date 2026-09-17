@@ -20817,3 +20817,18 @@
     that survives extensive wealth, land, historical-elite, and family-composition controls, while the
     authors explicitly stop short of treating network centrality as randomly assigned or the main
     vote-share coefficient as a clean causal effect.
+- title: "Krohn, Mueller, and Whelan (JF, 2024) - Foreign Exchange Fixings and Returns around the Clock"
+  file: "https://www.dropbox.com/scl/fi/17qnb2yqbkaiuo9q1px8m/Krohn_Mueller_Whelan_JF_2024.pdf?rlkey=b73wuw0ggm9xtnlsxzxdp6kf4&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses tick-level G9 spot, forward, futures, and transaction
+    data from 1999–2019 to document a benchmark-centered W-shaped intraday dollar pattern in which the
+    U.S. dollar appreciates before the Tokyo, ECB, and London FX fixes and reverses afterward, with
+    equal-weighted dollar-portfolio reversal returns averaging 4.09 basis points around Tokyo and 3.51
+    basis points around Europe before costs; daylight-saving shifts, Japanese publication holidays,
+    benchmark introductions, and the ECB’s 2016 timing change show that the turning points follow the
+    active fix rather than a generic trading clock, while interdealer order flow records systematic
+    pre-fix dollar demand, reversals strengthen monotonically with order imbalance and lagged FX
+    volatility, and contemporaneous versus prefix flow coefficients have the opposite signs predicted by
+    information and inventory effects, with client-side strategies losing after spreads but dealer
+    liquidity provision earning positive returns, supporting compensation for intermediaries that absorb
+    predictable benchmark-driven inventory pressure.
