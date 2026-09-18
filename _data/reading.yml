@@ -20876,3 +20876,17 @@
     5.4–7.0-point triple differences and 8.1–8.8-point recipient investment effects—and is followed by
     better profitability and smaller crisis valuation losses, supporting efficient crisis-time
     reallocation while not establishing normal-times or economy-wide welfare efficiency.
+- title: "Massa, O’Donovan, and Zhang (JFE, 2022) - International Asset Pricing with Strategic Business Groups"
+  file: "https://www.dropbox.com/scl/fi/yge1rtymdf3tyyp1xn0xy/Massa_ODonovan_Zhang_JFE_2022.pdf?rlkey=as37fxeygexniqflax3uyex2z&dl=0"
+  desc: >-
+    This note summarizes the paper, which treats business-group ownership networks as an asset-pricing
+    institution and defines a firm’s centrality by the fraction of total group value the ultimate owner
+    would lose control over if that affiliate failed, using 11,298 listed affiliates in 5,443 groups
+    across 77 non-U.S. countries during 2002–2012 to show that strategically pivotal firms are protected
+    in bad states and therefore command lower expected returns: a one-standard-deviation rise in
+    centrality offsets roughly 11–12% of adverse industry-shock valuation effects and about 94% of the
+    sovereign-downgrade loss for financing-constrained bound firms, predicts 14 basis points lower raw
+    and 12 basis points lower DGTW-adjusted monthly returns, and produces central-minus-peripheral
+    four-factor alphas of about −67 basis points per month overall and −36 basis points in a
+    between-group sort, while factor-model tests repeatedly select the CMP centrality factor beyond
+    standard international and intermediary-risk factors.
