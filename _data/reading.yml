@@ -20965,3 +20965,19 @@
     wartime, land, and market placebos do not reproduce the discontinuity, supporting the paper’s
     interpretation that historical state capacity can persist by crowding in durable local
     collective-action norms rather than only through surviving formal institutions.
+- title: "Beraja, Kao, Yang, and Yuchtman (QJE, 2023) - AI-tocracy"
+  file: "https://www.dropbox.com/scl/fi/x01ovxnqsvtehyn0dx3ns/Beraja_Kao_Yang_Yuchtman_QJE_2023.pdf?rlkey=exsq75k51jq0njr3fanyzf950&dl=0"
+  desc: >-
+    This note summarizes the paper, which links 9,267 political-unrest events, nearly three million
+    Chinese government procurement records, 7,837 facial-recognition AI firms, software registrations,
+    surveillance-camera purchases, and AI exports to study a two-way feedback between public-security
+    demand and AI development: a one-standard-deviation increase in local unrest predicts about a
+    0.20-standard-deviation increase in next-quarter public-security AI procurement in OLS and 0.35-0.38
+    standard deviations in weather-based LASSO-IV estimates, while a one-standard-deviation increase in
+    accumulated public-security AI capacity reduces the weather-to-unrest response by roughly one
+    quarter and joint AI-camera capacity by about one half; on the supplier side, firms receiving a
+    first public-security contract in a politically sensitive environment produce about 10.7 additional
+    software products over eight quarters, including roughly 5.1 commercial products, and are 3.2-3.9
+    percentage points more likely to begin exporting, supporting the authors’ proposed
+    procurement-innovation feedback while leaving political motives, AI-stock endogeneity, product
+    quality, and overall welfare outside clean identification.
