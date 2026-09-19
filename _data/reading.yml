@@ -20935,3 +20935,18 @@
     ownership performs poorly, with the paper interpreting these estimates as conditional
     crisis-resilience associations rather than causal effects of mechanically changing corporate
     policies.
+- title: "Giné and Kanz (RFS, 2018) - The Economic Effects of a Borrower Bailout: Evidence from an Emerging Market"
+  file: "https://www.dropbox.com/scl/fi/1f0b0tx1exg31j8vp9i9r/Gine_Kanz_RFS_2018.pdf?rlkey=6d49wclcgmnbqz79eiu1g47yz&dl=0"
+  desc: >-
+    This note summarizes the paper, which evaluates India’s 2008 Agricultural Debt Waiver and Debt
+    Relief Scheme with a 489-district panel, continuous difference-in-differences, and an instrument
+    interacting pre-program drought history with the historically determined share of landholdings below
+    the two-hectare eligibility cutoff, finding that a one-standard-deviation increase in bailout
+    exposure reduces post-program credit outstanding by about 24.6 log points, raises the probability
+    that the nonperforming-loan account share increases by 51.9 percentage points and the
+    nonperforming-credit share by 28.3 points, yet produces no detectable gain in agricultural
+    productivity, rural wages, or consumption; within-bank reallocations away from highly exposed
+    districts, the deterioration of repayment among borrowers previously in good standing, and a
+    stronger post-bailout electoral default cycle support a mechanism in which broad debt relief changes
+    lenders’ geographic credit supply and borrowers’ repayment incentives enough to offset its intended
+    balance-sheet stimulus.
