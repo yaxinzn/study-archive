@@ -20919,3 +20919,19 @@
     collateral, supporting a monitoring-avoidance mechanism in which controllers with stronger
     private-benefit incentives deliberately choose financing structures that reduce concentrated
     creditor scrutiny rather than automatically seeking more bank monitoring.
+- title: "Ding, Levine, Lin, and Xie (JFE, 2021) - Corporate Immunity to the COVID-19 Pandemic"
+  file: "https://www.dropbox.com/scl/fi/6zgngl473tc470ejasmo5/Ding_Levine_Lin_Xie_JFE_2021.pdf?rlkey=ftfpqz8ipjunf1yy9g7mb6nnj&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses weekly returns for more than 6,700 listed firms in 61
+    economies during January-May 2020 and interacts pre-pandemic firm characteristics with domestic
+    COVID-19 case growth in specifications containing firm, industry-by-week, and economy-by-week fixed
+    effects, finding that stronger balance sheets, less exposed international networks, stakeholder
+    capital, and some ownership structures are associated with greater market resilience: a
+    one-standard-deviation increase in cash cushions weekly returns by about 0.25 percentage points at
+    the average exposed-country shock while leverage reduces them by about 0.23 points, supplier and
+    customer exposure add roughly 0.14 and 0.35 points to weekly declines, CSR adds about 0.13 points of
+    resilience, antitakeover provisions subtract about 0.13 points, and direct family control with a
+    non-family manager or large corporate control performs relatively well whereas hedge-fund block
+    ownership performs poorly, with the paper interpreting these estimates as conditional
+    crisis-resilience associations rather than causal effects of mechanically changing corporate
+    policies.
