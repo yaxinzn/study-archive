@@ -20997,3 +20997,18 @@
     amounts generally larger than associated capital expenditure, while financing-constraint, ratings,
     U.S.-sales, tradability, repeated-issuance, and selection tests do not eliminate the pattern,
     supporting a carry-like balance-sheet channel without establishing a fully causal issuance decision.
+- title: "Allena and Chordia (JFE, 2026) - True Liquidity and Fundamental Prices: U.S. Tick Size Pilot"
+  file: "https://www.dropbox.com/scl/fi/uxp1xs5745cew158sft2q/Allena_Chordia_JFE_2026.pdf?rlkey=6y3p3evfbyh0s166vant182ux&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a rounding-aware state-space model and
+    variational-inference estimator for latent fundamental prices and continuous “true” bid–ask spreads
+    using millisecond TAQ data and applies it to the SEC’s randomly assigned 2016–2018 U.S. Tick Size
+    Pilot, showing that widening the quote grid from one to five cents raises market-maker profit
+    opportunities by about 3.6, 3.8, and 4.2 cents across Groups 1–3 and true-price effective
+    transaction costs by 1.8, 1.9, and 2.4 cents even though latent true spreads fall—especially by
+    roughly 3.0–3.6 cents for tick-unconstrained stocks—while market-order price discovery falls about
+    4.0–4.7 percentage points, limit-order discovery rises 3.2–3.8 points, and price delay rises sharply
+    only for constrained stocks, implying that coarse ticks redistribute surplus toward liquidity
+    providers and alter queueing/undercutting equilibria while worsening investor costs and, where the
+    tick binds, slowing price discovery; random pilot assignment identifies the treatment effects
+    conditional on the paper’s structural recovery of unrounded prices and spreads.
