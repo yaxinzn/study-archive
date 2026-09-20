@@ -21012,3 +21012,18 @@
     providers and alter queueing/undercutting equilibria while worsening investor costs and, where the
     tick binds, slowing price discovery; random pilot assignment identifies the treatment effects
     conditional on the paper’s structural recovery of unrounded prices and spreads.
+- title: "Laarits (JFE, 2026) - Discounting Timing Strategies"
+  file: "https://www.dropbox.com/scl/fi/l98e6dh81m0swcjjr8fn0/Laarits_JFE_2026.pdf?rlkey=waxqvgel00vgje4k2kjedlrha&dl=0"
+  desc: >-
+    This note summarizes the paper, which reconstructs 39 timing strategies across six anomaly families
+    and evaluates monthly-rebalanced returns at 1-, 12-, 60-, and 120-month horizons, showing that
+    positive return continuation makes long-horizon risk much larger than monthly statistics suggest:
+    the average variance ratio rises to 1.83 at five years and 2.13 at ten years, the average Sharpe
+    ratio falls from 0.57 to 0.38, and average Fama–French four-factor alpha declines from 5.46% to
+    2.04%, with time-series-efficient factor benchmarks driving average alpha to roughly zero beyond
+    five years and the strongest monthly strategies suffering the largest horizon discount, as the
+    ten-year variance ratio loads on the monthly Sharpe ratio with a slope of 2.83; a terminal-wealth
+    framework and calibrated affine model with seasonal persistent cash-flow and mean-reverting
+    discount-rate shocks reproduce the rising long-horizon betas and alpha decay, showing that apparent
+    short-horizon timing alpha can be compensation for persistent risks that become visible only over
+    investors’ true horizons.
