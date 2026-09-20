@@ -21042,3 +21042,18 @@
     a 23.8-cent achievable gain under a filing-date allocation rule, supporting a mechanism in which
     subscription rights, committed backstop capital, and concentrated post-emergence ownership turn
     private valuations into funded choices and reduce bargaining complexity.
+- title: "Ellul, Pagano, and Scognamiglio (RFS, 2020) - Career Risk and Market Discipline in Asset Management"
+  file: "https://www.dropbox.com/scl/fi/nri9f5hnvbek5me9zxrve/Ellul_Pagano_Scognamiglio_RFS_2020.pdf?rlkey=syta6tgt81wjeki6wba5ecipg&dl=0"
+  desc: >-
+    This note summarizes the paper, which links full career histories for 1,948 hedge-fund professionals
+    to TASS performance and liquidation data, maps jobs into a six-level hierarchy and position-specific
+    earning capacity, and uses one-to-one propensity-score matching plus individual-fixed-effect event
+    studies around each professional’s first fund liquidation to test whether the external labor market
+    disciplines managers through reputation; entering hedge funds raises average job level from about
+    3.8 to 4.6 and imputed compensation by roughly $750,000, but after liquidation rank and earning
+    capacity fall persistently and employer switching rises about 10 percentage points, with the damage
+    concentrated among level-5/6 decision makers and, crucially, among funds that underperformed their
+    strategy benchmark for two years—where top managers lose about 0.472 job levels and $752,000, or
+    24.7% of pre-event compensation—while normal-relative-performance liquidations produce mobility
+    without comparable scarring and large multi-fund families cushion losses, supporting
+    reputation-based career discipline rather than purely mechanical displacement.
