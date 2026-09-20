@@ -21057,3 +21057,19 @@
     24.7% of pre-event compensation—while normal-relative-performance liquidations produce mobility
     without comparable scarring and large multi-fund families cushion losses, supporting
     reputation-based career discipline rather than purely mechanical displacement.
+- title: "Hua, Peng, Schwartz, and Alan (RFS, 2020) - Resiliency and Stock Returns"
+  file: "https://www.dropbox.com/scl/fi/ep5vn5g2k6570gbheg5k5/Hua_Peng_Schwartz_Alan_RFS_2020.pdf?rlkey=w8lefvwoglchubzmcp6y0ip71&dl=0"
+  desc: >-
+    This note summarizes the paper, which defines stock-market resiliency as the speed with which a
+    transitory order-flow price impact is repaired and measures it monthly as the covariance between
+    9:30–10:00 and 10:00–16:00 midpoint returns scaled by daily return variance, using 804,009
+    NYSE/Amex/NASDAQ stock-months from 1993–2014 to show that more negative RES—consistent in the model
+    with larger immediate impact and/or slower decay—predicts materially higher next-month returns: the
+    lowest-minus-highest RES decile earns 33 basis points equal-weighted and 50 basis points
+    value-weighted raw returns, 36/46 basis points Carhart alphas and 39/57 basis points q-factor
+    alphas, with multivariate Fama–MacBeth controls implying an 18–27 basis-point monthly premium and an
+    S&P 500 value-weighted spread of 50 basis points in four-factor alpha and 56 basis points in
+    q-factor alpha where conventional liquidity measures are insignificant; the relation survives news
+    and information controls and strengthens when turnover is high and RES is negative, supporting a
+    priced nonresiliency characteristic that captures both market impact and repair persistence rather
+    than small-order spreads alone.
