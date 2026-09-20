@@ -21027,3 +21027,18 @@
     discount-rate shocks reproduce the rising long-horizon betas and alpha decay, showing that apparent
     short-horizon timing alpha can be compensation for persistent risks that become visible only over
     investors’ true horizons.
+- title: "Seth (JFE, 2026) - Do Rights Offerings Reduce Bargaining Complexity in Chapter 11?"
+  file: "https://www.dropbox.com/scl/fi/0ng471sda2paxrnjc9w64/Seth_JFE_2026.pdf?rlkey=80sxdjno0vax2rnjf8yiqlqpq&dl=0"
+  desc: >-
+    This note summarizes the paper, which hand-collects 485 large U.S. public-company Chapter 11 cases
+    from 2003–2021 to study rights offerings as a security-design solution to valuation disagreement and
+    creditor coordination, using S&P 500 returns in the two-month pre-confirmation book-building window
+    as an instrument for offering completion because stronger markets relax distressed-investor backstop
+    constraints; rights offerings appear in 114 cases, raise about $407 million on average and 52% of
+    exit financing, and in reorganized-firm IV estimates increase total creditor recoveries by about
+    23.4 cents per dollar of claims while shortening bankruptcy by roughly 7.3 months, reducing priority
+    deviations and refiling, leaving firms with lower leverage and more cash, and substituting for
+    Section 363 sales, while a generalized Roy model estimates a 16.6-cent average treatment effect and
+    a 23.8-cent achievable gain under a filing-date allocation rule, supporting a mechanism in which
+    subscription rights, committed backstop capital, and concentrated post-emergence ownership turn
+    private valuations into funded choices and reduce bargaining complexity.
