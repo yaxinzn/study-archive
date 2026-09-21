@@ -19096,17 +19096,21 @@
 - title: "Eaton, Kortum, and Kramarz (Econometrica, 2026) - Firm-to-Firm Trade: Imports, Exports, and the Labor Market"
   file: "https://www.dropbox.com/scl/fi/wawsjkn79xc9dpmjxod0d/Eaton_Kortum_Kramarz_Econometrica_2026.pdf?rlkey=afx5jc8khjvlzeqqfohxrb7ap&dl=0"
   desc: >-
-    This note summarizes the paper, which uses French firm-to-firm customs data and a quantitative
-    general-equilibrium matching model to make individual buyer–seller relationships the primitive unit
-    of international trade, showing that larger bilateral export flows arise mainly through more
-    relationships—both more exporters and more buyers per exporter—and that the buyers-per-exporter
-    margin cleanly distinguishes partner-matching frictions from iceberg costs because conditional
-    partner counts are invariant to iceberg costs but rise with matching intensity; estimated matching
-    frictions are about as important as iceberg costs for gravity and more sensitive to distance, random
-    supplier access generates large cross-firm labor-share heterogeneity, nearly half of the French
-    export increase to 2004 EU entrants is attributed to lower matching frictions, and workers whose
-    tasks are easiest to outsource, especially primary-educated production workers, can lose even when
-    aggregate real income rises.
+    This note summarizes the paper, which uses French buyer-seller customs links, OECD exporter counts,
+    matched employer-employee records, and a quantitative general-equilibrium model with granular
+    matching and finitely many production tasks to make relationships the primitive unit of
+    international trade, documenting that destination-size elasticity of French export relationships is
+    0.80, decomposed into 0.46 for exporter counts and 0.34 for buyers per exporter, and identifying
+    matching separately from iceberg costs because conditional buyer counts are invariant to delivery
+    costs; estimates imply task substitution of 2.70, seller and buyer congestion of 0.32 and 0.37,
+    skilled versus unskilled matching intensities of 0.17 versus 0.83, and a Head-Ries decomposition in
+    which matching explains about 41% of residual bilateral trade resistance versus 59% for iceberg
+    costs, while an equal 10% friction reduction shows the micro distinction clearly—lower iceberg costs
+    raise French exporter counts to 1.43 of baseline whereas lower matching frictions raise them only to
+    1.03 but increase foreign buyers per exporter to 1.28—and the 2004 EU enlargement is interpreted as
+    roughly a 14% fall in trade resistance with matching contributing nearly half, generating aggregate
+    gains but weaker outcomes for workers whose tasks are most easily replaced by imported
+    intermediates.
 - title: "Villa (ReStud, 2026) - Macro Shocks and Firm Dynamics with Oligopolistic Financial Intermediaries"
   file: "https://www.dropbox.com/scl/fi/u1q4p6gtf5xmgzu5s1pfm/Villa_RES_2026.pdf?rlkey=gmnrll8auiez3byhao3wwqpt2&dl=0"
   desc: >-
