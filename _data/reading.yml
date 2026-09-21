@@ -21073,3 +21073,19 @@
     and information controls and strengthens when turnover is high and RES is negative, supporting a
     priced nonresiliency characteristic that captures both market impact and repair persistence rather
     than small-order spreads alone.
+- title: "Eichenbaum, Johannsen, and Rebelo (RES, 2021) - Monetary Policy and the Predictability of Nominal Exchange Rates"
+  file: "https://www.dropbox.com/scl/fi/cbeq42ttju592w7ozvy7j/Eichenbaum_Johannsen_Rebelo_RES_2021.pdf?rlkey=6z1k0ox9ek5st9fpq76b93tp0&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines horizon-specific predictive regressions across
+    inflation-targeting, fixed or quasi-fixed, and regime-transition economies with recursive
+    out-of-sample forecasts, a flexible-price two-country model, and a Bayesian three-region DSGE model
+    to show that the monetary regime determines which nominal margin restores purchasing-power parity:
+    under inflation targeting, current real exchange rates predict increasingly large future nominal
+    exchange-rate reversals while relative-inflation coefficients remain small, whereas under fixed
+    rates adjustment shifts toward inflation differentials; pooled forecast RMSPE relative to a random
+    walk falls from 1.08 and 1.03 at one and two years to 0.93, 0.76, 0.62, and 0.50 at three through
+    six years, with rejection of the random-walk null from year three onward, and the estimated DSGE
+    model attributes about 75% of U.S.-German real-exchange-rate variance and 72-75% of the predictive
+    covariance to foreign demand shocks for dollar-denominated bonds while assigning them only about 2%
+    of U.S. GDP variance, making medium-run exchange-rate predictability an equilibrium outcome of
+    monetary policy and international portfolio demand rather than a regime-invariant law.
