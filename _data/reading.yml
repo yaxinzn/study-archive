@@ -2479,9 +2479,21 @@
 - title: "Borella, De Nardi & Yang (RES, 2023) - Are Marriage-Related Taxes and Social Security Benefits Holding Back Female Labour Supply?"
   file: "https://www.dropbox.com/scl/fi/7a4i19lyffdpjo446astb/Borella_DeNardi_Yang_RES_2023.pdf?rlkey=526ppchmumjuqnlr2yamy4w0r&dl=0"
   desc: "This note summarizes the paper, which uses PSID and HRS data, two U.S. cohorts, and a dynamic life-cycle model of couples and singles with labour supply, savings, marriage, divorce, wages, human capital, health, medical expenses, taxes, Social Security, Medicaid, and SSI to study marriage-related tax and benefit rules, showing that joint taxation and spousal/survivor benefits depress married women’s labour supply by raising secondary-earner tax wedges and weakening the link between own work and retirement benefits, while removing these provisions raises female participation, increases retirement wealth, and generates welfare gains for most households."
-- title: "Favilukis, Mabille & Van Nieuwerburgh (RES, 2023) - Affordable Housing and City Welfare"
+- title: "Bornstein, Krusell, and Rebelo (RES, 2023) - A World Equilibrium Model of the Oil Market"
   file: "https://www.dropbox.com/scl/fi/18vmwitdmze2g0z8p5w9t/Bornstein_Krusell_Rebelo_RES_2023.pdf?rlkey=ek4lygzstdaabb2g2nq6dgc72&dl=0"
-  desc: "This note summarizes the paper, which develops a theoretical model of over-the-counter market structure with ex ante identical traders, endogenous costly contact-rate investment, asset-position and taste shocks, bilateral trading, misalignment, intermediation, and a planner benchmark to study why core–periphery trading networks emerge, showing that heterogeneous access and middlemen arise endogenously because fast traders have option value from quickly unwinding positions, generating continuous contact-rate dispersion, Pareto-tailed trading rates, persistent intermediation even as frictions vanish, and excessive decentralized contact investment and trading relative to the social optimum."
+  desc: >-
+    This note summarizes the paper, which embeds an OPEC cartel and a competitive non-OPEC fringe in a
+    world general-equilibrium model and disciplines conventional-versus-fracking technology with Rystad
+    field data covering roughly 14,000 fields, 3,200 companies, and 109 countries from 1970-2019,
+    estimating an average investment-to-production lag of about 12 years for conventional fields versus
+    one year for fracking and extraction-cost curvature of 6.11 versus 2.23; when fracking is introduced
+    and calibrated to a 20% long-run world share, the model lowers the steady-state oil price by 46%,
+    raises world output by 5%, reduces oil-price volatility from 0.21 to 0.12, and leaves OPEC's share
+    nearly unchanged at 42.3% to 40.1%, whereas a competitive-OPEC counterfactual produces only a 17%
+    price decline and 0.5% output gain, and flexible fracking production compresses the oil-price
+    response to an OPEC supply shock by roughly a factor of ten, showing that fracking matters both as
+    nimble physical supply and as a force that weakens cartel market power, with a reported 0.85%
+    consumption-equivalent welfare gain that explicitly excludes environmental externalities.
 - title: "Davila (RES, 2020) - Using Elasticities to Derive Optimal Bankruptcy Exemptions"
   file: "https://www.dropbox.com/scl/fi/10qup8miphajn254h43lj/Davila_RES_2020.pdf?rlkey=n2ogt6t1endkibouqvqjtvolk&dl=0"
   desc: "This note summarizes the paper, which develops a sufficient-statistics framework for optimal bankruptcy exemptions using unsecured credit, default decisions, lender recovery, credit-supply sensitivity, bankruptcy probabilities, marginal valuation in bad states, and U.S. state-level exemption, bankruptcy, interest-rate, household, income, unemployment, and house-price data, showing that higher exemptions trade off worse credit terms against better insurance for bankrupt households and are estimated to raise welfare on average, with large heterogeneity across states and income groups."
