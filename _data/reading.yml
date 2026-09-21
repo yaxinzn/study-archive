@@ -21121,3 +21121,20 @@
     points and the tenure gap from 8.2 to 6.8 points, with coauthor-network, NSF-award, citation, and
     faculty-survey evidence pointing toward unequal social and cultural capital as plausible mechanisms
     without treating the remaining conditional class gradient as a randomized causal effect.
+- title: "Howes and Weitzner (RES, 2026) - Bank Information Production Over the Business Cycle"
+  file: "https://www.dropbox.com/scl/fi/lxbszsoq095s8kyf1t3sl/Howes_Weitzner_RES_2026.pdf?rlkey=ajw9o67ycn1s0jg9ouk3ipcts&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses confidential Federal Reserve Y-14Q loan-level data to
+    measure the quality of banks' private borrower information by the AUC of internal
+    probability-of-default rankings against subsequent defaults, first showing that bank PDs add
+    discriminatory power beyond rich observables and an out-of-sample random forest—the observable-only
+    AUC rises from 0.681 to 0.756 when PD is included—and then documenting countercyclical information
+    production among 104,111 new loans: AUC is 0.724 in high-unemployment county-quarters versus 0.681
+    in low-unemployment periods, the gap is stronger for locally exposed nontradeable firms and persists
+    when loans are grouped by conditions at origination, and in bad times the top-minus-bottom AUC gap
+    reaches 0.109 across exposure-at-default quartiles and 0.169 across expected-loss quartiles; high
+    unemployment simultaneously reduces new-loan counts by 6.7% and volume by 8.9% without materially
+    changing funded-borrower observables, while rapid house-price growth lowers expected losses and
+    information quality, supporting an incentive-based mechanism in which banks screen more intensively
+    precisely when lending mistakes are more costly rather than merely learning passively from
+    downturns.
