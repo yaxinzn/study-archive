@@ -21101,3 +21101,19 @@
     covariance to foreign demand shocks for dollar-denominated bonds while assigning them only about 2%
     of U.S. GDP variance, making medium-run exchange-rate predictability an equilibrium outcome of
     monetary policy and international portfolio demand rather than a regime-invariant law.
+- title: "Stansbury and Rodriguez (Econometrica, 2026) - The Class Gap in Career Progression: Evidence from U.S. Academia"
+  file: "https://www.dropbox.com/scl/fi/ig7u6qdsvu8hn4pelt3r3/Stansbury_Rodriguez_Econometrica_2026.pdf?rlkey=dyxzmw3dmk5jufpmgjnyki857&dl=0"
+  desc: >-
+    This note summarizes the paper, which links the NSF Survey of Doctorate Recipients and Survey of
+    Earned Doctorates for U.S. science, engineering, health, and social-science PhDs from 1993-2021 and
+    compares people from the same PhD institution and field to ask whether parental education predicts
+    advancement after an elite educational starting point, finding essentially no first-generation gap
+    in obtaining tenure anywhere but, conditional on tenure, a 4.2-percentage-point lower probability of
+    being at an R1, about 11% lower institution rank, 3.1 log points lower earnings, and lower job
+    satisfaction; the gap emerges both in initial placement, where first-generation PhDs are about 3.5
+    points less likely to start at an R1, and in promotion, where they are about 6.6 points less likely
+    to receive tenure conditional on the same starting institution, while detailed publication,
+    citation, journal-impact, authorship, and grant controls reduce the rank gap from 15.7 to 9.3 log
+    points and the tenure gap from 8.2 to 6.8 points, with coauthor-network, NSF-award, citation, and
+    faculty-survey evidence pointing toward unequal social and cultural capital as plausible mechanisms
+    without treating the remaining conditional class gradient as a randomized causal effect.
