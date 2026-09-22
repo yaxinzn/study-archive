@@ -21241,3 +21241,23 @@
     necessity as evidence of delayed intervention, but forced turnover is not randomly assigned,
     common-ownership splits are mechanism-consistent associations, and career outcomes are more
     endogenous than shareholder votes.
+- title: "Cong, Grenadier, and Hu (JFE, 2020) — Dynamic Interventions and Informational Linkages"
+  file: "https://www.dropbox.com/scl/fi/o2dujws96ovh0giwt5x7y/Cong_Grenadier_Hu_JFE_2020.pdf?rlkey=fe6kqygaehvr3y4kj1jqcb4mi&dl=0"
+  desc: >-
+    This note summarizes the paper, which links two sequential global games through the public outcome
+    of an earlier intervention, making support both a direct relaxation of a fund’s survival constraint
+    and a costly choice of the information available to later investors. Investors receive noisy private
+    signals about a common liquidity shortfall and choose whether to stay or run, while the government
+    has no private information; survival or failure of the first fund truncates the second group’s prior
+    and can generate full, partial, or no dynamic coordination. A larger first intervention creates an
+    endogenous correlation effect by increasing the probability of favorable public news, but also a
+    conditional inference effect because survival after more support is less informative and failure is
+    more adverse news. Conditional later welfare falls with initial support when the realized outcome
+    and subsequent intervention are held fixed, even though unconditional welfare can rise. Under a
+    fixed budget M, the model’s optimum is m1*=min{M,(M+c)/2} and m2*=M−m1*, where c is the illiquidity
+    payoff ratio, allocating more resources initially and linking the two outcomes. With general costs,
+    a short-horizon decision maker can choose either less or more initial support than the dynamic
+    benchmark. Heterogeneous fund sizes additionally make a smaller fund a cheaper producer of
+    information benefiting a larger one. These results are model-dependent comparative statics under the
+    specified information and commitment assumptions, not calibrated intervention amounts or a universal
+    prescription for actual crises.
