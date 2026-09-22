@@ -21179,3 +21179,23 @@
     operate at different horizons. The evidence narrows competing explanations without directly
     observing private signals or uniquely identifying a behavioral model, and the reported returns are
     gross of implementation costs rather than guaranteed realizable profits.
+- title: "Bastianello and Fontanier (RFS, 2026) — Partial Equilibrium Thinking, Extrapolation, and Bubbles"
+  file: "https://www.dropbox.com/scl/fi/zgrx8mobscq52pe3xfhj1/Bastianello_Fontanier_RFS_2026.pdf?rlkey=w770c0itlwo6eatuznoojmu4d&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic theory of partial equilibrium thinking in
+    which uninformed traders learn from lagged prices but neglect that other uninformed traders also
+    learn and trade, causing them to mistake endogenous demand feedback for fresh fundamental
+    information. Return extrapolation is therefore derived from an inference error rather than imposed
+    as a fixed behavioral coefficient. Its strength and equilibrium price impact depend on informed
+    traders’ informational edge, defined by their relative population share and confidence: in normal
+    times the feedback coefficient is 1/ζ and is stable for ζ greater than one, while uninformed traders
+    are short-run contrarian when ζ exceeds (1+√5)/2 but remain momentum traders at longer horizons. A
+    novel, uncertain displacement temporarily erodes this edge, simultaneously strengthening
+    extrapolation and increasing the price weight of biased beliefs, so feedback can exceed one and
+    generate an accelerating bubble. As informed traders learn, their recovering influence shifts prices
+    toward less optimistic valuations; price gains disappoint extrapolators’ forecasts and trigger an
+    endogenous crash. Greater initial uncertainty and slower learning produce larger, longer bubbles,
+    while recovering risk-bearing capacity amplifies positive bubbles and dampens negative ones.
+    Informed speculators who understand future biased demand can amplify the boom, whereas those
+    expecting immediate correction stabilize prices. These are analytical mechanisms and illustrative
+    simulations, not estimated causal effects, calibrated bubble forecasts, or a welfare analysis.
