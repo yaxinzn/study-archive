@@ -21138,3 +21138,24 @@
     information quality, supporting an incentive-based mechanism in which banks screen more intensively
     precisely when lending mistakes are more costly rather than merely learning passively from
     downturns.
+- title: "Beutel and Weber (RFS, 2026) — Beliefs and Portfolios: Causal Evidence"
+  file: "https://www.dropbox.com/scl/fi/yn35optpb0g9qec38wyr6/Beutel_Weber_RFS_2026.pdf?rlkey=1iyq9u3gtwev5e8qetktrn3fg&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses randomized information provision in the September and
+    December 2020 Bundesbank Survey on Consumer Expectations, with approximately 4,000 German households
+    per wave, to distinguish imperfect information from incorrect subjective models and examine how
+    beliefs affect portfolio choice. In the main experiment, respondents receive truthful information
+    about the long-run DAX return, recent returns, earnings growth, the price–earnings ratio, or an
+    expert forecast, or receive an irrelevant placebo, before reporting posterior return distributions
+    and allocating a hypothetical EUR 10,000 between equities and a risk-free asset. Updating rates are
+    0.51, 0.39, 0.30, 0.10, and 0.86 across the five relevant treatments; positive extrapolation of
+    recent returns and earnings, and especially the positive response to a higher P/E ratio despite its
+    negative historical forecasting coefficient, support heterogeneous subjective laws of motion rather
+    than information frictions alone. Similar mappings appear in prior beliefs, while
+    information-usefulness rankings reveal a more contrarian valuation-focused subgroup. Instrumenting
+    expected returns with randomized treatments raises the portfolio-share slope from 1.21 to 2.70
+    percentage points per percentage-point increase in expected returns and lowers Merton-implied risk
+    aversion from 18.71 to 8.41. The findings suggest that conventional portfolio choice performs better
+    conditional on beliefs than expectation-formation benchmarks do, while the causal portfolio
+    interpretation depends on the exclusion restriction and concerns nonincentivized hypothetical
+    allocations rather than observed household trading.
