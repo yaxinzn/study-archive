@@ -21159,3 +21159,23 @@
     conditional on beliefs than expectation-formation benchmarks do, while the causal portfolio
     interpretation depends on the exclusion restriction and concerns nonincentivized hypothetical
     allocations rather than observed household trading.
+- title: "Barardehi, Bogousslavsky, and Muravyev (RFS, 2026) — What Drives Momentum and Reversal? Evidence from Day and Night Signals"
+  file: "https://www.dropbox.com/scl/fi/mlr3pdut8x86u1wskok5o/Barardehi_Bogousslavsky_Muravyev_RFS_2026.pdf?rlkey=ongqjl243kx7hu4qwelxwdwuz&dl=0"
+  desc: >-
+    This note summarizes the paper, which decomposes momentum formation signals into intraday and
+    overnight returns while retaining ordinary monthly close-to-close portfolio payoffs, using U.S.
+    stocks from 1963–2019, earlier NYSE evidence beginning in 1926, and 32 international markets from
+    1996–2023 to investigate the information underlying momentum and reversal. In the main U.S. sample,
+    sorting on returns accumulated from months m−7 through m−2 produces monthly three-factor alphas of
+    0.73% for intraday signals and 0.10% for overnight signals; the corresponding twelve-month-horizon
+    alphas are 1.06% and 0.27%. Internationally, average monthly returns are 0.76% versus 0.08%, with
+    intraday momentum exceeding overnight momentum in 28 of 32 markets. Intraday-signal portfolios
+    continue to earn a positive 0.12% monthly alpha during holding years two through five, whereas
+    overnight-signal portfolios earn −0.15%, separating persistent continuation from eventual
+    correction. Stronger morning and low-volume-day signals, differential analyst forecast errors,
+    volatility-matched tests, and exclusions of earnings and material-news windows support gradual
+    underreaction to private information revealed through trading. Short-horizon intraday reversal can
+    coexist with this mechanism because temporary price pressure and slower information diffusion
+    operate at different horizons. The evidence narrows competing explanations without directly
+    observing private signals or uniquely identifying a behavioral model, and the reported returns are
+    gross of implementation costs rather than guaranteed realizable profits.
