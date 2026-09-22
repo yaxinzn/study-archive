@@ -21199,3 +21199,24 @@
     Informed speculators who understand future biased demand can amplify the boom, whereas those
     expecting immediate correction stabilize prices. These are analytical mechanisms and illustrative
     simulations, not estimated causal effects, calibrated bubble forecasts, or a welfare analysis.
+- title: "Jensen, Kelly, Malamud, and Pedersen (RFS, 2026) — Machine Learning and the Implementable Efficient Frontier"
+  file: "https://www.dropbox.com/scl/fi/qn3t1y3k1gm9tz70rhhbh/Jensen_Kelly_Malamud_Pedersen_RFS_2026.pdf?rlkey=vl30nc37hohio6vzvqngb4bb0&dl=0"
+  desc: >-
+    This note summarizes the paper, which integrates nonlinear machine learning with dynamic portfolio
+    choice under quadratic market-impact costs and defines an investor-specific implementable efficient
+    frontier in terms of risk and expected returns net of trading costs. The dynamic rule adjusts
+    inherited, price-grown holdings gradually toward a forward-looking aim portfolio, making signal
+    persistence as important as immediate return predictability. Portfolio-ML learns this aim directly
+    from net mean-variance utility using random Fourier transformations of 115 stock characteristics and
+    a closed-form ridge-regularized estimator, rather than forecasting one-month gross returns before
+    optimizing. Using CRSP and Compustat data beginning in 1952, recursive estimation and tuning, and an
+    out-of-sample evaluation over 1981–2020, the baseline considers above-median-size NYSE stocks and an
+    investor whose wealth reaches $10 billion in 2020 with risk aversion of ten. Portfolio-ML produces a
+    net Sharpe ratio of 1.33, annualized realized utility of 0.086, monthly turnover of 25%, and annual
+    trading costs of approximately 0.6%; by contrast, Markowitz-ML’s gross Sharpe ratio of 2.06 comes
+    with turnover and leverage that make its market-impact costs prohibitive. Persistent quality, value,
+    momentum, and investment signals retain economic importance, whereas fast-decaying reversal
+    contributes little after costs. The frontier contracts with investor size, illustrating that
+    prediction accuracy is not the same as investment value; the historical performance comparison
+    remains conditional on the calibrated cost technology, risk model, investment universe, and
+    portfolio constraints rather than establishing a causal effect or a live-trading guarantee.
