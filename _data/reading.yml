@@ -21261,3 +21261,23 @@
     information benefiting a larger one. These results are model-dependent comparative statics under the
     specified information and commitment assumptions, not calibrated intervention amounts or a universal
     prescription for actual crises.
+- title: "Goldstein and Hotchkiss (JFE, 2020) — Providing Liquidity in an Illiquid Market: Dealer Behavior in US Corporate Bonds"
+  file: "https://www.dropbox.com/scl/fi/eeuv5d5ijy52ibbhgkuwm/Goldstein_Hotchkiss_JFE_2020.pdf?rlkey=e3p9c2t9hiodxy0r6ib72fz51&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses enhanced TRACE dealer identifiers and Mergent
+    characteristics for 55,988 corporate bonds from 5,796 issuers over July 2002–March 2011 to examine
+    how dealers substitute counterparty search for inventory commitment when bonds are risky or
+    infrequently traded. Matching dealer purchases to subsequent sales within sixty days yields a main
+    sample of 8,576,027 institutional-sized principal roundtrips: 41.1% are exactly paired same-day
+    trades, 17.1% are other same-day roundtrips, and 41.8% extend beyond one day, with a median weighted
+    inventory holding period of 21 days in the last group. The least-active and lowest-rated bonds are
+    more likely to be offset within the day, contrary to passive waiting for natural order flow. Median
+    spreads equal 15 basis points of par and rise from 10.6 basis points for A-or-better bonds to 25 for
+    B-or-below bonds, yet often fail to rise as prior trading activity falls. An endogenous switching
+    model jointly addresses same-day selection and regime-specific spreads, estimating that observed
+    same-day trades would cost approximately 13 basis points more for A-or-better bonds and 25 more for
+    BBB bonds under the inventory regime. Crisis and VIX-stress evidence further shows dealers reducing
+    inventory exposure, with higher costs concentrated in positions actually warehoused. The mechanism
+    explains why small executed-trade spreads can coexist with illiquidity: customers may wait, retain
+    price risk, or fail to trade, while the counterfactual spread estimates remain selection-model
+    dependent rather than experimental effects.
