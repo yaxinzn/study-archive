@@ -21220,3 +21220,24 @@
     prediction accuracy is not the same as investment value; the historical performance comparison
     remains conditional on the calibrated cost technology, risk model, investment universe, and
     portfolio constraints rather than establishing a causal effect or a live-trading guarantee.
+- title: "von Meyerinck, Romer, and Schmid (JFE, 2025) — CEO Turnover and Director Reputation"
+  file: "https://www.dropbox.com/scl/fi/y9pm8hosmf3pc6lnxqf98/Meyerinck_Romer_Schmid_JFE_2025.pdf?rlkey=s9l55athl271gd6i5yo2la8ky&dl=0"
+  desc: >-
+    This note summarizes the paper, which follows outside directors across multiple board mandates to
+    ask whether forcing out a CEO signals effective monitoring or instead reveals prior monitoring and
+    succession failures. The design measures changes in withheld or against votes at a director’s other,
+    interlocked firm after a forced turnover occurs between consecutive re-elections, using 88,406
+    re-elections of 18,693 directors at 3,269 firms during 2003–2017, including 607 treated re-elections
+    linked to 206 forced CEO turnovers. First-difference regressions with controls and industry-by-year
+    fixed effects associate forced turnover with a 1.204-percentage-point increase in withheld votes,
+    approximately 19.6% of the 6.1% sample mean, with similar findings under firm or director fixed
+    effects. The penalty is concentrated in performance-induced dismissals, the middle stage of CEO
+    tenure, co-opted or monitoring-committee directors, and departures without a permanent successor,
+    rather than ordinary succession or participation in hiring the subsequently dismissed CEO alone.
+    Stronger responses under institutional common ownership, flat pre-trends, timing placebos, matching,
+    and distraction tests support portable reputational updating. Subsequent board-seat losses,
+    replacement mandates at smaller firms, and greater labor-market exit provide complementary career
+    evidence. The results suggest that shareholders may welcome a CEO’s removal while interpreting its
+    necessity as evidence of delayed intervention, but forced turnover is not randomly assigned,
+    common-ownership splits are mechanism-consistent associations, and career outcomes are more
+    endogenous than shareholder votes.
