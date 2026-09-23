@@ -21302,3 +21302,26 @@
     platform fees, not causal effects of changing speed, hours, or residence, and gender-blind platform
     rules do not rule out unequal constraints or discrimination outside the observed platform
     interactions.
+- title: "Donovan (ReStud, 2021) — The Equilibrium Impact of Agricultural Risk on Intermediate Inputs and Aggregate Productivity"
+  file: "https://www.dropbox.com/scl/fi/4wh6reiwv0r5dhvosai57/Donovan_ReStud_2021.pdf?rlkey=dqoxp9p1y8xoptv15bs4uh0j8&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a two-sector general-equilibrium model in which
+    uninsured agricultural risk and subsistence consumption generate low intermediate-input use and
+    misallocation without imposing a direct input-credit constraint. Farmers choose purchased inputs
+    before productivity is realized and subsequently adjust labor, consumption, and savings; high
+    marginal utility in bad harvest states makes poorer farmers especially reluctant to expand inputs.
+    Calibrating India with aggregate data and the 2009–2014 ICRISAT panel covering 18 villages in five
+    states, alongside a U.S. benchmark, the paper finds that complete insurance raises India’s nominal
+    intermediate share from 0.31 to 0.40, agricultural labor productivity by 16.3%, and real GDP per
+    capita by 11.4%. Eliminating cross-farm dispersion accounts for 36% of the agricultural productivity
+    gain, while higher average input intensity accounts for 64%. Subsistence is essential for
+    cross-country amplification: without it, equilibrium agricultural prices offset the stronger
+    partial-equilibrium burden of risk in poorer economies. A flood-tolerant-seed exercise matches the
+    experimental 10.1% yield increase and reproduces the directions of untargeted fertilizer and savings
+    responses. At national scale, the model’s 5% agricultural-price decline compresses input distortions
+    because rich farmers reduce inputs while poorer farmers face lower subsistence costs. Table 8
+    reports agricultural productivity and GDP-per-capita gains of 5% and 6%, respectively, despite an 8%
+    decline in aggregate fertilizer use. The uploaded notes flag that the paper’s conclusion reverses
+    those two gains. Insurance and scale-up magnitudes are calibrated counterfactuals, not experimental
+    aggregate treatment effects, and depend on subsistence, production parameters, risk, and domestic
+    market clearing.
