@@ -21325,3 +21325,26 @@
     those two gains. Insurance and scale-up magnitudes are calibrated counterfactuals, not experimental
     aggregate treatment effects, and depend on subsistence, production parameters, risk, and domestic
     market clearing.
+- title: "Bazdresch, Kahn, and Whited (RFS, 2018) — Estimating and Testing Dynamic Corporate Finance Models"
+  file: "https://www.dropbox.com/scl/fi/jnshxdaz8k4xgibadvod8/Bazdresch_Kahn_Whited_RFS_2018.pdf?rlkey=dm76gvvmfq1q4xepwe7pin12p&dl=0"
+  desc: >-
+    This note summarizes the paper, which evaluates simulation-based estimation of dynamic
+    corporate-finance models and proposes empirical policy functions (EPFs) as common estimation
+    benchmarks together with an external-validity test of statistics withheld from estimation. The
+    laboratory is a dynamic investment, debt, and payout model with collateral constraints,
+    capital-adjustment costs, and costly equity issuance. Quadratic EPFs describe how observed choices
+    vary with leverage and profitability, capturing conditional responses that unconditional means and
+    variances may miss. In a Compustat illustration with 111,902 firm-year observations from 1971–2015,
+    EPF and conventional-moment estimates imply substantially different financing and adjustment
+    parameters, while both reject the deliberately stylized model. Monte Carlo experiments use 1,000
+    simulated panels of either 75,000 or 1,000 observations and find little parameter bias under correct
+    specification, but much less reliable inference. With optimal clustered weighting and 75,000
+    observations, EPF overidentification and external-validity tests reject 8.3% and 7.9% of the time at
+    a nominal 5% level; the moments-based external-validity test rejects 84.3%, reflecting missing
+    covariance information needed to reproduce policy slopes. Even EPF-clustered external-validity
+    rejection rises to 41.7% in the small sample. Tests also detect an omitted debt-issuance cost,
+    illustrating the diagnostic value of conditional-policy benchmarks. The external-validity test
+    concerns out-of-estimation statistical objects, not a new calendar period or causal
+    transportability. The central lesson is that accurate point estimates do not ensure trustworthy
+    tests: benchmark choice, identification, weighting, auxiliary approximation, and sample size remain
+    jointly consequential.
