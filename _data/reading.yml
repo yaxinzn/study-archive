@@ -21366,3 +21366,27 @@
     common response elasticities, not random legal-form assignment. Unobserved hours and effort,
     firm-to-firm displacement, excluded large multinationals, and unmeasured long-run and
     fiscal-financing effects limit interpretation as an economy-wide welfare assessment.
+- title: "Bisin and Tura (AER, 2026) — Marriage, Fertility, and Cultural Integration in Italy"
+  file: "https://www.dropbox.com/scl/fi/60yh585ysoqll7p4ttp0l/Bisin_Tura_AER_2026.pdf?rlkey=792xysnx6lzc0hgl94vqql0ae&dl=0"
+  desc: >-
+    This note summarizes the paper, which models cultural integration as the joint equilibrium outcome
+    of marriage matching, fertility, divorce, and parental socialization, separating immigrants’ demand
+    to preserve identity from natives’ supply of cultural acceptance. A transferable-utility Choo–Siow
+    marriage model combines direct parental transmission with horizontal socialization through
+    population role models. The empirical setting uses more than four million legal marriages formed in
+    Italy during 1995–2012, covering 94% of marriages in that period, together with birth and separation
+    records, census singles, home-language surveys, and student outcomes across 20 regional marriage
+    markets. Joint household outcomes identify individual directed cultural-preference parameters that
+    matching frequencies alone cannot separate from total marital surplus. Estimation matches 7,698
+    moments with 101 parameters; predicted and observed socialization and fertility moments have
+    correlations of 0.88 and 0.94. Holding preferences and technologies fixed, the baseline simulation
+    reduces the population share retaining minority cultural traits by 75% after one generation and 97%
+    by the third. Making natives fully tolerant increases intermarriage, fertility, and minority-culture
+    transmission within mixed families, slowing convergence under this population-share measure.
+    Conversely, stronger immigrant identity preferences increase conditional cultural transmission but
+    can accelerate aggregate convergence by reducing marriage participation and fertility. Thus
+    within-family transmission and demographic integration can move in opposite directions. The
+    preference estimates are model-implied utility parameters, not direct measures of prejudice, and the
+    simulations are conditional comparative mechanisms rather than literal forecasts or policy
+    evaluations; home language captures only one dimension of culture, while common cost functions,
+    transferable utility, and assumed maternal custody shape identification.
