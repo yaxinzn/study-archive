@@ -21348,3 +21348,21 @@
     transportability. The central lesson is that accurate point estimates do not ensure trustworthy
     tests: benchmark choice, identification, weighting, auxiliary approximation, and sample size remain
     jointly consequential.
+- title: "Kennedy, Dobridge, Landefeld, and Mortenson (AER, 2026) — Corporate Tax Cuts, Firm Growth, and Workers’ Earnings"
+  file: "https://www.dropbox.com/scl/fi/7dvtahcy2ye5lfsjc0xqp/Kennedy_Dobridge_Landefeld_Mortenson_AER_2026.pdf?rlkey=epkiyfmsq0ldtguxntlmwejvj&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies the short-run effects of the 2017 Tax Cuts and Jobs
+    Act by comparing similarly sized C and S corporations within industries using preexisting legal form
+    as variation in tax-cut exposure. Matched administrative tax records cover 49,235 firms and 231,360
+    firm-years during 2013–2019. Event studies and difference-in-differences with firm and
+    industry-size-year fixed effects estimate a 4.2-percentage-point relative marginal-tax-rate
+    reduction for C corporations, accompanied by increases of 4.6% in capital, 2.0% in payroll, 1.3% in
+    employment, and 2.7% in sales. The estimated net-of-tax elasticity of taxable income is 0.70. Median
+    earnings show no detectable increase, while earnings rise 1.2% at the within-firm ninety-fifth
+    percentile and 2.6% for the five highest-paid workers; stronger incumbent responses are consistent
+    with rent sharing. The authors’ incidence calculation allocates 87% of short-run private-income
+    gains to the top income decile and reports a marginal value of public funds of 1.47. These estimates
+    concern the sampled private, predominantly domestic corporations and rely on parallel trends and
+    common response elasticities, not random legal-form assignment. Unobserved hours and effort,
+    firm-to-firm displacement, excluded large multinationals, and unmeasured long-run and
+    fiscal-financing effects limit interpretation as an economy-wide welfare assessment.
