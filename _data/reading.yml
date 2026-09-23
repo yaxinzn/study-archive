@@ -21281,3 +21281,24 @@
     explains why small executed-trade spreads can coexist with illiquidity: customers may wait, retain
     price risk, or fail to trade, while the counterfactual spread estimates remain selection-model
     dependent rather than experimental effects.
+- title: "Cook, Diamond, Hall, List, and Oyer (RES, 2021) — The Gender Earnings Gap in the Gig Economy: Evidence from over a Million Rideshare Drivers"
+  file: "https://www.dropbox.com/scl/fi/54mz5zppjtvp90zorgt3v/Cook_Diamond_Hall_List_Oyer_RES_2021.pdf?rlkey=l42f3ic1gmgcbw0ipv4eu6e09&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses Uber’s gender-neutral dispatch and posted compensation
+    rules to examine why an earnings gap persists in a highly flexible labor market. Administrative
+    records cover 1,873,494 U.S. drivers, 24.83 million driver-weeks, and 740.63 million trips from
+    January 2015 through March 2017; a detailed Chicago sample measures exact cumulative trips, work
+    location, hour of week, and driving speed. Men earn approximately 7% more per hour nationally, while
+    the Chicago driver-hour gap falls from 3.56 to −0.18 log points after the full controls. An
+    order-invariant Gelbach decomposition assigns 48% of the baseline Chicago gap to speed, 36% to
+    experience, 28% to location, and −7% to timing. Men drive about 2.2% faster and accumulate
+    experience more quickly through longer weekly hours and lower attrition, although both genders learn
+    at similar per-trip rates; drivers with more than 2,500 prior trips earn nearly 14% more per hour
+    than those with fewer than 100. Exact experience controls also reverse the apparent contemporaneous
+    premium for long weekly hours, separating cumulative learning from a contractual flexibility
+    penalty. Residence and safety-related location choices provide additional channels, while
+    cancellation and rating evidence offers little support for customer discrimination as the proximate
+    explanation. These are conditional accounting results for gross earnings before operating costs and
+    platform fees, not causal effects of changing speed, hours, or residence, and gender-blind platform
+    rules do not rule out unequal constraints or discrimination outside the observed platform
+    interactions.
