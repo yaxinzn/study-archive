@@ -21390,3 +21390,29 @@
     simulations are conditional comparative mechanisms rather than literal forecasts or policy
     evaluations; home language captures only one dimension of culture, while common cost functions,
     transferable utility, and assumed maternal custody shape identification.
+- title: "Heblich, Seror, Xu, and Zylberberg (ReStud, 2026) — Industrial Clusters in the Long Run: Evidence from Million-Rouble Plants in China"
+  file: "https://www.dropbox.com/scl/fi/0sirmikwst46en8435y90/Heblich_Seror_Xu_Zylberberg_ReStud_2026.pdf?rlkey=6oeqa12u36pn6rkhpgw0nj77t&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies whether large industrial investments generate
+    self-sustaining local clusters by following the long-run effects of 149 Soviet-assisted
+    Million-Rouble Plants built under China’s “156 Programme” in the 1950s. The authors match 98 treated
+    counties to 98 economically suitable controls and instrument plant location with temporary aerial
+    protection during the Sino-Soviet alliance, conditioning on post-split military geography. Combining
+    historical archives, county outcomes through 2010, industrial establishment data for 1998–2007,
+    patents, input-output linkages, and the 2015 population survey, the preferred instrumental-variable
+    estimates imply GDP per capita 0.595 log points higher and an industrial employment share 21.8
+    percentage points higher in 1982, but GDP per capita 0.195 log points lower and an industrial share
+    5.7 percentage points lower by 2010. The reversal does not reflect the disappearance of the original
+    plants, which generally remained large, productive, and innovative: other establishments are larger
+    but have lower wages, 0.257 log points lower total factor productivity, fewer patents, and an
+    11.1-percentage-point higher probability of charging an above-median industry-year markup.
+    Production-chain concentration, fragmentation outside dominant products, fewer top managers, and
+    greater graduate out-migration support the authors’ specialization-trap interpretation, in which
+    incumbent input-output relationships generate rents without broad innovation or the emergence of
+    alternative clusters. Among employed college graduates aged 22–60, the estimated top-manager
+    probability is 0.6 percentage points lower by residence-based treatment, while the probability of
+    living outside the hukou province is 2.2 points higher by origin-based treatment. The findings
+    distinguish plant-level success from surrounding economic adaptation, but the causal interpretation
+    remains conditional on the instrument’s exclusion restriction and a bundled treatment of plants,
+    technology transfer, and planned resource allocation; the mechanisms are not separately structurally
+    identified, and local declines do not establish national welfare losses.
