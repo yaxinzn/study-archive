@@ -21416,3 +21416,26 @@
     remains conditional on the instrument’s exclusion restriction and a bundled treatment of plants,
     technology transfer, and planned resource allocation; the mechanisms are not separately structurally
     identified, and local declines do not establish national welfare losses.
+- title: "Sarto and Wang (JFE, 2026) — The Secular Decline in Interest Rates and the Rise of Shadow Banks"
+  file: "https://www.dropbox.com/scl/fi/nvwf3xd6qqiisi71d9q7h/Sarto_Wang_JFE_2026.pdf?rlkey=usmpzdepbqpu1rgawsr1s8bgm&dl=0"
+  desc: >-
+    This note summarizes the paper, which explains how the secular decline in interest rates can shift
+    mortgage origination from deposit-funded commercial banks toward shadow banks by eroding the funding
+    advantage of below-market deposits. A bank–shadow-bank framework links deposit-spread compression to
+    lower retained earnings, constrained bank equity, and reduced lending, while allowing long-duration
+    assets to delay the profitability loss. The empirical analysis combines Call Reports and HMDA data
+    with a shift-share exposure that applies national asset- and liability-category yield changes over
+    2003–2016 to banks’ 1990 balance-sheet weights; county exposure uses banks’ initial local
+    mortgage-lending shares. A 100-basis-point larger predicted cumulative compression is associated
+    with 20.8 percentage points lower bank asset growth, 56.3 points lower loan growth, 21.8 points
+    lower equity growth, and an 11.8-percentage-point larger increase in the county shadow-bank share.
+    Within-county comparisons also show weaker mortgage-origination growth for more exposed banks. Lower
+    income and stronger contraction among initially low-equity banks support a net-worth channel, while
+    cuts to salaries, premises, and fixed assets support a separate reduction in origination capacity.
+    Reallocation occurs through incumbent growth and entry, appears in both GSE and non-GSE lending and
+    among non-fintech shadow banks, and does not fully replace lost incumbent-bank volume. The findings
+    identify a long-horizon competitive channel complementary to regulation and technology, not the
+    immediate effect of a surprise rate cut. Their causal interpretation requires historical
+    balance-sheet composition to be conditionally unrelated to other secular shocks; the design
+    identifies relative cross-sectional responses, not the national contribution of falling rates, a
+    unique channel decomposition, or welfare effects.
