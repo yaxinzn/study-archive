@@ -21463,3 +21463,28 @@
     monitoring and trading. However, gain–loss states are not randomized, logins imperfectly measure
     attention, and the mediation and payment comparisons do not identify a fully causal indirect effect
     or a structural monetary valuation of attention utility.
+- title: "Chen, Chen, Liu, Suárez Serrato, and Xu (AER, 2025) — Regulating Conglomerates: Evidence from an Energy Conservation Program in China"
+  file: "https://www.dropbox.com/scl/fi/cng7kc5ujb4l5ovl7dfc6/Chen_Chen_Liu_SuarezSerrato_Xu_AER_2025.pdf?rlkey=gsv2leqn703y4ku8908nx0hjn&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies China’s 2006 Top 1,000 Energy Conservation Program to
+    examine how ownership networks and product-market spillovers change the effects of firm-level energy
+    quotas. Combining environmental statistics, industrial-firm records, tax-survey checks, and
+    administrative ownership links, the analysis includes 427 matched regulated firms and a network
+    sample of 2,466 unregulated same-industry affiliates. Difference-in-differences and event studies
+    compare regulated firms with unregulated large energy users, affiliates with similar unrelated
+    firms, and lead firms with their own affiliates. Preferred direct estimates are −0.128 log points
+    for energy use and −0.145 for output, with an insignificant −0.019 for energy efficiency, indicating
+    contraction rather than a detectable relative efficiency improvement. Same-four-digit-industry
+    affiliates expand output by 0.127 log points and measured energy use by 0.318 log points; weighting
+    their number and size suggests that internal reallocation offsets roughly 40–41% of regulated firms’
+    output contraction. Unrelated firms also expand in more exposed industries. An industry-equilibrium
+    model of heterogeneous conglomerates, disciplined by pre-policy size and ownership-network moments,
+    explains both substitution toward unregulated affiliates and expansion induced by higher product
+    prices. Because comparison firms themselves respond, treated-versus-control estimates overstate
+    regulated firms’ total contraction and understate affiliates’ total expansion. Accounting for both
+    leakage margins, the model implies about a 4% reduction in aggregate energy use, or 48 million tons
+    of coal equivalent annually rather than the roughly 100 million suggested by a direct-firm
+    calculation, alongside a 3.5% increase in the aggregate product price index. The findings
+    distinguish legal-entity compliance from network and market adjustment, while aggregate and welfare
+    conclusions remain conditional on parallel-trends assumptions, measured ownership links,
+    coal-intensive sample coverage, the short-run production model, and environmental-damage valuations.
