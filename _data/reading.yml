@@ -21537,3 +21537,27 @@
     theoretical identification method, not an empirical validation: conditional no stakes, the objective
     marginal, and the uninformative event remain substantive assumptions, and weak proxy relevance or
     difficult contingent reasoning can undermine practical implementation.
+- title: "Salomão and Varela (RES, 2022) — Exchange Rate Exposure and Firm Dynamics"
+  file: "https://www.dropbox.com/scl/fi/ondcgq3wxtlrviglwjjun/Salomao_Varela_RES_2022.pdf?rlkey=4nftgnt5g8sp2z94y6pmmsl1c&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a heterogeneous firm-dynamics model of investment,
+    default, and debt-currency choice to explain why firms without foreign-currency revenues voluntarily
+    accept exchange-rate exposure. Deviations from uncovered interest parity can make foreign borrowing
+    cheaper, but depreciation raises local-currency repayments in states with weak aggregate
+    productivity. Persistent productivity reduces a firm's marginal default sensitivity, selecting
+    productive firms into foreign debt; conditional on borrowing, productive but capital-scarce firms
+    with high marginal products of capital use the financing advantage more intensively to approach
+    their optimal scale. Hungarian tax records for 1992–2010 and currency-specific credit-register data
+    for 2005–2010 support this mechanism around the 2001 opening of foreign-currency borrowing to
+    domestic firms: pre-reform productivity predicts later currency choice, and the preferred
+    post-reform investment-rate coefficient is 0.071 log points in the data versus 0.034 in the
+    simulated panel. Larger UIP deviations are associated with more foreign borrowing and investment,
+    with stronger responses among high-productivity and high-MPK firms. In the calibrated 2001–2015
+    counterfactuals, annual investment is 13.7% with foreign-debt access versus 11.7% without it, while
+    default rates are 2.6% and 3.1%. With benchmark capital growth normalized to 100, the
+    no-foreign-debt value is 91.6; imposing exposure independently of productivity and capital reduces
+    the index to 82.1 despite matching aggregate foreign-debt exposure. Prior accumulation can cushion
+    moderate depreciations, whereas sufficiently large depreciations raise exit. These are
+    selection-sensitive model implications rather than universal gains from currency mismatch: borrower
+    choice remains endogenous, revenue productivity is imperfectly measured, and the framework abstracts
+    from bank credit-supply constraints, general-equilibrium prices, equity issuance, and policy costs.
