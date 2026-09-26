@@ -21587,3 +21587,28 @@
     estimated account of wealth inequality; boundary assumptions, richer state spaces, finite-grid
     error, and the absence of ongoing aggregate risk limit how directly the baseline formulas and timing
     comparisons generalize.
+- title: "Chahrour and Jurado (ReStud, 2022) — Recoverability and Expectations-Driven Fluctuations"
+  file: "https://www.dropbox.com/scl/fi/dyqtrkbvo3u0z3kbrgi44/Chahrour_Jurado_ReStud_2022.pdf?rlkey=4tu591g5egeynwn800fgf8ii0&dl=0"
+  desc: >-
+    This note summarizes the paper, which replaces fundamentalness with recoverability as a feasibility
+    condition for identifying structural disturbances in stationary linear time-series models. A
+    fundamental shock is both causal, with no effects before its date, and invertible from current and
+    past observations; a recoverable shock need only be reconstructible from the complete two-sided
+    history, including future data. The authors derive a necessary-and-sufficient projection condition
+    for an individual shock, with full column rank of the transfer function almost everywhere
+    characterizing recoverability of the entire shock vector. Noisy information about future technology
+    illustrates why anticipated technological disturbances can be non-causal and expectation noise
+    non-invertible while both remain recoverable. The empirical procedure identifies the fundamental
+    innovation in technology itself and the fundamental innovation in the component of expected future
+    technology orthogonal to realized technology at every lead and lag, rather than rotating only
+    contemporaneous VAR residuals. A seven-variable U.S. VAR(4) over 1948Q1–2018Q4 constructs
+    twenty-quarter-ahead technology forecasts and estimates that technological disturbances account for
+    about 13% of GDP variance at six-to-thirty-two-quarter business-cycle frequencies, compared with
+    about 64% for independent expectational disturbances. The latter generate positive, hump-shaped
+    comovement in GDP, consumption, hours, and stock prices, with comparatively small inflation and
+    short-rate responses. Limited pre-responses to expectation shocks and Monte Carlo exercises support
+    the interpretation, but do not prove rational expectations or universal finite-sample performance.
+    Identification still depends on sufficient observable information, utilization-adjusted TFP
+    measurement, the VAR-based expectations proxy, and the all-leads-and-lags exclusion restriction;
+    recoverability permits retrospective historical reconstruction, not automatic identification without
+    economic restrictions or real-time observation of the shocks.
