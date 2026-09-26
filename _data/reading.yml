@@ -21514,3 +21514,26 @@
     effects rather than separately identified school, peer, or social-capital mechanisms; mover
     identification requires age-invariant selection, and housing calculations are partial-equilibrium
     forecasts rather than guaranteed household gains or aggregate welfare estimates.
+- title: "Tsakas (RES, 2026) — Belief Identification by Proxy"
+  file: "https://www.dropbox.com/scl/fi/nl8jrazow278mnscqku27/Tsakas_RES_2026.pdf?rlkey=22kiwykig300yoqhqio3sav2b&dl=0"
+  desc: >-
+    This note summarizes the paper, which addresses the identification of actual subjective beliefs when
+    utility depends on the state: ordinary choices and scoring-rule reports generally reveal
+    probability–utility products, so a different full-support belief can rationalize the same behavior
+    after rescaling state utilities. The proposed solution expands the original state space S with a
+    proxy T whose realization has no utility consequence conditional on S. Standard mechanisms then
+    elicit the conditional proxy distributions, while an objectively known proxy marginal supplies the
+    mixture equation Mw = p. Under the remaining proxy assumptions, beliefs are uniquely identified if
+    and only if the conditional distributions are linearly independent; conditioning the recovered joint
+    belief on an uninformative proxy event E restores the belief in the original decision problem rather
+    than necessarily equating it with the unconditional S-marginal of the expanded problem. In the
+    binary treatment–placebo illustration, conditional treatment probabilities of 0.80 and 0.40 and an
+    assignment probability of 0.50 imply an expanded-world recovery probability of 0.25 and an original
+    recovery belief of 0.10, compared with 0.90 under the conventional state-independent utility
+    normalization. Once beliefs are identified, compatible state-dependent utilities are identified up
+    to state-specific additive constants and one common positive scale. An Anscombe–Aumann foundation
+    separates observable consistency restrictions from assumptions about actual beliefs, and informative
+    signals mixed with controlled noise offer a constructive proxy design. The contribution is an exact
+    theoretical identification method, not an empirical validation: conditional no stakes, the objective
+    marginal, and the uninformative event remain substantive assumptions, and weak proxy relevance or
+    difficult contingent reasoning can undermine practical implementation.
