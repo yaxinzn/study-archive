@@ -21488,3 +21488,29 @@
     distinguish legal-entity compliance from network and market adjustment, while aggregate and welfare
     conclusions remain conditional on parallel-trends assumptions, measured ownership links,
     coal-intensive sample coverage, the short-run production model, and environmental-damage valuations.
+- title: "Chetty, Friedman, Hendren, Jones, and Porter (AER, 2026) — The Opportunity Atlas: Mapping the Childhood Roots of Social Mobility"
+  file: "https://www.dropbox.com/scl/fi/cq78tg5ti8g2rczrtp256/Chetty_Friedman_Hendren_Jones_Porter_AER_2026.pdf?rlkey=y4rsdrqxyoufneipnd4og3gvo&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs the Opportunity Atlas by linking census, tax, and
+    American Community Survey records for 20.5 million children in the 1978–1983 birth cohorts to adult
+    outcomes, with baseline income measured in 2014–2015 at ages 31–37. Tract-specific affine
+    transformations of national parent-income relationships, weighted by observed childhood exposure and
+    accompanied by sampling-error adjustments and privacy protection, estimate outcomes conditional on
+    parental income, race or ethnicity, and gender. For children whose parents are at the twenty-fifth
+    income percentile, the cross-tract signal standard deviation of mean adult household income is
+    $12,850, including $10,420 within counties. Standard tract characteristics explain approximately
+    half of the signal variation; nearby job counts and job growth have little positive association with
+    upward mobility, and historical outcome estimates remain highly persistent across cohorts.
+    Comparisons with Moving to Opportunity yield a causal forecasting slope of 0.68 (standard error
+    0.33), while a national one-time-mover design uses age at move and split-sample instruments to
+    estimate a full-childhood scaling of 0.57. The authors use their approximate average, 0.62, as a
+    benchmark causal component of observed neighborhood differences, with a variance-share
+    interpretation requiring an additional orthogonality assumption. The within-commuting-zone signal
+    correlation between rent and upward mobility is 0.48, leaving substantial differences among
+    similarly priced neighborhoods; applying the causal scaling implies an average present-value
+    additional rental cost of about 21 cents per dollar of additional lifetime earnings for one child.
+    The contribution is a granular longitudinal measurement system that distinguishes observed childhood
+    outcomes from causal gains from moving. The estimates concern historical cohorts and bundled place
+    effects rather than separately identified school, peer, or social-capital mechanisms; mover
+    identification requires age-invariant selection, and housing calculations are partial-equilibrium
+    forecasts rather than guaranteed household gains or aggregate welfare estimates.
