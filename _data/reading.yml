@@ -21561,3 +21561,29 @@
     selection-sensitive model implications rather than universal gains from currency mismatch: borrower
     choice remains endogenous, revenue productivity is imperfectly measured, and the framework abstracts
     from bank credit-supply constraints, general-equilibrium prices, equity issuance, and policy costs.
+- title: "Achdou, Han, Lasry, Lions, and Moll (RES, 2022) — Income and Wealth Distribution in Macroeconomics: A Continuous-Time Approach"
+  file: "https://www.dropbox.com/scl/fi/3xdrfd30mb81h5g8f5jwo/Achdou_Han_Lasry_Lions_Moll_RES_2022.pdf?rlkey=ggau8ou4u9ds7hc9i6ob9fpyb&dl=0"
+  desc: >-
+    This note summarizes the paper, which reformulates the Aiyagari–Bewley–Huggett economy in continuous
+    time as a Hamilton–Jacobi–Bellman equation for household consumption and saving coupled with a
+    Kolmogorov Forward equation for the income–wealth distribution, with prices determined by
+    asset-market clearing. For the low-income household, an interest rate below the discount rate and
+    finite absolute risk aversion at limiting consumption imply a square-root dissaving rule near the
+    borrowing boundary. Wealth reaches the constraint in finite time during a sufficiently long
+    low-income spell, and the instantaneous consumption slope diverges, although the economically
+    relevant finite-horizon marginal propensity to consume remains bounded. In the two-income-state
+    setting, the authors express the stationary density in closed form conditional on saving policies:
+    the low-income distribution has an atom at the borrowing limit, the interior is smooth, and the
+    safe-asset baseline has bounded upper wealth support. They establish stationary-equilibrium
+    existence under regularity conditions and give sufficient conditions for uniqueness—no borrowing and
+    an intertemporal elasticity of substitution at least one—through monotone asset supply and
+    first-order stochastic dominance. An upwind finite-difference algorithm exploits sparse generator
+    matrices, using the transpose of the HJB generator for the distribution equation and backward
+    HJB/forward distribution steps for transitions. The reported benchmark is at least twice and
+    sometimes over thirty times faster than a comparable discrete-time endogenous-grid implementation
+    for policy accuracy, and ten to five hundred times faster for aggregate-consumption accuracy. An
+    indivisible-housing example extends the method to kinks, Skiba thresholds, and multiple stationary
+    distributions through viscosity solutions. The results are analytical and computational, not an
+    estimated account of wealth inequality; boundary assumptions, richer state spaces, finite-grid
+    error, and the absence of ongoing aggregate risk limit how directly the baseline formulas and timing
+    comparisons generalize.
