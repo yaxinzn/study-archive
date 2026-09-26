@@ -21612,3 +21612,27 @@
     measurement, the VAR-based expectations proxy, and the all-leads-and-lags exclusion restriction;
     recoverability permits retrospective historical reconstruction, not automatic identification without
     economic restrictions or real-time observation of the shocks.
+- title: "Barnichon, Debortoli, and Matthes (RES, 2022) — Understanding the Size of the Government Spending Multiplier: It’s in the Sign"
+  file: "https://www.dropbox.com/scl/fi/he4c92q6dkco31zd8ezp7/Barnichon_Debortoli_Matthes_RES_2022.pdf?rlkey=3yad320uterk0j43wy14dot7f&dl=0"
+  desc: >-
+    This note summarizes the paper, which examines whether the output response to government purchases
+    depends jointly on the sign of the spending shock and initial labor-market slack. Functional
+    Approximations of Impulse Responses use parsimonious Gaussian response functions with separate
+    parameters for positive and negative shocks, allowing unemployment-dependent amplitudes without
+    estimating an unrestricted nonlinear moving average. In U.S. quarterly data, twenty-quarter
+    cumulative output-to-spending multipliers are 0.25 for positive and 1.27 for negative shocks under
+    recursive identification over 1966Q3–2014Q4, and 0.78 and 1.42 using narrative defense-news
+    instruments over 1890Q1–2014Q4. When detrended unemployment changes from one percentage point below
+    trend to two points above, the negative-shock estimates change from 0.93 to 1.64 in the recursive
+    design and from 0.83 to 2.04 in the narrative design, while positive-shock estimates show little
+    detectable state dependence. Common-sample comparisons and unrestricted local projections support
+    the sign-specific pattern, although local projections do not precisely validate the complete
+    sign-by-state interaction. The authors explain differences between symmetric estimates through shock
+    composition: narrative samples emphasize large positive defense-news observations, whereas recursive
+    shocks place more weight on both signs. A stylized model combines incomplete insurance against
+    unemployment, which amplifies demand through employment-related consumption changes, with downward
+    nominal wage rigidity, which makes aggregate supply convex and changes interest-rate crowding out
+    across states. The findings concern historical output responses under maintained timing or
+    narrative-instrument restrictions, not experimental policy assignment, welfare comparisons, or
+    forecasts for a current fiscal proposal; Gaussian shape restrictions, anticipation, and the model's
+    omission of public debt, capital, and distortionary taxation remain important qualifications.
