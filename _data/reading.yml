@@ -21705,3 +21705,26 @@
     strategy: complete valuation knowledge, commitment, personalized pricing, and static interaction are
     maintained, privacy and data-acquisition costs are omitted, and the information-only feasible set is
     not fully characterized.
+- title: "Bordalo, Conlon, Gennaioli, Kwon, and Shleifer (ReStud, 2026) — How People Use Statistics"
+  file: "https://www.dropbox.com/scl/fi/0r4acxurmvnldhk75dwso/Bordalo_Conlon_Gennaioli_Kwon_Shleifer_ReStud_2026.pdf?rlkey=w64usppte663dsngcykrr2rqn&dl=0"
+  desc: >-
+    This note summarizes the paper, which explains multimodal and context-sensitive probability
+    judgments through salience-driven selection of the features used to represent a statistical problem.
+    A decision maker selectively represents hypotheses, simulates the represented events using
+    associated statistics, and normalizes across the hypotheses considered; errors arise when omitted or
+    ancillary features transform the question being answered. Contrast makes a representation attractive
+    when it sharply distinguishes hypotheses, while prominence captures the influence of wording and
+    display, allowing attention to one feature to crowd out another. Incentivized online experiments
+    manipulate coin-sequence length, final-toss prominence, likelihood contrast, signal–hypothesis
+    matching, and whether an alternative hypothesis is explicit. Across inference treatments, 68.2–78.2%
+    of answers fall at the base rate, likelihood, Bayesian posterior, or 50–50 modes. Reframing
+    equivalent six-flip comparisons around the final toss increases exact 50–50 answers from 54% to 68%;
+    raising the likelihood from 0.70 to 0.90 increases likelihood anchoring from 15.5% to 22.8% and
+    reduces base-rate anchoring from 32.8% to 23.4%, rather than simply improving Bayesian integration.
+    Making the alternative hypothesis implicit increases the erroneous joint-probability mode from 7.3%
+    to 19.2%. Free-text reasoning classified by a language model, direct feature reports, and separately
+    elicited similarity judgments move with these belief patterns. The framework unifies the Gambler’s
+    Fallacy, anchoring, hypothesis neglect, and evidence insensitivity, while showing why frequency
+    formats are not a universal correction. Randomization identifies effects of descriptions, not a
+    standalone causal effect of reported attention; feature selection, latent prominence, post-response
+    rationalization, and unobserved attention capacity limit structural and field interpretations.
