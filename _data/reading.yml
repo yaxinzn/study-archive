@@ -21680,3 +21680,28 @@
     interpretation remains conditional on excluding correlated global industry shocks;
     excess-compensation interactions are not independently instrumented, the individual agency channels
     are not separately identified, and lower incentive pay does not by itself establish a welfare gain.
+- title: "Elliott, Galeotti, Koh, and Li (RES, 2026) — Market Segmentation Through Information"
+  file: "https://www.dropbox.com/scl/fi/da7d1cpqkoa9z3hmivgdp/Elliott_Galeotti_Koh_Li_RES_2026.pdf?rlkey=e0xyxgds9ak5nhpncfnt6z33q&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies how an intermediary observing consumers’ complete
+    product-valuation vectors can shape differentiated Bertrand competition through committed,
+    potentially private and correlated information disclosures. Firms retain control of personalized
+    prices, so every recommendation must satisfy their incentive constraints. The consumer-optimal
+    design publicly identifies each consumer’s favourite product, induces rival firms to price at
+    marginal cost, and garbles the favourite firm’s information about residual willingness to pay. It
+    serves every consumer efficiently while leaving each firm only the profit it can guarantee by
+    ignoring the intermediary. At the other extreme, an efficient producer-perfect outcome extracts all
+    consumer surplus if and only if aggregate incentive compatibility holds: for every firm and
+    candidate price cut, lost margins on its own customers must offset the maximum gains from stealing
+    rivals’ customers. A capacity-constrained matching argument establishes sufficiency, and stronger
+    preference polarization relaxes this condition; with full product access, homogeneous products
+    instead generate zero profits under every information structure. When the condition fails, a duopoly
+    construction shifts selected valuation vectors downward along their diagonals, preserving product
+    rankings while leaving targeted information rents; the resulting efficient-profit bound is attained
+    for sufficiently small violations, not established globally for arbitrary distributions. Adding
+    control of product access makes producer perfection attainable through favourite-firm exclusivity
+    and permits a full characterization of jointly attainable surplus pairs, while unrestricted access
+    remains consumer-optimal. These are implementability results, not predictions of a platform’s chosen
+    strategy: complete valuation knowledge, commitment, personalized pricing, and static interaction are
+    maintained, privacy and data-acquisition costs are omitted, and the information-only feasible set is
+    not fully characterized.
