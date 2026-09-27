@@ -21658,3 +21658,25 @@
     profitability. The causal interpretation still depends on tariff and exchange-rate exclusion
     restrictions; managers’ expectations are not directly observed, and a reduced disciplinary benefit
     of debt is an alternative mechanism not separately identified.
+- title: "Lie and Yang (RFS, 2023) — Import Penetration and Executive Compensation"
+  file: "https://www.dropbox.com/scl/fi/zaifctwuu4snj7t9wwlt5/Lie_Yang_RFS_2023.pdf?rlkey=bp9kkeijns366quudhv9gx8kb&dl=0"
+  desc: >-
+    This note summarizes the paper, which asks whether foreign competition substitutes for executive
+    incentive alignment, while first examining whether alternative import, tariff, and exchange-rate
+    measures capture competition rather than domestic demand. The analysis links 1992–2005 U.S.
+    manufacturing executives in Execucomp to Compustat, CRSP, and UN Comtrade, with 61,560 observations
+    in the restricted-stock-grant regressions. U.S. industry imports from China are scaled by 1991
+    absorption and instrumented with corresponding Chinese imports into eight other high-income
+    countries; the first-stage coefficient is approximately 1.47 and the partial R-squared approximately
+    0.65. With executive-firm and year fixed effects, a one-percentage-point increase in instrumented
+    exposure is associated with about 3% lower restricted-stock grants and 2.2% lower wealth-performance
+    sensitivity, or delta, but no statistically significant average change in option grants or vega. CEO
+    pay slice declines, effects are more negative when prior compensation appears excessive, and flow
+    delta from current-year grants falls about 1.8%, limiting an explanation based only on revaluing
+    accumulated holdings. The authors interpret this pattern as product-market discipline partly
+    substituting for equity-based governance, while innovation incentives may offset the option
+    response. Sales validation and a decomposition of supply-driven and residual import variation also
+    explain why OLS and alternative competition measures can yield different coefficients. The causal
+    interpretation remains conditional on excluding correlated global industry shocks;
+    excess-compensation interactions are not independently instrumented, the individual agency channels
+    are not separately identified, and lower incentive pay does not by itself establish a welfare gain.
