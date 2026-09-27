@@ -21728,3 +21728,27 @@
     formats are not a universal correction. Randomization identifies effects of descriptions, not a
     standalone causal effect of reported attention; feature selection, latent prominence, post-response
     rationalization, and unobserved attention capacity limit structural and field interpretations.
+- title: "Gonçalves, Libgober, and Willis (RES, 2026) — Retractions: Updating from Complex Information"
+  file: "https://www.dropbox.com/scl/fi/yet2mldyqnygem8w539hy/Goncalves_Libgober_Willis_RES_2026.pdf?rlkey=8yu0d0wv7kxtt8t5wnhbxp0pc&dl=0"
+  desc: >-
+    This note summarizes the paper, which isolates how the form of information delivery affects belief
+    revision by comparing a retraction with both deleting the invalid signal from the history and
+    receiving new evidence with the same Bayesian informational content. Across four experiments with
+    1,212 U.S. participants on MTurk and Prolific, an unknown truth-ball colour is inferred from draws
+    containing informative and noise components; a randomly selected earlier draw can subsequently be
+    verified as noise. Incentivized belief reports and matched compressed or sign histories test
+    equivalence under a broad quasi-Bayesian benchmark, not only exact Bayesian calibration. In 39,162
+    baseline period-level observations, the retraction-shortfall coefficients are 0.586 relative to
+    deletion and 0.603 relative to an equivalent new draw. Compared with the 1.081 updating coefficient
+    for ordinary draws, the latter represents approximately 55% less updating. In probability levels,
+    beliefs remain about 3.2 percentage points from the deletion benchmark and move 3.7 points less than
+    after equivalent direct evidence. Retractions also increase absolute belief error, decision time,
+    and within-person history-contingent variance. Retracting the immediately preceding observation
+    reduces these difficulties, while a subsequent new draw inherits weaker and noisier processing.
+    Direct observations exhibit confirmation bias, whereas retractions exhibit underinference and
+    anticonfirmation. Replications and changes to explanations, elicitation timing, history visibility,
+    and signal structure support a complexity-based account rather than a purely motivational or memory
+    explanation. The experiment identifies a delivery-format effect in a controlled environment; the
+    illustrative noisy-likelihood model does not identify a unique cognitive technology, and the
+    numerical magnitudes need not transfer to real retractions that convey additional information about
+    source credibility or misconduct.
