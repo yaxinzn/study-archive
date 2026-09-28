@@ -21768,3 +21768,19 @@
     corporate risk-taking. The strongest identification concerns heavily pledging controllers affected
     by the reform; the crisis and corporate-policy evidence does not separately identify causal
     mechanisms.
+- title: "Brogaard, Li, and Xia (JFE, 2017) — Stock Liquidity and Default Risk"
+  file: "https://www.dropbox.com/scl/fi/tikyucejlqwddr2gmbgdk/Brogaard_Li_Xia_JFE_2017.pdf?rlkey=rh63haclwan5akw19kie6bocl&dl=0"
+  desc: >-
+    This note summarizes the paper, which asks whether stock liquidity reduces corporate default risk
+    through information and governance rather than merely reflecting healthier firms. A panel of 7,128
+    U.S. nonfinancial firms links liquidity during 1993–2013 to subsequent model-based expected default
+    frequency (EDF). The central design uses the 2001 decimalization and 700 matched treatment–control
+    pairs, comparing firms with large versus small liquidity improvements between 2000 and 2002. The
+    preferred estimate is a 6.24-percentage-point larger EDF decline for treatment firms, with stronger
+    effects among initially high-risk firms. Results survive controls and subsample tests addressing
+    mechanical changes in equity value or debt. Improved price efficiency and increased institutional
+    blockholdings support informational feedback and blockholder governance, with the former explaining
+    more variation in a standardized comparison. The contribution connects secondary-market trading
+    conditions to corporate distress risk. However, liquidity improvements are not randomly assigned
+    across firms, EDF is a structural-model probability rather than an observed default rate, and the
+    two mechanisms are not separately randomized.
