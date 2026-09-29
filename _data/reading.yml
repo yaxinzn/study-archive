@@ -21851,3 +21851,19 @@
     estimates of wage contracts. Labour supply and financial leverage are exogenous, households have
     complete markets, and the model leaves gaps in return volatility and the value premium’s CAPM-alpha
     component.
+- title: "Branger, Kraft, and Meinerding (RFS, 2016) — The Dynamics of Crises and the Equity Premium"
+  file: "https://www.dropbox.com/scl/fi/m6sehoptgr93sob27ptdc/Branger_Kraft_Meinerding_RFS_2016.pdf?rlkey=kwyllvu4nfcz3i1jriawifmh7&dl=0"
+  desc: >-
+    This note summarizes the paper, which asks whether realistic multi-year consumption crises can
+    explain a large equity premium without compressing each crisis into one enormous loss. A two-state
+    continuous-time endowment model allows a moderate consumption drop to trigger a bad regime with more
+    frequent future jumps. Recursive preferences make coincident cash-flow losses and deteriorating
+    long-run prospects especially costly, generating a premium beyond the sum of separate risks.
+    Calibrated to 4,933 country-year observations from 42 countries, the benchmark uses 5% consumption
+    jumps and matches annual left-tail and crisis-duration patterns. With risk aversion of six,
+    intertemporal elasticity of two, and dividend leverage of two, it produces a good-state equity
+    premium of 6.94% and an unconditional premium of 8.20%, versus 6.65% when jumps and regime switches
+    occur separately. The unconditional risk-free rate falls from 2.22% to 1.55%. The contribution
+    concerns the pricing of crisis onset, not merely crisis severity. Results depend on early-resolution
+    preferences and calibrated exogenous regimes; the paper neither uniquely identifies the
+    crisis-generating process nor jointly fits the broader set of asset-pricing moments.
