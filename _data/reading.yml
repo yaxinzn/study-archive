@@ -21818,3 +21818,19 @@
     surprises need not represent individual structural shocks. The quarterly explanatory-power statistic
     is not a structural variance decomposition, and the evidence does not fully separate risk-premium
     changes from revised expected cash flows.
+- title: "Eraker, Shaliastovich, and Wang (RFS, 2016) — Durable Goods, Inflation Risk, and Equilibrium Asset Prices"
+  file: "https://www.dropbox.com/scl/fi/sfj622fzj83u6m1johx2y/Eraker_Shaliastovich_Wang_RFS_2016.pdf?rlkey=2mmodbhzwsnf1jhkqynvnblg3&dl=0"
+  desc: >-
+    This note summarizes the paper, which links inflation risk to the joint pricing of nominal bonds and
+    durable versus nondurable equities. Using U.S. macroeconomic and dividend data from 1963Q1–2006Q4,
+    the authors estimate latent expected-growth and inflation dynamics before fitting asset-price
+    moments in a two-good Epstein–Zin endowment economy. Higher expected inflation predicts persistently
+    weaker durable growth, while nondurable growth recovers faster. Complementarity between durable
+    services and nondurables amplifies the price of this long-run risk. The model generates an
+    upward-sloping nominal yield curve and equity premia of 6.33% for durable producers versus 4.20% for
+    nondurable producers, together with stronger durable stock–bond comovement. Removing inflation’s
+    predictive link to durable growth reduces the five-year inflation premium from 93 to 38 basis
+    points; full inflation neutrality eliminates it. The contribution is a sectoral consumption channel
+    connecting bonds and equities, not a causal identification of monetary-policy shocks.
+    Inflation-growth dynamics remain exogenous, preference parameters target asset moments, and constant
+    shock variances exclude time-varying risk premia.
