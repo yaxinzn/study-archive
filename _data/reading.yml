@@ -21834,3 +21834,20 @@
     connecting bonds and equities, not a causal identification of monetary-policy shocks.
     Inflation-growth dynamics remain exogenous, preference parameters target asset moments, and constant
     shock variances exclude time-varying risk premia.
+- title: "Favilukis and Lin (RFS, 2016) — Wage Rigidity: A Quantitative Solution to Several Asset Pricing Puzzles"
+  file: "https://www.dropbox.com/scl/fi/vovkz3wra2rco4cdvgpqf/Favilukis_Lin_RFS_2016.pdf?rlkey=cgwre805tvaudn0exwpak76sv&dl=0"
+  desc: >-
+    This note summarizes the paper, which connects realistic wage dynamics to several asset-pricing
+    puzzles in a heterogeneous-firm production economy with Epstein–Zin preferences and persistent
+    productivity growth. Infrequent real-wage resets and capital–labour complementarity smooth wages
+    relative to output, making shareholders’ residual cash flows riskier through labour leverage.
+    Calibrated wage, investment, and accounting moments discipline the mechanism, while industry
+    evidence associates high and countercyclical labour shares with greater equity risk. The sticky-wage
+    CES benchmark raises annual equity-return volatility from 5.33% in the flexible-wage Cobb–Douglas
+    model to 13.15%, compared with 20.26% in the data. Its levered value premium reaches 2.58%, versus
+    0.25% in the flexible benchmark and 5.37% in the data. Inherited wage obligations also generate
+    countercyclical expected returns and volatility and a downward-sloping dividend-strip term structure
+    because short-run cash flows bear greater wage risk. These are calibrated model results, not causal
+    estimates of wage contracts. Labour supply and financial leverage are exogenous, households have
+    complete markets, and the model leaves gaps in return volatility and the value premium’s CAPM-alpha
+    component.
