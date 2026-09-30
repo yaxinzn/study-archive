@@ -21867,3 +21867,20 @@
     concerns the pricing of crisis onset, not merely crisis severity. Results depend on early-resolution
     preferences and calibrated exogenous regimes; the paper neither uniquely identifies the
     crisis-generating process nor jointly fits the broader set of asset-pricing moments.
+- title: "Chu, Deng, and Xia (RFS, 2020) — Bank Geographic Diversification and Systemic Risk"
+  file: "https://www.dropbox.com/scl/fi/abs8wopdp7galdbbmx9o2/Chu_Deng_Xia_RFS_2020.pdf?rlkey=7th1qebtqhiwm3t4nxqgoeim7&dl=0"
+  desc: >-
+    This note summarizes the paper, which examines whether geographic diversification makes banks
+    individually safer but systemically riskier. Using 392 U.S. bank holding companies and 9,638
+    quarterly observations from 1986Q3–1997Q4, the authors instrument metropolitan deposit
+    diversification with staggered interstate deregulation and gravity-predicted expansion
+    opportunities. With bank and home-state-by-year fixed effects, diversification raises ΔCoVaR and
+    financial integration; a separate replication confirms lower stand-alone risk. The reduced-form
+    estimates associate a one-standard-deviation increase in predicted diversification with increases of
+    13.39% of a standard deviation in ΔCoVaR and 7.3% in financial integration. Greater similarity in
+    asset composition, loan portfolios, and mortgage geography supports a common-exposure mechanism,
+    with stronger effects for banks from states initially less correlated with the national economy. The
+    contribution distinguishes private diversification benefits from systemic commonality costs.
+    Interpretation depends on the instrument’s exclusion restriction; deposit geography and return-based
+    risk measures are imperfect proxies, and the mechanism tests do not identify mediated shares or an
+    optimal diversification level.
