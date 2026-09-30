@@ -21884,3 +21884,19 @@
     Interpretation depends on the instrument’s exclusion restriction; deposit geography and return-based
     risk measures are imperfect proxies, and the mechanism tests do not identify mediated shares or an
     optimal diversification level.
+- title: "Hale, Kapan, and Minoiu (RFS, 2020) — Shock Transmission Through Cross-Border Bank Lending: Credit and Real Effects"
+  file: "https://www.dropbox.com/scl/fi/t5rcjs3dne7u2gtcpjnsq/Hale_Kapan_Minoiu_RFS_2020.pdf?rlkey=4efl0zreuwmm1fb6hyn4gjfyg&dl=0"
+  desc: >-
+    This note summarizes the paper, which traces banking crises through cross-border interbank claims to
+    corporate credit and real activity. The authors construct a directed network from 16,526 syndicated
+    interbank loans involving 6,083 banks and study crisis exposures over 1997–2012. An additional
+    direct crisis-country counterparty is associated with a 2.9-basis-point lower bank return on assets,
+    a smaller syndicated-loan share, and higher lending spreads. Indirect transmission depends on the
+    intermediate counterparty’s country: two-step crisis-country paths amplify losses, while its links
+    to noncrisis countries partly cushion them. For firms, one additional direct crisis exposure of the
+    weighted-average lender is associated with a 2.2-basis-point lower investment ratio and an
+    approximately 11-basis-point lower asset-growth rate. Effects extend to borrowers outside
+    crisis-origin countries and are stronger for smaller firms. Predetermined-exposure tests, granular
+    fixed effects, and falsifications support a credit-supply interpretation, but endogenous network
+    formation, incomplete exposure coverage, and unobserved hedging limit causal interpretation and the
+    measurement of total contagion.
