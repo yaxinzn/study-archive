@@ -21915,3 +21915,18 @@
     ordinary momentum. The contribution connects the full shape of investor selling to asset prices. The
     evidence establishes conditional predictability rather than an exogenous selling effect, relies on
     turnover-based purchase-price proxies, and does not uniquely identify investor psychology.
+- title: "Fama and French (RFS, 2016) — Dissecting Anomalies with a Five-Factor Model"
+  file: "https://www.dropbox.com/scl/fi/lpn6yfgsadmf4g9i7mw8u/Fama_French_RFS_2016.pdf?rlkey=zsmw1yqr7nrtudp8jyex0jp33&dl=0"
+  desc: >-
+    This note summarizes the paper, which examines whether profitability (RMW) and investment (CMA)
+    factors organize anomalies beyond the characteristics used to construct the five-factor model. Using
+    U.S. size–anomaly portfolios from July 1963–December 2014, the authors show that low-beta stocks,
+    repurchasers, and low-volatility stocks tend to load positively on RMW and CMA, while opposite
+    portfolios load negatively. Adding the factors reduces average absolute monthly alpha for
+    residual-volatility portfolios from 0.222% to 0.120%, but large negative alphas remain among small,
+    highly volatile stocks and extreme issuers. Momentum remains largely unexplained, and adding RMW
+    worsens accrual-portfolio pricing. HML’s average return is spanned by the other four factors in this
+    sample; an orthogonalized HML preserves value-growth exposure information without changing
+    five-factor alphas. The contribution compresses several anomalies into common return-covariance
+    patterns without eliminating model failures. Nearly all joint tests reject, and smaller alphas
+    neither establish a causal mechanism nor distinguish risk compensation from mispricing.
