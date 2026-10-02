@@ -21963,3 +21963,18 @@
     value. These are projection-based attribution shares, not causal treatment effects; interpretation
     depends on the labor-share proxy, selective staff-expense reporting, and the model’s maintained
     structure.
+- title: "Dessaint, Olivier, Otto, and Thesmar (RFS, 2021) — CAPM-Based Company (Mis)valuations"
+  file: "https://www.dropbox.com/scl/fi/ueg6i5fktc8n72xznnybl/Dessaint_Olivier_Otto_Thesmar_RFS_2021.pdf?rlkey=ds0z6e4ljwxna0ytiw3i7m146&dl=0"
+  desc: >-
+    This note summarizes the paper, which asks how CAPM-based capital budgeting affects acquisitions
+    when the market’s beta–return relation is flatter than the textbook model. In bids by U.S. public
+    firms for private targets over 1977–2015, an interquartile increase in target industry asset beta
+    predicts 0.5–1.2 percentage points higher seven-day bidder abnormal returns. A mutual-fund-fire-sale
+    “noise beta” instrument yields positive estimates, supporting a role for the beta input used in
+    valuation. Effects strengthen with CAPM reliance and weaken when public prices or comparable firms
+    provide valuation anchors. A calibrated model implies an average absolute valuation discrepancy of
+    23% of deal value. The mechanism is that CAPM users overvalue low-beta targets and undervalue
+    high-beta targets relative to market benchmarks. The contribution links asset-pricing model choice
+    to corporate investment and financing. Causal interpretation depends on the fire-sale exclusion
+    restriction; calling the discrepancy a mistake additionally requires market prices to be the
+    appropriate valuation benchmark.
