@@ -21947,3 +21947,19 @@
     a claim that biology determines investor behavior. Prenatal hormones are unobserved, birth weight is
     self-reported and nonrandom, and causal interpretation remains conditional on biological,
     socialization, and selection assumptions.
+- title: "Donangelo (RFS, 2021) — Untangling the Value Premium with Labor Shares"
+  file: "https://www.dropbox.com/scl/fi/o87mt2ojqjbwzn2odfzxn/Donangelo_RFS_2021.pdf?rlkey=hy6prm1d2jnii7jeh4ydl9p6h&dl=0"
+  desc: >-
+    This note summarizes the paper, which separates labor-induced operating leverage from growth-related
+    explanations of the value premium. Using U.S. nonfinancial firms over 1963–2017, with sample
+    endpoints adjusted to the forecast horizon, Donangelo splits log book-to-market into a
+    labor-share-explained component and an orthogonal residual within an extended value-spread
+    decomposition. The former accounts for 54.0% of the one-year value-premium component and 31.4% at
+    fifteen years, but only 6.4% and 18.7% of the corresponding profitability-growth components. Both
+    components predict returns, while labor-share exposure is more closely linked to volatility and the
+    residual dominates cash-flow growth, investment, and capital accumulation. A production model
+    combines smooth wages, labor–capital complementarity, and investment frictions to rationalize these
+    patterns. The contribution establishes labor leverage as important but insufficient for explaining
+    value. These are projection-based attribution shares, not causal treatment effects; interpretation
+    depends on the labor-share proxy, selective staff-expense reporting, and the model’s maintained
+    structure.
