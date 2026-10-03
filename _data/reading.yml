@@ -21978,3 +21978,20 @@
     to corporate investment and financing. Causal interpretation depends on the fire-sale exclusion
     restriction; calling the discrepancy a mistake additionally requires market prices to be the
     appropriate valuation benchmark.
+- title: "Guo and Ou-Yang (RFS, 2015) — Feedback Trading between Fundamental and Nonfundamental Information"
+  file: "https://www.dropbox.com/scl/fi/71zajl1ndg14w9vtpfo1k/Guo_OuYang_RFS_2015.pdf?rlkey=208ru2jqtmx22w5urfb2vbywm&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies how a strategic insider’s fundamental and
+    nonfundamental information interact in an infinite-horizon continuous-time market. The insider
+    observes expected dividend growth and can forecast noise-supply correction or inventory adjustment,
+    while competitive market makers infer fundamentals from dividends and aggregate order flow. Trades
+    exploiting each informational advantage camouflage the other, reinforcing both trading motives.
+    Consequently, prices can remain incompletely revealing as trading costs vanish, despite diverging
+    trading intensity. Numerical comparisons show that faster noise correction can reduce price
+    informativeness and increase volatility. When private fundamental information is sufficiently
+    abundant, feedback can also outweigh inventory hedging, so greater insider risk aversion raises
+    fundamental trading and price impact. The model further predicts that current informed trades and
+    lagged holdings jointly forecast returns. Its contribution is a mechanism through which rational
+    informed trading can destabilize prices. These are theoretical results and numerical illustrations,
+    not estimated effects; interpretation depends on a monopolistic insider, exogenous noise dynamics,
+    and a linear stationary equilibrium.
