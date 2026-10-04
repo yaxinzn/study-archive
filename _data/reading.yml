@@ -21995,3 +21995,20 @@
     informed trading can destabilize prices. These are theoretical results and numerical illustrations,
     not estimated effects; interpretation depends on a monopolistic insider, exogenous noise dynamics,
     and a linear stationary equilibrium.
+- title: "Gao, Parsons, and Shen (RFS, 2018) — Global Relation between Financial Distress and Equity Returns"
+  file: "https://www.dropbox.com/scl/fi/qa4q7ipzr9qgqxe9m7sj6/Gao_Parsons_Shen_RFS_2018.pdf?rlkey=jokrs5pz1dkqk6cwyycqskjlc&dl=0"
+  desc: >-
+    This note summarizes the paper, which examines the distress-risk anomaly using Moody’s KMV Expected
+    Default Frequency (EDF) across 38 countries from January 1992 through June 2013. Country-neutral,
+    value-weighted portfolios skip the month after formation. Among non-U.S. small stocks, the
+    highest-minus-lowest EDF portfolio earns a −0.41% monthly hybrid Fama–French–Carhart alpha at the
+    one-month horizon, while pooled all-stock evidence is weak. The anomaly concentrates in North
+    America and developed Europe. Higher observable risk and creditor-rights tests challenge
+    conventional risk and shareholder-advantage explanations. Stronger effects in individualistic
+    countries, after market booms, and among high-turnover stocks support overconfidence-driven
+    underreaction. U.S. small-stock tests further connect underperformance to recent negative news and
+    newly emerging distress, distinguishing distress levels from distress news. The contribution
+    combines international replication with mechanism tests rather than establishing universal
+    distressed-stock underperformance. These are conditional return patterns, not causal effects of
+    default risk or uniquely identified beliefs; factor-model dependence, cultural proxies, and
+    short-selling costs limit interpretation.
