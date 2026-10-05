@@ -22012,3 +22012,19 @@
     distressed-stock underperformance. These are conditional return patterns, not causal effects of
     default risk or uniquely identified beliefs; factor-model dependence, cultural proxies, and
     short-selling costs limit interpretation.
+- title: "Kartik (ReStud, 2009) — Strategic Communication with Lying Costs"
+  file: "https://www.dropbox.com/scl/fi/yp97hiuuuswcasgu09f06/Kartik_RES_2009.pdf?rlkey=9rpytwicojbc9o8mtki322tkw&dl=0"
+  desc: >-
+    This note summarizes the paper, which adds direct lying costs to strategic communication between an
+    informed, upward-biased sender and a rational receiver. Separating types inflate claims relative to
+    their complete-information cost-minimizing statements, but the receiver decodes rather than takes
+    them literally. With bounded types and claims under the baseline assumptions, full monotone
+    separation is impossible at any finite cost intensity. Kartik characterizes equilibria in which low
+    types separate and high types form one or more pools using the maximal literal claim, and provides a
+    monotonic-D1 refinement justification. In the uniform-quadratic example, costly lying can sustain
+    information where cheap talk is uninformative; sufficiently large lying costs make communication
+    preferable to delegation for every positive bias. A withholding extension links cheap talk to
+    verifiable disclosure as misrepresentation costs vary. The contribution jointly explains informative
+    exaggeration, top pooling, and the allocation of authority. These are theoretical results, not
+    estimated policy effects; bounded claims, exogenous convex costs, upward bias, and equilibrium
+    selection are essential.
