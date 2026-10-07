@@ -22044,3 +22044,18 @@
     sectoral distress through initially well-capitalized banks. Causal interpretation requires parallel
     relative lending trends; evergreening is inferred, and investment loans measure financing rather
     than physical capital expenditure.
+- title: "Chernov, Lochstoer, and Song (JF, 2026) — The Real Channel for Nominal Bond-Stock Puzzles"
+  file: "https://www.dropbox.com/scl/fi/wfjy3unu68a19lvryln18/Chernov_Lochstoer_Song_JF_2026.pdf?rlkey=p73cfucp7vikm923xqu07oh60&dl=0"
+  desc: >-
+    This note summarizes the paper, which explains changing real and nominal bond-stock correlations
+    through shifts in consumption-risk composition. A three-regime model varies the relative importance
+    of permanent and transitory shocks, with sequential Bayesian estimation combining annual consumption
+    data from 1834 and postwar quarterly observations. Negative permanent shocks lower expected growth
+    and real rates, making bonds hedge equity losses; negative transitory shocks predict recovery,
+    raising rates and making bonds fall with stocks. The estimated shift toward permanent shocks around
+    the late 1990s reproduces the broad correlation reversal. Adding inflation dynamics,
+    sovereign-default risk, and Epstein–Zin preferences produces an annual equity premium of 7.36%,
+    versus 8.14% in the data. The contribution demonstrates a real-consumption channel complementary to
+    inflation risk. These are model-based mechanisms, not causal identification of the underlying
+    shocks; anticipated-utility pricing omits priced learning uncertainty, and real-rate levels and
+    valuation-ratio dynamics remain imperfectly matched.
