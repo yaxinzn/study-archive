@@ -78,7 +78,10 @@ brand: Variables (Live)
       <strong>Sep 8:</strong> Updated all the variables from <em>Review of Financial Studies</em>,
       Volume 39, Issue 9 (Sep 2026).
     </li>
-
+     <li>
+      <strong>Oct 8:</strong> Updated all the variables from <em>Review of Financial Studies</em>,
+      Volume 39, Issue 10 (Oct 2026).
+    </li>
   </ul>
 </div>
 
