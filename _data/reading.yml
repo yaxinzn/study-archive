@@ -22059,3 +22059,19 @@
     inflation risk. These are model-based mechanisms, not causal identification of the underlying
     shocks; anticipated-utility pricing omits priced learning uncertainty, and real-rate levels and
     valuation-ratio dynamics remain imperfectly matched.
+- title: "Busch and Obernberger (RFS, 2017) — Actual Share Repurchases, Price Efficiency, and the Information Content of Stock Prices"
+  file: "https://www.dropbox.com/scl/fi/94kgeamy48u8u8lbifmfs/Busch_Obernberger_RFS_2017.pdf?rlkey=s7m075bknatva5sikhocja5jw&dl=0"
+  desc: >-
+    This note summarizes the paper, which tests whether actual open-market share repurchases distort
+    prices or improve informational efficiency. Hand-collected SEC filings cover 2,930 U.S. repurchasing
+    firms during 2004–2010. Program size and age instrument monthly repurchase intensity, with lagged
+    activity and remaining authorization providing alternative specifications. A one within-firm
+    standard deviation increase in intensity reduces the main price-delay measure by 0.0227, or 4.88% of
+    its median, in the IV specification. Higher market synchronicity and effects concentrated in down
+    markets, together with lower volatility and kurtosis, support price stabilization near fundamental
+    value rather than accelerated incorporation of positive news. Tests involving insider selling,
+    options, cash, and governance reveal no systematic efficiency impairment. The contribution
+    identifies the issuer as a potential stabilizing market participant. Causal interpretation depends
+    on the instruments’ exclusion restriction; fundamental values and intramonth execution are
+    unobserved, while higher synchronicity alone cannot establish better information or exclude rare
+    manipulation.
