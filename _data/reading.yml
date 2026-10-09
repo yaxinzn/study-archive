@@ -22089,3 +22089,19 @@
     support the finding. The contribution documents a volatility term premium largely separate from
     currency carry without establishing its structural cause. Performance depends on generated quotes,
     covariance and trading-cost assumptions, and omitted funding and counterparty constraints.
+- title: "Della Corte, Sarno, and Tsiakas (RFS, 2009) — An Economic Evaluation of Empirical Exchange Rate Models"
+  file: "https://www.dropbox.com/scl/fi/62p6vv12224nfxdi0yft1/DellaCorte_Sarno_Tsiakas_RFS_2009.pdf?rlkey=cm5o0f02jxuiwhqy0d077b167&dl=0"
+  desc: >-
+    This note summarizes the paper, which evaluates exchange-rate forecasts by their value in dynamic
+    portfolio choice rather than statistical accuracy alone. Fifteen models combine five
+    conditional-mean specifications with constant variance, GARCH, or stochastic volatility for
+    sterling, Deutsche mark/euro, and yen against the dollar over 1976–2004. Bayesian estimation and
+    recursive forecasts guide allocation across four one-month bonds. At 10% target volatility and risk
+    aversion of two, the forward-premium stochastic-volatility model delivers an out-of-sample annual
+    performance fee of 266 basis points relative to a constant-variance random walk. Combining the five
+    stochastic-volatility models yields fees of 317 basis points for Bayesian averaging and 340 for the
+    Bayesian winner. Monetary fundamentals generally add little value, whereas volatility timing
+    improves risk scaling. The contribution distinguishes forecast fit from investor utility and
+    quantifies model uncertainty’s economic importance. These historical portfolio comparisons depend on
+    quadratic utility, unconstrained positions, covariance assumptions, and revised macroeconomic data;
+    they are not causal or arbitrage claims.
