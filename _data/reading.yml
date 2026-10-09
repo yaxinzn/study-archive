@@ -22075,3 +22075,17 @@
     on the instruments’ exclusion restriction; fundamental values and intramonth execution are
     unobserved, while higher synchronicity alone cannot establish better information or exclude rare
     manipulation.
+- title: "Della Corte, Sarno, and Tsiakas (JFE, 2011) — Spot and Forward Volatility in Foreign Exchange"
+  file: "https://www.dropbox.com/scl/fi/enc6crbzyr2kxnaiiirai/DellaCorte_Sarno_Tsiakas_JFE_2011.pdf?rlkey=czr4niu1c8lssz3u4heiy7wky&dl=0"
+  desc: >-
+    This note summarizes the paper, which tests whether forward implied FX volatility predicts future
+    spot implied volatility without bias, rather than forecasting realized volatility. Using daily OTC
+    option quotes for nine dollar exchange rates over 1996–2009, the authors construct model-free spot
+    and forward volatility and estimate predictive regressions. Slopes range from 0.141 to 0.668,
+    rejecting the unit-slope null for eight currencies. The resulting volatility carry strategy buys
+    forward volatility below spot and sells it above spot. At a 10% target volatility and effective
+    spreads equal to 75% of the assumed quoted spreads, its out-of-sample Sharpe ratio is 1.30;
+    combining volatility and currency carry raises it to 1.94. Variance-based and nonoverlapping tests
+    support the finding. The contribution documents a volatility term premium largely separate from
+    currency carry without establishing its structural cause. Performance depends on generated quotes,
+    covariance and trading-cost assumptions, and omitted funding and counterparty constraints.
