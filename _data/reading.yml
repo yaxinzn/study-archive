@@ -22105,3 +22105,18 @@
     quantifies model uncertainty’s economic importance. These historical portfolio comparisons depend on
     quadratic utility, unconstrained positions, covariance assumptions, and revised macroeconomic data;
     they are not causal or arbitrage claims.
+- title: "Della Corte, Riddiough, and Sarno (RFS, 2016) — Currency Premia and Global Imbalances"
+  file: "https://www.dropbox.com/scl/fi/v8b7gun7viostwxp4t1e2/DellaCorte_Riddiough_Sarno_RFS_2016.pdf?rlkey=ob1vkoxglf0qlm8sx005bfu7f&dl=0"
+  desc: >-
+    This note summarizes the paper, which links currency risk premia to countries’ external balance
+    sheets. Monthly sorts on net foreign assets and the domestic-currency share of external liabilities
+    form a global-imbalance factor, long vulnerable debtors and short safer creditors, over October
+    1983–June 2014. Across 55 currencies, it earns 4.40% annually after transaction costs, with a Sharpe
+    ratio of 0.68. A dollar-plus-imbalance model explains 49–65% of cross-sectional variation in average
+    returns across the reported currency-portfolio tests, and imbalance risk remains priced alongside
+    carry. Debtor currencies depreciate disproportionately when global FX volatility rises, consistent
+    with compensation for scarce intermediary risk-bearing capacity. The contribution ties return
+    differences to indebtedness and liability denomination rather than interest rates alone. These are
+    portfolio and factor-pricing results, not causal identification of external borrowing; endogenous
+    denomination, annual balance-sheet measurement, and volatility proxies leave the structural
+    mechanism unresolved.
