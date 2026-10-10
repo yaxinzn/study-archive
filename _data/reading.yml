@@ -22120,3 +22120,18 @@
     portfolio and factor-pricing results, not causal identification of external borrowing; endogenous
     denomination, annual balance-sheet measurement, and volatility proxies leave the structural
     mechanism unresolved.
+- title: "Della Corte, Ramadorai, and Sarno (JFE, 2016) — Volatility Risk Premia and Exchange Rate Predictability"
+  file: "https://www.dropbox.com/scl/fi/2a9jg67gz8n5o8bk9qsa0/DellaCorte_Ramadorai_Sarno_JFE_2016.pdf?rlkey=f2sm9bbtxz776id8oiihbd1sj&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses currency volatility risk premia to predict subsequent
+    spot exchange-rate movements. For 1998–2013, the signal subtracts model-free implied volatility from
+    prior-year realized volatility, proxying the physical-minus-risk-neutral volatility expectation.
+    Monthly portfolios buy high-VRP, cheap-to-insure currencies and short low-VRP currencies; they trade
+    currencies, not volatility contracts. After transaction costs, annual excess returns are 4.95% for
+    developed currencies and 4.16% for the broader sample, with Sharpe ratios of 0.61 and 0.51. Spot
+    movements drive the gains while interest differentials detract. Conventional factors leave
+    substantial alphas; hedger positions, tighter funding, and weaker hedge-fund flows support a
+    limits-to-arbitrage interpretation. The contribution shows that option-implied insurance costs
+    contain information distinct from carry. Predictability does not establish causation or exclude
+    omitted risk, and constructed volatility measures and endogenous intermediary proxies limit
+    mechanism identification.
