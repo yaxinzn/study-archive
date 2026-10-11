@@ -22135,3 +22135,17 @@
     contain information distinct from carry. Predictability does not establish causation or exclude
     omitted risk, and constructed volatility measures and endogenous intermediary proxies limit
     mechanism identification.
+- title: "Cenedese, Della Corte, and Wang (JF, 2021) — Currency Mispricing and Dealer Balance Sheets"
+  file: "https://www.dropbox.com/scl/fi/7akbyhx23f5ksup3170v0/Cenedese_DellaCorte_Wang_JF_2021.pdf?rlkey=l6k6u12ogpn662ov45j7ezukc&dl=0"
+  desc: >-
+    This note summarizes the paper, which identifies how dealer balance-sheet constraints widen
+    deviations from covered interest parity. Nearly 3.5 million forward transactions across six dollar
+    currency pairs during 2014–2016 underpin a difference-in-differences design around the January 2016
+    U.K. leverage-ratio framework. Currency-by-client-by-week fixed effects compare affected and
+    unaffected dealers serving the same client. The preferred estimate makes the dollar basis 15.8 basis
+    points more negative per annum. Costs concentrate on synthetic-dollar borrowers, reaching about 54
+    basis points for directional clients without measured netting, versus an insignificant six for
+    nondirectional borrowers. Directional clients face reduced volume and partially migrate to existing
+    unaffected dealers. The contribution identifies scarce gross balance-sheet capacity as an
+    intermediation cost even for low-market-risk trades. Causal interpretation requires parallel dealer
+    trends; netting is proxied, and the study does not measure regulation’s net welfare effect.
