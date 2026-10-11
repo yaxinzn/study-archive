@@ -22149,3 +22149,18 @@
     unaffected dealers. The contribution identifies scarce gross balance-sheet capacity as an
     intermediation cost even for low-market-risk trades. Causal interpretation requires parallel dealer
     trends; netting is proxied, and the study does not measure regulation’s net welfare effect.
+- title: "Della Corte, Kozhan, and Neuberger (JFE, 2021) — The Cross-Section of Currency Volatility Premia"
+  file: "https://www.dropbox.com/scl/fi/uhwki2tiagqicokoky63n/Della_Corte_Kozhan_Neuberger_JFE_2021.pdf?rlkey=gbcdahbpehzmfufm9tl4xh2cl&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies the cross-section of currency
+    forward-volatility-agreement returns rather than ordinary exchange-rate returns. Using OTC option
+    quotes for up to 20 currencies during 1996–2015, the authors sort on the 3-to-24-month
+    implied-volatility slope. Volatility carry buys low-slope contracts and sells high-slope contracts,
+    generating annualized gross Sharpe ratios of 1.25–1.46 across four maturity pairs. Exposure to the
+    traded slope factor explains the return spread, whereas the common level factor and standard
+    currency, equity, and VIX-futures factors do not. Conditional premia persist at longer maturities
+    even as unconditional premia fade. Quote–trade comparisons support the synthetic-contract
+    construction, and conservative costs reduce the average Sharpe ratio to about 0.83. The contribution
+    identifies a persistent, globally priced volatility-carry component, not its primitive economic
+    cause. Synthetic quotes, shorter validation samples, and investor-specific funding conditions limit
+    implementation and structural interpretation.
