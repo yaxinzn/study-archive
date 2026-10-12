@@ -22177,3 +22177,18 @@
     forecasts. The results suggest that contemporaneous representations preserve economically useful
     news signals and that future knowledge adds little in this application; they do not establish
     universal immunity to lookahead bias or net trading profitability after costs.
+- title: "Bigio, Silva, and Zilberman (JFE, 2026) - Heterogeneous Beliefs, Asset Prices, and Business Cycles"
+  file: "https://www.dropbox.com/scl/fi/fgsqxs5tdql47flpuu80l/Bigio_Silva_Zilberman_JFE_2026.pdf?rlkey=qmvnvqcsln7c70dp4l9vgn7qn&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a complete-market production model where
+    heterogeneous beliefs affect asset prices and employment because firms hire before productivity is
+    realized. Wealth-weighted optimism lowers required returns and raises hiring, while predetermined
+    wages increase operating leverage and return risk. Extrapolative investors accumulate wealth during
+    expansions and become pessimistic when conditions reverse, making longer booms generate deeper
+    busts. Consistent with the model, I/B/E/S disagreement is more strongly associated with CRSP
+    turnover during recessions, especially their first two quarters. A survey-disciplined calibration
+    generates an equity premium of about 5.2% and return volatility of 15.8%; raising labor-supply
+    elasticity brings hours volatility into the empirical range. The paper links beliefs, wealth
+    redistribution, and real amplification without intermediary constraints, although the empirical
+    evidence is correlational and the quantitative results depend on persistent sentiment and a device
+    preventing wealth concentration.
