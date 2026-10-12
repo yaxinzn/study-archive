@@ -22164,3 +22164,16 @@
     identifies a persistent, globally priced volatility-carry component, not its primitive economic
     cause. Synthetic quotes, shorter validation samples, and investor-specific funding conditions limit
     implementation and structural interpretation.
+- title: "He, Lv, Manela, and Wu (JFE, 2026) - Chronologically Consistent Large Language Models"
+  file: "https://www.dropbox.com/scl/fi/nsug39xgy6ux96ii25s40/He_Lv_Manela_Wu_JFE_2026.pdf?rlkey=67ceh4e22cwk636oe6ym87r8a&dl=0"
+  desc: >-
+    This note summarizes the paper, which constructs annual ChronoBERT and ChronoGPT checkpoints for
+    1999-2024 from timestamped historical text to test whether useful financial forecasts require
+    future-trained language models. Using Dow Jones headlines, news embeddings, and monthly ridge
+    regressions, the January 2008-July 2023 backtest produces annualized long-short Sharpe ratios of
+    4.80 and 4.92 with previous-year models, compared with 4.64 and 4.72 for same-year lookahead models
+    and 4.90 for Llama 3.1. Historical-event and neologism tests support the intended information
+    cutoffs, while later vintages generally improve language fit without consistently improving return
+    forecasts. The results suggest that contemporaneous representations preserve economically useful
+    news signals and that future knowledge adds little in this application; they do not establish
+    universal immunity to lookahead bias or net trading profitability after costs.
