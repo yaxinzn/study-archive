@@ -22192,3 +22192,17 @@
     redistribution, and real amplification without intermediary constraints, although the empirical
     evidence is correlational and the quantitative results depend on persistent sentiment and a device
     preventing wealth concentration.
+- title: "Lu and Malliaris (JFE, 2026) - Charitable Capital Allocation: Evidence from Private Foundations"
+  file: "https://www.dropbox.com/scl/fi/4oowjfz1hjaz0ilfw323h/Lu_Malliaris_JFE_2026.pdf?rlkey=gbk03gkd2esg2prtilkpufchj&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines U.S. foundation tax data with recipient-level grants
+    and instruments peer giving with peer foundations' endowment returns to test whether charitable
+    capital responds to recipient need. A 1% increase in peer grants is associated with a 0.03% increase
+    in the focal grant in OLS but a 0.22% decrease under IV, consistent with substitution under
+    diminishing returns to recipient funding. Adjustment mainly changes grant amounts within existing
+    relationships and is stronger for scientific causes, longer relationships, and founder-family
+    foundations. Total grantmaking shows no significant increase in response to broad need shocks, while
+    spending falls more after endowment losses than it rises after gains. Founder involvement predicts
+    both greater recipient-level responsiveness and stronger capital preservation, highlighting a
+    tension between allocating a given budget and expanding it; the IV interpretation depends on the
+    exclusion restriction, and the results do not establish socially optimal giving.
