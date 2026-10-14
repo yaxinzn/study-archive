@@ -22206,3 +22206,17 @@
     both greater recipient-level responsiveness and stronger capital preservation, highlighting a
     tension between allocating a given budget and expanding it; the IV interpretation depends on the
     exclusion restriction, and the results do not establish socially optimal giving.
+- title: "Narayanan, Ratnadiwakara, and Strahan (JFE, 2026) - The Decline of Branch Banking"
+  file: "https://www.dropbox.com/scl/fi/zzrexaljl4znhkc3krs9u/Narayanan_Ratnadiwakara_Strahan_JFE_2026.pdf?rlkey=mxrw4h06zz5g9szn8jg0e3l6n&dl=0"
+  desc: >-
+    This note summarizes the paper, which combines FDIC branch data for 2000-2024, bank financial
+    statements, local demographics, and smartphone visits to explain U.S. bank-branch restructuring.
+    Predicted deposit betas measure local rate sensitivity: high-beta, low-balance branches are more
+    likely to close, while banks enter deposit-rich, high-beta markets where customers are easier to
+    attract. The patterns are strongest at large banks, where a one-standard-deviation beta increase is
+    associated with about a 10% higher closure probability relative to the conditional rate in
+    2020-2024. Sophisticated areas experience larger visit declines, supporting digital substitution for
+    physical access, and deposit variables explain restructuring better than local lending measures.
+    Nearby banks' deposit gains after closures disappear after the financial crisis, while openings
+    continue drawing deposits from incumbents. The findings question branch-based measures of
+    competition, although beta is imputed and the spillover evidence is descriptive rather than causal.
