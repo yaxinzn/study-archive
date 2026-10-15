@@ -22220,3 +22220,18 @@
     Nearby banks' deposit gains after closures disappear after the financial crisis, while openings
     continue drawing deposits from incumbents. The findings question branch-based measures of
     competition, although beta is imputed and the spillover evidence is descriptive rather than causal.
+- title: "Goulding, Harvey, and Kurtović (JFE, 2026) - Disagreement of Disagreement"
+  file: "https://www.dropbox.com/scl/fi/bryfcpps46nuykye1gp79/Goulding_Harvey_Kurtovic_JFE_2026.pdf?rlkey=ulmds0n46jrh5iyisk1wgg2r2&dl=0"
+  desc: >-
+    This note summarizes the paper, which addresses weak agreement among investor-disagreement proxies
+    by deriving a nonlinear composite, DIS, from a frictionless equilibrium model. With positive payoff
+    skewness and prudent investors, optimists buy more aggressively than pessimists short, so
+    disagreement raises prices and lowers expected returns without short-sale constraints. DIS combines
+    idiosyncratic volatility, short interest, expected skewness, analyst dispersion, coverage, and
+    fundamental uncertainty. Using 719,940 U.S. stock-months over 1994-2022, the authors find that
+    low-minus-high DIS portfolios among positively skewed stocks earn annualized factor alphas of
+    approximately 17-21%, mainly from the high-DIS short leg. DIS absorbs IVOL's predictive content,
+    remains predictive across macroeconomic regimes and near full institutional ownership, and
+    outperforms linear composites. The evidence supports complementary frictionless and friction-based
+    disagreement channels, although the measure inherits model approximations and proxy assumptions, and
+    return predictability does not establish causality.
