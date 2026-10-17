@@ -22249,3 +22249,17 @@
     households sorting into suburbs. Infrastructure thus reshapes both activity and its spatial
     distribution. However, the designs identify effects at different scales, land values imperfectly
     measure activity, and county gains cannot distinguish aggregate growth from relocation.
+- title: "Manzini, Mariotti, and Ülkü (RES, 2026) - Choice and Opportunity Costs"
+  file: "https://www.dropbox.com/scl/fi/wo5rpljz77adesa1p8t01/Manzini_Mariotti_Ulku_RES_2026.pdf?rlkey=zez0bbil0w31orxc68w7rv1zv&dl=0"
+  desc: >-
+    This note summarizes the paper, which models choice through preferences over pairs comprising a
+    selected alternative and a forgone alternative, allowing benefits and opportunity costs to interact
+    nonseparably. In the Recursive Opportunity Model, the chosen option's cost is what the agent would
+    choose if it were unavailable, while rejected options are evaluated against the actual choice. This
+    intrapersonal equilibrium is characterized by Weak Path Independence and permits pairwise cycles but
+    always selects a Condorcet winner when one exists. Relaxing recursion yields an Opportunity Model
+    characterized by Never Chosen, accommodating attraction effects and other menu dependence while
+    excluding Condorcet losers. Even rational choices can reveal a gross ranking different from that
+    induced by underlying net preferences, complicating welfare inference. The paper also characterizes
+    multivalued choice and equilibrium existence and uniqueness. Its results are theoretical:
+    representations may be nonunique, and no empirical test or definitive welfare criterion is provided.
