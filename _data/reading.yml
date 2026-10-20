@@ -22293,3 +22293,17 @@
     Chinese historical evidence illustrates expansion of the market track but is descriptive, not
     causal. The results depend on credible enforcement and omit dynamic investment incentives; later
     liberalization can also harm beneficiaries of an intermediate regime.
+- title: "Boutros, Ben-David, Graham, Harvey, and Payne (RFS, 2026) - The Persistence of Miscalibration"
+  file: "https://www.dropbox.com/scl/fi/29asmue5158cko2ly7jux/Boutros_BenDavid_Graham_Harvey_Payne_RFS_2026.pdf?rlkey=k2lns2onsvx9d8jigk11jidj3&dl=0"
+  desc: >-
+    This note summarizes the paper, which examines whether financial executives learn to calibrate
+    uncertainty using 28,413 one-year S&P 500 forecasts from 86 quarterly surveys spanning 2001-2023.
+    CFOs' intended 80% predictive intervals cover realized returns only 29.7% of the time, and average
+    implied volatility is 5.3%, versus realized volatility of 17.6%. Persistent individual differences
+    dominate interval-width variation, while repeated participation produces only modest improvements.
+    Naive regressions suggest that executives widen intervals after misses, but narrow prior intervals
+    are both more likely to miss and to widen through mean reversion. Conditioning on prior width
+    removes the apparent positive response; simulations illustrate why this adjustment matters. The
+    findings support persistent overprecision and limited spontaneous correction. However, voluntary
+    participation and nonrandom misses limit causal interpretation, and the survey provides neither
+    personalized feedback nor training, leaving the effectiveness of targeted interventions unresolved.
