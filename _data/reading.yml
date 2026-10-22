@@ -22324,3 +22324,20 @@
     interest-rate trade-off. These policy results remain conditional on calibrated currency portfolios,
     and the empirical dollarization interaction does not establish a causal effect of dollarization
     itself.
+- title: "Tate and Yang (RFS, 2024) - The Human Factor in Acquisitions: Cross-industry Labor Mobility and Corporate Diversification"
+  file: "https://www.dropbox.com/scl/fi/6ob5dyt8ohflvmp5k58py/Tate_Yang_RFS_2024.pdf?rlkey=cr77a12galb6cxn0jc069u55g&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies how transferable worker skills shape acquisition
+    choices and corporate diversification. Using approximately 11.5 million external job changes, the
+    authors construct a human capital transferability (HCT) index that captures industry relatedness
+    beyond product-market links. Firms acquire more frequently across high-HCT industry pairs,
+    especially when their employment fluctuations are less positively correlated, consistent with gains
+    from internal labor reallocation. High-HCT diversifying deals outperform other diversifying deals in
+    sales-per-employee growth and combined announcement returns. Using HCT measured among high-wage
+    workers, the estimated differentials are 0.299 log points and approximately 152 basis points,
+    respectively. High-skill target employees show stronger retention, while retained employees are
+    roughly 10-13 percentage points more likely to move into the acquirer's existing industries over one
+    to two years. The productivity advantage is larger under stronger noncompete enforcement, consistent
+    with internal labor markets saving external hiring costs. The findings support human-capital
+    economies of scope, although HCT remains an equilibrium mobility proxy and the legal-exposure
+    interactions do not establish an exogenous causal effect.
