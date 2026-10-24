@@ -22358,3 +22358,19 @@
     exposures, while contemporaneous forecast changes remain imperfect measures of exogenous fiscal
     news. The tractable model has constant conditional risk premia and retains a restrictive
     consumption-exchange-rate relationship, leaving richer risk-premium dynamics for further research.
+- title: "Carré and Klossner (RFS, 2024) - Banks as Liquidity Multipliers"
+  file: "https://www.dropbox.com/scl/fi/5e6csn72appbl6eq13118/Carre_Klossner_RFS_2024.pdf?rlkey=xcf6upi8o01zm7618syror3x5&dl=0"
+  desc: >-
+    This note summarizes the paper, which explains why banks hold low-yielding government bonds while
+    issuing runnable deposits. In a global-games model with endogenous liquid buffers, an additional
+    unit of bonds supports more than one additional unit of demandable debt while holding the run
+    threshold fixed. The buffer changes creditors' withdrawal incentives, so its contribution exceeds
+    its direct repayment capacity. Banks therefore value bonds as inputs into liquidity creation,
+    generating a government-bond liquidity premium above the premium on deposits and allowing optimal
+    bond holdings despite negative carry. In the baseline, banks' initial balance-sheet choices are
+    constrained efficient even though some subsequent runs inefficiently liquidate viable projects:
+    banks internalize liquidation losses and the liquidity value of deposits. Expanding costless public
+    liquidity raises welfare before liquidity satiation, yet equilibrium run risk can rise as banks
+    adjust debt issuance and risk targets. The analysis distinguishes a marginal multiplier at fixed
+    risk from the equilibrium response to greater bond supply. Its policy conclusions depend on the
+    absence of fire-sale externalities and the assumed costless provision of public liquidity.
