@@ -22428,3 +22428,18 @@
     to stock-return beliefs. These decompositions rely on lagged-belief instruments and identifying
     assumptions; socioeconomic status is not randomly assigned, purchase attitudes are not realized
     purchases, and long-run effects on wealth inequality are not estimated.
+- title: "Park, Sarkar, and Vats (JFE, 2026) - Political Voice and (Mortgage) Market Participation: Evidence from the dilution of Voting Rights Act"
+  file: "https://www.dropbox.com/scl/fi/i5jznx01858p91zbg0zl5/Park_Sarkar_Vats_JFE_2026.pdf?rlkey=u7yr4dggxjhmrafcggzfntubi&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies whether weakened voting-rights protection reduces
+    Black households' participation in mortgage and housing markets. Using the 2013 Shelby County
+    ruling, it compares changes in Black-White outcomes across historically covered and neighboring
+    uncovered counties. HMDA data for 2008-2019 and tract-level triple differences imply approximately
+    13.6% lower mortgage origination amounts and 6.7% fewer applications in the relative contrasts, with
+    little change in observed denial rates. Housing transactions also decline. Separate surveys report
+    lower institutional confidence, while increased cash purchases and applications to smaller lenders
+    historically serving Black borrowers support a confidence-related participation channel. However,
+    the mechanism is not causally isolated: unchanged denial rates among selected applicants cannot
+    exclude tighter credit supply or discouraged borrowing. Identification requires parallel evolution
+    of racial gaps across coverage boundaries; spillovers, nonrandom historical coverage, and unlinked
+    survey samples limit interpretation and national generalization.
