@@ -22479,3 +22479,21 @@
     theoretical comparative statics, conditional on commitment, distortionary taxation, information
     structures, and restrictions on voters' beliefs following unexpected promises, rather than estimates
     of transparency reforms.
+- title: "Adão, Arkolakis, and Ganapati (JPE, 2026) - From Heterogeneous Firms to Heterogeneous Trade Elasticities: The Aggregate Implications of Firm Export Decisions"
+  file: "https://www.dropbox.com/scl/fi/bxwh7ak08yc4v757onfgh/Adao_Arkolakis_Ganapati_JPE_2026.pdf?rlkey=ysmoxdctmrq5ck3fcifevznwa&dl=0"
+  desc: >-
+    This note summarizes the paper, which studies how firms' export decisions shape aggregate trade
+    elasticities and welfare without imposing a parametric distribution of firm fundamentals. In a
+    Melitz-style model with CES demand, two functions of the exporter firm share summarize entry
+    potential and revenue potential, determining participation, exporter composition, and bilateral
+    trade responses. These functions suffice for aggregate equilibrium in the baseline model; large
+    counterfactuals require their full shapes because marginal exporters change. Using 2012 data
+    covering 87 origins and 157 destinations, the authors estimate semiparametric gravity equations for
+    exporter participation and average exports. Pooled absolute trade-cost elasticities rise from
+    roughly 3.5 to 6.5 as exporter shares increase. Elasticities generally increase for developing
+    origins but decline for developed origins, while developed-to-developed trade is approximately
+    constant near four. Relative to a constant-elasticity benchmark, estimated gains from trade are
+    about 21–22% larger in developed countries and 17% smaller in developing countries, reflecting
+    domestic entry and selection. These welfare comparisons depend on CES demand, common distributional
+    shapes within groups, trade-cost exogeneity, inferred exporter shares, and tail assumptions used for
+    large shocks.
