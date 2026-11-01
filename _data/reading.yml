@@ -22497,3 +22497,20 @@
     domestic entry and selection. These welfare comparisons depend on CES demand, common distributional
     shapes within groups, trade-cost exogeneity, inferred exporter shares, and tail assumptions used for
     large shocks.
+- title: "Moskowitz, Ross, Ross, and Vasudevan (JF, 2026) - Risk, Specialization, and Covered-Interest Parity"
+  file: "https://www.dropbox.com/scl/fi/qfa93zyqlhwtuzosbxptj/Moskowitz_Ross_Ross_Vasudevan_JF_2026.pdf?rlkey=pniqpcguo5iu994ecbbaxn1cu&dl=0"
+  desc: >-
+    This note summarizes how risk, safe-asset search costs, and intermediary specialization shape
+    deviations from covered-interest parity. Using confidential FR 2052a supervisory data from January
+    2016 to March 2023, the paper studies nine major banks across six currencies and 14 maturities.
+    Banks hold only about $0.07 of perfectly maturity-matched, unencumbered foreign safe assets per
+    dollar of synthetic dollar lending, substituting into risky or maturity-mismatched assets. Greater
+    net dollar lending, lower safe-asset ratios, and higher supplier concentration are associated with
+    larger CIP deviations. The typical currency-tenor market has an effective number of suppliers near
+    three, and specialization persists across time and relates to banks' counterparty relationships and
+    loan books. A model combines common balance-sheet costs, safe-asset search costs, and heterogeneous
+    risk-management expertise to explain these patterns. During the March 2023 bank-run episode, markets
+    served more heavily by banks receiving larger deposit inflows experienced smaller basis dislocations
+    and greater net dollar lending. The evidence indicates that market-specific expertise and
+    risk-bearing capacity segment intermediation, while the effects of limited risk-sharing and market
+    power cannot be fully separated.
