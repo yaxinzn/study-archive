@@ -1047,7 +1047,22 @@
   desc: "This note summarizes the paper, which uses Japan's land-price collapse, pre-shock firm landholdings, Japanese manufacturing firm investment, Tobin's q, cash flow, land-to-capital ratios, LAD investment regressions, matched bank-firm lending data, relationship survival, loan growth, and bank fixed effects to study collateral and debt capacity, showing that firms with larger collateral losses received less bank credit and reduced investment more, even after controlling for bank health."
 - title: "Kline and Moretti (QJE, 2014) - Local Economic Development, Agglomeration Economies, and the Big Push: 100 Years of Evidence from the Tennessee Valley Authority"
   file: "https://www.dropbox.com/scl/fi/5x9b62awlfom1z2phqdiy/Kline_Moretti_QJE_2014.pdf?rlkey=ur0re0d1btflg6t65jr0yd1gp&dl=0"
-  desc: "This note summarizes the paper, which uses county-level data from 1900 to 2000, TVA treatment counties, proposed-but-unapproved regional authorities, Oaxaca-Blinder counterfactual growth regressions, placebo pretrend tests, manufacturing and agricultural employment outcomes, spatial equilibrium modeling, agglomeration estimates, and cost-benefit analysis to study place-based development policy, showing that TVA generated persistent local manufacturing gains and positive national returns mainly through direct infrastructure productivity rather than aggregate agglomeration gains."
+  desc: >-
+    This note summarizes the long-run local and national effects of the Tennessee Valley Authority
+    (TVA), a large place-based development program combining dams, electrification, and other
+    infrastructure investments. Comparisons with other U.S. counties, the South, and proposed but
+    unimplemented regional authorities use Oaxaca-Blinder reweighting based on preprogram
+    characteristics. Manufacturing employment continued to grow faster in TVA counties after federal
+    transfers largely ended, whereas agricultural employment gains reversed. A spatial equilibrium model
+    with mobile labor and capital separates direct infrastructure productivity effects from
+    manufacturing agglomeration. Dynamic panel IV estimates indicate strong but approximately
+    constant-elasticity agglomeration, implying that local gains from reallocating workers are largely
+    offset by losses in their origin regions. Estimated national benefits therefore arise mainly from
+    infrastructure's direct productivity effects, rather than a net agglomeration gain. The paper
+    estimates an 8.7% increase in local manufacturing productivity during 1940-1960 and discounted
+    national benefits of $23.8-36.5 billion against federal costs of $17.3 billion. The contribution
+    links persistent local development to national welfare while emphasizing selection, spillover, and
+    structural-model assumptions.
 - title: "Syverson (JPE, 2004) - Market Structure and Productivity: A Concrete Example"
   file: "https://www.dropbox.com/scl/fi/7hnjk19ew8o9czq9ov5ho/Syverson_JPE_2004.pdf?rlkey=kh3i8w6761306o3ournz8leig&dl=0"
   desc: "This note summarizes the paper, which uses U.S. ready-mixed concrete plant data, physical output in cubic yards, local CEA markets, demand density, TFP dispersion, median and output-weighted TFP, tenth-percentile TFP, producer-demand ratios, and spatial competition regressions to study market structure and productivity, showing that denser markets intensify substitutability and select out low-productivity plants, raising the productivity floor and reducing dispersion."
