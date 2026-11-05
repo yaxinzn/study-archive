@@ -22563,3 +22563,19 @@
     path dependence. The findings establish local gains rather than national welfare improvements, and
     their applicability to modern industrial policy depends on job quality and residents’ access to
     employment.
+- title: "Chang and Dasgupta (JF, 2009) - Target Behavior and Financing: How Conclusive Is the Evidence?"
+  file: "https://www.dropbox.com/scl/fi/5yhvhl7imeqdvqk5tu07f/Chang_Dasgupta_JF_2009.pdf?rlkey=deeoeuo5d6wt1jlwrjngeuczt&dl=0"
+  desc: >-
+    This note summarizes the paper, which examines whether standard capital-structure tests identify
+    target leverage behavior. Combining accounting derivations with simulations based on Compustat and
+    CRSP data for 1971–2004, the authors show that fixed-probability debt–equity choices can generate
+    substantial mean reversion, significant firm-characteristic coefficients, post-equity-issue
+    convergence, and apparent adjustment toward estimated targets. In the main fixed-effects regression,
+    lagged-leverage coefficients are 0.622 in actual data and 0.688 under fair-coin financing with
+    observed financing deficits. The mechanism is mechanical: debt and equity transactions affect
+    leverage asymmetrically at different initial ratios, while retained earnings and persistent
+    financing needs generate additional target-like patterns. These findings challenge the
+    identification of targeting from leverage dynamics rather than establish that firms lack targets.
+    More informative tests examine debt-versus-equity choices conditional on financing needs and assess
+    their incremental contribution to leverage convergence, while accounting for target measurement and
+    omitted determinants of financing choices.
