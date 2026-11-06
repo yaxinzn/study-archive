@@ -22579,3 +22579,18 @@
     More informative tests examine debt-versus-equity choices conditional on financing needs and assess
     their incremental contribution to leverage convergence, while accounting for target measurement and
     omitted determinants of financing choices.
+- title: "van Binsbergen, Diamond, and Grotteria (JFE, 2022) - Risk-Free Interest Rates"
+  file: "https://www.dropbox.com/scl/fi/51bl51w1lsb3a8hrsr7cs/vanBinsbergen_Diamond_Grotteria_JFE_2022.pdf?rlkey=xgeh0vnp8jmep4tzw6jlospfq&dl=0"
+  desc: >-
+    This note summarizes the paper, which estimates the risk-free rate embedded in risky asset prices
+    and distinguishes it from Treasury yields that include convenience benefits. Using European index
+    options over 2004–2018, the authors construct synthetic riskless payoffs and infer discount rates
+    from put–call price differences across strikes, without specifying an equity-risk model or
+    forecasting dividends. Option-implied rates exceed maturity-matched Treasury yields by roughly 40
+    basis points on average, with larger gaps during the financial crisis and additional convenience at
+    short maturities. QE1 announcements lower option-implied rates more than Treasury yields, indicating
+    transmission beyond purchased securities. Convenience-yield factors predict bond excess returns,
+    while option-based benchmarks reduce, but do not eliminate, dollar–yen covered-interest-parity
+    deviations. The findings show that Treasury-based spreads combine financial compensation with
+    convenience benefits. The interpretation applies to intermediaries active in both markets; midpoint
+    estimates need not equal borrowing rates available to every investor.
