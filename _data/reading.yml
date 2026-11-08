@@ -22608,3 +22608,19 @@
     college effect is smaller and imprecise, but the gender difference is not statistically significant.
     The estimates concern a bundled program and depend on extrapolation across excluded IQ scores
     114–116; bandwidth sensitivity and a wide confidence interval qualify the headline magnitude.
+- title: "Lee, Nathan, and Wang (JFE, 2026) - China Walls"
+  file: "https://www.dropbox.com/scl/fi/mzv21lo14hx2gogiddg8k/Lee_Nathan_Wang_JFE_2026.pdf?rlkey=voqxqo6w2eysxpoxyx11lptdu&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses 25.5 million Israeli foreign-exchange trades from
+    2018–2024 and event studies around dealers’ exceptionally large trades to examine information
+    sharing across financial conglomerates. Following the SEC’s July 2018 Mizuho settlement, affiliated
+    funds’ abnormal trading and hypothetical five-day profit advantages become statistically
+    undetectable, while unaffiliated relationship clients continue trading in the informed client’s
+    direction and earning higher future profits. The earlier disappearance for US-domiciled dealers
+    supports an enforcement interpretation. Affiliated funds’ effective spreads fall by 4.49 basis
+    points relative to independent funds, while dealers with affiliated funds raise spreads on
+    connected-client trades by 2.88 basis points relative to dealers without affiliates. These patterns
+    are consistent with reduced adverse selection against affiliated funds and weaker dealer incentives
+    to attract informative order flow. Evidence of slower price discovery is suggestive; information
+    transfers are inferred rather than observed directly, and the design does not establish zero leakage
+    or aggregate welfare gains.
