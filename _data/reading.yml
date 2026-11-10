@@ -22638,3 +22638,18 @@
     depends on the geography of subsequent shocks. The evidence supports learning without identifying a
     unique belief-updating process, and the model omits adaptation costs and a complete welfare
     assessment.
+- title: "Gan and Wu (JPE, 2026) - From Doubt to Devotion: Trials and Learning-Based Pricing"
+  file: "https://www.dropbox.com/scl/fi/oiy3qy2fvlyqzoi5bnziw/Gan_Wu_JPE_2026.pdf?rlkey=f9qq3zp8unokqw0tysvkm9i99&dl=0"
+  desc: >-
+    This note summarizes the paper, which develops a dynamic mechanism-design model in which a seller
+    privately knows product–buyer match quality and the buyer learns through consumption. A first
+    successful experience reveals both a good match and the buyer’s persistent valuation. Optimal
+    boundary contracts take the form of full-access trials followed by paid continuation for
+    sufficiently convinced, high-value buyers. Although an up-front sale maximizes ex ante revenue, a
+    high-match seller can sometimes profitably deviate to a free trial even under pessimistic buyer
+    beliefs. The D1 refinement selects the Myersonian trial length and continuation cutoff while
+    allowing a range of initial fees, creating inefficient exclusion and potentially making both seller
+    types worse off than if uninformed. When learning and service quality can be controlled separately,
+    optimal pricing becomes tiered: budget quality deteriorates to limit informed buyers’ outside
+    options and encourage upgrades. Welfare losses are model-dependent possibility results, not
+    empirical estimates or universal consequences of consumer data or freemium pricing.
