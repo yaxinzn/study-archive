@@ -22668,3 +22668,19 @@
     to perceived persistence and equilibrium expectations, with consumption effects depending on firm
     beliefs and monetary-policy responses. The experiments identify changes in reported expectations;
     aggregate inflation and consumption effects remain model implications.
+- title: "Asparouhova, Bossaerts, and Tran (JFE, 2027) - The role of financial markets in the unraveling of credit"
+  file: "https://www.dropbox.com/scl/fi/8nhnrrtejeky0elde6rm8/Asparouhova_Bossaerts_Tran_JFE_2027.pdf?rlkey=d4akhjv5379daqx39jfn77wa9&dl=0"
+  desc: >-
+    This note summarizes the paper, which uses laboratory credit-pool experiments to study how secondary
+    markets affect rollover, liquidation, and creditor payoffs. Claims initially exceed a growing pool’s
+    assets, producing a no-market benchmark of immediate liquidation under the model’s restrictions. In
+    28 main sessions, pools instead survive multiple rounds. Market sessions exhibit later ticket
+    redemptions and higher average net payoffs, while the positive pool-duration difference is
+    significant at 10% but not 5%. Selling claims reallocates exposure without withdrawing issuer
+    resources, allowing more funds to remain invested even when liquidation timing changes little.
+    Average payoffs across the main experiments are about 23% above the immediate-liquidation benchmark;
+    this is not the market-treatment effect. Gains are uneven: markets increase payoff inequality, and
+    roughly one-third of participants earn below the benchmark. First-round prices do not significantly
+    predict liquidation timing, despite trading prices exceeding realized average payouts. Unbalanced
+    treatment implementation and endogenous redemption decisions limit causal interpretation and
+    generalization to real credit markets.
