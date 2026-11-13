@@ -22684,3 +22684,21 @@
     predict liquidation timing, despite trading prices exceeding realized average payouts. Unbalanced
     treatment implementation and endogenous redemption decisions limit causal interpretation and
     generalization to real credit markets.
+- title: "Bertrand, Bombardini, Fisman, Trebbi, and Yegen (RES, 2026) - Investing in Influence: Investors, Portfolio Firms, and Political Giving"
+  file: "https://www.dropbox.com/scl/fi/69kbcoxffzclp3ewn0w9a/Bertrand_Bombardini_Fisman_Trebbi_Yegen_RES_2026.pdf?rlkey=3aw6l577rhyj6c3zoximz12ss&dl=0"
+  desc: >-
+    This note summarizes how institutional ownership can transmit asset managers’ political preferences
+    to portfolio firms. Linking institutional holdings to PAC donations over 1980–2018, the paper
+    studies firms’ giving to politicians supported by an investor before and after its first large
+    acquisition, triggered by a stake of at least 1%. The preferred estimate raises the conditional
+    donation-alignment gap by 1.34 percentage points, from 4.27 to 5.61 points: a roughly 31% increase
+    in this association, not in total donation dollars. A similar 1.32-point estimate for strict
+    indexers whose acquisitions are linked to index additions weakens explanations based solely on
+    politically motivated stock selection. Alignment also declines after complete divestment. Stronger
+    alignment during contentious governance episodes and major ESG crises, and for board-connected
+    acquisitions, is consistent with managers catering to influential investors. Larger effects for
+    privately owned and more partisan investment organizations, together with less giving to
+    business-relevant politicians as institutional ownership rises, suggest a role for personal
+    preferences. These mechanism tests remain indirect and subject to selection. The paper identifies
+    changes in donation alignment; it does not directly estimate effects on firm value, client returns,
+    public policy, or welfare.
