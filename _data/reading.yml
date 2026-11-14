@@ -22702,3 +22702,22 @@
     preferences. These mechanism tests remain indirect and subject to selection. The paper identifies
     changes in donation alignment; it does not directly estimate effects on firm value, client returns,
     public policy, or welfare.
+- title: "Choi, Dasgupta, and Oh (JFE, 2027) - Bond funds and credit risk"
+  file: "https://www.dropbox.com/scl/fi/oortlbwbgm9ny9o2l7an8/Choi_Dasgupta_Oh_JFE_2027.pdf?rlkey=jkz4odeg1pzw6hpr72cmpuc8h&dl=0"
+  desc: >-
+    This note summarizes how bond funds' concerns about future investor withdrawals can increase
+    issuers' credit risk through refinancing. In the model, flow-motivated managers bid less for weak
+    firms' replacement debt, increasing the shortfall equityholders must cover and potentially inducing
+    strategic default even when equity financing is available. Using active bond-fund holdings and
+    five-year CDS spreads for 926 firms over 2002–2022, a one-standard-deviation increase in fund
+    holding share is associated with about 13 basis points higher next-month CDS spreads. The
+    association is concentrated in BBB and high-yield firms and strengthens with weaker recent stock
+    returns and greater refinancing exposure. After major downgrades, funds reduce holdings relative to
+    a passive benchmark mainly at rollover, especially when secondary-market trading is difficult.
+    Formula-driven Morningstar upgrades attract inflows, raise ownership of existing portfolio firms,
+    and are followed by higher CDS spreads; Bill Gross's departure from PIMCO provides complementary
+    evidence on flow concerns. A historical-investment-universe instrument produces a positive
+    high-yield effect but a negative investment-grade estimate. Together, the evidence supports a
+    creditor-side refinancing channel, subject to the event designs' identifying assumptions. CDS
+    spreads also contain risk premia, current ownership only proxies future refinancing supply, and the
+    high-versus-low flow-concavity coefficient difference is not statistically significant.
