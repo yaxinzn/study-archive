@@ -22721,3 +22721,22 @@
     creditor-side refinancing channel, subject to the event designs' identifying assumptions. CDS
     spreads also contain risk premia, current ownership only proxies future refinancing supply, and the
     high-versus-low flow-concavity coefficient difference is not statistically significant.
+- title: "Tincani (JPE, 2026) - Peer Interactions in the Classroom"
+  file: "https://www.dropbox.com/scl/fi/waqi2xaui18ij60r2bqkv/Tincani_JPE_2026.pdf?rlkey=npetxo5r3zfj9otb1210xofw8&dl=0"
+  desc: >-
+    This note summarizes how classmates' home disruptions affect achievement through school responses
+    and competition for GPA rank. Using the 2010 Chilean earthquake, Tincani compares eighth-grade
+    cohorts in 2009 and 2011 and excludes schools involved in forced relocations. Expected home damage
+    combines ground shaking with predicted housing vulnerability. In the baseline test-score regression,
+    own damage lowers achievement by 0.028 outcome standard deviations, while average peer damage raises
+    it by 0.049, per unit on the individual-damage-standard-deviation scale. School expenditure evidence
+    is consistent with compensatory support contributing to the positive mean spillover. Greater
+    dispersion of peer damage benefits initially weaker students and harms initially stronger students;
+    its interaction with baseline achievement is -0.108 for test scores and -0.073 for GPA. This
+    heterogeneous pattern survives school-by-cohort fixed effects, while GPA rank shows no statistically
+    detectable response along the baseline-score distribution. A model in which students value both GPA
+    and its rank explains how changing peers' effort costs can alter achievement without detectable rank
+    changes. The evidence supports rank concerns as a plausible mechanism but does not uniquely identify
+    competitive preferences. Causal interpretation requires stable conditional vulnerability-achievement
+    relationships across cohorts; dispersion-related spending estimates are imprecise, and the results
+    are reduced-form equilibrium responses rather than a structural peer-effect multiplier.
