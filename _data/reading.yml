@@ -22740,3 +22740,21 @@
     competitive preferences. Causal interpretation requires stable conditional vulnerability-achievement
     relationships across cohorts; dispersion-related spending estimates are imprecise, and the results
     are reduced-form equilibrium responses rather than a structural peer-effect multiplier.
+- title: "Känzig (AER, 2026) - The Unequal Economic Consequences of Carbon Pricing"
+  file: "https://www.dropbox.com/scl/fi/323ldrymeppa49sxncyi8/Kanzig_AER_2026.pdf?rlkey=b1fbqjdwki8j635mwdbaiec0y&dl=0"
+  desc: >-
+    This note asks how unexpected carbon-policy tightening affects emissions and economic activity, why
+    its costs differ across households, and how indirect income and employment effects amplify the
+    burden. Känzig uses carbon futures price changes around 114 EU ETS regulatory announcements during
+    2005–2019, purged of pre-event predictability, as an external instrument in a VAR; local projections
+    extend the analysis to additional outcomes and household groups. A shock normalized to raise
+    consumer energy prices by 1% on impact reduces emissions by about 0.75%, GDP and consumption by
+    about 0.3%, and industrial production by nearly 1% at their respective troughs. Emissions remain
+    depressed after production largely recovers, while green-patent shares increase. British household
+    evidence shows larger, more persistent expenditure declines among low-income households, reflecting
+    both higher energy budget shares and income exposure in demand-sensitive sectors. The findings
+    support indirect demand amplification, but do not identify a precise causal mediation share, and
+    some between-group differences are imprecise. Targeted revenue recycling reduces consumption losses
+    by around 40% in a calibrated model, rather than an observed transfer experiment. Causal
+    interpretation requires instrument exclusion and the assumptions needed to recover the structural
+    shock.
