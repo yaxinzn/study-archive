@@ -22758,3 +22758,22 @@
     by around 40% in a calibrated model, rather than an observed transfer experiment. Causal
     interpretation requires instrument exclusion and the assumptions needed to recover the structural
     shock.
+- title: "Agrawal & Matsa (JFE, 2013) - Labor unemployment risk and corporate financing decisions"
+  file: "https://www.dropbox.com/scl/fi/t7oeri8r4w3cl5th5smzb/Agrawal_Matsa_JFE_2013.pdf?rlkey=hl02oouqiaiqr3fv838m03f8t&dl=0"
+  desc: >-
+    This note asks whether workers' unemployment risk affects corporate capital structure and whether
+    more generous unemployment insurance (UI) allows firms to borrow more by reducing the compensation
+    employees require for job-loss risk. Agrawal and Matsa use changes in US state UI benefit laws over
+    1950–2008, relating financing choices to lagged log maximum total benefits with firm and year fixed
+    effects, state and firm controls, and standard errors clustered by state. Higher benefits are
+    associated with higher market and book leverage and lower interest coverage. The controlled
+    market-leverage coefficient of 0.048 implies about 0.46 percentage points more leverage for a 10%
+    benefit increase, or 3.33 points for a doubling. Timing, neighboring-state, national-sales, and
+    profitability tests support the interpretation that worker insurance lowers a labor-related cost of
+    debt, although time-varying state confounders and imperfect employee-location measurement remain
+    concerns. Responses are generally stronger where expected unemployment costs are higher and firms
+    are more financially constrained; many subgroup differences are imprecisely estimated. A separate
+    calibration combines employment losses around defaults with external wage-premium estimates: the
+    present value of unemployment-risk compensation is about 0.57% of firm value for a BBB-rated firm
+    with UI, versus 1.54% without UI. These calibrated costs are distinct from the UI-law regression
+    estimates and do not directly establish a causal wage effect.
