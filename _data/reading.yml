@@ -22777,3 +22777,18 @@
     present value of unemployment-risk compensation is about 0.57% of firm value for a BBB-rated firm
     with UI, versus 1.54% without UI. These calibrated costs are distinct from the UI-law regression
     estimates and do not directly establish a causal wage effect.
+- title: "Erickson & Whited (RFS, 2012) - Treating Measurement Error in Tobin's q"
+  file: "https://www.dropbox.com/scl/fi/l4od9jkw9onycj508r243/Erickson_Whited_RFS_2012.pdf?rlkey=j6n3m6jixqvrs5yay668ppr0c&dl=0"
+  desc: >-
+    How does measurement error in Tobin’s q affect what investment regressions tell us about cash flow?
+    When observed q is a noisy measure of investment opportunities, cash flow can pick up some of their
+    effect on investment. Erickson and Whited compare higher-order moment estimators with lagged
+    instrumental variables and Arellano–Bond estimators in simulations calibrated to firm data.
+    Persistent measurement error can invalidate lagged instruments, while weak higher-order moments can
+    make the moment estimators imprecise. The authors develop a fourth-order identification diagnostic
+    and pool yearly estimates in unbalanced panels while accounting for firms observed in multiple
+    years. In the investment regressions in levels, scaling by capital stock gives an OLS cash-flow
+    coefficient of 0.068. The higher-order estimates range from 0.014 to 0.018 and are statistically
+    insignificant under bootstrap inference. When the variables are scaled by total assets, the
+    corrected coefficients range from 0.070 to 0.079 and remain significant. Cash-flow sensitivity alone
+    therefore cannot establish that firms face financing constraints.
