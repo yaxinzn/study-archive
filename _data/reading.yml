@@ -22817,3 +22817,15 @@
     detect manager fixed effects even when executives’ destinations are randomly reassigned. Once firm
     fixed effects are included, the authors find little evidence that a CEO’s policy choices persist
     across employers.
+- title: "Baker, Mendel & Wurgler (RFS, 2016) - Dividends as Reference Points: A Behavioral Signaling Approach"
+  file: "https://www.dropbox.com/scl/fi/yu1oancryzzudiui2vml0/Baker_Mendel_Wurgler_RFS_2016.pdf?rlkey=5ysrbl0twt0jijv6v5had82zc&dl=0"
+  desc: >-
+    Why do firms keep dividends unchanged, and why does a small cut move the stock price more than an
+    equally small increase? Baker, Mendel, and Wurgler model the last dividend as a reference point for
+    loss-averse investors. Raising the payout today leaves less cash to meet a higher benchmark
+    tomorrow, making the signal more costly for firms with weaker cash flows. In U.S. data, the
+    estimated announcement-return response near zero is about 76 basis points for a one-cent cut and 36
+    basis points for a one-cent increase, in opposite directions. The asymmetry is stronger after longer
+    streaks of unchanged dividends. For American depositary receipts, dollar-denominated dividend
+    changes show no statistically significant local asymmetry when the parent sets dividends in its home
+    currency.
