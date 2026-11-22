@@ -22829,3 +22829,14 @@
     streaks of unchanged dividends. For American depositary receipts, dollar-denominated dividend
     changes show no statistically significant local asymmetry when the parent sets dividends in its home
     currency.
+- title: "Abadie & Imbens (Econometrica, 2006) - Large Sample Properties of Matching Estimators for Average Treatment Effects"
+  file: "https://www.dropbox.com/scl/fi/pa93k7trnu1bfr21yd1gv/Abadie_Imbens_ECMA_2006.pdf?rlkey=s0edywbyv0jby5v8gdxmc2v4i&dl=0"
+  desc: >-
+    When does nearest-neighbour matching support valid inference about average treatment effects? Abadie
+    and Imbens study matching with replacement and a fixed number of matches per unit. Under their
+    assumptions, the estimator is consistent, but discrepancies between matched units shrink more slowly
+    as the number of continuous covariates rises. The resulting conditional bias can be large enough to
+    invalidate conventional root-N inference. Reusing the same control also gives its outcome more
+    weight. The authors derive variance estimators that account for this reuse and show that, even with
+    one continuous covariate, fixed-neighbour matching generally falls short of the semiparametric
+    efficiency bound.
