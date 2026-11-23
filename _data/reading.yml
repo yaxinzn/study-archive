@@ -22840,3 +22840,14 @@
     weight. The authors derive variance estimators that account for this reuse and show that, even with
     one continuous covariate, fixed-neighbour matching generally falls short of the semiparametric
     efficiency bound.
+- title: "Almeida, Campello & Galvao (RFS, 2010) - Measurement Errors in Investment Equations"
+  file: "https://www.dropbox.com/scl/fi/mv842e8uoq3jigs87k84t/Almeida_Campello_Galvao_RFS_2010.pdf?rlkey=j6sf9h3vr2jk465vwj6lzqyms&dl=0"
+  desc: >-
+    How does measurement error in Tobin’s q affect the apparent sensitivity of investment to cash flow?
+    Almeida, Campello, and Galvao compare the Erickson–Whited higher-moment estimator with panel
+    instrumental-variable estimators. In simulations, weak skewness in latent q and heteroscedasticity
+    can make the higher-moment estimates unreliable. Lagged instruments perform well when they are
+    relevant and the serial dependence in measurement errors permits their use. In the Compustat
+    application, instrumenting with lagged q raises the estimated q coefficient and lowers the cash-flow
+    coefficient relative to firm fixed effects. The remaining cash-flow sensitivity alone does not
+    identify financing constraints.
