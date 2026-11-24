@@ -22851,3 +22851,12 @@
     application, instrumenting with lagged q raises the estimated q coefficient and lowers the cash-flow
     coefficient relative to firm fixed effects. The remaining cash-flow sensitivity alone does not
     identify financing constraints.
+- title: "Lang & Stulz (JPE, 1994) - Tobin’s q, Corporate Diversification, and Firm Performance"
+  file: "https://www.dropbox.com/scl/fi/g07l9gvlx1iez0tlin2p7/Lang_Stulz_JPE_1994.pdf?rlkey=tzrfq22ltpkoqjy6b3cwcneo6&dl=0"
+  desc: >-
+    Do firms operating in several industries trade at a discount relative to specialized firms in the
+    same industries? Lang and Stulz compare each diversified firm’s Tobin’s q with a portfolio of
+    single-segment industry peers. In 1984, the estimated industry-adjusted discount is 0.43 q points
+    when all multisegment firms are grouped together. Firms that later diversify already tend to have
+    lower valuations than other single-segment firms. This selection leaves open how much of the
+    observed discount diversification itself causes.
