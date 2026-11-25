@@ -22860,3 +22860,12 @@
     when all multisegment firms are grouped together. Firms that later diversify already tend to have
     lower valuations than other single-segment firms. This selection leaves open how much of the
     observed discount diversification itself causes.
+- title: "Hausman & Taylor (ECMA, 1981) - Panel Data and Unobservable Individual Effects"
+  file: "https://www.dropbox.com/scl/fi/fge74add4nsw4q6ktv7sf/Hausman_Taylor_ECMA_1981.pdf?rlkey=13ukj25eavq22nxntgczrhsvi&dl=0"
+  desc: >-
+    How can a wage panel identify the coefficient on schooling when schooling stays constant for each
+    worker and may correlate with unobserved ability? Hausman and Taylor use changes within workers to
+    estimate the slopes on time-varying regressors. Worker averages of selected regressors then serve as
+    instruments for schooling, provided those averages predict schooling and are uncorrelated with the
+    permanent wage effect. The estimated log-wage coefficient per year of schooling rises from 0.0669
+    under pooled OLS to 0.1246 under the baseline Hausman–Taylor specification.
