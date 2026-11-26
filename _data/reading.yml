@@ -22869,3 +22869,13 @@
     instruments for schooling, provided those averages predict schooling and are uncorrelated with the
     permanent wage effect. The estimated log-wage coefficient per year of schooling rises from 0.0669
     under pooled OLS to 0.1246 under the baseline Hausman–Taylor specification.
+- title: "Card, Lee, Pei & Weber (ECMA, 2015) - Inference on Causal Effects in a Generalized Regression Kink Design"
+  file: "https://www.dropbox.com/scl/fi/rlam18foe1cyy04dmequy/Card_Lee_Pei_Weber_ECMA_2015.pdf?rlkey=2od3wwxqqfpg5e8vnf0sts397&dl=0"
+  desc: >-
+    How does the duration of unemployment respond to a higher daily benefit? In Austria, benefits rise
+    with prior earnings until the base benefit reaches a cap. Card, Lee, Pei, and Weber compare the
+    change in the slope of unemployment duration at that threshold with the change in the slope of
+    actual benefits. Under smooth selection and monotonicity, this ratio identifies a weighted average
+    of marginal benefit effects at the threshold. Three larger-bandwidth local linear estimates imply
+    that a 1% increase in benefits lengthens registered unemployment by about 1.4% to 1.9%. Only one of
+    the five local linear specifications has a robust 95% interval that excludes zero.
