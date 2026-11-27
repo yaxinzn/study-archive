@@ -22879,3 +22879,11 @@
     of marginal benefit effects at the threshold. Three larger-bandwidth local linear estimates imply
     that a 1% increase in benefits lengthens registered unemployment by about 1.4% to 1.9%. Only one of
     the five local linear specifications has a robust 95% interval that excludes zero.
+- title: "Busaba & Restrepo (JFE, 2022) - The \"7% solution\" and IPO (under)pricing"
+  file: "https://www.dropbox.com/scl/fi/nw5igxckaaolcj6c6m70p/Busaba_Restrepo_JFE_2022.pdf?rlkey=8nugoog0obhwqahfyvng69bv5&dl=0"
+  desc: >-
+    20-page reading notes on the 7% underwriting-fee regime and IPO (under)pricing. Explains the
+    fee-schedule kinks at $20 million and $100 million, the fuzzy regression kink and pooled IV designs,
+    identification assumptions, and the evidence on underpricing, offer-price adjustment, and total
+    valuation revision. Covers robustness checks and interpretation, with the original four figures and
+    seven tables.
